@@ -1,0 +1,1 @@
+# LibrePCB Translation Files
