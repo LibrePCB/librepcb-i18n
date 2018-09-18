@@ -618,17 +618,17 @@
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="250"/>
+        <location filename="../apps/librepcb/main.cpp" line="281"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="283"/>
+        <location filename="../apps/librepcb/main.cpp" line="314"/>
         <source>Cannot open the workspace</source>
         <translation>Cannot open the workspace</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="284"/>
+        <location filename="../apps/librepcb/main.cpp" line="315"/>
         <source>The workspace &quot;%1&quot; cannot be opened: %2</source>
         <translation>The workspace &quot;%1&quot; cannot be opened: %2</translation>
     </message>
@@ -9230,6 +9230,19 @@ Do you want to save them before closing the project?</translation>
 After applying you cannot undo this change.</source>
         <translation>Are you sure to reset all settings to their default values?
 After applying you cannot undo this change.</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <location filename="../apps/librepcb/main.cpp" line="246"/>
+        <source>Unstable file format!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/librepcb/main.cpp" line="247"/>
+        <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application could break your workspace, libraries or projects! It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
