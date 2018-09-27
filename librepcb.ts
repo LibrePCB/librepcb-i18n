@@ -3964,22 +3964,22 @@ Do you want to save them before closing it?</translation>
         <translation>Dependencies:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="126"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="127"/>
         <source>Save failed</source>
         <translation>Save failed</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="137"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="138"/>
         <source>Click here to choose an icon (PNG, 256x256px).</source>
         <translation>Click here to choose an icon (PNG, 256x256px).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="211"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="212"/>
         <source>Choose library icon</source>
         <translation>Choose library icon</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="212"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="213"/>
         <source>Portable Network Graphics (*.png)</source>
         <translation>Portable Network Graphics (*.png)</translation>
     </message>
@@ -7259,58 +7259,58 @@ Error Message:
         <translation>Update Library</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="175"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="176"/>
         <source>Scanning libraries (%p%)</source>
         <translation>Scanning libraries (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="349"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="350"/>
         <source>Add New Board</source>
         <translation>Add New Board</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="350"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="372"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="351"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="373"/>
         <source>Choose a name:</source>
         <translation>Choose a name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="350"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="351"/>
         <source>new_board</source>
         <translation>new_board</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="361"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="384"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="400"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="435"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="471"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="494"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="362"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="385"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="401"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="436"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="472"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="495"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="371"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="372"/>
         <source>Copy Board</source>
         <translation>Copy Board</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="373"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="374"/>
         <source>copy_of_%1</source>
         <translation>copy_of_%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="393"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="394"/>
         <source>Remove board</source>
         <translation>Remove board</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="394"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="395"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>Are you really sure to remove the board &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="426"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="427"/>
         <source>PDF Export</source>
         <translation>PDF Export</translation>
     </message>
@@ -8120,47 +8120,47 @@ Error Message:
         <translation>&lt;a href=&quot;https://en.wikipedia.org/wiki/Creative_Commons_license&quot;&gt;&lt;img src=&quot;:/img/status/info.png&quot; width=&quot;25&quot; height=&quot;25&quot;/&gt;&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="61"/>
+        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="62"/>
         <source>CC0-1.0 (no restrictions, recommended for open hardware projects)</source>
         <translation>CC0-1.0 (no restrictions, recommended for open hardware projects)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="63"/>
+        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="64"/>
         <source>CC-BY-4.0 (requires attribution)</source>
         <translation>CC-BY-4.0 (requires attribution)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="65"/>
+        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="66"/>
         <source>CC-BY-SA-4.0 (requires attribution + share alike)</source>
         <translation>CC-BY-SA-4.0 (requires attribution + share alike)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="140"/>
+        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="141"/>
         <source>Project&apos;s parent directory</source>
         <translation>Project&apos;s parent directory</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="161"/>
+        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="162"/>
         <source>Please enter a valid project name.</source>
         <translation>Please enter a valid project name.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="168"/>
+        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="169"/>
         <source>The location must be an existing directory.</source>
         <translation>The location must be an existing directory.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="176"/>
+        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="177"/>
         <source>Oops, could not determine a valid filepath.</source>
         <translation>Oops, could not determine a valid filepath.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="204"/>
+        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="205"/>
         <source>Invalid filepath</source>
         <translation>Invalid filepath</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="205"/>
+        <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="206"/>
         <source>The project&apos;s directory exists already and is not empty.</source>
         <translation>The project&apos;s directory exists already and is not empty.</translation>
     </message>
@@ -8790,33 +8790,33 @@ Do you want to save them before closing the project?</translation>
         <translation>Update Library</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="146"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="147"/>
         <source>Scanning libraries (%p%)</source>
         <translation>Scanning libraries (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="277"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="278"/>
         <source>Add schematic page</source>
         <translation>Add schematic page</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="278"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="279"/>
         <source>Choose a name:</source>
         <translation>Choose a name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="278"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="279"/>
         <source>New Page</source>
         <translation>New Page</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="288"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="330"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="289"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="331"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="320"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="321"/>
         <source>PDF Export</source>
         <translation>PDF Export</translation>
     </message>
