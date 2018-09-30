@@ -6348,54 +6348,54 @@ You need at least LibrePCB %1 to open it.
         <translation>It seems that the application was crashed while this project was open. Do you want to restore the last automatic backup?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="452"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="463"/>
         <source>Invalid schematic name: &quot;%1&quot;</source>
         <translation>Invalid schematic name: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="458"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="469"/>
         <source>The schematic exists already: &quot;%1&quot;</source>
         <translation>The schematic exists already: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="471"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="482"/>
         <source>There is already a schematic with the UUID &quot;%1&quot;!</source>
         <translation>There is already a schematic with the UUID &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="477"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="488"/>
         <source>There is already a schematic with the name &quot;%1&quot;!</source>
         <translation>There is already a schematic with the name &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="504"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="515"/>
         <source>There are still elements in the schematic &quot;%1&quot;!</source>
         <translation>There are still elements in the schematic &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="569"/>
-        <location filename="../libs/librepcb/project/project.cpp" line="585"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="580"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="596"/>
         <source>Invalid board name: &quot;%1&quot;</source>
         <translation>Invalid board name: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="574"/>
-        <location filename="../libs/librepcb/project/project.cpp" line="590"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="585"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="601"/>
         <source>The board exists already: &quot;%1&quot;</source>
         <translation>The board exists already: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="603"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="614"/>
         <source>There is already a board with the UUID &quot;%1&quot;!</source>
         <translation>There is already a board with the UUID &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="609"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="620"/>
         <source>There is already a board with the name &quot;%1&quot;!</source>
         <translation>There is already a board with the name &quot;%1&quot;!</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/project/project.cpp" line="658"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="669"/>
         <source>The project could not be saved!
 
 Error Message:
@@ -6413,22 +6413,22 @@ Error Message:
         </translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="749"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="760"/>
         <source>The project was opened in read-only mode.</source>
         <translation>The project was opened in read-only mode.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="841"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="852"/>
         <source>No schematic pages selected.</source>
         <translation>No schematic pages selected.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="850"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="861"/>
         <source>No schematic page with the index %1 found.</source>
         <translation>No schematic page with the index %1 found.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="859"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="870"/>
         <source>Unknown error while printing.</source>
         <translation>Unknown error while printing.</translation>
     </message>
