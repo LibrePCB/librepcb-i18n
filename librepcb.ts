@@ -2012,15 +2012,15 @@
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="168"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="510"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="552"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="563"/>
         <source>New Project</source>
         <translation>New Project</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="185"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="519"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="445"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="523"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="456"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="534"/>
         <source>Open Project</source>
         <translation>Open Project</translation>
     </message>
@@ -2121,86 +2121,86 @@
         <translation>Scanning libraries (%p%)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="271"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="272"/>
         <source>Could not create project</source>
         <translation>Could not create project</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="296"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="322"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="297"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="323"/>
         <source>Could not open project</source>
         <translation>Could not open project</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="381"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="607"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="382"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="618"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="446"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="457"/>
         <source>LibrePCB project files (%1)</source>
         <translation>LibrePCB project files (%1)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="471"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="482"/>
         <source>Workspace changed</source>
         <translation>Workspace changed</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="472"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="483"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation>The chosen workspace will be used after restarting the application.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="527"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="538"/>
         <source>Close Project</source>
         <translation>Close Project</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="533"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="655"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="684"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="544"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="666"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="695"/>
         <source>Remove from favorites</source>
         <translation>Remove from favorites</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="537"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="658"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="548"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="669"/>
         <source>Add to favorites</source>
         <translation>Add to favorites</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="542"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="661"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="686"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="553"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="672"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="697"/>
         <source>Update project library</source>
         <translation>Update project library</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="545"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="556"/>
         <source>Open</source>
         <translation>Open</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="554"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="587"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="565"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="598"/>
         <source>New Folder</source>
         <translation>New Folder</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="559"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="594"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="570"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="605"/>
         <source>Remove</source>
         <translation>Remove</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="587"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="598"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="595"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="606"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -2253,11 +2253,6 @@ Warning: This cannot be undone!</translation>
         <translation>WizardPage</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="17"/>
-        <source>Select Wor&amp;kspace Path</source>
-        <translation>Select Wor&amp;kspace Path</translation>
-    </message>
-    <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="20"/>
         <source>Please select a directory to open or create a LibrePCB workspace.</source>
         <translation>Please select a directory to open or create a LibrePCB workspace.</translation>
@@ -2272,9 +2267,14 @@ Workspaces are platform independent, so they can be used across different operat
 Workspaces are platform independent, so they can be used across different operating systems.</translation>
     </message>
     <message>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="17"/>
+        <source>Select Workspace Path</source>
+        <translation type="unfinished">Select Workspace Path</translation>
+    </message>
+    <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="51"/>
-        <source>Create a new workspace</source>
-        <translation>Create a new workspace</translation>
+        <source>Create a n&amp;ew workspace</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="61"/>
@@ -7969,8 +7969,8 @@ Error Message:
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_initialization.ui" line="14"/>
-        <source>Initiali&amp;zation</source>
-        <translation>Initiali&amp;zation</translation>
+        <source>Initialization</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_initialization.ui" line="23"/>
@@ -7991,16 +7991,16 @@ Error Message:
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_initialization.ui" line="63"/>
-        <source>Add Board</source>
-        <translation>Add Board</translation>
+        <source>Add B&amp;oard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>librepcb::project::editor::NewProjectWizardPage_Metadata</name>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="20"/>
-        <source>Project &amp;Metadata</source>
-        <translation>Project &amp;Metadata</translation>
+        <source>Project Metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="23"/>
