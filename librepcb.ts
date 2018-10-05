@@ -774,17 +774,27 @@
         <translation>Speak about LibrePCB with your friends and colleagues, or write about it in the internet! Write a blogpost, or create a video tutorial. We&apos;re happy if more people can get to know LibrePCB.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="58"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="292"/>
+        <source>Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="323"/>
+        <source>Copy to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="62"/>
         <source>For more information, please check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
         <translation>For more information, please check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="62"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="66"/>
         <source>Support sustainable development of LibrePCB by donating financially, either via &lt;a href=&apos;%1&apos;&gt;Patreon&lt;/a&gt; or via &lt;a href=&apos;%2&apos;&gt;Bitcoin&lt;/a&gt;!</source>
         <translation>Support sustainable development of LibrePCB by donating financially, either via &lt;a href=&apos;%1&apos;&gt;Patreon&lt;/a&gt; or via &lt;a href=&apos;%2&apos;&gt;Bitcoin&lt;/a&gt;!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="67"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="71"/>
         <source>Check out our &lt;a href=&apos;%1&apos;&gt;Contribution Guidelines&lt;/a&gt; if you&apos;re interested in development of LibrePCB!</source>
         <translation>Check out our &lt;a href=&apos;%1&apos;&gt;Contribution Guidelines&lt;/a&gt; if you&apos;re interested in development of LibrePCB!</translation>
     </message>
