@@ -6502,7 +6502,7 @@ Error Message:
         <translation>No component selected</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.ui" line="105"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.ui" line="108"/>
         <source>Variant:</source>
         <translation>Variant:</translation>
     </message>
