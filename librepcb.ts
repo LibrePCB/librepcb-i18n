@@ -1253,266 +1253,266 @@
 <context>
     <name>librepcb::GraphicsLayer</name>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="215"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="216"/>
         <source>References</source>
         <translation>References</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="218"/>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="251"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="217"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="235"/>
         <source>Sheet Frames</source>
         <translation>Sheet Frames</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="220"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="218"/>
         <source>Netlines</source>
         <translation>Netlines</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="222"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="219"/>
         <source>Netlabels</source>
         <translation>Netlabels</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="224"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="220"/>
         <source>Netlabel Anchors</source>
         <translation>Netlabel Anchors</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="226"/>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="266"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="221"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="244"/>
         <source>Documentation</source>
         <translation>Documentation</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="228"/>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="267"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="222"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="245"/>
         <source>Comments</source>
         <translation>Comments</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="229"/>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="269"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="223"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="246"/>
         <source>Guide</source>
         <translation>Guide</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="231"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="225"/>
         <source>Outlines</source>
         <translation>Outlines</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="232"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="226"/>
         <source>Grab Areas</source>
         <translation>Grab Areas</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="235"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="227"/>
         <source>Hidden Grab Areas</source>
         <translation>Hidden Grab Areas</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="238"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="228"/>
         <source>Names</source>
         <translation>Names</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="240"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="229"/>
         <source>Values</source>
         <translation>Values</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="241"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="230"/>
         <source>Optional Pins</source>
         <translation>Optional Pins</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="243"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="231"/>
         <source>Required Pins</source>
         <translation>Required Pins</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="246"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="232"/>
         <source>Pin Names</source>
         <translation>Pin Names</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="248"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="233"/>
         <source>Pin Numbers</source>
         <translation>Pin Numbers</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="252"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="236"/>
         <source>Board Outlines</source>
         <translation>Board Outlines</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="254"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="237"/>
         <source>Milling (PTH)</source>
         <translation>Milling (PTH)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="256"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="238"/>
         <source>Drills (NPTH)</source>
         <translation>Drills (NPTH)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="258"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="239"/>
         <source>Pads</source>
         <translation>Pads</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="260"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="240"/>
         <source>Vias</source>
         <translation>Vias</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="262"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="241"/>
         <source>Air Wires</source>
         <translation>Air Wires</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="263"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="242"/>
         <source>Measures</source>
         <translation>Measures</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="264"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="243"/>
         <source>Alignment</source>
         <translation>Alignment</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="271"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="248"/>
         <source>Top Placement</source>
         <translation>Top Placement</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="273"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="249"/>
         <source>Bot Placement</source>
         <translation>Bot Placement</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="276"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="250"/>
         <source>Top Documentation</source>
         <translation>Top Documentation</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="279"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="251"/>
         <source>Bot Documentation</source>
         <translation>Bot Documentation</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="281"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="252"/>
         <source>Top Grab Areas</source>
         <translation>Top Grab Areas</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="283"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="253"/>
         <source>Bot Grab Areas</source>
         <translation>Bot Grab Areas</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="286"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="254"/>
         <source>Top Hidden Grab Areas</source>
         <translation>Top Hidden Grab Areas</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="289"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="255"/>
         <source>Bot Hidden Grab Areas</source>
         <translation>Bot Hidden Grab Areas</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="291"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="256"/>
         <source>Top References</source>
         <translation>Top References</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="293"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="257"/>
         <source>Bot References</source>
         <translation>Bot References</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="295"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="258"/>
         <source>Top Names</source>
         <translation>Top Names</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="297"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="259"/>
         <source>Bot Names</source>
         <translation>Bot Names</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="299"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="260"/>
         <source>Top Values</source>
         <translation>Top Values</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="301"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="261"/>
         <source>Bot Values</source>
         <translation>Bot Values</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="303"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="262"/>
         <source>Top Courtyard</source>
         <translation>Top Courtyard</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="305"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="263"/>
         <source>Bot Courtyard</source>
         <translation>Bot Courtyard</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="307"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="264"/>
         <source>Top Stop Mask</source>
         <translation>Top Stop Mask</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="309"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="265"/>
         <source>Bot Stop Mask</source>
         <translation>Bot Stop Mask</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="312"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="266"/>
         <source>Top Solder Paste</source>
         <translation>Top Solder Paste</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="315"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="267"/>
         <source>Bot Solder Paste</source>
         <translation>Bot Solder Paste</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="317"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="268"/>
         <source>Top Finish</source>
         <translation>Top Finish</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="319"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="269"/>
         <source>Bot Finish</source>
         <translation>Bot Finish</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="321"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="270"/>
         <source>Top Glue</source>
         <translation>Top Glue</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="323"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="271"/>
         <source>Bot Glue</source>
         <translation>Bot Glue</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="326"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="273"/>
         <source>Top Copper</source>
         <translation>Top Copper</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="328"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="274"/>
         <source>Bot Copper</source>
         <translation>Bot Copper</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="331"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="277"/>
         <source>Inner Copper %1</source>
         <translation>Inner Copper %1</translation>
     </message>
@@ -3006,24 +3006,24 @@ p, li { white-space: pre-wrap; }
         <translation>Add new signal:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="412"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="407"/>
         <source>Could not add signal</source>
         <translation>Could not add signal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="426"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="421"/>
         <source>Could not remove signal</source>
         <translation>Could not remove signal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="446"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="483"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="537"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="441"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="478"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="532"/>
         <source>Could not edit signal</source>
         <translation>Could not edit signal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="564"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="559"/>
         <source>There is already a signal with the name &quot;%1&quot;.</source>
         <translation>There is already a signal with the name &quot;%1&quot;.</translation>
     </message>
@@ -3123,7 +3123,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="172"/>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="182"/>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="237"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="531"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="529"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -3133,12 +3133,12 @@ p, li { white-space: pre-wrap; }
         <translation>Add new symbol:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="471"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="469"/>
         <source>Could not add symbol</source>
         <translation>Could not add symbol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="512"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="510"/>
         <source>Could not change symbol</source>
         <translation>Could not change symbol</translation>
     </message>
@@ -3260,39 +3260,39 @@ p, li { white-space: pre-wrap; }
         <translation>Categories:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="155"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="157"/>
         <source>Save failed</source>
         <translation>Save failed</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="193"/>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="270"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="195"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="272"/>
         <source>Component not found!</source>
         <translation>Component not found!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="199"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="201"/>
         <source>Change component</source>
         <translation>Change component</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="214"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="216"/>
         <source>Could not set component</source>
         <translation>Could not set component</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="231"/>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="321"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="233"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="323"/>
         <source>Package not found!</source>
         <translation>Package not found!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="238"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="240"/>
         <source>Change package</source>
         <translation>Change package</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="257"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="259"/>
         <source>Could not set package</source>
         <translation>Could not set package</translation>
     </message>
