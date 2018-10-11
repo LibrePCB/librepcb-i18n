@@ -3798,17 +3798,17 @@ p, li { white-space: pre-wrap; }
         <translation>%1 - LibrePCB Library Editor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="117"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="118"/>
         <source>Scanning libraries (%p%)</source>
         <translation>Scanning libraries (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="358"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="356"/>
         <source>Remove library element</source>
         <translation>Remove library element</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="359"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="357"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the whole library element &quot;%1&quot;?
@@ -3821,24 +3821,24 @@ Are you still sure to delete the whole library element &quot;%1&quot;?
 This cannot be undone!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="376"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="374"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="475"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="473"/>
         <source>Failed to open category</source>
         <translation>Failed to open category</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="492"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="490"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation>You have unsaved changes in the library element.
 Do you want to save them before closing it?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="495"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="493"/>
         <source>Unsaved changes</source>
         <translation>Unsaved changes</translation>
     </message>
