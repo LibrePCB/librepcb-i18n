@@ -2977,7 +2977,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="324"/>
         <source>Default Value:</source>
-        <translation>Значение по умолчанию:</translation>
+        <translation> Значение по умолчанию:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="158"/>
@@ -3482,12 +3482,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="120"/>
         <source>&amp;Tools</source>
-        <translation>Инструменты</translation>
+        <translation>&amp;Инструменты</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="137"/>
         <source>&amp;View</source>
-        <translation>Вид</translation>
+        <translation>&amp;Вид</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="154"/>
@@ -3607,7 +3607,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="369"/>
         <source>R&amp;otate Counterclockwise</source>
-        <translation>Повернуть против часовой стрелки</translation>
+        <translation>П&amp;овернуть против часовой стрелки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="372"/>
@@ -3657,7 +3657,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="438"/>
         <source>R&amp;emove</source>
-        <translation>&amp;Удалить</translation>
+        <translation>&amp;Удаление</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="441"/>
@@ -5283,7 +5283,7 @@ Note: This is mandatory to publish the library on librepcb.org!</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="163"/>
         <source>Created:</source>
-        <translation>Дата создания:</translation>
+        <translation>Создан:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="180"/>
@@ -6343,19 +6343,7 @@ You need at least LibrePCB %1 to open it.
 Error Message:
 %1</source>
         <comment>variable count of error messages</comment>
-        <translation><numerusform>Проект не удалось сохранить!
-
-Сообщение об ошибке:
-%1</numerusform><numerusform>Проект не удалось сохранить!
-
-Сообщение об ошибке:
-%1</numerusform><numerusform>Проект не удалось сохранить!
-
-Сообщение об ошибке:
-%1</numerusform><numerusform>Проект не удалось сохранить!
-
-Сообщение об ошибке:
-%1</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="786"/>
@@ -6840,7 +6828,7 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="109"/>
         <source>&amp;View</source>
-        <translation>Вид</translation>
+        <translation>&amp;Вид</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="119"/>
@@ -6850,7 +6838,7 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="128"/>
         <source>&amp;Tools</source>
-        <translation>Инструменты</translation>
+        <translation>&amp;Инструменты</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="143"/>
@@ -6980,7 +6968,7 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="406"/>
         <source>R&amp;otate Counterclockwise</source>
-        <translation>Повернуть против часовой стрелки</translation>
+        <translation>П&amp;овернуть против часовой стрелки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="409"/>
@@ -7030,7 +7018,7 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="475"/>
         <source>R&amp;emove</source>
-        <translation>&amp;Удалить</translation>
+        <translation>&amp;Удаление</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="478"/>
