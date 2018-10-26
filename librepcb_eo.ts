@@ -3333,7 +3333,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="357"/>
         <source>Invalid name</source>
-        <translation type="unfinished"/>
+        <translation>Nomo malvalida</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="386"/>
@@ -4703,7 +4703,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="244"/>
         <source>Invalid name</source>
-        <translation type="unfinished"/>
+        <translation>Nomo malvalida</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="272"/>
