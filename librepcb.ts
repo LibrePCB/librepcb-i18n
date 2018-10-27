@@ -8963,7 +8963,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="74"/>
         <source>No device for the selected component found in the library! Please add a suitable device to your workspace library.</source>
-        <translation type="unfinished"></translation>
+        <translation>No device for the selected component found in the library! Please add a suitable device to your workspace library.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="86"/>

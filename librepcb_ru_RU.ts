@@ -2172,21 +2172,21 @@
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="546"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="668"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="697"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="671"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="700"/>
         <source>Remove from favorites</source>
         <translation>Убрать из избранного</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="550"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="671"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="674"/>
         <source>Add to favorites</source>
         <translation>Добавить в избранное</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="555"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="674"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="699"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="677"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="702"/>
         <source>Update project library</source>
         <translation>Обновить библиотеку проекта</translation>
     </message>
@@ -5607,18 +5607,18 @@ Are you really sure to remove &quot;%2&quot;?</source>
 <context>
     <name>librepcb::project::Board</name>
     <message>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="281"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="284"/>
         <source>There is already a device of the component instance &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="294"/>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="645"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="297"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="648"/>
         <source>There is already a netsegment with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="603"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="606"/>
         <source>There is already a device with the component instance &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
@@ -8941,42 +8941,47 @@ Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="39"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="44"/>
         <source>Device:</source>
         <translation>Устройство:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="49"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="74"/>
+        <source>No device for the selected component found in the library! Please add a suitable device to your workspace library.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="86"/>
         <source>Footprint:</source>
         <translation>Посадочное место:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="71"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="116"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="78"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="123"/>
         <source>Add Similar</source>
         <translation>Добавить похожее</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="85"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="130"/>
         <source>Auto-Add All</source>
         <translation>Автодобавить все</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="313"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="316"/>
         <source>Place Devices [%1]</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="435"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="448"/>
         <source>Add device to board</source>
         <translation>Добавить устройство на плату</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="461"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="474"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
