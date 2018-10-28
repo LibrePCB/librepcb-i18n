@@ -634,15 +634,6 @@
 <context>
     <name>librepcb</name>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="77"/>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="78"/>
-        <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="76"/>
-        <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="77"/>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="78"/>
-        <source>%1%2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="93"/>
         <source>Undo: %1</source>
         <translation type="unfinished"/>
@@ -686,31 +677,6 @@
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="71"/>
         <source>Mils</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="82"/>
-        <source>mm</source>
-        <translation>mm</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="84"/>
-        <source>μm</source>
-        <translation>μm</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="86"/>
-        <source>nm</source>
-        <translation>nm</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="88"/>
-        <source>″</source>
-        <translation>″</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="90"/>
-        <source>mils</source>
-        <translation>mils</translation>
     </message>
 </context>
 <context>
@@ -812,31 +778,6 @@
         <source>Capacitance</source>
         <translation>Capacità</translation>
     </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="40"/>
-        <source>μF</source>
-        <translation>μF</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="42"/>
-        <source>pF</source>
-        <translation>pF</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="43"/>
-        <source>nF</source>
-        <translation>nF</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="45"/>
-        <source>mF</source>
-        <translation>mF</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="46"/>
-        <source>F</source>
-        <translation>F</translation>
-    </message>
 </context>
 <context>
     <name>librepcb::AttrTypeFrequency</name>
@@ -844,36 +785,6 @@
         <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="39"/>
         <source>Frequency</source>
         <translation>Frequenza</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="40"/>
-        <source>Hz</source>
-        <translation>Hz</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="42"/>
-        <source>μHz</source>
-        <translation>μHz</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="43"/>
-        <source>mHz</source>
-        <translation>mHz</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="45"/>
-        <source>kHz</source>
-        <translation>kHz</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="46"/>
-        <source>MHz</source>
-        <translation>MHz</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="47"/>
-        <source>GHz</source>
-        <translation>GHz</translation>
     </message>
 </context>
 <context>
@@ -883,26 +794,6 @@
         <source>Inductance</source>
         <translation>Induttanza</translation>
     </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="40"/>
-        <source>mH</source>
-        <translation>mH</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="42"/>
-        <source>nH</source>
-        <translation>nH</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="43"/>
-        <source>μH</source>
-        <translation>μH</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="45"/>
-        <source>H</source>
-        <translation>H</translation>
-    </message>
 </context>
 <context>
     <name>librepcb::AttrTypeResistance</name>
@@ -910,31 +801,6 @@
         <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="39"/>
         <source>Resistance</source>
         <translation>Resistenza</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="40"/>
-        <source>Ω</source>
-        <translation>Ω</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="42"/>
-        <source>μΩ</source>
-        <translation>μΩ</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="43"/>
-        <source>mΩ</source>
-        <translation>mΩ</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="45"/>
-        <source>kΩ</source>
-        <translation>kΩ</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="46"/>
-        <source>MΩ</source>
-        <translation>MΩ</translation>
     </message>
 </context>
 <context>
@@ -951,36 +817,6 @@
         <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="39"/>
         <source>Voltage</source>
         <translation>Tensione</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="40"/>
-        <source>V</source>
-        <translation>V</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="42"/>
-        <source>nV</source>
-        <translation>nV</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="43"/>
-        <source>μV</source>
-        <translation>μV</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="44"/>
-        <source>mV</source>
-        <translation>mV</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="46"/>
-        <source>kV</source>
-        <translation>kV</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="47"/>
-        <source>MV</source>
-        <translation>MV</translation>
     </message>
 </context>
 <context>
@@ -1081,30 +917,9 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="62"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="85"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="117"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="140"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="172"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="195"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="227"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="250"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="282"/>
-        <source>mm</source>
-        <translation>mm</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="78"/>
         <source>Stop Mask Clearance:</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="101"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="156"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="211"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="266"/>
-        <source>%</source>
-        <translation>%</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="133"/>
@@ -1836,12 +1651,6 @@
         <translation>Altezza:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="65"/>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="160"/>
-        <source>mm</source>
-        <translation>mm</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="87"/>
         <source>Position:</source>
         <translation>Posizione:</translation>
@@ -1870,12 +1679,6 @@
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="192"/>
         <source>Auto-Rotate</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="203"/>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="247"/>
-        <source>%</source>
-        <translation>%</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="222"/>
@@ -7353,14 +7156,6 @@ Error Message:
         <translation>Posizione:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="70"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="104"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="132"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="152"/>
-        <source>mm</source>
-        <translation>mm</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="125"/>
         <source>Outer Size:</source>
         <translation type="unfinished"/>
@@ -7586,12 +7381,6 @@ Error Message:
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="59"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="97"/>
-        <source>mm</source>
-        <translation>mm</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="78"/>
         <source>Pos. Y:</source>
         <translation type="unfinished"/>
@@ -7600,11 +7389,6 @@ Error Message:
         <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="116"/>
         <source>Rotation:</source>
         <translation>Rotazione:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="135"/>
-        <source>°</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="154"/>
@@ -8812,12 +8596,6 @@ Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="79"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="117"/>
-        <source>mm</source>
-        <translation>mm</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="98"/>
         <source>Pos. Y:</source>
         <translation type="unfinished"/>
@@ -8826,11 +8604,6 @@ Do you want to save them before closing the project?</source>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="136"/>
         <source>Rotation:</source>
         <translation>Rotazione:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="155"/>
-        <source>°</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="174"/>
