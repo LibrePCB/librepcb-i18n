@@ -1993,7 +1993,7 @@
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="14"/>
         <source>LibrePCB ControlPanel</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB Pannello di controllo</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="53"/>
@@ -2010,7 +2010,7 @@
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="512"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="565"/>
         <source>New Project</source>
-        <translation type="unfinished"/>
+        <translation>Nuovo Progetto</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="185"/>
@@ -2018,7 +2018,7 @@
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="458"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="536"/>
         <source>Open Project</source>
-        <translation type="unfinished"/>
+        <translation>Apri Progetto</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="202"/>
@@ -2109,7 +2109,7 @@
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="559"/>
         <source>Close all open projects</source>
-        <translation type="unfinished"/>
+        <translation>Chiudi tutti i progetti aperti</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="564"/>
@@ -2119,7 +2119,7 @@
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="71"/>
         <source>Control Panel - LibrePCB %1</source>
-        <translation type="unfinished"/>
+        <translation>Pannello di controllo - LibrePCB %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="76"/>
@@ -3943,7 +3943,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="399"/>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="413"/>
@@ -5064,17 +5064,17 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="139"/>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Cartella</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="156"/>
         <source>Create Library</source>
-        <translation type="unfinished"/>
+        <translation>Crea Libreria</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="163"/>
         <source>License:</source>
-        <translation type="unfinished"/>
+        <translation>Licenza:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="175"/>
@@ -5095,7 +5095,7 @@ Note: This is mandatory to publish the library on librepcb.org!</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="213"/>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="228"/>
@@ -5215,7 +5215,7 @@ Note: This is mandatory to publish the library on librepcb.org!</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="311"/>
         <source>Directory exists already</source>
-        <translation type="unfinished"/>
+        <translation>Cartella già esistente</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="312"/>
@@ -5261,7 +5261,7 @@ Note: This is mandatory to publish the library on librepcb.org!</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="140"/>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="163"/>
@@ -5286,7 +5286,7 @@ Note: This is mandatory to publish the library on librepcb.org!</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="241"/>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Cartella</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="271"/>
@@ -6897,7 +6897,7 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="343"/>
         <source>Show Control Panel</source>
-        <translation type="unfinished"/>
+        <translation>Mostra pannello di controllo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="352"/>
@@ -7941,7 +7941,7 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizard.ui" line="14"/>
         <source>Create New Project</source>
-        <translation type="unfinished"/>
+        <translation>Crea un Nuovo Progetto</translation>
     </message>
 </context>
 <context>
@@ -8004,7 +8004,7 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="63"/>
         <source>License:</source>
-        <translation type="unfinished"/>
+        <translation>Licenza:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="70"/>
@@ -8478,7 +8478,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="328"/>
         <source>Show Control Panel</source>
-        <translation type="unfinished"/>
+        <translation>Mostra pannello di controllo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="337"/>
