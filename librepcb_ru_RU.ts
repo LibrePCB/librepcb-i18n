@@ -10,17 +10,17 @@
 <context>
     <name>AttributeType</name>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="73"/>
+        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="75"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="89"/>
+        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="91"/>
         <source>Invalid %1 value: &quot;%2&quot;</source>
         <translation>Неверное значение %1: &quot;%2&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="113"/>
+        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="117"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
         <translation>Неверный тип атрибута: &quot;%1&quot;</translation>
     </message>
@@ -780,6 +780,14 @@
     </message>
 </context>
 <context>
+    <name>librepcb::AttrTypeCurrent</name>
+    <message>
+        <location filename="../libs/librepcb/common/attributes/attrtypecurrent.cpp" line="39"/>
+        <source>Current</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::AttrTypeFrequency</name>
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="39"/>
@@ -793,6 +801,14 @@
         <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="39"/>
         <source>Inductance</source>
         <translation>Индуктивность</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::AttrTypePower</name>
+    <message>
+        <location filename="../libs/librepcb/common/attributes/attrtypepower.cpp" line="39"/>
+        <source>Power</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

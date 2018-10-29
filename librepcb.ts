@@ -786,7 +786,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypecurrent.cpp" line="39"/>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Current</translation>
     </message>
 </context>
 <context>
@@ -810,7 +810,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypepower.cpp" line="39"/>
         <source>Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Power</translation>
     </message>
 </context>
 <context>
