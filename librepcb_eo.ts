@@ -855,7 +855,7 @@
     <message>
         <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="57"/>
         <source>Unit</source>
-        <translation>Unito</translation>
+        <translation>Unuo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="59"/>
