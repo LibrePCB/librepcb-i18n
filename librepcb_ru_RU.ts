@@ -10,17 +10,17 @@
 <context>
     <name>AttributeType</name>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="73"/>
+        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="75"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="89"/>
+        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="91"/>
         <source>Invalid %1 value: &quot;%2&quot;</source>
         <translation>Неверное значение %1: &quot;%2&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="113"/>
+        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="117"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
         <translation>Неверный тип атрибута: &quot;%1&quot;</translation>
     </message>
@@ -634,15 +634,6 @@
 <context>
     <name>librepcb</name>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="77"/>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="78"/>
-        <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="76"/>
-        <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="77"/>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="78"/>
-        <source>%1%2</source>
-        <translation>%1%2</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="93"/>
         <source>Undo: %1</source>
         <translation>Отмена: %1</translation>
@@ -685,31 +676,6 @@
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="71"/>
         <source>Mils</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="82"/>
-        <source>mm</source>
-        <translation>мм</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="84"/>
-        <source>μm</source>
-        <translation> мкм</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="86"/>
-        <source>nm</source>
-        <translation>нм</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="88"/>
-        <source>″</source>
-        <translation>″</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="90"/>
-        <source>mils</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -812,30 +778,13 @@
         <source>Capacitance</source>
         <translation>Ёмкость</translation>
     </message>
+</context>
+<context>
+    <name>librepcb::AttrTypeCurrent</name>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="40"/>
-        <source>μF</source>
-        <translation>мкФ</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="42"/>
-        <source>pF</source>
-        <translation>пФ</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="43"/>
-        <source>nF</source>
-        <translation>нФ</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="45"/>
-        <source>mF</source>
-        <translation>мФ</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="46"/>
-        <source>F</source>
-        <translation>Ф</translation>
+        <location filename="../libs/librepcb/common/attributes/attrtypecurrent.cpp" line="39"/>
+        <source>Current</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -845,36 +794,6 @@
         <source>Frequency</source>
         <translation>Частота</translation>
     </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="40"/>
-        <source>Hz</source>
-        <translation>Гц</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="42"/>
-        <source>μHz</source>
-        <translation>мкГц</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="43"/>
-        <source>mHz</source>
-        <translation>мГц</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="45"/>
-        <source>kHz</source>
-        <translation>кГц</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="46"/>
-        <source>MHz</source>
-        <translation>МГц</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="47"/>
-        <source>GHz</source>
-        <translation>ГГц</translation>
-    </message>
 </context>
 <context>
     <name>librepcb::AttrTypeInductance</name>
@@ -883,25 +802,13 @@
         <source>Inductance</source>
         <translation>Индуктивность</translation>
     </message>
+</context>
+<context>
+    <name>librepcb::AttrTypePower</name>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="40"/>
-        <source>mH</source>
-        <translation>мГн</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="42"/>
-        <source>nH</source>
-        <translation>нГн</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="43"/>
-        <source>μH</source>
-        <translation>мкГн</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="45"/>
-        <source>H</source>
-        <translation>Гн</translation>
+        <location filename="../libs/librepcb/common/attributes/attrtypepower.cpp" line="39"/>
+        <source>Power</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -910,31 +817,6 @@
         <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="39"/>
         <source>Resistance</source>
         <translation>Сопротивление</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="40"/>
-        <source>Ω</source>
-        <translation>Ом</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="42"/>
-        <source>μΩ</source>
-        <translation>мкОм</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="43"/>
-        <source>mΩ</source>
-        <translation>мОм</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="45"/>
-        <source>kΩ</source>
-        <translation>кОм</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="46"/>
-        <source>MΩ</source>
-        <translation>МОм</translation>
     </message>
 </context>
 <context>
@@ -951,36 +833,6 @@
         <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="39"/>
         <source>Voltage</source>
         <translation>Напряжение</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="40"/>
-        <source>V</source>
-        <translation>В</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="42"/>
-        <source>nV</source>
-        <translation>нВ</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="43"/>
-        <source>μV</source>
-        <translation>мкВ</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="44"/>
-        <source>mV</source>
-        <translation>мВ</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="46"/>
-        <source>kV</source>
-        <translation>кВ</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="47"/>
-        <source>MV</source>
-        <translation>МВ</translation>
     </message>
 </context>
 <context>
@@ -1081,30 +933,9 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="62"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="85"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="117"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="140"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="172"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="195"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="227"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="250"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="282"/>
-        <source>mm</source>
-        <translation>мм</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="78"/>
         <source>Stop Mask Clearance:</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="101"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="156"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="211"/>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="266"/>
-        <source>%</source>
-        <translation>%</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="133"/>
@@ -1838,12 +1669,6 @@
         <translation>Высота:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="65"/>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="160"/>
-        <source>mm</source>
-        <translation>мм</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="87"/>
         <source>Position:</source>
         <translation>Положение:</translation>
@@ -1872,12 +1697,6 @@
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="192"/>
         <source>Auto-Rotate</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="203"/>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="247"/>
-        <source>%</source>
-        <translation>%</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="222"/>
@@ -2172,21 +1991,21 @@
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="546"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="668"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="697"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="671"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="700"/>
         <source>Remove from favorites</source>
         <translation>Убрать из избранного</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="550"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="671"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="674"/>
         <source>Add to favorites</source>
         <translation>Добавить в избранное</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="555"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="674"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="699"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="677"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="702"/>
         <source>Update project library</source>
         <translation>Обновить библиотеку проекта</translation>
     </message>
@@ -4601,24 +4420,24 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::library::editor::PackageEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="162"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="323"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="332"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="172"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="333"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="342"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="236"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="246"/>
         <source>Rotate</source>
         <translation>Повернуть</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="238"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="248"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="240"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="250"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
@@ -4917,24 +4736,24 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::library::editor::SymbolEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="157"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="306"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="315"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="168"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="317"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="326"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="229"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="240"/>
         <source>Rotate</source>
         <translation>Повернуть</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="231"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="242"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="233"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="244"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
@@ -5607,18 +5426,18 @@ Are you really sure to remove &quot;%2&quot;?</source>
 <context>
     <name>librepcb::project::Board</name>
     <message>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="281"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="284"/>
         <source>There is already a device of the component instance &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="294"/>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="645"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="297"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="648"/>
         <source>There is already a netsegment with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="603"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="606"/>
         <source>There is already a device with the component instance &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
@@ -6522,12 +6341,12 @@ Error Message:
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="468"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="473"/>
         <source>Invalid Selection</source>
         <translation>Неверный выбор</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="469"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="474"/>
         <source>Please select a component and a symbol variant.</source>
         <translation type="unfinished"/>
     </message>
@@ -6742,63 +6561,63 @@ Error Message:
 <context>
     <name>librepcb::project::editor::BES_Select</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="261"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="416"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="447"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="477"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="268"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="423"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="454"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="484"/>
         <source>Rotate</source>
         <translation>Повернуть</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="263"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="418"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="449"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="479"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="270"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="425"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="456"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="486"/>
         <source>Flip</source>
         <translation>Отразить</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="266"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="273"/>
         <source>Remove %1</source>
         <translation>Удалить %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="271"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="278"/>
         <source>Change Device</source>
         <translation>Изменить устройство</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="293"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="300"/>
         <source>Change Footprint</source>
         <translation>Изменить посадочное место</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="308"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="391"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="453"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="483"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="509"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="315"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="398"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="460"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="490"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="516"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="324"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="342"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="609"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="680"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="696"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="711"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="331"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="349"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="616"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="687"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="703"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="718"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="361"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="389"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="368"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="396"/>
         <source>Select Whole Segment</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="423"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="430"/>
         <source>Plane Properties</source>
         <translation type="unfinished"/>
     </message>
@@ -7379,14 +7198,6 @@ Error Message:
         <translation>Положение:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="70"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="104"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="132"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="152"/>
-        <source>mm</source>
-        <translation>мм</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="125"/>
         <source>Outer Size:</source>
         <translation type="unfinished"/>
@@ -7612,12 +7423,6 @@ Error Message:
         <translation>Поз. по X:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="59"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="97"/>
-        <source>mm</source>
-        <translation>мм</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="78"/>
         <source>Pos. Y:</source>
         <translation>Поз. по Y:</translation>
@@ -7626,11 +7431,6 @@ Error Message:
         <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="116"/>
         <source>Rotation:</source>
         <translation>Вращение:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="135"/>
-        <source>°</source>
-        <translation>°</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="154"/>
@@ -8336,57 +8136,57 @@ Do you want to save them before closing the project?</source>
 <context>
     <name>librepcb::project::editor::SES_Select</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="243"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="271"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="249"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="277"/>
         <source>Rotate</source>
         <translation>Повернуть</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="245"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="251"/>
         <source>Mirror</source>
         <translation>Зеркалировать</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="247"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="253"/>
         <source>Remove Symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="249"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="255"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="273"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="279"/>
         <source>Remove Net Label</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="275"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="281"/>
         <source>Rename Net Segment</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="469"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="475"/>
         <source>Change net of segment</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="470"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="476"/>
         <source>New net name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="476"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="482"/>
         <source>Change netsignal of netsegment</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="353"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="424"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="440"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="456"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="489"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="359"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="430"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="446"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="462"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="495"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -8845,12 +8645,6 @@ Do you want to save them before closing the project?</source>
         <translation>Поз. по X:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="79"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="117"/>
-        <source>mm</source>
-        <translation>мм</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="98"/>
         <source>Pos. Y:</source>
         <translation>Поз. по Y:</translation>
@@ -8859,11 +8653,6 @@ Do you want to save them before closing the project?</source>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="136"/>
         <source>Rotation:</source>
         <translation>Вращение:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="155"/>
-        <source>°</source>
-        <translation>°</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="174"/>
@@ -8929,42 +8718,47 @@ Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="39"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="44"/>
         <source>Device:</source>
         <translation>Устройство:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="49"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="74"/>
+        <source>No device for the selected component found in the library! Please add a suitable device to your workspace library.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="86"/>
         <source>Footprint:</source>
         <translation>Посадочное место:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="71"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="116"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="78"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="123"/>
         <source>Add Similar</source>
         <translation>Добавить похожее</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="85"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="130"/>
         <source>Auto-Add All</source>
         <translation>Автодобавить все</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="313"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="316"/>
         <source>Place Devices [%1]</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="435"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="448"/>
         <source>Add device to board</source>
         <translation>Добавить устройство на плату</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="461"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="474"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
