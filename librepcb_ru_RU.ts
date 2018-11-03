@@ -8774,12 +8774,12 @@ Do you want to save them before closing the project?</source>
 <context>
     <name>librepcb::workspace::WSI_AppLocale</name>
     <message>
-        <location filename="../libs/librepcb/workspace/settings/items/wsi_applocale.cpp" line="71"/>
+        <location filename="../libs/librepcb/workspace/settings/items/wsi_applocale.cpp" line="69"/>
         <source>System Language</source>
         <translation>Язык системы</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/settings/items/wsi_applocale.cpp" line="96"/>
+        <location filename="../libs/librepcb/workspace/settings/items/wsi_applocale.cpp" line="99"/>
         <source>Changing the language needs to restart the application.</source>
         <translation>Смена языка потребует перезапуска приложения.</translation>
     </message>
