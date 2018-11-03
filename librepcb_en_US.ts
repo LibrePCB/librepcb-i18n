@@ -8940,23 +8940,23 @@ Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="76"/>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="77"/>
         <source>Debug Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="132"/>
-        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="153"/>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="136"/>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="157"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="163"/>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="167"/>
         <source>Restore default settings</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="164"/>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="168"/>
         <source>Are you sure to reset all settings to their default values?
 After applying you cannot undo this change.</source>
         <translation type="unfinished"/>

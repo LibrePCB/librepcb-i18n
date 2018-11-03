@@ -8985,23 +8985,23 @@ Do you want to save them before closing the project?</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Репозитории используются для просмотра, скачивания и обновления библиотек.&lt;br/&gt;Вы можете добавить в список любой сервер, который поддерживает API LibrePCB.&lt;br/&gt;Официальные сервер LibrePCB - &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="76"/>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="77"/>
         <source>Debug Tools</source>
         <translation>Средства отладки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="132"/>
-        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="153"/>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="136"/>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="157"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="163"/>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="167"/>
         <source>Restore default settings</source>
         <translation>Восстановить настройки по умолчанию</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="164"/>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="168"/>
         <source>Are you sure to reset all settings to their default values?
 After applying you cannot undo this change.</source>
         <translation>Вы действительно хотите сбросить все настройки к значениям по умолчанию?
