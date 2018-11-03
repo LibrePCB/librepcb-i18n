@@ -297,7 +297,7 @@
 <context>
     <name>Length</name>
     <message>
-        <location filename="../libs/librepcb/common/units/length.cpp" line="395"/>
+        <location filename="../libs/librepcb/common/units/length.cpp" line="436"/>
         <source>Invalid length string: &quot;%1&quot;</source>
         <translation>Invalid length string: &quot;%1&quot;</translation>
     </message>
