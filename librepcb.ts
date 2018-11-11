@@ -2812,7 +2812,7 @@ p, li { white-space: pre-wrap; }
         <translation>Default Value:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="158"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="159"/>
         <source>Save failed</source>
         <translation>Save failed</translation>
     </message>
