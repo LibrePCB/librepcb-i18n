@@ -2799,7 +2799,7 @@ p, li { white-space: pre-wrap; }
         <translation>Значение по умолчанию:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="158"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="159"/>
         <source>Save failed</source>
         <translation>Неудачное сохранение</translation>
     </message>
