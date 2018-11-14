@@ -2373,7 +2373,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/cmd/cmdcomponentedit.cpp" line="38"/>
         <source>Edit component metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit component metadata</translation>
     </message>
 </context>
 <context>
@@ -2429,7 +2429,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cat/cmd/cmdlibrarycategoryedit.cpp" line="39"/>
         <source>Edit category metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit category metadata</translation>
     </message>
 </context>
 <context>
@@ -2437,7 +2437,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmd/cmdlibraryedit.cpp" line="38"/>
         <source>Edit library metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit library metadata</translation>
     </message>
 </context>
 <context>
@@ -2717,7 +2717,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.cpp" line="93"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.cpp" line="102"/>
@@ -2843,7 +2843,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="124"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="134"/>
@@ -3130,7 +3130,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="138"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="148"/>
@@ -3140,7 +3140,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="190"/>
         <source>Edit device metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit device metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="229"/>
@@ -3854,7 +3854,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="124"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="263"/>
@@ -3869,7 +3869,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="270"/>
         <source>Could not open file</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not open file</translation>
     </message>
 </context>
 <context>
@@ -4289,7 +4289,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.cpp" line="93"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.cpp" line="102"/>
@@ -4579,7 +4579,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="179"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="189"/>
@@ -4589,7 +4589,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="254"/>
         <source>Edit package metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit package metadata</translation>
     </message>
 </context>
 <context>
@@ -4895,7 +4895,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="163"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="173"/>
@@ -4905,7 +4905,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="238"/>
         <source>Edit symbol metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit symbol metadata</translation>
     </message>
 </context>
 <context>

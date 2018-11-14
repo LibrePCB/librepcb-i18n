@@ -2348,6 +2348,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>librepcb::library::CmdComponentEdit</name>
+    <message>
+        <location filename="../libs/librepcb/library/cmp/cmd/cmdcomponentedit.cpp" line="38"/>
+        <source>Edit component metadata</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::library::CmdComponentSignalEdit</name>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmd/cmdcomponentsignaledit.cpp" line="38"/>
@@ -2396,6 +2404,22 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>librepcb::library::CmdLibraryCategoryEdit</name>
+    <message>
+        <location filename="../libs/librepcb/library/cat/cmd/cmdlibrarycategoryedit.cpp" line="39"/>
+        <source>Edit category metadata</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::CmdLibraryEdit</name>
+    <message>
+        <location filename="../libs/librepcb/library/cmd/cmdlibraryedit.cpp" line="38"/>
+        <source>Edit library metadata</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::library::CmdPackagePadEdit</name>
     <message>
         <location filename="../libs/librepcb/library/pkg/cmd/cmdpackagepadedit.cpp" line="38"/>
@@ -2414,14 +2438,14 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::Library</name>
     <message>
-        <location filename="../libs/librepcb/library/library.cpp" line="63"/>
+        <location filename="../libs/librepcb/library/library.cpp" line="64"/>
         <source>The library directory does not have the suffix '.lplib':
 
 %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/library.cpp" line="201"/>
+        <location filename="../libs/librepcb/library/library.cpp" line="182"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
         <translation type="unfinished"/>
     </message>
@@ -2519,7 +2543,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::editor::CategoryListEditorWidgetBase</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/categorylisteditorwidget.cpp" line="115"/>
+        <location filename="../libs/librepcb/libraryeditor/common/categorylisteditorwidget.cpp" line="119"/>
         <source>Root category</source>
         <translation type="unfinished"/>
     </message>
@@ -2628,47 +2652,52 @@ p, li { white-space: pre-wrap; }
         <translation>Priskribo:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="59"/>
+        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="63"/>
         <source>Keywords:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="73"/>
+        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="77"/>
         <source>Author:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="87"/>
+        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="91"/>
         <source>Version:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="101"/>
+        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="105"/>
         <source>Deprecated:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="108"/>
+        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="112"/>
         <source>Category should no longer be used.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="122"/>
+        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="126"/>
         <source>Parent:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="162"/>
+        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="166"/>
         <source>Choose category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="190"/>
+        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="194"/>
         <source>Reset</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.cpp" line="110"/>
+        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.cpp" line="93"/>
+        <source>Invalid metadata</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.cpp" line="102"/>
         <source>Save failed</source>
         <translation type="unfinished"/>
     </message>
@@ -2739,57 +2768,62 @@ p, li { white-space: pre-wrap; }
         <translation>Priskribo:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="223"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="227"/>
         <source>Keywords:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="237"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="241"/>
         <source>Author:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="251"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="255"/>
         <source>Version:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="265"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="269"/>
         <source>Deprecated:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="272"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="276"/>
         <source>Component should no longer be used.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="279"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="283"/>
         <source>Categories:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="296"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="300"/>
         <source>Schematic-Only:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="303"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="307"/>
         <source>Component cannot be used in devices.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="310"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="314"/>
         <source>Prefix:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="324"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="328"/>
         <source>Default Value:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="159"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="124"/>
+        <source>Invalid metadata</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="134"/>
         <source>Save failed</source>
         <translation type="unfinished"/>
     </message>
@@ -3041,69 +3075,79 @@ p, li { white-space: pre-wrap; }
         <translation>Priskribo:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="317"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="321"/>
         <source>Keywords:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="331"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="335"/>
         <source>Author:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="345"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="349"/>
         <source>Version:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="359"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="363"/>
         <source>Deprecated:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="366"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="370"/>
         <source>Device should no longer be used.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="373"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="377"/>
         <source>Categories:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="157"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="138"/>
+        <source>Invalid metadata</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="148"/>
         <source>Save failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="195"/>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="272"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="190"/>
+        <source>Edit device metadata</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="229"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="306"/>
         <source>Component not found!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="201"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="235"/>
         <source>Change component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="216"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="250"/>
         <source>Could not set component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="233"/>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="323"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="267"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="357"/>
         <source>Package not found!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="240"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="274"/>
         <source>Change package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="259"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="293"/>
         <source>Could not set package</source>
         <translation type="unfinished"/>
     </message>
@@ -3111,7 +3155,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::editor::EditorWidgetBase</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="143"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="133"/>
         <source>WARNING: You have changed some important properties of this library element. This breaks all other elements which depend on this one! Maybe you want to create a new library element instead of modifying this one?</source>
         <translation type="unfinished"/>
     </message>
@@ -3677,12 +3721,12 @@ Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="91"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="92"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="91"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="92"/>
         <source>Invalid UUID</source>
         <translation type="unfinished"/>
     </message>
@@ -3725,68 +3769,78 @@ Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="309"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="312"/>
         <source>Name:</source>
         <translation>Nomo:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="323"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="326"/>
         <source>Description:</source>
         <translation>Priskribo:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="336"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="339"/>
         <source>Keywords:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="350"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="353"/>
         <source>Author:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="364"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="367"/>
         <source>Version:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="378"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="381"/>
         <source>Deprecated:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="385"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="388"/>
         <source>Library should no longer be used.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="399"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="402"/>
         <source>URL:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="413"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="416"/>
         <source>Dependencies:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="145"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="133"/>
         <source>Save failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="156"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="286"/>
         <source>Click here to choose an icon (PNG, 256x256px).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="234"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="124"/>
+        <source>Invalid metadata</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="263"/>
         <source>Choose library icon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="235"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="264"/>
         <source>Portable Network Graphics (*.png)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="270"/>
+        <source>Could not open file</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4199,7 +4253,12 @@ Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.cpp" line="111"/>
+        <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.cpp" line="93"/>
+        <source>Invalid metadata</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.cpp" line="102"/>
         <source>Save failed</source>
         <translation type="unfinished"/>
     </message>
@@ -4454,38 +4513,48 @@ Do you want to save them before closing it?</source>
         <translation>Priskribo:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="181"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="185"/>
         <source>Keywords:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="195"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="199"/>
         <source>Author:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="209"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="213"/>
         <source>Version:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="223"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="227"/>
         <source>Deprecated:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="230"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="234"/>
         <source>Package should no longer be used.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="237"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="241"/>
         <source>Categories:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="199"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="179"/>
+        <source>Invalid metadata</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="189"/>
         <source>Save failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="254"/>
+        <source>Edit package metadata</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4790,8 +4859,18 @@ Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="184"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="163"/>
+        <source>Invalid metadata</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="173"/>
         <source>Save failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="238"/>
+        <source>Edit symbol metadata</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4971,8 +5050,8 @@ Note: This is mandatory to publish the library on librepcb.org!</source>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="189"/>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="194"/>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="199"/>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="301"/>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="306"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="305"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="310"/>
         <source>Invalid Input</source>
         <translation type="unfinished"/>
     </message>
@@ -5007,37 +5086,37 @@ Note: This is mandatory to publish the library on librepcb.org!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="278"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="282"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="284"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="288"/>
         <source>Busy</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="285"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="289"/>
         <source>A download is already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="302"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="306"/>
         <source>Please enter a valid URL.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="307"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="311"/>
         <source>Please enter a valid directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="311"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="315"/>
         <source>Directory exists already</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="312"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="316"/>
         <source>The directory &quot;%1&quot; exists already.</source>
         <translation type="unfinished"/>
     </message>
