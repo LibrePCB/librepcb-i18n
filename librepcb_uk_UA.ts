@@ -1,13 +1,5 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="uk_UA" sourcelanguage="en" version="2.1">
 <context>
-    <name>Angle</name>
-    <message>
-        <location filename="../libs/librepcb/common/units/angle.cpp" line="110"/>
-        <source>Invalid angle string: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>AttributeType</name>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="75"/>
@@ -289,14 +281,6 @@
     <message>
         <location filename="../libs/librepcb/common/gridproperties.h" line="115"/>
         <source>Unknown grid type: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Length</name>
-    <message>
-        <location filename="../libs/librepcb/common/units/length.cpp" line="471"/>
-        <source>Invalid length string: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
 </context>
