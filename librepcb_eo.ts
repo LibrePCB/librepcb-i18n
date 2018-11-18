@@ -461,14 +461,6 @@
     </message>
 </context>
 <context>
-    <name>Ratio</name>
-    <message>
-        <location filename="../libs/librepcb/common/units/ratio.cpp" line="72"/>
-        <source>Invalid ratio string: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>SExpression</name>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="72"/>
