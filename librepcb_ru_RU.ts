@@ -2799,7 +2799,7 @@ p, li { white-space: pre-wrap; }
         <translation> Значение по умолчанию:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="158"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="159"/>
         <source>Save failed</source>
         <translation>Неудачное сохранение</translation>
     </message>
@@ -3785,22 +3785,22 @@ Do you want to save them before closing it?</source>
         <translation>Зависимости:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="144"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="145"/>
         <source>Save failed</source>
         <translation>Неудачное сохранение</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="155"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="156"/>
         <source>Click here to choose an icon (PNG, 256x256px).</source>
         <translation>Нажмите для выбора пиктограммы (PNG, 256x256px).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="233"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="234"/>
         <source>Choose library icon</source>
         <translation>Смена иконки библиотеки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="234"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="235"/>
         <source>Portable Network Graphics (*.png)</source>
         <translation type="unfinished"/>
     </message>
