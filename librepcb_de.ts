@@ -408,7 +408,7 @@
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="35"/>
         <source>Library Directories:</source>
-        <translation type="unfinished"/>
+        <translation>Library Verzeichnisse:</translation>
     </message>
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="121"/>
@@ -436,7 +436,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgduplicatepinname.cpp" line="40"/>
         <source>Duplicate pin name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Doppelter Pin-Name: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgduplicatepinname.cpp" line="41"/>
@@ -462,7 +462,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingauthor.cpp" line="37"/>
         <source>Author not set</source>
-        <translation type="unfinished"/>
+        <translation>Autor nicht bestimmt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingauthor.cpp" line="38"/>
@@ -475,7 +475,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingcategories.cpp" line="37"/>
         <source>No categories set</source>
-        <translation type="unfinished"/>
+        <translation>Keine Kategorien bestimmt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingcategories.cpp" line="38"/>
@@ -488,7 +488,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="37"/>
         <source>No default value set</source>
-        <translation type="unfinished"/>
+        <translation>Kein Standardwert bestimmt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="38"/>
@@ -687,7 +687,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/quazip/quazip/quagzipfile.cpp" line="60"/>
         <source>QIODevice::Append is not supported for GZIP</source>
-        <translation type="unfinished"/>
+        <translation>QIODevice::Append unterstützt kein GZIP</translation>
     </message>
     <message>
         <location filename="../libs/quazip/quazip/quagzipfile.cpp" line="66"/>
@@ -982,7 +982,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="292"/>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Details</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="323"/>
@@ -3160,7 +3160,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.ui" line="92"/>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symbole</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.ui" line="118"/>
@@ -3265,7 +3265,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="60"/>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symbole</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="62"/>
@@ -3976,7 +3976,7 @@ This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="477"/>
         <source>Failed to open category</source>
-        <translation type="unfinished"/>
+        <translation>Kategorie konnte nicht geöffnet werden</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="494"/>
@@ -3987,7 +3987,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="497"/>
         <source>Unsaved changes</source>
-        <translation type="unfinished"/>
+        <translation>Ungesicherte Änderungen</translation>
     </message>
 </context>
 <context>
@@ -4000,7 +4000,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/libraryelementchecklistwidget.h" line="108"/>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Details</translation>
     </message>
 </context>
 <context>
@@ -4031,7 +4031,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="92"/>
         <source>Invalid UUID</source>
-        <translation type="unfinished"/>
+        <translation>Ungültige UUID</translation>
     </message>
 </context>
 <context>
@@ -4044,17 +4044,17 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="45"/>
         <source>Component Categories</source>
-        <translation type="unfinished"/>
+        <translation>Komponenten-Kategorien</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="79"/>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symbole</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="113"/>
         <source>Package Categories</source>
-        <translation type="unfinished"/>
+        <translation>Gehäuse-Kategorien</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="147"/>
@@ -4069,7 +4069,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="215"/>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Bauteile</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="312"/>
@@ -4109,7 +4109,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="402"/>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="416"/>
@@ -4139,7 +4139,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="305"/>
         <source>Choose library icon</source>
-        <translation type="unfinished"/>
+        <translation>Wähle ein Library-Icon</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="306"/>
@@ -5316,7 +5316,7 @@ Note: This is mandatory to publish the library on librepcb.org!</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="213"/>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="228"/>
@@ -5482,7 +5482,7 @@ Note: This is mandatory to publish the library on librepcb.org!</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="140"/>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="163"/>
