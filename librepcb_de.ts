@@ -4059,12 +4059,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="147"/>
         <source>Packages</source>
-        <translation type="unfinished"/>
+        <translation>Gehäuse</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="181"/>
         <source>Components</source>
-        <translation type="unfinished"/>
+        <translation>Komponenten</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="215"/>
@@ -8630,7 +8630,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="236"/>
         <source>Components</source>
-        <translation type="unfinished"/>
+        <translation>Komponenten</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="257"/>
