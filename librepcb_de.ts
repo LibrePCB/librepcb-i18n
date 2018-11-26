@@ -1892,7 +1892,7 @@
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="500"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Über LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="573"/>
@@ -3326,7 +3326,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="247"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Über LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="255"/>
@@ -6866,12 +6866,12 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="540"/>
         <source>Project Settings</source>
-        <translation type="unfinished"/>
+        <translation>Projekt-Einstellungen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="552"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Über LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="560"/>
@@ -7728,7 +7728,7 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.cpp" line="187"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Warnung</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.cpp" line="187"/>
@@ -7741,7 +7741,7 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizard.ui" line="14"/>
         <source>Create New Project</source>
-        <translation type="unfinished"/>
+        <translation>Erstelle neues Projekt</translation>
     </message>
 </context>
 <context>
@@ -7905,7 +7905,7 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="184"/>
         <source>Error while saving the project</source>
-        <translation type="unfinished"/>
+        <translation>Fehler während dem Speichern des Projekts</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="227"/>
@@ -7977,7 +7977,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.ui" line="17"/>
         <source>Project Settings</source>
-        <translation type="unfinished"/>
+        <translation>Projekt-Einstellungen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.ui" line="33"/>
@@ -8253,7 +8253,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="284"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Über LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="292"/>
@@ -8743,12 +8743,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_applocale.cpp" line="69"/>
         <source>System Language</source>
-        <translation type="unfinished"/>
+        <translation>System-Sprache</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_applocale.cpp" line="99"/>
         <source>Changing the language needs to restart the application.</source>
-        <translation type="unfinished"/>
+        <translation>Eine Änderung der Sprache erfordert einen Neustart des Programms.</translation>
     </message>
 </context>
 <context>
@@ -8756,12 +8756,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_appearance.cpp" line="49"/>
         <source>Use OpenGL Hardware Acceleration</source>
-        <translation type="unfinished"/>
+        <translation>Nutze OpenGL Hardware-Beschleunigung</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_appearance.cpp" line="54"/>
         <source>This setting will be applied only to newly opened windows.</source>
-        <translation type="unfinished"/>
+        <translation>Diese Einstellung wird nur auf neu geöffnete Fenster angewandt.</translation>
     </message>
 </context>
 <context>
