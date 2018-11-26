@@ -2404,12 +2404,12 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacesettings.ui" line="36"/>
         <source>e.g. &quot;John Doe&quot;</source>
-        <translation type="unfinished"/>
+        <translation>bspw. &quot;Max Mustermann&quot;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacesettings.ui" line="43"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Beim Erstellen eines neuen Projektes oder Library wird dieser Name als Autor verwendet.</translation>
     </message>
 </context>
 <context>
@@ -8401,7 +8401,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="104"/>
         <source>Restore default settings</source>
-        <translation type="unfinished"/>
+        <translation>Setze Einstellungen auf Standardwerte zurück.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="105"/>
@@ -9171,7 +9171,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_debugtools.cpp" line="47"/>
         <source>Warning: Some of these settings may only work in DEBUG mode!</source>
-        <translation type="unfinished"/>
+        <translation>Warnung: Manche dieser Einstellungen funktionieren nur im DEBUG-Modus!</translation>
     </message>
 </context>
 <context>
@@ -9179,7 +9179,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_projectautosaveinterval.cpp" line="66"/>
         <source>Minutes (0 = disable autosave)</source>
-        <translation type="unfinished"/>
+        <translation>Minuten (0 = deaktiviert automatisches Speichern)</translation>
     </message>
 </context>
 <context>
@@ -9192,7 +9192,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_repositories.cpp" line="159"/>
         <source>The URL is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Diese URL ist nicht gültig.</translation>
     </message>
 </context>
 <context>
@@ -9200,12 +9200,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_user.cpp" line="55"/>
         <source>e.g. &quot;John Doe&quot;</source>
-        <translation type="unfinished"/>
+        <translation>bspw. &quot;Max Mustermann&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_user.cpp" line="58"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Beim Erstellen eines neuen Projektes oder Library wird dieser Name als Autor verwendet.</translation>
     </message>
 </context>
 <context>
@@ -9306,7 +9306,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="519"/>
         <source>The library &quot;%1&quot; does not exist in the library database.</source>
-        <translation type="unfinished"/>
+        <translation>Library &quot;%1&quot; ist nicht in der Datenbank vorhanden.</translation>
     </message>
 </context>
 <context>
@@ -9344,7 +9344,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="77"/>
         <source>Debug Tools</source>
-        <translation type="unfinished"/>
+        <translation>Debug Werkzeuge</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="136"/>
@@ -9355,13 +9355,13 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="167"/>
         <source>Restore default settings</source>
-        <translation type="unfinished"/>
+        <translation>Setze Einstellungen auf Standardwerte zurück.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="168"/>
         <source>Are you sure to reset all settings to their default values?
 After applying you cannot undo this change.</source>
-        <translation type="unfinished"/>
+        <translation>Möchten Sie wirklich alle Einstellungen auf ihre ursprüngliche Werte zurücksetzen? Diese Aktion kann nicht rückgängig gemacht werden. </translation>
     </message>
 </context>
 <context>
@@ -9369,7 +9369,7 @@ After applying you cannot undo this change.</source>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="252"/>
         <source>Unstable file format!</source>
-        <translation type="unfinished"/>
+        <translation>Instabiles Dateiformat!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="253"/>
