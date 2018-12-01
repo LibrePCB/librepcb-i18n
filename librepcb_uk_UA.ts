@@ -9,12 +9,12 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="91"/>
         <source>Invalid %1 value: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Невірне %1 значення: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="117"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Невірний тип атрибуту: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -91,7 +91,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="68"/>
         <source>Verbose output.</source>
-        <translation type="unfinished"/>
+        <translation>Детальний вивід</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="70"/>
@@ -111,7 +111,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="83"/>
         <source>file</source>
-        <translation type="unfinished"/>
+        <translation>файл</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="86"/>
@@ -126,7 +126,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="93"/>
         <source>name</source>
-        <translation type="unfinished"/>
+        <translation>ім&apos;я</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="96"/>
@@ -136,17 +136,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="114"/>
         <source>Path to project file (*.lpp).</source>
-        <translation type="unfinished"/>
+        <translation>Шлях до файлу проекта (*.lpp).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="121"/>
         <source>Unknown command &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Невідома команда &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
         <source>Commands:</source>
-        <translation type="unfinished"/>
+        <translation>Команди:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
@@ -181,12 +181,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="183"/>
         <source>SUCCESS</source>
-        <translation type="unfinished"/>
+        <translation>УСПІШНО</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="186"/>
         <source>Finished with errors!</source>
-        <translation type="unfinished"/>
+        <translation>Закінчено з помилками!</translation>
     </message>
 </context>
 <context>
@@ -195,7 +195,7 @@
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="75"/>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="168"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Каталог &quot;%1&quot; не існує.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="94"/>
@@ -248,12 +248,12 @@
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="99"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="165"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Каталог &quot;%1&quot; не існує.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="122"/>
         <source>The file or directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Файл або каталог &quot;%1&quot; не існує.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="132"/>
@@ -322,7 +322,7 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="75"/>
         <source>Errors:</source>
-        <translation type="unfinished"/>
+        <translation>Помилки:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="94"/>
