@@ -333,12 +333,12 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="200"/>
         <source>Converted Files:</source>
-        <translation type="unfinished"/>
+        <translation>Konvertierte Dateien:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="207"/>
         <source>UUID List File:</source>
-        <translation type="unfinished"/>
+        <translation>UUID Listendatei:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="214"/>
@@ -348,17 +348,17 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="223"/>
         <source>Symbols --&gt; Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symbole --&gt; Symbole</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="230"/>
         <source>Packages --&gt; Packages</source>
-        <translation type="unfinished"/>
+        <translation>Gehäuse --&gt; Gehäuse</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="237"/>
         <source>Devices --&gt; Components + Devices</source>
-        <translation type="unfinished"/>
+        <translation>Bauelement --&gt; Komponenten + Bauelement</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="244"/>
@@ -378,7 +378,7 @@
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="21"/>
         <source>Update Libraries!</source>
-        <translation type="unfinished"/>
+        <translation>Libraries aktualisieren!</translation>
     </message>
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="45"/>
@@ -413,7 +413,7 @@
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="121"/>
         <source>Library Elements:</source>
-        <translation type="unfinished"/>
+        <translation>Library Elemente:</translation>
     </message>
 </context>
 <context>
@@ -557,7 +557,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="37"/>
         <source>Missing text: &apos;{{NAME}}&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Fehlender Text: &apos;{{NAME}}&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="38"/>
@@ -570,7 +570,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="37"/>
         <source>Missing text: &apos;{{VALUE}}&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Fehlender Text: &apos;{{WERT}}&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="38"/>
