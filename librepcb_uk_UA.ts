@@ -55,7 +55,7 @@
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="44"/>
         <source>Failed to offset a path: %1</source>
-        <translation>Не вдалося змістити шлях: % 1</translation>
+        <translation>Не вдалося змістити шлях: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="218"/>
@@ -106,7 +106,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="80"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Експорт схеми до заданих файл(ів). Існуючі файли будуть перезаписані. Підтримувані розширення файлів: % 1</translation>
+        <translation>Експорт схеми до заданих файл(ів). Існуючі файли будуть перезаписані. Підтримувані розширення файлів: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="83"/>
@@ -116,12 +116,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="86"/>
         <source>Export PCB fabrication data (Gerber/Excellon) according the fabrication output settings of boards. Existing files will be overwritten.</source>
-        <translation type="unfinished"/>
+        <translation>Експорт PCB даних для виготовлення (Gerber/Excellon) відповідно до налаштувань виготовлення вихідних плат. Існуючі файли будуть перезаписані.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="90"/>
         <source>The name of the board(s) to export. Can be given multiple times. If not set, all boards are exported.</source>
-        <translation type="unfinished"/>
+        <translation>Назва плат(и) для експорту. Можна вказати кілька разів. Якщо не вказано,  то експортуються всі плати.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="93"/>
@@ -131,7 +131,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="96"/>
         <source>Save project before closing it (useful to upgrade file format).</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти проект перед його закриттям (корисно для оновлення формату файлу).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="114"/>
@@ -151,17 +151,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
         <source>LibrePCB CLI Version %1</source>
-        <translation type="unfinished"/>
+        <translation>Версія LibrePCB CLI: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="137"/>
         <source>Git Revision %1</source>
-        <translation type="unfinished"/>
+        <translation>Ревізія Git: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="138"/>
         <source>Qt Version %1 (compiled against %2)</source>
-        <translation type="unfinished"/>
+        <translation>Qt версія %1 (скомпільовано з %2)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="140"/>
@@ -171,12 +171,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="166"/>
         <source>Wrong argument count.</source>
-        <translation type="unfinished"/>
+        <translation>Невірна кількість аргументів.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="180"/>
         <source>Internal failure.</source>
-        <translation type="unfinished"/>
+        <translation>Внутрішня помилка.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="183"/>
@@ -200,12 +200,12 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="94"/>
         <source>The lock file &quot;%1&quot; has too few lines.</source>
-        <translation type="unfinished"/>
+        <translation>Файл блокування &quot;%1&quot; містить забагато рядків.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="146"/>
         <source>The directory is locked, check if it is already opened elsewhere: %1</source>
-        <translation type="unfinished"/>
+        <translation>Каталог заблоковано, перевірте чи не відкритий він в іншому місці: %1</translation>
     </message>
 </context>
 <context>
@@ -214,35 +214,35 @@
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="41"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="81"/>
         <source>The file &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Файл &quot;%1&quot; не існує.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="47"/>
         <source>Cannot open file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Неможливо відкрити файл &quot;%1&quot;:  %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="59"/>
         <source>Could not open or create file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Не вдається відкрити або створити файл &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="66"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="71"/>
         <source>Could not write to file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося записати в файл &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="85"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="104"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="127"/>
         <source>The file or directory &quot;%1&quot; exists already.</source>
-        <translation type="unfinished"/>
+        <translation>Файл або каталог &quot;%1&quot; вже існує.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="90"/>
         <source>Could not copy file &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося скопіювати файл &quot;%1&quot; у &quot;%2&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="99"/>
@@ -258,22 +258,22 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="132"/>
         <source>Could not move &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдається перемістити &quot;%1&quot; в &quot;%2&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="141"/>
         <source>Could not remove file &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося видалити файл &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="149"/>
         <source>Could not remove directory &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося видалити каталог &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="156"/>
         <source>Could not create directory or path &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося створити каталог або шлях &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -281,7 +281,7 @@
     <message>
         <location filename="../libs/librepcb/common/gridproperties.h" line="115"/>
         <source>Unknown grid type: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Невідомий тип сітки: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -289,35 +289,35 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="14"/>
         <source>LibrePCB Eagle Import</source>
-        <translation type="unfinished"/>
+        <translation>Імпорт з Eagle в LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="21"/>
         <source>Output Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Каталог виводу:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="28"/>
         <source>Input Files:</source>
-        <translation type="unfinished"/>
+        <translation>Вхідні файли:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="51"/>
         <source>0/0</source>
-        <translation type="unfinished"/>
+        <translation>0/0</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="61"/>
         <location filename="../apps/EagleImport/mainwindow.ui" line="111"/>
         <source>Converted Elements:</source>
-        <translation type="unfinished"/>
+        <translation>Перетворені елементи:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="68"/>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="59"/>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="28"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Закрити</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="75"/>
@@ -328,77 +328,77 @@
         <location filename="../apps/EagleImport/mainwindow.ui" line="94"/>
         <location filename="../apps/EagleImport/mainwindow.ui" line="124"/>
         <source>%v/%m</source>
-        <translation type="unfinished"/>
+        <translation>%v/%m</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="200"/>
         <source>Converted Files:</source>
-        <translation type="unfinished"/>
+        <translation>Перетворені файли:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="207"/>
         <source>UUID List File:</source>
-        <translation type="unfinished"/>
+        <translation>Файл списку UUID:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="214"/>
         <source>Convert:</source>
-        <translation type="unfinished"/>
+        <translation>Перетворити:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="223"/>
         <source>Symbols --&gt; Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Символи --&gt; Символи</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="230"/>
         <source>Packages --&gt; Packages</source>
-        <translation type="unfinished"/>
+        <translation>Пакети --&gt; Пакети</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="237"/>
         <source>Devices --&gt; Components + Devices</source>
-        <translation type="unfinished"/>
+        <translation>Пристрої --&gt; Компоненти + Пристрої</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="244"/>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="253"/>
         <source>Remove Duplicates:</source>
-        <translation type="unfinished"/>
+        <translation>Видалити копії:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="278"/>
         <source>RUN</source>
-        <translation type="unfinished"/>
+        <translation>ПУСК</translation>
     </message>
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="21"/>
         <source>Update Libraries!</source>
-        <translation type="unfinished"/>
+        <translation>Оновити бібліотеки!</translation>
     </message>
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="45"/>
         <source>Log:</source>
-        <translation type="unfinished"/>
+        <translation>Журнал:</translation>
     </message>
     <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="20"/>
         <source>UUID Generator</source>
-        <translation type="unfinished"/>
+        <translation>Генератор UUID</translation>
     </message>
     <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="33"/>
         <source>Generate Random UUID and Copy to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Створення випадкового UUID та копіювання в буфер обміну</translation>
     </message>
     <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="52"/>
         <source>Auto-Generate every Second</source>
-        <translation type="unfinished"/>
+        <translation>Генерувати кожну секунду</translation>
     </message>
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="14"/>
@@ -408,12 +408,12 @@
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="35"/>
         <source>Library Directories:</source>
-        <translation type="unfinished"/>
+        <translation>Каталоги бібліотеки:</translation>
     </message>
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="121"/>
         <source>Library Elements:</source>
-        <translation type="unfinished"/>
+        <translation>Бібліотечні елементи:</translation>
     </message>
 </context>
 <context>
@@ -462,12 +462,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingauthor.cpp" line="37"/>
         <source>Author not set</source>
-        <translation type="unfinished"/>
+        <translation>Автор не встановлений</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingauthor.cpp" line="38"/>
         <source>It is recommended to set an author (e.g. full name or nickname), although it&apos;s not required.</source>
-        <translation type="unfinished"/>
+        <translation>Рекомендується встановити автора (наприклад, повне ім&apos;я чи псевдонім), хоча це не обов&apos;язково.</translation>
     </message>
 </context>
 <context>
@@ -475,12 +475,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingcategories.cpp" line="37"/>
         <source>No categories set</source>
-        <translation type="unfinished"/>
+        <translation>Категорії не встановлено</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingcategories.cpp" line="38"/>
         <source>It&apos;s very important to assign every library element to at least one category. Otherwise it will be very hard to find the element in the workspace library, so it&apos;s highly recommended to fix this.</source>
-        <translation type="unfinished"/>
+        <translation>Дуже важливо присвоїти кожному бібліотечному елементу принаймні одну категорією. Інакше буде дуже важко знайти елемент у робочому просторі бібліотеки, тому дуже рекомендується це зробити.</translation>
     </message>
 </context>
 <context>
@@ -488,7 +488,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="37"/>
         <source>No default value set</source>
-        <translation type="unfinished"/>
+        <translation>Не встановлено значення за замовчуванням</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="38"/>
@@ -5351,7 +5351,7 @@ Note: This is mandatory to publish the library on librepcb.org!</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="298"/>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="313"/>
@@ -5602,7 +5602,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="69"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Закрити</translation>
     </message>
 </context>
 <context>
@@ -6456,7 +6456,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="95"/>
         <source>The file &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Файл &quot;% 1&quot; не існує.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="104"/>
