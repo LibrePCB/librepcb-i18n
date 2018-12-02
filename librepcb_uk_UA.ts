@@ -22,12 +22,12 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="38"/>
         <source>LibrePCB Default Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Правила проектування за замовчуванням</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="126"/>
         <source>Invalid design rules: %1</source>
-        <translation type="unfinished"/>
+        <translation>Помилкове правило проектування: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="144"/>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="44"/>
         <source>Failed to offset a path: %1</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося змістити шлях: % 1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="218"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="65"/>
         <source>LibrePCB Command Line Interface</source>
-        <translation type="unfinished"/>
+        <translation>Інтерфейс командного рядка LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="68"/>
@@ -96,17 +96,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="70"/>
         <source>The command to execute.</source>
-        <translation type="unfinished"/>
+        <translation>Команда для виконання.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="75"/>
         <source>Run the electrical rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Виконати перевірку електричних правил, вивести всі не затверджені попередження або помилки та повідомити про помилку (код завершення = 1) якщо є не затверджені повідомлення.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="80"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Експорт схеми до заданих файл(ів). Існуючі файли будуть перезаписані. Підтримувані розширення файлів: % 1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="83"/>
