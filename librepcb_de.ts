@@ -447,7 +447,7 @@
     <message>
         <location filename="../libs/quazip/quazip/quagzipfile.cpp" line="74"/>
         <source>You can open a gzip either for reading or for writing. Which is it?</source>
-        <translation type="unfinished"/>
+        <translation>Gzip kann gelesen oder geschrieben werden. Was wollen Sie tun?</translation>
     </message>
     <message>
         <location filename="../libs/quazip/quazip/quagzipfile.cpp" line="80"/>
@@ -460,12 +460,12 @@
     <message>
         <location filename="../libs/quazip/quazip/quaziodevice.cpp" line="147"/>
         <source>QIODevice::Append is not supported for QuaZIODevice</source>
-        <translation type="unfinished"/>
+        <translation>QuaZIODevice unterstützt kein QIODevice::Append</translation>
     </message>
     <message>
         <location filename="../libs/quazip/quazip/quaziodevice.cpp" line="152"/>
         <source>QIODevice::ReadWrite is not supported for QuaZIODevice</source>
-        <translation type="unfinished"/>
+        <translation>QuaZIODevice unterstützt kein QIODevice::ReadWrite</translation>
     </message>
 </context>
 <context>
@@ -473,7 +473,7 @@
     <message>
         <location filename="../libs/quazip/quazip/quazipfile.cpp" line="247"/>
         <source>ZIP/UNZIP API error %1</source>
-        <translation type="unfinished"/>
+        <translation>ZIP/UNZIP API Fehler %1</translation>
     </message>
 </context>
 <context>
@@ -533,12 +533,12 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/smartfile.cpp" line="66"/>
         <source>The file &quot;%1&quot; does not exist!</source>
-        <translation type="unfinished"/>
+        <translation>Datei &quot;%1&quot; existiert nicht!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/smartfile.cpp" line="89"/>
         <source>Cannot remove read-only file!</source>
-        <translation type="unfinished"/>
+        <translation>Kann schreibgeschützte Datei nicht löschen!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/smartfile.cpp" line="104"/>
@@ -551,7 +551,7 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/smartversionfile.cpp" line="81"/>
         <source>Could not read version number from &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Versionsnummer konnte nicht von &quot;%1&quot; gelesen werden: %2</translation>
     </message>
 </context>
 <context>
@@ -602,7 +602,7 @@
     <message>
         <location filename="../libs/librepcb/common/uuid.cpp" line="69"/>
         <source>String is not a valid UUID: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>String ist keine valide UUID: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -610,7 +610,7 @@
     <message>
         <location filename="../libs/librepcb/common/version.cpp" line="94"/>
         <source>Invalid version number: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Invalide Versionsnummer: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -623,12 +623,12 @@
     <message>
         <location filename="../apps/librepcb/main.cpp" line="317"/>
         <source>Cannot open the workspace</source>
-        <translation type="unfinished"/>
+        <translation>Konnte die Workspace nicht öffnen</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="318"/>
         <source>The workspace &quot;%1&quot; cannot be opened: %2</source>
-        <translation type="unfinished"/>
+        <translation>Die Workspace &quot;%1&quot; konnte nicht geöffnet werden: %2</translation>
     </message>
 </context>
 <context>
@@ -636,42 +636,42 @@
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="93"/>
         <source>Undo: %1</source>
-        <translation type="unfinished"/>
+        <translation>Verwerfen: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="95"/>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Verwerfe</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="100"/>
         <source>Redo: %1</source>
-        <translation type="unfinished"/>
+        <translation>Wiederherstelle: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="102"/>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Wiederherstellen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="63"/>
         <source>Millimeters</source>
-        <translation type="unfinished"/>
+        <translation>Millimeter</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="65"/>
         <source>Micrometers</source>
-        <translation type="unfinished"/>
+        <translation>Micrometer</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="67"/>
         <source>Nanometers</source>
-        <translation type="unfinished"/>
+        <translation>Nanometer</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="69"/>
         <source>Inches</source>
-        <translation type="unfinished"/>
+        <translation>Inch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="71"/>
@@ -685,7 +685,7 @@
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="14"/>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="74"/>
         <source>About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>Über LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="112"/>
@@ -695,12 +695,12 @@
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="120"/>
         <source>LibrePCB is a free &amp;amp; open source schematic/layout-editor. It is mainly developed by Urban Bruhin, with &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/graphs/contributors&quot;&gt;over a dozen other contributors&lt;/a&gt;!</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB ist eine freie &amp;amp; open source Schema/Layout-Editor. Es wird hauptsächlich von Urban Bruhin entwickelt mit der Hilfe von &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/graphs/contributors&quot;&gt; vielen Beitragenden&lt;/a&gt;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="163"/>
         <source>LibrePCB is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/blob/master/LICENSE.txt&quot;&gt;in our source code&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB ist eine freie Software unter der GNU General Public Lizenz (GPL) Version 3 oder höher. Der ganze Lizenztext ist &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/blob/master/LICENSE.txt&quot;&gt;im Quellcode&lt;/a&gt; nachlesbar.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="189"/>
@@ -715,7 +715,7 @@
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="213"/>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>Spenden</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="236"/>
@@ -730,7 +730,7 @@
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="259"/>
         <source>Spread The Word</source>
-        <translation type="unfinished"/>
+        <translation>Sage es weiter</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="266"/>
@@ -745,7 +745,7 @@
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="323"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>In die Zwischenablage kopieren</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="62"/>
@@ -776,7 +776,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="39"/>
         <source>Capacitance</source>
-        <translation type="unfinished"/>
+        <translation>Kapazität</translation>
     </message>
 </context>
 <context>
@@ -784,7 +784,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypecurrent.cpp" line="39"/>
         <source>Current</source>
-        <translation type="unfinished"/>
+        <translation>Strom</translation>
     </message>
 </context>
 <context>
@@ -792,7 +792,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="39"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frequenz</translation>
     </message>
 </context>
 <context>
@@ -800,7 +800,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="39"/>
         <source>Inductance</source>
-        <translation type="unfinished"/>
+        <translation>Induktivität</translation>
     </message>
 </context>
 <context>
@@ -808,7 +808,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypepower.cpp" line="39"/>
         <source>Power</source>
-        <translation type="unfinished"/>
+        <translation>Energie</translation>
     </message>
 </context>
 <context>
@@ -816,7 +816,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="39"/>
         <source>Resistance</source>
-        <translation type="unfinished"/>
+        <translation>Widerstand</translation>
     </message>
 </context>
 <context>
@@ -824,7 +824,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypestring.cpp" line="37"/>
         <source>String</source>
-        <translation type="unfinished"/>
+        <translation>String</translation>
     </message>
 </context>
 <context>
@@ -832,7 +832,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="39"/>
         <source>Voltage</source>
-        <translation type="unfinished"/>
+        <translation>Spannung</translation>
     </message>
 </context>
 <context>
@@ -845,22 +845,22 @@
     <message>
         <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="53"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="55"/>
         <source>Value</source>
-        <translation type="unfinished"/>
+        <translation>Wert</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="57"/>
         <source>Unit</source>
-        <translation type="unfinished"/>
+        <translation>Einheit</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="59"/>
         <source>Actions</source>
-        <translation type="unfinished"/>
+        <translation>Aktionen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="344"/>
@@ -1772,14 +1772,14 @@
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="171"/>
         <source>Undo: %1</source>
-        <translation type="unfinished"/>
+        <translation>Verwerfen: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="172"/>
         <location filename="../libs/librepcb/common/undostack.cpp" line="262"/>
         <location filename="../libs/librepcb/common/undostack.cpp" line="339"/>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Wiederherstellen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="206"/>
@@ -1791,7 +1791,7 @@
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="338"/>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Verwerfe</translation>
     </message>
 </context>
 <context>
@@ -2927,7 +2927,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="75"/>
         <source>Actions</source>
-        <translation type="unfinished"/>
+        <translation>Aktionen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="162"/>
@@ -2979,7 +2979,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="62"/>
         <source>Actions</source>
-        <translation type="unfinished"/>
+        <translation>Aktionen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="267"/>
