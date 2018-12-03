@@ -4,7 +4,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="75"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Unbekannte Einheit von Attribut Typ &quot;%1&quot;: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="91"/>
