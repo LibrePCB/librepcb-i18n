@@ -149,7 +149,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="121"/>
         <source>Unknown command &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Comando sconosciuto &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
@@ -164,7 +164,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="137"/>
         <source>Git Revision %1</source>
-        <translation type="unfinished"/>
+        <translation>Git Revisione %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="138"/>
@@ -184,7 +184,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="180"/>
         <source>Internal failure.</source>
-        <translation type="unfinished"/>
+        <translation>Errore interno</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="183"/>
@@ -194,7 +194,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="186"/>
         <source>Finished with errors!</source>
-        <translation type="unfinished"/>
+        <translation>Terminato con errori!</translation>
     </message>
 </context>
 <context>
@@ -227,7 +227,7 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="47"/>
         <source>Cannot open file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile apripre il file &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="59"/>
@@ -250,7 +250,7 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="90"/>
         <source>Could not copy file &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile copiare il file &quot;%1&quot; in &quot;%2&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="99"/>
