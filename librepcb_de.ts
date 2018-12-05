@@ -1862,7 +1862,7 @@
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="438"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Datei</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="450"/>
@@ -3266,7 +3266,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="14"/>
         <source>Library Editor</source>
-        <translation type="unfinished"/>
+        <translation>Library Editor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="48"/>
@@ -3276,52 +3276,52 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="84"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Datei</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="97"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bearbeiten</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="111"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hilfe</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="120"/>
         <source>&amp;Tools</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Werkzeuge</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="137"/>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ansicht</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="154"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Datei</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="170"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="190"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Ansicht</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="205"/>
         <source>Command</source>
-        <translation type="unfinished"/>
+        <translation>Befehl</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="218"/>
         <source>Tools</source>
-        <translation type="unfinished"/>
+        <translation>Werkzeuge</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="247"/>
@@ -6611,17 +6611,17 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="78"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Datei</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="91"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bearbeiten</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="109"/>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ansicht</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="119"/>
@@ -6631,12 +6631,12 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="128"/>
         <source>&amp;Tools</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Werkzeuge</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="143"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hilfe</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="152"/>
@@ -6646,7 +6646,7 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="175"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Datei</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="198"/>
@@ -6656,22 +6656,22 @@ Error Message:
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="212"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="232"/>
         <source>Tools</source>
-        <translation type="unfinished"/>
+        <translation>Werkzeuge</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="252"/>
         <source>Command</source>
-        <translation type="unfinished"/>
+        <translation>Befehl</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="264"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Ansicht</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="280"/>
@@ -8168,27 +8168,27 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="47"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Datei</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="62"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hilfe</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="71"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bearbeiten</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="88"/>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ansicht</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="99"/>
         <source>&amp;Tools</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Werkzeuge</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="108"/>
@@ -8198,7 +8198,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="125"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Datei</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="151"/>
@@ -8208,22 +8208,22 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="168"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="189"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Ansicht</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="202"/>
         <source>Tools</source>
-        <translation type="unfinished"/>
+        <translation>Werkzeuge</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="220"/>
         <source>Command</source>
-        <translation type="unfinished"/>
+        <translation>Befehl</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="236"/>
