@@ -3989,14 +3989,14 @@ p, li { white-space: pre-wrap; }
         <translation>Failed to open category</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="487"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="506"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation>You have unsaved changes in the library element.
 Do you want to save them before closing it?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="490"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="509"/>
         <source>Unsaved changes</source>
         <translation>Unsaved changes</translation>
     </message>
