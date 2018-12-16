@@ -1005,7 +1005,7 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="67"/>
         <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal or Bitcoin. Check out &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal or Bitcoin. Check out &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; for details.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="72"/>

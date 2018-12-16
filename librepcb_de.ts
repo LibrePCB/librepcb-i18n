@@ -996,7 +996,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="67"/>
-        <source>Support sustainable development of LibrePCB by donating financially, either via &lt;a href=&apos;%1&apos;&gt;Patreon&lt;/a&gt; or via &lt;a href=&apos;%2&apos;&gt;Bitcoin&lt;/a&gt;!</source>
+        <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal or Bitcoin. Check out &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; for details.</source>
         <translation type="unfinished"/>
     </message>
     <message>
