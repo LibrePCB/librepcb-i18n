@@ -768,12 +768,12 @@ Passive parts: Using an attribute, e.g. %3</translation>
         <translation>Invalid S-Expression list name: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="227"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="226"/>
         <source>Invalid S-Expression token: %1</source>
         <translation>Invalid S-Expression token: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="295"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="294"/>
         <source>File does not have exactly one root node.</source>
         <translation>File does not have exactly one root node.</translation>
     </message>
@@ -6628,12 +6628,12 @@ Error Message:
 <context>
     <name>librepcb::project::ProjectLibrary</name>
     <message>
-        <location filename="../libs/librepcb/project/library/projectlibrary.cpp" line="247"/>
+        <location filename="../libs/librepcb/project/library/projectlibrary.cpp" line="248"/>
         <source>There are multiple library elements with the same UUID in the directory &quot;%1&quot;</source>
         <translation>There are multiple library elements with the same UUID in the directory &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/library/projectlibrary.cpp" line="266"/>
+        <location filename="../libs/librepcb/project/library/projectlibrary.cpp" line="267"/>
         <source>There is already an element with the same UUID in the project&apos;s library: %1</source>
         <translation>There is already an element with the same UUID in the project&apos;s library: %1</translation>
     </message>
