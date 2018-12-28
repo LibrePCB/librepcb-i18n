@@ -3984,19 +3984,19 @@ p, li { white-space: pre-wrap; }
         <translation>Scanning libraries (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="470"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="473"/>
         <source>Failed to open category</source>
         <translation>Failed to open category</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="506"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="509"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation>You have unsaved changes in the library element.
 Do you want to save them before closing it?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="509"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="512"/>
         <source>Unsaved changes</source>
         <translation>Unsaved changes</translation>
     </message>
