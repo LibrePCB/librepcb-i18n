@@ -3128,14 +3128,14 @@ p, li { white-space: pre-wrap; }
         <translation>Не удалось удалить сигнал</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="440"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="477"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="531"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="444"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="481"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="535"/>
         <source>Could not edit signal</source>
         <translation>Не удалось изменить сигнал</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="558"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="562"/>
         <source>There is already a signal with the name &quot;%1&quot;.</source>
         <translation>Сигнал с именем &quot;%1&quot; уже существует.</translation>
     </message>
