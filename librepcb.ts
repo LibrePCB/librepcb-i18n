@@ -5300,17 +5300,17 @@ This cannot be undone!</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="57"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Select all</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="64"/>
         <source>Download and install/update selected libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Download and install/update selected libraries</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="80"/>
         <source>&lt;p&gt;Creates a new local library in the currently opened workspace.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Please specify all attributes in the english language (locale &apos;en_US&apos;). Support for other languages will be added in a later release of LibrePCB.&lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Creates a new local library in the currently opened workspace.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Please specify all attributes in the english language (locale &apos;en_US&apos;). Support for other languages will be added in a later release of LibrePCB.&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="97"/>
@@ -5350,12 +5350,12 @@ This cannot be undone!</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="198"/>
         <source>Put library under the Public Domain License CC0-1.0 (mandatory to publish it on librepcb.org).</source>
-        <translation type="unfinished"></translation>
+        <translation>Put library under the Public Domain License CC0-1.0 (mandatory to publish it on librepcb.org).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="259"/>
         <source>&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically. It&apos;s highly recommended to use &amp;quot;Download from repository&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically. It&apos;s highly recommended to use &amp;quot;Download from repository&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="220"/>
@@ -5645,12 +5645,12 @@ Are you really sure to remove &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.cpp" line="147"/>
         <source>Could not load library list</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not load library list</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.cpp" line="194"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>
@@ -5693,7 +5693,7 @@ Are you really sure to remove &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="209"/>
         <source>v%1</source>
-        <translation type="unfinished"></translation>
+        <translation>v%1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="211"/>
@@ -5703,7 +5703,7 @@ Are you really sure to remove &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="214"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Installed</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="221"/>
@@ -9356,7 +9356,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="355"/>
         <source>Library not found in workspace library: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Library not found in workspace library: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="374"/>

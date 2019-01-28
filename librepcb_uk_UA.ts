@@ -755,17 +755,17 @@ Passive parts: Using an attribute, e.g. %3</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="197"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="231"/>
         <source>Invalid S-Expression list name: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="226"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="260"/>
         <source>Invalid S-Expression token: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="294"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="302"/>
         <source>File does not have exactly one root node.</source>
         <translation type="unfinished"/>
     </message>
@@ -791,7 +791,7 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>SmartVersionFile</name>
     <message>
-        <location filename="../libs/librepcb/common/fileio/smartversionfile.cpp" line="81"/>
+        <location filename="../libs/librepcb/common/fileio/smartversionfile.cpp" line="79"/>
         <source>Could not read version number from &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -2069,15 +2069,15 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="168"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="512"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="566"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="575"/>
         <source>New Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="185"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="521"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="459"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="537"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="468"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="546"/>
         <source>Open Project</source>
         <translation type="unfinished"/>
     </message>
@@ -2193,86 +2193,86 @@ Passive parts: Using an attribute, e.g. %3</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="275"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="282"/>
         <source>Could not create project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="300"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="326"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="307"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="333"/>
         <source>Could not open project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="385"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="621"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="394"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="630"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="460"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="469"/>
         <source>LibrePCB project files (%1)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="485"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="494"/>
         <source>Workspace changed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="486"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="495"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="541"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="550"/>
         <source>Close Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="547"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="672"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="701"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="556"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="681"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="710"/>
         <source>Remove from favorites</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="551"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="675"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="560"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="684"/>
         <source>Add to favorites</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="556"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="678"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="703"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="565"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="687"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="712"/>
         <source>Update project library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="559"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="568"/>
         <source>Open</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="568"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="601"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="577"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="610"/>
         <source>New Folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="573"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="608"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="582"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="617"/>
         <source>Remove</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="601"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="610"/>
         <source>Name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="609"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="618"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -4000,17 +4000,17 @@ Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="59"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="50"/>
         <source>Choose library...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="92"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="102"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="92"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="102"/>
         <source>Invalid UUID</source>
         <translation type="unfinished"/>
     </message>
@@ -5253,108 +5253,112 @@ This cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="55"/>
-        <source>Download and install/update all selected libraries</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="63"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="74"/>
         <source>Create local library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="69"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Creates a new local library in the currently opened workspace. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Please specify all attributes in the english language (locale &apos;en_US&apos;).&lt;br&gt;Support for other languages will be added in a later release of LibrePCB.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="57"/>
+        <source>Select all</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="83"/>
-        <source>Name:</source>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="64"/>
+        <source>Download and install/update selected libraries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="80"/>
+        <source>&lt;p&gt;Creates a new local library in the currently opened workspace.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Please specify all attributes in the english language (locale &apos;en_US&apos;). Support for other languages will be added in a later release of LibrePCB.&lt;/span&gt;&lt;/p&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="97"/>
-        <source>Description:</source>
+        <source>Name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="111"/>
-        <source>Author:</source>
+        <source>Description:</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="125"/>
-        <source>Version:</source>
+        <source>Author:</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="139"/>
+        <source>Version:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="153"/>
         <source>Directory:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="156"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="170"/>
         <source>Create Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="163"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="177"/>
         <source>License:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="175"/>
-        <source>Put library under the Public Domain License (CC0-1.0).
-Note: This is mandatory to publish the library on librepcb.org!</source>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="198"/>
+        <source>Put library under the Public Domain License CC0-1.0 (mandatory to publish it on librepcb.org).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="195"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="259"/>
+        <source>&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically. It&apos;s highly recommended to use &amp;quot;Download from repository&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="220"/>
         <source>https://en.wikipedia.org/wiki/Creative_Commons_license</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="198"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="223"/>
         <source>&lt;a href=&quot;https://en.wikipedia.org/wiki/Creative_Commons_license&quot;&gt;&lt;img src=&quot;:/img/status/info.png&quot; width=&quot;25&quot; height=&quot;25&quot;/&gt;&lt;/a&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="213"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="238"/>
         <source>URL:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="228"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="253"/>
         <source>Download manually</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="234"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically.&lt;br/&gt;It&apos;s highly recommended to use &amp;quot;Download from repository&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="248"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="276"/>
         <source>URL to ZIP file:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="265"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="293"/>
         <source>Local directory:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="282"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="310"/>
         <source>Download Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="298"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="326"/>
         <source>Abort</source>
         <translation>Скасувати</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="313"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="341"/>
         <source>No error.</source>
         <translation type="unfinished"/>
     </message>
@@ -5372,79 +5376,79 @@ Note: This is mandatory to publish the library on librepcb.org!</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="164"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="169"/>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="174"/>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="179"/>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="184"/>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="189"/>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="194"/>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="199"/>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="305"/>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="310"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="292"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="297"/>
         <source>Invalid Input</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="175"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="165"/>
         <source>Please enter a name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="180"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="170"/>
         <source>Please enter an author.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="185"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="175"/>
         <source>The specified version number is not valid.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="190"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="180"/>
         <source>The specified URL is not valid.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="195"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="185"/>
         <source>Please enter a directory name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="200"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="190"/>
         <source>The specified directory exists already.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="282"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="269"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="288"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="275"/>
         <source>Busy</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="289"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="276"/>
         <source>A download is already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="306"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="293"/>
         <source>Please enter a valid URL.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="311"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="298"/>
         <source>Please enter a valid directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="315"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="302"/>
         <source>Directory exists already</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="316"/>
+        <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="303"/>
         <source>The directory &quot;%1&quot; exists already.</source>
         <translation type="unfinished"/>
     </message>
@@ -5525,32 +5529,32 @@ Note: This is mandatory to publish the library on librepcb.org!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="79"/>
+        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="84"/>
         <source>Yes - Consider switching to another library.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="80"/>
+        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="85"/>
         <source>No</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="83"/>
+        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="88"/>
         <source>Remote</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="83"/>
+        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="88"/>
         <source>Local</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="117"/>
+        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="123"/>
         <source>Remove Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="119"/>
+        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="125"/>
         <source>Attention! This will remove the whole library directory:
 
 %1
@@ -5559,7 +5563,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="137"/>
+        <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="136"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
@@ -5572,22 +5576,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.cpp" line="60"/>
-        <source>(remote)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.cpp" line="63"/>
-        <source>(local)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.cpp" line="76"/>
+        <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.cpp" line="68"/>
         <source>Add a new library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.cpp" line="77"/>
+        <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.cpp" line="69"/>
         <source>Click here to add a new library.</source>
         <translation type="unfinished"/>
     </message>
@@ -5600,9 +5594,19 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="69"/>
+        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="75"/>
         <source>Close</source>
         <translation>Закрити</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/librarymanager/librarymanager.cpp" line="147"/>
+        <source>Could not load library list</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/librarymanager/librarymanager.cpp" line="194"/>
+        <source>Error</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5613,59 +5617,62 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="53"/>
+        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="50"/>
         <source>Icon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="93"/>
+        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="89"/>
         <source>Name + Version</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="112"/>
+        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="146"/>
         <source>Description</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="131"/>
+        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="202"/>
         <source>Author</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="170"/>
+        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="123"/>
         <source>Installed Version</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="180"/>
-        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="138"/>
+        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="227"/>
         <source>Install</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="120"/>
-        <source>Installed: v%1</source>
+        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="209"/>
+        <source>v%1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="124"/>
+        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="211"/>
         <source>Update</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="132"/>
+        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="214"/>
+        <source>Installed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="221"/>
         <source>Recommended</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="142"/>
+        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="231"/>
         <source>Error: Invalid UUID</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="206"/>
-        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="209"/>
+        <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="162"/>
         <source>Download failed</source>
         <translation type="unfinished"/>
     </message>
@@ -9221,49 +9228,37 @@ Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="74"/>
+        <location filename="../libs/librepcb/workspace/workspace.cpp" line="76"/>
         <source>The workspace version %1 is not compatible with this application version.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="94"/>
+        <location filename="../libs/librepcb/workspace/workspace.cpp" line="96"/>
         <source>The workspace is already opened by another application instance or user!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="129"/>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="153"/>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="358"/>
+        <location filename="../libs/librepcb/workspace/workspace.cpp" line="235"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="130"/>
-        <source>Could not open local library %1: %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="154"/>
-        <source>Could not open remote library %1: %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="346"/>
+        <location filename="../libs/librepcb/workspace/workspace.cpp" line="223"/>
         <source>Select Workspace Path</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="350"/>
+        <location filename="../libs/librepcb/workspace/workspace.cpp" line="227"/>
         <source>Create new workspace?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="351"/>
+        <location filename="../libs/librepcb/workspace/workspace.cpp" line="228"/>
         <source>The specified workspace does not exist. Do you want to create a new workspace?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="359"/>
+        <location filename="../libs/librepcb/workspace/workspace.cpp" line="236"/>
         <source>Could not create the workspace!</source>
         <translation type="unfinished"/>
     </message>
@@ -9294,22 +9289,27 @@ Do you want to save them before closing the project?</source>
 <context>
     <name>librepcb::workspace::WorkspaceLibraryDb</name>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="261"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="355"/>
+        <source>Library not found in workspace library: &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="374"/>
         <source>Device not found in workspace library: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="447"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="576"/>
         <source>Endless loop in category parentship detected (%1).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="474"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="603"/>
         <source>The category &quot;%1&quot; does not exist in the library database.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="519"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="648"/>
         <source>The library &quot;%1&quot; does not exist in the library database.</source>
         <translation type="unfinished"/>
     </message>
