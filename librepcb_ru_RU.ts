@@ -823,22 +823,22 @@ Passive parts: Using an attribute, e.g. %3</source>
         <translation>proc_name() завершился с ошибкой %1.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="229"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="240"/>
         <source>Could not find the file &quot;/proc/version&quot;.</source>
         <translation>Не удалось найти файл &quot;/proc/version&quot;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="259"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="270"/>
         <source>OpenProcess() failed with error %1.</source>
         <translation>OpenProcess() завершился с ошибкой %1.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="268"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="279"/>
         <source>QueryFullProcessImageNameW() failed with error %1.</source>
         <translation>QueryFullProcessImageNameW() завершился с ошибкой %1.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="284"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="295"/>
         <source>Could not determine the process name of another process.</source>
         <translation>Не удалось определить имя другого процесса.</translation>
     </message>

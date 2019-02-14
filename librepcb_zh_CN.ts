@@ -819,22 +819,22 @@ Passive parts: Using an attribute, e.g. %3</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="229"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="240"/>
         <source>Could not find the file &quot;/proc/version&quot;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="259"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="270"/>
         <source>OpenProcess() failed with error %1.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="268"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="279"/>
         <source>QueryFullProcessImageNameW() failed with error %1.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="284"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="295"/>
         <source>Could not determine the process name of another process.</source>
         <translation>无法确定其他进程的进程名称。</translation>
     </message>
