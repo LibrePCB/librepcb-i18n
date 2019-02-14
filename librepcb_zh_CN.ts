@@ -3675,11 +3675,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="287"/>
-        <source>&amp;Save Element</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="290"/>
         <source>Ctrl+S</source>
         <translation type="unfinished"/>
@@ -3968,6 +3963,11 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="512"/>
         <source>Unsaved changes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="589"/>
+        <source>&amp;Save &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
 </context>

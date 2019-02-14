@@ -3998,7 +3998,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="589"/>
         <source>&amp;Save &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Save &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
