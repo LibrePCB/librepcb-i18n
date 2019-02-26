@@ -858,17 +858,17 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="288"/>
+        <location filename="../apps/librepcb/main.cpp" line="275"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="317"/>
+        <location filename="../apps/librepcb/main.cpp" line="304"/>
         <source>Cannot open the workspace</source>
         <translation>无法打开工作区</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="318"/>
+        <location filename="../apps/librepcb/main.cpp" line="305"/>
         <source>The workspace &quot;%1&quot; cannot be opened: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -2710,22 +2710,22 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="148"/>
+        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="143"/>
         <source>UUID mismatch between element directory and main file: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="189"/>
+        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="184"/>
         <source>Library element was opened in read-only mode: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="244"/>
+        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="239"/>
         <source>Library element directory name is not a valid UUID: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="264"/>
+        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="259"/>
         <source>Could not copy library element &quot;%1&quot; to &quot;%2&quot; because the destination exists already.</source>
         <translation type="unfinished"/>
     </message>
@@ -5698,22 +5698,22 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="139"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="129"/>
         <source>No device with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="148"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="138"/>
         <source>The device &quot;%1&quot; does not match with the componentinstance &quot;%2&quot;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="159"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="149"/>
         <source>No package with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="176"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="166"/>
         <source>Unknown signal &quot;%1&quot; found in device &quot;%2&quot;</source>
         <translation type="unfinished"/>
     </message>
@@ -5734,22 +5734,22 @@ Are you really sure to remove &quot;%2&quot;?</source>
 <context>
     <name>librepcb::project::BI_NetLine</name>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_netline.cpp" line="123"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netline.cpp" line="118"/>
         <source>Invalid trace anchor!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_netline.cpp" line="135"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netline.cpp" line="126"/>
         <source>Invalid board layer: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_netline.cpp" line="160"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netline.cpp" line="151"/>
         <source>The layer of netpoint &quot;%1&quot; is invalid (%2).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_netline.cpp" line="168"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netline.cpp" line="159"/>
         <source>BI_NetLine: both endpoints are the same.</source>
         <translation type="unfinished"/>
     </message>
@@ -5757,7 +5757,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
 <context>
     <name>librepcb::project::BI_NetPoint</name>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_netpoint.cpp" line="81"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netpoint.cpp" line="74"/>
         <source>Dead net point in board page &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -5771,26 +5771,26 @@ Are you really sure to remove &quot;%2&quot;?</source>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="110"/>
-        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="330"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="303"/>
         <source>There is already a via with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="147"/>
-        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="350"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="122"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="323"/>
         <source>There is already a netpoint with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="162"/>
-        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="369"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="135"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="342"/>
         <source>There is already a netline with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="171"/>
-        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="384"/>
-        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="439"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="144"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="357"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="412"/>
         <source>The netsegment with the UUID &quot;%1&quot; is not cohesive!</source>
         <translation type="unfinished"/>
     </message>
@@ -5819,18 +5819,18 @@ Are you really sure to remove &quot;%2&quot;?</source>
 <context>
     <name>librepcb::project::Board</name>
     <message>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="284"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="273"/>
         <source>There is already a device of the component instance &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="297"/>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="648"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="286"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="619"/>
         <source>There is already a netsegment with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="606"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="577"/>
         <source>There is already a device with the component instance &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
@@ -6349,32 +6349,32 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="275"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="270"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="296"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="291"/>
         <source>Invalid symbol item in circuit: &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="302"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="297"/>
         <source>Symbol item UUID already exists in circuit: &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="314"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="309"/>
         <source>All symbols of a component must be placed in the same schematic.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="413"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="408"/>
         <source>Unplaced required symbols of component &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="417"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="412"/>
         <source>Unplaced optional symbols of component &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -6499,54 +6499,54 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="463"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="360"/>
         <source>Invalid schematic name: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="469"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="366"/>
         <source>The schematic exists already: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="482"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="379"/>
         <source>There is already a schematic with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="488"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="385"/>
         <source>There is already a schematic with the name &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="515"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="412"/>
         <source>There are still elements in the schematic &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="606"/>
-        <location filename="../libs/librepcb/project/project.cpp" line="622"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="503"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="519"/>
         <source>Invalid board name: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="611"/>
-        <location filename="../libs/librepcb/project/project.cpp" line="627"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="508"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="524"/>
         <source>The board exists already: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="640"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="537"/>
         <source>There is already a board with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="646"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="543"/>
         <source>There is already a board with the name &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/project/project.cpp" line="695"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="592"/>
         <source>The project could not be saved!
 
 Error Message:
@@ -6555,22 +6555,22 @@ Error Message:
         <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="786"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="683"/>
         <source>The project was opened in read-only mode.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="555"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="452"/>
         <source>No schematic pages selected.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="564"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="461"/>
         <source>No schematic page with the index %1 found.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="573"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="470"/>
         <source>Unknown error while printing.</source>
         <translation type="unfinished"/>
     </message>
@@ -6599,12 +6599,12 @@ Error Message:
 <context>
     <name>librepcb::project::SI_NetLine</name>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_netline.cpp" line="60"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_netline.cpp" line="59"/>
         <source>Invalid trace anchor!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_netline.cpp" line="82"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_netline.cpp" line="81"/>
         <source>SI_NetLine: both endpoints are the same.</source>
         <translation type="unfinished"/>
     </message>
@@ -6612,7 +6612,7 @@ Error Message:
 <context>
     <name>librepcb::project::SI_NetPoint</name>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_netpoint.cpp" line="73"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_netpoint.cpp" line="66"/>
         <source>Dead net point in schematic page &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -6625,27 +6625,27 @@ Error Message:
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="83"/>
-        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="322"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="71"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="309"/>
         <source>There is already a netpoint with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="97"/>
-        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="341"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="84"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="328"/>
         <source>There is already a netline with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="110"/>
-        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="429"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="97"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="416"/>
         <source>There is already a netlabel with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="119"/>
-        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="356"/>
-        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="400"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="106"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="343"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="387"/>
         <source>The netsegment with the UUID &quot;%1&quot; is not cohesive!</source>
         <translation type="unfinished"/>
     </message>
@@ -6653,22 +6653,22 @@ Error Message:
 <context>
     <name>librepcb::project::SI_Symbol</name>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="83"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="64"/>
         <source>No component with the UUID &quot;%1&quot; found in the circuit!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="120"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="94"/>
         <source>No symbol with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="134"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="108"/>
         <source>The symbol pin UUID &quot;%1&quot; is defined multiple times.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="141"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="115"/>
         <source>The pin count of the symbol instance &quot;%1&quot; does not match with the pin-signal-map of its component.</source>
         <translation type="unfinished"/>
     </message>
@@ -6684,14 +6684,14 @@ Error Message:
 <context>
     <name>librepcb::project::Schematic</name>
     <message>
-        <location filename="../libs/librepcb/project/schematics/schematic.cpp" line="100"/>
-        <location filename="../libs/librepcb/project/schematics/schematic.cpp" line="261"/>
+        <location filename="../libs/librepcb/project/schematics/schematic.cpp" line="95"/>
+        <location filename="../libs/librepcb/project/schematics/schematic.cpp" line="256"/>
         <source>There is already a symbol with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/schematics/schematic.cpp" line="112"/>
-        <location filename="../libs/librepcb/project/schematics/schematic.cpp" line="298"/>
+        <location filename="../libs/librepcb/project/schematics/schematic.cpp" line="107"/>
+        <location filename="../libs/librepcb/project/schematics/schematic.cpp" line="293"/>
         <source>There is already a netsegment with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
@@ -9372,12 +9372,12 @@ After applying you cannot undo this change.</source>
 <context>
     <name>main</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="252"/>
+        <location filename="../apps/librepcb/main.cpp" line="239"/>
         <source>Unstable file format!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="253"/>
+        <location filename="../apps/librepcb/main.cpp" line="240"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application could break your workspace, libraries or projects! It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation type="unfinished"/>
     </message>
