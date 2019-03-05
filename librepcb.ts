@@ -1992,32 +1992,32 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="70"/>
         <source>Restore autosave backup?</source>
-        <translation type="unfinished"></translation>
+        <translation>Restore autosave backup?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="71"/>
         <source>It seems that the application was crashed the last time. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"></translation>
+        <translation>It seems that the application was crashed the last time. Do you want to restore the last autosave backup?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="197"/>
         <source>File &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>File &apos;%1&apos; does not exist.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="240"/>
         <source>Failed to create the ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to create the ZIP file &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="364"/>
         <source>Failed to write file &apos;%1&apos; to &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to write file &apos;%1&apos; to &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="376"/>
         <source>File system is read-only.</source>
-        <translation type="unfinished"></translation>
+        <translation>File system is read-only.</translation>
     </message>
 </context>
 <context>
@@ -2513,7 +2513,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="101"/>
         <source>Open project file system...</source>
-        <translation type="unfinished"></translation>
+        <translation>Open project file system...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="176"/>
@@ -6486,12 +6486,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="77"/>
         <source>The directory &quot;%1&quot; already contains a LibrePCB project.</source>
-        <translation type="unfinished"></translation>
+        <translation>The directory &quot;%1&quot; already contains a LibrePCB project.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="138"/>
         <source>Unknown</source>
-        <translation type="unfinished">Unknown</translation>
+        <translation>Unknown</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="272"/>
