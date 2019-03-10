@@ -3917,39 +3917,39 @@ p, li { white-space: pre-wrap; }
         <translation>Сайт LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="125"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="124"/>
         <source> [Read-Only]</source>
         <translation>[Только-для-чтения]</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="126"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="125"/>
         <source>%1 - LibrePCB Library Editor</source>
         <translation>%1 - LibrePCB Редактор библиотек</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="131"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="130"/>
         <source>Scanning libraries (%p%)</source>
         <translation>Сканирование библиотек (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="473"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="522"/>
         <source>Failed to open category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="509"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="558"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation>У вас не сохранены изменения в элементах библиотеки.
 Перед тем, как закрыть её, всё сохранить?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="512"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="561"/>
         <source>Unsaved changes</source>
         <translation>Несохранённые изменения</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="589"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="690"/>
         <source>&amp;Save &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
@@ -4011,77 +4011,77 @@ Do you want to save them before closing it?</source>
         <translation>Категории компонентов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="82"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="85"/>
         <source>Symbols</source>
         <translation>Символы</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="119"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="125"/>
         <source>Package Categories</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="156"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="165"/>
         <source>Packages</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="193"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="205"/>
         <source>Components</source>
         <translation>Компоненты</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="230"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="245"/>
         <source>Devices</source>
         <translation>Устройства</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="330"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="348"/>
         <source>Name:</source>
         <translation>Имя:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="344"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="362"/>
         <source>Description:</source>
         <translation>Описание:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="357"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="375"/>
         <source>Keywords:</source>
         <translation>Ключевые слова:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="371"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="389"/>
         <source>Author:</source>
         <translation>Автор:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="385"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="403"/>
         <source>Version:</source>
         <translation>Версия:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="399"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="417"/>
         <source>Deprecated:</source>
         <translation>Устарело:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="406"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="424"/>
         <source>Library should no longer be used.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="420"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="438"/>
         <source>URL:</source>
         <translation>URL:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="434"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="452"/>
         <source>Dependencies:</source>
         <translation>Зависимости:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="451"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="469"/>
         <source>Messages:</source>
         <translation type="unfinished"/>
     </message>
@@ -4091,7 +4091,7 @@ Do you want to save them before closing it?</source>
         <translation>Неудачное сохранение</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="304"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="322"/>
         <source>Click here to choose an icon (PNG, 256x256px).</source>
         <translation>Нажмите для выбора пиктограммы (PNG, 256x256px).</translation>
     </message>
@@ -4101,45 +4101,59 @@ Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="335"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="351"/>
+        <source>Edit</source>
+        <translation>Правка</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="353"/>
+        <source>Copy</source>
+        <translation>Копировать</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="356"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="352"/>
-        <source>Remove %1</source>
-        <translation>Удалить %1</translation>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="358"/>
+        <source>New</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="353"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="444"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
-Are you still sure to delete the whole library element &quot;%1&quot;?
-
-This cannot be undone!</source>
-        <translation>ПРЕДУПРЕЖДЕНИЕ: Обычно элементы библиотек не должны удаляться, потому что это нарушает зависящие от них другие элементы! Вместо этого их можно прятать и помечать как неподдерживаемые.
-
-Вы по-прежнему хотите удалить элемент библиотеки &quot;%1&quot; целиком?
-
-Это необратимое действие!</translation>
+Are you still sure to delete the following library elements?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="369"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="457"/>
+        <source>This cannot be undone!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="461"/>
+        <source>Remove %1 elements</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="473"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="386"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="486"/>
         <source>Choose library icon</source>
         <translation>Смена иконки библиотеки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="388"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="488"/>
         <source>Portable Network Graphics (*.png)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="394"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="494"/>
         <source>Could not open file</source>
         <translation type="unfinished"/>
     </message>
@@ -4152,7 +4166,12 @@ This cannot be undone!</source>
         <translation>Новый элемент библиотеки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizard.cpp" line="97"/>
+        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizard.cpp" line="101"/>
+        <source>Could not copy element</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizard.cpp" line="115"/>
         <source>Failed to create element</source>
         <translation type="unfinished"/>
     </message>
