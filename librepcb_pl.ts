@@ -1844,13 +1844,13 @@ Passive parts: Using an attribute, e.g. %3</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="172"/>
-        <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="182"/>
+        <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="187"/>
+        <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="197"/>
         <source>Error while executing SQL query: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="204"/>
+        <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="219"/>
         <source>Could not enable SQLite Write-Ahead Logging: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
@@ -2931,22 +2931,22 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="138"/>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="139"/>
         <source>Could not load components</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="157"/>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="158"/>
         <source>Could not load component metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="212"/>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="213"/>
         <source>Invalid Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="213"/>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="214"/>
         <source>Please select a component.</source>
         <translation type="unfinished"/>
     </message>
@@ -4586,22 +4586,22 @@ Are you still sure to delete the following library elements?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="140"/>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="141"/>
         <source>Could not load packages</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="158"/>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="159"/>
         <source>Could not load package metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="192"/>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="193"/>
         <source>Invalid Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="193"/>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="194"/>
         <source>Please select a package.</source>
         <translation type="unfinished"/>
     </message>
@@ -4950,27 +4950,27 @@ Are you still sure to delete the following library elements?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="156"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="157"/>
         <source>Could not load symbols</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="164"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="165"/>
         <source>No symbol selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="183"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="184"/>
         <source>Could not load symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="190"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="191"/>
         <source>Invalid Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="191"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="192"/>
         <source>Please select a symbol.</source>
         <translation type="unfinished"/>
     </message>
@@ -6664,7 +6664,7 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="375"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="376"/>
         <source>No component selected</source>
         <translation type="unfinished"/>
     </message>
@@ -6674,24 +6674,24 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="443"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="444"/>
         <source>No device selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="180"/>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="193"/>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="229"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="181"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="194"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="230"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="484"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="485"/>
         <source>Invalid Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="485"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="486"/>
         <source>Please select a component and a symbol variant.</source>
         <translation type="unfinished"/>
     </message>
@@ -9249,17 +9249,17 @@ Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="576"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="604"/>
         <source>Endless loop in category parentship detected (%1).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="603"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="631"/>
         <source>The category &quot;%1&quot; does not exist in the library database.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="648"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="695"/>
         <source>The library &quot;%1&quot; does not exist in the library database.</source>
         <translation type="unfinished"/>
     </message>
