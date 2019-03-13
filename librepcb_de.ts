@@ -4927,12 +4927,12 @@ Are you still sure to delete the following library elements?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="236"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="245"/>
         <source>(not connected)</source>
         <translation>(nicht verbunden</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="263"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="269"/>
         <source>Could not set signal</source>
         <translation type="unfinished"/>
     </message>
