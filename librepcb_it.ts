@@ -7367,53 +7367,53 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="400"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="380"/>
         <source>Add New Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="380"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="400"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="420"/>
         <source>Choose a name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="401"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="381"/>
         <source>new_board</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="390"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="410"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="430"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="447"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="478"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="510"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="534"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="427"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="458"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="490"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="514"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="420"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="400"/>
         <source>Copy Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="421"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="401"/>
         <source>copy_of_%1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="439"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="419"/>
         <source>Remove board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="440"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="420"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="470"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="450"/>
         <source>PDF Export</source>
         <translation type="unfinished"/>
     </message>
