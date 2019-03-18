@@ -439,14 +439,16 @@
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgduplicatepadname.cpp" line="40"/>
         <source>Duplicate pad name: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicate pad name: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgduplicatepadname.cpp" line="41"/>
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
-        <translation type="unfinished"></translation>
+        <translation>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
+
+For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</translation>
     </message>
 </context>
 <context>
@@ -454,12 +456,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgduplicatepinname.cpp" line="40"/>
         <source>Duplicate pin name: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicate pin name: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgduplicatepinname.cpp" line="41"/>
         <source>All symbol pins must have unique names, otherwise they cannot be distinguished later in the component editor. If your part has several pins with same functionality (e.g. multiple GND pins), you should add only one of these pins to the symbol. The assignment to multiple leads should be done in the device editor instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>All symbol pins must have unique names, otherwise they cannot be distinguished later in the component editor. If your part has several pins with same functionality (e.g. multiple GND pins), you should add only one of these pins to the symbol. The assignment to multiple leads should be done in the device editor instead.</translation>
     </message>
 </context>
 <context>
@@ -467,12 +469,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgduplicatesignalname.cpp" line="41"/>
         <source>Duplicate signal name: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicate signal name: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgduplicatesignalname.cpp" line="42"/>
         <source>All component signals must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several pins which are electrically exactly equal (e.g. multiple GND pins), you should add only one of these pins as a component signal. The assignment to multiple pins should be done in the device editor instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>All component signals must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several pins which are electrically exactly equal (e.g. multiple GND pins), you should add only one of these pins as a component signal. The assignment to multiple pins should be done in the device editor instead.</translation>
     </message>
 </context>
 <context>
@@ -480,12 +482,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingauthor.cpp" line="37"/>
         <source>Author not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Author not set</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingauthor.cpp" line="38"/>
         <source>It is recommended to set an author (e.g. full name or nickname), although it&apos;s not required.</source>
-        <translation type="unfinished"></translation>
+        <translation>It is recommended to set an author (e.g. full name or nickname), although it&apos;s not required.</translation>
     </message>
 </context>
 <context>
@@ -493,12 +495,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingcategories.cpp" line="37"/>
         <source>No categories set</source>
-        <translation type="unfinished"></translation>
+        <translation>No categories set</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingcategories.cpp" line="38"/>
         <source>It&apos;s very important to assign every library element to at least one category. Otherwise it will be very hard to find the element in the workspace library, so it&apos;s highly recommended to fix this.</source>
-        <translation type="unfinished"></translation>
+        <translation>It&apos;s very important to assign every library element to at least one category. Otherwise it will be very hard to find the element in the workspace library, so it&apos;s highly recommended to fix this.</translation>
     </message>
 </context>
 <context>
@@ -506,7 +508,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="37"/>
         <source>No default value set</source>
-        <translation type="unfinished"></translation>
+        <translation>No default value set</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="38"/>
@@ -515,7 +517,11 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
 Generic parts (e.g. a diode): %1
 Specific parts (e.g. a microcontroller): %2
 Passive parts: Using an attribute, e.g. %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Most components should have a default value set. The default value becomes the component&apos;s value when adding it to a schematic. It can also contain placeholders which are substituted later in the schematic. Commonly used default values are:
+
+Generic parts (e.g. a diode): %1
+Specific parts (e.g. a microcontroller): %2
+Passive parts: Using an attribute, e.g. %3</translation>
     </message>
 </context>
 <context>
@@ -523,12 +529,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentprefix.cpp" line="37"/>
         <source>No component prefix set</source>
-        <translation type="unfinished"></translation>
+        <translation>No component prefix set</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentprefix.cpp" line="38"/>
         <source>Most components should have a prefix defined. The prefix is used to generate the component&apos;s name when adding it to a schematic. For example the prefix &apos;R&apos; (resistor) leads to component names &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos; etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Most components should have a prefix defined. The prefix is used to generate the component&apos;s name when adding it to a schematic. For example the prefix &apos;R&apos; (resistor) leads to component names &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos; etc.</translation>
     </message>
 </context>
 <context>
@@ -536,12 +542,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprint.cpp" line="37"/>
         <source>No footprint defined</source>
-        <translation type="unfinished"></translation>
+        <translation>No footprint defined</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprint.cpp" line="38"/>
         <source>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</source>
-        <translation type="unfinished"></translation>
+        <translation>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</translation>
     </message>
 </context>
 <context>
@@ -549,12 +555,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintname.cpp" line="41"/>
         <source>Missing text &apos;{{NAME}}&apos; in footprint &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Missing text &apos;{{NAME}}&apos; in footprint &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintname.cpp" line="43"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</translation>
     </message>
 </context>
 <context>
@@ -562,12 +568,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintvalue.cpp" line="41"/>
         <source>Missing text &apos;{{VALUE}}&apos; in footprint &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Missing text &apos;{{VALUE}}&apos; in footprint &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintvalue.cpp" line="43"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</translation>
     </message>
 </context>
 <context>
@@ -575,12 +581,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="37"/>
         <source>Missing text: &apos;{{NAME}}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Missing text: &apos;{{NAME}}&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="38"/>
         <source>Most symbols should have a text element for the component&apos;s name, otherwise you won&apos;t see that name in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a name, for those you can ignore this message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Most symbols should have a text element for the component&apos;s name, otherwise you won&apos;t see that name in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a name, for those you can ignore this message.</translation>
     </message>
 </context>
 <context>
@@ -588,12 +594,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="37"/>
         <source>Missing text: &apos;{{VALUE}}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Missing text: &apos;{{VALUE}}&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="38"/>
         <source>Most symbols should have a text element for the component&apos;s value, otherwise you won&apos;t see that value in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a value, for those you can ignore this message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Most symbols should have a text element for the component&apos;s value, otherwise you won&apos;t see that value in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a value, for those you can ignore this message.</translation>
     </message>
 </context>
 <context>
@@ -601,12 +607,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariant.cpp" line="37"/>
         <source>No symbol variant defined</source>
-        <translation type="unfinished"></translation>
+        <translation>No symbol variant defined</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariant.cpp" line="38"/>
         <source>Every component requires at least one symbol variant, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Every component requires at least one symbol variant, otherwise it can&apos;t be added to schematics.</translation>
     </message>
 </context>
 <context>
@@ -614,12 +620,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariantitem.cpp" line="41"/>
         <source>Symbol variant &apos;%1&apos; has no items</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol variant &apos;%1&apos; has no items</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariantitem.cpp" line="43"/>
         <source>Every symbol variant requires at least one symbol item, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Every symbol variant requires at least one symbol item, otherwise it can&apos;t be added to schematics.</translation>
     </message>
 </context>
 <context>
@@ -627,12 +633,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/msg/msgnamenottitlecase.cpp" line="37"/>
         <source>Name not title case: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Name not title case: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/msg/msgnamenottitlecase.cpp" line="38"/>
         <source>Generally the library element name should be written in title case (for consistency). As the current name has words starting with a lowercase character, it seems that it is not title cases. If this assumption is wrong, just ignore this message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generally the library element name should be written in title case (for consistency). As the current name has words starting with a lowercase character, it seems that it is not title cases. If this assumption is wrong, just ignore this message.</translation>
     </message>
 </context>
 <context>
@@ -640,12 +646,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgoverlappingsymbolpins.cpp" line="41"/>
         <source>There are multiple pins at the same position. This is not allowed because you cannot connect wires to these pins in the schematic editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>There are multiple pins at the same position. This is not allowed because you cannot connect wires to these pins in the schematic editor.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgoverlappingsymbolpins.cpp" line="61"/>
         <source>Overlapping pins: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Overlapping pins: %1</translation>
     </message>
 </context>
 <context>
@@ -653,12 +659,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadoverlapswithplacement.cpp" line="43"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to placement layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to placement layer</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadoverlapswithplacement.cpp" line="45"/>
         <source>Pads should have at least %1 clearance to the outlines layer because outlines are drawn on silkscreen which will be cropped for Gerber export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pads should have at least %1 clearance to the outlines layer because outlines are drawn on silkscreen which will be cropped for Gerber export.</translation>
     </message>
 </context>
 <context>
@@ -666,12 +672,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgsymbolpinnotongrid.cpp" line="42"/>
         <source>Pin not on %1mm grid: &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Pin not on %1mm grid: &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgsymbolpinnotongrid.cpp" line="44"/>
         <source>Every pin must be placed exactly on the %1mm grid, otherwise it cannot be connected in the schematic editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Every pin must be placed exactly on the %1mm grid, otherwise it cannot be connected in the schematic editor.</translation>
     </message>
 </context>
 <context>
@@ -679,12 +685,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgwrongfootprinttextlayer.cpp" line="46"/>
         <source>Layer of &apos;%1&apos; in &apos;%2&apos; is not &apos;%3&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Layer of &apos;%1&apos; in &apos;%2&apos; is not &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgwrongfootprinttextlayer.cpp" line="49"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -692,12 +698,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgwrongsymboltextlayer.cpp" line="42"/>
         <source>Layer of &apos;%1&apos; is not &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Layer of &apos;%1&apos; is not &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgwrongsymboltextlayer.cpp" line="44"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -997,7 +1003,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="67"/>
         <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal or Bitcoin. Check out &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal or Bitcoin. Check out &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; for details.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="72"/>
@@ -2010,32 +2016,32 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="70"/>
         <source>Restore autosave backup?</source>
-        <translation type="unfinished"></translation>
+        <translation>Restore autosave backup?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="71"/>
         <source>It seems that the application was crashed the last time. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"></translation>
+        <translation>It seems that the application was crashed the last time. Do you want to restore the last autosave backup?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="197"/>
         <source>File &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>File &apos;%1&apos; does not exist.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="240"/>
         <source>Failed to create the ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to create the ZIP file &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="364"/>
         <source>Failed to write file &apos;%1&apos; to &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to write file &apos;%1&apos; to &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="376"/>
         <source>File system is read-only.</source>
-        <translation type="unfinished"></translation>
+        <translation>File system is read-only.</translation>
     </message>
 </context>
 <context>
@@ -2531,7 +2537,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="101"/>
         <source>Open project file system...</source>
-        <translation type="unfinished"></translation>
+        <translation>Open project file system...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="176"/>
@@ -2622,7 +2628,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/cmd/cmdcomponentedit.cpp" line="38"/>
         <source>Edit component metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit component metadata</translation>
     </message>
 </context>
 <context>
@@ -2678,7 +2684,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cat/cmd/cmdlibrarycategoryedit.cpp" line="39"/>
         <source>Edit category metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit category metadata</translation>
     </message>
 </context>
 <context>
@@ -2686,7 +2692,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmd/cmdlibraryedit.cpp" line="38"/>
         <source>Edit library metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit library metadata</translation>
     </message>
 </context>
 <context>
@@ -2951,12 +2957,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="210"/>
         <source>Messages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Messages:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.cpp" line="97"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.cpp" line="107"/>
@@ -3077,12 +3083,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="333"/>
         <source>Messages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Messages:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="128"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="139"/>
@@ -3092,12 +3098,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="279"/>
         <source>Determine default value</source>
-        <translation type="unfinished"></translation>
+        <translation>Determine default value</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="281"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
-        <translation type="unfinished"></translation>
+        <translation>Is this rather a (manufacturer-)specific component than a generic component?</translation>
     </message>
 </context>
 <context>
@@ -3379,12 +3385,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="397"/>
         <source>Messages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Messages:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="144"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="155"/>
@@ -3394,7 +3400,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="197"/>
         <source>Edit device metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit device metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="236"/>
@@ -3439,22 +3445,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="160"/>
         <source>WARNING: This library element contains errors, see exact messages below. You should fix these errors before saving it, otherwise the library element may not work as expected.</source>
-        <translation type="unfinished"></translation>
+        <translation>WARNING: This library element contains errors, see exact messages below. You should fix these errors before saving it, otherwise the library element may not work as expected.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="188"/>
         <source>User name not set</source>
-        <translation type="unfinished"></translation>
+        <translation>User name not set</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="189"/>
         <source>No user name defined in workspace settings. Please open workspace settings to set the default user name.</source>
-        <translation type="unfinished"></translation>
+        <translation>No user name defined in workspace settings. Please open workspace settings to set the default user name.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="258"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>
@@ -3967,7 +3973,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="690"/>
         <source>&amp;Save &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Save &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="522"/>
@@ -3992,12 +3998,12 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/libraryelementchecklistwidget.h" line="99"/>
         <source>Fix</source>
-        <translation type="unfinished"></translation>
+        <translation>Fix</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/libraryelementchecklistwidget.h" line="108"/>
         <source>Details</source>
-        <translation type="unfinished">Details</translation>
+        <translation>Details</translation>
     </message>
 </context>
 <context>
@@ -4005,7 +4011,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/libraryelementchecklistwidget.cpp" line="102"/>
         <source>Looks good so far :-)</source>
-        <translation type="unfinished"></translation>
+        <translation>Looks good so far :-)</translation>
     </message>
 </context>
 <context>
@@ -4116,7 +4122,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="469"/>
         <source>Messages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Messages:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="151"/>
@@ -4131,49 +4137,51 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="141"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="351"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Edit</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="353"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="356"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="358"/>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>New</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="444"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
-        <translation type="unfinished"></translation>
+        <translation>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
+
+Are you still sure to delete the following library elements?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="457"/>
         <source>This cannot be undone!</source>
-        <translation type="unfinished"></translation>
+        <translation>This cannot be undone!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="461"/>
         <source>Remove %1 elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove %1 elements</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="473"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="486"/>
@@ -4188,7 +4196,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="494"/>
         <source>Could not open file</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not open file</translation>
     </message>
 </context>
 <context>
@@ -4201,7 +4209,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizard.cpp" line="101"/>
         <source>Could not copy element</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not copy element</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizard.cpp" line="115"/>
@@ -4603,7 +4611,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.ui" line="206"/>
         <source>Messages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Messages:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.ui" line="101"/>
@@ -4618,7 +4626,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.cpp" line="97"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.cpp" line="107"/>
@@ -4908,12 +4916,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="261"/>
         <source>Messages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Messages:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="190"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="201"/>
@@ -4923,7 +4931,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="266"/>
         <source>Edit package metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit package metadata</translation>
     </message>
 </context>
 <context>
@@ -5229,12 +5237,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.ui" line="194"/>
         <source>Messages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Messages:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="175"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="186"/>
@@ -5244,7 +5252,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="251"/>
         <source>Edit symbol metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit symbol metadata</translation>
     </message>
 </context>
 <context>
@@ -5305,17 +5313,17 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="57"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Select all</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="64"/>
         <source>Download and install/update selected libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Download and install/update selected libraries</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="80"/>
         <source>&lt;p&gt;Creates a new local library in the currently opened workspace.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Please specify all attributes in the english language (locale &apos;en_US&apos;). Support for other languages will be added in a later release of LibrePCB.&lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Creates a new local library in the currently opened workspace.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Please specify all attributes in the english language (locale &apos;en_US&apos;). Support for other languages will be added in a later release of LibrePCB.&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="97"/>
@@ -5355,12 +5363,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="198"/>
         <source>Put library under the Public Domain License CC0-1.0 (mandatory to publish it on librepcb.org).</source>
-        <translation type="unfinished"></translation>
+        <translation>Put library under the Public Domain License CC0-1.0 (mandatory to publish it on librepcb.org).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="259"/>
         <source>&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically. It&apos;s highly recommended to use &amp;quot;Download from repository&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically. It&apos;s highly recommended to use &amp;quot;Download from repository&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="220"/>
@@ -5650,12 +5658,12 @@ Are you really sure to remove &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.cpp" line="147"/>
         <source>Could not load library list</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not load library list</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.cpp" line="194"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>
@@ -5698,7 +5706,7 @@ Are you really sure to remove &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="209"/>
         <source>v%1</source>
-        <translation type="unfinished"></translation>
+        <translation>v%1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="211"/>
@@ -5708,7 +5716,7 @@ Are you really sure to remove &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="214"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Installed</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="221"/>
@@ -6523,12 +6531,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="77"/>
         <source>The directory &quot;%1&quot; already contains a LibrePCB project.</source>
-        <translation type="unfinished"></translation>
+        <translation>The directory &quot;%1&quot; already contains a LibrePCB project.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="138"/>
         <source>Unknown</source>
-        <translation type="unfinished">Unknown</translation>
+        <translation>Unknown</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="272"/>
@@ -9305,7 +9313,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="355"/>
         <source>Library not found in workspace library: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Library not found in workspace library: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="374"/>
