@@ -1062,59 +1062,59 @@ Passive parts: Using an attribute, e.g. %3</translation>
 <context>
     <name>librepcb::AttributeListEditorWidget</name>
     <message>
-        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="51"/>
+        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="52"/>
         <source>Key</source>
         <translation>Key</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="53"/>
+        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="54"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="55"/>
+        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="56"/>
         <source>Value</source>
         <translation>Value</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="57"/>
+        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="58"/>
         <source>Unit</source>
         <translation>Unit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="59"/>
+        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="60"/>
         <source>Actions</source>
         <translation>Actions</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="346"/>
+        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="347"/>
         <source>Could not add attribute</source>
         <translation>Could not add attribute</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="384"/>
+        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="385"/>
         <source>Invalid key</source>
         <translation>Invalid key</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="420"/>
-        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="437"/>
-        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="449"/>
+        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="421"/>
+        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="438"/>
+        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="450"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="466"/>
+        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="467"/>
         <source>The key must not be empty.</source>
         <translation>The key must not be empty.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="471"/>
+        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="472"/>
         <source>There is already an attribute with the key &quot;%1&quot;.</source>
         <translation>There is already an attribute with the key &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="481"/>
+        <location filename="../libs/librepcb/common/widgets/attributelisteditorwidget.cpp" line="482"/>
         <source>The value &quot;%1&quot; is invalid.</source>
         <translation>The value &quot;%1&quot; is invalid.</translation>
     </message>
@@ -2838,37 +2838,37 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::editor::CompSymbVarPinSignalMapEditorWidget</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="60"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="61"/>
         <source>Symbol</source>
         <translation>Symbol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="62"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="63"/>
         <source>Symbol Pin</source>
         <translation>Symbol Pin</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="64"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="65"/>
         <source>Component Signal</source>
         <translation>Component Signal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="66"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="67"/>
         <source>Designator in Schematics</source>
         <translation>Designator in Schematics</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="85"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="86"/>
         <source>Automatically assign all signals by name</source>
         <translation>Automatically assign all signals by name</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="167"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="168"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="258"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="259"/>
         <source>(not connected)</source>
         <translation>(not connected)</translation>
     </message>
@@ -3085,44 +3085,44 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::editor::ComponentSignalListEditorWidget</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="55"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="56"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="59"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="60"/>
         <source>Required</source>
         <translation>Required</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="65"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="66"/>
         <source>Forced Net</source>
         <translation>Forced Net</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="321"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="322"/>
         <source>Add new signal:</source>
         <translation>Add new signal:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="408"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="409"/>
         <source>Could not add signal</source>
         <translation>Could not add signal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="422"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="423"/>
         <source>Could not remove signal</source>
         <translation>Could not remove signal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="446"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="483"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="537"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="447"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="484"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="538"/>
         <source>Could not edit signal</source>
         <translation>Could not edit signal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="564"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="565"/>
         <source>There is already a signal with the name &quot;%1&quot;.</source>
         <translation>There is already a signal with the name &quot;%1&quot;.</translation>
     </message>
@@ -3178,66 +3178,66 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::editor::ComponentSymbolVariantItemListEditorWidget</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="62"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="63"/>
         <source>#</source>
         <translation>#</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="64"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="65"/>
         <source>Symbol</source>
         <translation>Symbol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="66"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="67"/>
         <source>Suffix</source>
         <translation>Suffix</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="68"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="69"/>
         <source>Required</source>
         <translation>Required</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="70"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="71"/>
         <source>Position X</source>
         <translation>Position X</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="72"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="73"/>
         <source>Position Y</source>
         <translation>Position Y</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="74"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="75"/>
         <source>Rotation</source>
         <translation>Rotation</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="76"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="77"/>
         <source>Actions</source>
         <translation>Actions</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="163"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="173"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="183"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="238"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="536"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="164"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="174"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="184"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="239"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="537"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="319"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="320"/>
         <source>Add new symbol:</source>
         <translation>Add new symbol:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="474"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="475"/>
         <source>Could not add symbol</source>
         <translation>Could not add symbol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="517"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlisteditorwidget.cpp" line="518"/>
         <source>Could not change symbol</source>
         <translation>Could not change symbol</translation>
     </message>
@@ -3245,53 +3245,53 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::editor::ComponentSymbolVariantListWidget</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="54"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="55"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="56"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="57"/>
         <source>Description</source>
         <translation>Description</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="58"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="59"/>
         <source>Norm</source>
         <translation>Norm</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="60"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="61"/>
         <source>Symbols</source>
         <translation>Symbols</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="62"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="63"/>
         <source>Actions</source>
         <translation>Actions</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="276"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="277"/>
         <source>Add new variant:</source>
         <translation>Add new variant:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="390"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="391"/>
         <source>Could not add symbol variant</source>
         <translation>Could not add symbol variant</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="402"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="403"/>
         <source>Could not remove symbol variant</source>
         <translation>Could not remove symbol variant</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="413"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="424"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="414"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="425"/>
         <source>Could not move symbol variant</source>
         <translation>Could not move symbol variant</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="444"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="445"/>
         <source>Could not edit symbol variant</source>
         <translation>Could not edit symbol variant</translation>
     </message>
@@ -3442,43 +3442,43 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::editor::FootprintListEditorWidget</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="52"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="53"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="213"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="214"/>
         <source>Add new footprint:</source>
         <translation>Add new footprint:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="297"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="298"/>
         <source>Could not add footprint</source>
         <translation>Could not add footprint</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="307"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="308"/>
         <source>Could not remove footprint</source>
         <translation>Could not remove footprint</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="317"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="327"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="318"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="328"/>
         <source>Could not move footprint</source>
         <translation>Could not move footprint</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="348"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="349"/>
         <source>Could not copy footprint</source>
         <translation>Could not copy footprint</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="367"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="368"/>
         <source>Invalid name</source>
         <translation>Invalid name</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="396"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="397"/>
         <source>There is already a footprint with the name &quot;%1&quot;.</source>
         <translation>There is already a footprint with the name &quot;%1&quot;.</translation>
     </message>
@@ -4921,32 +4921,32 @@ Are you still sure to delete the following library elements?</translation>
 <context>
     <name>librepcb::library::editor::PackagePadListEditorWidget</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="52"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="53"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="174"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="175"/>
         <source>Add new pad:</source>
         <translation>Add new pad:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="217"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="218"/>
         <source>Could not add pad</source>
         <translation>Could not add pad</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="227"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="228"/>
         <source>Could not remove footprint</source>
         <translation>Could not remove footprint</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="246"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="247"/>
         <source>Invalid name</source>
         <translation>Invalid name</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="274"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="275"/>
         <source>There is already a pad with the name &quot;%1&quot;.</source>
         <translation>There is already a pad with the name &quot;%1&quot;.</translation>
     </message>
@@ -4954,22 +4954,22 @@ Are you still sure to delete the following library elements?</translation>
 <context>
     <name>librepcb::library::editor::PadSignalMapEditorWidget</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="53"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="54"/>
         <source>Pad Name</source>
         <translation>Pad Name</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="55"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="56"/>
         <source>Component Signal</source>
         <translation>Component Signal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="245"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="246"/>
         <source>(not connected)</source>
         <translation>(not connected)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="269"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="270"/>
         <source>Could not set signal</source>
         <translation>Could not set signal</translation>
     </message>
