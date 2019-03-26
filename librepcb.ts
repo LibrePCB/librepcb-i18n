@@ -96,12 +96,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="67"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open a library to execute library-related tasks.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="68"/>
         <source>open-library [command_options]</source>
-        <translation type="unfinished"></translation>
+        <translation>open-library [command_options]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="73"/>
@@ -142,7 +142,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="99"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="104"/>
@@ -177,22 +177,22 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="114"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
-        <translation type="unfinished"></translation>
+        <translation>Perform the selected action(s) on all elements contained in the opened library.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="117"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
-        <translation type="unfinished"></translation>
+        <translation>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
         <source>Path to project file (*.lpp[z]).</source>
-        <translation type="unfinished"></translation>
+        <translation>Path to project file (*.lpp[z]).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="148"/>
         <source>Path to library directory (*.lplib).</source>
-        <translation type="unfinished"></translation>
+        <translation>Path to library directory (*.lplib).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="168"/>
@@ -2063,7 +2063,7 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="240"/>
         <source>Failed to open the ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to open the ZIP file &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="256"/>
@@ -2642,7 +2642,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="351"/>
         <source>ERROR: Failed to load custom settings: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ERROR: Failed to load custom settings: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="360"/>
@@ -2668,12 +2668,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="405"/>
         <source>Open library &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Open library &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="415"/>
         <source>Process %1 component categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Process %1 component categories...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="419"/>
@@ -2683,7 +2683,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="496"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="515"/>
         <source>Open &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Open &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="425"/>
@@ -2693,37 +2693,37 @@ p, li { white-space: pre-wrap; }
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="502"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="521"/>
         <source>Save &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Save &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="435"/>
         <source>Process %1 package categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Process %1 package categories...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="455"/>
         <source>Process %1 symbols...</source>
-        <translation type="unfinished"></translation>
+        <translation>Process %1 symbols...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="474"/>
         <source>Process %1 packages...</source>
-        <translation type="unfinished"></translation>
+        <translation>Process %1 packages...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="493"/>
         <source>Process %1 components...</source>
-        <translation type="unfinished"></translation>
+        <translation>Process %1 components...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="512"/>
         <source>Process %1 devices...</source>
-        <translation type="unfinished"></translation>
+        <translation>Process %1 devices...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="530"/>
         <source>Save library &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Save library &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -7538,12 +7538,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="744"/>
         <source>&amp;Export project to *.lppz</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Export project to *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="747"/>
         <source>Export project to *.lppz</source>
-        <translation type="unfinished"></translation>
+        <translation>Export project to *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="226"/>
@@ -8454,12 +8454,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="174"/>
         <source>Export project to *.lppz</source>
-        <translation type="unfinished"></translation>
+        <translation>Export project to *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="184"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="199"/>
@@ -8832,7 +8832,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="317"/>
         <source>Export schematics to &amp;PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Export schematics to &amp;PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="329"/>
@@ -9083,12 +9083,12 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="693"/>
         <source>&amp;Export project to *.lppz</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Export project to *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="696"/>
         <source>Export project to *.lppz</source>
-        <translation type="unfinished"></translation>
+        <translation>Export project to *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="192"/>
