@@ -88,12 +88,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="67"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open a library to execute library-related tasks.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="68"/>
         <source>open-library [command_options]</source>
-        <translation type="unfinished"></translation>
+        <translation>open-library [command_options]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="73"/>
@@ -154,17 +154,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="114"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
-        <translation type="unfinished"></translation>
+        <translation>Perform the selected action(s) on all elements contained in the opened library.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="117"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
-        <translation type="unfinished"></translation>
+        <translation>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="148"/>
         <source>Path to library directory (*.lplib).</source>
-        <translation type="unfinished"></translation>
+        <translation>Path to library directory (*.lplib).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="152"/>
@@ -2644,12 +2644,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="405"/>
         <source>Open library &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Open library &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="415"/>
         <source>Process %1 component categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Process %1 component categories...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="419"/>
@@ -2659,7 +2659,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="496"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="515"/>
         <source>Open &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Open &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="425"/>
@@ -2669,37 +2669,37 @@ p, li { white-space: pre-wrap; }
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="502"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="521"/>
         <source>Save &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Save &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="435"/>
         <source>Process %1 package categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Process %1 package categories...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="455"/>
         <source>Process %1 symbols...</source>
-        <translation type="unfinished"></translation>
+        <translation>Process %1 symbols...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="474"/>
         <source>Process %1 packages...</source>
-        <translation type="unfinished"></translation>
+        <translation>Process %1 packages...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="493"/>
         <source>Process %1 components...</source>
-        <translation type="unfinished"></translation>
+        <translation>Process %1 components...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="512"/>
         <source>Process %1 devices...</source>
-        <translation type="unfinished"></translation>
+        <translation>Process %1 devices...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="530"/>
         <source>Save library &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Save library &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
