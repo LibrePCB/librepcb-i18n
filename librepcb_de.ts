@@ -2773,7 +2773,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/library.cpp" line="138"/>
+        <location filename="../libs/librepcb/library/library.cpp" line="137"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
         <translation type="unfinished"/>
     </message>
