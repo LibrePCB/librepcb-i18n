@@ -3042,22 +3042,37 @@ p, li { white-space: pre-wrap; }
         <translation>Выбрать компонент</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="139"/>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.ui" line="31"/>
+        <source>What are you looking for?</source>
+        <translation>А что вы ищете?</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="98"/>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="177"/>
         <source>Could not load components</source>
         <translation>Не удалось загрузить компоненты</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="158"/>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="184"/>
+        <source>No component selected</source>
+        <translation>Компонент не выбран</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="194"/>
         <source>Could not load component metadata</source>
         <translation>Не удалось загрузить метаданные компонентов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="213"/>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="249"/>
         <source>Invalid Selection</source>
         <translation>Неверный выбор</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="214"/>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="250"/>
         <source>Please select a component.</source>
         <translation>Выберите компонент.</translation>
     </message>
@@ -4699,22 +4714,37 @@ Are you still sure to delete the following library elements?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="141"/>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.ui" line="31"/>
+        <source>What are you looking for?</source>
+        <translation>А что вы ищете?</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="98"/>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="178"/>
         <source>Could not load packages</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="159"/>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="185"/>
+        <source>No package selected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="195"/>
         <source>Could not load package metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="193"/>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="229"/>
         <source>Invalid Selection</source>
         <translation>Неверный выбор</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="194"/>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="230"/>
         <source>Please select a package.</source>
         <translation type="unfinished"/>
     </message>
@@ -5072,27 +5102,37 @@ Are you still sure to delete the following library elements?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="157"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.ui" line="31"/>
+        <source>What are you looking for?</source>
+        <translation>А что вы ищете?</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="117"/>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="194"/>
         <source>Could not load symbols</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="165"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="202"/>
         <source>No symbol selected</source>
         <translation>Символ не выбран</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="184"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="221"/>
         <source>Could not load symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="191"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="228"/>
         <source>Invalid Selection</source>
         <translation>Неверный выбор</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="192"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="229"/>
         <source>Please select a symbol.</source>
         <translation type="unfinished"/>
     </message>
@@ -9416,27 +9456,27 @@ Do you want to save them before closing the project?</source>
 <context>
     <name>librepcb::workspace::WorkspaceLibraryDb</name>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="355"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="423"/>
         <source>Library not found in workspace library: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="374"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="442"/>
         <source>Device not found in workspace library: &quot;%1&quot;</source>
         <translation>Устройство не найдено в библиотеке рабочих мест: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="604"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="650"/>
         <source>Endless loop in category parentship detected (%1).</source>
         <translation>Обнаружен бесконечный цикл иерархии категорий (%1).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="631"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="677"/>
         <source>The category &quot;%1&quot; does not exist in the library database.</source>
         <translation>Категории &quot;%1&quot; нет в базе библиотек.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="695"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="761"/>
         <source>The library &quot;%1&quot; does not exist in the library database.</source>
         <translation>Библиотеки &quot;%1&quot; нет в базе библиотек.</translation>
     </message>
