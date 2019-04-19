@@ -2919,7 +2919,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/cmd/cmddragselectedfootprintitems.cpp" line="54"/>
         <source>Drag Footprint Elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Drag Footprint Elements</translation>
     </message>
 </context>
 <context>
@@ -2927,7 +2927,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/cmd/cmddragselectedsymbolitems.cpp" line="52"/>
         <source>Drag Symbol Elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Drag Symbol Elements</translation>
     </message>
 </context>
 <context>
@@ -2935,7 +2935,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/cmd/cmdpastefootprintitems.cpp" line="54"/>
         <source>Paste Footprint Elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Paste Footprint Elements</translation>
     </message>
 </context>
 <context>
@@ -2943,7 +2943,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/cmd/cmdpastesymbolitems.cpp" line="53"/>
         <source>Paste Symbol Elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Paste Symbol Elements</translation>
     </message>
 </context>
 <context>
@@ -3083,12 +3083,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.ui" line="31"/>
         <source>What are you looking for?</source>
-        <translation type="unfinished">What are you looking for?</translation>
+        <translation>What are you looking for?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="98"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="177"/>
@@ -3098,7 +3098,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="184"/>
         <source>No component selected</source>
-        <translation type="unfinished">No component selected</translation>
+        <translation>No component selected</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="194"/>
@@ -4762,12 +4762,12 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.ui" line="31"/>
         <source>What are you looking for?</source>
-        <translation type="unfinished">What are you looking for?</translation>
+        <translation>What are you looking for?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="98"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="178"/>
@@ -4777,7 +4777,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="185"/>
         <source>No package selected</source>
-        <translation type="unfinished">No package selected</translation>
+        <translation>No package selected</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="195"/>
@@ -4995,7 +4995,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="482"/>
         <source>Paste Footprint Elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Paste Footprint Elements</translation>
     </message>
 </context>
 <context>
@@ -5150,12 +5150,12 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.ui" line="31"/>
         <source>What are you looking for?</source>
-        <translation type="unfinished">What are you looking for?</translation>
+        <translation>What are you looking for?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="117"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="194"/>
@@ -5345,7 +5345,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="448"/>
         <source>Paste Symbol Elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Paste Symbol Elements</translation>
     </message>
 </context>
 <context>

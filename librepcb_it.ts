@@ -2075,7 +2075,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <name>librepcb::UndoStack</name>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="145"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="187"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="188"/>
         <source>Another command is active at the moment. Please finish that command to continue.</source>
         <translation type="unfinished"/>
     </message>
@@ -2086,20 +2086,20 @@ Passive parts: Using an attribute, e.g. %3</source>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="172"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="262"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="339"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="266"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="343"/>
         <source>Redo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="206"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="221"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="243"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="207"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="224"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="247"/>
         <source>No command group active!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="338"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="342"/>
         <source>Undo</source>
         <translation>Annulla</translation>
     </message>
@@ -2137,15 +2137,15 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="168"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="512"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="585"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="581"/>
         <source>New Project</source>
         <translation>Nuovo Progetto</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="185"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="521"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="478"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="556"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="474"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="552"/>
         <source>Open Project</source>
         <translation>Apri Progetto</translation>
     </message>
@@ -2261,86 +2261,86 @@ Passive parts: Using an attribute, e.g. %3</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="283"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="279"/>
         <source>Could not create project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="310"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="342"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="306"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="338"/>
         <source>Could not open project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="402"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="640"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="398"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="636"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="479"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="475"/>
         <source>LibrePCB project files (%1)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="504"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="500"/>
         <source>Workspace changed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="505"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="501"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="560"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="556"/>
         <source>Close Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="566"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="691"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="720"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="562"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="687"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="716"/>
         <source>Remove from favorites</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="570"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="694"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="566"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="690"/>
         <source>Add to favorites</source>
         <translation>Aggiungi ai favoriti</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="575"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="697"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="722"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="571"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="693"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="718"/>
         <source>Update project library</source>
         <translation>Aggiorna libreria di progetto</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="578"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="574"/>
         <source>Open</source>
         <translation>Apri</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="587"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="620"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="583"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="616"/>
         <source>New Folder</source>
         <translation>Nuova cartella</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="592"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="627"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="588"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="623"/>
         <source>Remove</source>
         <translation>Elimina</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="620"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="616"/>
         <source>Name:</source>
         <translation>Nome:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="628"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="624"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -2797,7 +2797,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/library.cpp" line="138"/>
+        <location filename="../libs/librepcb/library/library.cpp" line="137"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
         <translation type="unfinished"/>
     </message>
@@ -2886,18 +2886,34 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>librepcb::library::editor::CmdMoveSelectedFootprintItems</name>
+    <name>librepcb::library::editor::CmdDragSelectedFootprintItems</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/cmd/cmdmoveselectedfootprintitems.cpp" line="54"/>
-        <source>Move Footprint Elements</source>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/cmd/cmddragselectedfootprintitems.cpp" line="54"/>
+        <source>Drag Footprint Elements</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
-    <name>librepcb::library::editor::CmdMoveSelectedSymbolItems</name>
+    <name>librepcb::library::editor::CmdDragSelectedSymbolItems</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/cmd/cmdmoveselectedsymbolitems.cpp" line="52"/>
-        <source>Move Symbol Elements</source>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/cmd/cmddragselectedsymbolitems.cpp" line="52"/>
+        <source>Drag Symbol Elements</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::CmdPasteFootprintItems</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/cmd/cmdpastefootprintitems.cpp" line="54"/>
+        <source>Paste Footprint Elements</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::CmdPasteSymbolItems</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/cmd/cmdpastesymbolitems.cpp" line="53"/>
+        <source>Paste Symbol Elements</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2914,22 +2930,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/cmd/cmdremoveselectedsymbolitems.cpp" line="47"/>
         <source>Remove Symbol Elements</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>librepcb::library::editor::CmdRotateSelectedFootprintItems</name>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/cmd/cmdrotateselectedfootprintitems.cpp" line="55"/>
-        <source>Rotate Footprint Elements</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>librepcb::library::editor::CmdRotateSelectedSymbolItems</name>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/cmd/cmdrotateselectedsymbolitems.cpp" line="53"/>
-        <source>Rotate Symbol Elements</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3052,22 +3052,37 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="139"/>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.ui" line="31"/>
+        <source>What are you looking for?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="98"/>
+        <source>Error</source>
+        <translation>Errore</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="177"/>
         <source>Could not load components</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="158"/>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="184"/>
+        <source>No component selected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="194"/>
         <source>Could not load component metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="213"/>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="249"/>
         <source>Invalid Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="214"/>
+        <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="250"/>
         <source>Please select a component.</source>
         <translation type="unfinished"/>
     </message>
@@ -3860,208 +3875,208 @@ p, li { white-space: pre-wrap; }
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="407"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="404"/>
         <source>Cut</source>
         <translation>Taglia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="410"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="407"/>
         <source>Ctrl+X</source>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="422"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="416"/>
         <source>&amp;Paste</source>
         <translation>&amp;Incolla</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="425"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="419"/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="437"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="428"/>
         <source>R&amp;emove</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="440"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="431"/>
         <source>Del</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="449"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="440"/>
         <source>&amp;Select</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="458"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="449"/>
         <source>Add S&amp;ymbol Pin</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="461"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="452"/>
         <source>I</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="470"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="461"/>
         <source>Add THT Pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="473"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="464"/>
         <source>H</source>
         <translation>H</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="482"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="473"/>
         <source>Add S&amp;MT Pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="485"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="476"/>
         <source>M</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="494"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="485"/>
         <source>&amp;Draw Line</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="503"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="494"/>
         <source>&amp;Add Text</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="506"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="497"/>
         <source>T</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="515"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="506"/>
         <source>Draw &amp;Polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="518"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="509"/>
         <source>P</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="527"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="518"/>
         <source>Draw &amp;Circle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="530"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="521"/>
         <source>Draw Circle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="533"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="524"/>
         <source>C</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="542"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="533"/>
         <source>Add &amp;Hole (NPTH)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="545"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="536"/>
         <source>O</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="554"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="545"/>
         <source>&amp;Grid</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="563"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="554"/>
         <source>Draw &amp;Rectangle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="572"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="563"/>
         <source>&amp;Update Library Database</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="575"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="566"/>
         <source>F5</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="584"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="575"/>
         <source>&amp;Remove Element</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="593"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="584"/>
         <source>Add Name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="602"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="593"/>
         <source>Add Value</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="611"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="602"/>
         <source>Show element in file manager</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="620"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="611"/>
         <source>Online Documentation</source>
         <translation>Documentazione online</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="623"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="614"/>
         <source>F1</source>
         <translation>F1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="632"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="623"/>
         <source>LibrePCB Website</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="124"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="130"/>
         <source> [Read-Only]</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="125"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="131"/>
         <source>%1 - LibrePCB Library Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="130"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="136"/>
         <source>Scanning libraries (%p%)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="690"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="702"/>
         <source>&amp;Save &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="522"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="534"/>
         <source>Failed to open category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="558"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="570"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="561"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="573"/>
         <source>Unsaved changes</source>
         <translation type="unfinished"/>
     </message>
@@ -4707,22 +4722,37 @@ Are you still sure to delete the following library elements?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="141"/>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.ui" line="31"/>
+        <source>What are you looking for?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="98"/>
+        <source>Error</source>
+        <translation>Errore</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="178"/>
         <source>Could not load packages</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="159"/>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="185"/>
+        <source>No package selected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="195"/>
         <source>Could not load package metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="193"/>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="229"/>
         <source>Invalid Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="194"/>
+        <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="230"/>
         <source>Please select a package.</source>
         <translation type="unfinished"/>
     </message>
@@ -4899,26 +4929,35 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::library::editor::PackageEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="172"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="333"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="342"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="167"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="189"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="315"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="456"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="501"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="514"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="523"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="246"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="332"/>
         <source>Rotate</source>
         <translation>Ruota</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="248"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="334"/>
         <source>Remove</source>
         <translation>Elimina</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="250"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="336"/>
         <source>Properties</source>
         <translation>Proprietà</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="482"/>
+        <source>Paste Footprint Elements</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4994,7 +5033,7 @@ Are you still sure to delete the following library elements?</source>
         <translation>Salvataggio fallito</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="266"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="278"/>
         <source>Edit package metadata</source>
         <translation type="unfinished"/>
     </message>
@@ -5071,27 +5110,37 @@ Are you still sure to delete the following library elements?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="157"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.ui" line="31"/>
+        <source>What are you looking for?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="117"/>
+        <source>Error</source>
+        <translation>Errore</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="194"/>
         <source>Could not load symbols</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="165"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="202"/>
         <source>No symbol selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="184"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="221"/>
         <source>Could not load symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="191"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="228"/>
         <source>Invalid Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="192"/>
+        <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="229"/>
         <source>Please select a symbol.</source>
         <translation type="unfinished"/>
     </message>
@@ -5230,26 +5279,35 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::library::editor::SymbolEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="168"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="317"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="326"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="162"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="184"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="309"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="427"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="466"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="479"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="488"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="240"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="325"/>
         <source>Rotate</source>
         <translation>Ruota</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="242"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="327"/>
         <source>Remove</source>
         <translation>Elimina</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="244"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="329"/>
         <source>Properties</source>
         <translation>Proprietà</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="448"/>
+        <source>Paste Symbol Elements</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5315,7 +5373,7 @@ Are you still sure to delete the following library elements?</source>
         <translation>Salvataggio fallito</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="251"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="263"/>
         <source>Edit symbol metadata</source>
         <translation type="unfinished"/>
     </message>
@@ -6785,7 +6843,7 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="376"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="427"/>
         <source>No component selected</source>
         <translation type="unfinished"/>
     </message>
@@ -6795,7 +6853,7 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="447"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="498"/>
         <source>No device selected</source>
         <translation type="unfinished"/>
     </message>
@@ -6807,12 +6865,12 @@ You need at least LibrePCB %1 to open it.
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="488"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="539"/>
         <source>Invalid Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="489"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="540"/>
         <source>Please select a component and a symbol variant.</source>
         <translation type="unfinished"/>
     </message>
@@ -7504,53 +7562,53 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="382"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="376"/>
         <source>Add New Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="382"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="402"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="376"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="396"/>
         <source>Choose a name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="383"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="377"/>
         <source>new_board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="392"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="412"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="429"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="460"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="492"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="516"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="386"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="406"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="423"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="454"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="486"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="510"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="402"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="396"/>
         <source>Copy Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="403"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="397"/>
         <source>copy_of_%1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="421"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="415"/>
         <source>Remove board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="416"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="452"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="446"/>
         <source>PDF Export</source>
         <translation type="unfinished"/>
     </message>
@@ -9042,34 +9100,34 @@ Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="322"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="316"/>
         <source>Add schematic page</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="323"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="317"/>
         <source>Choose a name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="324"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="318"/>
         <source>New Page</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="332"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="389"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="414"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="326"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="383"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="408"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="354"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="348"/>
         <source>No pages to print.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="406"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="400"/>
         <source>PDF Export</source>
         <translation type="unfinished"/>
     </message>
@@ -9390,27 +9448,27 @@ Do you want to save them before closing the project?</source>
 <context>
     <name>librepcb::workspace::WorkspaceLibraryDb</name>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="355"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="401"/>
         <source>Library not found in workspace library: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="374"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="423"/>
         <source>Device not found in workspace library: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="604"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="631"/>
         <source>Endless loop in category parentship detected (%1).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="631"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="658"/>
         <source>The category &quot;%1&quot; does not exist in the library database.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="695"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="742"/>
         <source>The library &quot;%1&quot; does not exist in the library database.</source>
         <translation type="unfinished"/>
     </message>
