@@ -2119,15 +2119,15 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="168"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="512"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="585"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="581"/>
         <source>New Project</source>
         <translation>Новый проект</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="185"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="521"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="478"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="556"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="474"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="552"/>
         <source>Open Project</source>
         <translation>Открыть проект</translation>
     </message>
@@ -2243,86 +2243,86 @@ Passive parts: Using an attribute, e.g. %3</source>
         <translation>Сканирование библиотек (%p%)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="283"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="279"/>
         <source>Could not create project</source>
         <translation>Не удалось создать проект</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="310"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="342"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="306"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="338"/>
         <source>Could not open project</source>
         <translation>Не удалось открыть проект</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="402"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="640"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="398"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="636"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="479"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="475"/>
         <source>LibrePCB project files (%1)</source>
         <translation>Файлы проекта LibrePCB (%1)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="504"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="500"/>
         <source>Workspace changed</source>
         <translation>Рабочее место изменено</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="505"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="501"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation>Выбранное Рабочее место будет использоваться после перезапуска приложения.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="560"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="556"/>
         <source>Close Project</source>
         <translation>Закрыть проект</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="566"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="691"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="720"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="562"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="687"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="716"/>
         <source>Remove from favorites</source>
         <translation>Убрать из избранного</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="570"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="694"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="566"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="690"/>
         <source>Add to favorites</source>
         <translation>Добавить в избранное</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="575"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="697"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="722"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="571"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="693"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="718"/>
         <source>Update project library</source>
         <translation>Обновить библиотеку проекта</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="578"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="574"/>
         <source>Open</source>
         <translation>Открыть</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="587"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="620"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="583"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="616"/>
         <source>New Folder</source>
         <translation>Новый каталог</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="592"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="627"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="588"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="623"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="620"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="616"/>
         <source>Name:</source>
         <translation>Имя:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="628"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="624"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -4050,24 +4050,24 @@ p, li { white-space: pre-wrap; }
         <translation>Сканирование библиотек (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="540"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="534"/>
         <source>Failed to open category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="576"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="570"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation>У вас не сохранены изменения в элементах библиотеки.
 Перед тем, как закрыть её, всё сохранить?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="579"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="573"/>
         <source>Unsaved changes</source>
         <translation>Несохранённые изменения</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="708"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="702"/>
         <source>&amp;Save &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
@@ -7563,53 +7563,53 @@ You need at least LibrePCB %1 to open it.
         <translation>Сканирование библиотек (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="382"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="376"/>
         <source>Add New Board</source>
         <translation>Добавить новую плату</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="382"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="402"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="376"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="396"/>
         <source>Choose a name:</source>
         <translation>Выбрать имя:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="383"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="377"/>
         <source>new_board</source>
         <translation>новая_плата</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="392"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="412"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="429"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="460"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="492"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="516"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="386"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="406"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="423"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="454"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="486"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="510"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="402"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="396"/>
         <source>Copy Board</source>
         <translation>Копировать плату</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="403"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="397"/>
         <source>copy_of_%1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="421"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="415"/>
         <source>Remove board</source>
         <translation>Удалить плату</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="416"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>Вы действительно хотите удалить плату &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="452"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="446"/>
         <source>PDF Export</source>
         <translation>Экспорт в PDF</translation>
     </message>
@@ -9108,34 +9108,34 @@ Do you want to save them before closing the project?</source>
         <translation>Сканирование библиотек (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="322"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="316"/>
         <source>Add schematic page</source>
         <translation>Добавить страницу схемы</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="323"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="317"/>
         <source>Choose a name:</source>
         <translation>Выбрать имя:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="324"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="318"/>
         <source>New Page</source>
         <translation>Новая страница</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="332"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="389"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="414"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="326"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="383"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="408"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="354"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="348"/>
         <source>No pages to print.</source>
         <translation>Нет страниц на печать.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="406"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="400"/>
         <source>PDF Export</source>
         <translation>Экспорт в PDF</translation>
     </message>
