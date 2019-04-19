@@ -6842,7 +6842,7 @@ You need at least LibrePCB %1 to open it.
         <translation>А что вы ищете?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="376"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="427"/>
         <source>No component selected</source>
         <translation>Компонент не выбран</translation>
     </message>
@@ -6852,7 +6852,7 @@ You need at least LibrePCB %1 to open it.
         <translation>Вариант:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="447"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="498"/>
         <source>No device selected</source>
         <translation>Устройство не выбрано</translation>
     </message>
@@ -6864,12 +6864,12 @@ You need at least LibrePCB %1 to open it.
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="488"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="539"/>
         <source>Invalid Selection</source>
         <translation>Неверный выбор</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="489"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="540"/>
         <source>Please select a component and a symbol variant.</source>
         <translation type="unfinished"/>
     </message>
@@ -9456,27 +9456,27 @@ Do you want to save them before closing the project?</source>
 <context>
     <name>librepcb::workspace::WorkspaceLibraryDb</name>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="423"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="401"/>
         <source>Library not found in workspace library: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="442"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="423"/>
         <source>Device not found in workspace library: &quot;%1&quot;</source>
         <translation>Устройство не найдено в библиотеке рабочих мест: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="650"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="631"/>
         <source>Endless loop in category parentship detected (%1).</source>
         <translation>Обнаружен бесконечный цикл иерархии категорий (%1).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="677"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="658"/>
         <source>The category &quot;%1&quot; does not exist in the library database.</source>
         <translation>Категории &quot;%1&quot; нет в базе библиотек.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="761"/>
+        <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="742"/>
         <source>The library &quot;%1&quot; does not exist in the library database.</source>
         <translation>Библиотеки &quot;%1&quot; нет в базе библиотек.</translation>
     </message>
