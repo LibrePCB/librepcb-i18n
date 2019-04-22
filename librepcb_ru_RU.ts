@@ -566,7 +566,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <name>MsgMissingFootprintName</name>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintname.cpp" line="41"/>
-        <source>Missing text &apos;{{NAME}}&apos; in footprint &apos;%1&apos;</source>
+        <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -579,7 +579,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <name>MsgMissingFootprintValue</name>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintvalue.cpp" line="41"/>
-        <source>Missing text &apos;{{VALUE}}&apos; in footprint &apos;%1&apos;</source>
+        <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -592,7 +592,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <name>MsgMissingSymbolName</name>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="37"/>
-        <source>Missing text: &apos;{{NAME}}&apos;</source>
+        <source>Missing text: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -605,7 +605,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <name>MsgMissingSymbolValue</name>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="37"/>
-        <source>Missing text: &apos;{{VALUE}}&apos;</source>
+        <source>Missing text: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
