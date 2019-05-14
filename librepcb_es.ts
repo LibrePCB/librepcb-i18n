@@ -1330,266 +1330,266 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>librepcb::GraphicsLayer</name>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="216"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="192"/>
         <source>References</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="217"/>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="235"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="193"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="211"/>
         <source>Sheet Frames</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="218"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="194"/>
         <source>Netlines</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="219"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="195"/>
         <source>Netlabels</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="220"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="196"/>
         <source>Netlabel Anchors</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="221"/>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="244"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="197"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="220"/>
         <source>Documentation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="222"/>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="245"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="198"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="221"/>
         <source>Comments</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="223"/>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="246"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="199"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="222"/>
         <source>Guide</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="225"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="201"/>
         <source>Outlines</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="226"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="202"/>
         <source>Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="227"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="203"/>
         <source>Hidden Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="228"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="204"/>
         <source>Names</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="229"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="205"/>
         <source>Values</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="230"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="206"/>
         <source>Optional Pins</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="231"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="207"/>
         <source>Required Pins</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="232"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="208"/>
         <source>Pin Names</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="233"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="209"/>
         <source>Pin Numbers</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="236"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="212"/>
         <source>Board Outlines</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="237"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="213"/>
         <source>Milling (PTH)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="238"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="214"/>
         <source>Drills (NPTH)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="239"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="215"/>
         <source>Pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="240"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="216"/>
         <source>Vias</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="241"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="217"/>
         <source>Air Wires</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="242"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="218"/>
         <source>Measures</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="243"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="219"/>
         <source>Alignment</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="248"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="224"/>
         <source>Top Placement</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="249"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="225"/>
         <source>Bot Placement</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="250"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="226"/>
         <source>Top Documentation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="251"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="227"/>
         <source>Bot Documentation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="252"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="228"/>
         <source>Top Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="253"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="229"/>
         <source>Bot Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="254"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="230"/>
         <source>Top Hidden Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="255"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="231"/>
         <source>Bot Hidden Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="256"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="232"/>
         <source>Top References</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="257"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="233"/>
         <source>Bot References</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="258"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="234"/>
         <source>Top Names</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="259"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="235"/>
         <source>Bot Names</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="260"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="236"/>
         <source>Top Values</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="261"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="237"/>
         <source>Bot Values</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="262"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="238"/>
         <source>Top Courtyard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="263"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="239"/>
         <source>Bot Courtyard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="264"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="240"/>
         <source>Top Stop Mask</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="265"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="241"/>
         <source>Bot Stop Mask</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="266"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="242"/>
         <source>Top Solder Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="267"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="243"/>
         <source>Bot Solder Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="268"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="244"/>
         <source>Top Finish</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="269"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="245"/>
         <source>Bot Finish</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="270"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="246"/>
         <source>Top Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="271"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="247"/>
         <source>Bot Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="273"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="249"/>
         <source>Top Copper</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="274"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="250"/>
         <source>Bot Copper</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="277"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="253"/>
         <source>Inner Copper %1</source>
         <translation type="unfinished"/>
     </message>
@@ -3174,44 +3174,44 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::editor::ComponentSignalListEditorWidget</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="56"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="58"/>
         <source>Name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="60"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="62"/>
         <source>Required</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="66"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="68"/>
         <source>Forced Net</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="322"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="301"/>
         <source>Add new signal:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="409"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="388"/>
         <source>Could not add signal</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="423"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="402"/>
         <source>Could not remove signal</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="447"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="484"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="538"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="426"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="463"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="517"/>
         <source>Could not edit signal</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="565"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallisteditorwidget.cpp" line="544"/>
         <source>There is already a signal with the name &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
@@ -3334,53 +3334,53 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::editor::ComponentSymbolVariantListWidget</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="55"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="57"/>
         <source>Name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="57"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="59"/>
         <source>Description</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="59"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="61"/>
         <source>Norm</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="61"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="63"/>
         <source>Symbols</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="63"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="65"/>
         <source>Actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="277"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="256"/>
         <source>Add new variant:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="391"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="370"/>
         <source>Could not add symbol variant</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="403"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="382"/>
         <source>Could not remove symbol variant</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="414"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="425"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="393"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="404"/>
         <source>Could not move symbol variant</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="445"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistwidget.cpp" line="424"/>
         <source>Could not edit symbol variant</source>
         <translation type="unfinished"/>
     </message>
@@ -3531,43 +3531,43 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::editor::FootprintListEditorWidget</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="53"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="55"/>
         <source>Name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="214"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="231"/>
         <source>Add new footprint:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="298"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="315"/>
         <source>Could not add footprint</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="308"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="325"/>
         <source>Could not remove footprint</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="318"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="328"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="335"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="345"/>
         <source>Could not move footprint</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="349"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="366"/>
         <source>Could not copy footprint</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="368"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="385"/>
         <source>Invalid name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="397"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/footprintlisteditorwidget.cpp" line="414"/>
         <source>There is already a footprint with the name &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
@@ -5025,32 +5025,32 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::library::editor::PackagePadListEditorWidget</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="53"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="54"/>
         <source>Name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="175"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="190"/>
         <source>Add new pad:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="218"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="233"/>
         <source>Could not add pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="228"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="243"/>
         <source>Could not remove footprint</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="247"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="262"/>
         <source>Invalid name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="275"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlisteditorwidget.cpp" line="290"/>
         <source>There is already a pad with the name &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
@@ -5058,22 +5058,22 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::library::editor::PadSignalMapEditorWidget</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="54"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="55"/>
         <source>Pad Name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="56"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="57"/>
         <source>Component Signal</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="246"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="224"/>
         <source>(not connected)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="270"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/padsignalmapeditorwidget.cpp" line="248"/>
         <source>Could not set signal</source>
         <translation type="unfinished"/>
     </message>
