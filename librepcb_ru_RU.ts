@@ -1695,43 +1695,43 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>librepcb::NetworkRequestBase</name>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="96"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="95"/>
         <source>Start request...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="99"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="98"/>
         <source>Fatal error: Download manager is not running.</source>
         <translation>Критическая ошибка: Менеджер загрузок не запущен.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="106"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="105"/>
         <source>Abort request...</source>
         <translation>Прервать запрос...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="119"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="118"/>
         <source>Request started...</source>
         <translation>Начинаем запрос...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="124"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="123"/>
         <source>Network access manager is not running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="141"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="140"/>
         <source>GET request failed! Network access manager thread not running?!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="169"/>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="242"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="168"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="241"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="178"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="177"/>
         <source>SSL errors occured:
 
 %1</source>
@@ -1740,42 +1740,42 @@ Passive parts: Using an attribute, e.g. %3</source>
 %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="195"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="194"/>
         <source>Receive data: %1</source>
         <translation>Получение данных: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="210"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="209"/>
         <source>Network request aborted.</source>
         <translation>Запрос к сети отменён.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="220"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="219"/>
         <source>Redirection loop detected.</source>
         <translation>Перенаправления зациклены.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="223"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="222"/>
         <source>Too many redirects.</source>
         <translation>Множественные перенаправления.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="230"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="229"/>
         <source>Redirect to %1...</source>
         <translation>Перенаправление %1...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="263"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="262"/>
         <source>Request successfully finished.</source>
         <translation>Запрос успешно выполнен.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="269"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="268"/>
         <source>Request aborted.</source>
         <translation>Запрос отменён.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="275"/>
+        <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="274"/>
         <source>Request failed: %1</source>
         <translation>Неудачный запрос: %1</translation>
     </message>
@@ -5975,7 +5975,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_plane.h" line="185"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_plane.h" line="182"/>
         <source>Unknown plane connect style: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
@@ -9148,23 +9148,23 @@ Do you want to save them before closing the project?</source>
         <translation>Страницы</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="120"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="117"/>
         <source>Add schematic page</source>
         <translation>Добавить страницу схемы</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="121"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="118"/>
         <source>Choose a name:</source>
         <translation>Выбрать имя:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="122"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="119"/>
         <source>New Page</source>
         <translation>Новая страница</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="131"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="144"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="128"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="141"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
