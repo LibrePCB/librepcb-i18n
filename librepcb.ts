@@ -3273,22 +3273,22 @@ p, li { white-space: pre-wrap; }
         <translation>Norm:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.ui" line="92"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.ui" line="101"/>
         <source>Symbols</source>
         <translation>Symbols</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.ui" line="118"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.ui" line="127"/>
         <source>Preview</source>
         <translation>Preview</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.ui" line="142"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.ui" line="151"/>
         <source>Pin-Signal-Map</source>
         <translation>Pin-Signal-Map</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.cpp" line="103"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.cpp" line="105"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -8588,18 +8588,18 @@ Do you want to save them before closing the project?</translation>
 (Highest priority at top)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="104"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="105"/>
         <source>Restore default settings</source>
         <translation>Restore default settings</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="105"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="106"/>
         <source>Are you sure to reset all settings to their default values?</source>
         <translation>Are you sure to reset all settings to their default values?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="211"/>
-        <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="224"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="212"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="225"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
