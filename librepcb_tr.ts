@@ -12,17 +12,17 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="75"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen özellik türü birimi &quot;%1&quot;: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="91"/>
         <source>Invalid %1 value: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz %1 değeri: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="117"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz özellik türü: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -30,22 +30,22 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="38"/>
         <source>LibrePCB Default Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB Varsayılan Tasarım Kuralları</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="126"/>
         <source>Invalid design rules: %1</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz tasarım kuralları: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="144"/>
         <source>Stop mask clearance: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>Maske boşluğu: MAX en az MIN&apos;den büyük olmalıdır.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="155"/>
         <source>Cream mask clearance: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>Pasta maske boşluğu: MAX en az MIN&apos;den büyük olmalıdır.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="166"/>
