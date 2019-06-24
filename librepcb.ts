@@ -3210,34 +3210,34 @@ p, li { white-space: pre-wrap; }
         <translation>Add package pad(s)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="99"/>
-        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="113"/>
-        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="258"/>
+        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="103"/>
+        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="117"/>
+        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="262"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="146"/>
+        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="150"/>
         <source>Pad name (may contain ranges like &quot;%1&quot;)</source>
         <translation>Pad name (may contain ranges like &quot;%1&quot;)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="188"/>
+        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="192"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="196"/>
+        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="200"/>
         <source>New:</source>
         <translation>New:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="199"/>
+        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="203"/>
         <source>Add a new pad</source>
         <translation>Add a new pad</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="305"/>
+        <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="309"/>
         <source>There is already a pad with the name &quot;%1&quot;.</source>
         <translation>There is already a pad with the name &quot;%1&quot;.</translation>
     </message>
