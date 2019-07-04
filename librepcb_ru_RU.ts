@@ -744,12 +744,12 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>QuaZIODevice</name>
     <message>
-        <location filename="../libs/quazip/quazip/quaziodevice.cpp" line="147"/>
+        <location filename="../libs/quazip/quazip/quaziodevice.cpp" line="188"/>
         <source>QIODevice::Append is not supported for QuaZIODevice</source>
         <translation>QIODevice::Append не поддерживается для QuaZIODevice</translation>
     </message>
     <message>
-        <location filename="../libs/quazip/quazip/quaziodevice.cpp" line="152"/>
+        <location filename="../libs/quazip/quazip/quaziodevice.cpp" line="193"/>
         <source>QIODevice::ReadWrite is not supported for QuaZIODevice</source>
         <translation>QIODevice::ReadWrite не поддерживается для QuaZIODevice</translation>
     </message>
@@ -757,7 +757,7 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>QuaZipFile</name>
     <message>
-        <location filename="../libs/quazip/quazip/quazipfile.cpp" line="247"/>
+        <location filename="../libs/quazip/quazip/quazipfile.cpp" line="249"/>
         <source>ZIP/UNZIP API error %1</source>
         <translation>Ошибка ZIP/UNZIP API %1</translation>
     </message>
