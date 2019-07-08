@@ -6114,7 +6114,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
 <context>
     <name>librepcb::project::BoardGerberExport</name>
     <message>
-        <location filename="../libs/librepcb/project/boards/boardgerberexport.cpp" line="570"/>
+        <location filename="../libs/librepcb/project/boards/boardgerberexport.cpp" line="578"/>
         <source>Sorry, non-square octagons are not yet supported.</source>
         <translation type="unfinished"/>
     </message>
