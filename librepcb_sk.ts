@@ -938,7 +938,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="112"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Všeobecné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="120"/>
@@ -2241,7 +2241,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="535"/>
         <source>Workspace Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenie pracovnej plochy</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="547"/>
@@ -2417,7 +2417,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="17"/>
         <source>Select Workspace Path</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť cestu k prac. ploche</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="51"/>
@@ -2471,7 +2471,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacesettings.ui" line="17"/>
         <source>Workspace Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenie pracovnej plochy</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacesettings.ui" line="20"/>
@@ -2486,12 +2486,12 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacesettings.ui" line="36"/>
         <source>e.g. &quot;John Doe&quot;</source>
-        <translation type="unfinished"/>
+        <translation>napr. &quot;Jožko Mrkvička&quot;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacesettings.ui" line="43"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Meno bude použité ako meno autora pri vytváraní nových projektov, alebo knižníc.</translation>
     </message>
 </context>
 <context>
@@ -9442,7 +9442,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_debugtools.cpp" line="47"/>
         <source>Warning: Some of these settings may only work in DEBUG mode!</source>
-        <translation type="unfinished"/>
+        <translation>Upozornenie: Niektoré z týchto nastavení sú platné len v ladiacom režime!</translation>
     </message>
 </context>
 <context>
@@ -9450,7 +9450,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_projectautosaveinterval.cpp" line="66"/>
         <source>Minutes (0 = disable autosave)</source>
-        <translation type="unfinished"/>
+        <translation>Minút (0 = vypnutie tejto funkcie)</translation>
     </message>
 </context>
 <context>
@@ -9463,7 +9463,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_repositories.cpp" line="159"/>
         <source>The URL is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná adresa URL.</translation>
     </message>
 </context>
 <context>
@@ -9471,12 +9471,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_user.cpp" line="55"/>
         <source>e.g. &quot;John Doe&quot;</source>
-        <translation type="unfinished"/>
+        <translation>napr. &quot;Jožko Mrkvička&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_user.cpp" line="58"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Meno bude použité ako meno autora pri vytváraní nových projektov, alebo knižníc.</translation>
     </message>
 </context>
 <context>
@@ -9484,17 +9484,17 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="70"/>
         <source>Invalid workspace path: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná cesta k prac. ploche</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="78"/>
         <source>The workspace version %1 is not compatible with this application version.</source>
-        <translation type="unfinished"/>
+        <translation>Verzia pracovnej plochy %1 nie je kompatibilná s touto verziou aplikácie.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="98"/>
         <source>The workspace is already opened by another application instance or user!</source>
-        <translation type="unfinished"/>
+        <translation>Pracovná plocha je otvorená inou inštanciou aplikácie, alebo užívateľom!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="237"/>
@@ -9504,22 +9504,22 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="225"/>
         <source>Select Workspace Path</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť cestu k prac. ploche</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="229"/>
         <source>Create new workspace?</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť novú pracovnú plochu?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="230"/>
         <source>The specified workspace does not exist. Do you want to create a new workspace?</source>
-        <translation type="unfinished"/>
+        <translation>Zvolená prac. plocha neexistuje. Chcete vytvoriť novú?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="238"/>
         <source>Could not create the workspace!</source>
-        <translation type="unfinished"/>
+        <translation>Nepodarilo sa vytvoriť pracovnú plochu!</translation>
     </message>
 </context>
 <context>
@@ -9527,22 +9527,22 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/workspacechooserdialog.ui" line="14"/>
         <source>Please choose a workspace</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, zvoľte pracovnú plochu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspacechooserdialog.ui" line="35"/>
         <source>Add existing Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Pridať vytvorenú prac. plochu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspacechooserdialog.ui" line="42"/>
         <source>Create new Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť novú prac. plochu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspacechooserdialog.ui" line="49"/>
         <source>Remove selected Workspaces from list</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť zvolenú pracovnú plochu zo zoznamu</translation>
     </message>
 </context>
 <context>
@@ -9550,7 +9550,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="401"/>
         <source>Library not found in workspace library: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Knižnica sa nenachádza v knižnici pracovnej plochy: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="423"/>
@@ -9560,17 +9560,17 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="631"/>
         <source>Endless loop in category parentship detected (%1).</source>
-        <translation type="unfinished"/>
+        <translation>Boli zistené odkazy kategórii v slučke (%1).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="658"/>
         <source>The category &quot;%1&quot; does not exist in the library database.</source>
-        <translation type="unfinished"/>
+        <translation>Kategória &quot;%1&quot; sa nenachádza v databáze knižníc.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="742"/>
         <source>The library &quot;%1&quot; does not exist in the library database.</source>
-        <translation type="unfinished"/>
+        <translation>Knižnica &quot;%1&quot; sa nenachádza v databáze knižníc.</translation>
     </message>
 </context>
 <context>
@@ -9578,12 +9578,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="17"/>
         <source>Workspace Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenie pracovnej plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="33"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Všeobecné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="56"/>
@@ -9598,12 +9598,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="102"/>
         <source>Repositories</source>
-        <translation type="unfinished"/>
+        <translation>Repozitáre</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="110"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Repositories are used to browse, download and update libraries.&lt;br/&gt;You can add any server to this list which implements the LibrePCB API.&lt;br/&gt;The official LibrePCB server is &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Repozitáre sú určené pre prehľadávanie, stiahnutie a aktualizáciu knižníc.&lt;br/&gt;Do tohoto zoznamu môžete pridávať ľubovolné adresy serverov, ktoré chcete používať s LibrePCB API. Oficiálny LibrePCB server je https://api.librepcb.org&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;&lt;a href=&quot;https://api.librepcb.org&quot;&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="77"/>
@@ -9625,7 +9625,8 @@ Do you want to save them before closing the project?</source>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="168"/>
         <source>Are you sure to reset all settings to their default values?
 After applying you cannot undo this change.</source>
-        <translation type="unfinished"/>
+        <translation>Naozaj chcete obnoviť pôvodné nastavenie?
+Táto zmena je nevratná.</translation>
     </message>
 </context>
 <context>
@@ -9633,12 +9634,12 @@ After applying you cannot undo this change.</source>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="239"/>
         <source>Unstable file format!</source>
-        <translation type="unfinished"/>
+        <translation>Formát súboru, sa môže zmeniť!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="240"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application could break your workspace, libraries or projects! It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;&lt;b&gt;UPOZORNENIE: Toto nie je stabilná verzia aplikácie!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Práca s ňou, môže poškodiť Vašu pracovnú plochu, knižnice, alebo projekty! Pred pokračovaním Vám odporúčame, vytvoriť si ich kópie. Ak ste si nie istý, prosím radšej si stiahnite oficiálnu stabilnú verziu.&lt;/p&gt;&lt;p&gt;Naozaj chcete pokračovať s vedomím možného poškodenia Vašich súborov?&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>
