@@ -1429,12 +1429,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="204"/>
         <source>Names</source>
-        <translation type="unfinished"/>
+        <translation>Názvy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="205"/>
         <source>Values</source>
-        <translation type="unfinished"/>
+        <translation>Hodnoty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="206"/>
@@ -2894,7 +2894,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="221"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Názov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="223"/>
@@ -2984,7 +2984,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="365"/>
         <source>Placement</source>
-        <translation type="unfinished"/>
+        <translation>Umiestnenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="367"/>
@@ -3036,7 +3036,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="262"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Názov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="264"/>
@@ -3117,7 +3117,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="237"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Názov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="245"/>
@@ -3195,7 +3195,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="192"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Názov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="200"/>
@@ -5581,7 +5581,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="177"/>
         <source>License:</source>
-        <translation type="unfinished"/>
+        <translation>Licencia:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="198"/>
@@ -5596,7 +5596,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="220"/>
         <source>https://en.wikipedia.org/wiki/Creative_Commons_license</source>
-        <translation type="unfinished"/>
+        <translation>https://en.wikipedia.org/wiki/Creative_Commons_license</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="223"/>
@@ -8135,32 +8135,32 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/editnetclassesdialog.ui" line="36"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Názov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/editnetclassesdialog.ui" line="46"/>
         <source>Add Netclass</source>
-        <translation type="unfinished"/>
+        <translation>Pridať triedu spojov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/editnetclassesdialog.ui" line="53"/>
         <source>Remove Netclass</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť triedu spojov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/editnetclassesdialog.cpp" line="62"/>
         <source>Edit Netclasses</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť triedy spojov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/editnetclassesdialog.cpp" line="121"/>
         <source>Could not change netclass name</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa zmeniť názov triedy spojov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/editnetclassesdialog.cpp" line="136"/>
         <source>Add Net Class</source>
-        <translation type="unfinished"/>
+        <translation>Pridať triedu spojov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/editnetclassesdialog.cpp" line="136"/>
@@ -8170,12 +8170,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/editnetclassesdialog.cpp" line="153"/>
         <source>Could not add netclass</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa pridať trieda spojov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/editnetclassesdialog.cpp" line="172"/>
         <source>Could not remove netclass</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa odstrániť trieda spojov</translation>
     </message>
 </context>
 <context>
@@ -8183,52 +8183,52 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.ui" line="23"/>
         <source>ERC</source>
-        <translation type="unfinished"/>
+        <translation>ERC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.ui" line="81"/>
         <source>Approve Selected Messages</source>
-        <translation type="unfinished"/>
+        <translation>Odsúhlasiť vybraté správy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="217"/>
         <source>Circuit Errors (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Chyby v zapojení (%1)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="221"/>
         <source>Circuit Warnings (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Upozornenia v zapojení (%1)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="225"/>
         <source>Schematic Errors (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Chyby na schéme (%1)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="230"/>
         <source>Schematic Warnings (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Upozornenia na schéme (%1)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="233"/>
         <source>Board Errors (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Chyby na doske (%1)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="236"/>
         <source>Board Warnings (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Upozornenia na doske (%1)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="239"/>
         <source>Approved (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Odsúhlasené (%1)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="241"/>
         <source>ERC [%1]</source>
-        <translation type="unfinished"/>
+        <translation>ERC [%1]</translation>
     </message>
 </context>
 <context>
@@ -8236,67 +8236,67 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="17"/>
         <source>Fabrication Output Generator</source>
-        <translation type="unfinished"/>
+        <translation>Generátor výrobných dát</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This is a simple RS-274X X2 / Excellon file generator. It&apos;s still in an experimental state and thus may have some issues.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;=&amp;gt; Please review the generated files before ordering PCBs!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;To open the generated files, you could use the free application &lt;a href=&quot;http://gerbv.geda-project.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;gerbv&lt;/span&gt;&lt;/a&gt; or the &lt;a href=&quot;https://gerber.ucamco.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;official reference viewer from Ucamco&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Toto je jednoduchý RS-274X X2 / Excellon generátor súborov. Ešte stále je v štádiu experimentovania takže môže obsahovať určité problémy.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;=&amp;gt; Prosím skontrolujte si vygenerované súbory pred objednaním DPS!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Na otvorenie týchto súborov, môžete použiť bezplatnú aplikáciu &lt;a href=&quot;http://gerbv.geda-project.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;gerbv&lt;/span&gt;&lt;/a&gt; alebo &lt;a href=&quot;https://gerber.ucamco.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;oficiálny referenčný prehliadač od fy. Ucamco&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="52"/>
         <source>Output Files</source>
-        <translation type="unfinished"/>
+        <translation>Výstupné súbory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="65"/>
         <source>Drills NPTH:</source>
-        <translation type="unfinished"/>
+        <translation>Vŕtanie NPTH:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="79"/>
         <source>Top Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Vrchné spoje:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="116"/>
         <source>Merge PTH and NPTH drills into one file</source>
-        <translation type="unfinished"/>
+        <translation>Zlúčiť PTH a NPTH vŕtanie do jednoho súboru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="123"/>
         <source>Outlines:</source>
-        <translation type="unfinished"/>
+        <translation>Obrys:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="137"/>
         <source>Top Silkscreen:</source>
-        <translation type="unfinished"/>
+        <translation>Vrchný popis:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="144"/>
         <source>Drills Merged:</source>
-        <translation type="unfinished"/>
+        <translation>Vŕtanie spolu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="151"/>
         <source>Bottom Soldermask:</source>
-        <translation type="unfinished"/>
+        <translation>Spodná spájk. maska:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="165"/>
         <source>Top Soldermask:</source>
-        <translation type="unfinished"/>
+        <translation>Vrchná spájk. maska:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="186"/>
         <source>Bottom Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Spodné spoje:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="193"/>
         <source>Drills PTH:</source>
-        <translation type="unfinished"/>
+        <translation>Vŕtanie PTH</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="200"/>
@@ -8307,76 +8307,78 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="207"/>
         <source>Bottom Paste Mask
 (Bottom Stencil):</source>
-        <translation type="unfinished"/>
+        <translation>Spodná maska pasty
+(Spodná šablóna):</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="229"/>
         <source>Predefined configs:</source>
-        <translation type="unfinished"/>
+        <translation>Preddefinované konfigurácie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="252"/>
         <source>Default (layer encoded in file name)</source>
-        <translation type="unfinished"/>
+        <translation>Východzie (kódy vrstiev budú v názvoch súborov)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="259"/>
         <source>Protel naming (layer encoded in file extension)</source>
-        <translation type="unfinished"/>
+        <translation>Pomenovanie Protel (kódy vrstiev budú ako extensia súborov)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="268"/>
         <source>Top Paste Mask
 (Top Stencil):</source>
-        <translation type="unfinished"/>
+        <translation>Vrchná maska pasty
+(Vrchná šablóna):</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="283"/>
         <source>Bottom Silkscreen:</source>
-        <translation type="unfinished"/>
+        <translation>Spodná popisná:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="290"/>
         <source>Inner Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Vnútorné vodivé:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="302"/>
         <source>Top Silkscreen Layers</source>
-        <translation type="unfinished"/>
+        <translation>Vrchné popisné vrstvy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="311"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="350"/>
         <source>Placement</source>
-        <translation type="unfinished"/>
+        <translation>Umiestnenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="321"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="360"/>
         <source>Names</source>
-        <translation type="unfinished"/>
+        <translation>Názvy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="331"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="370"/>
         <source>Values</source>
-        <translation type="unfinished"/>
+        <translation>Hodnoty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="341"/>
         <source>Bottom Silkscreen Layers</source>
-        <translation type="unfinished"/>
+        <translation>Spodné popisné vrstvy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="382"/>
         <source>Generate Gerber &amp;&amp; Excellon Files</source>
-        <translation type="unfinished"/>
+        <translation>Generovať Gerber a Excellon súbory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="389"/>
         <source>Browse Output Directory</source>
-        <translation type="unfinished"/>
+        <translation>Prehľadávať výstupný adresár</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.cpp" line="177"/>
@@ -8386,12 +8388,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.cpp" line="187"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Upozornenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.cpp" line="187"/>
         <source>Directory does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Adresár neexistuje.</translation>
     </message>
 </context>
 <context>
@@ -8399,7 +8401,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizard.ui" line="14"/>
         <source>Create New Project</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť nový projekt</translation>
     </message>
 </context>
 <context>
@@ -8407,17 +8409,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_initialization.ui" line="17"/>
         <source>Specify how the project should be initialized.</source>
-        <translation type="unfinished"/>
+        <translation>Nastavte ako bude projekt vytvorený.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_initialization.ui" line="14"/>
         <source>Initialization</source>
-        <translation type="unfinished"/>
+        <translation>Inicializácia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_initialization.ui" line="23"/>
         <source>Add Sche&amp;matic</source>
-        <translation type="unfinished"/>
+        <translation>Pridať list sché&amp;my</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_initialization.ui" line="32"/>
@@ -8429,12 +8431,12 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_initialization.ui" line="46"/>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_initialization.ui" line="86"/>
         <source>Filename:</source>
-        <translation type="unfinished"/>
+        <translation>Názov súboru:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_initialization.ui" line="63"/>
         <source>Add B&amp;oard</source>
-        <translation type="unfinished"/>
+        <translation>Pridať d&amp;osku s plošnými spojmi</translation>
     </message>
 </context>
 <context>
@@ -8442,12 +8444,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="20"/>
         <source>Project Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Metadáta projektu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="23"/>
         <source>Specify some metadata of the project to be created.</source>
-        <translation type="unfinished"/>
+        <translation>Zadajte metadáta projektu, ktorý sa má vytvoriť.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="29"/>
@@ -8462,27 +8464,27 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="63"/>
         <source>License:</source>
-        <translation type="unfinished"/>
+        <translation>Licencia:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="70"/>
         <source>Location:</source>
-        <translation type="unfinished"/>
+        <translation>Umiestnenie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="106"/>
         <source>Full Path:</source>
-        <translation type="unfinished"/>
+        <translation>Celá cesta:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="163"/>
         <source>A LibrePCB project consists of a whole directory, not only of a single file. Just select the new project&apos;s parent directory, and the subdirectory and filename will be set automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Projekt LibrePCB pozostáva z celého adresára, nielen jedného súboru. Stačí vybrať nadradený adresár nového projektu a automaticky sa nastaví podadresár a názov súboru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="197"/>
         <source>https://en.wikipedia.org/wiki/Creative_Commons_license</source>
-        <translation type="unfinished"/>
+        <translation>https://en.wikipedia.org/wiki/Creative_Commons_license</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="200"/>
@@ -8517,7 +8519,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="167"/>
         <source>The location must be an existing directory.</source>
-        <translation>Lokácia musí byť do jestvujúceho adresára.</translation>
+        <translation>Umiestnenie musí smerovať do už jestvujúceho adresára.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.cpp" line="176"/>
