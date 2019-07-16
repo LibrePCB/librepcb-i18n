@@ -9421,7 +9421,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_applocale.cpp" line="99"/>
         <source>Changing the language needs to restart the application.</source>
-        <translation type="unfinished"/>
+        <translation>Po zmene jazyku, je potrebné reštartovať aplikáciu.</translation>
     </message>
 </context>
 <context>
@@ -9429,12 +9429,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_appearance.cpp" line="49"/>
         <source>Use OpenGL Hardware Acceleration</source>
-        <translation type="unfinished"/>
+        <translation>Použiť hardvérovú akceleráciu OpenGL</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_appearance.cpp" line="54"/>
         <source>This setting will be applied only to newly opened windows.</source>
-        <translation type="unfinished"/>
+        <translation>Toto nastavenie bude použité iba pri novo otvorených oknách.</translation>
     </message>
 </context>
 <context>
@@ -9555,7 +9555,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="423"/>
         <source>Device not found in workspace library: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Prvok sa nenachádza v knižnici: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="631"/>
