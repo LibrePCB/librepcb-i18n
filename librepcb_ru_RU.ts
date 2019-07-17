@@ -177,12 +177,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="138"/>
         <source>Path to project file (*.lpp[z]).</source>
-        <translation type="unfinished"/>
+        <translation>Путь к файлу проекта (*.lpp[z]).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="150"/>
         <source>Path to library directory (*.lplib).</source>
-        <translation type="unfinished"/>
+        <translation>Путь к каталогу библиотек (*.lplib).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="170"/>
@@ -1036,7 +1036,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypecurrent.cpp" line="39"/>
         <source>Current</source>
-        <translation type="unfinished"/>
+        <translation>Сила тока</translation>
     </message>
 </context>
 <context>
@@ -1060,7 +1060,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypepower.cpp" line="39"/>
         <source>Power</source>
-        <translation type="unfinished"/>
+        <translation>Мощность</translation>
     </message>
 </context>
 <context>
@@ -2063,7 +2063,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="71"/>
         <source>It seems that the application was crashed the last time. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Похоже предыдущий запуск приложения завершился с ошибкой. Хотите восстановиться из автосохранения?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="197"/>
