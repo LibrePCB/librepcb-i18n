@@ -488,7 +488,7 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgduplicatesignalname.cpp" line="42"/>
         <source>All component signals must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several pins which are electrically exactly equal (e.g. multiple GND pins), you should add only one of these pins as a component signal. The assignment to multiple pins should be done in the device editor instead.</source>
-        <translation type="unfinished"/>
+        <translation>Všetky signály komponentu, musia mať jedinečné názvy, inak nebudú korektne rozpoznané v editore súčiastok. Ak súčiastka obsahuje viacero vývodov s rovnakou el. funkciou (napr. GND), mali by ste vytvoriť iba jeden takýto vývod ako signál komponentu. Priradenie viacerých vývodov sch. značky k tomuto jednému signálu, bude následne možné v editore súčiastok.</translation>
     </message>
 </context>
 <context>
@@ -496,12 +496,12 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingauthor.cpp" line="37"/>
         <source>Author not set</source>
-        <translation type="unfinished"/>
+        <translation>Nezadané meno autora</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingauthor.cpp" line="38"/>
         <source>It is recommended to set an author (e.g. full name or nickname), although it&apos;s not required.</source>
-        <translation type="unfinished"/>
+        <translation>Zadať meno autora (plné meno, alebo prezývku) je odporúčané, ale nie potrebné.</translation>
     </message>
 </context>
 <context>
@@ -509,12 +509,12 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingcategories.cpp" line="37"/>
         <source>No categories set</source>
-        <translation type="unfinished"/>
+        <translation>Nezvolené kategórie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingcategories.cpp" line="38"/>
         <source>It&apos;s very important to assign every library element to at least one category. Otherwise it will be very hard to find the element in the workspace library, so it&apos;s highly recommended to fix this.</source>
-        <translation type="unfinished"/>
+        <translation>Je veľmi dôležité začleniť každý prvok knižnice do príslušnej kategórie. Inak bude veľmi ťažké vyhľadať konkrétny prvok v prac. knižnici.</translation>
     </message>
 </context>
 <context>
@@ -522,7 +522,7 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="37"/>
         <source>No default value set</source>
-        <translation type="unfinished"/>
+        <translation>Východzia hodnota nie je nastavená</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="38"/>
@@ -531,7 +531,10 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
 Generic parts (e.g. a diode): %1
 Specific parts (e.g. a microcontroller): %2
 Passive parts: Using an attribute, e.g. %3</source>
-        <translation type="unfinished"/>
+        <translation>Komponenty by mali mať nastavenú východziu hodnotu. Táto hodnota je prenášaná v poli hodnota spolu s komponentom pri pridávaní do schémy. Hodnota môže obsahovať aj špeciálne zástupné znaky, ktoré budú neskôr zmenené v schéme. Bežne používané východzie hodnoty sú:
+Všeobecné súčiastky (napr. diódy): %1
+Špecifické súčiastky (napr. mikrokontroléry): %2
+Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     </message>
 </context>
 <context>
@@ -539,12 +542,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentprefix.cpp" line="37"/>
         <source>No component prefix set</source>
-        <translation type="unfinished"/>
+        <translation>Prefix komponentu nie je nastavený</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentprefix.cpp" line="38"/>
         <source>Most components should have a prefix defined. The prefix is used to generate the component&apos;s name when adding it to a schematic. For example the prefix &apos;R&apos; (resistor) leads to component names &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos; etc.</source>
-        <translation type="unfinished"/>
+        <translation>Komponenty by mali mať definovaný prefix. Prefix je použitý pri generovaní ich názvu pri pridaní do schémy. Napríklad prefix &apos;R&apos; (rezistor) zabezpečí vygenerovanie názvov &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos;, atď.</translation>
     </message>
 </context>
 <context>
@@ -552,12 +555,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprint.cpp" line="37"/>
         <source>No footprint defined</source>
-        <translation type="unfinished"/>
+        <translation>Púzdro nie je definované</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprint.cpp" line="38"/>
         <source>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</source>
-        <translation type="unfinished"/>
+        <translation>Každé fyzické púzdro súčiastky musí mať pridané minimálne jedno púzdro použité na návrh DPS. Inak nebude môcť byť pridané na dosku s plošnými spojmi.</translation>
     </message>
 </context>
 <context>
@@ -565,12 +568,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintname.cpp" line="41"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Chýbajúci text &apos;%1&apos; pri púzdre &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintname.cpp" line="43"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Púzdra použité na návrh DPS, by mali obsahovať textové reťazce označujúce názov súčiastky, Inak ich nebude možné identifikovať na plošnom spoji (ich názov nebude vo vrstve popisu). Existuje len pár výnimiek, kedy nie je potrebné takýto text zadefinovať (napr. pomocné komponenty nesúvisiace so schémou), pre takéto ignorujte túto správu.</translation>
     </message>
 </context>
 <context>
@@ -578,7 +581,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintvalue.cpp" line="41"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Chýbajúci text &apos;%1&apos; pri púzdre &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintvalue.cpp" line="43"/>
