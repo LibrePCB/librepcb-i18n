@@ -86,139 +86,139 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="69"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť knižnicu pre vykonanie jej úloh.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="70"/>
         <source>open-library [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>open-library [command_options]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="75"/>
         <source>LibrePCB Command Line Interface</source>
-        <translation type="unfinished"/>
+        <translation>Rozhranie príkazového riadka LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="78"/>
         <source>Verbose output.</source>
-        <translation type="unfinished"/>
+        <translation>Podrobný výstup</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="80"/>
         <source>The command to execute.</source>
-        <translation type="unfinished"/>
+        <translation>Príkaz k vykonaniu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="85"/>
         <source>Run the electrical rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Spustiť kontrolu elektrických pravidiel, zobraziť všetky neschválené upozornenia/chyby a zlyhania (exit code = 1) ak sú neschválené oznámenia.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="90"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať listy schém do príslušných súborov. Ak súbory už existujú, budú prepísané. Podporované typy súborov: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="93"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="104"/>
         <source>file</source>
-        <translation type="unfinished"/>
+        <translation>súbor</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="96"/>
         <source>Export PCB fabrication data (Gerber/Excellon) according the fabrication output settings of boards. Existing files will be overwritten.</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať výrobné dáta (Gerber/Excellon) na základe nastavenia. Ak súbory už existujú, budú prepísané.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="101"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>Nahradenie nastavenia generovania výrobných dát dosky pomocou *.lp súboru obsahujúceho užívateľské nastavenie. Ak nie je nastavené, bude použité nastavenie generovania výrobných dát z dosky.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="106"/>
         <source>The name of the board(s) to export. Can be given multiple times. If not set, all boards are exported.</source>
-        <translation type="unfinished"/>
+        <translation>Názov exportovanej dosky/dosiek. Môže byť zadaných viacej názvov. Ak nie je zadané, všetky dosky budú exportované.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="109"/>
         <source>name</source>
-        <translation type="unfinished"/>
+        <translation>názov</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="112"/>
         <source>Save project before closing it (useful to upgrade file format).</source>
-        <translation type="unfinished"/>
+        <translation>Uložiť projekt pred jeho uzavretím (užitočné pre aktualizáciu formátu súboru).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="116"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
-        <translation type="unfinished"/>
+        <translation>Vykonať zvolenú akciu/akcie na všetky položky v otvorenej knižnici.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="119"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
-        <translation type="unfinished"/>
+        <translation>Uložiť knižnicu (a obsahujúce položky ak &apos;--all&apos; bol zadaný) pred jej uzavretím (užitočné pre aktualizáciu formátu knižnice).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="150"/>
         <source>Path to library directory (*.lplib).</source>
-        <translation type="unfinished"/>
+        <translation>Cesta do adresára s knižnicou (*.lplib).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="154"/>
         <source>Unknown command &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Neznámy príkaz &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="182"/>
         <source>Commands:</source>
-        <translation type="unfinished"/>
+        <translation>Príkazy:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="169"/>
         <source>LibrePCB CLI Version %1</source>
-        <translation type="unfinished"/>
+        <translation>Príkazový riadok LibrePCB - verzia %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="138"/>
         <source>Path to project file (*.lpp[z]).</source>
-        <translation type="unfinished"/>
+        <translation>Cesta k súboru projektu (*.lpp[z]).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="170"/>
         <source>Git Revision %1</source>
-        <translation type="unfinished"/>
+        <translation>Git revízia %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="171"/>
         <source>Qt Version %1 (compiled against %2)</source>
-        <translation type="unfinished"/>
+        <translation>Qt Verzia %1 (skompilované %2)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="173"/>
         <source>Built at %1</source>
-        <translation type="unfinished"/>
+        <translation>Built at %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="199"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="214"/>
         <source>Wrong argument count.</source>
-        <translation type="unfinished"/>
+        <translation>Nesprávny počet argumentov.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="223"/>
         <source>Internal failure.</source>
-        <translation type="unfinished"/>
+        <translation>Interné zlyhanie.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="226"/>
         <source>SUCCESS</source>
-        <translation type="unfinished"/>
+        <translation>ÚSPEŠNE</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="229"/>
         <source>Finished with errors!</source>
-        <translation type="unfinished"/>
+        <translation>Ukončené s chybami!</translation>
     </message>
 </context>
 <context>
@@ -227,12 +227,12 @@
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="75"/>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="168"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Adresár &quot;%1&quot; neexistuje.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="94"/>
         <source>The lock file &quot;%1&quot; has too few lines.</source>
-        <translation type="unfinished"/>
+        <translation>Súbor &quot;%1&quot; obsahuje príliš málo riadkov.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="146"/>
@@ -280,7 +280,7 @@
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="99"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="165"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Adresár &quot;%1&quot; neexistuje.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="122"/>
