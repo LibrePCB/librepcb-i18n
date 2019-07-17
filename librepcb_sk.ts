@@ -4,17 +4,17 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="75"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Neznáma jednotka atribútu &quot;%1&quot;: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="91"/>
         <source>Invalid %1 value: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Nesprávna %1 hodnota: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="117"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Nesprávny typ atribútu: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -22,32 +22,32 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="38"/>
         <source>LibrePCB Default Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Východzie LibrePCB návrhové pravidlá</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="126"/>
         <source>Invalid design rules: %1</source>
-        <translation type="unfinished"/>
+        <translation>Nesprávne pravidlá: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="144"/>
         <source>Stop mask clearance: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>Presah nespájkovacej masky: MAX musí byť &gt;= MIN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="155"/>
         <source>Cream mask clearance: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>Presah spájkovacej masky: MAX musí byť &gt;= MIN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="166"/>
         <source>Restring pads: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>Šírka okružia sp. plôšky: MAX musí byť &gt;= MIN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="177"/>
         <source>Restring vias: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>Šírka okružia prechodu: MAX musí byť &gt;= MIN</translation>
     </message>
 </context>
 <context>
@@ -60,7 +60,7 @@
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="218"/>
         <source>Failed to calculate the connection point of a cut-in to an outline!</source>
-        <translation type="unfinished"/>
+        <translation>Nepodaril sa vypočítať bod pripojenia frézy do obrysu.</translation>
     </message>
 </context>
 <context>
@@ -68,7 +68,7 @@
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.cpp" line="83"/>
         <source>Invalid component signal pin display type: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Nesprávny typ zobrazenia vývodu komponentu: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -76,12 +76,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="66"/>
         <source>Open a project to execute project-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť projekt pre vykonanie jeho úloh.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="67"/>
         <source>open-project [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>open-project [command_options]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="69"/>
