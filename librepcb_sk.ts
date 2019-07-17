@@ -586,7 +586,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintvalue.cpp" line="43"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Púzdra použité na návrh DPS, by mali obsahovať textový reťazec obsahujúci hodnotu súčiastky, inak nebude zobrazená v popisnej vrstve na DPS. Existuje len pár výnimiek, kedy nie je potrebné tento text zadať (napr. pomocné komponenty nesúvisiace so schémou), pre takéto ignorujte túto správu.</translation>
     </message>
 </context>
 <context>
@@ -594,12 +594,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="37"/>
         <source>Missing text: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Chýbajúci text: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="38"/>
         <source>Most symbols should have a text element for the component&apos;s name, otherwise you won&apos;t see that name in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a name, for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Schematické značky by mali obsahovať textový reťazec označujúci názov súčiastky inak nebude ich názov viditeľný v schéme. Existuje len pár výnimiek, kedy nie je potrebné tento text zadať (napr. obrys schémy), v týchto prípadoch ignorujte túto správu.</translation>
     </message>
 </context>
 <context>
@@ -607,12 +607,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="37"/>
         <source>Missing text: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Chýbajúci text: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="38"/>
         <source>Most symbols should have a text element for the component&apos;s value, otherwise you won&apos;t see that value in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a value, for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Schematické značky by mali obsahovať textový reťazec označujúci hodnotu súčiastky, inak nebude viditeľná v schéme.</translation>
     </message>
 </context>
 <context>
@@ -620,12 +620,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariant.cpp" line="37"/>
         <source>No symbol variant defined</source>
-        <translation type="unfinished"/>
+        <translation>Nedefinovaný variant sch. značky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariant.cpp" line="38"/>
         <source>Every component requires at least one symbol variant, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Každý komponent vyžaduje minimálne jeden variant schematickej značky, inak nebude pridaný do schémy.</translation>
     </message>
 </context>
 <context>
@@ -633,12 +633,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariantitem.cpp" line="41"/>
         <source>Symbol variant &apos;%1&apos; has no items</source>
-        <translation type="unfinished"/>
+        <translation>Variant sch. značky &apos;%1&apos; je prázdny</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariantitem.cpp" line="43"/>
         <source>Every symbol variant requires at least one symbol item, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Každý variant sch. značky musí byť nakreslený, inak nebude pridaný do schémy.</translation>
     </message>
 </context>
 <context>
@@ -646,12 +646,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/msg/msgnamenottitlecase.cpp" line="37"/>
         <source>Name not title case: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Názov nezačína veľkým písmenom: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/msg/msgnamenottitlecase.cpp" line="38"/>
         <source>Generally the library element name should be written in title case (for consistency). As the current name has words starting with a lowercase character, it seems that it is not title cases. If this assumption is wrong, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Platí pravidlo, že názvy knižničných prvkov sú zadávané s veľkými počiatočnými písmenami (title case). V prípade názvu práve zvoleného prvku to vyzerá, že bolo použité malé počiatočné písmeno. Ak tomu tak nie je, ignorujte túto správu.</translation>
     </message>
 </context>
 <context>
@@ -659,12 +659,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgoverlappingsymbolpins.cpp" line="43"/>
         <source>There are multiple pins at the same position. This is not allowed because you cannot connect wires to these pins in the schematic editor.</source>
-        <translation type="unfinished"/>
+        <translation>Na rovnakej pozícii sa nachádza viacero vývodov. Toto nie je povolené pretože v editore schém, by sa nedali elektricky prepojiť.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgoverlappingsymbolpins.cpp" line="63"/>
         <source>Overlapping pins: %1</source>
-        <translation type="unfinished"/>
+        <translation>Prekrývajúce sa plôšky vývodov púzdra: %1</translation>
     </message>
 </context>
 <context>
@@ -672,12 +672,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadoverlapswithplacement.cpp" line="43"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to placement layer</source>
-        <translation type="unfinished"/>
+        <translation>Nedodržaná minimálna povolená vzdialenosť medzi plôškou vývodu &apos;%1&apos; v &apos;%2&apos; a prvkom vo vrstve obrysu púzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadoverlapswithplacement.cpp" line="45"/>
         <source>Pads should have at least %1 clearance to the outlines layer because outlines are drawn on silkscreen which will be cropped for Gerber export.</source>
-        <translation type="unfinished"/>
+        <translation>plôška vývodu púzdra by mala mať nastavené minimálne %1 minimálne povolené vzdialenosti voči obrysu, pretože tento je vygenerovaný do popisnej vrstvy (silkscreen) a bude prerušený pri exportovaní Gerber dát.</translation>
     </message>
 </context>
 <context>
@@ -685,7 +685,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgsymbolpinnotongrid.cpp" line="42"/>
         <source>Pin not on %1mm grid: &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Vývod sch. značky je mimo %1mm rastra: &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgsymbolpinnotongrid.cpp" line="44"/>
