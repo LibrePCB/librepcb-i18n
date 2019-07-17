@@ -690,7 +690,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgsymbolpinnotongrid.cpp" line="44"/>
         <source>Every pin must be placed exactly on the %1mm grid, otherwise it cannot be connected in the schematic editor.</source>
-        <translation type="unfinished"/>
+        <translation>Každý vývod schematickej značky musí byť umiestnený presne v rastri %1mm, inak sa nebude dať v schematickom editore elektricky pripojiť.</translation>
     </message>
 </context>
 <context>
@@ -698,12 +698,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgwrongfootprinttextlayer.cpp" line="46"/>
         <source>Layer of &apos;%1&apos; in &apos;%2&apos; is not &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Vrstva &apos;%1&apos; v &apos;%2&apos; nie je &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgwrongfootprinttextlayer.cpp" line="49"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Textový reťazec &apos;%1&apos; sa bežne umiestňuje vo vrstve &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -711,12 +711,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgwrongsymboltextlayer.cpp" line="42"/>
         <source>Layer of &apos;%1&apos; is not &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Vrstva &apos;%1&apos; nie je &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgwrongsymboltextlayer.cpp" line="44"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Textový reťazec &apos;%1&apos; sa bežne umiestňuje vo vrstve &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -724,17 +724,17 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/quazip/quazip/quagzipfile.cpp" line="60"/>
         <source>QIODevice::Append is not supported for GZIP</source>
-        <translation type="unfinished"/>
+        <translation>QIODevice::Append nie je podporovaný GZIP-om</translation>
     </message>
     <message>
         <location filename="../libs/quazip/quazip/quagzipfile.cpp" line="66"/>
         <source>Opening gzip for both reading and writing is not supported</source>
-        <translation type="unfinished"/>
+        <translation>Otvorenie gzip pre súčasný zápis a čítanie nie je podporované</translation>
     </message>
     <message>
         <location filename="../libs/quazip/quazip/quagzipfile.cpp" line="74"/>
         <source>You can open a gzip either for reading or for writing. Which is it?</source>
-        <translation type="unfinished"/>
+        <translation>GZIP môžete otvoriť buď len pre zápis, alebo len pre čítanie. Ktorý si vyberiete?</translation>
     </message>
     <message>
         <location filename="../libs/quazip/quazip/quagzipfile.cpp" line="80"/>
@@ -747,12 +747,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/quazip/quazip/quaziodevice.cpp" line="188"/>
         <source>QIODevice::Append is not supported for QuaZIODevice</source>
-        <translation type="unfinished"/>
+        <translation>QIODevice::Append nie je podporované pre QuaZIODevice</translation>
     </message>
     <message>
         <location filename="../libs/quazip/quazip/quaziodevice.cpp" line="193"/>
         <source>QIODevice::ReadWrite is not supported for QuaZIODevice</source>
-        <translation type="unfinished"/>
+        <translation>QIODevice::ReadWrite nie je podporované pre QuaZIODevice</translation>
     </message>
 </context>
 <context>
@@ -760,7 +760,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/quazip/quazip/quazipfile.cpp" line="249"/>
         <source>ZIP/UNZIP API error %1</source>
-        <translation type="unfinished"/>
+        <translation>ZIP/UNZIP API chyba %1</translation>
     </message>
 </context>
 <context>
@@ -822,32 +822,32 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="191"/>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="199"/>
         <source>Could not determine if another process is running.</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa zistiť ak beží iný proces.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="222"/>
         <source>proc_name() failed with error %1.</source>
-        <translation type="unfinished"/>
+        <translation>Funkcia proc_name() neúspešne ukončená s chybou %1.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="240"/>
         <source>Could not find the file &quot;/proc/version&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa nájsť súbor &quot;/proc/version&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="270"/>
         <source>OpenProcess() failed with error %1.</source>
-        <translation type="unfinished"/>
+        <translation>Funkcia OpenProcess() neúspešne ukončená s chybou %1.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="279"/>
         <source>QueryFullProcessImageNameW() failed with error %1.</source>
-        <translation type="unfinished"/>
+        <translation>Funkcia QueryFullProcessImageNameW() neúspešne ukončená s chybou %1.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="295"/>
         <source>Could not determine the process name of another process.</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa zistiť názov iného procesu.</translation>
     </message>
 </context>
 <context>
@@ -855,7 +855,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/uuid.cpp" line="69"/>
         <source>String is not a valid UUID: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Reťazec nie je platné UUID: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -863,7 +863,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/version.cpp" line="94"/>
         <source>Invalid version number: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné číslo verzie: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -876,12 +876,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="304"/>
         <source>Cannot open the workspace</source>
-        <translation type="unfinished"/>
+        <translation>Pracovná plocha sa nedá otvoriť</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="305"/>
         <source>The workspace &quot;%1&quot; cannot be opened: %2</source>
-        <translation type="unfinished"/>
+        <translation>Pracovná plocha &quot;%1&quot; nemôže byť otvorená: %2</translation>
     </message>
 </context>
 <context>
@@ -889,47 +889,47 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="93"/>
         <source>Undo: %1</source>
-        <translation type="unfinished"/>
+        <translation>Späť: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="95"/>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Späť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="100"/>
         <source>Redo: %1</source>
-        <translation type="unfinished"/>
+        <translation>Opakovať: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="102"/>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Opakovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="63"/>
         <source>Millimeters</source>
-        <translation type="unfinished"/>
+        <translation>milimetre</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="65"/>
         <source>Micrometers</source>
-        <translation type="unfinished"/>
+        <translation>mikrometre</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="67"/>
         <source>Nanometers</source>
-        <translation type="unfinished"/>
+        <translation>nanometre</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="69"/>
         <source>Inches</source>
-        <translation type="unfinished"/>
+        <translation>Inches</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="71"/>
         <source>Mils</source>
-        <translation type="unfinished"/>
+        <translation>Mils</translation>
     </message>
 </context>
 <context>
@@ -938,7 +938,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="14"/>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="74"/>
         <source>About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>O LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="112"/>
@@ -948,32 +948,32 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="120"/>
         <source>LibrePCB is a free &amp;amp; open source schematic/layout-editor. It is mainly developed by Urban Bruhin, with &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/graphs/contributors&quot;&gt;over a dozen other contributors&lt;/a&gt;!</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB je slobodný a otvorený editor schém a plošných spojov. Primárne vyvíjaný autorom Urban Bruhin, s &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/graphs/contributors&quot;&gt;viac ako tuctom ďalších prispievateľov&lt;/a&gt;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="163"/>
         <source>LibrePCB is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/blob/master/LICENSE.txt&quot;&gt;in our source code&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB je slobodný softvér uvoľnený pod licenciou &quot;GNU General Public License (GPL) version 3 or later&quot;.  Plné znenie licencie je súčasťou &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/blob/master/LICENSE.txt&quot;&gt;zdrojového kódu&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="189"/>
         <source>Contributing</source>
-        <translation type="unfinished"/>
+        <translation>Prispievanie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="197"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;LibrePCB is a community project, and therefore it relies on contributions! There are different ways you can contribute:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;LibrePCB je komunitný projekt a preto sa spolieha na príspevky! Je niekoľko možností ako môžete prispieť:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="213"/>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>Darovanie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="236"/>
         <source>Contribute Code</source>
-        <translation type="unfinished"/>
+        <translation>Prispenie kódom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="243"/>
@@ -983,7 +983,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="259"/>
         <source>Spread The Word</source>
-        <translation type="unfinished"/>
+        <translation>Šírenie po okolí</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="266"/>
@@ -2101,14 +2101,14 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="171"/>
         <source>Undo: %1</source>
-        <translation type="unfinished"/>
+        <translation>Späť: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="172"/>
         <location filename="../libs/librepcb/common/undostack.cpp" line="266"/>
         <location filename="../libs/librepcb/common/undostack.cpp" line="343"/>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Opakovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="207"/>
@@ -2120,7 +2120,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="342"/>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Späť</translation>
     </message>
 </context>
 <context>
