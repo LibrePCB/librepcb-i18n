@@ -975,11 +975,6 @@ Passive parts: Using an attribute, e.g. %3</source>
         <translation>Помочь с кодом</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="243"/>
-        <source>TEXT_CONTRIBUTE_CODE</source>
-        <translation>TEXT_CONTRIBUTE_CODE</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="259"/>
         <source>Spread The Word</source>
         <translation type="unfinished"/>
