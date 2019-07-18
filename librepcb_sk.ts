@@ -2064,32 +2064,32 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="71"/>
         <source>It seems that the application was crashed the last time. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Vypadá to tak, že aplikácia bola nekorektne ukončená. Želáte si obnoviť všetko z automatickej zálohy?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="197"/>
         <source>File &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Súbor &apos;%1&apos; neexistuje.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="240"/>
         <source>Failed to open the ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba pri otváraní ZIP súboru &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="256"/>
         <source>Failed to create the ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba pri vytváraní ZIP súboru &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="380"/>
         <source>Failed to write file &apos;%1&apos; to &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba pri zápise do súboru &apos;%1&apos; to &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="392"/>
         <source>File system is read-only.</source>
-        <translation type="unfinished"/>
+        <translation>Súborový systém nie je zapisovateľný.</translation>
     </message>
 </context>
 <context>
@@ -2098,7 +2098,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../libs/librepcb/common/undostack.cpp" line="145"/>
         <location filename="../libs/librepcb/common/undostack.cpp" line="188"/>
         <source>Another command is active at the moment. Please finish that command to continue.</source>
-        <translation type="unfinished"/>
+        <translation>Práve je aktívna iná akcia. Prosím najskôr ju ukončite..</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="171"/>
@@ -2117,7 +2117,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../libs/librepcb/common/undostack.cpp" line="224"/>
         <location filename="../libs/librepcb/common/undostack.cpp" line="247"/>
         <source>No command group active!</source>
-        <translation type="unfinished"/>
+        <translation>Nie je aktívna skupina príkazov!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="342"/>
@@ -2130,12 +2130,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/utils/undostackactiongroup.cpp" line="78"/>
         <source>Undo failed</source>
-        <translation type="unfinished"/>
+        <translation>Príkaz neúspešný</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/undostackactiongroup.cpp" line="86"/>
         <source>Redo failed</source>
-        <translation type="unfinished"/>
+        <translation>Príkaz neúspešný</translation>
     </message>
 </context>
 <context>
@@ -2143,24 +2143,24 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="14"/>
         <source>LibrePCB ControlPanel</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB Ovládací panel</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="53"/>
         <source>This workspace was already used with a newer version of LibrePCB. All changes in libraries and workspace settings will not be available in newer versions of LibrePCB.</source>
-        <translation type="unfinished"/>
+        <translation>Táto pracovná plocha už bol použitá s novšou verziou LibrePCB. Vykonané zmeny v knižniciach a nastavenie pracovnej plochy, preto nebudú dostupné v novšej verzii LibrePCB.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="83"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This workspace does not contain any libraries, which are essential to create and modify projects. You should open the library manager to add some libraries. &lt;a href=&quot;LibraryManager&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Click here to open the library manager&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Táto pracovná plocha neobsahuje žiadnu knižnicu, ktorá je nevyhnutná k vytvoreniu alebo pri úprave projektu. Mali by ste pomocou správcu knižníc, pridať knižnicu. &lt;a href=&quot;LibraryManager&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Kliknite sem pre otvorenie správcu knižníc&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="168"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="512"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="581"/>
         <source>New Project</source>
-        <translation type="unfinished"/>
+        <translation>Nový projekt</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="185"/>
@@ -2168,27 +2168,27 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="474"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="552"/>
         <source>Open Project</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť projekt</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="202"/>
         <source>Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>Správca knižníc</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="254"/>
         <source>Recent Projects</source>
-        <translation type="unfinished"/>
+        <translation>Naposledy otvorené projekty</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="327"/>
         <source>Favorite Projects</source>
-        <translation type="unfinished"/>
+        <translation>Obľúbené projekty</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="401"/>
         <source>Project description</source>
-        <translation type="unfinished"/>
+        <translation>Popis projektu</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="438"/>
@@ -2198,17 +2198,17 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="450"/>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Pomoc</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="459"/>
         <source>Extras</source>
-        <translation type="unfinished"/>
+        <translation>Nástroje</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="477"/>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Ukončiť</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="480"/>
@@ -2218,7 +2218,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="488"/>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>O Qt</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="500"/>
@@ -2243,7 +2243,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="526"/>
         <source>Switch Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Prepnúť prac. plochu</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="535"/>
@@ -2254,27 +2254,27 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="547"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="550"/>
         <source>Open Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť správcu knižníc</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="559"/>
         <source>Close all open projects</source>
-        <translation type="unfinished"/>
+        <translation>Zatvoriť všetky otvorené projekty</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="564"/>
         <source>Rescan Library</source>
-        <translation type="unfinished"/>
+        <translation>Prebehnúť knižnicu</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="72"/>
         <source>Control Panel - LibrePCB %1</source>
-        <translation type="unfinished"/>
+        <translation>Ovládací panel - LibrePCB %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="77"/>
         <source>Workspace: %1</source>
-        <translation type="unfinished"/>
+        <translation>Pracovná plocha: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="82"/>
@@ -2284,13 +2284,13 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="279"/>
         <source>Could not create project</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa vytvoriť projekt</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="306"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="338"/>
         <source>Could not open project</source>
-        <translation type="unfinished"/>
+        <translation>Projekt sa nedá vytvoriť</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="398"/>
@@ -2301,53 +2301,53 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="475"/>
         <source>LibrePCB project files (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Súbory projektu LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="500"/>
         <source>Workspace changed</source>
-        <translation type="unfinished"/>
+        <translation>Pracovná plocha zmenená</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="501"/>
         <source>The chosen workspace will be used after restarting the application.</source>
-        <translation type="unfinished"/>
+        <translation>Zvolená pracovná plocha bude použitá po reštarte aplikácie.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="556"/>
         <source>Close Project</source>
-        <translation type="unfinished"/>
+        <translation>Zatvoriť projekt</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="562"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="687"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="716"/>
         <source>Remove from favorites</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť z obľúbených</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="566"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="690"/>
         <source>Add to favorites</source>
-        <translation type="unfinished"/>
+        <translation>Pridať k obľúbeným</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="571"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="693"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="718"/>
         <source>Update project library</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizovať projektovú knižnicu</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="574"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="583"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="616"/>
         <source>New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Nový adresár</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="588"/>
