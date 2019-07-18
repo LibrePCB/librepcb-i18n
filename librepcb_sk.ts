@@ -2362,7 +2362,11 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
 %1
 
 Warning: This cannot be undone!</source>
-        <translation type="unfinished"/>
+        <translation>Naozaj chcete odstrániť tento súbor alebo adresár?
+
+%1
+
+Upozornenie: Akciu nemožno vrátiť späť!</translation>
     </message>
 </context>
 <context>
@@ -2370,7 +2374,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizard.ui" line="17"/>
         <source>Choose LibrePCB Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť LibrePCB pracovnú plochu</translation>
     </message>
 </context>
 <context>
@@ -2379,22 +2383,22 @@ Warning: This cannot be undone!</source>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_welcome.ui" line="14"/>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_welcome.ui" line="17"/>
         <source>Welcome to LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>Vitajte v LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_welcome.ui" line="20"/>
         <source>This wizard will help you to open or create a LibrePCB workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Tento sprievodca pomáha vytvoriť alebo otvoriť LibrePCB pracovnú plochu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_welcome.ui" line="26"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600;&quot;&gt;Welcome To LibrePCB&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600;&quot;&gt;Vitajte v LibrePCB&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_welcome.ui" line="43"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Website: &lt;a href=&quot;https://librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://librepcb.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;GitHub Project: &lt;a href=&quot;https://github.com/LibrePCB&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://github.com/LibrePCB&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;LibrePCB is published under the &lt;a href=&quot;http://www.gnu.org/licenses/gpl-3.0.html&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;GNU GPLv3&lt;/span&gt;&lt;/a&gt; License.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Web stránka: &lt;a href=&quot;https://librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://librepcb.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Projekt na GitHub-e: &lt;a href=&quot;https://github.com/LibrePCB&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://github.com/LibrePCB&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;LibrePCB je publikovaný podľa &lt;a href=&quot;http://www.gnu.org/licenses/gpl-3.0.html&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;GNU GPLv3&lt;/span&gt;&lt;/a&gt; licencie.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2402,19 +2406,21 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"/>
+        <translation>Stránka sprievodcu</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="20"/>
         <source>Please select a directory to open or create a LibrePCB workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím zvoľte adresár pre otvorenie alebo vytvorenie LibrePCB pracovnej plochy.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="32"/>
         <source>LibrePCB needs a workspace directory to store settings, libraries and projects.
 
 Workspaces are platform independent, so they can be used across different operating systems.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB potrebuje adresár pre pracovnú plochu kde bude ukladať nastavenia, knižnice a projekty.
+
+Pracovná plocha je nezávislá od platformy, takže môže byť použiteľná na rôznych operačných systémoch.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="17"/>
@@ -2424,48 +2430,48 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="51"/>
         <source>Create a n&amp;ew workspace</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť novú prac.plochu</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="61"/>
         <source>Choose an empty directory to create a new workspace:</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte prázdny adresár pre vytvorenie pracovnej plochy:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="92"/>
         <source>Open an e&amp;xisting workspace</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť jestvujúcu prac.plochu</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="102"/>
         <source>Select the workspace directory:</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte adresár prac. plochy:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="70"/>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="79"/>
         <source>Invalid Directory</source>
-        <translation type="unfinished"/>
+        <translation>Nesprávny adresár</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="71"/>
         <source>The selected directory is invalid or not empty.</source>
-        <translation type="unfinished"/>
+        <translation>Zvolený adresár je poškodený, alebo nie je prázdny.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="80"/>
         <source>The selected directory is not a valid workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Zvolený adresár nie je adresár prac. plochy.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="110"/>
         <source>Select Empty Directory</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte prázdny adresár</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="117"/>
         <source>Select Workspace Directory</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť adresár prac. plochy</translation>
     </message>
 </context>
 <context>
