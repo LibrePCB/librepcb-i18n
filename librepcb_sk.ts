@@ -1288,7 +1288,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/geometry/cmd/cmdstroketextedit.cpp" line="39"/>
         <source>Edit stroke text</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť text prvku</translation>
     </message>
 </context>
 <context>
@@ -1402,13 +1402,13 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="197"/>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="220"/>
         <source>Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentácia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="198"/>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="221"/>
         <source>Comments</source>
-        <translation type="unfinished"/>
+        <translation>Poznámka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="199"/>
@@ -1454,52 +1454,52 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="208"/>
         <source>Pin Names</source>
-        <translation type="unfinished"/>
+        <translation>Názov vývodu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="209"/>
         <source>Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Číslo vývodu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="212"/>
         <source>Board Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Obrys dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="213"/>
         <source>Milling (PTH)</source>
-        <translation type="unfinished"/>
+        <translation>Frézovanie (PTH)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="214"/>
         <source>Drills (NPTH)</source>
-        <translation type="unfinished"/>
+        <translation>Vŕtanie (NPTH)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="215"/>
         <source>Pads</source>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="216"/>
         <source>Vias</source>
-        <translation type="unfinished"/>
+        <translation>Prechody</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="217"/>
         <source>Air Wires</source>
-        <translation type="unfinished"/>
+        <translation>Vzdušné spoje</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="218"/>
         <source>Measures</source>
-        <translation type="unfinished"/>
+        <translation>Meranie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="219"/>
         <source>Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnanie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="224"/>
@@ -1642,7 +1642,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="23"/>
         <source>Grid Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenie rastra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="35"/>
@@ -1652,47 +1652,47 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="41"/>
         <source>No Grid</source>
-        <translation type="unfinished"/>
+        <translation>Bez rastra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="51"/>
         <source>Dots</source>
-        <translation type="unfinished"/>
+        <translation>Bodky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="61"/>
         <source>Lines</source>
-        <translation type="unfinished"/>
+        <translation>Čiary</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="83"/>
         <source>Grid Parameter</source>
-        <translation type="unfinished"/>
+        <translation>Parametre rastra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="89"/>
         <source>Interval:</source>
-        <translation type="unfinished"/>
+        <translation>Opakovanie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="99"/>
         <source>In Nanometers:</source>
-        <translation type="unfinished"/>
+        <translation>V nanometroch:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="116"/>
         <source>(internal representation)</source>
-        <translation type="unfinished"/>
+        <translation>(interná reprezentácia)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="147"/>
         <source>-</source>
-        <translation type="unfinished"/>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="157"/>
         <source>+</source>
-        <translation type="unfinished"/>
+        <translation>+</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.cpp" line="115"/>
@@ -1705,7 +1705,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.ui" line="14"/>
         <source>Hole Properties</source>
-        <translation type="unfinished"/>
+        <translation>Vlastnosti otvoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.ui" line="22"/>
@@ -1728,7 +1728,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequest.cpp" line="55"/>
         <source>The received content exceeds the 100MB size limit.</source>
-        <translation type="unfinished"/>
+        <translation>Prijatý obsah prekračuje limit 100MB.</translation>
     </message>
 </context>
 <context>
@@ -1736,85 +1736,87 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="95"/>
         <source>Start request...</source>
-        <translation type="unfinished"/>
+        <translation>Spúšťam požiadavku....</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="98"/>
         <source>Fatal error: Download manager is not running.</source>
-        <translation type="unfinished"/>
+        <translation>Fatálna chyba: Správca sťahovania nie je spustený.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="105"/>
         <source>Abort request...</source>
-        <translation type="unfinished"/>
+        <translation>Požiadavka na prerušenie....</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="118"/>
         <source>Request started...</source>
-        <translation type="unfinished"/>
+        <translation>Požiadavka spustená...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="123"/>
         <source>Network access manager is not running.</source>
-        <translation type="unfinished"/>
+        <translation>Správca sieťového prístupu nie je spustený.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="140"/>
         <source>GET request failed! Network access manager thread not running?!</source>
-        <translation type="unfinished"/>
+        <translation>GET požiadavka zlyhala! Je spustený správca siete?!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="168"/>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="241"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="177"/>
         <source>SSL errors occured:
 
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Vyskytla sa chyba SSL:
+
+%1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="194"/>
         <source>Receive data: %1</source>
-        <translation type="unfinished"/>
+        <translation>Príjem dát: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="209"/>
         <source>Network request aborted.</source>
-        <translation type="unfinished"/>
+        <translation>Sieťová požiadavka prerušená.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="219"/>
         <source>Redirection loop detected.</source>
-        <translation type="unfinished"/>
+        <translation>Zdetegované zacyklenie presmerovaní.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="222"/>
         <source>Too many redirects.</source>
-        <translation type="unfinished"/>
+        <translation>Príliš veľa presmerovaní.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="229"/>
         <source>Redirect to %1...</source>
-        <translation type="unfinished"/>
+        <translation>Presmerované na %1...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="262"/>
         <source>Request successfully finished.</source>
-        <translation type="unfinished"/>
+        <translation>Požiadavka úspešne ukončená.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="268"/>
         <source>Request aborted.</source>
-        <translation type="unfinished"/>
+        <translation>Požiadavka prerušená.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="274"/>
         <source>Request failed: %1</source>
-        <translation type="unfinished"/>
+        <translation>Požiadavka neúspešná: %1</translation>
     </message>
 </context>
 <context>
@@ -1822,17 +1824,17 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/widgets/patheditorwidget.cpp" line="43"/>
         <source>Pos. X</source>
-        <translation type="unfinished"/>
+        <translation>Poz. X</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/patheditorwidget.cpp" line="44"/>
         <source>Pos Y.</source>
-        <translation type="unfinished"/>
+        <translation>Poz Y.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/patheditorwidget.cpp" line="45"/>
         <source>Angle</source>
-        <translation type="unfinished"/>
+        <translation>Uhol</translation>
     </message>
 </context>
 <context>
@@ -1840,7 +1842,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="14"/>
         <source>Polygon Properties</source>
-        <translation type="unfinished"/>
+        <translation>Vlastnosti polygónu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="25"/>
@@ -1878,12 +1880,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/network/repository.cpp" line="98"/>
         <source>Received JSON object is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Prijatý objekt JSON nie je platný.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/repository.cpp" line="115"/>
         <source>Received JSON object does not contain any results.</source>
-        <translation type="unfinished"/>
+        <translation>Prijatý objekt JSON neobsahuje žiaden výsledok.</translation>
     </message>
 </context>
 <context>
@@ -1891,43 +1893,43 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="73"/>
         <source>Invalid database: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná databáza: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="79"/>
         <source>Could not open database: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa otvoriť databáza: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="108"/>
         <source>Could not start database transaction.</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa spustiť databázová akcia.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="119"/>
         <source>Could not commit database transaction.</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa potvrdiť databázová transakcia.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="133"/>
         <source>Could not rollback database transaction.</source>
-        <translation type="unfinished"/>
+        <translation>Databázová transakcia sa nedá vrátiť späť.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="158"/>
         <source>Error while preparing SQL query: %1</source>
-        <translation type="unfinished"/>
+        <translation>Chyba počas vytvárania dotazu SQL: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="187"/>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="197"/>
         <source>Error while executing SQL query: %1</source>
-        <translation type="unfinished"/>
+        <translation>Vyskytla sa chyba počas vykonávania SQL dotazu: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="219"/>
         <source>Could not enable SQLite Write-Ahead Logging: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa povoliť spustenie záznamu SQLite Write-Ahead: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -1935,7 +1937,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="14"/>
         <source>Stroke Text Properties</source>
-        <translation type="unfinished"/>
+        <translation>Vlastnosti textu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="22"/>
@@ -1945,17 +1947,17 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="38"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Text:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="48"/>
         <source>Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnanie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="58"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Výška:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="87"/>
@@ -1970,12 +1972,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="153"/>
         <source>Stroke Width:</source>
-        <translation type="unfinished"/>
+        <translation>Šírka:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="176"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Možnosti:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="185"/>
@@ -1985,23 +1987,23 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="192"/>
         <source>Auto-Rotate</source>
-        <translation type="unfinished"/>
+        <translation>Automatické otáčanie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="222"/>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="266"/>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="231"/>
         <source>Line Spacing:</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi riadkami:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="238"/>
         <source>Letter Spacing:</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi znakmi:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.cpp" line="161"/>
@@ -2014,7 +2016,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="14"/>
         <source>Text Properties</source>
-        <translation type="unfinished"/>
+        <translation>Vlastnosti textu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="22"/>
@@ -2024,17 +2026,17 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="38"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Text:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="48"/>
         <source>Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnanie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="58"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Výška:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="81"/>
@@ -2057,7 +2059,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="70"/>
         <source>Restore autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Obnoviť z automatickej zálohy?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="71"/>
@@ -4961,7 +4963,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="136"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Výška:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="151"/>
@@ -5067,12 +5069,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="87"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Text:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="105"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Výška:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="195"/>
@@ -5136,7 +5138,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="109"/>
         <source>Pads</source>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="164"/>
@@ -5361,12 +5363,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="87"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Text:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="106"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Výška:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="196"/>
@@ -7034,12 +7036,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="128"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Text:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="147"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Výška:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="165"/>
@@ -7794,7 +7796,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.ui" line="105"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Možnosti:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.cpp" line="86"/>
