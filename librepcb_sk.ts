@@ -739,7 +739,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/quazip/quazip/quagzipfile.cpp" line="80"/>
         <source>Could not gzopen() file</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa otvoriť súbor pomocou gzopen()</translation>
     </message>
 </context>
 <context>
@@ -1175,7 +1175,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="55"/>
         <source>Stop Mask Max. Via Diam.:</source>
-        <translation type="unfinished"/>
+        <translation>Max. priemer prep. otvoru v nesp. maske:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="78"/>
