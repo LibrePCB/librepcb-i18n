@@ -8397,7 +8397,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="389"/>
         <source>Browse Output Directory</source>
-        <translation>Prehľadávať výstupný adresár</translation>
+        <translation>Otvoriť výstupný adresár</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.cpp" line="177"/>
