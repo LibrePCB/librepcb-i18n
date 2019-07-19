@@ -116,7 +116,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="90"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportovať listy schém do príslušných súborov. Ak súbory už existujú, budú prepísané. Podporované typy súborov: %1</translation>
+        <translation>Exportovať schematické listy do príslušných súborov. Ak súbory už existujú, budú prepísané. Podporované typy súborov: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="93"/>
@@ -1008,7 +1008,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="72"/>
         <source>Check out our &lt;a href=&apos;%1&apos;&gt;Contribution Guidelines&lt;/a&gt; if you&apos;re interested in development of LibrePCB!</source>
-        <translation>Pozrite si &lt;a href=&apos;%1&apos;&gt;inštrukcie pre prispievateľov&lt;/a&gt; ak máte záujem podieľať sa na vývoji LibrePCB!</translation>
+        <translation>Pozrite si &lt;a href=&apos;%1&apos;&gt;inštrukcie pre prispievateľov&lt;/a&gt;, ak máte záujem podieľať sa na vývoji LibrePCB!</translation>
     </message>
 </context>
 <context>
@@ -1652,7 +1652,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="51"/>
         <source>Dots</source>
-        <translation>Bodky</translation>
+        <translation>Body</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="61"/>
@@ -2233,12 +2233,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="585"/>
         <source>LibrePCB Website</source>
-        <translation>Webstránka LibrePCB</translation>
+        <translation>Prejsť na stránku LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="526"/>
         <source>Switch Workspace</source>
-        <translation>Prepnúť prac. plochu</translation>
+        <translation>Prepnúť pracovnú plochu</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="535"/>
@@ -2259,7 +2259,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="564"/>
         <source>Rescan Library</source>
-        <translation>Prebehnúť knižnicu</translation>
+        <translation>Skenovať knižnicu</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="72"/>
@@ -2274,7 +2274,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="82"/>
         <source>Scanning libraries (%p%)</source>
-        <translation>Prezeranie knižníc (%p%)</translation>
+        <translation>Skenovanie knižníc (%p%)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="279"/>
@@ -4217,7 +4217,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="623"/>
         <source>LibrePCB Website</source>
-        <translation>Webstránka LibrePCB</translation>
+        <translation>Prejsť na stránku LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="130"/>
@@ -4232,7 +4232,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="136"/>
         <source>Scanning libraries (%p%)</source>
-        <translation>Prezeranie knižníc (%p%)</translation>
+        <translation>Skenovanie knižníc (%p%)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="537"/>
@@ -7423,7 +7423,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="398"/>
         <source>LibrePCB Website</source>
-        <translation>Webstránka LibrePCB</translation>
+        <translation>Prejsť na stránku LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="407"/>
@@ -7678,7 +7678,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="226"/>
         <source>Scanning libraries (%p%)</source>
-        <translation>Prezeranie knižníc (%p%)</translation>
+        <translation>Skenovanie knižníc (%p%)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="376"/>
@@ -8222,12 +8222,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="225"/>
         <source>Schematic Errors (%1)</source>
-        <translation>Chyby na schéme (%1)</translation>
+        <translation>Chyby v schéme (%1)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="230"/>
         <source>Schematic Warnings (%1)</source>
-        <translation>Upozornenia na schéme (%1)</translation>
+        <translation>Upozornenia v schéme (%1)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="233"/>
@@ -8468,7 +8468,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="23"/>
         <source>Specify some metadata of the project to be created.</source>
-        <translation>Zadajte metadáta projektu, ktorý sa má vytvoriť.</translation>
+        <translation>Zadajte údaje vytváraného projektu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="29"/>
@@ -8498,7 +8498,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="163"/>
         <source>A LibrePCB project consists of a whole directory, not only of a single file. Just select the new project&apos;s parent directory, and the subdirectory and filename will be set automatically.</source>
-        <translation>Projekt LibrePCB pozostáva z celého adresára, nielen jedného súboru. Stačí vybrať nadradený adresár nového projektu a automaticky sa nastaví podadresár a názov súboru.</translation>
+        <translation>Projekt LibrePCB pozostáva z celého adresára, nielen jedného súboru. Stačí vybrať nadradený adresár nového projektu a automaticky sa vytvorí podadresár a názov súboru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="197"/>
@@ -8765,7 +8765,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_drawwire.cpp" line="323"/>
         <source>Draw Wire</source>
-        <translation>Kresliť spoj</translation>
+        <translation>Pridať spoj</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_drawwire.cpp" line="348"/>
@@ -9031,7 +9031,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="416"/>
         <source>LibrePCB Website</source>
-        <translation>Webstránka LibrePCB</translation>
+        <translation>Prejsť na stránku LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="425"/>
@@ -9121,7 +9121,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="545"/>
         <source>&amp;Draw Wire</source>
-        <translation>Kresliť spoj</translation>
+        <translation>Pridať spoj</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="554"/>
@@ -9222,7 +9222,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="192"/>
         <source>Scanning libraries (%p%)</source>
-        <translation>Prezeranie knižníc (%p%)</translation>
+        <translation>Skenovanie knižníc (%p%)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="316"/>
@@ -9262,7 +9262,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.ui" line="20"/>
         <source>Pages</source>
-        <translation>Listy</translation>
+        <translation>Schematické listy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="117"/>
@@ -9446,7 +9446,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_applocale.cpp" line="99"/>
         <source>Changing the language needs to restart the application.</source>
-        <translation>Po zmene jazyku, je potrebné reštartovať aplikáciu.</translation>
+        <translation>Po zmene jazyka je potrebné reštartovať aplikáciu.</translation>
     </message>
 </context>
 <context>
@@ -9628,7 +9628,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="110"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Repositories are used to browse, download and update libraries.&lt;br/&gt;You can add any server to this list which implements the LibrePCB API.&lt;br/&gt;The official LibrePCB server is &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Repozitáre sú určené pre prehľadávanie, stiahnutie a aktualizáciu knižníc.&lt;br/&gt;Do tohoto zoznamu môžete pridávať ľubovolné adresy serverov, ktoré chcete používať s LibrePCB API. Oficiálny LibrePCB server je https://api.librepcb.org&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;&lt;a href=&quot;https://api.librepcb.org&quot;&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Repozitáre sú určené pre prehľadávanie, stiahnutie a aktualizáciu knižníc.&lt;br/&gt;Do tohoto zoznamu môžete pridávať ľubovolné adresy serverov, ktoré chcete používať s LibrePCB API.&lt;br/&gt; Oficiálny LibrePCB server je &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="77"/>
