@@ -22,7 +22,7 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="38"/>
         <source>LibrePCB Default Design Rules</source>
-        <translation>Východzie LibrePCB návrhové pravidlá</translation>
+        <translation>Predvolené LibrePCB návrhové pravidlá</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="126"/>
@@ -522,7 +522,7 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="37"/>
         <source>No default value set</source>
-        <translation>Východzia hodnota nie je nastavená</translation>
+        <translation>Predvolená hodnota nie je nastavená</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="38"/>
@@ -531,7 +531,7 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
 Generic parts (e.g. a diode): %1
 Specific parts (e.g. a microcontroller): %2
 Passive parts: Using an attribute, e.g. %3</source>
-        <translation>Komponenty by mali mať nastavenú východziu hodnotu. Táto hodnota je prenášaná v poli hodnota spolu s komponentom pri pridávaní do schémy. Hodnota môže obsahovať aj špeciálne zástupné znaky, ktoré budú neskôr zmenené v schéme. Bežne používané východzie hodnoty sú:
+        <translation>Komponenty by mali mať nastavenú predvolenú hodnotu. Táto hodnota je prenášaná v poli hodnota spolu s komponentom pri pridávaní do schémy. Hodnota môže obsahovať aj špeciálne zástupné znaky, ktoré budú neskôr zmenené v schéme. Bežne používané východzie hodnoty sú:
 Všeobecné súčiastky (napr. diódy): %1
 Špecifické súčiastky (napr. mikrokontroléry): %2
 Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
@@ -2653,7 +2653,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="363"/>
         <source>Board &apos;%1&apos;:</source>
-        <translation type="unfinished"/>
+        <translation>Doska &apos;%1&apos;:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="375"/>
@@ -2876,7 +2876,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="93"/>
         <source>Add component signal(s)</source>
-        <translation type="unfinished"/>
+        <translation>Pridať signál(y) komponentu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="106"/>
@@ -3050,7 +3050,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="192"/>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>Predvolený</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="262"/>
@@ -3431,7 +3431,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.ui" line="31"/>
         <source>What are you looking for?</source>
-        <translation type="unfinished"/>
+        <translation>Čo hľadáte?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="98"/>
@@ -3446,7 +3446,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="184"/>
         <source>No component selected</source>
-        <translation type="unfinished"/>
+        <translation>Nie je vybraný komponent</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="194"/>
@@ -3544,7 +3544,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="316"/>
         <source>Default Value:</source>
-        <translation type="unfinished"/>
+        <translation>Predvolená hodnota:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="333"/>
@@ -4613,7 +4613,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentproperties.ui" line="40"/>
         <source>Default Value:</source>
-        <translation type="unfinished"/>
+        <translation>Predvolená hodnota:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentproperties.ui" line="54"/>
@@ -4651,7 +4651,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentsymbols.ui" line="20"/>
         <source>Add all symbols which are required to represent this component.</source>
-        <translation type="unfinished"/>
+        <translation>Pridať všetky sch. symboly potrebné v tomto komponente.</translation>
     </message>
 </context>
 <context>
@@ -4710,7 +4710,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="115"/>
         <source>No component selected</source>
-        <translation type="unfinished"/>
+        <translation>Nie je vybraný komponent</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="143"/>
@@ -4899,7 +4899,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.ui" line="31"/>
         <source>What are you looking for?</source>
-        <translation type="unfinished"/>
+        <translation>Čo hľadáte?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="98"/>
@@ -5231,7 +5231,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.ui" line="31"/>
         <source>What are you looking for?</source>
-        <translation type="unfinished"/>
+        <translation>Čo hľadáte?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="117"/>
@@ -6179,12 +6179,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardadd.cpp" line="41"/>
         <source>Add board</source>
-        <translation type="unfinished"/>
+        <translation>Pridať dosku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardadd.cpp" line="51"/>
         <source>Copy board</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovať dosku</translation>
     </message>
 </context>
 <context>
@@ -6321,7 +6321,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardremove.cpp" line="41"/>
         <source>Remove board</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť dosku</translation>
     </message>
 </context>
 <context>
@@ -6361,7 +6361,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdcomponentinstanceadd.cpp" line="48"/>
         <source>Add component</source>
-        <translation type="unfinished"/>
+        <translation>Pridať komponent</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdcomponentinstanceadd.cpp" line="69"/>
@@ -6954,17 +6954,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.ui" line="14"/>
         <source>Add Component</source>
-        <translation type="unfinished"/>
+        <translation>Pridať komponent</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.ui" line="22"/>
         <source>What are you looking for?</source>
-        <translation type="unfinished"/>
+        <translation>Čo hľadáte?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="427"/>
         <source>No component selected</source>
-        <translation type="unfinished"/>
+        <translation>Nie je vybraný komponent</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.ui" line="108"/>
@@ -6974,7 +6974,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="498"/>
         <source>No device selected</source>
-        <translation type="unfinished"/>
+        <translation>Prvok nie je vybraný</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="181"/>
@@ -7268,12 +7268,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="17"/>
         <source>Board Editor</source>
-        <translation type="unfinished"/>
+        <translation>Editor dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="55"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The schematic contains components which are not placed yet on this board. You can add them with the &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Place Devices&lt;/span&gt;&lt;/a&gt; dock.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Schéma obsahuje komponenty, ktoré nie zatiaľ nie sú umiestnené na tejto doske s plošnými spojmi. Pridáte ich pomocou dokovateľného dialógu &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Neumiestnené prvky&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="78"/>
@@ -7308,7 +7308,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="153"/>
         <source>&amp;Board</source>
-        <translation type="unfinished"/>
+        <translation>Doska</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="176"/>
@@ -7563,7 +7563,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="591"/>
         <source>&amp;New Board</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nová doska</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="594"/>
@@ -7608,7 +7608,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="650"/>
         <source>&amp;Copy Board</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovať dosku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="659"/>
@@ -7633,7 +7633,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="681"/>
         <source>Remove &amp;Board</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť dosku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="690"/>
@@ -7683,7 +7683,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="376"/>
         <source>Add New Board</source>
-        <translation type="unfinished"/>
+        <translation>Pridať novú dosku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="376"/>
@@ -7694,7 +7694,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="377"/>
         <source>new_board</source>
-        <translation type="unfinished"/>
+        <translation>nová_doska</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="386"/>
@@ -7709,7 +7709,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="396"/>
         <source>Copy Board</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovať dosku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="397"/>
@@ -7719,7 +7719,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="415"/>
         <source>Remove board</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť dosku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="416"/>
@@ -7884,7 +7884,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdaddcomponenttocircuit.cpp" line="50"/>
         <source>Add component</source>
-        <translation type="unfinished"/>
+        <translation>Pridať komponent</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdaddcomponenttocircuit.cpp" line="85"/>
@@ -8149,7 +8149,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/editnetclassesdialog.ui" line="17"/>
         <source>Net Classes</source>
-        <translation type="unfinished"/>
+        <translation>Triedy spojov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/editnetclassesdialog.ui" line="36"/>
@@ -8337,7 +8337,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="252"/>
         <source>Default (layer encoded in file name)</source>
-        <translation>Východzie (kódy vrstiev budú v názvoch súborov)</translation>
+        <translation>Predvolené (kódy vrstiev budú v názvoch súborov)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="259"/>
@@ -8685,12 +8685,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="105"/>
         <source>Restore default settings</source>
-        <translation>Obnoviť pôvodné nastavenie</translation>
+        <translation>Obnoviť predvolené nastavenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="106"/>
         <source>Are you sure to reset all settings to their default values?</source>
-        <translation>Naozaj chcete obnoviť všetky nastavenia na pôvodné hodnoty?</translation>
+        <translation>Naozaj chcete obnoviť všetky nastavenia na predvolené hodnoty?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="212"/>
@@ -8824,7 +8824,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="475"/>
         <source>Change net of segment</source>
-        <translation>Zmeniť spoj</translation>
+        <translation>Zmeniť názov spoja</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="476"/>
@@ -9415,7 +9415,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="321"/>
         <source>Place Devices [%1]</source>
-        <translation>Umiestniť prvky [%1]</translation>
+        <translation>Neumiestnené prvky [%1]</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="453"/>
@@ -9644,13 +9644,13 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="167"/>
         <source>Restore default settings</source>
-        <translation>Obnoviť pôvodné nastavenie</translation>
+        <translation>Obnoviť predvolené nastavenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="168"/>
         <source>Are you sure to reset all settings to their default values?
 After applying you cannot undo this change.</source>
-        <translation>Naozaj chcete obnoviť pôvodné nastavenie?
+        <translation>Naozaj chcete obnoviť predvolené nastavenie?
 Táto zmena je nevratná.</translation>
     </message>
 </context>
