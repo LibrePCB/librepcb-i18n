@@ -2549,7 +2549,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="87"/>
         <source>Ask to close project (confirm message box!)</source>
-        <translation type="unfinished"/>
+        <translation>Požiadavka na zatvorenie projektu (potvrďte zobrazený oznam!)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="94"/>
@@ -2585,17 +2585,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="101"/>
         <source>Open project file system...</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť súbory projektu...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="176"/>
         <source>Update %1...</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizácia %1...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="183"/>
         <source>Skip %1...</source>
-        <translation type="unfinished"/>
+        <translation>Vynechané %1...</translation>
     </message>
 </context>
 <context>
@@ -2742,7 +2742,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/cmd/cmdcomponentedit.cpp" line="38"/>
         <source>Edit component metadata</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť metadáta komponentu</translation>
     </message>
 </context>
 <context>
@@ -2750,7 +2750,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/cmd/cmdcomponentpinsignalmapitemedit.cpp" line="41"/>
         <source>Edit component pin-signal-map</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť mapu pripojenia vývodov</translation>
     </message>
 </context>
 <context>
@@ -2758,7 +2758,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/cmd/cmdcomponentsignaledit.cpp" line="38"/>
         <source>Edit component signal</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť signály komponentu</translation>
     </message>
 </context>
 <context>
@@ -2766,7 +2766,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/cmd/cmdcomponentsymbolvariantedit.cpp" line="39"/>
         <source>Edit component symbol variant</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť varianty sch. značky komponentu</translation>
     </message>
 </context>
 <context>
@@ -2774,7 +2774,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/cmd/cmdcomponentsymbolvariantitemedit.cpp" line="39"/>
         <source>Edit component symbol variant item</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť položku varianty sch. značky komponentu</translation>
     </message>
 </context>
 <context>
@@ -2782,7 +2782,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/dev/cmd/cmddeviceedit.cpp" line="40"/>
         <source>Edit device properties</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť vlastnosti súčiastky</translation>
     </message>
 </context>
 <context>
@@ -2790,7 +2790,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/dev/cmd/cmddevicepadsignalmapitemedit.cpp" line="41"/>
         <source>Edit device pad-signal-map</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť mapu prepojenia vývodov súčiastky</translation>
     </message>
 </context>
 <context>
@@ -2798,7 +2798,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/cmd/cmdfootprintedit.cpp" line="40"/>
         <source>Edit footprint</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť púzdro</translation>
     </message>
 </context>
 <context>
@@ -2806,7 +2806,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/cmd/cmdfootprintpadedit.cpp" line="40"/>
         <source>Edit footprint pad</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť vývody púzdra</translation>
     </message>
 </context>
 <context>
@@ -2814,7 +2814,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cat/cmd/cmdlibrarycategoryedit.cpp" line="39"/>
         <source>Edit category metadata</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť kategóriu metadát</translation>
     </message>
 </context>
 <context>
@@ -2822,7 +2822,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmd/cmdlibraryedit.cpp" line="38"/>
         <source>Edit library metadata</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť metadáta knižnice</translation>
     </message>
 </context>
 <context>
@@ -2830,7 +2830,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/cmd/cmdpackagepadedit.cpp" line="38"/>
         <source>Edit package pad</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť plôšku vývodu púzdra</translation>
     </message>
 </context>
 <context>
@@ -2838,7 +2838,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/sym/cmd/cmdsymbolpinedit.cpp" line="38"/>
         <source>Edit pin</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť vývod</translation>
     </message>
 </context>
 <context>
@@ -2853,7 +2853,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../libs/librepcb/library/cmp/componentpinsignalmapmodel.cpp" line="221"/>
         <location filename="../libs/librepcb/library/cmp/componentpinsignalmapmodel.cpp" line="399"/>
         <source>unconnected</source>
-        <translation type="unfinished"/>
+        <translation>nepripojený</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentpinsignalmapmodel.cpp" line="258"/>
@@ -2863,17 +2863,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentpinsignalmapmodel.cpp" line="260"/>
         <source>Pin</source>
-        <translation type="unfinished"/>
+        <translation>Vývod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentpinsignalmapmodel.cpp" line="262"/>
         <source>Component Signal</source>
-        <translation type="unfinished"/>
+        <translation>Signál komponentu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentpinsignalmapmodel.cpp" line="264"/>
         <source>Designator in Schematics</source>
-        <translation type="unfinished"/>
+        <translation>Identifikátor v schéme</translation>
     </message>
 </context>
 <context>
@@ -2893,27 +2893,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="154"/>
         <source>Signal name (may contain ranges like &quot;%1&quot;)</source>
-        <translation type="unfinished"/>
+        <translation>Názov signálu (môže obsahovať rozsah ako &quot;%1&quot;)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="178"/>
         <source>Required</source>
-        <translation type="unfinished"/>
+        <translation>Vyžadované</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="178"/>
         <source>Optional</source>
-        <translation type="unfinished"/>
+        <translation>Nepovinný</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="182"/>
         <source>Leaving this signal unconnected in schematics produces an ERC error.</source>
-        <translation type="unfinished"/>
+        <translation>Ukončenie nepripojeného signálu vygeneruje ERC chybu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="184"/>
         <source>Leaving this signal unconnected in schematics is allowed.</source>
-        <translation type="unfinished"/>
+        <translation>Ukončenie tohto nepripojeného signálu, je povolené.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="221"/>
@@ -2923,7 +2923,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="223"/>
         <source>Connection</source>
-        <translation type="unfinished"/>
+        <translation>Prepojenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="225"/>
@@ -2938,12 +2938,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="236"/>
         <source>Add a new signal</source>
-        <translation type="unfinished"/>
+        <translation>Pridať nový signál</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="361"/>
         <source>There is already a signal with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje signál s názvom &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -2962,7 +2962,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="103"/>
         <source>Please choose a symbol.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, zvoľte schematickú značku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="113"/>
@@ -2973,27 +2973,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="258"/>
         <source>Choose symbol...</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť schematickú značku...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="289"/>
         <source>Required</source>
-        <translation type="unfinished"/>
+        <translation>Vyžadované</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="289"/>
         <source>Optional</source>
-        <translation type="unfinished"/>
+        <translation>Nepovinný</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="294"/>
         <source>Placing this symbol in schematics is mandatory.</source>
-        <translation type="unfinished"/>
+        <translation>Umiestnenie tejto sch. značky v schéme je povinné.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="295"/>
         <source>Placing this symbol in schematics is optional</source>
-        <translation type="unfinished"/>
+        <translation>Umiestnenie tejto sch. značky v schéme je nepovinné.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="361"/>
@@ -3003,7 +3003,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="363"/>
         <source>Suffix</source>
-        <translation type="unfinished"/>
+        <translation>Sufix</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="365"/>
@@ -3013,17 +3013,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="367"/>
         <source>Position X</source>
-        <translation type="unfinished"/>
+        <translation>Pozícia X</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="369"/>
         <source>Position Y</source>
-        <translation type="unfinished"/>
+        <translation>Pozícia Y</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="371"/>
         <source>Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Otočenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="380"/>
@@ -3033,7 +3033,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="384"/>
         <source>Add a new symbol</source>
-        <translation type="unfinished"/>
+        <translation>Pridať novú sch. značku</translation>
     </message>
 </context>
 <context>
@@ -3050,7 +3050,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="188"/>
         <source>Symbol variant name</source>
-        <translation type="unfinished"/>
+        <translation>Názov variantu sch. značky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="192"/>
@@ -3065,17 +3065,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="264"/>
         <source>Description</source>
-        <translation type="unfinished"/>
+        <translation>Popis</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="266"/>
         <source>Norm</source>
-        <translation type="unfinished"/>
+        <translation>Norma</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="268"/>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Sch. značky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="277"/>
@@ -3085,12 +3085,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="281"/>
         <source>Add a new symbol variant</source>
-        <translation type="unfinished"/>
+        <translation>Pridať nový variant sch. značky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="405"/>
         <source>There is already a symbol variant with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje variant sch. značky s názvom &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -3098,17 +3098,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/dev/devicepadsignalmapmodel.cpp" line="145"/>
         <source>(unconnected)</source>
-        <translation type="unfinished"/>
+        <translation>(nepripojený)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/dev/devicepadsignalmapmodel.cpp" line="170"/>
         <source>Package Pad</source>
-        <translation type="unfinished"/>
+        <translation>Vývod púzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/dev/devicepadsignalmapmodel.cpp" line="172"/>
         <source>Component Signal</source>
-        <translation type="unfinished"/>
+        <translation>Signál komponentu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/dev/devicepadsignalmapmodel.cpp" line="224"/>
@@ -3118,7 +3118,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/dev/devicepadsignalmapmodel.cpp" line="283"/>
         <source>unconnected</source>
-        <translation type="unfinished"/>
+        <translation>nepripojený</translation>
     </message>
 </context>
 <context>
@@ -3136,7 +3136,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="195"/>
         <source>Signal name (may contain ranges like &quot;%1&quot;)</source>
-        <translation type="unfinished"/>
+        <translation>Názov signálu (môže obsahovať rozsah ako &quot;%1&quot;)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="237"/>
@@ -3151,12 +3151,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="248"/>
         <source>Add a new footprint</source>
-        <translation type="unfinished"/>
+        <translation>Pridať nové púzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="351"/>
         <source>There is already a footprint with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje púzdro s názvom &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -3166,12 +3166,14 @@ p, li { white-space: pre-wrap; }
         <source>The library directory does not have the suffix '.lplib':
 
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Adresár knižníc neobsahuje súbor s príponou &apos;.lplib&apos;:
+
+%1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/library.cpp" line="137"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Adresár knižníc musí obsahovať súbor s príponou &apos;.lplib&apos;.</translation>
     </message>
 </context>
 <context>
@@ -3179,22 +3181,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="86"/>
         <source>Directory is not a library element of type %1: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Adresár neobsahuje knižničný element typu %1: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="94"/>
         <source>Directory name is not a valid UUID: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Názov adresára s neplatným UUID: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="105"/>
         <source>The library element %1 was created with a newer application version. You need at least LibrePCB version %2 to open it.</source>
-        <translation type="unfinished"/>
+        <translation>Element knižnice %1 bol vytvorený v novšej verzii aplikácie. Na otvorenie potrebujete LibrePCB verzie %2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="135"/>
         <source>UUID mismatch between element directory and main file: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Detekovaná kolízia UUID medzi adresárovým elementom a hlavným súborom: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -3202,7 +3204,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="90"/>
         <source>Add package pad(s)</source>
-        <translation type="unfinished"/>
+        <translation>Pridať vývody púzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="103"/>
@@ -3214,7 +3216,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="150"/>
         <source>Pad name (may contain ranges like &quot;%1&quot;)</source>
-        <translation type="unfinished"/>
+        <translation>Názov plôšky vývodu (môže obsahovať rozsah ako &quot;%1&quot;)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="192"/>
@@ -3229,12 +3231,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="203"/>
         <source>Add a new pad</source>
-        <translation type="unfinished"/>
+        <translation>Pridať novú plôšku vývodu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="309"/>
         <source>There is already a pad with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje plôška vývodu s názvom &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -3242,12 +3244,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorytreelabeltextbuilder.cpp" line="92"/>
         <source>Endless recursion detected!</source>
-        <translation type="unfinished"/>
+        <translation>Bola detekovaná nekonečná rekurzia!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorytreelabeltextbuilder.cpp" line="118"/>
         <source>Root category</source>
-        <translation type="unfinished"/>
+        <translation>Koreňová kategória</translation>
     </message>
 </context>
 <context>
@@ -3255,12 +3257,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/widgets/boardsideselectorwidget.cpp" line="51"/>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Vrch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/widgets/boardsideselectorwidget.cpp" line="52"/>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Spodok</translation>
     </message>
 </context>
 <context>
@@ -3268,7 +3270,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorychooserdialog.ui" line="14"/>
         <source>Choose a category...</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť kategóriu...</translation>
     </message>
 </context>
 <context>
@@ -3281,12 +3283,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorylisteditorwidget.ui" line="50"/>
         <source>Add category</source>
-        <translation type="unfinished"/>
+        <translation>Pridať kategóriu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorylisteditorwidget.ui" line="57"/>
         <source>Remove selected</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť vybrané</translation>
     </message>
 </context>
 <context>
@@ -3294,7 +3296,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorylisteditorwidget.cpp" line="119"/>
         <source>Root category</source>
-        <translation type="unfinished"/>
+        <translation>Koreňová kategória</translation>
     </message>
 </context>
 <context>
@@ -3302,7 +3304,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/cmd/cmddragselectedfootprintitems.cpp" line="54"/>
         <source>Drag Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Ťahať elementy púzdra</translation>
     </message>
 </context>
 <context>
@@ -3310,7 +3312,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/cmd/cmddragselectedsymbolitems.cpp" line="52"/>
         <source>Drag Symbol Elements</source>
-        <translation type="unfinished"/>
+        <translation>Ťahať elementy značky</translation>
     </message>
 </context>
 <context>
@@ -3318,7 +3320,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/cmd/cmdpastefootprintitems.cpp" line="54"/>
         <source>Paste Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Prilepiť elementy púzdra</translation>
     </message>
 </context>
 <context>
@@ -3326,7 +3328,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/cmd/cmdpastesymbolitems.cpp" line="53"/>
         <source>Paste Symbol Elements</source>
-        <translation type="unfinished"/>
+        <translation>Prilepiť elementy symbolu</translation>
     </message>
 </context>
 <context>
@@ -3334,7 +3336,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/cmd/cmdremoveselectedfootprintitems.cpp" line="48"/>
         <source>Remove Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť elementy púzdra</translation>
     </message>
 </context>
 <context>
@@ -3342,7 +3344,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/cmd/cmdremoveselectedsymbolitems.cpp" line="47"/>
         <source>Remove Symbol Elements</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť elementy značky</translation>
     </message>
 </context>
 <context>
@@ -3350,7 +3352,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="81"/>
         <source>Automatically assign all signals by name</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky priradiť názvy všetkým signálom</translation>
     </message>
 </context>
 <context>
@@ -3373,7 +3375,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="63"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Kľúčové slová:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="77"/>
@@ -3504,7 +3506,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="215"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Kľúčové slová:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="229"/>
@@ -3607,7 +3609,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.ui" line="101"/>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Sch. značky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.ui" line="127"/>
@@ -3668,7 +3670,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="331"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Kľúčové slová:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="345"/>
@@ -3801,12 +3803,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.ui" line="61"/>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Vrch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.ui" line="68"/>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Spodok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.ui" line="78"/>
@@ -4320,7 +4322,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="85"/>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Sch. značky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="125"/>
@@ -4355,7 +4357,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="375"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Kľúčové slová:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="389"/>
@@ -4749,7 +4751,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="40"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Kľúčové slová:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="47"/>
@@ -4799,7 +4801,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.cpp" line="197"/>
         <source>Root category</source>
-        <translation type="unfinished"/>
+        <translation>Koreňová kategória</translation>
     </message>
 </context>
 <context>
@@ -4841,7 +4843,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.ui" line="59"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Kľúčové slová:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.ui" line="73"/>
@@ -5050,7 +5052,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="104"/>
         <source>Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Uhol:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="120"/>
@@ -5137,7 +5139,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="482"/>
         <source>Paste Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Prilepiť elementy púzdra</translation>
     </message>
 </context>
 <context>
@@ -5170,7 +5172,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="195"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Kľúčové slová:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="209"/>
@@ -5223,7 +5225,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/widgets/packagepadcombobox.cpp" line="109"/>
         <source>(unconnected)</source>
-        <translation type="unfinished"/>
+        <translation>(nepripojený)</translation>
     </message>
 </context>
 <context>
@@ -5344,7 +5346,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="104"/>
         <source>Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Uhol:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="119"/>
@@ -5431,7 +5433,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="448"/>
         <source>Paste Symbol Elements</source>
-        <translation type="unfinished"/>
+        <translation>Prilepiť elementy symbolu</translation>
     </message>
 </context>
 <context>
@@ -5454,7 +5456,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.ui" line="121"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Kľúčové slová:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.ui" line="135"/>
@@ -5570,7 +5572,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="80"/>
         <source>&lt;p&gt;Creates a new local library in the currently opened workspace.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Please specify all attributes in the english language (locale &apos;en_US&apos;). Support for other languages will be added in a later release of LibrePCB.&lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Vytvorí novú lokálnu knižnicu v práve otvorenom pracovnom priestore.Poznámka: Prosím zadajte všetky atribúty v angličtine (lokalizácia &apos;en_US&apos;). Podpora pre ostatné jazyky bude doplnená v neskoršom vydaní LibrePCB.&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="97"/>
@@ -5929,7 +5931,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="146"/>
         <source>Description</source>
-        <translation type="unfinished"/>
+        <translation>Popis</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="202"/>
@@ -7894,7 +7896,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdaddcomponenttocircuit.cpp" line="85"/>
         <source>The component with the UUID &quot;%1&quot; does not exist in the workspace library!</source>
-        <translation type="unfinished"/>
+        <translation>Komponent s UUID &quot;%1&quot; neexistuje v knižnici pracovného priestoru!</translation>
     </message>
 </context>
 <context>
@@ -7907,12 +7909,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdadddevicetoboard.cpp" line="90"/>
         <source>The device with the UUID &quot;%1&quot; does not exist in the workspace library!</source>
-        <translation type="unfinished"/>
+        <translation>Súčiastka s UUID &quot;%1&quot; neexistuje v knižnici pracovného priestoru!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdadddevicetoboard.cpp" line="112"/>
         <source>The package with the UUID &quot;%1&quot; does not exist in the workspace library!</source>
-        <translation type="unfinished"/>
+        <translation>Púzdro s UUID &quot;%1&quot; neexistuje v knižnici pracovného priestoru!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdadddevicetoboard.cpp" line="131"/>
