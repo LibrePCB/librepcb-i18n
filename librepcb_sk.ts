@@ -2512,7 +2512,7 @@ Pracovná plocha je nezávislá od platformy, takže môže byť použiteľná n
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.ui" line="14"/>
         <source>Project Library Updater</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizátor projektovej knižnice</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.ui" line="33"/>
@@ -2544,7 +2544,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.ui" line="60"/>
         <source>Update library of &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizácia knižnice z &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="87"/>
@@ -2554,33 +2554,33 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="94"/>
         <source>Abort.</source>
-        <translation type="unfinished"/>
+        <translation>Prerušiť.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="115"/>
         <source>Open project %1...</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť projekt %1...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="120"/>
         <source>Save project %1...</source>
-        <translation type="unfinished"/>
+        <translation>Uložiť projekt %1...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="128"/>
         <source>Failed to update library elements! Probably there were breaking changes in some library elements.</source>
-        <translation type="unfinished"/>
+        <translation>Neúspešná aktualizácia knižničných prvkov! Pravdepodobne boli porušené niektoré prvky knižnice.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="132"/>
         <source>[SUCCESS] All library elements updated.</source>
-        <translation type="unfinished"/>
+        <translation>[ÚSPEŠNÉ] Všetky prvky knižnice boli aktualizované.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="126"/>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="134"/>
         <source>[ERROR] %1</source>
-        <translation type="unfinished"/>
+        <translation>[CHYBA] %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="101"/>
@@ -6067,7 +6067,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="100"/>
         <source>Invalid net signal UUID: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Spoj s nekorektným UUID: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="110"/>
@@ -6100,7 +6100,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_plane.cpp" line="83"/>
         <source>Invalid net signal UUID: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Spoj s nekorektným UUID: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_plane.h" line="182"/>
@@ -6515,7 +6515,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicadd.cpp" line="42"/>
         <source>Add schematic</source>
-        <translation type="unfinished"/>
+        <translation>Pridať list schémy</translation>
     </message>
 </context>
 <context>
@@ -6523,7 +6523,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicnetlabeladd.cpp" line="44"/>
         <source>Add netlabel</source>
-        <translation type="unfinished"/>
+        <translation>Pridať názov spoja</translation>
     </message>
 </context>
 <context>
@@ -6539,7 +6539,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicnetlabeledit.cpp" line="41"/>
         <source>Edit netlabel</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť názov spoja</translation>
     </message>
 </context>
 <context>
@@ -6547,7 +6547,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicnetlabelremove.cpp" line="43"/>
         <source>Remove netlabel</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť názov spoja</translation>
     </message>
 </context>
 <context>
@@ -6604,7 +6604,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicremove.cpp" line="42"/>
         <source>Remove schematic</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť list schémy</translation>
     </message>
 </context>
 <context>
@@ -6628,7 +6628,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdsymbolinstanceremove.cpp" line="42"/>
         <source>Remove symbol</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť sch. značku</translation>
     </message>
 </context>
 <context>
@@ -6880,7 +6880,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="61"/>
         <source>Invalid net signal UUID: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Spoj s nekorektným UUID: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="71"/>
@@ -6898,7 +6898,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="97"/>
         <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="416"/>
         <source>There is already a netlabel with the UUID &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje názov spoja s UUID &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_netsegment.cpp" line="106"/>
@@ -6913,22 +6913,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="64"/>
         <source>No component with the UUID &quot;%1&quot; found in the circuit!</source>
-        <translation type="unfinished"/>
+        <translation>Prvok s UUID &quot;%1&quot; sa nenachádza v zapojení!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="94"/>
         <source>No symbol with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
-        <translation type="unfinished"/>
+        <translation>Sch. značka s UUID &quot;%1&quot; sa nenachádza v zapojení!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="108"/>
         <source>The symbol pin UUID &quot;%1&quot; is defined multiple times.</source>
-        <translation type="unfinished"/>
+        <translation>Vývod sch. značky s UUID &quot;%1&quot; je vytvorený viackrát..</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="115"/>
         <source>The pin count of the symbol instance &quot;%1&quot; does not match with the pin-signal-map of its component.</source>
-        <translation type="unfinished"/>
+        <translation>Počet vývodov sch. značky &quot;%1 nezodpovedá mapovaniu vývodov celého komponentu.</translation>
     </message>
 </context>
 <context>
@@ -6936,7 +6936,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_symbolpin.cpp" line="235"/>
         <source>Unconnected pin: &quot;%1&quot; of symbol &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Nepripojený vývod: &quot;%1&quot; sch. značky &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
@@ -6945,7 +6945,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/project/schematics/schematic.cpp" line="93"/>
         <location filename="../libs/librepcb/project/schematics/schematic.cpp" line="256"/>
         <source>There is already a symbol with the UUID &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje sch. značka s UUID &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/schematics/schematic.cpp" line="105"/>
@@ -7925,12 +7925,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdaddsymboltoschematic.cpp" line="56"/>
         <source>Add symbol</source>
-        <translation type="unfinished"/>
+        <translation>Pridať sch. značku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdaddsymboltoschematic.cpp" line="90"/>
         <source>The symbol with the UUID &quot;%1&quot; does not exist in the workspace library!</source>
-        <translation type="unfinished"/>
+        <translation>Sch. značka s UUID &quot;%1&quot; sa nenachádza v knižnici pracovnej plochy!</translation>
     </message>
 </context>
 <context>
@@ -7978,7 +7978,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdmirrorselectedschematicitems.cpp" line="54"/>
         <source>Mirror Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Zrkadliť položky schémy.</translation>
     </message>
 </context>
 <context>
@@ -7994,7 +7994,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdmoveselectedschematicitems.cpp" line="54"/>
         <source>Move Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Presunúť položky schémy</translation>
     </message>
 </context>
 <context>
