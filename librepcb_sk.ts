@@ -2968,7 +2968,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="113"/>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="190"/>
         <source>Symbol &apos;%1&apos; not found in workspace library!</source>
-        <translation type="unfinished"/>
+        <translation>Sch. značka &apos;%1&apos; sa nenachádza v knižnici prac. priestoru!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="258"/>
@@ -3768,7 +3768,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="189"/>
         <source>No user name defined in workspace settings. Please open workspace settings to set the default user name.</source>
-        <translation type="unfinished"/>
+        <translation>Meno užívateľa nie je v nastavení pracovného priestoru zadané. Prosím, otvorte nastavenie prac. priestoru a zadajte meno užívateľa.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="258"/>
@@ -5891,7 +5891,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="17"/>
         <source>Workspace Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>Správca pracovného priestoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="75"/>
@@ -8018,7 +8018,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdremoveselectedschematicitems.cpp" line="82"/>
         <source>Remove Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť element schémy</translation>
     </message>
 </context>
 <context>
@@ -8058,7 +8058,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdrotateselectedschematicitems.cpp" line="54"/>
         <source>Rotate Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Otočiť sch. element</translation>
     </message>
 </context>
 <context>
