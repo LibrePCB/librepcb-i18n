@@ -116,7 +116,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="90"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportovať schematické listy do príslušných súborov. Ak súbory už existujú, budú prepísané. Podporované typy súborov: %1</translation>
+        <translation>Exportovať schematické listy do príslušných súborov. Ak súbory už existujú, budú prepísané. Podporované prípony súborov: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="93"/>
@@ -370,7 +370,7 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="207"/>
         <source>UUID List File:</source>
-        <translation type="unfinished"/>
+        <translation>Súbor so zoznamom UUID:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="214"/>
@@ -380,17 +380,17 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="223"/>
         <source>Symbols --&gt; Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Sch. značky --&gt; sch. značky</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="230"/>
         <source>Packages --&gt; Packages</source>
-        <translation type="unfinished"/>
+        <translation>Púzdra --&gt; Púzdra</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="237"/>
         <source>Devices --&gt; Components + Devices</source>
-        <translation type="unfinished"/>
+        <translation>Súčiastky --&gt; komponenty + súčiastky</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="244"/>
@@ -400,12 +400,12 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="253"/>
         <source>Remove Duplicates:</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť duplicitné:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="278"/>
         <source>RUN</source>
-        <translation type="unfinished"/>
+        <translation>SPUSTIŤ</translation>
     </message>
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="21"/>
@@ -1439,12 +1439,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="206"/>
         <source>Optional Pins</source>
-        <translation type="unfinished"/>
+        <translation>Nepovinné vývody</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="207"/>
         <source>Required Pins</source>
-        <translation type="unfinished"/>
+        <translation>Vyžadované vývody</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="208"/>
@@ -2598,47 +2598,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="248"/>
         <source>Open project &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť projekt &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="271"/>
         <source>Run ERC...</source>
-        <translation type="unfinished"/>
+        <translation>Spustiť ERC...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="284"/>
         <source>WARNING</source>
-        <translation type="unfinished"/>
+        <translation>UPOZORNENIE</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="287"/>
         <source>ERROR</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="294"/>
         <source>Approved messages: %1</source>
-        <translation type="unfinished"/>
+        <translation>Schválené oznámenia: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="296"/>
         <source>Non-approved messages: %1</source>
-        <translation type="unfinished"/>
+        <translation>Neschválené oznámenia: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="307"/>
         <source>Export schematics to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Export schém do &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="320"/>
         <source>ERROR: Unknown extension &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba: neznáma prípona &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="327"/>
         <source>Export PCB fabrication data...</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať výrobné dáta DPS...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="339"/>
@@ -2663,18 +2663,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="385"/>
         <source>Save project...</source>
-        <translation type="unfinished"/>
+        <translation>Uložiť projekt....</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="396"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="540"/>
         <source>ERROR: %1</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="408"/>
         <source>Open library &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť knižnicu &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="418"/>
@@ -2689,7 +2689,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="499"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="518"/>
         <source>Open &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="428"/>
@@ -2699,7 +2699,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="505"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="524"/>
         <source>Save &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Uložiť &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="438"/>
@@ -2729,7 +2729,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="533"/>
         <source>Save library &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Uložiť knižnicu &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -3385,7 +3385,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="105"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Nepoužívať:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="112"/>
@@ -3448,7 +3448,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="184"/>
         <source>No component selected</source>
-        <translation>Nie je vybraný komponent</translation>
+        <translation>Komponent nie je vybraný</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="194"/>
@@ -3516,7 +3516,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="257"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Nepoužívať:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="264"/>
@@ -3680,7 +3680,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="373"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Nepoužívať:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="380"/>
@@ -4368,7 +4368,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="417"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Nepoužívať:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="424"/>
@@ -4430,17 +4430,18 @@ Do you want to save them before closing it?</source>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
-        <translation type="unfinished"/>
+        <translation>UPOZORNENIE: Prvok knižnice nesmie byť odstránený pretože môže poškodiť iné prepojené prvky! Lepšie bude označiť ho ako &apos;nepoužívať&apos;
+Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="458"/>
         <source>This cannot be undone!</source>
-        <translation type="unfinished"/>
+        <translation>Táto zmena je nevratná!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="462"/>
         <source>Remove %1 elements</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť %1 elementov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="474"/>
@@ -4450,17 +4451,17 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="487"/>
         <source>Choose library icon</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť ikonku knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="489"/>
         <source>Portable Network Graphics (*.png)</source>
-        <translation type="unfinished"/>
+        <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="495"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa otvoriť súbor</translation>
     </message>
 </context>
 <context>
@@ -4468,17 +4469,17 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizard.ui" line="17"/>
         <source>New Library Element</source>
-        <translation type="unfinished"/>
+        <translation>Nový prvok knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizard.cpp" line="101"/>
         <source>Could not copy element</source>
-        <translation type="unfinished"/>
+        <translation>Prvok sa nedá kopírovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizard.cpp" line="115"/>
         <source>Failed to create element</source>
-        <translation type="unfinished"/>
+        <translation>Chyba pri vytváraní prvku</translation>
     </message>
 </context>
 <context>
@@ -4487,7 +4488,7 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="14"/>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="17"/>
         <source>Choose Element Type</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť typ prvku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="20"/>
@@ -4563,7 +4564,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="206"/>
         <source>Action</source>
-        <translation type="unfinished"/>
+        <translation>Akcia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="221"/>
@@ -4573,7 +4574,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="231"/>
         <source>Copy from existing element</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovať z jestvujúceho prvku</translation>
     </message>
 </context>
 <context>
@@ -4626,7 +4627,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentproperties.ui" line="64"/>
         <source>e.g. &quot;D&quot; for Diodes (optional)</source>
-        <translation type="unfinished"/>
+        <translation>napríklad &quot;D&quot; pre diódy (nepovinné)</translation>
     </message>
 </context>
 <context>
@@ -4635,7 +4636,7 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentsignals.ui" line="14"/>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentsignals.ui" line="17"/>
         <source>Component Signals</source>
-        <translation type="unfinished"/>
+        <translation>Signály komponentu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentsignals.ui" line="20"/>
@@ -4649,7 +4650,7 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentsymbols.ui" line="14"/>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentsymbols.ui" line="17"/>
         <source>Component Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Schematické značky komponentu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentsymbols.ui" line="20"/>
@@ -4663,7 +4664,7 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_copyfrom.ui" line="14"/>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_copyfrom.ui" line="17"/>
         <source>Copy from existing element</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovať z jestvujúceho prvku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_copyfrom.ui" line="20"/>
@@ -4676,12 +4677,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="14"/>
         <source>Device Properties</source>
-        <translation type="unfinished"/>
+        <translation>Vlastnosti súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="17"/>
         <source>De&amp;vice Properties</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Vlastnosti súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="20"/>
@@ -4697,7 +4698,7 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="60"/>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="129"/>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="95"/>
@@ -4708,17 +4709,17 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="111"/>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="138"/>
         <source>ERROR:</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="115"/>
         <source>No component selected</source>
-        <translation>Nie je vybraný komponent</translation>
+        <translation>Komponent nie je vybraný</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="143"/>
         <source>No package selected</source>
-        <translation type="unfinished"/>
+        <translation>Púzdro nie je vybrané</translation>
     </message>
 </context>
 <context>
@@ -4727,7 +4728,7 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="14"/>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="17"/>
         <source>Enter Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Zadať metadáta</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="20"/>
@@ -4762,7 +4763,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="61"/>
         <source>Category:</source>
-        <translation type="unfinished"/>
+        <translation>Kategória:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="71"/>
@@ -4806,7 +4807,7 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_packagepads.ui" line="14"/>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_packagepads.ui" line="17"/>
         <source>Package Pads</source>
-        <translation type="unfinished"/>
+        <translation>Plôšky vývodov púzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_packagepads.ui" line="20"/>
@@ -4874,7 +4875,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.ui" line="101"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Nepoužívať:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.ui" line="108"/>
@@ -4897,7 +4898,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.ui" line="17"/>
         <source>Choose Package</source>
-        <translation type="unfinished"/>
+        <translation>Vybrať púzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.ui" line="31"/>
@@ -4912,17 +4913,17 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="178"/>
         <source>Could not load packages</source>
-        <translation type="unfinished"/>
+        <translation>Nedajú sa načítať púzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="185"/>
         <source>No package selected</source>
-        <translation type="unfinished"/>
+        <translation>Púzdro nie je vybrané</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="195"/>
         <source>Could not load package metadata</source>
-        <translation type="unfinished"/>
+        <translation>Nedajú sa načítať metadáta púzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="229"/>
@@ -4932,7 +4933,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="230"/>
         <source>Please select a package.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, zvoľte púzdro.</translation>
     </message>
 </context>
 <context>
@@ -4940,7 +4941,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorfsm.cpp" line="151"/>
         <source>Please select a footprint.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, zvoľte púzdro.</translation>
     </message>
 </context>
 <context>
@@ -4953,7 +4954,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addholes.cpp" line="136"/>
         <source>Add hole</source>
-        <translation type="unfinished"/>
+        <translation>Pridať otvor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addholes.cpp" line="148"/>
@@ -4988,7 +4989,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="241"/>
         <source>Add footprint pad</source>
-        <translation type="unfinished"/>
+        <translation>Pridať plôšku vývodu púzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="255"/>
@@ -5013,7 +5014,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="99"/>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Vyplniť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="105"/>
@@ -5023,7 +5024,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="166"/>
         <source>Add symbol circle</source>
-        <translation type="unfinished"/>
+        <translation>Pridať kruh</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="180"/>
@@ -5053,7 +5054,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="120"/>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Vyplniť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="128"/>
@@ -5148,7 +5149,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="85"/>
         <source>Footprint Variants</source>
-        <translation type="unfinished"/>
+        <translation>Varianty púzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="109"/>
@@ -5183,12 +5184,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="237"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Nepoužívať:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="244"/>
         <source>Package should no longer be used.</source>
-        <translation type="unfinished"/>
+        <translation>Púzdro by sa nemalo viac používať.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="251"/>
@@ -5213,7 +5214,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="278"/>
         <source>Edit package metadata</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť metadáta púzdra</translation>
     </message>
 </context>
 <context>
@@ -5229,7 +5230,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.ui" line="17"/>
         <source>Choose Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť sch. značku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.ui" line="31"/>
@@ -5244,17 +5245,17 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="194"/>
         <source>Could not load symbols</source>
-        <translation type="unfinished"/>
+        <translation>Nadajú sa načítať sch. značky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="202"/>
         <source>No symbol selected</source>
-        <translation type="unfinished"/>
+        <translation>Schematická značka nie je vybraná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="221"/>
         <source>Could not load symbol</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa načítať sch. značka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="228"/>
@@ -5264,7 +5265,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="229"/>
         <source>Please select a symbol.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, zvoľte sch. značku.</translation>
     </message>
 </context>
 <context>
@@ -5277,7 +5278,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_addpins.cpp" line="81"/>
         <source>Length:</source>
-        <translation type="unfinished"/>
+        <translation>Dĺžka:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_addpins.cpp" line="107"/>
@@ -5289,7 +5290,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_addpins.cpp" line="174"/>
         <source>Add symbol pin</source>
-        <translation type="unfinished"/>
+        <translation>Pridať vývod sch. značke</translation>
     </message>
 </context>
 <context>
@@ -5307,7 +5308,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="99"/>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Vyplniť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="105"/>
@@ -5317,7 +5318,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="166"/>
         <source>Add symbol circle</source>
-        <translation type="unfinished"/>
+        <translation>Pridať kruh</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="179"/>
@@ -5347,7 +5348,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="119"/>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Vyplniť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="127"/>
@@ -5467,7 +5468,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.ui" line="163"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Nepoužívať:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.ui" line="170"/>
@@ -5497,7 +5498,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="263"/>
         <source>Edit symbol metadata</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť metadáta sch. značky</translation>
     </message>
 </context>
 <context>
@@ -5505,7 +5506,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/dialogs/symbolpinpropertiesdialog.ui" line="14"/>
         <source>Pin Properties</source>
-        <translation type="unfinished"/>
+        <translation>Vlastnosti vývodu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/dialogs/symbolpinpropertiesdialog.ui" line="22"/>
@@ -5515,7 +5516,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/dialogs/symbolpinpropertiesdialog.ui" line="36"/>
         <source>Length:</source>
-        <translation type="unfinished"/>
+        <translation>Dĺžka:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/dialogs/symbolpinpropertiesdialog.ui" line="56"/>
@@ -5543,7 +5544,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="39"/>
         <source>Download from repository</source>
-        <translation type="unfinished"/>
+        <translation>Stiahnúť z repozitára</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="45"/>
@@ -5558,7 +5559,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="57"/>
         <source>Select all</source>
-        <translation type="unfinished"/>
+        <translation>Vybrať všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="64"/>
@@ -5593,12 +5594,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="153"/>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Adresár:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="170"/>
         <source>Create Library</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť knižnicu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="177"/>
@@ -5633,22 +5634,22 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="253"/>
         <source>Download manually</source>
-        <translation type="unfinished"/>
+        <translation>Stiahnúť manuálne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="276"/>
         <source>URL to ZIP file:</source>
-        <translation type="unfinished"/>
+        <translation>Adresa URL ZIP súboru:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="293"/>
         <source>Local directory:</source>
-        <translation type="unfinished"/>
+        <translation>Lokálny adreár:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="310"/>
         <source>Download Library</source>
-        <translation type="unfinished"/>
+        <translation>Stiahnúť knižnicu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="326"/>
@@ -5658,7 +5659,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="341"/>
         <source>No error.</source>
-        <translation type="unfinished"/>
+        <translation>Bez chyby.</translation>
     </message>
 </context>
 <context>
@@ -5683,17 +5684,17 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="297"/>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="302"/>
         <source>Invalid Input</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný vstup</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="166"/>
         <source>Please enter a name.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, zadajte názov.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="171"/>
         <source>Please enter an author.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, zadajte meno autora.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="176"/>
@@ -5703,17 +5704,17 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="181"/>
         <source>The specified URL is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Zadaná adresa URL, nie je platná.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="186"/>
         <source>Please enter a directory name.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, zadajte názov adresára.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="191"/>
         <source>The specified directory exists already.</source>
-        <translation type="unfinished"/>
+        <translation>Zadaný adresár už existuje.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="274"/>
@@ -5723,32 +5724,32 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="280"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Pracujem</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="281"/>
         <source>A download is already running.</source>
-        <translation type="unfinished"/>
+        <translation>Sťahovanie už prebieha.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="298"/>
         <source>Please enter a valid URL.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, zadajte platnú adresu URL</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="303"/>
         <source>Please enter a valid directory.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, zadajte platný adresár.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="307"/>
         <source>Directory exists already</source>
-        <translation type="unfinished"/>
+        <translation>Adresár už existuje</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="308"/>
         <source>The directory &quot;%1&quot; exists already.</source>
-        <translation type="unfinished"/>
+        <translation>Adresár &quot;%1&quot; už existuje.</translation>
     </message>
 </context>
 <context>
@@ -5799,12 +5800,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="180"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Nepoužívať:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="204"/>
         <source>Library Type:</source>
-        <translation type="unfinished"/>
+        <translation>Typ knižnice:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="221"/>
@@ -5814,17 +5815,17 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="241"/>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Adresár:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="271"/>
         <source>Open Library Editor</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť editor knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="278"/>
         <source>Remove this Library</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť túto knižnicu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="87"/>
@@ -5834,22 +5835,22 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="88"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="91"/>
         <source>Remote</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialená</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="91"/>
         <source>Local</source>
-        <translation type="unfinished"/>
+        <translation>Lokálna</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="126"/>
         <source>Remove Library</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť knižnicu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="128"/>
@@ -5876,12 +5877,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.cpp" line="68"/>
         <source>Add a new library</source>
-        <translation type="unfinished"/>
+        <translation>Pridať novú knižnicu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.cpp" line="69"/>
         <source>Click here to add a new library.</source>
-        <translation type="unfinished"/>
+        <translation>Kliknite sem pre pridanie novej knižnice.</translation>
     </message>
 </context>
 <context>
@@ -5899,7 +5900,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.cpp" line="149"/>
         <source>Could not load library list</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa načítať zoznam knižníc</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.cpp" line="196"/>
@@ -5917,12 +5918,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="50"/>
         <source>Icon</source>
-        <translation type="unfinished"/>
+        <translation>Ikonka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="89"/>
         <source>Name + Version</source>
-        <translation type="unfinished"/>
+        <translation>Názov + verzia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="146"/>
@@ -5932,47 +5933,47 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="202"/>
         <source>Author</source>
-        <translation type="unfinished"/>
+        <translation>Autor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="123"/>
         <source>Installed Version</source>
-        <translation type="unfinished"/>
+        <translation>Nainštalovaná verzia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="227"/>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>Inštalovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="209"/>
         <source>v%1</source>
-        <translation type="unfinished"/>
+        <translation>v%1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="211"/>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizácia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="214"/>
         <source>Installed</source>
-        <translation type="unfinished"/>
+        <translation>Inštalované</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="221"/>
         <source>Recommended</source>
-        <translation type="unfinished"/>
+        <translation>Odporúčané</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="231"/>
         <source>Error: Invalid UUID</source>
-        <translation type="unfinished"/>
+        <translation>Chyba: neplatný UUID</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="162"/>
         <source>Download failed</source>
-        <translation type="unfinished"/>
+        <translation>Stiahnutie zlyhalo</translation>
     </message>
 </context>
 <context>
@@ -5980,12 +5981,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/library/cmd/cmdprojectlibraryaddelement.cpp" line="44"/>
         <source>Add element to library</source>
-        <translation type="unfinished"/>
+        <translation>Pridať prvok do knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/library/cmd/cmdprojectlibraryremoveelement.cpp" line="44"/>
         <source>Remove element from library</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť prvok z knižnice</translation>
     </message>
 </context>
 <context>
@@ -6967,7 +6968,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="427"/>
         <source>No component selected</source>
-        <translation>Nie je vybraný komponent</translation>
+        <translation>Komponent nie je vybraný</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.ui" line="108"/>
@@ -8064,7 +8065,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="14"/>
         <source>Device Properties</source>
-        <translation type="unfinished"/>
+        <translation>Vlastnosti súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="28"/>
@@ -8245,7 +8246,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="239"/>
         <source>Approved (%1)</source>
-        <translation>Odsúhlasené (%1)</translation>
+        <translation>Schválené (%1)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="241"/>
@@ -8345,7 +8346,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="259"/>
         <source>Protel naming (layer encoded in file extension)</source>
-        <translation>Pomenovanie Protel (kódy vrstiev budú ako extensia súborov)</translation>
+        <translation>Pomenovanie Protel (kódy vrstiev budú ako prípony súborov)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="268"/>
