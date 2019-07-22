@@ -1228,7 +1228,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="51"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Pozadie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="60"/>
@@ -1862,7 +1862,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="51"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Pozadie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="60"/>
@@ -5024,7 +5024,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="105"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Pozadie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="166"/>
@@ -5064,7 +5064,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="128"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Pozadie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="214"/>
@@ -5318,7 +5318,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="105"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Pozadie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="166"/>
@@ -5358,7 +5358,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="127"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Pozadie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="212"/>
@@ -6003,27 +6003,27 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="78"/>
         <source>Could not find the component instance with UUID &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa nájsť komponent s UUID &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="129"/>
         <source>No device with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
-        <translation type="unfinished"/>
+        <translation>Súčiastka s UUID &quot;%1&quot; sa nenachádza v projektovej knižnici.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="138"/>
         <source>The device &quot;%1&quot; does not match with the componentinstance &quot;%2&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Súčiastka &quot;%1&quot; sa nezhoduje s inštanciou komponentu &quot;%2&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="149"/>
         <source>No package with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
-        <translation type="unfinished"/>
+        <translation>Púzdro s UUID &quot;%1&quot; neexistuje v projektovej knižnici.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="166"/>
         <source>Unknown signal &quot;%1&quot; found in device &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Neznámy signál &quot;%1&quot;, sa nachádza v súčiastke &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
@@ -6031,12 +6031,12 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_footprint.cpp" line="89"/>
         <source>The footprint pad UUID &quot;%1&quot; is defined multiple times.</source>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu púzdra s UUID &quot;%1&quot; je vytvorená viackrát.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_footprint.cpp" line="94"/>
         <source>Footprint pad &quot;%1&quot; not found in pad-signal-map of device &quot;%2&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu púzdra &quot;%1&quot;, sa nenachádza v mape vývodov súčiastky &quot;%2&quot;.</translation>
     </message>
 </context>
 <context>
@@ -6049,7 +6049,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netline.cpp" line="126"/>
         <source>Invalid board layer: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Nesprávna vrstva dosky: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netline.cpp" line="151"/>
@@ -8333,7 +8333,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="200"/>
         <source>Base Path:</source>
-        <translation type="unfinished"/>
+        <translation>Základná cesta:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="207"/>
