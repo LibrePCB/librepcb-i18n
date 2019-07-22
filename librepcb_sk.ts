@@ -4995,7 +4995,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="241"/>
         <source>Add footprint pad</source>
-        <translation>Pridať plôšku vývodu púzdra</translation>
+        <translation>Pridať plôšku vývodu do púzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="255"/>
@@ -5365,7 +5365,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="212"/>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="257"/>
         <source>Add symbol polygon</source>
-        <translation type="unfinished"/>
+        <translation>Pridať polygón do sch. značky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="225"/>
@@ -5395,7 +5395,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="196"/>
         <source>Add symbol text</source>
-        <translation type="unfinished"/>
+        <translation>Pridať text do sch. značky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="208"/>
@@ -5615,12 +5615,12 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="198"/>
         <source>Put library under the Public Domain License CC0-1.0 (mandatory to publish it on librepcb.org).</source>
-        <translation type="unfinished"/>
+        <translation>Prezentujte knižnicu pod licenciou Public Domain License CC0-1.0 (povinnosť zverejniť na librepcb.org).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="259"/>
         <source>&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically. It&apos;s highly recommended to use &amp;quot;Download from repository&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Stiahnutie zbalenej knižnice z internetu a uloženie ako lokálnej knižnice. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Poznámka: Knižnice, ktoré boli stiahnuté týmto spôsobom, nebudú automaticky aktualizované. Preto odporúčame použiť &amp;quot;Stiahnutie z repozitára&amp;quot; pretože tak to bude možné. &lt;/span&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="220"/>
