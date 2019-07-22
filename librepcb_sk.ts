@@ -4812,7 +4812,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_packagepads.ui" line="20"/>
         <source>Define all available pads of the package.</source>
-        <translation type="unfinished"/>
+        <translation>Vyznačiť všetky dostupné vývody púzdra.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_packagepads.ui" line="53"/>
@@ -5473,7 +5473,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.ui" line="170"/>
         <source>Symbol should no longer be used.</source>
-        <translation type="unfinished"/>
+        <translation>Schematická značka by sa nemala viac používať.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.ui" line="177"/>
@@ -5549,12 +5549,12 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Browse, download and update libraries directly from the Internet!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Prechádzať, stiahovať a akualizovať knižnice priamo z internetu!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="74"/>
         <source>Create local library</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť lokálnu knižnicu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="57"/>
@@ -5564,7 +5564,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="64"/>
         <source>Download and install/update selected libraries</source>
-        <translation type="unfinished"/>
+        <translation>Stiahnúť a inštalovať/aktualizovať zvolené knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="80"/>
@@ -5667,12 +5667,12 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="71"/>
         <source>e.g. the URL to the Git repository (optional)</source>
-        <translation type="unfinished"/>
+        <translation>napr.: adresa URL pre Git repozitár (nepovinné)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="76"/>
         <source>e.g. https://github.com/LibrePCB-Libraries/LibrePCB_Base.lplib/archive/master.zip</source>
-        <translation type="unfinished"/>
+        <translation>napr.: https://github.com/LibrePCB-Libraries/LibrePCB_Base.lplib/archive/master.zip</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="165"/>
@@ -5699,12 +5699,12 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="176"/>
         <source>The specified version number is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Dané číslo verzie nie je platné.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="181"/>
         <source>The specified URL is not valid.</source>
-        <translation>Zadaná adresa URL, nie je platná.</translation>
+        <translation>Daná adresa URL, nie je platná.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="186"/>
@@ -5714,7 +5714,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="191"/>
         <source>The specified directory exists already.</source>
-        <translation>Zadaný adresár už existuje.</translation>
+        <translation>Daný adresár už existuje.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="274"/>
@@ -5757,7 +5757,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarydownload.cpp" line="139"/>
         <source>The downloaded ZIP file does not contain a LibrePCB library.</source>
-        <translation type="unfinished"/>
+        <translation>Stiahnutý ZIP súbor neobsahuje knižnicu LibrePCB.</translation>
     </message>
 </context>
 <context>
@@ -5830,7 +5830,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="87"/>
         <source>Yes - Consider switching to another library.</source>
-        <translation type="unfinished"/>
+        <translation>Áno - premýšľam nad zmenou knižnice.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="88"/>
@@ -5859,7 +5859,11 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
 %1
 
 Are you really sure to remove &quot;%2&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Pozor! Toto spôsobí odstránenie celého adresára knižnice:
+
+%1
+
+Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="139"/>
@@ -9544,7 +9548,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="230"/>
         <source>The specified workspace does not exist. Do you want to create a new workspace?</source>
-        <translation>Zvolený prac. priestor neexistuje. Chcete vytvoriť nový?</translation>
+        <translation>Daný prac. priestor neexistuje. Chcete vytvoriť nový?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="238"/>
