@@ -435,7 +435,7 @@
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="14"/>
         <source>LibrePCB WorkspaceLibraryUpdater</source>
-        <translation>LibrePCB - Aktualizátor prac. knižníc</translation>
+        <translation>LibrePCB - Aktualizátor knižníc pracovného priestoru</translation>
     </message>
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="35"/>
@@ -514,7 +514,7 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingcategories.cpp" line="38"/>
         <source>It&apos;s very important to assign every library element to at least one category. Otherwise it will be very hard to find the element in the workspace library, so it&apos;s highly recommended to fix this.</source>
-        <translation>Je veľmi dôležité začleniť každý prvok knižnice do príslušnej kategórie. Inak bude veľmi ťažké vyhľadať konkrétny prvok v prac. knižnici.</translation>
+        <translation>Je veľmi dôležité začleniť každý prvok knižnice do príslušnej kategórie. Inak bude veľmi ťažké vyhľadať konkrétny prvok v knižnici pracovného priestoru.</translation>
     </message>
 </context>
 <context>
@@ -876,12 +876,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="304"/>
         <source>Cannot open the workspace</source>
-        <translation>Pracovná plocha sa nedá otvoriť</translation>
+        <translation>Pracovný priestor sa nedá otvoriť</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="305"/>
         <source>The workspace &quot;%1&quot; cannot be opened: %2</source>
-        <translation>Pracovná plocha &quot;%1&quot; nemôže byť otvorená: %2</translation>
+        <translation>Pracovný priestor &quot;%1&quot; nemôže byť otvorená: %2</translation>
     </message>
 </context>
 <context>
@@ -2143,12 +2143,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="53"/>
         <source>This workspace was already used with a newer version of LibrePCB. All changes in libraries and workspace settings will not be available in newer versions of LibrePCB.</source>
-        <translation>Táto pracovná plocha už bol použitá s novšou verziou LibrePCB. Vykonané zmeny v knižniciach a nastavenie pracovnej plochy, preto nebudú dostupné v novšej verzii LibrePCB.</translation>
+        <translation>Tento pracovný priestor už bol použitý s novšou verziou LibrePCB. Vykonané zmeny v knižniciach a nastavenie pracovného priestoru, preto nebudú dostupné v novšej verzii LibrePCB.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="83"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This workspace does not contain any libraries, which are essential to create and modify projects. You should open the library manager to add some libraries. &lt;a href=&quot;LibraryManager&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Click here to open the library manager&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Táto pracovná plocha neobsahuje žiadnu knižnicu, ktorá je nevyhnutná k vytvoreniu alebo pri úprave projektu. Mali by ste pomocou správcu knižníc, pridať knižnicu. &lt;a href=&quot;LibraryManager&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Kliknite sem pre otvorenie správcu knižníc&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Tento pracovný priestor neobsahuje žiadnu knižnicu, ktorá je nevyhnutná k vytvoreniu alebo pri úprave projektu. Mali by ste pomocou správcu knižníc, pridať knižnicu. &lt;a href=&quot;LibraryManager&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Kliknite sem pre otvorenie správcu knižníc&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="168"/>
@@ -2238,12 +2238,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="526"/>
         <source>Switch Workspace</source>
-        <translation>Prepnúť pracovnú plochu</translation>
+        <translation>Prepnúť pracovný priestor</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="535"/>
         <source>Workspace Settings</source>
-        <translation>Nastavenie pracovnej plochy</translation>
+        <translation>Nastavenie pracovného priestoru</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="547"/>
@@ -2269,7 +2269,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="77"/>
         <source>Workspace: %1</source>
-        <translation>Pracovná plocha: %1</translation>
+        <translation>Pracovný priestor: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="82"/>
@@ -2301,12 +2301,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="500"/>
         <source>Workspace changed</source>
-        <translation>Pracovná plocha zmenená</translation>
+        <translation>Pracovný priestor bol zmenený</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="501"/>
         <source>The chosen workspace will be used after restarting the application.</source>
-        <translation>Zvolená pracovná plocha bude použitá po reštarte aplikácie.</translation>
+        <translation>Zvolený pracovný priestor bude použitý po reštarte aplikácie.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="556"/>
@@ -2374,7 +2374,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizard.ui" line="17"/>
         <source>Choose LibrePCB Workspace</source>
-        <translation>Zvoliť LibrePCB pracovnú plochu</translation>
+        <translation>Zvoliť pracovný priestor LibrePCB</translation>
     </message>
 </context>
 <context>
@@ -2388,7 +2388,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_welcome.ui" line="20"/>
         <source>This wizard will help you to open or create a LibrePCB workspace.</source>
-        <translation>Tento sprievodca pomáha vytvoriť alebo otvoriť LibrePCB pracovnú plochu.</translation>
+        <translation>Tento sprievodca pomáha vytvoriť alebo otvoriť pracovný priestor LibrePCB.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_welcome.ui" line="26"/>
@@ -2411,41 +2411,41 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="20"/>
         <source>Please select a directory to open or create a LibrePCB workspace.</source>
-        <translation>Prosím zvoľte adresár pre otvorenie alebo vytvorenie LibrePCB pracovnej plochy.</translation>
+        <translation>Prosím zvoľte adresár pre otvorenie alebo vytvorenie pracovného priestoru LibrePCB.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="32"/>
         <source>LibrePCB needs a workspace directory to store settings, libraries and projects.
 
 Workspaces are platform independent, so they can be used across different operating systems.</source>
-        <translation>LibrePCB potrebuje adresár pre pracovnú plochu kde bude ukladať nastavenia, knižnice a projekty.
+        <translation>LibrePCB potrebuje adresár pre pracovný priestor, kde bude ukladať nastavenia, knižnice a projekty.
 
-Pracovná plocha je nezávislá od platformy, takže môže byť použiteľná na rôznych operačných systémoch.</translation>
+Pracovný priestor je nezávislý od platformy, takže môže byť použitý na rôznych operačných systémoch.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="17"/>
         <source>Select Workspace Path</source>
-        <translation>Zvoliť cestu k prac. ploche</translation>
+        <translation>Zvoliť cestu k prac. priestoru</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="51"/>
         <source>Create a n&amp;ew workspace</source>
-        <translation>Vytvoriť novú prac.plochu</translation>
+        <translation>Vytvoriť nový prac. priestor</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="61"/>
         <source>Choose an empty directory to create a new workspace:</source>
-        <translation>Zvoľte prázdny adresár pre vytvorenie pracovnej plochy:</translation>
+        <translation>Zvoľte prázdny adresár pre vytvorenie pracovného priestoru:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="92"/>
         <source>Open an e&amp;xisting workspace</source>
-        <translation>Otvoriť jestvujúcu prac.plochu</translation>
+        <translation>Otvoriť jestvujúci prac. priestor</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="102"/>
         <source>Select the workspace directory:</source>
-        <translation>Zvoľte adresár prac. plochy:</translation>
+        <translation>Zvoľte adresár prac. priestoru:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="70"/>
@@ -2461,7 +2461,7 @@ Pracovná plocha je nezávislá od platformy, takže môže byť použiteľná n
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="80"/>
         <source>The selected directory is not a valid workspace.</source>
-        <translation>Zvolený adresár nie je adresár prac. plochy.</translation>
+        <translation>Zvolený adresár nie je adresár prac. priestoru.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="110"/>
@@ -2471,7 +2471,7 @@ Pracovná plocha je nezávislá od platformy, takže môže byť použiteľná n
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="117"/>
         <source>Select Workspace Directory</source>
-        <translation>Zvoliť adresár prac. plochy</translation>
+        <translation>Zvoliť adresár prac. priestoru</translation>
     </message>
 </context>
 <context>
@@ -2479,12 +2479,12 @@ Pracovná plocha je nezávislá od platformy, takže môže byť použiteľná n
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacesettings.ui" line="17"/>
         <source>Workspace Settings</source>
-        <translation>Nastavenie pracovnej plochy</translation>
+        <translation>Nastavenie pracovného priestoru</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacesettings.ui" line="20"/>
         <source>Set the most important workspace settings (of course they can still be changed later).</source>
-        <translation>Nastavenie najdôležitejších nastavení prac. plochy (samozrejme sa budú dať zmeniť aj neskôr).</translation>
+        <translation>Nastavenie najdôležitejších nastavení prac. priestoru (samozrejme sa budú dať zmeniť aj neskôr).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacesettings.ui" line="26"/>
@@ -2527,7 +2527,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Noto Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Tento dialóg Vám umožňuje aktualizovať všetky prvky projektovej knižnice na najnovšie verzie, ktoré sa nachádzajú v pracovnej knižnici.&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Tento dialóg Vám umožňuje aktualizovať všetky prvky projektových knižníc na najnovšie verzie, ktoré sa nachádzajú v knižniciach prac. priestoru.&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Tak ak ste upravovali akýkoľvek prvok v tejto pracovnej ploche, aktualizátor prenesie tieto zmeny aj do projektu.&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Poznámka - funkcie aktualizátora sú veľmi obmedzené:&lt;/span&gt;&lt;/p&gt;
@@ -2963,7 +2963,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="113"/>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="190"/>
         <source>Symbol &apos;%1&apos; not found in workspace library!</source>
-        <translation type="unfinished"/>
+        <translation>Sch. značka &apos;%1&apos; sa nenachádza v knižnici prac. priestoru!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="258"/>
@@ -3763,7 +3763,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="189"/>
         <source>No user name defined in workspace settings. Please open workspace settings to set the default user name.</source>
-        <translation type="unfinished"/>
+        <translation>Meno užívateľa nie je v nastavení pracovného priestoru zadané. Prosím, otvorte nastavenie prac. priestoru a zadajte meno užívateľa.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="258"/>
@@ -5886,7 +5886,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="17"/>
         <source>Workspace Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>Správca pracovného priestoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="75"/>
@@ -7973,7 +7973,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdmirrorselectedschematicitems.cpp" line="54"/>
         <source>Mirror Schematic Elements</source>
-        <translation>Zrkadliť položky schémy.</translation>
+        <translation>Zrkadliť sch. element</translation>
     </message>
 </context>
 <context>
@@ -7989,7 +7989,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdmoveselectedschematicitems.cpp" line="54"/>
         <source>Move Schematic Elements</source>
-        <translation>Presunúť položky schémy</translation>
+        <translation>Presunúť sch. element</translation>
     </message>
 </context>
 <context>
@@ -8013,7 +8013,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdremoveselectedschematicitems.cpp" line="82"/>
         <source>Remove Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť sch. element</translation>
     </message>
 </context>
 <context>
@@ -8053,7 +8053,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdrotateselectedschematicitems.cpp" line="54"/>
         <source>Rotate Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Otočiť sch. element</translation>
     </message>
 </context>
 <context>
