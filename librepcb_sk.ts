@@ -1016,7 +1016,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/widgets/alignmentselector.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
 </context>
 <context>
@@ -1218,12 +1218,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="44"/>
         <source>Filled</source>
-        <translation>Vyplniť</translation>
+        <translation>Vyplnené</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="51"/>
         <source>Grab Area</source>
-        <translation>Pozadie</translation>
+        <translation>Obsadiť plochu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="60"/>
@@ -1419,12 +1419,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="202"/>
         <source>Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Obsadiť plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="203"/>
         <source>Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Skryté obsadenie plôch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="204"/>
@@ -1519,22 +1519,22 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="228"/>
         <source>Top Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Vrchné obsadenie plôch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="229"/>
         <source>Bot Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Spodné obsadenie plôch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="230"/>
         <source>Top Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Vrchné skryté obsadenie plôch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="231"/>
         <source>Bot Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Spodné skryté obsadenie plôch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="232"/>
@@ -1852,12 +1852,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="44"/>
         <source>Filled</source>
-        <translation>Vyplniť</translation>
+        <translation>Vyplnené</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="51"/>
         <source>Grab Area</source>
-        <translation>Pozadie</translation>
+        <translation>Obsadiť plochu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="60"/>
@@ -3273,7 +3273,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorylisteditorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorylisteditorwidget.ui" line="50"/>
@@ -3355,7 +3355,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="32"/>
@@ -3471,7 +3471,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="74"/>
@@ -3635,7 +3635,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="76"/>
@@ -4285,7 +4285,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="50"/>
@@ -4308,7 +4308,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="45"/>
@@ -4825,7 +4825,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.ui" line="32"/>
@@ -5019,7 +5019,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="105"/>
         <source>Grab Area</source>
-        <translation>Pozadie</translation>
+        <translation>Obsadiť plochu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="166"/>
@@ -5059,7 +5059,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="128"/>
         <source>Grab Area</source>
-        <translation>Pozadie</translation>
+        <translation>Obsadiť plochu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="214"/>
@@ -5095,7 +5095,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="195"/>
         <source>Add footprint text</source>
-        <translation type="unfinished"/>
+        <translation>Pridať text do púzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="211"/>
@@ -5144,7 +5144,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="85"/>
@@ -5313,7 +5313,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="105"/>
         <source>Grab Area</source>
-        <translation>Pozadie</translation>
+        <translation>Obsadiť plochu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="166"/>
@@ -5353,7 +5353,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="127"/>
         <source>Grab Area</source>
-        <translation>Pozadie</translation>
+        <translation>Obsadiť plochu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="212"/>
@@ -5438,7 +5438,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.ui" line="94"/>
@@ -5539,7 +5539,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="39"/>
@@ -5765,7 +5765,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="66"/>
@@ -5876,7 +5876,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.cpp" line="68"/>
@@ -5917,7 +5917,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="50"/>
@@ -6039,7 +6039,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netline.cpp" line="118"/>
         <source>Invalid trace anchor!</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný bod uchytenia spoju!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netline.cpp" line="126"/>
@@ -6076,7 +6076,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
         <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="110"/>
         <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="303"/>
         <source>There is already a via with the UUID &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje prechod s UUID &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="122"/>
@@ -6108,7 +6108,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_plane.h" line="182"/>
         <source>Unknown plane connect style: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Neznámy spôsob pripojenia signálnej plochy: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -6116,7 +6116,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_via.h" line="169"/>
         <source>Unknown via shape: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Neznámy tvar plôšky prechodu: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -6124,7 +6124,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/board.cpp" line="282"/>
         <source>There is already a device of the component instance &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje súčiastka ako inštancia komponentu &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/board.cpp" line="295"/>
@@ -6135,7 +6135,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/board.cpp" line="588"/>
         <source>There is already a device with the component instance &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje púzdro ako inštancia komponentu &quot;%1&quot;!</translation>
     </message>
 </context>
 <context>
@@ -6143,7 +6143,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/boardgerberexport.cpp" line="578"/>
         <source>Sorry, non-square octagons are not yet supported.</source>
-        <translation type="unfinished"/>
+        <translation>Prepáčte, nepravidelné osemuholníky nie sú zatiaľ podporované.</translation>
     </message>
 </context>
 <context>
@@ -6151,35 +6151,35 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="158"/>
         <source>There is already a net class with the UUID &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje trieda spojov s UUID &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="165"/>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="194"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje trieda spojov s názvom &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="246"/>
         <source>There is already a net signal with the UUID &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje signál s UUID &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="253"/>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="284"/>
         <source>There is already a net signal with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje signál s názvom &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="333"/>
         <source>There is already a component with the UUID &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje komponent s UUID &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="340"/>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="370"/>
         <source>There is already a component with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje komponent s názvom &quot;%1&quot;!</translation>
     </message>
 </context>
 <context>
@@ -6200,7 +6200,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboarddesignrulesmodify.cpp" line="41"/>
         <source>Modify board design rules</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť návrhové pravidlá dosky</translation>
     </message>
 </context>
 <context>
@@ -6208,7 +6208,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardholeadd.cpp" line="41"/>
         <source>Add hole to board</source>
-        <translation type="unfinished"/>
+        <translation>Pridať otvor na dosku</translation>
     </message>
 </context>
 <context>
@@ -6216,7 +6216,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardholeremove.cpp" line="41"/>
         <source>Remove hole from board</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť otvor z dosky</translation>
     </message>
 </context>
 <context>
@@ -6224,7 +6224,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardlayerstackedit.cpp" line="41"/>
         <source>Modify board layer stack</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť stohovanie vrstiev dosky</translation>
     </message>
 </context>
 <context>
@@ -6232,7 +6232,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardnetlineedit.cpp" line="38"/>
         <source>Edit trace</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť spoj</translation>
     </message>
 </context>
 <context>
@@ -6289,7 +6289,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardplaneadd.cpp" line="41"/>
         <source>Add plane to board</source>
-        <translation type="unfinished"/>
+        <translation>Pridať signálnu plochu na dosku</translation>
     </message>
 </context>
 <context>
@@ -6297,7 +6297,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardplaneedit.cpp" line="43"/>
         <source>Edit plane</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť signálnu plochu</translation>
     </message>
 </context>
 <context>
@@ -6305,7 +6305,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardplaneremove.cpp" line="41"/>
         <source>Remove plane from board</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť signálnu plochu</translation>
     </message>
 </context>
 <context>
@@ -6313,7 +6313,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardpolygonadd.cpp" line="41"/>
         <source>Add polygon to board</source>
-        <translation type="unfinished"/>
+        <translation>Pridať polygón na dosku</translation>
     </message>
 </context>
 <context>
@@ -6321,7 +6321,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardpolygonremove.cpp" line="41"/>
         <source>Remove polygon from board</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť polygón z dosky</translation>
     </message>
 </context>
 <context>
@@ -6337,7 +6337,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardstroketextadd.cpp" line="41"/>
         <source>Add text to board</source>
-        <translation type="unfinished"/>
+        <translation>Pridať text na dosku</translation>
     </message>
 </context>
 <context>
@@ -6345,7 +6345,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardstroketextremove.cpp" line="41"/>
         <source>Remove text from board</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť text z dosky</translation>
     </message>
 </context>
 <context>
@@ -6353,7 +6353,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardviaedit.cpp" line="40"/>
         <source>Edit via</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť prechod</translation>
     </message>
 </context>
 <context>
@@ -6361,7 +6361,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdcompsiginstsetnetsignal.cpp" line="41"/>
         <source>Change component signal net</source>
-        <translation type="unfinished"/>
+        <translation>Zmeniť signál komponentu</translation>
     </message>
 </context>
 <context>
@@ -6374,7 +6374,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdcomponentinstanceadd.cpp" line="69"/>
         <source>The component with the UUID &quot;%1&quot; does not exist in the project&apos;s library!</source>
-        <translation type="unfinished"/>
+        <translation>Komponent s UUID &quot;%1&quot; sa nenachádza v projektovej knižnici!</translation>
     </message>
 </context>
 <context>
@@ -6382,7 +6382,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdcomponentinstanceedit.cpp" line="42"/>
         <source>Edit Component</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť komponent</translation>
     </message>
 </context>
 <context>
@@ -6390,7 +6390,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdcomponentinstanceremove.cpp" line="42"/>
         <source>Remove component</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť komponent</translation>
     </message>
 </context>
 <context>
@@ -6406,7 +6406,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmddeviceinstanceedit.cpp" line="40"/>
         <source>Edit device instance</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť inštanciu súčiastky</translation>
     </message>
 </context>
 <context>
@@ -6414,7 +6414,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmddeviceinstanceeditall.cpp" line="45"/>
         <source>Edit device instance</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť inštanciu súčiastky</translation>
     </message>
 </context>
 <context>
@@ -6422,7 +6422,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmddeviceinstanceremove.cpp" line="41"/>
         <source>Remove device instance</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť inštanciu súčiastky</translation>
     </message>
 </context>
 <context>
@@ -6430,7 +6430,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdfootprintstroketextadd.cpp" line="41"/>
         <source>Add footprint text</source>
-        <translation type="unfinished"/>
+        <translation>Pridať text do púzdra</translation>
     </message>
 </context>
 <context>
@@ -6438,7 +6438,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdfootprintstroketextremove.cpp" line="41"/>
         <source>Remove footprint text</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť text z púzdra</translation>
     </message>
 </context>
 <context>
@@ -6446,7 +6446,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdfootprintstroketextsreset.cpp" line="47"/>
         <source>Reset footprint texts</source>
-        <translation type="unfinished"/>
+        <translation>Prestaviť texty púzdra</translation>
     </message>
 </context>
 <context>
@@ -6454,7 +6454,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdnetclassadd.cpp" line="42"/>
         <source>Add netclass</source>
-        <translation type="unfinished"/>
+        <translation>Pridať triedu spojov</translation>
     </message>
 </context>
 <context>
@@ -6462,7 +6462,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdnetclassedit.cpp" line="41"/>
         <source>Edit netclass</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť triedu spojov</translation>
     </message>
 </context>
 <context>
@@ -6470,7 +6470,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdnetclassremove.cpp" line="42"/>
         <source>Remove netclass</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť triedu spojov</translation>
     </message>
 </context>
 <context>
@@ -6502,7 +6502,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/metadata/cmd/cmdprojectmetadataedit.cpp" line="39"/>
         <source>Edit Project Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť metadáta projektu</translation>
     </message>
 </context>
 <context>
@@ -6510,7 +6510,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/settings/cmd/cmdprojectsettingschange.cpp" line="41"/>
         <source>Change Project Settings</source>
-        <translation type="unfinished"/>
+        <translation>Zmeniť nastavenie projektu</translation>
     </message>
 </context>
 <context>
@@ -6615,7 +6615,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdsymbolinstanceadd.cpp" line="43"/>
         <source>Add symbol instance</source>
-        <translation type="unfinished"/>
+        <translation>Pridať inštanciu sch. značky</translation>
     </message>
 </context>
 <context>
@@ -6623,7 +6623,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdsymbolinstanceedit.cpp" line="40"/>
         <source>Edit symbol instance</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť inštanciu sch. značky</translation>
     </message>
 </context>
 <context>
@@ -6639,37 +6639,37 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="67"/>
         <source>The component with the UUID &quot;%1&quot; does not exist in the project&apos;s library!</source>
-        <translation type="unfinished"/>
+        <translation>Komponent s UUID &quot;%1&quot; sa nenachádza v projektovej knižnici!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="87"/>
         <source>The signal with the UUID &quot;%1&quot; is defined multiple times.</source>
-        <translation type="unfinished"/>
+        <translation>Signál s UUID &quot;%1&quot; je vytvorený viackrát.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="96"/>
         <source>The signal count of the component instance &quot;%1&quot; does not match with the signal count of the component &quot;%2&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Počet signálov inštancie komponentu &quot;%1 nezodpovedá počtu signálov komponentu &quot;%2&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="270"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>Komponent &quot;%1&quot; nemôže byť odstránený, pretože sa stále používa!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="291"/>
         <source>Invalid symbol item in circuit: &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná položka sch. značky v zapojení: &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="297"/>
         <source>Symbol item UUID already exists in circuit: &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Položka sch. značky s UUID už existuje v zapojení: &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="309"/>
         <source>All symbols of a component must be placed in the same schematic.</source>
-        <translation type="unfinished"/>
+        <translation>Všetky sch. značky komponentu, musia byť umiestnené na rovnakom liste schémy.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="408"/>
@@ -6697,7 +6697,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="230"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>Komponent &quot;%1&quot; nemôže byť odstránený, pretože sa stále používa!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="302"/>
@@ -6862,7 +6862,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_netline.cpp" line="59"/>
         <source>Invalid trace anchor!</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný bod uchytenia spoju!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_netline.cpp" line="81"/>
@@ -7043,7 +7043,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addhole.cpp" line="191"/>
         <source>Add hole to board</source>
-        <translation type="unfinished"/>
+        <translation>Pridať otvor na dosku</translation>
     </message>
 </context>
 <context>
@@ -7078,7 +7078,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="301"/>
         <source>Add text to board</source>
-        <translation type="unfinished"/>
+        <translation>Pridať text na dosku</translation>
     </message>
 </context>
 <context>
@@ -7129,7 +7129,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="285"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="325"/>
         <source>Draw board plane</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť signálnu plochu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="300"/>
@@ -7155,13 +7155,13 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="139"/>
         <source>Filled:</source>
-        <translation type="unfinished"/>
+        <translation>Vyplnené:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="291"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="332"/>
         <source>Draw Board Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť polygón na doske</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="307"/>
@@ -7186,7 +7186,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="348"/>
         <source>Draw Board Trace</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť spoj na doske</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="354"/>
@@ -7606,7 +7606,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="632"/>
         <source>&amp;Draw Trace</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť spoj</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="641"/>
@@ -7755,7 +7755,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.ui" line="52"/>
         <source>Disabling some inner copper layers just hides them, even if there are traces located on them. As we cannot yet avoid that situation, you need to be careful when reducing the number of inner copper layers.</source>
-        <translation type="unfinished"/>
+        <translation>Zakázanie niektorých vnútorných signálnych vrstiev, ich len skryje a to aj keď už obsahujú spoje. Keďže sa tomuto zatiaľ nedá vyhnúť, musíte byť opatrný pri redukovaní vnútorných signálnych vrstiev.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.cpp" line="95"/>
