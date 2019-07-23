@@ -5898,12 +5898,12 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
 <context>
     <name>librepcb::library::manager::LibraryManager</name>
     <message>
-        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="17"/>
+        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="14"/>
         <source>Workspace Library Manager</source>
         <translation>Správca pracovného priestoru</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="75"/>
+        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="72"/>
         <source>Close</source>
         <translation>Zavrieť</translation>
     </message>

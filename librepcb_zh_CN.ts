@@ -5860,12 +5860,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
 <context>
     <name>librepcb::library::manager::LibraryManager</name>
     <message>
-        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="17"/>
+        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="14"/>
         <source>Workspace Library Manager</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="75"/>
+        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="72"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
