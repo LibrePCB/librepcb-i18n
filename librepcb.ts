@@ -5902,12 +5902,12 @@ Are you really sure to remove &quot;%2&quot;?</translation>
 <context>
     <name>librepcb::library::manager::LibraryManager</name>
     <message>
-        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="17"/>
+        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="14"/>
         <source>Workspace Library Manager</source>
         <translation>Workspace Library Manager</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="75"/>
+        <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="72"/>
         <source>Close</source>
         <translation>Close</translation>
     </message>
