@@ -3134,7 +3134,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="194"/>
         <source>Footprint name</source>
-        <translation type="unfinished"></translation>
+        <translation>Footprint name</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="236"/>

@@ -3100,32 +3100,32 @@ p, li { white-space: pre-wrap; }
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="130"/>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="146"/>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="162"/>
-        <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="302"/>
+        <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="301"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="195"/>
-        <source>Signal name (may contain ranges like &quot;%1&quot;)</source>
+        <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="194"/>
+        <source>Footprint name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="237"/>
+        <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="236"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="245"/>
+        <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="244"/>
         <source>New:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="248"/>
+        <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="247"/>
         <source>Add a new footprint</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="351"/>
+        <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="350"/>
         <source>There is already a footprint with the name &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
