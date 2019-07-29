@@ -2928,7 +2928,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="225"/>
         <source>Forced Net</source>
-        <translation type="unfinished"/>
+        <translation>Priradiť k signálu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="233"/>
