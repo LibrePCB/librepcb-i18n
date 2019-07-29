@@ -1376,7 +1376,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="193"/>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="211"/>
         <source>Sheet Frames</source>
-        <translation>Rámiky sch. listov</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="194"/>
@@ -1414,27 +1414,27 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="201"/>
         <source>Outlines</source>
-        <translation>Obrys dosky</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="202"/>
         <source>Grab Areas</source>
-        <translation>Obsadiť plochy</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="203"/>
         <source>Hidden Grab Areas</source>
-        <translation>Skryté obsadenie plôch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="204"/>
         <source>Names</source>
-        <translation>Názvy</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="205"/>
         <source>Values</source>
-        <translation>Hodnoty</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="206"/>
@@ -1459,7 +1459,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="212"/>
         <source>Board Outlines</source>
-        <translation>Obrys dosky</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="213"/>
@@ -1489,7 +1489,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="218"/>
         <source>Measures</source>
-        <translation>Meranie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="219"/>
@@ -1499,7 +1499,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="224"/>
         <source>Top Placement</source>
-        <translation>Vrchné súčiastky</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="225"/>
@@ -1519,22 +1519,22 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="228"/>
         <source>Top Grab Areas</source>
-        <translation>Vrchné obsadenie plôch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="229"/>
         <source>Bot Grab Areas</source>
-        <translation>Spodné obsadenie plôch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="230"/>
         <source>Top Hidden Grab Areas</source>
-        <translation>Vrchné skryté obsadenie plôch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="231"/>
         <source>Bot Hidden Grab Areas</source>
-        <translation>Spodné skryté obsadenie plôch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="232"/>
@@ -2923,7 +2923,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="225"/>
         <source>Forced Net</source>
-        <translation type="unfinished"/>
+        <translation>Priradiť k signálu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="233"/>
@@ -8797,7 +8797,7 @@ Do you want to save them before closing the project?</source>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_drawwire.cpp" line="349"/>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_drawwire.cpp" line="599"/>
         <source>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</source>
-        <translation>Nie je možné použiť tento názov spoja, pretože &apos;%1&apos; je neplatný názov.</translation>
+        <translation>Nie je možné priradiť k spoju &apos;%1&apos;, pretože má neplatný názov.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_drawwire.cpp" line="443"/>
