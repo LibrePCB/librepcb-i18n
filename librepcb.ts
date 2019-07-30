@@ -1305,32 +1305,32 @@ Passive parts: Using an attribute, e.g. %3</translation>
         <translation>Browse</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="129"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="127"/>
         <source>Edit</source>
         <translation>Edit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="134"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="132"/>
         <source>Copy</source>
         <translation>Copy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="139"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="137"/>
         <source>Move up</source>
         <translation>Move up</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="142"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="140"/>
         <source>Move down</source>
         <translation>Move down</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="146"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="144"/>
         <source>Remove</source>
         <translation>Remove</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="154"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="152"/>
         <source>Add</source>
         <translation>Add</translation>
     </message>
@@ -1818,21 +1818,41 @@ Passive parts: Using an attribute, e.g. %3</translation>
     </message>
 </context>
 <context>
-    <name>librepcb::PathEditorWidget</name>
+    <name>librepcb::PathModel</name>
     <message>
-        <location filename="../libs/librepcb/common/widgets/patheditorwidget.cpp" line="43"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="187"/>
         <source>Pos. X</source>
-        <translation>Pos. X</translation>
+        <translation type="unfinished">Pos. X</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/patheditorwidget.cpp" line="44"/>
-        <source>Pos Y.</source>
-        <translation>Pos Y.</translation>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="189"/>
+        <source>Pos. Y</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/patheditorwidget.cpp" line="45"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="191"/>
         <source>Angle</source>
-        <translation>Angle</translation>
+        <translation type="unfinished">Angle</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="193"/>
+        <source>Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="203"/>
+        <source>New:</source>
+        <translation type="unfinished">New:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="207"/>
+        <source>Add a new vertex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="274"/>
+        <source>Error</source>
+        <translation type="unfinished">Error</translation>
     </message>
 </context>
 <context>

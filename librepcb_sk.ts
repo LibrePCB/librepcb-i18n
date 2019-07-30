@@ -47,7 +47,7 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="177"/>
         <source>Restring vias: MAX must be &gt;= MIN</source>
-        <translation>Úprava šírky okružia prechodu: MAX musí byť &gt;= MIN</translation>
+        <translation>Upraviť šírku okružia prechodov: MAX musí byť &gt;= MIN</translation>
     </message>
 </context>
 <context>
@@ -1190,7 +1190,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="243"/>
         <source>Restring Vias:</source>
-        <translation>Úprava šírky okružia prechodu:</translation>
+        <translation>Upraviť šírku okružia prechodov:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.cpp" line="144"/>
