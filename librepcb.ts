@@ -1822,37 +1822,37 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="187"/>
         <source>Pos. X</source>
-        <translation type="unfinished">Pos. X</translation>
+        <translation>Pos. X</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="189"/>
         <source>Pos. Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Pos. Y</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="191"/>
         <source>Angle</source>
-        <translation type="unfinished">Angle</translation>
+        <translation>Angle</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="193"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Actions</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="203"/>
         <source>New:</source>
-        <translation type="unfinished">New:</translation>
+        <translation>New:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="207"/>
         <source>Add a new vertex</source>
-        <translation type="unfinished"></translation>
+        <translation>Add a new vertex</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="274"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>

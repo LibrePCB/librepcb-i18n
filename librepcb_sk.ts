@@ -42,12 +42,12 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="166"/>
         <source>Restring pads: MAX must be &gt;= MIN</source>
-        <translation>Šírka okružia sp. plôšky: MAX musí byť &gt;= MIN</translation>
+        <translation>Upraviť šírku medzikružia plôšky vývodu: MAX musí byť &gt;= MIN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="177"/>
         <source>Restring vias: MAX must be &gt;= MIN</source>
-        <translation>Upraviť šírku okružia prechodov: MAX musí byť &gt;= MIN</translation>
+        <translation>Upraviť šírku medzikružia prechodov: MAX musí byť &gt;= MIN</translation>
     </message>
 </context>
 <context>
@@ -1185,12 +1185,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="188"/>
         <source>Restring THT Pads:</source>
-        <translation>Šírka okružia THT plôšky:</translation>
+        <translation>Upraviť šírku medzikružia THT plôšky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="243"/>
         <source>Restring Vias:</source>
-        <translation>Upraviť šírku okružia prechodov:</translation>
+        <translation>Upraviť šírku medzikružia prechodov:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.cpp" line="144"/>
@@ -1302,32 +1302,32 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <translation>Prechádzať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="129"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="127"/>
         <source>Edit</source>
         <translation>Upraviť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="134"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="132"/>
         <source>Copy</source>
         <translation>Kopírovať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="139"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="137"/>
         <source>Move up</source>
         <translation>Presunúť hore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="142"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="140"/>
         <source>Move down</source>
         <translation>Presunúť dole</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="146"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="144"/>
         <source>Remove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="154"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="152"/>
         <source>Add</source>
         <translation>Pridať</translation>
     </message>
@@ -1815,21 +1815,41 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     </message>
 </context>
 <context>
-    <name>librepcb::PathEditorWidget</name>
+    <name>librepcb::PathModel</name>
     <message>
-        <location filename="../libs/librepcb/common/widgets/patheditorwidget.cpp" line="43"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="187"/>
         <source>Pos. X</source>
         <translation>Poz. X</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/patheditorwidget.cpp" line="44"/>
-        <source>Pos Y.</source>
-        <translation>Poz Y.</translation>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="189"/>
+        <source>Pos. Y</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/patheditorwidget.cpp" line="45"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="191"/>
         <source>Angle</source>
         <translation>Uhol</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="193"/>
+        <source>Actions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="203"/>
+        <source>New:</source>
+        <translation>Nový:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="207"/>
+        <source>Add a new vertex</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="274"/>
+        <source>Error</source>
+        <translation>Chyba</translation>
     </message>
 </context>
 <context>

@@ -1297,32 +1297,32 @@ Passive parts: Using an attribute, e.g. %3</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="129"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="127"/>
         <source>Edit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="134"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="132"/>
         <source>Copy</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="139"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="137"/>
         <source>Move up</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="142"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="140"/>
         <source>Move down</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="146"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="144"/>
         <source>Remove</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="154"/>
+        <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="152"/>
         <source>Add</source>
         <translation type="unfinished"/>
     </message>
@@ -1808,21 +1808,41 @@ Passive parts: Using an attribute, e.g. %3</source>
     </message>
 </context>
 <context>
-    <name>librepcb::PathEditorWidget</name>
+    <name>librepcb::PathModel</name>
     <message>
-        <location filename="../libs/librepcb/common/widgets/patheditorwidget.cpp" line="43"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="187"/>
         <source>Pos. X</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/patheditorwidget.cpp" line="44"/>
-        <source>Pos Y.</source>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="189"/>
+        <source>Pos. Y</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/widgets/patheditorwidget.cpp" line="45"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="191"/>
         <source>Angle</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="193"/>
+        <source>Actions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="203"/>
+        <source>New:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="207"/>
+        <source>Add a new vertex</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="274"/>
+        <source>Error</source>
+        <translation>错误</translation>
     </message>
 </context>
 <context>
