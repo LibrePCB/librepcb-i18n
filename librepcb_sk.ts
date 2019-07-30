@@ -1397,13 +1397,13 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="197"/>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="220"/>
         <source>Documentation</source>
-        <translation>Dokumentácia</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="198"/>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="221"/>
         <source>Comments</source>
-        <translation>Poznámka</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="199"/>
@@ -1464,27 +1464,27 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="213"/>
         <source>Milling (PTH)</source>
-        <translation>Frézovanie (PTH)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="214"/>
         <source>Drills (NPTH)</source>
-        <translation>Vŕtanie (NPTH)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="215"/>
         <source>Pads</source>
-        <translation>Plôšky vývodov</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="216"/>
         <source>Vias</source>
-        <translation>Prechody</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="217"/>
         <source>Air Wires</source>
-        <translation>Vzdušné spoje</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="218"/>
@@ -1494,7 +1494,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="219"/>
         <source>Alignment</source>
-        <translation>Zarovnanie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="224"/>
