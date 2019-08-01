@@ -7,12 +7,7 @@
         <translation>属性类型&quot;%1&quot;的未知单位：&quot;%2&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="91"/>
-        <source>Invalid %1 value: &quot;%2&quot;</source>
-        <translation>无效的 %1 值：&quot;%2&quot;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="117"/>
+        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="123"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
         <translation>无效的属性类型：&quot;%1&quot;</translation>
     </message>
@@ -1085,7 +1080,7 @@ Passive parts: Using an attribute, e.g. %3</source>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="127"/>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="143"/>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="159"/>
-        <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="387"/>
+        <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="395"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -1125,7 +1120,7 @@ Passive parts: Using an attribute, e.g. %3</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="434"/>
+        <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="442"/>
         <source>There is already an attribute with the key &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>

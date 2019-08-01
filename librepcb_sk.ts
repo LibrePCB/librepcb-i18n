@@ -7,12 +7,7 @@
         <translation>Neznáma jednotka atribútu &quot;%1&quot;: &quot;%2&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="91"/>
-        <source>Invalid %1 value: &quot;%2&quot;</source>
-        <translation>Nesprávna %1 hodnota: &quot;%2&quot;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="117"/>
+        <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="123"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
         <translation>Nesprávny typ atribútu: &quot;%1&quot;</translation>
     </message>
@@ -1090,7 +1085,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="127"/>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="143"/>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="159"/>
-        <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="387"/>
+        <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="395"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -1130,7 +1125,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <translation>Pridať nový atribút</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="434"/>
+        <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="442"/>
         <source>There is already an attribute with the key &quot;%1&quot;.</source>
         <translation>Atribút s kľúčom &quot;%1&quot; už existuje.</translation>
     </message>
