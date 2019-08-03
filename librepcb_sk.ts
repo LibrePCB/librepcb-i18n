@@ -667,12 +667,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadoverlapswithplacement.cpp" line="43"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to placement layer</source>
-        <translation>Nedodržaná minimálna povolená vzdialenosť medzi plôškou vývodu &apos;%1&apos; v &apos;%2&apos; a prvkom vo vrstve obrysu púzdra</translation>
+        <translation>Plôška vývodu &apos;%1&apos; v &apos;%2&apos; a prvok vo vrstve &apos;top placement&apos; príliš blízko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadoverlapswithplacement.cpp" line="45"/>
         <source>Pads should have at least %1 clearance to the outlines layer because outlines are drawn on silkscreen which will be cropped for Gerber export.</source>
-        <translation>plôška vývodu púzdra by mala mať nastavené minimálne %1 minimálne povolené vzdialenosti voči obrysu, pretože tento je vygenerovaný do popisnej vrstvy (silkscreen) a bude prerušený pri exportovaní Gerber dát.</translation>
+        <translation>Plôška vývodu púzdra by mala byť minimálne %1 vzdialená od obrysu, pretože tento je vygenerovaný do popisnej vrstvy (silkscreen) a bude prerušený pri exportovaní Gerber dát.</translation>
     </message>
 </context>
 <context>
