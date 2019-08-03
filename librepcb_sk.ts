@@ -4333,7 +4333,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="85"/>
         <source>Symbols</source>
-        <translation>Sch. značky</translation>
+        <translation>Schematické značky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="125"/>
