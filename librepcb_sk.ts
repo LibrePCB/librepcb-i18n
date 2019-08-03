@@ -6723,7 +6723,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="302"/>
         <source>Unconnected component signal: &quot;%1&quot; from &quot;%2&quot;</source>
-        <translation>Nepripojený signál komponentu: &quot;%1&quot; z &quot;%2&quot;</translation>
+        <translation>Nepripojený signál &quot;%1&quot; komponentu &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="306"/>
