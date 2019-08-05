@@ -71,22 +71,22 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="66"/>
         <source>Open a project to execute project-related tasks.</source>
-        <translation>Otvoriť projekt pre vykonanie jeho úloh.</translation>
+        <translation>Otvoriť projekt pre vykonanie akcií v ňom.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="67"/>
         <source>open-project [command_options]</source>
-        <translation>open-project [command_options]</translation>
+        <translation>open-project [možnosti_príkazu]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="69"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation>Otvoriť knižnicu pre vykonanie jej úloh.</translation>
+        <translation>Otvoriť knižnicu pre vykonanie akcií v nej.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="70"/>
         <source>open-library [command_options]</source>
-        <translation>open-library [command_options]</translation>
+        <translation>open-library [možnosti_príkazu]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="75"/>
@@ -2613,12 +2613,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="248"/>
         <source>Open project &apos;%1&apos;...</source>
-        <translation>Otvoriť projekt &apos;%1&apos;...</translation>
+        <translation>Otváram projekt &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="271"/>
         <source>Run ERC...</source>
-        <translation>Spustiť ERC...</translation>
+        <translation>Spúšťam ERC...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="284"/>
@@ -2643,7 +2643,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="307"/>
         <source>Export schematics to &apos;%1&apos;...</source>
-        <translation>Export schém do &apos;%1&apos;...</translation>
+        <translation>Exportujem listy schém do &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="320"/>
@@ -2653,7 +2653,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="327"/>
         <source>Export PCB fabrication data...</source>
-        <translation>Exportovať výrobné dáta DPS...</translation>
+        <translation>Exportujem výrobné dáta DPS...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="339"/>
@@ -2678,7 +2678,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="385"/>
         <source>Save project...</source>
-        <translation>Uložiť projekt....</translation>
+        <translation>Ukladám projekt....</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="396"/>
@@ -2689,7 +2689,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="408"/>
         <source>Open library &apos;%1&apos;...</source>
-        <translation>Otvoriť knižnicu &apos;%1&apos;...</translation>
+        <translation>Otváram knižnicu &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="418"/>
