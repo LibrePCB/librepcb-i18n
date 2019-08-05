@@ -2883,7 +2883,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentpinsignalmapmodel.cpp" line="264"/>
         <source>Designator in Schematics</source>
-        <translation>Identifikátor v schéme</translation>
+        <translation>Označenie v schéme</translation>
     </message>
 </context>
 <context>
@@ -2938,7 +2938,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="225"/>
         <source>Forced Net</source>
-        <translation>Priradiť k signálu</translation>
+        <translation>Pripojenie k signálu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="233"/>
