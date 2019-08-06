@@ -208,7 +208,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="226"/>
         <source>SUCCESS</source>
-        <translation>ÚSPEŠNE</translation>
+        <translation>ÚSPEŠNÉ</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="229"/>
@@ -2694,7 +2694,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="418"/>
         <source>Process %1 component categories...</source>
-        <translation>Proces %1 kategórie komponentov...</translation>
+        <translation>Spracovávam %1 kategórie komponentov...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="422"/>
@@ -2719,32 +2719,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="438"/>
         <source>Process %1 package categories...</source>
-        <translation>Proces %1 kategórie púzdier...</translation>
+        <translation>Spracovávam %1 kategórie púzdier...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="458"/>
         <source>Process %1 symbols...</source>
-        <translation>Proces %1 sch. značky...</translation>
+        <translation>Spracovávam %1 sch. značky...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="477"/>
         <source>Process %1 packages...</source>
-        <translation>Proces %1 púzdra...</translation>
+        <translation>Spracovávam %1 púzdra...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="496"/>
         <source>Process %1 components...</source>
-        <translation>Proces %1 komponenty...</translation>
+        <translation>Spracovávam %1 komponenty...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="515"/>
         <source>Process %1 devices...</source>
-        <translation>Proces %1 súčiastky...</translation>
+        <translation>Spracovávam %1 súčiastky...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="533"/>
         <source>Save library &apos;%1&apos;...</source>
-        <translation>Uložiť knižnicu &apos;%1&apos;...</translation>
+        <translation>Ukladám knižnicu &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
