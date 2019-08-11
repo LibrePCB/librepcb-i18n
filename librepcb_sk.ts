@@ -2933,7 +2933,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="223"/>
         <source>Connection</source>
-        <translation>Prepojenie</translation>
+        <translation>El. pripojenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="225"/>
