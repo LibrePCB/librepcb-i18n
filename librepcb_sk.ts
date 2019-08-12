@@ -1819,7 +1819,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="189"/>
         <source>Pos. Y</source>
-        <translation type="unfinished"/>
+        <translation>Poz. Y</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="191"/>
