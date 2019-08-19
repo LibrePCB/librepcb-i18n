@@ -812,7 +812,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/font/strokefontpool.cpp" line="67"/>
         <source>The font &quot;%1&quot; does not exist in the font pool.</source>
-        <translation type="unfinished"/>
+        <translation>Font &quot;%1&quot; sa nenachádza v zozname dostupných fontov písma.</translation>
     </message>
 </context>
 <context>
