@@ -807,7 +807,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/font/strokefontpool.cpp" line="67"/>
         <source>The font &quot;%1&quot; does not exist in the font pool.</source>
-        <translation type="unfinished"/>
+        <translation>Font &quot;%1&quot; sa nenachádza v zozname dostupných fontov písma.</translation>
     </message>
 </context>
 <context>
@@ -1165,7 +1165,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="55"/>
         <source>Stop Mask Max. Via Diam.:</source>
-        <translation type="unfinished"/>
+        <translation>Max. priemer prep. otvoru v nesp. maske:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="78"/>
@@ -1829,7 +1829,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="193"/>
         <source>Actions</source>
-        <translation type="unfinished"/>
+        <translation>Akcie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="203"/>
@@ -1839,7 +1839,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="207"/>
         <source>Add a new vertex</source>
-        <translation type="unfinished"/>
+        <translation>Pridať nový vrchol</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="274"/>
@@ -3146,7 +3146,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="194"/>
         <source>Footprint name</source>
-        <translation type="unfinished"/>
+        <translation>Názov púzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="236"/>
