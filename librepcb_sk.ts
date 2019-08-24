@@ -139,7 +139,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="114"/>
         <source>attributes</source>
-        <translation type="unfinished"/>
+        <translation>atribúty</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="117"/>
