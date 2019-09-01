@@ -6198,14 +6198,6 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     </message>
 </context>
 <context>
-    <name>librepcb::project::BoardGerberExport</name>
-    <message>
-        <location filename="../libs/librepcb/project/boards/boardgerberexport.cpp" line="578"/>
-        <source>Sorry, non-square octagons are not yet supported.</source>
-        <translation>Prepáčte, nepravidelné osemuholníky nie sú zatiaľ podporované.</translation>
-    </message>
-</context>
-<context>
     <name>librepcb::project::Circuit</name>
     <message>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="158"/>
