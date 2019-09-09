@@ -768,7 +768,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="72"/>
         <source>Unknown node type.</source>
-        <translation type="unfinished"/>
+        <translation>Neznámy typ uzla.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="97"/>
@@ -778,12 +778,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="104"/>
         <source>Node is not a token or string.</source>
-        <translation type="unfinished"/>
+        <translation>Uzol nie je token alebo reťazec.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="108"/>
         <source>Node value is empty.</source>
-        <translation type="unfinished"/>
+        <translation>Hodnota uzla neobsahuje žiadnu hodnotu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="127"/>
@@ -794,17 +794,17 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="231"/>
         <source>Invalid S-Expression list name: %1</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný názov zoznamu S-Expresion: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="260"/>
         <source>Invalid S-Expression token: %1</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný S-Expresion token: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="302"/>
         <source>File does not have exactly one root node.</source>
-        <translation type="unfinished"/>
+        <translation>Súbor neobsahuje root uzol.</translation>
     </message>
 </context>
 <context>
@@ -6065,7 +6065,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netline.cpp" line="159"/>
         <source>BI_NetLine: both endpoints are the same.</source>
-        <translation type="unfinished"/>
+        <translation>BI_NetLine: obe ukončenia sú totožné.</translation>
     </message>
 </context>
 <context>
@@ -6545,7 +6545,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicnetlabelanchorsupdate.cpp" line="41"/>
         <source>Update netlabel anchors</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizovať uchytenie menovky</translation>
     </message>
 </context>
 <context>
@@ -6881,7 +6881,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_netline.cpp" line="81"/>
         <source>SI_NetLine: both endpoints are the same.</source>
-        <translation type="unfinished"/>
+        <translation>SI_NetLine: obe ukončenia sú totožné.</translation>
     </message>
 </context>
 <context>
