@@ -1827,37 +1827,37 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>librepcb::PathModel</name>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="187"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="184"/>
         <source>Pos. X</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="189"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="186"/>
         <source>Pos. Y</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="191"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="188"/>
         <source>Angle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="193"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="190"/>
         <source>Actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="203"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="200"/>
         <source>New:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="207"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="204"/>
         <source>Add a new vertex</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="274"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="271"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>

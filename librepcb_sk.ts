@@ -1834,37 +1834,37 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
 <context>
     <name>librepcb::PathModel</name>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="187"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="184"/>
         <source>Pos. X</source>
         <translation>Poz. X</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="189"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="186"/>
         <source>Pos. Y</source>
         <translation>Poz. Y</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="191"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="188"/>
         <source>Angle</source>
         <translation>Uhol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="193"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="190"/>
         <source>Actions</source>
         <translation>Akcie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="203"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="200"/>
         <source>New:</source>
         <translation>Nový:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="207"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="204"/>
         <source>Add a new vertex</source>
         <translation>Pridať nový vrchol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="274"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="271"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
