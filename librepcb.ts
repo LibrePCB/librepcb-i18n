@@ -1837,37 +1837,37 @@ Passive parts: Using an attribute, e.g. %3</translation>
 <context>
     <name>librepcb::PathModel</name>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="187"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="184"/>
         <source>Pos. X</source>
         <translation>Pos. X</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="189"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="186"/>
         <source>Pos. Y</source>
         <translation>Pos. Y</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="191"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="188"/>
         <source>Angle</source>
         <translation>Angle</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="193"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="190"/>
         <source>Actions</source>
         <translation>Actions</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="203"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="200"/>
         <source>New:</source>
         <translation>New:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="207"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="204"/>
         <source>Add a new vertex</source>
         <translation>Add a new vertex</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="274"/>
+        <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="271"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
