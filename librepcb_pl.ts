@@ -1708,6 +1708,24 @@ Passive parts: Using an attribute, e.g. %3</source>
     </message>
 </context>
 <context>
+    <name>librepcb::HAlignActionGroup</name>
+    <message>
+        <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="38"/>
+        <source>Align left</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="44"/>
+        <source>Align center</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="50"/>
+        <source>Align right</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::HolePropertiesDialog</name>
     <message>
         <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.ui" line="14"/>
@@ -2161,6 +2179,24 @@ Passive parts: Using an attribute, e.g. %3</source>
         <location filename="../libs/librepcb/common/utils/undostackactiongroup.cpp" line="86"/>
         <source>Redo failed</source>
         <translation>Niepowodzenie powtórzenia</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::VAlignActionGroup</name>
+    <message>
+        <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="38"/>
+        <source>Align bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="44"/>
+        <source>Align center</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="49"/>
+        <source>Align top</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5109,29 +5145,34 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::library::editor::PackageEditorState_DrawTextBase</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="78"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="84"/>
         <source>Layer:</source>
         <translation>Warstwa:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="88"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="94"/>
         <source>Text:</source>
         <translation>Tekst:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="106"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="117"/>
         <source>Height:</source>
         <translation>Wysokość:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="191"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="126"/>
+        <source>Stroke Width:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="228"/>
         <source>Add footprint text</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="207"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="229"/>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="243"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="265"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="279"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>

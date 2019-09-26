@@ -1713,6 +1713,24 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     </message>
 </context>
 <context>
+    <name>librepcb::HAlignActionGroup</name>
+    <message>
+        <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="38"/>
+        <source>Align left</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="44"/>
+        <source>Align center</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="50"/>
+        <source>Align right</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::HolePropertiesDialog</name>
     <message>
         <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.ui" line="14"/>
@@ -2168,6 +2186,24 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../libs/librepcb/common/utils/undostackactiongroup.cpp" line="86"/>
         <source>Redo failed</source>
         <translation>Príkaz neúspešný</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::VAlignActionGroup</name>
+    <message>
+        <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="38"/>
+        <source>Align bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="44"/>
+        <source>Align center</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="49"/>
+        <source>Align top</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5137,29 +5173,34 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
 <context>
     <name>librepcb::library::editor::PackageEditorState_DrawTextBase</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="78"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="84"/>
         <source>Layer:</source>
         <translation>Vrstva:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="88"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="94"/>
         <source>Text:</source>
         <translation>Text:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="106"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="117"/>
         <source>Height:</source>
         <translation>Výška:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="191"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="126"/>
+        <source>Stroke Width:</source>
+        <translation>Šírka:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="228"/>
         <source>Add footprint text</source>
         <translation>Pridať text do púzdra</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="207"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="229"/>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="243"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="265"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="279"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>

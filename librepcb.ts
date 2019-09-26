@@ -1720,17 +1720,17 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="38"/>
         <source>Align left</source>
-        <translation type="unfinished"></translation>
+        <translation>Align left</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="44"/>
         <source>Align center</source>
-        <translation type="unfinished"></translation>
+        <translation>Align center</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="50"/>
         <source>Align right</source>
-        <translation type="unfinished"></translation>
+        <translation>Align right</translation>
     </message>
 </context>
 <context>
@@ -2196,17 +2196,17 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="38"/>
         <source>Align bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Align bottom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="44"/>
         <source>Align center</source>
-        <translation type="unfinished"></translation>
+        <translation>Align center</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="49"/>
         <source>Align top</source>
-        <translation type="unfinished"></translation>
+        <translation>Align top</translation>
     </message>
 </context>
 <context>
@@ -5194,7 +5194,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="126"/>
         <source>Stroke Width:</source>
-        <translation type="unfinished">Stroke Width:</translation>
+        <translation>Stroke Width:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="228"/>
