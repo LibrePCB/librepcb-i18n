@@ -8739,29 +8739,29 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::editor::ProjectEditor</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="174"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="176"/>
         <source>Export project to *.lppz</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="184"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="185"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="199"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="200"/>
         <source>Error while saving the project</source>
         <translation>Во время сохранения проекта произошла ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="244"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="245"/>
         <source>You have unsaved changes in the project.
 Do you want to save them before closing the project?</source>
         <translation>У вас остались несохраненные изменения в проекте:
 Вы хотите сохранить их перед закрытием?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="243"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="244"/>
         <source>Save Project?</source>
         <translation>Сохранить проект?</translation>
     </message>
