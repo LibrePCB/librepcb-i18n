@@ -7334,7 +7334,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="278"/>
         <source>Snap to grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Snap to grid</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="285"/>
