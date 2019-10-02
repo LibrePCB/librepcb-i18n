@@ -249,12 +249,12 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="94"/>
         <source>The lock file &quot;%1&quot; has too few lines.</source>
-        <translation type="unfinished"/>
+        <translation>The fichier verrouillé &quot;%1&quot; n&apos;a pas assez de lignes.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="146"/>
         <source>The directory is locked, check if it is already opened elsewhere: %1</source>
-        <translation type="unfinished"/>
+        <translation>Le repertoire est verrouillé, vérifiez s&apos;il n&apos;est pas ouvert ailleurs: %1</translation>
     </message>
 </context>
 <context>
@@ -263,35 +263,35 @@
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="41"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="81"/>
         <source>The file &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Le fichier &quot;%1&quot; n&apos;existe pas.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="47"/>
         <source>Cannot open file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Impossible d&apos;ouvrir le fichier &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="59"/>
         <source>Could not open or create file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Impossible d&apos;ouvrir ou de créer le fichier &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="66"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="71"/>
         <source>Could not write to file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Impossible d&apos;écrire le fichier &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="85"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="104"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="127"/>
         <source>The file or directory &quot;%1&quot; exists already.</source>
-        <translation type="unfinished"/>
+        <translation>Le fichier ou répertoire &quot;%1&quot; existe déjà.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="90"/>
         <source>Could not copy file &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Impossible de copier le fichier &quot;%1&quot; vers &quot;%2&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="99"/>
@@ -302,27 +302,27 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="122"/>
         <source>The file or directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Le fichier ou le répertoire &quot;%1&quot; n&apos;existe pas.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="132"/>
         <source>Could not move &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Impossible de déplacer &quot;%1&quot; vers &quot;%2&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="141"/>
         <source>Could not remove file &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Impossible de supprimer le fichier &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="149"/>
         <source>Could not remove directory &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Impossible de supprimer le répertoire &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="156"/>
         <source>Could not create directory or path &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Impossible de créer le répertoire ou le chemin &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -330,7 +330,7 @@
     <message>
         <location filename="../libs/librepcb/common/gridproperties.h" line="115"/>
         <source>Unknown grid type: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Type de grille inconnue: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -338,71 +338,71 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="14"/>
         <source>LibrePCB Eagle Import</source>
-        <translation type="unfinished"/>
+        <translation>Import Eagle vers LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="21"/>
         <source>Output Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Répertoire de sortie:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="28"/>
         <source>Input Files:</source>
-        <translation type="unfinished"/>
+        <translation>Fichiers d&apos;entrée:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="51"/>
         <source>0/0</source>
-        <translation type="unfinished"/>
+        <translation>0/0</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="61"/>
         <location filename="../apps/EagleImport/mainwindow.ui" line="111"/>
         <source>Converted Elements:</source>
-        <translation type="unfinished"/>
+        <translation>Eléments Convertis:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="68"/>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="59"/>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="28"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="75"/>
         <source>Errors:</source>
-        <translation type="unfinished"/>
+        <translation>Erreurs:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="94"/>
         <location filename="../apps/EagleImport/mainwindow.ui" line="124"/>
         <source>%v/%m</source>
-        <translation type="unfinished"/>
+        <translation>%v/%m</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="200"/>
         <source>Converted Files:</source>
-        <translation type="unfinished"/>
+        <translation>Fichiers Convertis:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="207"/>
         <source>UUID List File:</source>
-        <translation type="unfinished"/>
+        <translation>Fichier de la liste des UUID:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="214"/>
         <source>Convert:</source>
-        <translation type="unfinished"/>
+        <translation>Convertit:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="223"/>
         <source>Symbols --&gt; Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symboles --&gt; Symboles</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="230"/>
         <source>Packages --&gt; Packages</source>
-        <translation type="unfinished"/>
+        <translation>Boîtiers --&gt; Boîtiers</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="237"/>
@@ -412,12 +412,12 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="244"/>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Abandon</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="253"/>
         <source>Remove Duplicates:</source>
-        <translation type="unfinished"/>
+        <translation>Supprime les copies:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="278"/>
@@ -427,7 +427,7 @@
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="21"/>
         <source>Update Libraries!</source>
-        <translation type="unfinished"/>
+        <translation>Met à jour les bibliothèques!</translation>
     </message>
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="45"/>
@@ -437,32 +437,32 @@
     <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="20"/>
         <source>UUID Generator</source>
-        <translation type="unfinished"/>
+        <translation>Générateur d&apos;UUID</translation>
     </message>
     <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="33"/>
         <source>Generate Random UUID and Copy to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Génère un UUID aléatoire et le copie dans le presse-papiers</translation>
     </message>
     <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="52"/>
         <source>Auto-Generate every Second</source>
-        <translation type="unfinished"/>
+        <translation>Générer automatiquement chaque seconde</translation>
     </message>
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="14"/>
         <source>LibrePCB WorkspaceLibraryUpdater</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB WorkspaceLibraryUpdater</translation>
     </message>
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="35"/>
         <source>Library Directories:</source>
-        <translation type="unfinished"/>
+        <translation>Répertoires des bibliothèques:</translation>
     </message>
     <message>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="121"/>
         <source>Library Elements:</source>
-        <translation type="unfinished"/>
+        <translation>Éléments de bibliothèque:</translation>
     </message>
 </context>
 <context>
@@ -5720,7 +5720,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="326"/>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Abandon</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="341"/>
@@ -5961,7 +5961,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="72"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.cpp" line="149"/>
@@ -6815,7 +6815,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="91"/>
         <source>The file &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Le fichier &quot;%1&quot; n&apos;existe pas.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="102"/>
