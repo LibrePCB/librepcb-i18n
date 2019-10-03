@@ -1717,17 +1717,17 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="38"/>
         <source>Align left</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnať vľavo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="44"/>
         <source>Align center</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnať na stred</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="50"/>
         <source>Align right</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnať vpravo</translation>
     </message>
 </context>
 <context>
@@ -2193,17 +2193,17 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="38"/>
         <source>Align bottom</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnať dole</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="44"/>
         <source>Align center</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnať na stred</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="49"/>
         <source>Align top</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnať hore</translation>
     </message>
 </context>
 <context>
@@ -7330,7 +7330,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="278"/>
         <source>Snap to grid</source>
-        <translation type="unfinished"/>
+        <translation>Prichytiť k rastru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="285"/>
