@@ -6169,12 +6169,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
 <context>
     <name>librepcb::project::BI_Plane</name>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_plane.cpp" line="83"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_plane.cpp" line="85"/>
         <source>Invalid net signal UUID: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_plane.h" line="182"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_plane.h" line="185"/>
         <source>Unknown plane connect style: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
@@ -7272,16 +7272,16 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="270"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="441"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="472"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="502"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="479"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="509"/>
         <source>Rotate</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="272"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="443"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="474"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="504"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="481"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="511"/>
         <source>Flip</source>
         <translation type="unfinished"/>
     </message>
@@ -7308,9 +7308,9 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="322"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="416"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="478"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="508"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="534"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="485"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="515"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="541"/>
         <source>Properties</source>
         <translation type="unfinished"/>
     </message>
@@ -7318,10 +7318,10 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="343"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="349"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="367"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="634"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="705"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="721"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="736"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="641"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="712"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="728"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="743"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
@@ -7332,7 +7332,12 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="448"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="447"/>
+        <source>Visible</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="452"/>
         <source>Plane Properties</source>
         <translation>Właściwości powierzchni</translation>
     </message>
@@ -7365,394 +7370,404 @@ You need at least LibrePCB %1 to open it.
         <translation>&amp;Widok</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="121"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="124"/>
         <source>Pro&amp;ject</source>
         <translation>Pro&amp;jekt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="130"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="133"/>
         <source>&amp;Tools</source>
         <translation>&amp;Narzędzia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="145"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="148"/>
         <source>&amp;Help</source>
         <translation>P&amp;omoc</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="154"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="157"/>
         <source>&amp;Board</source>
         <translation>Pł&amp;ytka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="177"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="180"/>
         <source>File</source>
         <translation>Plik</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="200"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="203"/>
         <source>Zoom</source>
         <translation>Powiększenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="214"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="217"/>
         <source>Edit</source>
         <translation>Edycja</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="234"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="237"/>
         <source>Tools</source>
         <translation>Narzędzia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="254"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="257"/>
         <source>Command</source>
         <translation>Polecenia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="266"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="269"/>
         <source>View</source>
         <translation>Widok</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="282"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="285"/>
         <source>&amp;Save Project</source>
         <translation>&amp;Zapisz projekt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="285"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="288"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="294"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="297"/>
         <source>&amp;Close Project</source>
         <translation>Z&amp;amknij projekt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="306"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="309"/>
         <source>&amp;Print</source>
         <translation>&amp;Drukuj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="309"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="312"/>
         <source>Ctrl+P</source>
         <translation>Ctrl+P</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="321"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="324"/>
         <source>&amp;Quit</source>
         <translation>Z&amp;akończ</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="324"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="327"/>
         <source>Ctrl+Q</source>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="333"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="336"/>
         <source>PDF &amp;Export</source>
         <translation>&amp;Eksport PDF</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="345"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="348"/>
         <source>Show Control Panel</source>
         <translation>Pokaż panel sterowania</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="354"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="357"/>
         <source>Show Schematic Editor</source>
         <translation>Pokaż edytor schematów</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="363"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="366"/>
         <source>&amp;Undo</source>
         <translation>&amp;Cofnij</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="366"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="369"/>
         <source>Ctrl+Z</source>
         <translation>Ctrl+Z</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="375"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="378"/>
         <source>&amp;Redo</source>
         <translation>Przyw&amp;róć</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="378"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="381"/>
         <source>Ctrl+Y</source>
         <translation>Ctrl+Y</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="387"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="390"/>
         <source>Online Documentation</source>
         <translation>Dokumentacja online</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="390"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="393"/>
         <source>F1</source>
         <translation>F1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="399"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="402"/>
         <source>LibrePCB Website</source>
         <translation>Strona LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="408"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="411"/>
         <source>R&amp;otate Counterclockwise</source>
         <translation>&amp;Obróć w lewo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="411"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="414"/>
         <source>R</source>
         <translation>R</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="420"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="423"/>
         <source>Rotate C&amp;lockwise</source>
         <translation>O&amp;bróć w prawo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="423"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="426"/>
         <source>Shift+R</source>
         <translation>Shift+R</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="432"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="435"/>
         <source>&amp;Copy</source>
         <translation>&amp;Kopiuj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="435"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="438"/>
         <source>Ctrl+C</source>
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="447"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="450"/>
         <source>Cut</source>
         <translation>W&amp;ytnij</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="450"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="453"/>
         <source>Ctrl+X</source>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="462"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="465"/>
         <source>&amp;Paste</source>
         <translation>&amp;Wklej</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="465"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="468"/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="477"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="480"/>
         <source>R&amp;emove</source>
         <translation>&amp;Usuń</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="480"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="483"/>
         <source>Del</source>
         <translation>Del</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="489"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="492"/>
         <source>&amp;Grid</source>
         <translation>&amp;Siatka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="498"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="501"/>
         <source>&amp;Zoom In</source>
         <translation>&amp;Powiększ</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="501"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="504"/>
         <source>Ctrl++</source>
         <translation>Ctrl++</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="510"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="513"/>
         <source>Zoom &amp;Out</source>
         <translation>Z&amp;mniejsz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="513"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="516"/>
         <source>Ctrl+-</source>
         <translation>Ctrl+-</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="522"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="525"/>
         <source>Zoo&amp;m All</source>
         <translation>D&amp;opasuj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="527"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="530"/>
         <source>&amp;Properties</source>
         <translation>&amp;Właściwości</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="530"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="533"/>
         <source>Edit Project Properties</source>
         <translation>Edytuj właściwości projektu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="539"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="542"/>
         <source>&amp;Settings</source>
         <translation>&amp;Ustawienia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="542"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="545"/>
         <source>Project Settings</source>
         <translation>Ustawienia projektu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="551"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="554"/>
         <source>&amp;About LibrePCB</source>
         <translation>&amp;O LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="559"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="562"/>
         <source>About &amp;Qt</source>
         <translation>O &amp;Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="571"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="574"/>
         <source>&amp;Select</source>
         <translation>&amp;Zaznacz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="580"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="583"/>
         <source>Abort Command</source>
         <translation>Anuluj polecenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="583"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="586"/>
         <source>Esc</source>
         <translation>Esc</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="592"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="595"/>
         <source>&amp;New Board</source>
         <translation>&amp;Nowa płytka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="595"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="598"/>
         <source>Ctrl+N</source>
         <translation>Ctrl+N</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="600"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="603"/>
         <source>&amp;Net Classes</source>
         <translation>&amp;Klasy sieci</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="609"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="612"/>
         <source>&amp;Flip Horizontal</source>
         <translation>O&amp;dbij poziomo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="612"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="615"/>
         <source>F</source>
         <translation>F</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="621"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="624"/>
         <source>Flip &amp;Vertical</source>
         <translation>Od&amp;bij pionowo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="624"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="627"/>
         <source>Shift+F</source>
         <translation>Shift+F</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="633"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="636"/>
         <source>&amp;Draw Trace</source>
         <translation>&amp;Rysuj ścieżkę</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="642"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="645"/>
         <source>&amp;Add Via</source>
         <translation>&amp;Dodaj przelotkę</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="651"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="654"/>
         <source>&amp;Copy Board</source>
         <translation>&amp;Kopiuj płytkę</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="660"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="663"/>
         <source>&amp;Generate Fabrication Data</source>
         <translation>&amp;Generuj dane produkcyjne</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="663"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="666"/>
         <source>Generate Fabrication Data</source>
         <translation>Generuj dane produkcyjne</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="668"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="671"/>
         <source>&amp;Design Rules</source>
         <translation>&amp;Reguły projektowe</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="673"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="676"/>
         <source>&amp;Layer Stack Setup</source>
         <translation>&amp;Ustawienia stosu warstw</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="682"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="685"/>
         <source>Remove &amp;Board</source>
         <translation>&amp;Usuń płytkę</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="691"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="694"/>
         <source>D&amp;raw Polygon</source>
         <translation>R&amp;ysuj wielokąt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="700"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="703"/>
         <source>&amp;Rebuild Planes</source>
         <translation>Pr&amp;zebuduj wypełnienia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="709"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="712"/>
         <source>Add &amp;Plane</source>
         <translation>Dodaj &amp;wypełnienie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="718"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="721"/>
         <source>Add T&amp;ext</source>
         <translation>Dodaj &amp;tekst</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="727"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="730"/>
         <source>Add &amp;Hole</source>
         <translation>Doda&amp;j otwór</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="736"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="739"/>
         <source>Update Library</source>
         <translation>Zaktualizuj bibliotekę</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="745"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="748"/>
         <source>&amp;Export project to *.lppz</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="748"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="751"/>
         <source>Export project to *.lppz</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="757"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="760"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="763"/>
         <source>Generate BOM</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="772"/>
+        <source>Show All Planes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="781"/>
+        <source>Hide All Planes</source>
         <translation type="unfinished"/>
     </message>
     <message>
