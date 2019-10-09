@@ -4,7 +4,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="75"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
-        <translation>属性类型&quot;%1&quot;的未知单位：&quot;%2&quot;</translation>
+        <translation>属性类型 &quot;%1&quot; 的未知单位：&quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="123"/>
@@ -17,7 +17,7 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="38"/>
         <source>LibrePCB Default Design Rules</source>
-        <translation>LibrePCB默认设计规则</translation>
+        <translation>LibrePCB 默认设计规则</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="126"/>
@@ -27,7 +27,7 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="144"/>
         <source>Stop mask clearance: MAX must be &gt;= MIN</source>
-        <translation>停止屏蔽间隙：MAX必须 &gt;= MIN</translation>
+        <translation>停止屏蔽间隙：MAX 必须  &gt;=  MIN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="155"/>
