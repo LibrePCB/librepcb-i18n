@@ -7371,7 +7371,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="447"/>
         <source>Visible</source>
-        <translation type="unfinished"/>
+        <translation>Viditeľnosť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="452"/>
@@ -7800,12 +7800,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="772"/>
         <source>Show All Planes</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť všetky vyplnené plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="781"/>
         <source>Hide All Planes</source>
-        <translation type="unfinished"/>
+        <translation>Skryť všetky vyplnené plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="233"/>
