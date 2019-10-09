@@ -8905,63 +8905,63 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.ui" line="20"/>
         <source>Rename net segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Rename net segment</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.ui" line="28"/>
         <source>Net name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Net name:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.ui" line="50"/>
         <source>Rename only this net segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Rename only this net segment</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.ui" line="60"/>
         <source>Rename whole net (%1 segments)</source>
         <extracomment>Number of segments (&gt;=1)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rename whole net (%1 segments)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="143"/>
         <source>Change net of net segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Change net of net segment</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="178"/>
         <source>No change is made.</source>
-        <translation type="unfinished"></translation>
+        <translation>No change is made.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="181"/>
         <source>The whole net &apos;%1&apos; will be merged into the net &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>The whole net &apos;%1&apos; will be merged into the net &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="185"/>
         <source>The whole net &apos;%1&apos; will be renamed to &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>The whole net &apos;%1&apos; will be renamed to &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="189"/>
         <source>The segment will be moved to the existing net &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>The segment will be moved to the existing net &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="193"/>
         <source>The segment will be moved to the new net &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>The segment will be moved to the new net &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="204"/>
         <source>Invalid name!</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid name!</translation>
     </message>
 </context>
 <context>
