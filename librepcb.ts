@@ -8165,7 +8165,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmddragselectedboarditems.cpp" line="59"/>
         <source>Drag Board Elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Drag Board Elements</translation>
     </message>
 </context>
 <context>
