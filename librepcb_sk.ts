@@ -1375,7 +1375,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="192"/>
         <source>References</source>
-        <translation type="unfinished"/>
+        <translation>References</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="193"/>
@@ -1414,7 +1414,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="199"/>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="222"/>
         <source>Guide</source>
-        <translation type="unfinished"/>
+        <translation>Guide</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="201"/>
