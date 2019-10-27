@@ -1426,7 +1426,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="199"/>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="222"/>
         <source>Guide</source>
-        <translation type="unfinished"/>
+        <translation>Guide</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="201"/>
@@ -1476,72 +1476,72 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="212"/>
         <source>Board Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Board Outlines</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="213"/>
         <source>Milling (PTH)</source>
-        <translation type="unfinished"/>
+        <translation>Milling (PTH)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="214"/>
         <source>Drills (NPTH)</source>
-        <translation type="unfinished"/>
+        <translation>Drills (NPTH)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="215"/>
         <source>Pads</source>
-        <translation type="unfinished"/>
+        <translation>Pads</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="216"/>
         <source>Vias</source>
-        <translation type="unfinished"/>
+        <translation>Vias</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="217"/>
         <source>Air Wires</source>
-        <translation type="unfinished"/>
+        <translation>Air Wires</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="218"/>
         <source>Measures</source>
-        <translation type="unfinished"/>
+        <translation>Measures</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="219"/>
         <source>Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Alignment</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="224"/>
         <source>Top Placement</source>
-        <translation type="unfinished"/>
+        <translation>Top Placement</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="225"/>
         <source>Bot Placement</source>
-        <translation type="unfinished"/>
+        <translation>Bot Placement</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="226"/>
         <source>Top Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Top Documentation</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="227"/>
         <source>Bot Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Bot Documentation</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="228"/>
         <source>Top Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Top Grab Areas</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="229"/>
         <source>Bot Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Bot Grab Areas</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="230"/>
@@ -1556,62 +1556,62 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="232"/>
         <source>Top References</source>
-        <translation type="unfinished"/>
+        <translation>Top References</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="233"/>
         <source>Bot References</source>
-        <translation type="unfinished"/>
+        <translation>Bot References</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="234"/>
         <source>Top Names</source>
-        <translation type="unfinished"/>
+        <translation>Top Names</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="235"/>
         <source>Bot Names</source>
-        <translation type="unfinished"/>
+        <translation>Bot Names</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="236"/>
         <source>Top Values</source>
-        <translation type="unfinished"/>
+        <translation>Top Values</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="237"/>
         <source>Bot Values</source>
-        <translation type="unfinished"/>
+        <translation>Bot Values</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="238"/>
         <source>Top Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Top Courtyard</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="239"/>
         <source>Bot Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Bot Courtyard</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="240"/>
         <source>Top Stop Mask</source>
-        <translation type="unfinished"/>
+        <translation>Top Stop Mask</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="241"/>
         <source>Bot Stop Mask</source>
-        <translation type="unfinished"/>
+        <translation>Bot Stop Mask</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="242"/>
         <source>Top Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Top Solder Paste</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="243"/>
         <source>Bot Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Bot Solder Paste</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="244"/>
@@ -1626,22 +1626,22 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="246"/>
         <source>Top Glue</source>
-        <translation type="unfinished"/>
+        <translation>Top Glue</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="247"/>
         <source>Bot Glue</source>
-        <translation type="unfinished"/>
+        <translation>Bot Glue</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="249"/>
         <source>Top Copper</source>
-        <translation type="unfinished"/>
+        <translation>Top Copper</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="250"/>
         <source>Bot Copper</source>
-        <translation type="unfinished"/>
+        <translation>Bot Copper</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="253"/>
