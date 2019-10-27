@@ -27,12 +27,12 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="144"/>
         <source>Stop mask clearance: MAX must be &gt;= MIN</source>
-        <translation>Presah nespájkovacej masky: MAX musí byť &gt;= MIN</translation>
+        <translation>Odsadenie nespájkovacej masky: MAX musí byť &gt;= MIN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="155"/>
         <source>Cream mask clearance: MAX must be &gt;= MIN</source>
-        <translation>Presah spájkovacej masky: MAX musí byť &gt;= MIN</translation>
+        <translation>Odsadenie spájkovacej masky: MAX musí byť &gt;= MIN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="166"/>
@@ -689,7 +689,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadoverlapswithplacement.cpp" line="43"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to placement layer</source>
-        <translation>Plôška vývodu &apos;%1&apos; v &apos;%2&apos; a prvok vo vrstve &apos;top placement&apos; príliš blízko</translation>
+        <translation>Plôška vývodu &apos;%1&apos; v &apos;%2&apos; a prvok vo vrstve &apos;top placement&apos; sú príliš blízko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadoverlapswithplacement.cpp" line="45"/>
@@ -1192,12 +1192,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="62"/>
         <source>Stop Mask Clearance:</source>
-        <translation>Odstup nesp. masky od plôšky:</translation>
+        <translation>Odsadenie nesp. masky od plôšky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="69"/>
         <source>Cream Mask Clearance:</source>
-        <translation>Zmenšenie spájk. masky voči SMD plôške:</translation>
+        <translation>Odsadenie spájk. masky voči SMD plôške:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="76"/>
@@ -7920,7 +7920,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.ui" line="52"/>
         <source>Min. Clearance:</source>
-        <translation>Min. vzdialenosť:</translation>
+        <translation>Min. odsadenie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.ui" line="59"/>
