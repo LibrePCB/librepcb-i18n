@@ -4305,18 +4305,18 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="573"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="582"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="576"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="585"/>
         <source>Unsaved changes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="705"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="714"/>
         <source>&amp;Save &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
