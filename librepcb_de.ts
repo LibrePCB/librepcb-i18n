@@ -6707,32 +6707,32 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="270"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="278"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="291"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="299"/>
         <source>Invalid symbol item in circuit: &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="297"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="305"/>
         <source>Symbol item UUID already exists in circuit: &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="309"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="317"/>
         <source>All symbols of a component must be placed in the same schematic.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="408"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="416"/>
         <source>Unplaced required symbols of component &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="412"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="420"/>
         <source>Unplaced optional symbols of component &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -9493,7 +9493,7 @@ Do you want to save them before closing the project?</source>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="37"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="239"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="230"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
@@ -9518,52 +9518,62 @@ Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="104"/>
+        <source>Boards</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="110"/>
+        <source>Pre-selected device:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="136"/>
         <source>Library Elements</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="157"/>
-        <source>Symbol Variant:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="122"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="148"/>
         <source>Component:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="192"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="183"/>
         <source>Symbol:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="230"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="221"/>
         <source>Component</source>
         <translation>Komponente</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="249"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="240"/>
         <source>Value:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="275"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="266"/>
         <source>Attributes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="66"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="71"/>
         <source>Properties of %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="150"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="91"/>
+        <source>symbol variant &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="197"/>
         <source>Change properties of %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="176"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="227"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>

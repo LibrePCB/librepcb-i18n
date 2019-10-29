@@ -9573,12 +9573,12 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="104"/>
         <source>Boards</source>
-        <translation type="unfinished"></translation>
+        <translation>Boards</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="110"/>
         <source>Pre-selected device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre-selected device:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="136"/>
@@ -9618,7 +9618,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="91"/>
         <source>symbol variant &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>symbol variant &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="197"/>
