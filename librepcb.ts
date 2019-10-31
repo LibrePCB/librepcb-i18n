@@ -978,7 +978,7 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="173"/>
         <source>Some of the icons used in LibrePCB are provided by &lt;a href=&quot;https://icons8.com&quot;&gt;icons8.com&lt;/a&gt;, thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Some of the icons used in LibrePCB are provided by &lt;a href=&quot;https://icons8.com&quot;&gt;icons8.com&lt;/a&gt;, thank you!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="199"/>
@@ -7381,7 +7381,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="396"/>
         <source>Measure Selected Trace Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Measure Selected Trace Length</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="459"/>
@@ -7396,22 +7396,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="806"/>
         <source>Measurement Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Measurement Result</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="808"/>
         <source>Total length of %1 traces: %2 mm / %3 in</source>
-        <translation type="unfinished"></translation>
+        <translation>Total length of %1 traces: %2 mm / %3 in</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="815"/>
         <source>WARNING: There are %1 traces selected, but not all of them are connected!</source>
-        <translation type="unfinished"></translation>
+        <translation>WARNING: There are %1 traces selected, but not all of them are connected!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="843"/>
         <source>Selected traces may not branch!</source>
-        <translation type="unfinished"></translation>
+        <translation>Selected traces may not branch!</translation>
     </message>
 </context>
 <context>
