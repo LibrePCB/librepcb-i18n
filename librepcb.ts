@@ -976,42 +976,47 @@ Passive parts: Using an attribute, e.g. %3</translation>
         <translation>LibrePCB is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/blob/master/LICENSE.txt&quot;&gt;in our source code&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="189"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="173"/>
+        <source>Some of the icons used in LibrePCB are provided by &lt;a href=&quot;https://icons8.com&quot;&gt;icons8.com&lt;/a&gt;, thank you!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="199"/>
         <source>Contributing</source>
         <translation>Contributing</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="197"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="207"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;LibrePCB is a community project, and therefore it relies on contributions! There are different ways you can contribute:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;LibrePCB is a community project, and therefore it relies on contributions! There are different ways you can contribute:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="213"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="223"/>
         <source>Donate</source>
         <translation>Donate</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="236"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="246"/>
         <source>Contribute Code</source>
         <translation>Contribute Code</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="259"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="269"/>
         <source>Spread The Word</source>
         <translation>Spread The Word</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="266"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="276"/>
         <source>Speak about LibrePCB with your friends and colleagues, or write about it in the internet! Write a blogpost, or create a video tutorial. We&apos;re happy if more people can get to know LibrePCB.</source>
         <translation>Speak about LibrePCB with your friends and colleagues, or write about it in the internet! Write a blogpost, or create a video tutorial. We&apos;re happy if more people can get to know LibrePCB.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="292"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="302"/>
         <source>Details</source>
         <translation>Details</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="323"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="333"/>
         <source>Copy to clipboard</source>
         <translation>Copy to clipboard</translation>
     </message>
@@ -7311,76 +7316,102 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::editor::BES_Select</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="269"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="440"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="478"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="508"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="276"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="453"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="491"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="521"/>
         <source>Rotate</source>
         <translation>Rotate</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="271"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="442"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="480"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="510"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="278"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="455"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="493"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="523"/>
         <source>Flip</source>
         <translation>Flip</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="274"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="281"/>
         <source>Remove %1</source>
         <translation>Remove %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="277"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="284"/>
         <source>Snap to grid</source>
         <translation>Snap to grid</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="284"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="291"/>
         <source>Change Device</source>
         <translation>Change Device</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="306"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="313"/>
         <source>Change Footprint</source>
         <translation>Change Footprint</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="321"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="415"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="484"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="514"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="540"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="328"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="428"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="497"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="527"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="553"/>
         <source>Properties</source>
         <translation>Properties</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="342"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="348"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="366"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="646"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="726"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="742"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="757"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="349"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="355"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="373"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="659"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="739"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="755"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="770"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="795"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="385"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="413"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="392"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="426"/>
         <source>Select Whole Segment</source>
         <translation>Select Whole Segment</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="446"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="396"/>
+        <source>Measure Selected Trace Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="459"/>
         <source>Visible</source>
         <translation>Visible</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="451"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="464"/>
         <source>Plane Properties</source>
         <translation>Plane Properties</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="806"/>
+        <source>Measurement Result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="808"/>
+        <source>Total length of %1 traces: %2 mm / %3 in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="815"/>
+        <source>WARNING: There are %1 traces selected, but not all of them are connected!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="843"/>
+        <source>Selected traces may not branch!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
