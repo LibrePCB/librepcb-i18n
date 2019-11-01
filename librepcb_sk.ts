@@ -1386,7 +1386,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="194"/>
         <source>Netlines</source>
-        <translation type="unfinished"/>
+        <translation>Netlines</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="195"/>
@@ -1604,12 +1604,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="244"/>
         <source>Top Finish</source>
-        <translation type="unfinished"/>
+        <translation>Top Finish</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="245"/>
         <source>Bot Finish</source>
-        <translation type="unfinished"/>
+        <translation>Bot Finish</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="246"/>
@@ -1634,7 +1634,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="253"/>
         <source>Inner Copper %1</source>
-        <translation type="unfinished"/>
+        <translation>Inner Copper %1</translation>
     </message>
 </context>
 <context>
