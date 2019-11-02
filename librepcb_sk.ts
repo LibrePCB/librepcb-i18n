@@ -7377,7 +7377,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="396"/>
         <source>Measure Selected Trace Length</source>
-        <translation type="unfinished"/>
+        <translation>Zmerať dĺžku vybraného spoja</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="459"/>
@@ -7392,17 +7392,17 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="806"/>
         <source>Measurement Result</source>
-        <translation type="unfinished"/>
+        <translation>Výsledok merania</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="808"/>
         <source>Total length of %1 traces: %2 mm / %3 in</source>
-        <translation type="unfinished"/>
+        <translation>Celková dĺžka %1 spojov: %2 mm / %3 in</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="815"/>
         <source>WARNING: There are %1 traces selected, but not all of them are connected!</source>
-        <translation type="unfinished"/>
+        <translation>UPOZORNENIE: Vybraných spojov: %1, ale niektoré nie sú pripojené!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="843"/>
@@ -8192,7 +8192,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmddragselectedboarditems.cpp" line="59"/>
         <source>Drag Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>Ťahať elementy dosky</translation>
     </message>
 </context>
 <context>
@@ -9600,12 +9600,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="104"/>
         <source>Boards</source>
-        <translation type="unfinished"/>
+        <translation>Dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="110"/>
         <source>Pre-selected device:</source>
-        <translation type="unfinished"/>
+        <translation>Predvolená súčiastka:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="136"/>
@@ -9645,7 +9645,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="91"/>
         <source>symbol variant &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Variant sch. značky&quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="197"/>
