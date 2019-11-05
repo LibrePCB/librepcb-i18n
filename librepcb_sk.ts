@@ -50,7 +50,7 @@
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="44"/>
         <source>Failed to offset a path: %1</source>
-        <translation>Neúspešné nahradenie cesty: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="218"/>
@@ -790,7 +790,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="97"/>
         <source>Node is not a list.</source>
-        <translation>Uzol nie je typu zoznam.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="104"/>
@@ -806,7 +806,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="127"/>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="156"/>
         <source>Child not found: %1</source>
-        <translation>Potomok nenájdený: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="231"/>
