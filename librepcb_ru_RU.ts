@@ -5041,7 +5041,7 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::library::editor::PackageEditorFsm</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorfsm.cpp" line="151"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorfsm.cpp" line="153"/>
         <source>Please select a footprint.</source>
         <translation>Пожалуйста выберите посадочное место.</translation>
     </message>

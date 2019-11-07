@@ -5059,7 +5059,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
 <context>
     <name>librepcb::library::editor::PackageEditorFsm</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorfsm.cpp" line="151"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorfsm.cpp" line="153"/>
         <source>Please select a footprint.</source>
         <translation>Prosím, zvoľte púzdro.</translation>
     </message>
