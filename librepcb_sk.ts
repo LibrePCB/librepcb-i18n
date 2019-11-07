@@ -7894,7 +7894,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="458"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="480"/>
         <source>No board selected.</source>
-        <translation type="unfinished"/>
+        <translation>Doska nie je vybraná.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="493"/>
