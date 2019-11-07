@@ -7898,7 +7898,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="458"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="480"/>
         <source>No board selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No board selected.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="493"/>
