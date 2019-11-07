@@ -4211,12 +4211,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="480"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="636"/>
         <source>Mirror</source>
-        <translation type="unfinished">Mirror</translation>
+        <translation>Mirror</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="639"/>
@@ -4226,12 +4226,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="648"/>
         <source>Flip</source>
-        <translation type="unfinished">Flip</translation>
+        <translation>Flip</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="651"/>
         <source>F</source>
-        <translation type="unfinished">F</translation>
+        <translation>F</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="489"/>
@@ -5063,7 +5063,7 @@ Are you still sure to delete the following library elements?</translation>
 <context>
     <name>librepcb::library::editor::PackageEditorFsm</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorfsm.cpp" line="151"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorfsm.cpp" line="153"/>
         <source>Please select a footprint.</source>
         <translation>Please select a footprint.</translation>
     </message>
@@ -5256,12 +5256,12 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="363"/>
         <source>Mirror</source>
-        <translation type="unfinished">Mirror</translation>
+        <translation>Mirror</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="364"/>
         <source>Flip</source>
-        <translation type="unfinished">Flip</translation>
+        <translation>Flip</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="366"/>
@@ -5561,7 +5561,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="341"/>
         <source>Mirror</source>
-        <translation type="unfinished">Mirror</translation>
+        <translation>Mirror</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="343"/>

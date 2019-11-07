@@ -1279,7 +1279,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
 <context>
     <name>librepcb::CmdCircleEdit</name>
     <message>
-        <location filename="../libs/librepcb/common/geometry/cmd/cmdcircleedit.cpp" line="37"/>
+        <location filename="../libs/librepcb/common/geometry/cmd/cmdcircleedit.cpp" line="39"/>
         <source>Edit circle</source>
         <translation>Upraviť kruh</translation>
     </message>
@@ -3991,364 +3991,384 @@ p, li { white-space: pre-wrap; }
         <translation>Úpravy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="110"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="112"/>
         <source>&amp;Help</source>
         <translation>Pomocník</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="119"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="121"/>
         <source>&amp;Tools</source>
         <translation>Nás&amp;troje</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="136"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="138"/>
         <source>&amp;View</source>
         <translation>Zobrazenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="153"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="155"/>
         <source>File</source>
         <translation>Súbor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="169"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="171"/>
         <source>Edit</source>
         <translation>Upraviť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="189"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="193"/>
         <source>View</source>
         <translation>Zobrazenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="204"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="208"/>
         <source>Command</source>
         <translation>Príkaz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="217"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="221"/>
         <source>Tools</source>
         <translation>Nástroje</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="246"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="250"/>
         <source>&amp;About LibrePCB</source>
         <translation>Informácie o LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="254"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="258"/>
         <source>About &amp;Qt</source>
         <translation>Informácie o &amp;Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="266"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="270"/>
         <source>&amp;Close Library Editor</source>
         <translation>Zatvoriť editor knižnice</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="275"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="279"/>
         <source>&amp;New</source>
         <translation>&amp;Nová</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="278"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="282"/>
         <source>Ctrl+N</source>
         <translation>Ctrl+N</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="290"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="294"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="299"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="303"/>
         <source>&amp;Undo</source>
         <translation>Späť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="302"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="306"/>
         <source>Ctrl+Z</source>
         <translation>Ctrl+Z</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="311"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="315"/>
         <source>&amp;Redo</source>
         <translation>Opakovať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="314"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="318"/>
         <source>Ctrl+Y</source>
         <translation>Ctrl+Y</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="323"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="327"/>
         <source>Abort Command</source>
         <translation>Ukončiť príkaz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="326"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="330"/>
         <source>Esc</source>
         <translation>Esc</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="335"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="339"/>
         <source>&amp;Zoom In</source>
         <translation>Priblížiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="338"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="342"/>
         <source>Ctrl++</source>
         <translation>Ctrl++</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="347"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="351"/>
         <source>Zoom &amp;Out</source>
         <translation>Zmenšiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="350"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="354"/>
         <source>Ctrl+-</source>
         <translation>Ctrl+-</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="359"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="363"/>
         <source>Zoo&amp;m All</source>
         <translation>Zväčšiť všetko</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="368"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="372"/>
         <source>R&amp;otate Counterclockwise</source>
         <translation>Otočiť d&amp;oľava</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="371"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="375"/>
         <source>R</source>
         <translation>R</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="380"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="384"/>
         <source>Rotate C&amp;lockwise</source>
         <translation>Otočiť dop&amp;rava</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="383"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="387"/>
         <source>Shift+R</source>
         <translation>Shift+R</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="392"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="396"/>
         <source>&amp;Copy</source>
         <translation>Kopírovať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="395"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="399"/>
         <source>Ctrl+C</source>
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="404"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="408"/>
         <source>Cut</source>
         <translation>Vystrihnúť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="407"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="411"/>
         <source>Ctrl+X</source>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="416"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="420"/>
         <source>&amp;Paste</source>
         <translation>&amp;Prilepiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="419"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="423"/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="428"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="432"/>
         <source>R&amp;emove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="431"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="435"/>
         <source>Del</source>
         <translation>Del</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="440"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="444"/>
         <source>&amp;Select</source>
         <translation>Vybrať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="449"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="453"/>
         <source>Add S&amp;ymbol Pin</source>
         <translation>Pridať vývod značky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="452"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="456"/>
         <source>I</source>
         <translation>I</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="461"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="465"/>
         <source>Add THT Pad</source>
         <translation>Pridať THT plôšku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="464"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="468"/>
         <source>H</source>
         <translation>H</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="473"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="477"/>
         <source>Add S&amp;MT Pad</source>
         <translation>Pridať S&amp;MT plôšku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="476"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="480"/>
+        <source>S</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="636"/>
+        <source>Mirror</source>
+        <translation>Zrkadliť</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="639"/>
         <source>M</source>
         <translation>M</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="485"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="648"/>
+        <source>Flip</source>
+        <translation>Prevrátiť</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="651"/>
+        <source>F</source>
+        <translation>F</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="489"/>
         <source>&amp;Draw Line</source>
         <translation>Kresliť čiaru</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="494"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="498"/>
         <source>&amp;Add Text</source>
         <translation>Prid&amp;ať text</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="497"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="501"/>
         <source>T</source>
         <translation>T</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="506"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="510"/>
         <source>Draw &amp;Polygon</source>
         <translation>Kresliť &amp;polygón</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="509"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="513"/>
         <source>P</source>
         <translation>P</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="518"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="522"/>
         <source>Draw &amp;Circle</source>
         <translation>Kresliť kruh</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="521"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="525"/>
         <source>Draw Circle</source>
         <translation>Kresliť kruh</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="524"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="528"/>
         <source>C</source>
         <translation>C</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="533"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="537"/>
         <source>Add &amp;Hole (NPTH)</source>
         <translation>Pridať otvor (NPTH)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="536"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="540"/>
         <source>O</source>
         <translation>O</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="545"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="549"/>
         <source>&amp;Grid</source>
         <translation>Raster</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="554"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="558"/>
         <source>Draw &amp;Rectangle</source>
         <translation>K&amp;resliť obĺžnik</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="563"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="567"/>
         <source>&amp;Update Library Database</source>
         <translation>Akt&amp;ualizovať databázu knižníc</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="566"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="570"/>
         <source>F5</source>
         <translation>F5</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="575"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="579"/>
         <source>&amp;Remove Element</source>
         <translation>Odst&amp;rániť prvok</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="584"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="588"/>
         <source>Add Name</source>
         <translation>Pridať názov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="593"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="597"/>
         <source>Add Value</source>
         <translation>Pridať hodnotu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="602"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="606"/>
         <source>Show element in file manager</source>
         <translation>Zobraziť prvky v prehliadači súborov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="611"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="615"/>
         <source>Online Documentation</source>
         <translation>Online dokumentácia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="614"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="618"/>
         <source>F1</source>
         <translation>F1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="623"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="627"/>
         <source>LibrePCB Website</source>
         <translation>Prejsť na stránku LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="130"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="134"/>
         <source> [Read-Only]</source>
         <translation> [iba na čítanie]</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="131"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="135"/>
         <source>%1 - LibrePCB Library Editor</source>
         <translation>%1 - LibrePCB Editor knižnice</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="136"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="140"/>
         <source>Scanning libraries (%p%)</source>
         <translation>Skenovanie knižníc (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="537"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="549"/>
         <source>Failed to open category</source>
         <translation>Chyba pri otváraní kategórie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="582"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="594"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation>Posledné zmeny prvku knižnice neboli uložené.
 Želáte si uložiť ich pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="585"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="597"/>
         <source>Unsaved changes</source>
         <translation>Neuložené zmeny</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="714"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="729"/>
         <source>&amp;Save &apos;%1&apos;</source>
         <translation>Uložiť &apos;%1&apos;</translation>
     </message>
@@ -5215,31 +5235,42 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="167"/>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="189"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="315"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="456"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="501"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="514"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="523"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="344"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="492"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="537"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="550"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="566"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="575"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="332"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="361"/>
         <source>Rotate</source>
         <translation>Otočiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="334"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="363"/>
+        <source>Mirror</source>
+        <translation>Zrkadliť</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="364"/>
+        <source>Flip</source>
+        <translation>Prevrátiť</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="366"/>
         <source>Remove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="336"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="368"/>
         <source>Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="482"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="518"/>
         <source>Paste Footprint Elements</source>
         <translation>Prilepiť elementy púzdra</translation>
     </message>
@@ -5317,7 +5348,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Uloženie neúspešné</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="278"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="286"/>
         <source>Edit package metadata</source>
         <translation>Upraviť metadáta púzdra</translation>
     </message>
@@ -5509,31 +5540,37 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="162"/>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="184"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="309"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="427"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="466"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="479"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="488"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="323"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="445"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="484"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="497"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="510"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="519"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="325"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="339"/>
         <source>Rotate</source>
         <translation>Otočiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="327"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="341"/>
+        <source>Mirror</source>
+        <translation>Zrkadliť</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="343"/>
         <source>Remove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="329"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="345"/>
         <source>Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="448"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="466"/>
         <source>Paste Symbol Elements</source>
         <translation>Prilepiť elementy symbolu</translation>
     </message>
@@ -5601,7 +5638,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Uloženie neúspešné</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="263"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="267"/>
         <source>Edit symbol metadata</source>
         <translation>Upraviť metadáta sch. značky</translation>
     </message>
@@ -7172,13 +7209,13 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="178"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="312"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="342"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="313"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="343"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="289"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="290"/>
         <source>Add text to board</source>
         <translation>Pridať text na dosku</translation>
     </message>
