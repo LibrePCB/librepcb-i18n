@@ -2231,15 +2231,15 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="168"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="512"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="581"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="583"/>
         <source>New Project</source>
         <translation>Nový projekt</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="185"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="521"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="474"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="552"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="476"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="554"/>
         <source>Open Project</source>
         <translation>Otvoriť projekt</translation>
     </message>
@@ -2367,74 +2367,74 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="398"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="636"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="638"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="475"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="477"/>
         <source>LibrePCB project files (%1)</source>
         <translation>Súbory LibrePCB projektu (%1)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="500"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="502"/>
         <source>Workspace changed</source>
         <translation>Pracovný priestor bol zmenený</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="501"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="503"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation>Zvolený pracovný priestor bude použitý po reštarte aplikácie.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="556"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="558"/>
         <source>Close Project</source>
         <translation>Zatvoriť projekt</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="562"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="687"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="716"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="564"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="689"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="718"/>
         <source>Remove from favorites</source>
         <translation>Odstrániť z obľúbených</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="566"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="690"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="568"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="692"/>
         <source>Add to favorites</source>
         <translation>Pridať k obľúbeným</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="571"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="693"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="718"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="573"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="695"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="720"/>
         <source>Update project library</source>
         <translation>Aktualizovať projektovú knižnicu</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="574"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="576"/>
         <source>Open</source>
         <translation>Otvoriť</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="583"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="616"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="585"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="618"/>
         <source>New Folder</source>
         <translation>Nový adresár</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="588"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="623"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="590"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="625"/>
         <source>Remove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="616"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="618"/>
         <source>Name:</source>
         <translation>Názov:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="624"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="626"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
