@@ -126,22 +126,22 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="99"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="105"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="111"/>
         <source>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="114"/>
         <source>attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>attributes</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="117"/>
@@ -978,7 +978,7 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="173"/>
         <source>Some of the icons used in LibrePCB are provided by &lt;a href=&quot;https://icons8.com&quot;&gt;icons8.com&lt;/a&gt;, thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Some of the icons used in LibrePCB are provided by &lt;a href=&quot;https://icons8.com&quot;&gt;icons8.com&lt;/a&gt;, thank you!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="199"/>
@@ -1725,17 +1725,17 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="38"/>
         <source>Align left</source>
-        <translation type="unfinished"></translation>
+        <translation>Align left</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="44"/>
         <source>Align center</source>
-        <translation type="unfinished"></translation>
+        <translation>Align center</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="50"/>
         <source>Align right</source>
-        <translation type="unfinished"></translation>
+        <translation>Align right</translation>
     </message>
 </context>
 <context>
@@ -1862,37 +1862,37 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="184"/>
         <source>Pos. X</source>
-        <translation type="unfinished">Pos. X</translation>
+        <translation>Pos. X</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="186"/>
         <source>Pos. Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Pos. Y</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="188"/>
         <source>Angle</source>
-        <translation type="unfinished">Angle</translation>
+        <translation>Angle</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="190"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Actions</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="200"/>
         <source>New:</source>
-        <translation type="unfinished">New:</translation>
+        <translation>New:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="204"/>
         <source>Add a new vertex</source>
-        <translation type="unfinished"></translation>
+        <translation>Add a new vertex</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="271"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>
@@ -2201,17 +2201,17 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="38"/>
         <source>Align bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Align bottom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="44"/>
         <source>Align center</source>
-        <translation type="unfinished"></translation>
+        <translation>Align center</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="49"/>
         <source>Align top</source>
-        <translation type="unfinished"></translation>
+        <translation>Align top</translation>
     </message>
 </context>
 <context>
@@ -2720,12 +2720,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="393"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Export board-specific BOM to &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="395"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Export generic BOM to &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="435"/>
@@ -2755,12 +2755,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="482"/>
         <source>ERROR: The file %1 was written multiple times!</source>
-        <translation type="unfinished"></translation>
+        <translation>ERROR: The file %1 was written multiple times!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="487"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
-        <translation type="unfinished"></translation>
+        <translation>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="498"/>
@@ -3228,7 +3228,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="194"/>
         <source>Footprint name</source>
-        <translation type="unfinished"></translation>
+        <translation>Footprint name</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="236"/>
@@ -4211,12 +4211,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="480"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="636"/>
         <source>Mirror</source>
-        <translation type="unfinished">Mirror</translation>
+        <translation>Mirror</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="639"/>
@@ -4226,12 +4226,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="648"/>
         <source>Flip</source>
-        <translation type="unfinished">Flip</translation>
+        <translation>Flip</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="651"/>
         <source>F</source>
-        <translation type="unfinished">F</translation>
+        <translation>F</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="489"/>
@@ -5219,7 +5219,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="126"/>
         <source>Stroke Width:</source>
-        <translation type="unfinished">Stroke Width:</translation>
+        <translation>Stroke Width:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="228"/>
@@ -5256,12 +5256,12 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="363"/>
         <source>Mirror</source>
-        <translation type="unfinished">Mirror</translation>
+        <translation>Mirror</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="364"/>
         <source>Flip</source>
-        <translation type="unfinished">Flip</translation>
+        <translation>Flip</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="366"/>
@@ -5561,7 +5561,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="341"/>
         <source>Mirror</source>
-        <translation type="unfinished">Mirror</translation>
+        <translation>Mirror</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="343"/>
@@ -7376,7 +7376,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="284"/>
         <source>Snap to grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Snap to grid</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="291"/>
@@ -7418,12 +7418,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="396"/>
         <source>Measure Selected Trace Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Measure Selected Trace Length</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="459"/>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Visible</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="464"/>
@@ -7433,22 +7433,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="806"/>
         <source>Measurement Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Measurement Result</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="808"/>
         <source>Total length of %1 traces: %2 mm / %3 in</source>
-        <translation type="unfinished"></translation>
+        <translation>Total length of %1 traces: %2 mm / %3 in</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="815"/>
         <source>WARNING: There are %1 traces selected, but not all of them are connected!</source>
-        <translation type="unfinished"></translation>
+        <translation>WARNING: There are %1 traces selected, but not all of them are connected!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="843"/>
         <source>Selected traces may not branch!</source>
-        <translation type="unfinished"></translation>
+        <translation>Selected traces may not branch!</translation>
     </message>
 </context>
 <context>
@@ -7867,17 +7867,17 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="750"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="753"/>
         <source>Generate BOM</source>
-        <translation type="unfinished"></translation>
+        <translation>Generate BOM</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="762"/>
         <source>Show All Planes</source>
-        <translation type="unfinished"></translation>
+        <translation>Show All Planes</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="771"/>
         <source>Hide All Planes</source>
-        <translation type="unfinished"></translation>
+        <translation>Hide All Planes</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="236"/>
@@ -7935,7 +7935,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="458"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="480"/>
         <source>No board selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No board selected.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="493"/>
@@ -8095,63 +8095,63 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="14"/>
         <source>Generate BOM</source>
-        <translation type="unfinished"></translation>
+        <translation>Generate BOM</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="20"/>
         <source>Board:</source>
-        <translation type="unfinished"></translation>
+        <translation>Board:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="40"/>
         <source>Success!</source>
-        <translation type="unfinished"></translation>
+        <translation>Success!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="60"/>
         <source>Output File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Output File:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="81"/>
         <source>Choose output file</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose output file</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="100"/>
         <source>Open output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Open output directory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="116"/>
         <source>Attributes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributes:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="126"/>
         <source>Comma-separated list of additional attributes, e.g. &quot;MANUFACTURER, MPN&quot;</source>
         <extracomment>Don&apos;t translate the attributes MANUFACTURER and MPN, they must be in English.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Comma-separated list of additional attributes, e.g. &quot;MANUFACTURER, MPN&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="65"/>
         <source>&amp;Generate</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Generate</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="67"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>None</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="99"/>
         <source>Save to</source>
-        <translation type="unfinished"></translation>
+        <translation>Save to</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="119"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>
@@ -8240,7 +8240,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmddragselectedboarditems.cpp" line="59"/>
         <source>Drag Board Elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Drag Board Elements</translation>
     </message>
 </context>
 <context>
@@ -8972,63 +8972,63 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.ui" line="20"/>
         <source>Rename net segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Rename net segment</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.ui" line="28"/>
         <source>Net name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Net name:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.ui" line="50"/>
         <source>Rename only this net segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Rename only this net segment</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.ui" line="60"/>
         <source>Rename whole net (%1 segments)</source>
         <extracomment>Number of segments (&gt;=1)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rename whole net (%1 segments)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="143"/>
         <source>Change net of net segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Change net of net segment</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="178"/>
         <source>No change is made.</source>
-        <translation type="unfinished"></translation>
+        <translation>No change is made.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="181"/>
         <source>The whole net &apos;%1&apos; will be merged into the net &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>The whole net &apos;%1&apos; will be merged into the net &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="185"/>
         <source>The whole net &apos;%1&apos; will be renamed to &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>The whole net &apos;%1&apos; will be renamed to &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="189"/>
         <source>The segment will be moved to the existing net &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>The segment will be moved to the existing net &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="193"/>
         <source>The segment will be moved to the new net &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>The segment will be moved to the new net &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="204"/>
         <source>Invalid name!</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid name!</translation>
     </message>
 </context>
 <context>
@@ -9538,7 +9538,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="706"/>
         <source>Generate BOM</source>
-        <translation type="unfinished"></translation>
+        <translation>Generate BOM</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="198"/>
@@ -9648,12 +9648,12 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="104"/>
         <source>Boards</source>
-        <translation type="unfinished"></translation>
+        <translation>Boards</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="110"/>
         <source>Pre-selected device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre-selected device:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="136"/>
@@ -9693,7 +9693,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="91"/>
         <source>symbol variant &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>symbol variant &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="197"/>
