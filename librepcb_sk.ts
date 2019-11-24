@@ -169,7 +169,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="135"/>
         <source>Fail if the project files are not strictly canonical, i.e. there would be changes when saving the project. Note that this option is not available for *.lppz files.</source>
-        <translation type="unfinished"/>
+        <translation>Ukončené s chybou, ak projektové súbory nie sú striktne kanonické, t.j. pri ukladaní projektu došlo k zmenám (napr. neboli uložené programom LibrePCB). Upozorňujeme, že táto možnosť nie je k dispozícii pre súbory * .lppz.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="141"/>
@@ -184,7 +184,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="147"/>
         <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
-        <translation type="unfinished"/>
+        <translation>Ukončené s chybou, ak otvorené súbory nie sú striktne kanonické, t.j. pri ukladaní prvkov knižnice došlo k zmenám (napr. neboli uložené programom LibrePCB).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="182"/>
@@ -204,7 +204,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="672"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola &apos;%1&apos; na ne-kanonické súbory...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="690"/>
@@ -2701,7 +2701,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="311"/>
         <source>Check for non-canonical files...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola na ne-kanonické súbory...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="313"/>
