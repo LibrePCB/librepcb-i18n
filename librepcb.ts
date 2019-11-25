@@ -54,17 +54,17 @@
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="58"/>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="72"/>
         <source>Failed to unite paths: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to unite paths: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="91"/>
         <source>Failed to intersect paths: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to intersect paths: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="105"/>
         <source>Failed to subtract paths: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to subtract paths: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="117"/>
@@ -188,12 +188,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="135"/>
         <source>Fail if the project files are not strictly canonical, i.e. there would be changes when saving the project. Note that this option is not available for *.lppz files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fail if the project files are not strictly canonical, i.e. there would be changes when saving the project. Note that this option is not available for *.lppz files.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="147"/>
         <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="187"/>
@@ -208,12 +208,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="672"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check &apos;%1&apos; for non-canonical files...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="690"/>
         <source>Save &apos;%1&apos;...</source>
-        <translation type="unfinished">Save &apos;%1&apos;...</translation>
+        <translation>Save &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
@@ -2721,12 +2721,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="311"/>
         <source>Check for non-canonical files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check for non-canonical files...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="313"/>
         <source>ERROR: The option &apos;--strict&apos; is not available for *.lppz files!</source>
-        <translation type="unfinished"></translation>
+        <translation>ERROR: The option &apos;--strict&apos; is not available for *.lppz files!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="336"/>
@@ -6322,128 +6322,128 @@ Are you really sure to remove &quot;%2&quot;?</translation>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="90"/>
         <source>Finished with %1 message(s)!</source>
         <comment>Count of messages</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Finished with %1 message(s)!</numerusform>
+            <numerusform>Finished with %1 message(s)!</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="103"/>
         <source>Rebuild planes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rebuild planes...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="111"/>
         <source>Check for missing connections...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check for missing connections...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="118"/>
         <source>Missing connection: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Missing connection: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="130"/>
         <source>Check board clearances...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check board clearances...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="171"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; Board Outline</source>
         <comment>Placeholders are layer name + net name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Clearance (%1): &apos;%2&apos; &lt;-&gt; Board Outline</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="187"/>
         <source>Check copper clearances...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check copper clearances...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="217"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
         <comment>Placeholders are layer name + net names</comment>
-        <translation type="unfinished"></translation>
+        <translation>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="235"/>
         <source>Check courtyard clearances...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check courtyard clearances...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="265"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
         <comment>Placeholders are layer name + component names</comment>
-        <translation type="unfinished"></translation>
+        <translation>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="281"/>
         <source>Check minimum copper width...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check minimum copper width...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="291"/>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="337"/>
         <source>Min. copper width (%1) of text: %2</source>
         <comment>Placeholders are layer name + width</comment>
-        <translation type="unfinished"></translation>
+        <translation>Min. copper width (%1) of text: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="316"/>
         <source>Min. copper width (%1) of plane: %2</source>
         <comment>Placeholders are layer name + width</comment>
-        <translation type="unfinished"></translation>
+        <translation>Min. copper width (%1) of plane: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="362"/>
         <source>Min. copper width (%1) of trace: %2</source>
         <comment>Placeholders are layer name + width</comment>
-        <translation type="unfinished"></translation>
+        <translation>Min. copper width (%1) of trace: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="380"/>
         <source>Check minimum PTH restrings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check minimum PTH restrings...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="387"/>
         <source>Min. via restring (&apos;%1&apos;): %2</source>
         <comment>Placeholders are net name + restring width</comment>
-        <translation type="unfinished"></translation>
+        <translation>Min. via restring (&apos;%1&apos;): %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="412"/>
         <source>Min. pad restring (&apos;%1&apos;): %2</source>
         <comment>Placeholders are pad name + restring width</comment>
-        <translation type="unfinished"></translation>
+        <translation>Min. pad restring (&apos;%1&apos;): %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="431"/>
         <source>Check minimum PTH drill diameters...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check minimum PTH drill diameters...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="437"/>
         <source>Min. via drill diameter (&apos;%1&apos;): %2</source>
         <comment>Placeholders are net name + drill diameter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Min. via drill diameter (&apos;%1&apos;): %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="458"/>
         <source>Min. pad drill diameter (&apos;%1&apos;): %2</source>
         <comment>Placeholders are pad name + drill diameter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Min. pad drill diameter (&apos;%1&apos;): %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="476"/>
         <source>Check minimum NPTH drill diameters...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check minimum NPTH drill diameters...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="478"/>
         <source>Min. hole diameter: %1</source>
         <comment>Placeholder is drill diameter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Min. hole diameter: %1</translation>
     </message>
 </context>
 <context>
@@ -7618,77 +7618,77 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="14"/>
         <source>Design Rule Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Design Rule Check</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="24"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="30"/>
         <source>Clearance Copper to Copper:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clearance Copper to Copper:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="37"/>
         <source>Clearance Copper to Board Edge:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clearance Copper to Board Edge:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="44"/>
         <source>Minimum Copper Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum Copper Width:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="51"/>
         <source>Minimum PTH Drill Diameter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum PTH Drill Diameter:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="58"/>
         <source>Minimum NPTH Drill Diameter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum NPTH Drill Diameter:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="65"/>
         <source>Minimum PTH Restring:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum PTH Restring:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="96"/>
         <source>Note: These values are not (yet) stored permanently in the project files, so they will be reset when closing the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Note: These values are not (yet) stored permanently in the project files, so they will be reset when closing the project.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="109"/>
         <source>Clearance Copper to NPTH Drills:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clearance Copper to NPTH Drills:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="119"/>
         <source>Additional Courtyard Offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Additional Courtyard Offset:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="132"/>
         <source>Execution</source>
-        <translation type="unfinished"></translation>
+        <translation>Execution</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="138"/>
         <source>Run DRC</source>
-        <translation type="unfinished"></translation>
+        <translation>Run DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="156"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Messages</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.cpp" line="124"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>
@@ -7696,18 +7696,18 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="17"/>
         <source>DRC</source>
-        <translation type="unfinished"></translation>
+        <translation>DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="42"/>
         <source>Center highlighted message in view</source>
-        <translation type="unfinished"></translation>
+        <translation>Center highlighted message in view</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.cpp" line="73"/>
         <source>DRC [%1]</source>
         <comment>Number of messages</comment>
-        <translation type="unfinished"></translation>
+        <translation>DRC [%1]</translation>
     </message>
 </context>
 <context>
@@ -8141,7 +8141,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="782"/>
         <source>Design Rule Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Design Rule Check</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="248"/>

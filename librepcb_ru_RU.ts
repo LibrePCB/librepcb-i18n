@@ -49,11 +49,28 @@
     <name>ClipperHelpers</name>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="44"/>
+        <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="58"/>
+        <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="72"/>
+        <source>Failed to unite paths: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="91"/>
+        <source>Failed to intersect paths: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="105"/>
+        <source>Failed to subtract paths: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="117"/>
         <source>Failed to offset a path: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="218"/>
+        <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="291"/>
         <source>Failed to calculate the connection point of a cut-in to an outline!</source>
         <translation type="unfinished"/>
     </message>
@@ -167,73 +184,93 @@
         <translation>Записать проект, перед тем, как закрыть его (полезно при обновлении формата файла).</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="178"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="135"/>
+        <source>Fail if the project files are not strictly canonical, i.e. there would be changes when saving the project. Note that this option is not available for *.lppz files.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="147"/>
+        <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="187"/>
         <source>Unknown command &apos;%1&apos;.</source>
         <translation>Неизвестная команда &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="206"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="215"/>
         <source>Commands:</source>
         <translation>Команды:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="193"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="672"/>
+        <source>Check &apos;%1&apos; for non-canonical files...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="690"/>
+        <source>Save &apos;%1&apos;...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
         <source>LibrePCB CLI Version %1</source>
         <translation>Версия CLI LibrePCB %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="137"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="141"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="140"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="144"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="159"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="166"/>
         <source>Path to project file (*.lpp[z]).</source>
         <translation>Путь к файлу проекта (*.lpp[z]).</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="174"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="182"/>
         <source>Path to library directory (*.lplib).</source>
         <translation>Путь к каталогу библиотек (*.lplib).</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="194"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="203"/>
         <source>Git Revision %1</source>
         <translation>Ревизия git %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="195"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="204"/>
         <source>Qt Version %1 (compiled against %2)</source>
         <translation>Версия Qt %1 (скомпилировано с %2)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="197"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="206"/>
         <source>Built at %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="223"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="241"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="232"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="251"/>
         <source>Wrong argument count.</source>
         <translation>Неверное число аргументов.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="250"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="261"/>
         <source>Internal failure.</source>
         <translation>Внутренняя ошибка.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="253"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="264"/>
         <source>SUCCESS</source>
         <translation>УСПЕХ</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="256"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="267"/>
         <source>Finished with errors!</source>
         <translation>Завершено с ошибками!</translation>
     </message>
@@ -2136,12 +2173,12 @@ Passive parts: Using an attribute, e.g. %3</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="380"/>
+        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="418"/>
         <source>Failed to write file &apos;%1&apos; to &apos;%2&apos;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="392"/>
+        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="430"/>
         <source>File system is read-only.</source>
         <translation type="unfinished"/>
     </message>
@@ -2662,155 +2699,150 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::cli</name>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="277"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="288"/>
         <source>Open project &apos;%1&apos;...</source>
         <translation>Открыть проект &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="300"/>
-        <source>Run ERC...</source>
-        <translation>Запустить ERC...</translation>
-    </message>
-    <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="313"/>
-        <source>WARNING</source>
-        <translation>ПРЕДУПРЕЖДЕНИЕ</translation>
-    </message>
-    <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="316"/>
-        <source>ERROR</source>
-        <translation>ОШИБКА</translation>
-    </message>
-    <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="323"/>
-        <source>Approved messages: %1</source>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="311"/>
+        <source>Check for non-canonical files...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="325"/>
-        <source>Non-approved messages: %1</source>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="313"/>
+        <source>ERROR: The option &apos;--strict&apos; is not available for *.lppz files!</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="336"/>
+        <source>Run ERC...</source>
+        <translation>Запустить ERC...</translation>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="349"/>
+        <source>WARNING</source>
+        <translation>ПРЕДУПРЕЖДЕНИЕ</translation>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="352"/>
+        <source>ERROR</source>
+        <translation>ОШИБКА</translation>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="359"/>
+        <source>Approved messages: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="361"/>
+        <source>Non-approved messages: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="372"/>
         <source>Export schematics to &apos;%1&apos;...</source>
         <translation>Экспорт схемы в &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="350"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="426"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="386"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="462"/>
         <source>ERROR: Unknown extension &apos;%1&apos;.</source>
         <translation>ОШИБКА: Неизвестное расширение &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="393"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="429"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="395"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="431"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="435"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="471"/>
         <source>Export PCB fabrication data...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="367"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="403"/>
         <source>ERROR: No board with the name &apos;%1&apos; found.</source>
         <translation>ОШИБКА: Плата с именем &apos;%1&apos; не обнаружена.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="445"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="481"/>
         <source>ERROR: Failed to load custom settings: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="452"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="488"/>
         <source>Board &apos;%1&apos;:</source>
         <translation>Плата &apos;%1&apos;:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="466"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="502"/>
         <source>Save project...</source>
         <translation>Сохранить проект...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="482"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="518"/>
         <source>ERROR: The file %1 was written multiple times!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="487"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="523"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="498"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="642"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="534"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="655"/>
         <source>ERROR: %1</source>
         <translation>ОШИБКА: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="510"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="546"/>
         <source>Open library &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="520"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="558"/>
         <source>Process %1 component categories...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="524"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="544"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="563"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="582"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="601"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="620"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="562"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="579"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="595"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="611"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="627"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="643"/>
         <source>Open &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="530"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="550"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="569"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="588"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="607"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="626"/>
-        <source>Save &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="540"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="575"/>
         <source>Process %1 package categories...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="560"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="592"/>
         <source>Process %1 symbols...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="579"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="608"/>
         <source>Process %1 packages...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="598"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="624"/>
         <source>Process %1 components...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="617"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="640"/>
         <source>Process %1 devices...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="635"/>
-        <source>Save library &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6263,6 +6295,133 @@ Are you really sure to remove &quot;%2&quot;?</source>
     </message>
 </context>
 <context>
+    <name>librepcb::project::BoardDesignRuleCheck</name>
+    <message numerus="yes">
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="90"/>
+        <source>Finished with %1 message(s)!</source>
+        <comment>Count of messages</comment>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="103"/>
+        <source>Rebuild planes...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="111"/>
+        <source>Check for missing connections...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="118"/>
+        <source>Missing connection: &apos;%1&apos;</source>
+        <comment>Placeholder is net name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="130"/>
+        <source>Check board clearances...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="171"/>
+        <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; Board Outline</source>
+        <comment>Placeholders are layer name + net name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="187"/>
+        <source>Check copper clearances...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="217"/>
+        <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
+        <comment>Placeholders are layer name + net names</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="235"/>
+        <source>Check courtyard clearances...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="265"/>
+        <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
+        <comment>Placeholders are layer name + component names</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="281"/>
+        <source>Check minimum copper width...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="291"/>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="337"/>
+        <source>Min. copper width (%1) of text: %2</source>
+        <comment>Placeholders are layer name + width</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="316"/>
+        <source>Min. copper width (%1) of plane: %2</source>
+        <comment>Placeholders are layer name + width</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="362"/>
+        <source>Min. copper width (%1) of trace: %2</source>
+        <comment>Placeholders are layer name + width</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="380"/>
+        <source>Check minimum PTH restrings...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="387"/>
+        <source>Min. via restring (&apos;%1&apos;): %2</source>
+        <comment>Placeholders are net name + restring width</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="412"/>
+        <source>Min. pad restring (&apos;%1&apos;): %2</source>
+        <comment>Placeholders are pad name + restring width</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="431"/>
+        <source>Check minimum PTH drill diameters...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="437"/>
+        <source>Min. via drill diameter (&apos;%1&apos;): %2</source>
+        <comment>Placeholders are net name + drill diameter</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="458"/>
+        <source>Min. pad drill diameter (&apos;%1&apos;): %2</source>
+        <comment>Placeholders are pad name + drill diameter</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="476"/>
+        <source>Check minimum NPTH drill diameters...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="478"/>
+        <source>Min. hole diameter: %1</source>
+        <comment>Placeholder is drill diameter</comment>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::project::Circuit</name>
     <message>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="158"/>
@@ -7430,6 +7589,103 @@ You need at least LibrePCB %1 to open it.
     </message>
 </context>
 <context>
+    <name>librepcb::project::editor::BoardDesignRuleCheckDialog</name>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="14"/>
+        <source>Design Rule Check</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="24"/>
+        <source>Options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="30"/>
+        <source>Clearance Copper to Copper:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="37"/>
+        <source>Clearance Copper to Board Edge:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="44"/>
+        <source>Minimum Copper Width:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="51"/>
+        <source>Minimum PTH Drill Diameter:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="58"/>
+        <source>Minimum NPTH Drill Diameter:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="65"/>
+        <source>Minimum PTH Restring:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="96"/>
+        <source>Note: These values are not (yet) stored permanently in the project files, so they will be reset when closing the project.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="109"/>
+        <source>Clearance Copper to NPTH Drills:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="119"/>
+        <source>Additional Courtyard Offset:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="132"/>
+        <source>Execution</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="138"/>
+        <source>Run DRC</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="156"/>
+        <source>Messages</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.cpp" line="124"/>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::project::editor::BoardDesignRuleCheckMessagesDock</name>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="17"/>
+        <source>DRC</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="42"/>
+        <source>Center highlighted message in view</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.cpp" line="73"/>
+        <source>DRC [%1]</source>
+        <comment>Number of messages</comment>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::project::editor::BoardEditor</name>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="17"/>
@@ -7477,446 +7733,451 @@ You need at least LibrePCB %1 to open it.
         <translation>&amp;Плата</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="179"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="180"/>
         <source>File</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="202"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="203"/>
         <source>Zoom</source>
         <translation>Масштаб</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="216"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="217"/>
         <source>Edit</source>
         <translation>Правка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="236"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="237"/>
         <source>Tools</source>
         <translation>Инструменты</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="256"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="258"/>
         <source>Command</source>
         <translation>Команда</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="268"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="270"/>
         <source>View</source>
         <translation>Вид</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="284"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="286"/>
         <source>&amp;Save Project</source>
         <translation>&amp;Сохранить проект</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="287"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="289"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="296"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="298"/>
         <source>&amp;Close Project</source>
         <translation>&amp;Закрыть проект</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="305"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="307"/>
         <source>&amp;Print</source>
         <translation>&amp;Печать</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="308"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="310"/>
         <source>Ctrl+P</source>
         <translation>Ctrl+P</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="317"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="319"/>
         <source>&amp;Quit</source>
         <translation>&amp;Выход</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="320"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="322"/>
         <source>Ctrl+Q</source>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="329"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="331"/>
         <source>PDF &amp;Export</source>
         <translation>&amp;Экспорт в PDF</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="338"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="340"/>
         <source>Show Control Panel</source>
         <translation>Показать панель управления</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="347"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="349"/>
         <source>Show Schematic Editor</source>
         <translation>Показать редактор схем</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="356"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="358"/>
         <source>&amp;Undo</source>
         <translation>&amp;Отмена</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="359"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="361"/>
         <source>Ctrl+Z</source>
         <translation>Ctrl+Z</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="368"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="370"/>
         <source>&amp;Redo</source>
         <translation>&amp;Вернуть</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="371"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="373"/>
         <source>Ctrl+Y</source>
         <translation>Ctrl+Y</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="380"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="382"/>
         <source>Online Documentation</source>
         <translation>Документация в Сети</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="383"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="385"/>
         <source>F1</source>
         <translation>F1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="392"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="394"/>
         <source>LibrePCB Website</source>
         <translation>Сайт LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="401"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="403"/>
         <source>R&amp;otate Counterclockwise</source>
         <translation>П&amp;овернуть против часовой стрелки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="404"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="406"/>
         <source>R</source>
         <translation>R</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="413"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="415"/>
         <source>Rotate C&amp;lockwise</source>
         <translation>Повернуть по часовой стрелке</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="416"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="418"/>
         <source>Shift+R</source>
         <translation>Shift+R</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="425"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="427"/>
         <source>&amp;Copy</source>
         <translation>&amp;Копирование</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="428"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="430"/>
         <source>Ctrl+C</source>
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="440"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="442"/>
         <source>Cut</source>
         <translation>Вырезать</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="443"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="445"/>
         <source>Ctrl+X</source>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="455"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="457"/>
         <source>&amp;Paste</source>
         <translation>&amp;Вставка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="458"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="460"/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="470"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="472"/>
         <source>R&amp;emove</source>
         <translation>&amp;Удаление</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="473"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="475"/>
         <source>Del</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="482"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="484"/>
         <source>&amp;Grid</source>
         <translation>&amp;Сетка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="491"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="493"/>
         <source>&amp;Zoom In</source>
         <translation>&amp;Крупнее</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="494"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="496"/>
         <source>Ctrl++</source>
         <translation>Ctrl++</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="503"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="505"/>
         <source>Zoom &amp;Out</source>
         <translation>&amp;Мельче</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="506"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="508"/>
         <source>Ctrl+-</source>
         <translation>Ctrl+-</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="515"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="517"/>
         <source>Zoo&amp;m All</source>
         <translation>&amp;Подогнать масштаб</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="520"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="522"/>
         <source>&amp;Properties</source>
         <translation>&amp;Свойства</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="523"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="525"/>
         <source>Edit Project Properties</source>
         <translation>Править свойства проекта</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="532"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="534"/>
         <source>&amp;Settings</source>
         <translation>&amp;Настройки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="535"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="537"/>
         <source>Project Settings</source>
         <translation>Настройки проекта</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="544"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="546"/>
         <source>&amp;About LibrePCB</source>
         <translation>&amp;О LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="552"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="554"/>
         <source>About &amp;Qt</source>
         <translation>О &amp;Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="564"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="566"/>
         <source>&amp;Select</source>
         <translation>&amp;Выбрать</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="573"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="575"/>
         <source>Abort Command</source>
         <translation>Прервать команду</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="576"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="578"/>
         <source>Esc</source>
         <translation>Esc</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="585"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="587"/>
         <source>&amp;New Board</source>
         <translation>&amp;Новая плата</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="588"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="590"/>
         <source>Ctrl+N</source>
         <translation>Ctrl+N</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="593"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="595"/>
         <source>&amp;Net Classes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="602"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="604"/>
         <source>&amp;Flip Horizontal</source>
         <translation>&amp;Отразить по горизонтали</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="605"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="607"/>
         <source>F</source>
         <translation>Ф</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="614"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="616"/>
         <source>Flip &amp;Vertical</source>
         <translation>Отразить по &amp;вертикали</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="617"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="619"/>
         <source>Shift+F</source>
         <translation>Shift+F</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="626"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="628"/>
         <source>&amp;Draw Trace</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="635"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="637"/>
         <source>&amp;Add Via</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="644"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="646"/>
         <source>&amp;Copy Board</source>
         <translation>&amp;Копировать плату</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="653"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="655"/>
         <source>&amp;Generate Fabrication Data</source>
         <translation>Создать &amp;данные для производства</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="656"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="658"/>
         <source>Generate Fabrication Data</source>
         <translation>Создать данные для производства</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="661"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="663"/>
         <source>&amp;Design Rules</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="666"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="668"/>
         <source>&amp;Layer Stack Setup</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="675"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="677"/>
         <source>Remove &amp;Board</source>
         <translation> Удалить плату</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="684"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="686"/>
         <source>D&amp;raw Polygon</source>
         <translation>&amp;Рисовать полигон</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="693"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="695"/>
         <source>&amp;Rebuild Planes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="702"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="704"/>
         <source>Add &amp;Plane</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="711"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="713"/>
         <source>Add T&amp;ext</source>
         <translation>Добавить т&amp;екст</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="720"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="722"/>
         <source>Add &amp;Hole</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="729"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="731"/>
         <source>Update Library</source>
         <translation>Обновить библиотеку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="738"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="740"/>
         <source>&amp;Export project to *.lppz</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="741"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="743"/>
         <source>Export project to *.lppz</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="750"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="753"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="752"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="755"/>
         <source>Generate BOM</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="762"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="764"/>
         <source>Show All Planes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="771"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="773"/>
         <source>Hide All Planes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="236"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="782"/>
+        <source>Design Rule Check</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="248"/>
         <source>Scanning libraries (%p%)</source>
         <translation>Сканирование библиотек (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="386"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="402"/>
         <source>Add New Board</source>
         <translation>Добавить новую плату</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="386"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="406"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="402"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
         <source>Choose a name:</source>
         <translation>Выбрать имя:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="387"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="403"/>
         <source>new_board</source>
         <translation>новая_плата</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="396"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="416"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="433"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="472"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="517"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="554"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="578"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="412"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="432"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="449"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="488"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="533"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="570"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="594"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="406"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
         <source>Copy Board</source>
         <translation>Копировать плату</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="407"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="423"/>
         <source>copy_of_%1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="425"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="441"/>
         <source>Remove board</source>
         <translation>Удалить плату</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="426"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="442"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>Вы действительно хотите удалить плату &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="458"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="480"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="474"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="496"/>
         <source>No board selected.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="493"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="509"/>
         <source>PDF Export</source>
         <translation>Экспорт в PDF</translation>
     </message>
