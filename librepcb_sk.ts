@@ -6318,125 +6318,125 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="90"/>
         <source>Finished with %1 message(s)!</source>
         <comment>Count of messages</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Ukončené s %1 správou!</numerusform><numerusform>Ukončené s %1 správami!</numerusform><numerusform>Ukončené s %1 správami!</numerusform><numerusform>Ukončené s %1 správami!</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="103"/>
         <source>Rebuild planes...</source>
-        <translation type="unfinished"/>
+        <translation>Obnovovanie vyplnených plôch...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="111"/>
         <source>Check for missing connections...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola chýbajúcich spojení...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="118"/>
         <source>Missing connection: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
+        <translation>Chýbajúce spojenie: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="130"/>
         <source>Check board clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola odsadení na doske...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="171"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; Board Outline</source>
         <comment>Placeholders are layer name + net name</comment>
-        <translation type="unfinished"/>
+        <translation>Odsadenie (%1): &apos;%2&apos; &lt;-&gt; Obrys dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="187"/>
         <source>Check copper clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola odsadení vodivých prvkov...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="217"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
         <comment>Placeholders are layer name + net names</comment>
-        <translation type="unfinished"/>
+        <translation>Odsadenie (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="235"/>
         <source>Check courtyard clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola odsadení manipulačných oblastí...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="265"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
         <comment>Placeholders are layer name + component names</comment>
-        <translation type="unfinished"/>
+        <translation>Odsadenie (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="281"/>
         <source>Check minimum copper width...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola minimálnej šírky vodivého prvku...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="291"/>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="337"/>
         <source>Min. copper width (%1) of text: %2</source>
         <comment>Placeholders are layer name + width</comment>
-        <translation type="unfinished"/>
+        <translation>Min. šírka vod. prvku (%1) textu: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="316"/>
         <source>Min. copper width (%1) of plane: %2</source>
         <comment>Placeholders are layer name + width</comment>
-        <translation type="unfinished"/>
+        <translation>Min. šírka vod. prvku (%1) vyplnenej plochy: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="362"/>
         <source>Min. copper width (%1) of trace: %2</source>
         <comment>Placeholders are layer name + width</comment>
-        <translation type="unfinished"/>
+        <translation>Min. šírka vod. prvku (%1) spoja: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="380"/>
         <source>Check minimum PTH restrings...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola minimálnej šírky medzikružia PTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="387"/>
         <source>Min. via restring (&apos;%1&apos;): %2</source>
         <comment>Placeholders are net name + restring width</comment>
-        <translation type="unfinished"/>
+        <translation>Min. šírka medzikružia prechodu (&apos;%1&apos;): %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="412"/>
         <source>Min. pad restring (&apos;%1&apos;): %2</source>
         <comment>Placeholders are pad name + restring width</comment>
-        <translation type="unfinished"/>
+        <translation>Min. šírka medzikružia plôšky vývodu (&apos;%1&apos;): %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="431"/>
         <source>Check minimum PTH drill diameters...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola minimálneho priemeru vŕtania PTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="437"/>
         <source>Min. via drill diameter (&apos;%1&apos;): %2</source>
         <comment>Placeholders are net name + drill diameter</comment>
-        <translation type="unfinished"/>
+        <translation>Min. priemer vŕtania prechodu (&apos;%1&apos;): %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="458"/>
         <source>Min. pad drill diameter (&apos;%1&apos;): %2</source>
         <comment>Placeholders are pad name + drill diameter</comment>
-        <translation type="unfinished"/>
+        <translation>Min. priemer vŕtania plôšky vývodu (&apos;%1&apos;): %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="476"/>
         <source>Check minimum NPTH drill diameters...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola minimálneho priemeru vŕtania NPTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="478"/>
         <source>Min. hole diameter: %1</source>
         <comment>Placeholder is drill diameter</comment>
-        <translation type="unfinished"/>
+        <translation>Min. priemer vŕtania otvoru: %1</translation>
     </message>
 </context>
 <context>
@@ -7611,42 +7611,42 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="14"/>
         <source>Design Rule Check</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola návrhových pravidiel</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="24"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="30"/>
         <source>Clearance Copper to Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Odsadenie medzi vodivými prvkami:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="37"/>
         <source>Clearance Copper to Board Edge:</source>
-        <translation type="unfinished"/>
+        <translation>Odsadenie medzi vodivými prvkami a hranou dosky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="44"/>
         <source>Minimum Copper Width:</source>
-        <translation type="unfinished"/>
+        <translation>Minimálna šírka vodivého prvku:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="51"/>
         <source>Minimum PTH Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Minimálny priemer vŕtania PTH:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="58"/>
         <source>Minimum NPTH Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Minimálny priemer vŕtania NPTH:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="65"/>
         <source>Minimum PTH Restring:</source>
-        <translation type="unfinished"/>
+        <translation>Minimálna šírka medzikružia PTH:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="96"/>
@@ -8134,7 +8134,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="782"/>
         <source>Design Rule Check</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola návrhových pravidiel</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="248"/>
