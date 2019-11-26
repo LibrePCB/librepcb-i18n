@@ -1229,7 +1229,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="55"/>
         <source>Stop Mask Max. Via Diam.:</source>
-        <translation>Max. priemer prep. otvoru v nesp. maske:</translation>
+        <translation>Max. priemer otvoru prechodu v nesp. maske:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="62"/>
@@ -7258,7 +7258,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.ui" line="14"/>
         <source>Add Component</source>
-        <translation>Pridať komponent</translation>
+        <translation>Pridanie komponentu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.ui" line="22"/>
@@ -7626,7 +7626,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="37"/>
         <source>Clearance Copper to Board Edge:</source>
-        <translation>Odsadenie medzi vodivými prvkami a hranou dosky:</translation>
+        <translation>Odsadenie vodivých prvkov od hrany dosky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="44"/>
@@ -7651,32 +7651,32 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="96"/>
         <source>Note: These values are not (yet) stored permanently in the project files, so they will be reset when closing the project.</source>
-        <translation type="unfinished"/>
+        <translation>Upozornenie: Hodnoty sa (zatiaľ) neukladajú do projektových súborov, takže po zatvorení a následnom otvorení projektu, budú načítané ich východzie hodnoty.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="109"/>
         <source>Clearance Copper to NPTH Drills:</source>
-        <translation type="unfinished"/>
+        <translation>Odsadenie vodivých prvkov od NPTH vŕtania:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="119"/>
         <source>Additional Courtyard Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Dodatočné zväčšenie plochy manipulačnej oblasti:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="132"/>
         <source>Execution</source>
-        <translation type="unfinished"/>
+        <translation>Vykonanie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="138"/>
         <source>Run DRC</source>
-        <translation type="unfinished"/>
+        <translation>Spustiť DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="156"/>
         <source>Messages</source>
-        <translation type="unfinished"/>
+        <translation>Oznámenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.cpp" line="124"/>
@@ -7689,18 +7689,18 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="17"/>
         <source>DRC</source>
-        <translation type="unfinished"/>
+        <translation>DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="42"/>
         <source>Center highlighted message in view</source>
-        <translation type="unfinished"/>
+        <translation>Vystrediť zvýraznené oznámenie na doske</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.cpp" line="73"/>
         <source>DRC [%1]</source>
         <comment>Number of messages</comment>
-        <translation type="unfinished"/>
+        <translation>DRC [%1]</translation>
     </message>
 </context>
 <context>
@@ -8205,7 +8205,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.ui" line="14"/>
         <source>Layer Stack Setup</source>
-        <translation>Nastaviť stohovanie vrstiev</translation>
+        <translation>Nastavenie stohovania vrstiev</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.ui" line="25"/>
@@ -8215,7 +8215,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.ui" line="52"/>
         <source>Disabling some inner copper layers just hides them, even if there are traces located on them. As we cannot yet avoid that situation, you need to be careful when reducing the number of inner copper layers.</source>
-        <translation>Zakázanie niektorých vnútorných signálnych vrstiev, ich len skryje a to aj keď už obsahujú spoje. Keďže sa tomuto zatiaľ nedá vyhnúť, musíte byť opatrný pri redukovaní vnútorných signálnych vrstiev.</translation>
+        <translation>Zakázanie niektorých vnútorných vodivých vrstiev ich len skryje a to aj keď už obsahujú spoje. Keďže sa tomuto zatiaľ nedá vyhnúť, treba byť opatrný pri redukovaní vnútorných vrstiev.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.cpp" line="95"/>
@@ -8241,7 +8241,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.ui" line="25"/>
         <source>Net Signal:</source>
-        <translation type="unfinished"/>
+        <translation>Signál spoja:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.ui" line="35"/>
@@ -8304,7 +8304,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="22"/>
         <source>Net Signal:</source>
-        <translation type="unfinished"/>
+        <translation>Signál spoja:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="36"/>
@@ -8481,7 +8481,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdcombinenetsignals.cpp" line="59"/>
         <source>Combine Net Signals</source>
-        <translation type="unfinished"/>
+        <translation>Zlúčiť signály spojov</translation>
     </message>
 </context>
 <context>
@@ -8489,7 +8489,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdcombineschematicnetsegments.cpp" line="53"/>
         <source>Combine Schematic Net Segments</source>
-        <translation type="unfinished"/>
+        <translation>Zlúčiť signály spojov schémy</translation>
     </message>
 </context>
 <context>
