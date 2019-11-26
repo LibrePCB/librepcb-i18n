@@ -9790,7 +9790,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="697"/>
         <source>Export project to *.lppz</source>
-        <translation>Exportovať projekt do *.lppz</translation>
+        <translation>Exportovanie projekt do *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="706"/>
@@ -9832,7 +9832,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="406"/>
         <source>PDF Export</source>
-        <translation>Exportovať do PDF</translation>
+        <translation>Exportovanie do PDF</translation>
     </message>
 </context>
 <context>
@@ -9845,7 +9845,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="117"/>
         <source>Add schematic page</source>
-        <translation>Pridať list schémy</translation>
+        <translation>Pridanie listu do schémy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="118"/>
