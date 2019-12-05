@@ -1846,12 +1846,10 @@ Passive parts: Using an attribute, e.g. %3</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="177"/>
-        <source>SSL errors occured:
+        <source>SSL errors occurred:
 
 %1</source>
-        <translation>SSL errors occured:
-
-%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="194"/>
