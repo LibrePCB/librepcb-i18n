@@ -1846,7 +1846,9 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
         <source>SSL errors occurred:
 
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Vyskytla sa chyba SSL:
+
+%1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="194"/>
