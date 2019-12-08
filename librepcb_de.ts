@@ -401,7 +401,6 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="68"/>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="59"/>
-        <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="28"/>
         <source>Close</source>
         <translation>Schliessen</translation>
     </message>
@@ -462,16 +461,6 @@
         <translation>AUSFÜHREN</translation>
     </message>
     <message>
-        <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="21"/>
-        <source>Update Libraries!</source>
-        <translation>Libraries aktualisieren!</translation>
-    </message>
-    <message>
-        <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="45"/>
-        <source>Log:</source>
-        <translation>Log:</translation>
-    </message>
-    <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="20"/>
         <source>UUID Generator</source>
         <translation>UUID Generator</translation>
@@ -485,21 +474,6 @@
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="52"/>
         <source>Auto-Generate every Second</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="14"/>
-        <source>LibrePCB WorkspaceLibraryUpdater</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="35"/>
-        <source>Library Directories:</source>
-        <translation>Library Verzeichnisse:</translation>
-    </message>
-    <message>
-        <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="121"/>
-        <source>Library Elements:</source>
-        <translation>Library Elemente:</translation>
     </message>
 </context>
 <context>
