@@ -991,7 +991,7 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="199"/>
         <source>Contributing</source>
-        <translation>Přispívání</translation>
+        <translation>Přispění</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="207"/>
@@ -2237,7 +2237,7 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="83"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This workspace does not contain any libraries, which are essential to create and modify projects. You should open the library manager to add some libraries. &lt;a href=&quot;LibraryManager&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Click here to open the library manager&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Tento pracovní prostor neobsahuje žádnou knihovnu, která je podstatná k vytvoření nebo při úpravě projektu. Měli byste pomocí správce knihoven přidat knihovnu. &lt;a href=&quot;LibraryManager&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Klepněte sem pro otevření správce knihoven&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Tento pracovní prostor neobsahuje žádnou knihovnu, která je podstatná pro vytvoření nebo při úpravě projektu. Měli byste pomocí správce knihoven přidat knihovnu. &lt;a href=&quot;LibraryManager&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Klepněte sem pro otevření správce knihoven&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="168"/>
@@ -2509,7 +2509,7 @@ Upozornění: Tento krok nelze vrátit zpět!</translation>
 Workspaces are platform independent, so they can be used across different operating systems.</source>
         <translation>LibrePCB potřebuje adresář pro pracovní prostor, kde bude ukládat nastavení, knihovny a projekty.
 
-Pracovní prostor je nezávislý na platformě, takže může být použit na různych operačních systémech.</translation>
+Pracovní prostor je nezávislý na platformě, takže může být použit na různých operačních systémech.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="17"/>
@@ -2588,7 +2588,7 @@ Pracovní prostor je nezávislý na platformě, takže může být použit na r�
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacesettings.ui" line="43"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation>Toto jméno bude použito jako jméno autora při vytváření nových projektů, anebo knihoven.</translation>
+        <translation>Toto jméno se použije jako jméno autora při vytváření nových projektů, anebo knihoven.</translation>
     </message>
 </context>
 <context>
@@ -4859,7 +4859,7 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="20"/>
         <source>Please specify some metadata about the new element.</source>
-        <translation>Zadajte popisná data vytvářeného prvku.</translation>
+        <translation>Zadejte popisná data vytvářeného prvku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="26"/>
@@ -5837,12 +5837,12 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="166"/>
         <source>Please enter a name.</source>
-        <translation>Zadajte, prosím, název.</translation>
+        <translation>Zadejte, prosím, název.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="171"/>
         <source>Please enter an author.</source>
-        <translation>Zadajte, prosím, jméno autora.</translation>
+        <translation>Zadejte, prosím, jméno autora.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="176"/>
@@ -5857,7 +5857,7 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="186"/>
         <source>Please enter a directory name.</source>
-        <translation>Zadajte, prosím, název adresáře.</translation>
+        <translation>Zadejte, prosím, název adresáře.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="191"/>
@@ -5882,12 +5882,12 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="298"/>
         <source>Please enter a valid URL.</source>
-        <translation>Zadajte, prosím, platnou adresu (URL).</translation>
+        <translation>Zadejte, prosím, platnou adresu (URL).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="303"/>
         <source>Please enter a valid directory.</source>
-        <translation>Zadajte, prosím, platný adresář.</translation>
+        <translation>Zadejte, prosím, platný adresář.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="307"/>
@@ -8189,7 +8189,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.ui" line="52"/>
         <source>Disabling some inner copper layers just hides them, even if there are traces located on them. As we cannot yet avoid that situation, you need to be careful when reducing the number of inner copper layers.</source>
-        <translation>Zakázání některých vnitřních vodivých vrstiev je jen skryje a to i když už obsahují spoje. Protože se tomu zatím nedá vyhnout, je potřeba být opatrný při omezování vnitřních vrstev.</translation>
+        <translation>Zakázání některých vnitřních vodivých vrstev je jen skryje, a to i když už obsahují spoje. Protože se tomu zatím nedá vyhnout, je potřeba být opatrný při omezování vnitřních vrstev.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.cpp" line="95"/>
@@ -8953,7 +8953,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_initialization.ui" line="63"/>
         <source>Add B&amp;oard</source>
-        <translation>Pridať d&amp;esku s plošnými spoji</translation>
+        <translation>Přidat d&amp;esku s plošnými spoji</translation>
     </message>
 </context>
 <context>
@@ -8966,7 +8966,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="23"/>
         <source>Specify some metadata of the project to be created.</source>
-        <translation>Zadajte popisná data vytvářeného projektu.</translation>
+        <translation>Zadejte popisná data vytvářeného projektu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="29"/>
@@ -8996,7 +8996,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="163"/>
         <source>A LibrePCB project consists of a whole directory, not only of a single file. Just select the new project&apos;s parent directory, and the subdirectory and filename will be set automatically.</source>
-        <translation>Projekt LibrePCB pozůstává z celého adresáře, nejen z jednoho souboru. Stačí vybrat nadrazený adresář nového projektu a automaticky se vytvoří podadresář a název souboru.</translation>
+        <translation>Projekt LibrePCB pozůstává z celého adresáře, nejen z jednoho souboru. Stačí vybrat nadřazený adresář nového projektu a automaticky se vytvoří podadresář a název souboru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="197"/>
@@ -9142,7 +9142,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectpropertieseditordialog.ui" line="73"/>
         <source>Last Modified:</source>
-        <translation>Poslední úprava:</translation>
+        <translation>Naposledy změněno:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectpropertieseditordialog.ui" line="90"/>
@@ -9172,14 +9172,14 @@ Chcete je před zavřením projektu uložit?</translation>
         <source>Preferred Norms:
 (Highest priority at top)</source>
         <translation>Upřednostňovaná norma:
-(Nejvyšší přednost nahoře)</translation>
+(nejvyšší přednost nahoře)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.ui" line="53"/>
         <source>Preferred Languages:
 (Highest priority at top)</source>
         <translation>Upřednostňovaný jazyk:
-(Nejvyšší přednost nahoře)</translation>
+(nejvyšší přednost nahoře)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="105"/>
@@ -10063,7 +10063,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/workspace/settings/items/wsi_user.cpp" line="58"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation>Toto jméno bude použito jako jméno autora při vytváření nových projektů, anebo knihoven.</translation>
+        <translation>Toto jméno se použije jako jméno autora při vytváření nových projektů, anebo knihoven.</translation>
     </message>
 </context>
 <context>
