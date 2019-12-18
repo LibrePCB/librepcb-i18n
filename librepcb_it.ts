@@ -9,7 +9,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="123"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Tipo di attributo invalido: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -22,7 +22,7 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="126"/>
         <source>Invalid design rules: %1</source>
-        <translation type="unfinished"/>
+        <translation>Regole di disegno invalide: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="144"/>
@@ -98,7 +98,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="72"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Aprire una libreria per eseguire attività riguardanti la libreria</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="73"/>
@@ -108,27 +108,27 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="78"/>
         <source>LibrePCB Command Line Interface</source>
-        <translation type="unfinished"/>
+        <translation>Interfaccia a Riga di Comando di LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="81"/>
         <source>Verbose output.</source>
-        <translation type="unfinished"/>
+        <translation>Output dettagliato.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="83"/>
         <source>The command to execute.</source>
-        <translation type="unfinished"/>
+        <translation>Il comando da eseguire</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="88"/>
         <source>Run the electrical rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Esegui il controllo delle regole elettriche, stampa tutti gli avvisi/errori non approvati e segnala l&apos;errore (codice uscita = 1) se ci sono messaggi di non-approvazione.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="93"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Esporta schemi in determinati file. I file esistenti verranno sovrascritti. Estensioni file supportate: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="96"/>
@@ -136,17 +136,17 @@
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="108"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="125"/>
         <source>file</source>
-        <translation type="unfinished"/>
+        <translation>file</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="99"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Esporta BOM generico in determinati file. I file esistenti verranno sovrascritti. Estensioni file supportate: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="105"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Esporta BOM relativo alla scheda in determinati file. I file esistenti verranno sovrascritti. Estensioni file supportate: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="111"/>
@@ -156,12 +156,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="114"/>
         <source>attributes</source>
-        <translation type="unfinished"/>
+        <translation>attributi</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="117"/>
         <source>Export PCB fabrication data (Gerber/Excellon) according the fabrication output settings of boards. Existing files will be overwritten.</source>
-        <translation type="unfinished"/>
+        <translation>Esporta i dati di fabbricazione PCB (Gerber/Excellon) secondo le impostazioni di output per la fabbricazione delle schede. I file esistenti verranno sovrascritti.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="122"/>
@@ -176,12 +176,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="130"/>
         <source>name</source>
-        <translation type="unfinished"/>
+        <translation>nome</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="133"/>
         <source>Save project before closing it (useful to upgrade file format).</source>
-        <translation type="unfinished"/>
+        <translation>Salva il progetto prima di chiuderlo (utile per aggiornare il formato del file)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="135"/>
@@ -201,7 +201,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="215"/>
         <source>Commands:</source>
-        <translation type="unfinished"/>
+        <translation>Comandi:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="672"/>
@@ -221,7 +221,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="141"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
-        <translation type="unfinished"/>
+        <translation>Esegui le azioni selezionate sugli elementi contenuti nella libreria aperta.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="144"/>
@@ -246,7 +246,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="204"/>
         <source>Qt Version %1 (compiled against %2)</source>
-        <translation type="unfinished"/>
+        <translation>Revisione Qt %1 (compilato rispetto a %2)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="206"/>
@@ -267,7 +267,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="264"/>
         <source>SUCCESS</source>
-        <translation type="unfinished"/>
+        <translation>SUCCESSO</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="267"/>
@@ -281,7 +281,7 @@
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="75"/>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="168"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Il percorso &quot;%1&quot; non esiste.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="94"/>
@@ -310,20 +310,20 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="59"/>
         <source>Could not open or create file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Non è possibile aprire o creare il file &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="66"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="71"/>
         <source>Could not write to file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>non è possibile scrivere nel file &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="85"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="104"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="127"/>
         <source>The file or directory &quot;%1&quot; exists already.</source>
-        <translation type="unfinished"/>
+        <translation>Il percorso &quot;%1&quot; è già esistente.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="90"/>
@@ -334,22 +334,22 @@
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="99"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="165"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Il percorso &quot;%1&quot; non esiste.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="122"/>
         <source>The file or directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Il file o percorso &quot;%1&quot; non esiste.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="132"/>
         <source>Could not move &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Non è possibile spostare &quot;%1&quot; a &quot;%2&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="141"/>
         <source>Could not remove file &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Non è possibile rimuovere il file &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="149"/>
@@ -367,7 +367,7 @@
     <message>
         <location filename="../libs/librepcb/common/gridproperties.h" line="115"/>
         <source>Unknown grid type: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Tipo di griglia sconosciuto: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -396,14 +396,14 @@
         <location filename="../apps/EagleImport/mainwindow.ui" line="61"/>
         <location filename="../apps/EagleImport/mainwindow.ui" line="111"/>
         <source>Converted Elements:</source>
-        <translation type="unfinished"/>
+        <translation>Elementi Convertiti:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="68"/>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="59"/>
         <location filename="../apps/WorkspaceLibraryUpdater/mainwindow.ui" line="28"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="75"/>
@@ -454,7 +454,7 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="253"/>
         <source>Remove Duplicates:</source>
-        <translation type="unfinished"/>
+        <translation>Rimuovi Duplicati:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="278"/>
@@ -561,7 +561,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingcategories.cpp" line="37"/>
         <source>No categories set</source>
-        <translation type="unfinished"/>
+        <translation>Nessuna categoria impostata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingcategories.cpp" line="38"/>
@@ -574,7 +574,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="37"/>
         <source>No default value set</source>
-        <translation type="unfinished"/>
+        <translation>Nessun valore predefinito impostato</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="38"/>
@@ -604,7 +604,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprint.cpp" line="37"/>
         <source>No footprint defined</source>
-        <translation type="unfinished"/>
+        <translation>Nessuna impronta definita</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprint.cpp" line="38"/>
@@ -643,7 +643,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="37"/>
         <source>Missing text: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Testo mancante: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="38"/>
@@ -656,7 +656,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="37"/>
         <source>Missing text: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Testo mancante: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="38"/>
@@ -1086,7 +1086,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypecurrent.cpp" line="39"/>
         <source>Current</source>
-        <translation type="unfinished"/>
+        <translation>Corrente</translation>
     </message>
 </context>
 <context>
@@ -6035,7 +6035,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="72"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.cpp" line="149"/>
