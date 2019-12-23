@@ -6232,18 +6232,18 @@ Are you really sure to remove &quot;%2&quot;?</source>
 <context>
     <name>librepcb::project::Board</name>
     <message>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="282"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="283"/>
         <source>There is already a device of the component instance &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="295"/>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="630"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="296"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="631"/>
         <source>There is already a netsegment with the UUID &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/board.cpp" line="588"/>
+        <location filename="../libs/librepcb/project/boards/board.cpp" line="589"/>
         <source>There is already a device with the component instance &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
@@ -7403,35 +7403,35 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::editor::BES_DrawTrace</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="133"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="134"/>
         <source>Layer:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="157"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="158"/>
         <source>Width:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="337"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="338"/>
         <source>Draw Board Trace</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="343"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="344"/>
         <source>No layer selected.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="390"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="391"/>
         <source>Nothing here to connect.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="447"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="555"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="573"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="594"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="448"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="556"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="574"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="595"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -8434,7 +8434,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::editor::CmdFlipSelectedBoardItems</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/cmd/cmdflipselectedboarditems.cpp" line="69"/>
+        <location filename="../libs/librepcb/projecteditor/cmd/cmdflipselectedboarditems.cpp" line="70"/>
         <source>Flip Board Elements</source>
         <translation type="unfinished"/>
     </message>
@@ -8458,7 +8458,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::editor::CmdRemoveBoardItems</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/cmd/cmdremoveboarditems.cpp" line="64"/>
+        <location filename="../libs/librepcb/projecteditor/cmd/cmdremoveboarditems.cpp" line="65"/>
         <source>Remove Board Items</source>
         <translation type="unfinished"/>
     </message>
@@ -9867,22 +9867,22 @@ Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="71"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="72"/>
         <source>Properties of %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="91"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="92"/>
         <source>symbol variant &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="197"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="198"/>
         <source>Change properties of %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="227"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="228"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
