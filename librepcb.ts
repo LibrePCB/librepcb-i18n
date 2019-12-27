@@ -4546,7 +4546,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="362"/>
         <source>Move to other library</source>
-        <translation type="unfinished"></translation>
+        <translation>Move to other library</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="370"/>
@@ -4581,17 +4581,17 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="502"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Are you sure to move the following elements into the library &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="512"/>
         <source>Note: This cannot be easily undone!</source>
-        <translation type="unfinished"></translation>
+        <translation>Note: This cannot be easily undone!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="516"/>
         <source>Move %1 elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Move %1 elements</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="573"/>
