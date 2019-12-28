@@ -7716,481 +7716,486 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Súbor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="92"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="93"/>
         <source>&amp;Edit</source>
         <translation>Úpravy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="110"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="111"/>
         <source>&amp;View</source>
         <translation>Zobrazenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="123"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="124"/>
         <source>Pro&amp;ject</source>
         <translation>Pro&amp;jekt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="132"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="133"/>
         <source>&amp;Tools</source>
         <translation>Nás&amp;troje</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="147"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="148"/>
         <source>&amp;Help</source>
         <translation>Pomocník</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="156"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="157"/>
         <source>&amp;Board</source>
         <translation>Doska</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="180"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="181"/>
         <source>File</source>
         <translation>Súbor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="203"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="204"/>
         <source>Zoom</source>
         <translation>Lupa</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="217"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="218"/>
         <source>Edit</source>
         <translation>Upraviť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="237"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="238"/>
         <source>Tools</source>
         <translation>Nástroje</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="258"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="259"/>
         <source>Command</source>
         <translation>Príkaz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="270"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="271"/>
         <source>View</source>
         <translation>Zobrazenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="286"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="287"/>
         <source>&amp;Save Project</source>
         <translation>Uložiť projekt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="289"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="290"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="298"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="299"/>
         <source>&amp;Close Project</source>
         <translation>Zatvoriť projekt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="307"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="308"/>
         <source>&amp;Print</source>
         <translation>Tlačiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="310"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="311"/>
         <source>Ctrl+P</source>
         <translation>Ctrl+P</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="319"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="320"/>
         <source>&amp;Quit</source>
         <translation>Ukončiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="322"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="323"/>
         <source>Ctrl+Q</source>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="331"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="332"/>
         <source>PDF &amp;Export</source>
         <translation>PDF &amp;Export</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="340"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="341"/>
         <source>Show Control Panel</source>
         <translation>Zobraziť kontrolný panel</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="349"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="350"/>
         <source>Show Schematic Editor</source>
         <translation>Zobraziť editor schém</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="358"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="359"/>
         <source>&amp;Undo</source>
         <translation>Späť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="361"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="362"/>
         <source>Ctrl+Z</source>
         <translation>Ctrl+Z</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="370"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="371"/>
         <source>&amp;Redo</source>
         <translation>Opakovať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="373"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="374"/>
         <source>Ctrl+Y</source>
         <translation>Ctrl+Y</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="382"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="383"/>
         <source>Online Documentation</source>
         <translation>Online dokumentácia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="385"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="386"/>
         <source>F1</source>
         <translation>F1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="394"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="395"/>
         <source>LibrePCB Website</source>
         <translation>Prejsť na stránku LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="403"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="404"/>
         <source>R&amp;otate Counterclockwise</source>
         <translation>Otočiť d&amp;oľava</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="406"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="407"/>
         <source>R</source>
         <translation>R</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="415"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="416"/>
         <source>Rotate C&amp;lockwise</source>
         <translation>Otočiť dop&amp;rava</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="418"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="419"/>
         <source>Shift+R</source>
         <translation>Shift+R</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="427"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="428"/>
         <source>&amp;Copy</source>
         <translation>Kopírovať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="430"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="431"/>
         <source>Ctrl+C</source>
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="442"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="443"/>
         <source>Cut</source>
         <translation>Vystrihnúť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="445"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="446"/>
         <source>Ctrl+X</source>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="457"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="458"/>
         <source>&amp;Paste</source>
         <translation>&amp;Prilepiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="460"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="461"/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="472"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="473"/>
         <source>R&amp;emove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="475"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="476"/>
         <source>Del</source>
         <translation>Del</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="484"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="485"/>
         <source>&amp;Grid</source>
         <translation>Raster</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="493"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="494"/>
         <source>&amp;Zoom In</source>
         <translation>Priblížiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="496"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="497"/>
         <source>Ctrl++</source>
         <translation>Ctrl++</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="505"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="506"/>
         <source>Zoom &amp;Out</source>
         <translation>Zmenšiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="508"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="509"/>
         <source>Ctrl+-</source>
         <translation>Ctrl+-</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="517"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="518"/>
         <source>Zoo&amp;m All</source>
         <translation>Zväčšiť všetko</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="522"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="523"/>
         <source>&amp;Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="525"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="526"/>
         <source>Edit Project Properties</source>
         <translation>Upraviť vlastnosti projektu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="534"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="535"/>
         <source>&amp;Settings</source>
         <translation>Na&amp;stavenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="537"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="538"/>
         <source>Project Settings</source>
         <translation>Nastavenie projektu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="546"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="547"/>
         <source>&amp;About LibrePCB</source>
         <translation>Informácie o LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="554"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="555"/>
         <source>About &amp;Qt</source>
         <translation>Informácie o &amp;Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="566"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="567"/>
         <source>&amp;Select</source>
         <translation>Výber</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="575"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="576"/>
         <source>Abort Command</source>
         <translation>Ukončiť príkaz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="578"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="579"/>
         <source>Esc</source>
         <translation>Esc</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="587"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="588"/>
         <source>&amp;New Board</source>
         <translation>&amp;Nová doska</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="590"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="591"/>
         <source>Ctrl+N</source>
         <translation>Ctrl+N</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="595"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="596"/>
         <source>&amp;Net Classes</source>
         <translation>Triedy spojov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="604"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="605"/>
         <source>&amp;Flip Horizontal</source>
         <translation>Prevrátiť horizontálne</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="607"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="608"/>
         <source>F</source>
         <translation>F</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="616"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="617"/>
         <source>Flip &amp;Vertical</source>
         <translation>Prevrátiť vertikálne</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="619"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="620"/>
         <source>Shift+F</source>
         <translation>Shift+F</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="628"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="629"/>
         <source>&amp;Draw Trace</source>
         <translation>Kresliť spoj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="637"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="638"/>
         <source>&amp;Add Via</source>
         <translation>Prid&amp;ať prechod</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="646"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="647"/>
         <source>&amp;Copy Board</source>
         <translation>Kopírovať dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="655"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="656"/>
         <source>&amp;Generate Fabrication Data</source>
         <translation>&amp;Generovať výrobné dáta</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="658"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="659"/>
         <source>Generate Fabrication Data</source>
         <translation>Generovať výrobné dáta</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="663"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="664"/>
         <source>&amp;Design Rules</source>
         <translation>Návrhové pravi&amp;dlá</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="668"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="669"/>
         <source>&amp;Layer Stack Setup</source>
         <translation>Nastaviť stohovanie vrstiev</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="677"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="678"/>
         <source>Remove &amp;Board</source>
         <translation>Odstrániť dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="686"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="687"/>
         <source>D&amp;raw Polygon</source>
         <translation>Kresliť polygón</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="695"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="696"/>
         <source>&amp;Rebuild Planes</source>
         <translation>Prekresliť signálne plochy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="704"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="705"/>
         <source>Add &amp;Plane</source>
         <translation>Pridať signálnu &amp;plochu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="713"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="714"/>
         <source>Add T&amp;ext</source>
         <translation>Pridať t&amp;ext</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="722"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="723"/>
         <source>Add &amp;Hole</source>
         <translation>Pridať otvor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="731"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="732"/>
         <source>Update Library</source>
         <translation>Aktualizovať knižnicu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="740"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="741"/>
         <source>&amp;Export project to *.lppz</source>
         <translation>&amp;Exportovať projekt do *.lppz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="743"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="744"/>
         <source>Export project to *.lppz</source>
         <translation>Exportovať projekt do *.lppz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="752"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="755"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="753"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="756"/>
         <source>Generate BOM</source>
         <translation>Generovať kusovník</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="764"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="765"/>
         <source>Show All Planes</source>
         <translation>Zobraziť všetky vyplnené plochy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="773"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="774"/>
         <source>Hide All Planes</source>
         <translation>Skryť všetky vyplnené plochy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="782"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="783"/>
         <source>Design Rule Check</source>
         <translation>Kontrola návrhových pravidiel</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="248"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="792"/>
+        <source>Generate Pick&amp;&amp;Place Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="249"/>
         <source>Scanning libraries (%p%)</source>
         <translation>Skenovanie knižníc (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="402"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="403"/>
         <source>Add New Board</source>
         <translation>Pridať novú dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="402"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="403"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="423"/>
         <source>Choose a name:</source>
         <translation>Zvoľte názov:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="403"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="404"/>
         <source>new_board</source>
         <translation>nová_doska</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="412"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="432"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="449"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="488"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="533"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="570"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="594"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="413"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="433"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="450"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="489"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="534"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="579"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="603"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="423"/>
         <source>Copy Board</source>
         <translation>Kopírovať dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="423"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="424"/>
         <source>copy_of_%1</source>
         <translation>kópia_z_%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="441"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="442"/>
         <source>Remove board</source>
         <translation>Odstrániť dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="442"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="443"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>Naozaj chcete odstrániť dosku &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="474"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="496"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="475"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="497"/>
         <source>No board selected.</source>
         <translation>Doska nie je vybraná.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="509"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="510"/>
         <source>PDF Export</source>
         <translation>Exportovať do PDF</translation>
     </message>
@@ -8224,6 +8229,54 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayersdock.ui" line="23"/>
         <source>&amp;Layers</source>
         <translation>Vrstvy</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::project::editor::BoardPickPlaceGeneratorDialog</name>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="14"/>
+        <source>Generate Pick&amp;Place Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="20"/>
+        <source>Board:</source>
+        <translation>Doska:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="27"/>
+        <source>TextLabel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="34"/>
+        <source>Top Devices:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="44"/>
+        <source>Bottom Devices:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="70"/>
+        <source>Include comment with some metadata (provides additional information, but might cause issues with some CSV readers)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="90"/>
+        <source>Success!</source>
+        <translation>Úspešné!</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.cpp" line="65"/>
+        <source>&amp;Generate</source>
+        <translation>&amp;Generovať</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.cpp" line="98"/>
+        <source>Error</source>
+        <translation>Chyba</translation>
     </message>
 </context>
 <context>

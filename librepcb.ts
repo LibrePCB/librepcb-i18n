@@ -8141,7 +8141,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="792"/>
         <source>Generate Pick&amp;&amp;Place Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Generate Pick&amp;&amp;Place Files</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="249"/>
@@ -8243,47 +8243,47 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="14"/>
         <source>Generate Pick&amp;Place Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Generate Pick&amp;Place Data</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="20"/>
         <source>Board:</source>
-        <translation type="unfinished">Board:</translation>
+        <translation>Board:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="27"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="34"/>
         <source>Top Devices:</source>
-        <translation type="unfinished"></translation>
+        <translation>Top Devices:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="44"/>
         <source>Bottom Devices:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bottom Devices:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="70"/>
         <source>Include comment with some metadata (provides additional information, but might cause issues with some CSV readers)</source>
-        <translation type="unfinished"></translation>
+        <translation>Include comment with some metadata (provides additional information, but might cause issues with some CSV readers)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="90"/>
         <source>Success!</source>
-        <translation type="unfinished">Success!</translation>
+        <translation>Success!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.cpp" line="65"/>
         <source>&amp;Generate</source>
-        <translation type="unfinished">&amp;Generate</translation>
+        <translation>&amp;Generate</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.cpp" line="98"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>
