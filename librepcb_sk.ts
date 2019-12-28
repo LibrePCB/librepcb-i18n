@@ -4,7 +4,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="75"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
-        <translation>Neznáma jednotka atribútu &quot;%1&quot;: &quot;%2&quot;</translation>
+        <translation>Neznáma jednotka typu atribútu &quot;%1&quot;: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="123"/>
@@ -22,7 +22,7 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="126"/>
         <source>Invalid design rules: %1</source>
-        <translation>Nesprávne pravidlá: %1</translation>
+        <translation>Nesprávne návrhové pravidlá: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="144"/>
@@ -4543,7 +4543,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="362"/>
         <source>Move to other library</source>
-        <translation type="unfinished"/>
+        <translation>Presunúť do inej knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="370"/>
@@ -4577,17 +4577,17 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="502"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Naozaj chcete presunúť nasledujúce elementy do knižnice &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="512"/>
         <source>Note: This cannot be easily undone!</source>
-        <translation type="unfinished"/>
+        <translation>Poznámka: Táto zmena nie je jednoducho vratná!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="516"/>
         <source>Move %1 elements</source>
-        <translation type="unfinished"/>
+        <translation>Presun %1 elementov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="573"/>
@@ -6814,7 +6814,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicedit.cpp" line="40"/>
         <source>Edit sheet properties</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť vlastnosti výkresu</translation>
     </message>
 </context>
 <context>
@@ -8142,7 +8142,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="792"/>
         <source>Generate Pick&amp;&amp;Place Files</source>
-        <translation type="unfinished"/>
+        <translation>Generovať Pick&amp;&amp;Place súbory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="249"/>
@@ -8244,7 +8244,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="14"/>
         <source>Generate Pick&amp;Place Data</source>
-        <translation type="unfinished"/>
+        <translation>Generovať Pick&amp;&amp;Place dáta</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="20"/>
@@ -8254,22 +8254,22 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="27"/>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Textový štítok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="34"/>
         <source>Top Devices:</source>
-        <translation type="unfinished"/>
+        <translation>Vrchné súčiastky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="44"/>
         <source>Bottom Devices:</source>
-        <translation type="unfinished"/>
+        <translation>Spodné súčiastky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="70"/>
         <source>Include comment with some metadata (provides additional information, but might cause issues with some CSV readers)</source>
-        <translation type="unfinished"/>
+        <translation>Pridať komentár s metadátami (poskytnúť dodatočné informácie, ale niektoré CSV čítačky s tým môžu mať problém)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="90"/>
@@ -9515,7 +9515,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="119"/>
         <source>Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Schéma</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="134"/>
@@ -9861,7 +9861,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="718"/>
         <source>Rename Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Premenovať výkres</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="212"/>
@@ -9886,12 +9886,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="553"/>
         <source>Rename sheet</source>
-        <translation type="unfinished"/>
+        <translation>Premenovať výkres</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="553"/>
         <source>Choose new name:</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte nový názov:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="391"/>
