@@ -4413,7 +4413,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="56"/>
         <source>Click here a add a new dependency</source>
-        <translation type="unfinished"></translation>
+        <translation>Click here a add a new dependency</translation>
     </message>
 </context>
 <context>
@@ -10179,43 +10179,43 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="39"/>
         <source>Application Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Application Language:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="64"/>
         <source>Changing the language requires to restart the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changing the language requires to restart the application.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="76"/>
         <source>Default Length Unit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Default Length Unit:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="90"/>
         <source>User Name:</source>
-        <translation type="unfinished">User Name:</translation>
+        <translation>User Name:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="108"/>
         <source>e.g. &quot;John Doe&quot;</source>
         <extracomment>Example for a user name.</extracomment>
-        <translation type="unfinished">e.g. &quot;John Doe&quot;</translation>
+        <translation>e.g. &quot;John Doe&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="124"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation type="unfinished">This name will be used as author when creating new projects or libraries.</translation>
+        <translation>This name will be used as author when creating new projects or libraries.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="136"/>
         <source>Autosave Interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Autosave Interval:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="155"/>
         <source>Seconds (0 = disable autosave)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seconds (0 = disable autosave)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="165"/>
@@ -10225,17 +10225,17 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="171"/>
         <source>Rendering Method:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendering Method:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="180"/>
         <source>Use OpenGL Hardware Acceleration</source>
-        <translation type="unfinished">Use OpenGL Hardware Acceleration</translation>
+        <translation>Use OpenGL Hardware Acceleration</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="193"/>
         <source>This setting will be applied only to newly opened windows.</source>
-        <translation type="unfinished">This setting will be applied only to newly opened windows.</translation>
+        <translation>This setting will be applied only to newly opened windows.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="206"/>
@@ -10246,14 +10246,14 @@ Do you want to save them before closing the project?</translation>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="212"/>
         <source>Preferred Languages:
 (Highest priority at top)</source>
-        <translation type="unfinished">Preferred Languages:
+        <translation>Preferred Languages:
 (Highest priority at top)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="220"/>
         <source>Preferred Norms:
 (Highest priority at top)</source>
-        <translation type="unfinished">Preferred Norms:
+        <translation>Preferred Norms:
 (Highest priority at top)</translation>
     </message>
     <message>
@@ -10269,29 +10269,31 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="60"/>
         <source>System Language</source>
-        <translation type="unfinished">System Language</translation>
+        <translation>System Language</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="78"/>
         <source>Click here a add a locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Click here a add a locale</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="103"/>
         <source>Click here a add a norm</source>
-        <translation type="unfinished"></translation>
+        <translation>Click here a add a norm</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="126"/>
         <source>Click here a add an URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Click here a add an URL</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="193"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
-        <translation type="unfinished"></translation>
+        <translation>Are you sure to reset all settings to their default values?
+
+Attention: This will be applied immediately and cannot be undone!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="278"/>
