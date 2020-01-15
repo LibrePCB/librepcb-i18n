@@ -6063,17 +6063,17 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="202"/>
         <source>Author</source>
-        <translation type="unfinished"/>
+        <translation>作者</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="123"/>
         <source>Installed Version</source>
-        <translation type="unfinished"/>
+        <translation>安装版本</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="227"/>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>安装</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="209"/>
@@ -6083,27 +6083,27 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="211"/>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>更新</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="214"/>
         <source>Installed</source>
-        <translation type="unfinished"/>
+        <translation>已安装的</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="221"/>
         <source>Recommended</source>
-        <translation type="unfinished"/>
+        <translation>推荐的</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="231"/>
         <source>Error: Invalid UUID</source>
-        <translation type="unfinished"/>
+        <translation>错误: 非法的  UUID</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="162"/>
         <source>Download failed</source>
-        <translation type="unfinished"/>
+        <translation>下载失败</translation>
     </message>
 </context>
 <context>
@@ -6453,7 +6453,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardholeadd.cpp" line="41"/>
         <source>Add hole to board</source>
-        <translation type="unfinished"/>
+        <translation>添加孔</translation>
     </message>
 </context>
 <context>
@@ -6558,7 +6558,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardpolygonadd.cpp" line="41"/>
         <source>Add polygon to board</source>
-        <translation type="unfinished"/>
+        <translation>添加多边形</translation>
     </message>
 </context>
 <context>
@@ -6566,7 +6566,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardpolygonremove.cpp" line="41"/>
         <source>Remove polygon from board</source>
-        <translation type="unfinished"/>
+        <translation>删除多边形</translation>
     </message>
 </context>
 <context>
@@ -6582,7 +6582,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardstroketextadd.cpp" line="41"/>
         <source>Add text to board</source>
-        <translation type="unfinished"/>
+        <translation>添加文字</translation>
     </message>
 </context>
 <context>
@@ -6590,7 +6590,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardstroketextremove.cpp" line="41"/>
         <source>Remove text from board</source>
-        <translation type="unfinished"/>
+        <translation>删除文字</translation>
     </message>
 </context>
 <context>
@@ -6598,7 +6598,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardviaedit.cpp" line="40"/>
         <source>Edit via</source>
-        <translation type="unfinished"/>
+        <translation>编辑过孔</translation>
     </message>
 </context>
 <context>
@@ -6763,7 +6763,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicadd.cpp" line="42"/>
         <source>Add schematic</source>
-        <translation type="unfinished"/>
+        <translation>添加原理图</translation>
     </message>
 </context>
 <context>
@@ -7296,7 +7296,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addhole.cpp" line="187"/>
         <source>Add hole to board</source>
-        <translation type="unfinished"/>
+        <translation>添加孔</translation>
     </message>
 </context>
 <context>
@@ -7331,7 +7331,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="290"/>
         <source>Add text to board</source>
-        <translation type="unfinished"/>
+        <translation>添加文字</translation>
     </message>
 </context>
 <context>
@@ -7344,12 +7344,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="143"/>
         <source>Drill:</source>
-        <translation type="unfinished"/>
+        <translation>钻孔:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="156"/>
         <source>Signal:</source>
-        <translation type="unfinished"/>
+        <translation>信号:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="190"/>
@@ -7363,7 +7363,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="292"/>
         <source>Add via to board</source>
-        <translation type="unfinished"/>
+        <translation>添加一个过孔</translation>
     </message>
 </context>
 <context>
@@ -7371,7 +7371,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="103"/>
         <source>Signal:</source>
-        <translation type="unfinished"/>
+        <translation>信号:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="127"/>
