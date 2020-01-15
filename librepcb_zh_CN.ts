@@ -375,7 +375,7 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="14"/>
         <source>LibrePCB Eagle Import</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB Eagle 导入</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="21"/>
@@ -739,7 +739,8 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgsymbolpinnotongrid.cpp" line="44"/>
         <source>Every pin must be placed exactly on the %1mm grid, otherwise it cannot be connected in the schematic editor.</source>
-        <translation type="unfinished"/>
+        <translation>每个 pin 都必须准确地放在 %1mm 网格上，
+否则在原理图编辑器中无法被连接上。</translation>
     </message>
 </context>
 <context>
@@ -817,7 +818,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="72"/>
         <source>Unknown node type.</source>
-        <translation type="unfinished"/>
+        <translation>未知的节点类型。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="97"/>
@@ -832,7 +833,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="108"/>
         <source>Node value is empty.</source>
-        <translation type="unfinished"/>
+        <translation>节点值为空。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="127"/>
@@ -1022,17 +1023,17 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="223"/>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>捐赠</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="246"/>
         <source>Contribute Code</source>
-        <translation type="unfinished"/>
+        <translation>贡献代码</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="269"/>
         <source>Spread The Word</source>
-        <translation type="unfinished"/>
+        <translation>宣传</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="276"/>
@@ -1042,7 +1043,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="302"/>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>详细内容</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="333"/>
@@ -1078,7 +1079,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypecapacitance.cpp" line="39"/>
         <source>Capacitance</source>
-        <translation type="unfinished"/>
+        <translation>电容</translation>
     </message>
 </context>
 <context>
@@ -1086,7 +1087,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypecurrent.cpp" line="39"/>
         <source>Current</source>
-        <translation type="unfinished"/>
+        <translation>电流</translation>
     </message>
 </context>
 <context>
@@ -1094,7 +1095,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="39"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>频率</translation>
     </message>
 </context>
 <context>
@@ -1102,7 +1103,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="39"/>
         <source>Inductance</source>
-        <translation type="unfinished"/>
+        <translation>电感</translation>
     </message>
 </context>
 <context>
@@ -1118,7 +1119,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtyperesistance.cpp" line="39"/>
         <source>Resistance</source>
-        <translation type="unfinished"/>
+        <translation>电阻</translation>
     </message>
 </context>
 <context>
@@ -1134,7 +1135,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="39"/>
         <source>Voltage</source>
-        <translation type="unfinished"/>
+        <translation>电压</translation>
     </message>
 </context>
 <context>
@@ -1161,17 +1162,17 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="276"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="278"/>
         <source>Value</source>
-        <translation type="unfinished"/>
+        <translation>值</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="280"/>
         <source>Unit</source>
-        <translation type="unfinished"/>
+        <translation>单位</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="288"/>
@@ -1181,7 +1182,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="291"/>
         <source>Add a new attribute</source>
-        <translation type="unfinished"/>
+        <translation>添加一个新属性</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="442"/>
@@ -1194,7 +1195,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="14"/>
         <source>Board Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>PCB 设计规则</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="20"/>
@@ -1262,7 +1263,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="25"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="35"/>
@@ -1282,17 +1283,17 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="60"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>线宽:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="67"/>
         <source>Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>直径:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="74"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>位置:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.cpp" line="113"/>
@@ -1305,7 +1306,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/attributes/cmd/cmdattributeedit.cpp" line="37"/>
         <source>Edit circle</source>
-        <translation type="unfinished"/>
+        <translation>编辑圆</translation>
     </message>
 </context>
 <context>
@@ -1313,7 +1314,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/geometry/cmd/cmdcircleedit.cpp" line="39"/>
         <source>Edit circle</source>
-        <translation type="unfinished"/>
+        <translation>编辑圆</translation>
     </message>
 </context>
 <context>
@@ -1321,7 +1322,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/geometry/cmd/cmdholeedit.cpp" line="39"/>
         <source>Edit hole</source>
-        <translation type="unfinished"/>
+        <translation>编辑孔</translation>
     </message>
 </context>
 <context>
@@ -1329,7 +1330,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/geometry/cmd/cmdpolygonedit.cpp" line="39"/>
         <source>Edit polygon</source>
-        <translation type="unfinished"/>
+        <translation>编辑多边形</translation>
     </message>
 </context>
 <context>
@@ -1353,37 +1354,37 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="109"/>
         <source>Browse</source>
-        <translation type="unfinished"/>
+        <translation>浏览</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="127"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>编辑</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="132"/>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>修改</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="137"/>
         <source>Move up</source>
-        <translation type="unfinished"/>
+        <translation>上移</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="140"/>
         <source>Move down</source>
-        <translation type="unfinished"/>
+        <translation>下移</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="144"/>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="152"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>增加</translation>
     </message>
 </context>
 <context>
@@ -1451,7 +1452,7 @@ Passive parts: Using an attribute, e.g. %3</source>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="197"/>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="220"/>
         <source>Documentation</source>
-        <translation type="unfinished"/>
+        <translation>文档</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="198"/>
@@ -1528,12 +1529,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="215"/>
         <source>Pads</source>
-        <translation type="unfinished"/>
+        <translation>焊盘</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="216"/>
         <source>Vias</source>
-        <translation type="unfinished"/>
+        <translation>过孔</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="217"/>
@@ -1759,7 +1760,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="44"/>
         <source>Align center</source>
-        <translation type="unfinished"/>
+        <translation>中心对齐</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="50"/>
@@ -1777,12 +1778,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.ui" line="22"/>
         <source>Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>直径:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.ui" line="29"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>位置:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.cpp" line="90"/>
@@ -1932,7 +1933,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="25"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="35"/>
@@ -1952,7 +1953,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="60"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>线宽:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.cpp" line="110"/>
@@ -1983,7 +1984,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="79"/>
         <source>Could not open database: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>无法打开数据库: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="108"/>
@@ -2027,32 +2028,32 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="22"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="38"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>文本:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="48"/>
         <source>Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>对齐:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="58"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>高度:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="65"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>位置:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="82"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>旋转:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="89"/>
@@ -2062,33 +2063,33 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="96"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>选项:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="105"/>
         <source>Mirror</source>
-        <translation type="unfinished"/>
+        <translation>镜像</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="112"/>
         <source>Auto-Rotate</source>
-        <translation type="unfinished"/>
+        <translation>自动旋转</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="126"/>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="154"/>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>自动</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="135"/>
         <source>Line Spacing:</source>
-        <translation type="unfinished"/>
+        <translation>线间间距</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="142"/>
         <source>Letter Spacing:</source>
-        <translation type="unfinished"/>
+        <translation>文字间距:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.cpp" line="157"/>
@@ -2101,37 +2102,37 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="14"/>
         <source>Text Properties</source>
-        <translation type="unfinished"/>
+        <translation>文字属性</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="22"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="38"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>文本:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="48"/>
         <source>Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>对齐:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="58"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>高度:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="65"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>位置:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="82"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>旋转:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.cpp" line="111"/>
@@ -2154,27 +2155,27 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="197"/>
         <source>File &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>文件 &apos;%1&apos; 不存在。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="240"/>
         <source>Failed to open the ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>打开 ZIP 文件 &apos;%1&apos; 失败。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="256"/>
         <source>Failed to create the ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>创建 ZIP 文件 &apos;%1&apos; 失败。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="418"/>
         <source>Failed to write file &apos;%1&apos; to &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>将文件 &apos;%1&apos; 写入 ‘%2’ 失败。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="430"/>
         <source>File system is read-only.</source>
-        <translation type="unfinished"/>
+        <translation>文件系统只读。</translation>
     </message>
 </context>
 <context>
@@ -2215,12 +2216,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/utils/undostackactiongroup.cpp" line="78"/>
         <source>Undo failed</source>
-        <translation type="unfinished"/>
+        <translation>撤销失败</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/undostackactiongroup.cpp" line="86"/>
         <source>Redo failed</source>
-        <translation type="unfinished"/>
+        <translation>重复失败</translation>
     </message>
 </context>
 <context>
@@ -2228,17 +2229,17 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="38"/>
         <source>Align bottom</source>
-        <translation type="unfinished"/>
+        <translation>底对齐</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="44"/>
         <source>Align center</source>
-        <translation type="unfinished"/>
+        <translation>中心对齐</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="49"/>
         <source>Align top</source>
-        <translation type="unfinished"/>
+        <translation>顶对齐</translation>
     </message>
 </context>
 <context>
@@ -2246,7 +2247,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="14"/>
         <source>LibrePCB ControlPanel</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB 控制面板</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="53"/>
@@ -2263,7 +2264,7 @@ Passive parts: Using an attribute, e.g. %3</source>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="512"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="583"/>
         <source>New Project</source>
-        <translation type="unfinished"/>
+        <translation>新建项目</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="185"/>
@@ -2271,17 +2272,17 @@ Passive parts: Using an attribute, e.g. %3</source>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="476"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="554"/>
         <source>Open Project</source>
-        <translation type="unfinished"/>
+        <translation>打开项目</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="202"/>
         <source>Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>库管理器</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="254"/>
         <source>Recent Projects</source>
-        <translation type="unfinished"/>
+        <translation>近期项目</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="327"/>
@@ -2291,17 +2292,17 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="401"/>
         <source>Project description</source>
-        <translation type="unfinished"/>
+        <translation>项目描述</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="438"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="450"/>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>帮助</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="459"/>
@@ -2311,7 +2312,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="477"/>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>退出</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="480"/>
@@ -2321,17 +2322,17 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="488"/>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>关于 Qt</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="500"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>&amp;关于 LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="573"/>
         <source>Online Documentation</source>
-        <translation type="unfinished"/>
+        <translation>在线文档</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="576"/>
@@ -2341,7 +2342,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="585"/>
         <source>LibrePCB Website</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB 网站</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="526"/>
@@ -2357,17 +2358,17 @@ Passive parts: Using an attribute, e.g. %3</source>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="547"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="550"/>
         <source>Open Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>打开库管理器</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="559"/>
         <source>Close all open projects</source>
-        <translation type="unfinished"/>
+        <translation>关闭全部打开的项目</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="564"/>
         <source>Rescan Library</source>
-        <translation type="unfinished"/>
+        <translation>重新扫描库</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="72"/>
@@ -2382,18 +2383,18 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="82"/>
         <source>Scanning libraries (%p%)</source>
-        <translation type="unfinished"/>
+        <translation>正在扫描库 (%p%)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="279"/>
         <source>Could not create project</source>
-        <translation type="unfinished"/>
+        <translation>无法创建项目</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="306"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="338"/>
         <source>Could not open project</source>
-        <translation type="unfinished"/>
+        <translation>无法打开项目</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="398"/>
@@ -2404,7 +2405,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="477"/>
         <source>LibrePCB project files (%1)</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB 项目文件 (%1)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="502"/>
@@ -2456,7 +2457,7 @@ Passive parts: Using an attribute, e.g. %3</source>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="590"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="625"/>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="618"/>
@@ -3938,12 +3939,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.ui" line="148"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>位置:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.ui" line="165"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>旋转:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.cpp" line="59"/>
@@ -4014,12 +4015,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="155"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="171"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>编辑</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="193"/>
@@ -4039,7 +4040,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="250"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>&amp;关于 LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="258"/>
@@ -4219,7 +4220,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="636"/>
         <source>Mirror</source>
-        <translation type="unfinished"/>
+        <translation>镜像</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="639"/>
@@ -4329,7 +4330,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="615"/>
         <source>Online Documentation</source>
-        <translation type="unfinished"/>
+        <translation>在线文档</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="618"/>
@@ -4339,7 +4340,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="627"/>
         <source>LibrePCB Website</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB 网站</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="134"/>
@@ -4354,7 +4355,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="140"/>
         <source>Scanning libraries (%p%)</source>
-        <translation type="unfinished"/>
+        <translation>正在扫描库 (%p%)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="729"/>
@@ -4388,7 +4389,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/libraryelementchecklistwidget.h" line="108"/>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>详细内容</translation>
     </message>
 </context>
 <context>
@@ -4527,7 +4528,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="351"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>编辑</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="354"/>
@@ -4537,7 +4538,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="357"/>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="359"/>
@@ -5067,7 +5068,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addholes.cpp" line="74"/>
         <source>Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>直径:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addholes.cpp" line="133"/>
@@ -5097,7 +5098,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="136"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>高度:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="146"/>
@@ -5122,12 +5123,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="78"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="88"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>线宽:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="96"/>
@@ -5157,12 +5158,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="82"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="92"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>线宽:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="101"/>
@@ -5198,17 +5199,17 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="84"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="94"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>文本:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="117"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>高度:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="126"/>
@@ -5250,7 +5251,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="363"/>
         <source>Mirror</source>
-        <translation type="unfinished"/>
+        <translation>镜像</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="364"/>
@@ -5260,7 +5261,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="366"/>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="368"/>
@@ -5288,7 +5289,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="109"/>
         <source>Pads</source>
-        <translation type="unfinished"/>
+        <translation>焊盘</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="164"/>
@@ -5432,12 +5433,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="78"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="88"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>线宽:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="96"/>
@@ -5467,12 +5468,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="82"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="92"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>线宽:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="101"/>
@@ -5508,17 +5509,17 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="78"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="88"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>文本:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="107"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>高度:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="192"/>
@@ -5555,12 +5556,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="341"/>
         <source>Mirror</source>
-        <translation type="unfinished"/>
+        <translation>镜像</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="343"/>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="345"/>
@@ -5661,12 +5662,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/dialogs/symbolpinpropertiesdialog.ui" line="43"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>位置:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/dialogs/symbolpinpropertiesdialog.ui" line="60"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>旋转:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/dialogs/symbolpinpropertiesdialog.cpp" line="103"/>
@@ -7286,7 +7287,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addhole.cpp" line="90"/>
         <source>Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>直径:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addhole.cpp" line="116"/>
@@ -7306,17 +7307,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="104"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="121"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>文本:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="140"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>高度:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="153"/>
@@ -7378,7 +7379,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="127"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="285"/>
@@ -7400,7 +7401,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="98"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="114"/>
@@ -7431,7 +7432,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="133"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="157"/>
@@ -7710,7 +7711,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="180"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="203"/>
@@ -7720,7 +7721,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="217"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>编辑</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="237"/>
@@ -7810,7 +7811,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="382"/>
         <source>Online Documentation</source>
-        <translation type="unfinished"/>
+        <translation>在线文档</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="385"/>
@@ -7820,7 +7821,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="394"/>
         <source>LibrePCB Website</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB 网站</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="403"/>
@@ -7935,7 +7936,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="546"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>&amp;关于 LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="554"/>
@@ -8096,7 +8097,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="248"/>
         <source>Scanning libraries (%p%)</source>
-        <translation type="unfinished"/>
+        <translation>正在扫描库 (%p%)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="402"/>
@@ -8203,7 +8204,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.ui" line="35"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>层:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.ui" line="45"/>
@@ -8233,7 +8234,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.ui" line="79"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>选项:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.cpp" line="88"/>
@@ -8271,7 +8272,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="46"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>位置:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="63"/>
@@ -8562,7 +8563,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="51"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>旋转:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="58"/>
@@ -9338,7 +9339,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="245"/>
         <source>Mirror</source>
-        <translation type="unfinished"/>
+        <translation>镜像</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_select.cpp" line="247"/>
@@ -9409,7 +9410,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="127"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="153"/>
@@ -9419,7 +9420,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="170"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>编辑</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="191"/>
@@ -9464,7 +9465,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="286"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>&amp;关于 LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="294"/>
@@ -9544,7 +9545,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="405"/>
         <source>Online Documentation</source>
-        <translation type="unfinished"/>
+        <translation>在线文档</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="408"/>
@@ -9554,7 +9555,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="417"/>
         <source>LibrePCB Website</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB 网站</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="426"/>
@@ -9750,7 +9751,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="198"/>
         <source>Scanning libraries (%p%)</source>
-        <translation type="unfinished"/>
+        <translation>正在扫描库 (%p%)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="322"/>
@@ -9845,7 +9846,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="71"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>旋转:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="78"/>
@@ -9938,7 +9939,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="116"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>增加</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="123"/>
