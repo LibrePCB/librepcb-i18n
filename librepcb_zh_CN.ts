@@ -1412,7 +1412,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/network/filedownload.cpp" line="139"/>
         <source>Extract files...</source>
-        <translation type="unfinished"/>
+        <translation>提取文件...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/filedownload.cpp" line="145"/>
@@ -2614,7 +2614,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.ui" line="14"/>
         <source>Project Library Updater</source>
-        <translation type="unfinished"/>
+        <translation>工程库更新器</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.ui" line="33"/>
@@ -2645,7 +2645,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="94"/>
         <source>Abort.</source>
-        <translation type="unfinished"/>
+        <translation>中止。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="115"/>
@@ -3865,7 +3865,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="188"/>
         <source>User name not set</source>
-        <translation type="unfinished"/>
+        <translation>未设置用户名</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="189"/>
@@ -4507,7 +4507,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="452"/>
         <source>Dependencies:</source>
-        <translation type="unfinished"/>
+        <translation>依赖:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="469"/>
@@ -4559,7 +4559,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="458"/>
         <source>This cannot be undone!</source>
-        <translation type="unfinished"/>
+        <translation>该操作不可撤消！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="462"/>
@@ -4574,7 +4574,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="487"/>
         <source>Choose library icon</source>
-        <translation type="unfinished"/>
+        <translation>选择库图标</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="489"/>
@@ -5829,37 +5829,37 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="297"/>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="302"/>
         <source>Invalid Input</source>
-        <translation type="unfinished"/>
+        <translation>非法输入</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="166"/>
         <source>Please enter a name.</source>
-        <translation type="unfinished"/>
+        <translation>请输入一个名字</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="171"/>
         <source>Please enter an author.</source>
-        <translation type="unfinished"/>
+        <translation>请输入一个作者。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="176"/>
         <source>The specified version number is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>指定的版本号无效。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="181"/>
         <source>The specified URL is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>指定的 URL 无效。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="186"/>
         <source>Please enter a directory name.</source>
-        <translation type="unfinished"/>
+        <translation>请输入一个目录名。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="191"/>
         <source>The specified directory exists already.</source>
-        <translation type="unfinished"/>
+        <translation>指定的目录已经存在。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="274"/>
@@ -5869,12 +5869,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="280"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>忙</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="281"/>
         <source>A download is already running.</source>
-        <translation type="unfinished"/>
+        <translation>一个下载已经在运行。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="298"/>
@@ -5955,7 +5955,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="221"/>
         <source>Dependencies:</source>
-        <translation type="unfinished"/>
+        <translation>依赖:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="241"/>
@@ -5980,7 +5980,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="88"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="91"/>
@@ -6257,7 +6257,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_via.h" line="169"/>
         <source>Unknown via shape: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>未知的过孔形状: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -6891,7 +6891,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdsymbolinstanceremove.cpp" line="42"/>
         <source>Remove symbol</source>
-        <translation type="unfinished"/>
+        <translation>删除符号</translation>
     </message>
 </context>
 <context>
@@ -7039,7 +7039,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="138"/>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>未知的</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="272"/>
@@ -7091,7 +7091,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="364"/>
         <source>No schematic pages selected.</source>
-        <translation type="unfinished"/>
+        <translation>没有选中任何原理图页。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="373"/>
@@ -7101,7 +7101,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="382"/>
         <source>Unknown error while printing.</source>
-        <translation type="unfinished"/>
+        <translation>打印时出现未知错误。</translation>
     </message>
 </context>
 <context>
@@ -8112,7 +8112,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="402"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
         <source>Choose a name:</source>
-        <translation type="unfinished"/>
+        <translation>选择一个名字:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="403"/>
@@ -8172,7 +8172,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.ui" line="25"/>
         <source>Number of inner copper layers:</source>
-        <translation type="unfinished"/>
+        <translation>内铜层数:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.ui" line="52"/>
@@ -8776,7 +8776,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="137"/>
         <source>Top Silkscreen:</source>
-        <translation type="unfinished"/>
+        <translation>顶层印字:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="144"/>
@@ -9765,12 +9765,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="323"/>
         <source>Choose a name:</source>
-        <translation type="unfinished"/>
+        <translation>选择一个名字:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="324"/>
         <source>New Page</source>
-        <translation type="unfinished"/>
+        <translation>新建页</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="332"/>
@@ -9805,12 +9805,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="118"/>
         <source>Choose a name:</source>
-        <translation type="unfinished"/>
+        <translation>选择一个名字:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="119"/>
         <source>New Page</source>
-        <translation type="unfinished"/>
+        <translation>新建页</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematicpagesdock.cpp" line="128"/>
@@ -10201,7 +10201,7 @@ After applying you cannot undo this change.</source>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="239"/>
         <source>Unstable file format!</source>
-        <translation type="unfinished"/>
+        <translation>不稳定的文件格式！</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="240"/>
