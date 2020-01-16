@@ -156,7 +156,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="114"/>
         <source>attributes</source>
-        <translation type="unfinished"/>
+        <translation>属性</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="117"/>
@@ -211,7 +211,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="690"/>
         <source>Save &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>保存 &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
@@ -429,12 +429,12 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="214"/>
         <source>Convert:</source>
-        <translation type="unfinished"/>
+        <translation>转换:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="223"/>
         <source>Symbols --&gt; Symbols</source>
-        <translation type="unfinished"/>
+        <translation>符号 --&gt; 符号</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="230"/>
@@ -454,7 +454,7 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="253"/>
         <source>Remove Duplicates:</source>
-        <translation type="unfinished"/>
+        <translation>删除重复:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="278"/>
@@ -553,7 +553,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingauthor.cpp" line="38"/>
         <source>It is recommended to set an author (e.g. full name or nickname), although it&apos;s not required.</source>
-        <translation type="unfinished"/>
+        <translation>虽然不是必需，但推荐设置作者(例如全名或呢称)。</translation>
     </message>
 </context>
 <context>
@@ -574,7 +574,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="37"/>
         <source>No default value set</source>
-        <translation type="unfinished"/>
+        <translation>未设置默认值</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentdefaultvalue.cpp" line="38"/>
@@ -643,7 +643,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="37"/>
         <source>Missing text: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>缺少文本: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="38"/>
@@ -656,7 +656,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="37"/>
         <source>Missing text: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>缺少文本: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="38"/>
