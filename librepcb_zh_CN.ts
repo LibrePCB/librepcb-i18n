@@ -108,12 +108,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="78"/>
         <source>LibrePCB Command Line Interface</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB 命令行接口</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="81"/>
         <source>Verbose output.</source>
-        <translation type="unfinished"/>
+        <translation>详细输出。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="83"/>
@@ -522,7 +522,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgduplicatepinname.cpp" line="40"/>
         <source>Duplicate pin name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>重复的引脚名: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgduplicatepinname.cpp" line="41"/>
@@ -535,7 +535,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgduplicatesignalname.cpp" line="41"/>
         <source>Duplicate signal name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>重复的信号名: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgduplicatesignalname.cpp" line="42"/>
@@ -789,7 +789,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/quazip/quazip/quagzipfile.cpp" line="80"/>
         <source>Could not gzopen() file</source>
-        <translation type="unfinished"/>
+        <translation>无法 gzopen() 文件</translation>
     </message>
 </context>
 <context>
@@ -1013,7 +1013,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="199"/>
         <source>Contributing</source>
-        <translation type="unfinished"/>
+        <translation>贡献</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="207"/>
@@ -1250,7 +1250,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.cpp" line="143"/>
         <source>Could not apply settings</source>
-        <translation type="unfinished"/>
+        <translation>无法应用设置</translation>
     </message>
 </context>
 <context>
@@ -1258,7 +1258,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="14"/>
         <source>Circle Properties</source>
-        <translation type="unfinished"/>
+        <translation>圆属性</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="25"/>
@@ -1397,7 +1397,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/network/filedownload.cpp" line="116"/>
         <source>Verify checksum...</source>
-        <translation type="unfinished"/>
+        <translation>检验校验和...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/filedownload.cpp" line="120"/>
@@ -1692,7 +1692,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="23"/>
         <source>Grid Settings</source>
-        <translation type="unfinished"/>
+        <translation>网格设置</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="35"/>
@@ -1717,7 +1717,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="83"/>
         <source>Grid Parameter</source>
-        <translation type="unfinished"/>
+        <translation>网格参数</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="89"/>
@@ -1732,7 +1732,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="116"/>
         <source>(internal representation)</source>
-        <translation type="unfinished"/>
+        <translation>(内部表示)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="147"/>
@@ -1804,7 +1804,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="95"/>
         <source>Start request...</source>
-        <translation type="unfinished"/>
+        <translation>开始请求...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="98"/>
@@ -1814,22 +1814,22 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="105"/>
         <source>Abort request...</source>
-        <translation type="unfinished"/>
+        <translation>终止请求...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="118"/>
         <source>Request started...</source>
-        <translation type="unfinished"/>
+        <translation>请求已开始...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="123"/>
         <source>Network access manager is not running.</source>
-        <translation type="unfinished"/>
+        <translation>网络访问管理器不在运行。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="140"/>
         <source>GET request failed! Network access manager thread not running?!</source>
-        <translation type="unfinished"/>
+        <translation>GET 请求失败！请确认网络访问管理器线程在正常运行?!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="168"/>
@@ -1847,12 +1847,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="194"/>
         <source>Receive data: %1</source>
-        <translation type="unfinished"/>
+        <translation>接收数据: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="209"/>
         <source>Network request aborted.</source>
-        <translation type="unfinished"/>
+        <translation>网络请求终止。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="219"/>
@@ -1872,17 +1872,17 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="262"/>
         <source>Request successfully finished.</source>
-        <translation type="unfinished"/>
+        <translation>请求成功完成。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="268"/>
         <source>Request aborted.</source>
-        <translation type="unfinished"/>
+        <translation>请求终止。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="274"/>
         <source>Request failed: %1</source>
-        <translation type="unfinished"/>
+        <translation>请求失败: %1</translation>
     </message>
 </context>
 <context>
@@ -1928,7 +1928,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="14"/>
         <source>Polygon Properties</source>
-        <translation type="unfinished"/>
+        <translation>多边形属性</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="25"/>
@@ -1966,12 +1966,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/network/repository.cpp" line="98"/>
         <source>Received JSON object is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>收到无效的 JSON 对象。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/repository.cpp" line="115"/>
         <source>Received JSON object does not contain any results.</source>
-        <translation type="unfinished"/>
+        <translation>收到的 JSON 对象不包含任何结果。</translation>
     </message>
 </context>
 <context>
@@ -1979,7 +1979,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="73"/>
         <source>Invalid database: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>非法数据库: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="79"/>
@@ -1989,7 +1989,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="108"/>
         <source>Could not start database transaction.</source>
-        <translation type="unfinished"/>
+        <translation>无法启动数据库迁移。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="119"/>
@@ -2004,13 +2004,13 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="158"/>
         <source>Error while preparing SQL query: %1</source>
-        <translation type="unfinished"/>
+        <translation>准备 SQL 查询时出错: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="187"/>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="197"/>
         <source>Error while executing SQL query: %1</source>
-        <translation type="unfinished"/>
+        <translation>执行 SQL 查询时出错: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/sqlitedatabase.cpp" line="219"/>
@@ -2145,7 +2145,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="70"/>
         <source>Restore autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>要恢复自动保存的备份？</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="71"/>
@@ -2347,12 +2347,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="526"/>
         <source>Switch Workspace</source>
-        <translation type="unfinished"/>
+        <translation>切换工作区</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="535"/>
         <source>Workspace Settings</source>
-        <translation type="unfinished"/>
+        <translation>工作区设置</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="547"/>
@@ -2373,12 +2373,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="72"/>
         <source>Control Panel - LibrePCB %1</source>
-        <translation type="unfinished"/>
+        <translation>控制面板 - LibrePCB %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="77"/>
         <source>Workspace: %1</source>
-        <translation type="unfinished"/>
+        <translation>工作区: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="82"/>
@@ -2410,12 +2410,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="502"/>
         <source>Workspace changed</source>
-        <translation type="unfinished"/>
+        <translation>工作区已改变</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="503"/>
         <source>The chosen workspace will be used after restarting the application.</source>
-        <translation type="unfinished"/>
+        <translation>应用重启后选择的工作区将会开始使用。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="558"/>
@@ -2483,7 +2483,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizard.ui" line="17"/>
         <source>Choose LibrePCB Workspace</source>
-        <translation type="unfinished"/>
+        <translation>选择 LibrePCB 工作区</translation>
     </message>
 </context>
 <context>
@@ -2532,7 +2532,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="17"/>
         <source>Select Workspace Path</source>
-        <translation type="unfinished"/>
+        <translation>选择工作区路径</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="51"/>
@@ -2552,7 +2552,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="102"/>
         <source>Select the workspace directory:</source>
-        <translation type="unfinished"/>
+        <translation>选择工作区目录:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="70"/>
@@ -2563,22 +2563,22 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="71"/>
         <source>The selected directory is invalid or not empty.</source>
-        <translation type="unfinished"/>
+        <translation>所选目录无效或不为空。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="80"/>
         <source>The selected directory is not a valid workspace.</source>
-        <translation type="unfinished"/>
+        <translation>所选目录不是有效的工作区。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="110"/>
         <source>Select Empty Directory</source>
-        <translation type="unfinished"/>
+        <translation>选择空目录</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="117"/>
         <source>Select Workspace Directory</source>
-        <translation type="unfinished"/>
+        <translation>选择工作区目录</translation>
     </message>
 </context>
 <context>
@@ -2586,7 +2586,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacesettings.ui" line="17"/>
         <source>Workspace Settings</source>
-        <translation type="unfinished"/>
+        <translation>工作区设置</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacesettings.ui" line="20"/>
@@ -10072,7 +10072,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="225"/>
         <source>Select Workspace Path</source>
-        <translation type="unfinished"/>
+        <translation>选择工作区路径</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="229"/>
@@ -10146,7 +10146,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="17"/>
         <source>Workspace Settings</source>
-        <translation type="unfinished"/>
+        <translation>工作区设置</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="33"/>
