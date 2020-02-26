@@ -225,7 +225,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="722"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
@@ -1057,32 +1057,32 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="76"/>
         <source>Removing temporary directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Removing temporary directory...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="81"/>
         <source>Looking for files to copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Looking for files to copy...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="92"/>
         <source>Copy file %1 of %2...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy file %1 of %2...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="99"/>
         <source>Renaming temporary directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Renaming temporary directory...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="103"/>
         <source>Successfully finished!</source>
-        <translation type="unfinished"></translation>
+        <translation>Successfully finished!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="113"/>
         <source>Failed to copy files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to copy files:</translation>
     </message>
 </context>
 <context>
@@ -2330,7 +2330,7 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="592"/>
         <source>Rescan Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Rescan Libraries</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="604"/>
@@ -2392,12 +2392,12 @@ Passive parts: Using an attribute, e.g. %3</translation>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="383"/>
         <source>Restore autosave backup?</source>
-        <translation type="unfinished">Restore autosave backup?</translation>
+        <translation>Restore autosave backup?</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="384"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"></translation>
+        <translation>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="414"/>
@@ -2591,7 +2591,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard.ui" line="14"/>
         <source>Initialize Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Initialize Workspace</translation>
     </message>
 </context>
 <context>
@@ -2599,32 +2599,32 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="14"/>
         <source>Choose version to import</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose version to import</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="17"/>
         <source>Initialize Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Initialize Workspace</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="20"/>
         <source>Choose how to initialize libraries and settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose how to initialize libraries and settings.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="26"/>
         <source>The selected workspace was not opened yet with this version of LibrePCB. To keep the workspace compatible with older versions, LibrePCB stores libraries and settings for each file format version independendly. Since there are libraries and settings available from older LibrePCB versions, you can import them now.</source>
-        <translation type="unfinished"></translation>
+        <translation>The selected workspace was not opened yet with this version of LibrePCB. To keep the workspace compatible with older versions, LibrePCB stores libraries and settings for each file format version independendly. Since there are libraries and settings available from older LibrePCB versions, you can import them now.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="36"/>
         <source>Import from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Import from:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.cpp" line="50"/>
         <source>Do not import any data</source>
-        <translation type="unfinished"></translation>
+        <translation>Do not import any data</translation>
     </message>
 </context>
 <context>
@@ -2632,57 +2632,57 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="14"/>
         <source>Choose settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose settings</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="17"/>
         <source>Choose workspace settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose workspace settings</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="20"/>
         <source>Set the most important workspace settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Set the most important workspace settings.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="26"/>
         <source>Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Language:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="40"/>
         <source>Length Unit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Length Unit:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="54"/>
         <source>User Name:</source>
-        <translation type="unfinished">User Name:</translation>
+        <translation>User Name:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="66"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation type="unfinished">This name will be used as author when creating new projects or libraries.</translation>
+        <translation>This name will be used as author when creating new projects or libraries.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="81"/>
         <source>Preferred Norm:</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferred Norm:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="53"/>
         <source>System Language</source>
-        <translation type="unfinished">System Language</translation>
+        <translation>System Language</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="71"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>None</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="109"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>
@@ -2691,37 +2691,37 @@ Workspaces are platform independent, so they can be used across different operat
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="14"/>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="17"/>
         <source>Finalize Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalize Import</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="20"/>
         <source>Ready to start the import operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ready to start the import operation.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="26"/>
         <source>To import the old settings and libraries, the following directory will be recursively copied:</source>
-        <translation type="unfinished"></translation>
+        <translation>To import the old settings and libraries, the following directory will be recursively copied:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="43"/>
         <source>Source:</source>
-        <translation type="unfinished"></translation>
+        <translation>Source:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="80"/>
         <source>Make sure these directories are not accessed by any application during the copy operation!</source>
-        <translation type="unfinished"></translation>
+        <translation>Make sure these directories are not accessed by any application during the copy operation!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="90"/>
         <source>Destination:</source>
-        <translation type="unfinished"></translation>
+        <translation>Destination:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="97"/>
         <source>Start Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Import</translation>
     </message>
 </context>
 <context>
@@ -4003,12 +4003,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="202"/>
         <source>Restore autosave backup?</source>
-        <translation type="unfinished">Restore autosave backup?</translation>
+        <translation>Restore autosave backup?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="203"/>
         <source>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"></translation>
+        <translation>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="276"/>
@@ -4172,7 +4172,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="208"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="219"/>
@@ -4207,7 +4207,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="602"/>
         <source>&amp;Rescan Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rescan Libraries</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="323"/>
@@ -4382,7 +4382,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="143"/>
         <source>Filter elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter elements</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="150"/>
@@ -6204,7 +6204,7 @@ Are you really sure to remove &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netpoint.cpp" line="74"/>
         <source>Dead net point in board &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dead net point in board &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -7351,30 +7351,30 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="392"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="426"/>
         <source>Select Whole Trace</source>
-        <translation type="unfinished"></translation>
+        <translation>Select Whole Trace</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="396"/>
         <source>Measure Selected Segments Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Measure Selected Segments Length</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="808"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Total length of %n trace segment(s): %2 mm / %3 in</numerusform>
+            <numerusform>Total length of %n trace segment(s): %2 mm / %3 in</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="815"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
-        <translation type="unfinished"></translation>
+        <translation>WARNING: There are %1 trace segments selected, but not all of them are connected!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="843"/>
         <source>Selected trace segments may not branch!</source>
-        <translation type="unfinished"></translation>
+        <translation>Selected trace segments may not branch!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="459"/>
@@ -7554,7 +7554,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="251"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Search</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="262"/>
@@ -7846,12 +7846,12 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="909"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="569"/>
         <source>SVG Export</source>
-        <translation type="unfinished"></translation>
+        <translation>SVG Export</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="250"/>
         <source>Find device...</source>
-        <translation type="unfinished"></translation>
+        <translation>Find device...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="259"/>
@@ -9251,7 +9251,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="210"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Search</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="221"/>
@@ -9276,7 +9276,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="803"/>
         <source>Export sheet to SVG</source>
-        <translation type="unfinished"></translation>
+        <translation>Export sheet to SVG</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="291"/>
@@ -9502,7 +9502,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="451"/>
         <source>SVG Export</source>
-        <translation type="unfinished"></translation>
+        <translation>SVG Export</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="578"/>
@@ -9542,7 +9542,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="212"/>
         <source>Find symbol...</source>
-        <translation type="unfinished"></translation>
+        <translation>Find symbol...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="369"/>
@@ -9961,7 +9961,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="184"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>
