@@ -118,7 +118,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="83"/>
         <source>The command to execute.</source>
-        <translation type="unfinished"/>
+        <translation>Komenda do wykonania.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="88"/>
@@ -136,7 +136,7 @@
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="108"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="125"/>
         <source>file</source>
-        <translation type="unfinished"/>
+        <translation>plik</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="99"/>
@@ -156,12 +156,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="114"/>
         <source>attributes</source>
-        <translation type="unfinished"/>
+        <translation>atrybuty</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="117"/>
         <source>Export PCB fabrication data (Gerber/Excellon) according the fabrication output settings of boards. Existing files will be overwritten.</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj dane produkcyjne (Gerber/Excellon) zgodnie z ustawieniami produkcyjnymi płytek. Istniejące pliki będą nadpisane.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="122"/>
@@ -176,7 +176,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="130"/>
         <source>name</source>
-        <translation type="unfinished"/>
+        <translation>nazwa</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="133"/>
@@ -196,7 +196,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="187"/>
         <source>Unknown command &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Nieznana komenda &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="215"/>
@@ -211,7 +211,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="690"/>
         <source>Save &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="203"/>
         <source>Git Revision %1</source>
-        <translation type="unfinished"/>
+        <translation>Rewizja Git %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="204"/>
@@ -262,12 +262,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="261"/>
         <source>Internal failure.</source>
-        <translation type="unfinished"/>
+        <translation>Błąd wewnętrzny</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="264"/>
         <source>SUCCESS</source>
-        <translation type="unfinished"/>
+        <translation>SUKCES</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="267"/>
