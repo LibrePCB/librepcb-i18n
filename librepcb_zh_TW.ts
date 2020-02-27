@@ -3397,7 +3397,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/library.cpp" line="137"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
-        <translation>元件庫目錄必須是以&apos;.lplib&apos;作為結尾。</translation>
+        <translation>元件庫目錄名稱必須是以&apos;.lplib&apos;作為結尾。</translation>
     </message>
 </context>
 <context>
@@ -4004,7 +4004,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="203"/>
         <source>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</source>
-        <translation>噢，看起來上次在你開啟元件元素時GG了，想要還原上次自動儲存的備份嗎？</translation>
+        <translation>噢，看起來上次在你開啟元件庫元素時GG了，想要還原上次自動儲存的備份嗎？</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="276"/>
