@@ -158,12 +158,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="122"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation>提供一個包含自訂設定的 *.lp 檔來覆寫 PCB 洗板資料設定。未設定則會使用專案中電路板的設定。</translation>
+        <translation>提供一個包含自訂設定檔的 *.lp 檔來覆寫 PCB 洗板資料設定。未設定則會使用專案中電路板的設定。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="127"/>
         <source>The name of the board(s) to export. Can be given multiple times. If not set, all boards are exported.</source>
-        <translation>需要匯出的（一張或多張）電路板，可以多次提及。未設定則匯出全部電路板。</translation>
+        <translation>需要匯出的（一張或多張）電路板名稱，可以多次提及。未設定則匯出全部電路板。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="130"/>
@@ -223,7 +223,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="722"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
-        <translation type="unfinished"/>
+        <translation>此應用程式版本為　非　穩　定　版　！&apos;%1&apos; 選項已關閉來避免破壞到專案或是元件庫。請改用穩定釋出的版本。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
@@ -1055,32 +1055,32 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="76"/>
         <source>Removing temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>正在移除暫存目錄...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="81"/>
         <source>Looking for files to copy...</source>
-        <translation type="unfinished"/>
+        <translation>正在尋找要複製的檔案...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="92"/>
         <source>Copy file %1 of %2...</source>
-        <translation type="unfinished"/>
+        <translation>複製檔案 %1 / 總共 %2 個...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="99"/>
         <source>Renaming temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>正在重新命名暫存目錄...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="103"/>
         <source>Successfully finished!</source>
-        <translation type="unfinished"/>
+        <translation>成功的完成了！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="113"/>
         <source>Failed to copy files:</source>
-        <translation type="unfinished"/>
+        <translation>複製檔案失敗：</translation>
     </message>
 </context>
 <context>
@@ -2326,7 +2326,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="592"/>
         <source>Rescan Libraries</source>
-        <translation type="unfinished"/>
+        <translation>重新掃描元件庫</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="604"/>
@@ -2346,7 +2346,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="550"/>
         <source>Workspace Settings</source>
-        <translation>工作區設定</translation>
+        <translation>工作區設定檔</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="565"/>
@@ -2393,7 +2393,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="384"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>噢，看起來上次這個程式在開啟你的專案時GG了，想要還原上次自動儲存的備份嗎？</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="414"/>
@@ -2482,7 +2482,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizard.ui" line="17"/>
         <source>Choose LibrePCB Workspace</source>
-        <translation>選擇 LibrePCB 工作區</translation>
+        <translation>選取 LibrePCB 工作區</translation>
     </message>
 </context>
 <context>
@@ -2519,21 +2519,21 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="20"/>
         <source>Please select a directory to open or create a LibrePCB workspace.</source>
-        <translation>請選擇一個目錄來開啟或建立 LibrePCB 工作區。</translation>
+        <translation>請選取一個目錄來開啟或建立 LibrePCB 工作區。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="32"/>
         <source>LibrePCB needs a workspace directory to store settings, libraries and projects.
 
 Workspaces are platform independent, so they can be used across different operating systems.</source>
-        <translation>LibrePCB 需要依個工作區目錄來儲存設定值、元件庫和專案資料。
+        <translation>LibrePCB 需要依個工作區目錄來儲存設定檔、元件庫和專案資料。
 
 工作區不相依於平台，所以可以跨平台的被相互使用。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="17"/>
         <source>Select Workspace Path</source>
-        <translation>選擇工作區路徑</translation>
+        <translation>選取工作區路徑</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="51"/>
@@ -2553,7 +2553,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="102"/>
         <source>Select the workspace directory:</source>
-        <translation>選擇工作區目錄：</translation>
+        <translation>選取工作區目錄：</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="70"/>
@@ -2569,17 +2569,17 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="80"/>
         <source>The selected directory is not a valid workspace.</source>
-        <translation>所選取的目錄不是一個有效的工作區。</translation>
+        <translation>所選擇的目錄不是一個有效的工作區。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="110"/>
         <source>Select Empty Directory</source>
-        <translation>選擇空目錄</translation>
+        <translation>選取空目錄</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="117"/>
         <source>Select Workspace Directory</source>
-        <translation>選擇工作區目錄</translation>
+        <translation>選取工作區目錄</translation>
     </message>
 </context>
 <context>
@@ -2587,7 +2587,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard.ui" line="14"/>
         <source>Initialize Workspace</source>
-        <translation type="unfinished"/>
+        <translation>初始化工作區</translation>
     </message>
 </context>
 <context>
@@ -2595,32 +2595,32 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="14"/>
         <source>Choose version to import</source>
-        <translation type="unfinished"/>
+        <translation>選取要匯入的版本</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="17"/>
         <source>Initialize Workspace</source>
-        <translation type="unfinished"/>
+        <translation>初始化工作區</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="20"/>
         <source>Choose how to initialize libraries and settings.</source>
-        <translation type="unfinished"/>
+        <translation>選取該如何初始化元件庫與設定檔。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="26"/>
         <source>The selected workspace was not opened yet with this version of LibrePCB. To keep the workspace compatible with older versions, LibrePCB stores libraries and settings for each file format version independendly. Since there are libraries and settings available from older LibrePCB versions, you can import them now.</source>
-        <translation type="unfinished"/>
+        <translation>選擇的工作區尚未在此版本的 LibrePCB 被開啟過。為了保持工作區的向下相容性，LibrePCB 將會以各版本的檔案格式獨立儲存元件庫與設定檔。因為發現有來自舊版本 LibrePCB 的元件庫與設定檔，你可以在此匯入它們。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="36"/>
         <source>Import from:</source>
-        <translation type="unfinished"/>
+        <translation>匯入自：</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.cpp" line="50"/>
         <source>Do not import any data</source>
-        <translation type="unfinished"/>
+        <translation>請勿匯入任何資料</translation>
     </message>
 </context>
 <context>
@@ -2628,27 +2628,27 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="14"/>
         <source>Choose settings</source>
-        <translation type="unfinished"/>
+        <translation>選取設定檔</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="17"/>
         <source>Choose workspace settings</source>
-        <translation type="unfinished"/>
+        <translation>選取工作區設定檔</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="20"/>
         <source>Set the most important workspace settings.</source>
-        <translation type="unfinished"/>
+        <translation>設定最重要的工作區設定檔</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="26"/>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>語言：</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="40"/>
         <source>Length Unit:</source>
-        <translation type="unfinished"/>
+        <translation>長度單位：</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="54"/>
@@ -2663,7 +2663,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="81"/>
         <source>Preferred Norm:</source>
-        <translation type="unfinished"/>
+        <translation>偏好的標準規範：</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="53"/>
@@ -2687,37 +2687,37 @@ Workspaces are platform independent, so they can be used across different operat
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="14"/>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="17"/>
         <source>Finalize Import</source>
-        <translation type="unfinished"/>
+        <translation>完成匯入</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="20"/>
         <source>Ready to start the import operation.</source>
-        <translation type="unfinished"/>
+        <translation>準備開始匯入。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="26"/>
         <source>To import the old settings and libraries, the following directory will be recursively copied:</source>
-        <translation type="unfinished"/>
+        <translation>若要匯入舊版設定檔與元件庫，以下的目錄會被遞迴複製：</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="43"/>
         <source>Source:</source>
-        <translation type="unfinished"/>
+        <translation>來源：</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="80"/>
         <source>Make sure these directories are not accessed by any application during the copy operation!</source>
-        <translation type="unfinished"/>
+        <translation>請確保這些目錄再匯入過程中不會被任何應用程式存取！</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="90"/>
         <source>Destination:</source>
-        <translation type="unfinished"/>
+        <translation>目的地：</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="97"/>
         <source>Start Import</source>
-        <translation type="unfinished"/>
+        <translation>開始匯入</translation>
     </message>
 </context>
 <context>
@@ -2887,7 +2887,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="481"/>
         <source>ERROR: Failed to load custom settings: %1</source>
-        <translation>錯誤：載入自訂設定失敗：%1</translation>
+        <translation>錯誤：載入自訂設定檔失敗：%1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="488"/>
@@ -3186,7 +3186,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="103"/>
         <source>Please choose a symbol.</source>
-        <translation>請選擇一個符號。</translation>
+        <translation>請選取一個符號。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="113"/>
@@ -3197,7 +3197,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="258"/>
         <source>Choose symbol...</source>
-        <translation>選擇符號...</translation>
+        <translation>選取符號...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="289"/>
@@ -3512,7 +3512,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorylisteditorwidget.ui" line="57"/>
         <source>Remove selected</source>
-        <translation>移除選取</translation>
+        <translation>移除選擇的</translation>
     </message>
 </context>
 <context>
@@ -3657,7 +3657,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.ui" line="17"/>
         <source>Choose Component</source>
-        <translation>選擇元件</translation>
+        <translation>選取元件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.ui" line="31"/>
@@ -3677,7 +3677,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="184"/>
         <source>No component selected</source>
-        <translation>沒有選取的元件</translation>
+        <translation>沒有選擇的元件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="194"/>
@@ -3687,12 +3687,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="249"/>
         <source>Invalid Selection</source>
-        <translation>無效的選取</translation>
+        <translation>無效的選擇</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="250"/>
         <source>Please select a component.</source>
-        <translation>請選擇一個元件。</translation>
+        <translation>請選取一個元件。</translation>
     </message>
 </context>
 <context>
@@ -3994,7 +3994,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="189"/>
         <source>No user name defined in workspace settings. Please open workspace settings to set the default user name.</source>
-        <translation>工作區設定值中沒有定義使用者名稱。請開啟功作區設定來設定使用者名稱預設值。</translation>
+        <translation>工作區設定檔中沒有定義使用者名稱。請開啟功作區設定檔來設定使用者名稱預設值。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="202"/>
@@ -4004,7 +4004,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="203"/>
         <source>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>噢，看起來上次在你開啟元件元素時GG了，想要還原上次自動儲存的備份嗎？</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="276"/>
@@ -4168,7 +4168,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="208"/>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>過濾</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="219"/>
@@ -4203,7 +4203,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="602"/>
         <source>&amp;Rescan Libraries</source>
-        <translation type="unfinished"/>
+        <translation>重新掃描元件庫 (&amp;R)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="323"/>
@@ -4378,7 +4378,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="143"/>
         <source>Filter elements</source>
-        <translation type="unfinished"/>
+        <translation>過濾元素</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="150"/>
@@ -4537,7 +4537,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="322"/>
         <source>Click here to choose an icon (PNG, 256x256px).</source>
-        <translation>點選這裡來選取一個圖示 (PNG, 256x256px)。</translation>
+        <translation>點選這裡來選擇一個圖示 (PNG, 256x256px)。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="157"/>
@@ -4612,7 +4612,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="602"/>
         <source>Choose library icon</source>
-        <translation>選擇元件庫圖示</translation>
+        <translation>選取元件庫圖示</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="604"/>
@@ -4649,12 +4649,12 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="14"/>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="17"/>
         <source>Choose Element Type</source>
-        <translation>選擇元素類型</translation>
+        <translation>選取元素類型</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="20"/>
         <source>First of all, you need to choose what type of library element you want to create.</source>
-        <translation>首先，你需要選取想建立的元件庫元素類型。</translation>
+        <translation>首先，你需要選擇想建立的元件庫元素類型。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="32"/>
@@ -4881,12 +4881,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="115"/>
         <source>No component selected</source>
-        <translation>沒有選取的元件</translation>
+        <translation>沒有選擇的元件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="143"/>
         <source>No package selected</source>
-        <translation>沒有選取的封裝</translation>
+        <translation>沒有選擇的封裝</translation>
     </message>
 </context>
 <context>
@@ -5085,7 +5085,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="185"/>
         <source>No package selected</source>
-        <translation>沒有選取的封裝</translation>
+        <translation>沒有選擇的封裝</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="195"/>
@@ -5095,12 +5095,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="229"/>
         <source>Invalid Selection</source>
-        <translation>無效的選取</translation>
+        <translation>無效的選擇</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="230"/>
         <source>Please select a package.</source>
-        <translation>請選擇一個封裝。</translation>
+        <translation>請選取一個封裝。</translation>
     </message>
 </context>
 <context>
@@ -5108,7 +5108,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorfsm.cpp" line="153"/>
         <source>Please select a footprint.</source>
-        <translation>請選擇一個腳位圖。</translation>
+        <translation>請選取一個腳位圖。</translation>
     </message>
 </context>
 <context>
@@ -5433,7 +5433,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="202"/>
         <source>No symbol selected</source>
-        <translation>沒有選取的符號</translation>
+        <translation>沒有選擇的符號</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="221"/>
@@ -5443,12 +5443,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="228"/>
         <source>Invalid Selection</source>
-        <translation>無效的選取</translation>
+        <translation>無效的選擇</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="229"/>
         <source>Please select a symbol.</source>
-        <translation>請選擇一個符號。</translation>
+        <translation>請選取一個符號。</translation>
     </message>
 </context>
 <context>
@@ -6199,7 +6199,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netpoint.cpp" line="74"/>
         <source>Dead net point in board &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>在電路板&quot;%1&quot;中有死去的連接線點%2</translation>
     </message>
 </context>
 <context>
@@ -6991,7 +6991,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="364"/>
         <source>No schematic pages selected.</source>
-        <translation>沒有選取的頁面。</translation>
+        <translation>沒有選擇的頁面。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="373"/>
@@ -7043,7 +7043,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="427"/>
         <source>No component selected</source>
-        <translation>沒有選取的元件</translation>
+        <translation>沒有選擇的元件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.ui" line="108"/>
@@ -7053,7 +7053,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="498"/>
         <source>No device selected</source>
-        <translation>沒有選取的裝置</translation>
+        <translation>沒有選擇的裝置</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="181"/>
@@ -7065,12 +7065,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="539"/>
         <source>Invalid Selection</source>
-        <translation>無效的選取</translation>
+        <translation>無效的選擇</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="540"/>
         <source>Please select a component and a symbol variant.</source>
-        <translation>請選擇一個裝置和一個符號變體。</translation>
+        <translation>請選取一個裝置和一個符號變體。</translation>
     </message>
 </context>
 <context>
@@ -7264,7 +7264,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="344"/>
         <source>No layer selected.</source>
-        <translation>沒有選取的層。</translation>
+        <translation>沒有選擇的層。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="391"/>
@@ -7343,27 +7343,27 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="392"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="426"/>
         <source>Select Whole Trace</source>
-        <translation type="unfinished"/>
+        <translation>選取整條走線</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="396"/>
         <source>Measure Selected Segments Length</source>
-        <translation type="unfinished"/>
+        <translation>測量選擇的線段長度</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="808"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n 條走線線段的總長度為：%2 mm / %3 in</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="815"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
-        <translation type="unfinished"/>
+        <translation>警告：總共有%1條走線已選擇，但是它們並不是完全相連的！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="843"/>
         <source>Selected trace segments may not branch!</source>
-        <translation type="unfinished"/>
+        <translation>選擇的走線線段無法建立分支！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="459"/>
@@ -7543,7 +7543,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="251"/>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>尋找</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="262"/>
@@ -7835,12 +7835,12 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="909"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="569"/>
         <source>SVG Export</source>
-        <translation type="unfinished"/>
+        <translation>SVG 匯出</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="250"/>
         <source>Find device...</source>
-        <translation type="unfinished"/>
+        <translation>尋找裝置...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="259"/>
@@ -7900,7 +7900,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="511"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="556"/>
         <source>No board selected.</source>
-        <translation>沒有選取的電路板。</translation>
+        <translation>沒有選擇的電路板。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="524"/>
@@ -8128,7 +8128,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="81"/>
         <source>Choose output file</source>
-        <translation>選擇匯出檔案</translation>
+        <translation>選取匯出檔案</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="100"/>
@@ -8778,7 +8778,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="163"/>
         <source>A LibrePCB project consists of a whole directory, not only of a single file. Just select the new project&apos;s parent directory, and the subdirectory and filename will be set automatically.</source>
-        <translation>一個 LibrePCB 專案包含整個目錄，不僅僅是單一檔案。您只需要選擇新增專案時的上層目錄，它的子目錄和檔案名稱將被自動設定。</translation>
+        <translation>一個 LibrePCB 專案包含整個目錄，不僅僅是單一檔案。您只需要選取新增專案時的上層目錄，它的子目錄和檔案名稱將被自動設定。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/newprojectwizard/newprojectwizardpage_metadata.ui" line="197"/>
@@ -8966,7 +8966,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="105"/>
         <source>Restore default settings</source>
-        <translation>還原預設設定</translation>
+        <translation>還原預設設定值</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="106"/>
@@ -9240,7 +9240,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="210"/>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>尋找</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="221"/>
@@ -9265,7 +9265,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="803"/>
         <source>Export sheet to SVG</source>
-        <translation type="unfinished"/>
+        <translation>匯出稿紙成 SVG</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="291"/>
@@ -9491,7 +9491,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="451"/>
         <source>SVG Export</source>
-        <translation type="unfinished"/>
+        <translation>SVG 匯出</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="578"/>
@@ -9531,7 +9531,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="212"/>
         <source>Find symbol...</source>
-        <translation type="unfinished"/>
+        <translation>尋找符號...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="369"/>
@@ -9729,7 +9729,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="226"/>
         <source>Select Workspace Path</source>
-        <translation>選擇工作區路徑</translation>
+        <translation>選取工作區路徑</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspace.cpp" line="230"/>
@@ -9752,7 +9752,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/workspacechooserdialog.ui" line="14"/>
         <source>Please choose a workspace</source>
-        <translation>請選擇一個工作區</translation>
+        <translation>請選取一個工作區</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspacechooserdialog.ui" line="35"/>
@@ -9803,7 +9803,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="17"/>
         <source>Workspace Settings</source>
-        <translation>工作區設定</translation>
+        <translation>工作區設定檔</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="33"/>
@@ -9937,7 +9937,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="192"/>
         <source>Restore default settings</source>
-        <translation>還原預設設定</translation>
+        <translation>還原預設設定值</translation>
     </message>
 </context>
 <context>
@@ -9950,7 +9950,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="184"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;&lt;b&gt;注意：此應用程式版本為　非　穩　定　版！&lt;/b&gt;&lt;/p&gt;&lt;p&gt;您所有的變更將有機會導致工作區、元件庫或是專案被破壞！儲存的檔案將無法被將來穩定釋出的 LibrePCB 存取。我們強烈建議您在繼續之前先備份。若您有任何疑慮，請另行下載穩定發行的版本。&lt;/p&gt;&lt;p&gt;詳細資訊請參閱 LibrePCB 的&lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;您確定要冒著檔案被破壞的風險繼續嗎？&amp;lt;/p&amp;gt;</translation>
     </message>
 </context>
 </TS>
