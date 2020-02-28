@@ -4323,7 +4323,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="566"/>
         <source>Add &amp;Hole (NPTH)</source>
-        <translation>加入孔洞e (NPTH) (&amp;H)</translation>
+        <translation>加入孔洞 (NPTH) (&amp;H)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="578"/>
@@ -8560,7 +8560,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="116"/>
         <source>Merge PTH and NPTH drills into one file</source>
-        <translation>將合併 PTH 與 NPTH 鑽孔合併成單一檔案</translation>
+        <translation>將 PTH 與 NPTH 鑽孔合併成單一檔案</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="123"/>
