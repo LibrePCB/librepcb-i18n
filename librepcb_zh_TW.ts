@@ -153,12 +153,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="117"/>
         <source>Export PCB fabrication data (Gerber/Excellon) according the fabrication output settings of boards. Existing files will be overwritten.</source>
-        <translation>根據電路板的洗板資料設定值匯出 PCB 洗板資料 (Gerber/Excellon)。存在的檔案將被覆寫。</translation>
+        <translation>根據電路板的加工資料設定值匯出 PCB 加工資料 (Gerber/Excellon)。存在的檔案將被覆寫。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="122"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation>提供一個包含自訂設定檔的 *.lp 檔來覆寫 PCB 洗板資料設定。未設定則會使用專案中電路板的設定。</translation>
+        <translation>提供一個包含自訂設定檔的 *.lp 檔來覆寫 PCB 加工資料設定。未設定則會使用專案中電路板的設定。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="127"/>
@@ -2877,7 +2877,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="471"/>
         <source>Export PCB fabrication data...</source>
-        <translation>匯出洗板資料...</translation>
+        <translation>匯出加工資料...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="403"/>
@@ -7743,12 +7743,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="716"/>
         <source>&amp;Generate Fabrication Data</source>
-        <translation>產生洗板資料 (&amp;G)</translation>
+        <translation>產生加工資料 (&amp;G)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="719"/>
         <source>Generate Fabrication Data</source>
-        <translation>產生洗板資料</translation>
+        <translation>產生加工資料</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="727"/>
@@ -8535,7 +8535,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="17"/>
         <source>Fabrication Output Generator</source>
-        <translation>洗板資料產生器</translation>
+        <translation>加工資料產生器</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fabricationoutputdialog.ui" line="29"/>
