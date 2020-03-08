@@ -878,7 +878,7 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
 <context>
     <name>Uuid</name>
     <message>
-        <location filename="../libs/librepcb/common/uuid.cpp" line="69"/>
+        <location filename="../libs/librepcb/common/uuid.cpp" line="112"/>
         <source>String is not a valid UUID: &quot;%1&quot;</source>
         <translation>Řetězec není platný UUID: &quot;%1&quot;</translation>
     </message>

@@ -873,7 +873,7 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>Uuid</name>
     <message>
-        <location filename="../libs/librepcb/common/uuid.cpp" line="69"/>
+        <location filename="../libs/librepcb/common/uuid.cpp" line="112"/>
         <source>String is not a valid UUID: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
