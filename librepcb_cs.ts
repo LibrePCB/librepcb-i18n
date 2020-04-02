@@ -9908,12 +9908,12 @@ Chcete je před zavřením projektu uložit?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="78"/>
-        <source>Click here a add a locale</source>
+        <source>Click here to add a locale</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="103"/>
-        <source>Click here a add a norm</source>
+        <source>Click here to add a norm</source>
         <translation type="unfinished"/>
     </message>
     <message>
