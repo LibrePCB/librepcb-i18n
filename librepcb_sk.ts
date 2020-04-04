@@ -680,6 +680,23 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     </message>
 </context>
 <context>
+    <name>MsgNoPadsInDeviceConnected</name>
+    <message>
+        <location filename="../libs/librepcb/library/dev/msg/msgnopadsindeviceconnected.cpp" line="38"/>
+        <source>No pads connected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/library/dev/msg/msgnopadsindeviceconnected.cpp" line="39"/>
+        <source>The chosen package contains pads, but none of them are connected to component signals. So these pads have no electrical function and when adding the device to a PCB, no traces can be connected to them.
+
+To fix this issue, connect the package pads to their corresponding component signals in the table widget.
+
+If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>MsgOverlappingSymbolPins</name>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgoverlappingsymbolpins.cpp" line="43"/>
