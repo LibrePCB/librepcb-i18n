@@ -115,7 +115,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="89"/>
         <source>Run the electrical rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation>Esegui il controllo delle regole elettriche, stampa tutti gli avvisi/errori non approvati e segnala l&apos;errore (codice uscita = 1) se ci sono messaggi di non-approvazione.</translation>
+        <translation>Esegui il controllo delle regole elettriche, stampa tutti gli avvisi/errori non approvati e segnala l&apos;errore (codice uscita = 1) se ci sono messaggi non approvati.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
@@ -218,7 +218,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="696"/>
         <source>Save &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Salva &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="724"/>
@@ -913,12 +913,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/main.cpp" line="267"/>
         <source>Cannot open the workspace</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile aprire lo spazio di lavoro</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="268"/>
         <source>The workspace &quot;%1&quot; cannot be opened: %2</source>
-        <translation type="unfinished"/>
+        <translation>Lo spazio di lavoro &quot;%1&quot; non può essere aperto: &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
@@ -926,7 +926,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="93"/>
         <source>Undo: %1</source>
-        <translation type="unfinished"/>
+        <translation>Annulla: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="95"/>
@@ -946,27 +946,27 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="63"/>
         <source>Millimeters</source>
-        <translation type="unfinished"/>
+        <translation>Millimetri</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="65"/>
         <source>Micrometers</source>
-        <translation type="unfinished"/>
+        <translation>Micrometri</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="67"/>
         <source>Nanometers</source>
-        <translation type="unfinished"/>
+        <translation>Nanometri</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="69"/>
         <source>Inches</source>
-        <translation type="unfinished"/>
+        <translation>Pollici</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="71"/>
         <source>Mils</source>
-        <translation type="unfinished"/>
+        <translation>Mils</translation>
     </message>
 </context>
 <context>
@@ -1058,7 +1058,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/alignmentselector.ui" line="14"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
 </context>
 <context>
@@ -1066,7 +1066,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="76"/>
         <source>Removing temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>Rimozione cartelle temporanee</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="81"/>
@@ -1182,7 +1182,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="270"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="272"/>
@@ -1197,12 +1197,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="282"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Nuovo:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="285"/>
         <source>Add a new attribute</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi un nuovo attributo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="436"/>
@@ -1288,7 +1288,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="35"/>
         <source>Area:</source>
-        <translation type="unfinished"/>
+        <translation>Area:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="44"/>
@@ -1303,7 +1303,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="60"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>Larghezza pista</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="67"/>
@@ -1524,7 +1524,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="208"/>
         <source>Pin Names</source>
-        <translation type="unfinished"/>
+        <translation>Nome Pin</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="209"/>
@@ -1574,22 +1574,22 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="224"/>
         <source>Top Placement</source>
-        <translation type="unfinished"/>
+        <translation>Piazzamento Top</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="225"/>
         <source>Bot Placement</source>
-        <translation type="unfinished"/>
+        <translation>Piazzamento Bot</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="226"/>
         <source>Top Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Documentazione Top</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="227"/>
         <source>Bot Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Documentazione Bot</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="228"/>
@@ -1722,7 +1722,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="41"/>
         <source>No Grid</source>
-        <translation type="unfinished"/>
+        <translation>Nessuna griglia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="51"/>
@@ -1737,7 +1737,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="83"/>
         <source>Grid Parameter</source>
-        <translation type="unfinished"/>
+        <translation>Parametri griglia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="89"/>
@@ -1747,7 +1747,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="99"/>
         <source>In Nanometers:</source>
-        <translation type="unfinished"/>
+        <translation>In nanometri:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="116"/>
@@ -1775,17 +1775,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="38"/>
         <source>Align left</source>
-        <translation type="unfinished"/>
+        <translation>Allineare a sinistra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="44"/>
         <source>Align center</source>
-        <translation type="unfinished"/>
+        <translation>Centrare</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="50"/>
         <source>Align right</source>
-        <translation type="unfinished"/>
+        <translation>Allineare a destra</translation>
     </message>
 </context>
 <context>
@@ -1793,7 +1793,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.ui" line="14"/>
         <source>Hole Properties</source>
-        <translation type="unfinished"/>
+        <translation>Proprietà foro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.ui" line="22"/>
@@ -1855,7 +1855,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="168"/>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="241"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="177"/>
@@ -1882,7 +1882,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="222"/>
         <source>Too many redirects.</source>
-        <translation type="unfinished"/>
+        <translation>Troppi reindirizzamenti.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="229"/>
@@ -1902,7 +1902,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="274"/>
         <source>Request failed: %1</source>
-        <translation type="unfinished"/>
+        <translation>Richiesta fallita: %1</translation>
     </message>
 </context>
 <context>
@@ -1930,7 +1930,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="200"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Nuovo:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="204"/>
@@ -1958,7 +1958,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="35"/>
         <source>Area:</source>
-        <translation type="unfinished"/>
+        <translation>Area:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="44"/>
@@ -1973,7 +1973,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="60"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>Larghezza pista</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.cpp" line="110"/>
@@ -2053,12 +2053,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="38"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Testo:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="48"/>
         <source>Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>Allineamento:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="58"/>
@@ -2083,7 +2083,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="96"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Opzioni:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="105"/>
@@ -2132,12 +2132,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="38"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Testo:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="48"/>
         <source>Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>Allineamento:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="58"/>
@@ -2199,7 +2199,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="171"/>
         <source>Undo: %1</source>
-        <translation type="unfinished"/>
+        <translation>Annulla: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/undostack.cpp" line="172"/>
@@ -2244,7 +2244,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="44"/>
         <source>Align center</source>
-        <translation type="unfinished"/>
+        <translation>Centrare</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/valignactiongroup.cpp" line="49"/>
@@ -3151,7 +3151,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="233"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Nuovo:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsignallistmodel.cpp" line="236"/>
@@ -3246,7 +3246,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="380"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Nuovo:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="384"/>
@@ -3298,7 +3298,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="277"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Nuovo:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantlistmodel.cpp" line="281"/>
@@ -3364,7 +3364,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="244"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Nuovo:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/footprintlistmodel.cpp" line="247"/>
@@ -3442,7 +3442,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="200"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Nuovo:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/packagepadlistmodel.cpp" line="203"/>
@@ -3494,7 +3494,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorylisteditorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorylisteditorwidget.ui" line="50"/>
@@ -3576,7 +3576,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="20"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="32"/>
@@ -3669,7 +3669,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="184"/>
         <source>No component selected</source>
-        <translation type="unfinished"/>
+        <translation>Nessun componente selezionato</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="194"/>
@@ -3679,7 +3679,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="249"/>
         <source>Invalid Selection</source>
-        <translation type="unfinished"/>
+        <translation>Selezione non valida</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="250"/>
@@ -3692,7 +3692,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="74"/>
@@ -3856,7 +3856,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="76"/>
@@ -4396,7 +4396,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="740"/>
         <source>&amp;Save &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>%Salva &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4425,7 +4425,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="56"/>
@@ -4438,7 +4438,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="45"/>
@@ -4864,7 +4864,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="115"/>
         <source>No component selected</source>
-        <translation type="unfinished"/>
+        <translation>Nessun componente selezionato</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="143"/>
@@ -4975,7 +4975,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.ui" line="20"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.ui" line="32"/>
@@ -5078,7 +5078,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="229"/>
         <source>Invalid Selection</source>
-        <translation type="unfinished"/>
+        <translation>Selezione non valida</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="230"/>
@@ -5159,12 +5159,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="88"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>Larghezza pista</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="96"/>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Riempire</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="102"/>
@@ -5194,7 +5194,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="92"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>Larghezza pista</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="101"/>
@@ -5204,7 +5204,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="111"/>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Riempire</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="119"/>
@@ -5235,7 +5235,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="94"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Testo:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="117"/>
@@ -5310,7 +5310,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="85"/>
@@ -5426,7 +5426,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="228"/>
         <source>Invalid Selection</source>
-        <translation type="unfinished"/>
+        <translation>Selezione non valida</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="229"/>
@@ -5469,12 +5469,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="88"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>Larghezza pista</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="96"/>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Riempire</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="102"/>
@@ -5504,7 +5504,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="92"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>Larghezza pista</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="101"/>
@@ -5514,7 +5514,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="111"/>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Riempire</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="119"/>
@@ -5545,7 +5545,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="88"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Testo:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="107"/>
@@ -5610,7 +5610,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.ui" line="94"/>
@@ -5711,7 +5711,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="39"/>
@@ -6327,7 +6327,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="478"/>
         <source>Min. hole diameter: %1</source>
         <comment>Placeholder is drill diameter</comment>
-        <translation type="unfinished"/>
+        <translation>Diametro minimo del foro: %1</translation>
     </message>
 </context>
 <context>
@@ -6401,7 +6401,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardnetlineedit.cpp" line="38"/>
         <source>Edit trace</source>
-        <translation type="unfinished"/>
+        <translation>Modifica pista</translation>
     </message>
 </context>
 <context>
@@ -7020,12 +7020,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="427"/>
         <source>No component selected</source>
-        <translation type="unfinished"/>
+        <translation>Nessun componente selezionato</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.ui" line="108"/>
         <source>Variant:</source>
-        <translation type="unfinished"/>
+        <translation>Variante:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="498"/>
@@ -7042,7 +7042,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="539"/>
         <source>Invalid Selection</source>
-        <translation type="unfinished"/>
+        <translation>Selezione non valida</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="540"/>
@@ -7104,7 +7104,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="121"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Testo:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="140"/>
@@ -7144,7 +7144,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="156"/>
         <source>Signal:</source>
-        <translation type="unfinished"/>
+        <translation>Segnale:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="190"/>
@@ -7166,7 +7166,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="103"/>
         <source>Signal:</source>
-        <translation type="unfinished"/>
+        <translation>Segnale:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="127"/>
@@ -7343,12 +7343,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="447"/>
         <source>Visible</source>
-        <translation type="unfinished"/>
+        <translation>Visibile</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="452"/>
         <source>Plane Properties</source>
-        <translation type="unfinished"/>
+        <translation>Proprietà dei paini</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="794"/>
@@ -7361,22 +7361,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="14"/>
         <source>Design Rule Check</source>
-        <translation type="unfinished"/>
+        <translation>Design Rule Check</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="24"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opzioni</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="30"/>
         <source>Clearance Copper to Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Distanza Rame-Rame</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="37"/>
         <source>Clearance Copper to Board Edge:</source>
-        <translation type="unfinished"/>
+        <translation>Distanza Rame-Bordo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="44"/>
@@ -7421,12 +7421,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="138"/>
         <source>Run DRC</source>
-        <translation type="unfinished"/>
+        <translation>Eseguire DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="156"/>
         <source>Messages</source>
-        <translation type="unfinished"/>
+        <translation>Messaggi:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.cpp" line="124"/>
@@ -7439,7 +7439,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="17"/>
         <source>DRC</source>
-        <translation type="unfinished"/>
+        <translation>DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="42"/>
@@ -7450,7 +7450,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.cpp" line="73"/>
         <source>DRC [%1]</source>
         <comment>Number of messages</comment>
-        <translation type="unfinished"/>
+        <translation>DRC [%1]</translation>
     </message>
 </context>
 <context>
@@ -7508,7 +7508,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="205"/>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="219"/>
@@ -7518,7 +7518,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="251"/>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Cerca</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="262"/>
@@ -7548,7 +7548,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="323"/>
         <source>&amp;Print</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Stampa</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="335"/>
@@ -7799,7 +7799,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="885"/>
         <source>Design Rule Check</source>
-        <translation type="unfinished"/>
+        <translation>Design Rule Check</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="897"/>
@@ -7967,7 +7967,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.ui" line="14"/>
         <source>Plane Properties</source>
-        <translation type="unfinished"/>
+        <translation>Proprietà dei paini</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.ui" line="25"/>
@@ -8007,7 +8007,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.ui" line="79"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Opzioni:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.cpp" line="88"/>
@@ -9193,7 +9193,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="160"/>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="177"/>
@@ -9208,7 +9208,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="210"/>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Cerca</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="221"/>
@@ -9253,7 +9253,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="329"/>
         <source>&amp;Print</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Stampa</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="341"/>
