@@ -9,7 +9,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="123"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
-        <translation>Tipo di attributo invalido: &quot;%1&quot;</translation>
+        <translation>Tipo di attributo non valido: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -17,12 +17,12 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="38"/>
         <source>LibrePCB Default Design Rules</source>
-        <translation>Regole di Disegno Predefinite LibrePCB</translation>
+        <translation>Regole LibrePCB di design predefinite </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="126"/>
         <source>Invalid design rules: %1</source>
-        <translation>Regole di disegno invalide: %1</translation>
+        <translation>Regole di design non valide: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="144"/>
@@ -183,7 +183,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="142"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
-        <translation>Esegui le azioni selezionate sugli elementi contenuti nella libreria aperta.</translation>
+        <translation>Esegui le azioni selezionate su tutti gli elementi contenuti nella libreria aperta.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="145"/>
@@ -313,7 +313,7 @@
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="66"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="71"/>
         <source>Could not write to file &quot;%1&quot;: %2</source>
-        <translation>non è possibile scrivere nel file &quot;%1&quot;: %2</translation>
+        <translation>Non è possibile scrivere nel file &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="85"/>
@@ -5937,7 +5937,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="66"/>
@@ -6022,7 +6022,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="125"/>
         <source>Remove Library</source>
-        <translation>Libreria remota</translation>
+        <translation>Cancella libreria</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="127"/>
@@ -6044,7 +6044,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.ui" line="20"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.cpp" line="68"/>
@@ -6085,7 +6085,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="14"/>
         <source>Form</source>
-        <translation>Da</translation>
+        <translation>Scheda</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="50"/>
