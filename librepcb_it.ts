@@ -1110,7 +1110,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypepower.cpp" line="39"/>
         <source>Power</source>
-        <translation type="unfinished"/>
+        <translation>Potenza</translation>
     </message>
 </context>
 <context>
@@ -1249,7 +1249,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.cpp" line="143"/>
         <source>Could not apply settings</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile applicare le impostazioni</translation>
     </message>
 </context>
 <context>
@@ -1358,12 +1358,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="127"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Modifica</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="132"/>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Copia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="137"/>
@@ -1383,7 +1383,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="152"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi</translation>
     </message>
 </context>
 <context>
@@ -4019,7 +4019,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="171"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Modifica</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="193"/>
@@ -4527,7 +4527,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="351"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Modifica</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="354"/>
@@ -7720,7 +7720,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="217"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Modifica</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="237"/>
@@ -9419,7 +9419,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="170"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Modifica</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="191"/>
@@ -9938,7 +9938,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="116"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="123"/>
