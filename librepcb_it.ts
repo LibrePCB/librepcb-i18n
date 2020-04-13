@@ -57,7 +57,7 @@
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="91"/>
         <source>Failed to intersect paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile intersecare i percorsi: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="105"/>
