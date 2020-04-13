@@ -1081,7 +1081,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="99"/>
         <source>Renaming temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>Rinominare la cartella temporanea ...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="103"/>
@@ -1091,7 +1091,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="113"/>
         <source>Failed to copy files:</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile copiare i file:</translation>
     </message>
 </context>
 <context>
@@ -1131,7 +1131,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypepower.cpp" line="39"/>
         <source>Power</source>
-        <translation type="unfinished"/>
+        <translation>Potenza</translation>
     </message>
 </context>
 <context>
