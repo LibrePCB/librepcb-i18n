@@ -374,7 +374,7 @@
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="222"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid length unit: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -991,7 +991,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/utils/mathparser.cpp" line="67"/>
         <source>Failed to parse expression:</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to parse expression:</translation>
     </message>
 </context>
 <context>
@@ -1841,17 +1841,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="63"/>
         <source>Enter numeric expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter numeric expression</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="270"/>
         <source>internal</source>
-        <translation type="unfinished"></translation>
+        <translation>internal</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="273"/>
         <source>default</source>
-        <translation type="unfinished">default</translation>
+        <translation>default</translation>
     </message>
 </context>
 <context>
