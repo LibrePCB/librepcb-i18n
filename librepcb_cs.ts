@@ -1286,7 +1286,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation>Upravit šířku mezikruží přechodů:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.cpp" line="163"/>
+        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.cpp" line="166"/>
         <source>Could not apply settings</source>
         <translation>Nastavenie se nepodařilo použít</translation>
     </message>
@@ -1794,7 +1794,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation>Poloha:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.cpp" line="98"/>
+        <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.cpp" line="101"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -2054,73 +2054,73 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation>Vlastnosti textu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="22"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="42"/>
         <source>Layer:</source>
         <translation>Vrstva:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="38"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="28"/>
         <source>Text:</source>
         <translation>Text:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="48"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="52"/>
         <source>Alignment:</source>
         <translation>Zarovnání:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="58"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="62"/>
         <source>Height:</source>
         <translation>Výška:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="65"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="124"/>
         <source>Position:</source>
         <translation>Poloha:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="82"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="141"/>
         <source>Rotation:</source>
         <translation>Otočení:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="89"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="72"/>
         <source>Stroke Width:</source>
         <translation>Šířka:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="96"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="151"/>
         <source>Options:</source>
         <translation>Volby:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="105"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="160"/>
         <source>Mirror</source>
         <translation>Zrcadlení</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="112"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="167"/>
         <source>Auto-Rotate</source>
         <translation>Automatické otáčení</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="126"/>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="154"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="94"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="115"/>
         <source>Auto</source>
         <translation>Automaticky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="135"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="103"/>
         <source>Line Spacing:</source>
         <translation>Vzdálenost mezi řádky:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="142"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="82"/>
         <source>Letter Spacing:</source>
         <translation>Vzdálenost mezi znaky:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.cpp" line="164"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.cpp" line="168"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -2133,37 +2133,37 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation>Vlastnosti textu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="22"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="42"/>
         <source>Layer:</source>
         <translation>Vrstva:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="38"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="28"/>
         <source>Text:</source>
         <translation>Text:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="48"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="52"/>
         <source>Alignment:</source>
         <translation>Zarovnání:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="58"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="62"/>
         <source>Height:</source>
         <translation>Výška:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="65"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="72"/>
         <source>Position:</source>
         <translation>Poloha:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="82"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="89"/>
         <source>Rotation:</source>
         <translation>Otočení:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.cpp" line="118"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.cpp" line="122"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -8424,7 +8424,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <translation>Hodnota:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="255"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="258"/>
         <source>Attributes</source>
         <translation>Atributy</translation>
     </message>
@@ -8952,7 +8952,7 @@ Chcete je před zavřením projektu uložit?</translation>
         <translation>Atributy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/projectpropertieseditordialog.cpp" line="102"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/projectpropertieseditordialog.cpp" line="105"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -9646,7 +9646,7 @@ Chcete je před zavřením projektu uložit?</translation>
         <translation>Hodnota:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="266"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="269"/>
         <source>Attributes</source>
         <translation>Atributy</translation>
     </message>

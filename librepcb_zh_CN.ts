@@ -1282,7 +1282,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.cpp" line="163"/>
+        <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.cpp" line="166"/>
         <source>Could not apply settings</source>
         <translation>无法应用设置</translation>
     </message>
@@ -1790,7 +1790,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation>位置:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.cpp" line="98"/>
+        <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.cpp" line="101"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -2050,73 +2050,73 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="22"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="42"/>
         <source>Layer:</source>
         <translation>层:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="38"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="28"/>
         <source>Text:</source>
         <translation>文本:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="48"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="52"/>
         <source>Alignment:</source>
         <translation>对齐:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="58"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="62"/>
         <source>Height:</source>
         <translation>高度:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="65"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="124"/>
         <source>Position:</source>
         <translation>位置:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="82"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="141"/>
         <source>Rotation:</source>
         <translation>旋转:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="89"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="72"/>
         <source>Stroke Width:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="96"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="151"/>
         <source>Options:</source>
         <translation>选项:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="105"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="160"/>
         <source>Mirror</source>
         <translation>镜像</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="112"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="167"/>
         <source>Auto-Rotate</source>
         <translation>自动旋转</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="126"/>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="154"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="94"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="115"/>
         <source>Auto</source>
         <translation>自动</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="135"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="103"/>
         <source>Line Spacing:</source>
         <translation>线间间距:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="142"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.ui" line="82"/>
         <source>Letter Spacing:</source>
         <translation>文字间距:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.cpp" line="164"/>
+        <location filename="../libs/librepcb/common/dialogs/stroketextpropertiesdialog.cpp" line="168"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -2129,37 +2129,37 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation>文字属性</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="22"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="42"/>
         <source>Layer:</source>
         <translation>层:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="38"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="28"/>
         <source>Text:</source>
         <translation>文本:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="48"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="52"/>
         <source>Alignment:</source>
         <translation>对齐:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="58"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="62"/>
         <source>Height:</source>
         <translation>高度:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="65"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="72"/>
         <source>Position:</source>
         <translation>位置:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="82"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.ui" line="89"/>
         <source>Rotation:</source>
         <translation>旋转:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.cpp" line="118"/>
+        <location filename="../libs/librepcb/common/dialogs/textpropertiesdialog.cpp" line="122"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -8388,7 +8388,7 @@ You need at least LibrePCB %1 to open it.
         <translation>值:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="255"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="258"/>
         <source>Attributes</source>
         <translation>属性</translation>
     </message>
@@ -8913,7 +8913,7 @@ Do you want to save them before closing the project?</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/projectpropertieseditordialog.cpp" line="102"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/projectpropertieseditordialog.cpp" line="105"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -9603,7 +9603,7 @@ Do you want to save them before closing the project?</source>
         <translation>值:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="266"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.ui" line="269"/>
         <source>Attributes</source>
         <translation>属性</translation>
     </message>
