@@ -4,7 +4,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="75"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Tipo di attributo invalido: &quot;%1&quot;: &quot;%2&quot; </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="123"/>
@@ -52,7 +52,7 @@
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="58"/>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="72"/>
         <source>Failed to unite paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile unire i percorsi: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="91"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="105"/>
         <source>Failed to subtract paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile sottrare i percorsi: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="117"/>
@@ -228,12 +228,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="203"/>
         <source>LibrePCB CLI Version %1</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB CLI Versione %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="167"/>
         <source>Path to project file (*.lpp[z]).</source>
-        <translation type="unfinished"/>
+        <translation>Percorso del progetto (*.lpp[z]).  </translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="204"/>
@@ -248,7 +248,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="207"/>
         <source>Built at %1</source>
-        <translation type="unfinished"/>
+        <translation>Costruito con %1 </translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="233"/>
@@ -297,7 +297,7 @@
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="41"/>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="81"/>
         <source>The file &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Il percorso &quot;%1&quot; non esiste.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="47"/>
@@ -2308,7 +2308,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="438"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>File</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="450"/>
@@ -2333,7 +2333,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="503"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>Informazioni su LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="592"/>
@@ -4147,7 +4147,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="155"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>File</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="171"/>
@@ -4157,42 +4157,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="193"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Vista</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="208"/>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Flitro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="219"/>
         <source>Command</source>
-        <translation type="unfinished"/>
+        <translation>Comandi </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="232"/>
         <source>Tools</source>
-        <translation type="unfinished"/>
+        <translation>Utensili</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="261"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>Informazioni su LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="272"/>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"/>
+        <translation>Informazioni su Qt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="287"/>
         <source>&amp;Close Library Editor</source>
-        <translation type="unfinished"/>
+        <translation>Chiudi Editore Libreria </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="299"/>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>Nuovo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="602"/>
@@ -6910,7 +6910,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="91"/>
         <source>The file &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Il percorso &quot;%1&quot; non esiste.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="102"/>
@@ -7505,7 +7505,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="182"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>File</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="205"/>
@@ -7525,17 +7525,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="262"/>
         <source>Tools</source>
-        <translation type="unfinished"/>
+        <translation>Utensili</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="283"/>
         <source>Command</source>
-        <translation type="unfinished"/>
+        <translation>Comandi </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="239"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Vista</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="299"/>
@@ -7665,12 +7665,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="586"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>Informazioni su LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="597"/>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"/>
+        <translation>Informazioni su Qt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="612"/>
@@ -9190,7 +9190,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="134"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>File</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="160"/>
@@ -9205,7 +9205,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="198"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Vista</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="210"/>
@@ -9215,12 +9215,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="221"/>
         <source>Tools</source>
-        <translation type="unfinished"/>
+        <translation>Utensili</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="239"/>
         <source>Command</source>
-        <translation type="unfinished"/>
+        <translation>Comandi </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="255"/>
@@ -9245,12 +9245,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="303"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>Informazioni su LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="314"/>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"/>
+        <translation>Informazioni su Qt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="329"/>
