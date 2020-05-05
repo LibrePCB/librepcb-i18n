@@ -1109,7 +1109,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="113"/>
         <source>Failed to copy files:</source>
-        <translation type="unfinished"/>
+        <translation>Nepodařilo se kopírovat soubory:</translation>
     </message>
 </context>
 <context>
