@@ -52,22 +52,22 @@
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="58"/>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="72"/>
         <source>Failed to unite paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>Neúspešné spojenie cesty: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="91"/>
         <source>Failed to intersect paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>Neúspešné rozdelenie cesty: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="105"/>
         <source>Failed to subtract paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>Neúspešné skrátenie cesty: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="117"/>
         <source>Failed to offset a path: %1</source>
-        <translation type="unfinished"/>
+        <translation>Neúspešné nahradenie cesty: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="291"/>
@@ -4398,7 +4398,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="143"/>
         <source>Filter elements</source>
-        <translation type="unfinished"/>
+        <translation>Filter elementov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="150"/>
@@ -4459,7 +4459,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="56"/>
         <source>Click here a add a new dependency</source>
-        <translation type="unfinished"/>
+        <translation>Kliknite sem pre pridanie novej závislosti</translation>
     </message>
 </context>
 <context>
