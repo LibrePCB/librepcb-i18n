@@ -4459,7 +4459,7 @@ Chcete je před zavřením uložit?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="56"/>
         <source>Click here a add a new dependency</source>
-        <translation type="unfinished"/>
+        <translation>Klepněte sem pro přidání nové závislosti</translation>
     </message>
 </context>
 <context>
