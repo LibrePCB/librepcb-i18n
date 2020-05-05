@@ -7855,12 +7855,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="909"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="573"/>
         <source>SVG Export</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať do SVG</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="250"/>
         <source>Find device...</source>
-        <translation type="unfinished"/>
+        <translation>Vyhľadať prvok...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="259"/>
@@ -9285,7 +9285,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="803"/>
         <source>Export sheet to SVG</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať list schémy do SVG</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="291"/>
@@ -9511,7 +9511,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="450"/>
         <source>SVG Export</source>
-        <translation type="unfinished"/>
+        <translation>Exportovanie do SVG</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="577"/>
@@ -9551,7 +9551,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="207"/>
         <source>Find symbol...</source>
-        <translation type="unfinished"/>
+        <translation>Vyhľadať komponent...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="368"/>
