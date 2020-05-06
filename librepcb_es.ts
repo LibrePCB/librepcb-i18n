@@ -8262,7 +8262,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdremoveboarditems.cpp" line="65"/>
         <source>Remove Board Items</source>
-        <translation type="unfinished"/>
+        <translation>Quitar elementos de placa</translation>
     </message>
 </context>
 <context>
@@ -8270,7 +8270,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdremoveselectedboarditems.cpp" line="46"/>
         <source>Remove Board Items</source>
-        <translation type="unfinished"/>
+        <translation>Quitar elementos de placa</translation>
     </message>
 </context>
 <context>
