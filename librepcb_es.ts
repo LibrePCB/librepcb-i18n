@@ -756,7 +756,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgwrongsymboltextlayer.cpp" line="42"/>
         <source>Layer of &apos;%1&apos; is not &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>La capa de «%1» no es «%2»</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgwrongsymboltextlayer.cpp" line="44"/>
@@ -813,22 +813,22 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="72"/>
         <source>Unknown node type.</source>
-        <translation type="unfinished"/>
+        <translation>Tipo de nodo desconocido.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="97"/>
         <source>Node is not a list.</source>
-        <translation type="unfinished"/>
+        <translation>El nodo no es una lista.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="104"/>
         <source>Node is not a token or string.</source>
-        <translation type="unfinished"/>
+        <translation>El nodo no es una ficha ni una cadena.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="108"/>
         <source>Node value is empty.</source>
-        <translation type="unfinished"/>
+        <translation>El valor del nodo está vacío.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="127"/>
@@ -857,7 +857,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/font/strokefontpool.cpp" line="67"/>
         <source>The font &quot;%1&quot; does not exist in the font pool.</source>
-        <translation type="unfinished"/>
+        <translation>El tipo de letra «%1» no está incluido en el grupo de tipos de letra.</translation>
     </message>
 </context>
 <context>
@@ -1023,17 +1023,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="223"/>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>Donar</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="246"/>
         <source>Contribute Code</source>
-        <translation type="unfinished"/>
+        <translation>Contribuir con código</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="269"/>
         <source>Spread The Word</source>
-        <translation type="unfinished"/>
+        <translation>Difundir</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="276"/>
@@ -1043,12 +1043,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="302"/>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Detalles</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="333"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Copiar en portapapeles</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="62"/>
@@ -1120,7 +1120,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypecurrent.cpp" line="39"/>
         <source>Current</source>
-        <translation type="unfinished"/>
+        <translation>Corriente</translation>
     </message>
 </context>
 <context>
@@ -1128,7 +1128,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypefrequency.cpp" line="39"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frecuencia</translation>
     </message>
 </context>
 <context>
@@ -1136,7 +1136,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypeinductance.cpp" line="39"/>
         <source>Inductance</source>
-        <translation type="unfinished"/>
+        <translation>Inductancia</translation>
     </message>
 </context>
 <context>
@@ -1144,7 +1144,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypepower.cpp" line="39"/>
         <source>Power</source>
-        <translation type="unfinished"/>
+        <translation>Energía</translation>
     </message>
 </context>
 <context>
@@ -1168,7 +1168,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypevoltage.cpp" line="39"/>
         <source>Voltage</source>
-        <translation type="unfinished"/>
+        <translation>Voltaje</translation>
     </message>
 </context>
 <context>
@@ -2323,32 +2323,32 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="477"/>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Salir</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="488"/>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>Acerca de Qt</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="503"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Acerca de LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="592"/>
         <source>Rescan Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Reanalizar bibliotecas</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="604"/>
         <source>Online Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Documentación en línea</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="616"/>
         <source>LibrePCB Website</source>
-        <translation type="unfinished"/>
+        <translation>Sitio web de LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="538"/>
@@ -2364,17 +2364,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="565"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="568"/>
         <source>Open Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>Abrir gestor de bibliotecas</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="580"/>
         <source>Close all open projects</source>
-        <translation type="unfinished"/>
+        <translation>Cerrar todos los proyectos abiertos</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="74"/>
         <source>Control Panel - LibrePCB %1</source>
-        <translation type="unfinished"/>
+        <translation>Panel de control • LibrePCB %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="79"/>
@@ -2384,18 +2384,18 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="84"/>
         <source>Scanning libraries (%p%)</source>
-        <translation type="unfinished"/>
+        <translation>Analizando bibliotecas (%p %)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="279"/>
         <source>Could not create project</source>
-        <translation type="unfinished"/>
+        <translation>No se pudo crear el proyecto</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="306"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="337"/>
         <source>Could not open project</source>
-        <translation type="unfinished"/>
+        <translation>No se pudo abrir el proyecto</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="384"/>
@@ -2417,7 +2417,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="494"/>
         <source>LibrePCB project files (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Archivos de proyecto de LibrePCB (%1)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="529"/>
@@ -2432,7 +2432,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="591"/>
         <source>Close Project</source>
-        <translation type="unfinished"/>
+        <translation>Cerrar proyecto</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="597"/>
@@ -2457,13 +2457,13 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="609"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="618"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="651"/>
         <source>New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Carpeta nueva</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="623"/>
@@ -2500,7 +2500,7 @@ Warning: This cannot be undone!</source>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_welcome.ui" line="14"/>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_welcome.ui" line="17"/>
         <source>Welcome to LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>Le damos la bienvenida a LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_welcome.ui" line="20"/>
@@ -2510,7 +2510,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_welcome.ui" line="26"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600;&quot;&gt;Welcome To LibrePCB&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600;&quot;&gt;Le damos la bienvenida a LibrePCB&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_welcome.ui" line="43"/>
@@ -2650,17 +2650,17 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="26"/>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Idioma:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="40"/>
         <source>Length Unit:</source>
-        <translation type="unfinished"/>
+        <translation>Unidad de longitud:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="54"/>
         <source>User Name:</source>
-        <translation type="unfinished"/>
+        <translation>Nombre de usuario:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="66"/>
@@ -2675,12 +2675,12 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="53"/>
         <source>System Language</source>
-        <translation type="unfinished"/>
+        <translation>Idioma del sistema</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="71"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="109"/>
@@ -2709,7 +2709,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="43"/>
         <source>Source:</source>
-        <translation type="unfinished"/>
+        <translation>Fuente:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="80"/>
@@ -4066,7 +4066,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.ui" line="131"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Tamaño:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.ui" line="148"/>
@@ -4177,7 +4177,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="261"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Acerca de LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="272"/>
@@ -4352,12 +4352,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="662"/>
         <source>Online Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Documentación en línea</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="674"/>
         <source>LibrePCB Website</source>
-        <translation type="unfinished"/>
+        <translation>Sitio web de LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="134"/>
@@ -4377,7 +4377,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="150"/>
         <source>Scanning libraries (%p%)</source>
-        <translation type="unfinished"/>
+        <translation>Analizando bibliotecas (%p %)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="557"/>
@@ -4411,7 +4411,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/libraryelementchecklistwidget.h" line="108"/>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Detalles</translation>
     </message>
 </context>
 <context>
@@ -5126,7 +5126,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="127"/>
         <source>Width:</source>
-        <translation type="unfinished"/>
+        <translation>Anchura:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="137"/>
@@ -7136,7 +7136,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="130"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Tamaño:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="142"/>
@@ -7200,7 +7200,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="114"/>
         <source>Width:</source>
-        <translation type="unfinished"/>
+        <translation>Anchura:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="126"/>
@@ -7231,7 +7231,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="158"/>
         <source>Width:</source>
-        <translation type="unfinished"/>
+        <translation>Anchura:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="337"/>
@@ -7585,12 +7585,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="407"/>
         <source>Online Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Documentación en línea</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="419"/>
         <source>LibrePCB Website</source>
-        <translation type="unfinished"/>
+        <translation>Sitio web de LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="431"/>
@@ -7665,7 +7665,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="586"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Acerca de LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="597"/>
@@ -7822,7 +7822,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="259"/>
         <source>Scanning libraries (%p%)</source>
-        <translation type="unfinished"/>
+        <translation>Analizando bibliotecas (%p %)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
@@ -8014,7 +8014,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.cpp" line="91"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.cpp" line="94"/>
@@ -8131,7 +8131,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="68"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="100"/>
@@ -9075,7 +9075,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_drawwire.cpp" line="145"/>
         <source>Width:</source>
-        <translation type="unfinished"/>
+        <translation>Anchura:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/ses_drawwire.cpp" line="327"/>
@@ -9245,7 +9245,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="303"/>
         <source>&amp;About LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Acerca de LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="314"/>
@@ -9300,12 +9300,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="440"/>
         <source>Online Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Documentación en línea</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="452"/>
         <source>LibrePCB Website</source>
-        <translation type="unfinished"/>
+        <translation>Sitio web de LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="464"/>
@@ -9456,7 +9456,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="216"/>
         <source>Scanning libraries (%p%)</source>
-        <translation type="unfinished"/>
+        <translation>Analizando bibliotecas (%p %)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="450"/>
@@ -9773,7 +9773,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="90"/>
         <source>User Name:</source>
-        <translation type="unfinished"/>
+        <translation>Nombre de usuario:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="108"/>
@@ -9846,7 +9846,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="60"/>
         <source>System Language</source>
-        <translation type="unfinished"/>
+        <translation>Idioma del sistema</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="78"/>
