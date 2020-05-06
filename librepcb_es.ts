@@ -4,12 +4,12 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="75"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Unidad desconocida del tipo de atributo «%1»: «%2»</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributetype.cpp" line="123"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Tipo de atributo no válido: «%1»</translation>
     </message>
 </context>
 <context>
@@ -17,12 +17,12 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="38"/>
         <source>LibrePCB Default Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Reglas de diseño predeterminadas de LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="126"/>
         <source>Invalid design rules: %1</source>
-        <translation type="unfinished"/>
+        <translation>Reglas de diseño no válidas: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="144"/>
@@ -52,22 +52,22 @@
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="58"/>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="72"/>
         <source>Failed to unite paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>No se pudieron unir las rutas: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="91"/>
         <source>Failed to intersect paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>No se pudieron intersecar las rutas: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="105"/>
         <source>Failed to subtract paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>No se pudieron restar las rutas: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="117"/>
         <source>Failed to offset a path: %1</source>
-        <translation type="unfinished"/>
+        <translation>No se pudo desplazar una ruta: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="291"/>
@@ -85,32 +85,32 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="71"/>
         <source>open-project [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>open-project [opciones_de_la_orden]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="73"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Abrir una biblioteca para ejecutar tareas relacionadas con esta.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="74"/>
         <source>open-library [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>open-library [opciones_de_la_orden]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="79"/>
         <source>LibrePCB Command Line Interface</source>
-        <translation type="unfinished"/>
+        <translation>Interfaz de línea de órdenes de LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="82"/>
         <source>Verbose output.</source>
-        <translation type="unfinished"/>
+        <translation>Salida detallada.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="84"/>
         <source>The command to execute.</source>
-        <translation type="unfinished"/>
+        <translation>La orden que ejecutar.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="89"/>
@@ -128,7 +128,7 @@
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="109"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="126"/>
         <source>file</source>
-        <translation type="unfinished"/>
+        <translation>archivo</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="100"/>
@@ -148,7 +148,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="115"/>
         <source>attributes</source>
-        <translation type="unfinished"/>
+        <translation>atributos</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="118"/>
@@ -168,12 +168,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="131"/>
         <source>name</source>
-        <translation type="unfinished"/>
+        <translation>nombre</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="134"/>
         <source>Save project before closing it (useful to upgrade file format).</source>
-        <translation type="unfinished"/>
+        <translation>Guardar el proyecto antes de cerrarlo (útil para actualizar el formato de archivo).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
@@ -183,7 +183,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="142"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
-        <translation type="unfinished"/>
+        <translation>Efectuar las acciones seleccionadas en todos los elementos contenidos en la biblioteca abierta.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="145"/>
@@ -193,12 +193,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="148"/>
         <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
-        <translation type="unfinished"/>
+        <translation>Fallar si los archivos abiertos no son estrictamente canónicos; esto es, si se producirían cambios al guardar los elementos de la biblioteca.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="183"/>
         <source>Path to library directory (*.lplib).</source>
-        <translation type="unfinished"/>
+        <translation>Ruta al directorio de la biblioteca (*.lplib).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="188"/>
