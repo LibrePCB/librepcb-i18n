@@ -17,32 +17,32 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="38"/>
         <source>LibrePCB Default Design Rules</source>
-        <translation>LibrePCB 默认设计规则</translation>
+        <translation>LibrePCB 默认的设计规则</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="126"/>
         <source>Invalid design rules: %1</source>
-        <translation>设计规则无效：%1</translation>
+        <translation>无效的设计规则：%1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="144"/>
         <source>Stop mask clearance: MAX must be &gt;= MIN</source>
-        <translation>停止屏蔽间隙：MAX 必须  &gt;=  MIN</translation>
+        <translation>阻焊遮罩安全间距：最大值必须  &gt;=  最小值</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="155"/>
         <source>Cream mask clearance: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>锡膏遮罩安全间距：最大值必须 &gt;= 最小值</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="166"/>
         <source>Restring pads: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>焊盘环宽：最大值必须 &gt;= 最小值</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="177"/>
         <source>Restring vias: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>过孔环宽：最大值必须 &gt;= 最小值</translation>
     </message>
 </context>
 <context>
@@ -52,22 +52,22 @@
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="58"/>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="72"/>
         <source>Failed to unite paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>路径合并失败: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="91"/>
         <source>Failed to intersect paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>路径相交失败: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="105"/>
         <source>Failed to subtract paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>路径相减失败: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="117"/>
         <source>Failed to offset a path: %1</source>
-        <translation type="unfinished"/>
+        <translation>路径位移失败: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="291"/>
@@ -80,27 +80,27 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="70"/>
         <source>Open a project to execute project-related tasks.</source>
-        <translation>打开项目以执行与项目相关的任务。</translation>
+        <translation>打开项目以进行与项目相关的工作。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="71"/>
         <source>open-project [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>打开项目 [指令选项]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="73"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>打开元件库以进行与元件库相关的工作。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="74"/>
         <source>open-library [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>打开元件库 [指令选项]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="79"/>
         <source>LibrePCB Command Line Interface</source>
-        <translation>LibrePCB 命令行接口</translation>
+        <translation>LibrePCB 命令行界面</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="82"/>
@@ -806,7 +806,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/quazip/quazip/quazipfile.cpp" line="249"/>
         <source>ZIP/UNZIP API error %1</source>
-        <translation type="unfinished"/>
+        <translation>压缩/解压缩应用程序接口错误 %1</translation>
     </message>
 </context>
 <context>
@@ -9875,7 +9875,9 @@ Do you want to save them before closing the project?</source>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
-        <translation type="unfinished"/>
+        <translation>请问您确认要初始化所有设置到默认值？
+
+注意：该操作会被立即应用并且无法回退！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="278"/>
