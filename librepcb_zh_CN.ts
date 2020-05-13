@@ -4439,7 +4439,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/librarylisteditorwidget.cpp" line="56"/>
         <source>Click here a add a new dependency</source>
-        <translation type="unfinished"/>
+        <translation>单击此处添加新的依赖项</translation>
     </message>
 </context>
 <context>
@@ -4537,7 +4537,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="322"/>
         <source>Click here to choose an icon (PNG, 256x256px).</source>
-        <translation type="unfinished"/>
+        <translation>单击此处选择一个图标（PNG，256x256px）。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="157"/>
@@ -9858,7 +9858,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="78"/>
         <source>Click here to add a locale</source>
-        <translation type="unfinished"/>
+        <translation>单击此处添加区域设置</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="103"/>
@@ -9898,7 +9898,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="184"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;&lt;b&gt;注意：该应用非稳定版！&lt;/b&gt;&lt;/p&gt;&lt;p&gt;只要您使用了此应用，就有可能破坏你的工作区、库或项目！保存的文件也可能无法使用稳定版的LibrePCB打开。非常建议您在进行任何操作前进行备份。如果您自己没把握，请下载官方最新的稳定版本。&lt;/p&gt;&lt;p&gt;更多详情，请阅读LibrePCB的&lt;a href=&quot;%1&quot;&gt;版本控制文档&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;您真的确认继续操作并承担文件损坏的风险吗？！&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>
