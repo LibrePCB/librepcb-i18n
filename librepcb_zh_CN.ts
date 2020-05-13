@@ -32,17 +32,17 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="155"/>
         <source>Cream mask clearance: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>锡膏遮罩间隙：最大值 必须 &gt;= 最小值</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="166"/>
         <source>Restring pads: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>焊盘环宽：最大值必须 &gt;= 最小值</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="177"/>
         <source>Restring vias: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>过孔环宽：最大值必须 &gt;= 最小值</translation>
     </message>
 </context>
 <context>
@@ -52,22 +52,22 @@
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="58"/>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="72"/>
         <source>Failed to unite paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>路径合并失败: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="91"/>
         <source>Failed to intersect paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>路径相交失败: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="105"/>
         <source>Failed to subtract paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>路径相减失败: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="117"/>
         <source>Failed to offset a path: %1</source>
-        <translation type="unfinished"/>
+        <translation>路径位移失败: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="291"/>
@@ -85,17 +85,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="71"/>
         <source>open-project [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>打开项目 [指令选项]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="73"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>打开元件库以进行元件库相关的工作。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="74"/>
         <source>open-library [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>打开库 [指令选项]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="79"/>
@@ -806,7 +806,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/quazip/quazip/quazipfile.cpp" line="249"/>
         <source>ZIP/UNZIP API error %1</source>
-        <translation type="unfinished"/>
+        <translation>压缩/解压缩应用程序接口错误 %1</translation>
     </message>
 </context>
 <context>
@@ -9875,7 +9875,9 @@ Do you want to save them before closing the project?</source>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
-        <translation type="unfinished"/>
+        <translation>请问您确认要初始化所有设置到默认值？
+
+注意：该操作会被立即应用并且无法回退！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="278"/>
