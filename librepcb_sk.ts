@@ -7853,7 +7853,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="909"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="573"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="615"/>
         <source>SVG Export</source>
         <translation>Exportovať do SVG</translation>
     </message>
@@ -7888,10 +7888,10 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="452"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="469"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="507"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="552"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="599"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="644"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="670"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="594"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="641"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="686"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="712"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -7918,14 +7918,20 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="493"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="515"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="560"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="602"/>
         <source>No board selected.</source>
         <translation>Doska nie je vybraná.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="528"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="569"/>
         <source>PDF Export</source>
         <translation>Exportovať do PDF</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="570"/>
+        <source>PDF exported successfully</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9509,42 +9515,47 @@ Do you want to save them before closing the project?</source>
         <translation>Skenovanie knižníc (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="450"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="443"/>
+        <source>PDF exported successfully</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="486"/>
         <source>SVG Export</source>
         <translation>Exportovanie do SVG</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="577"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="613"/>
         <source>Add schematic page</source>
         <translation>Pridať list schémy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="578"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="614"/>
         <source>Choose a name:</source>
         <translation>Zvoľte názov:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="579"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="615"/>
         <source>New Page</source>
         <translation>Nový list</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="610"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="646"/>
         <source>Rename sheet</source>
         <translation>Premenovať výkres</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="610"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="646"/>
         <source>Choose new name:</source>
         <translation>Zvoľte nový názov:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="403"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="428"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="473"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="588"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="600"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="619"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="464"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="509"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="624"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="636"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="655"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -9560,6 +9571,7 @@ Do you want to save them before closing the project?</source>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="420"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="442"/>
         <source>PDF Export</source>
         <translation>Exportovanie do PDF</translation>
     </message>
@@ -9896,6 +9908,76 @@ Do you want to save them before closing the project?</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Repozitáre sú určené pre prehľadávanie, stiahnutie a aktualizáciu knižníc.&lt;br/&gt;Do tohoto zoznamu môžete pridávať ľubovolné adresy serverov, ktoré chcete používať s LibrePCB API.&lt;br/&gt; Oficiálny LibrePCB server je &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="285"/>
+        <source>External Applications</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="297"/>
+        <source>PDF Reader</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="309"/>
+        <source>Reader to use:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="318"/>
+        <source>System default</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="331"/>
+        <source>Run custom command</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="349"/>
+        <source>Custom command:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="362"/>
+        <source>Open PDF after export:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="371"/>
+        <source>Always</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="381"/>
+        <source>Never</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="391"/>
+        <source>Ask every time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="419"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use &lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt;{{FILEPATH}}}&lt;/span&gt; as placeholder for the filename.&lt;/p&gt;&lt;p&gt;Notice: If your path contains space you may need to add quotes like this: &lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt;&amp;quot;{{FILEPATH}}&amp;quot;&lt;/span&gt; .&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="425"/>
+        <source>example: evince &quot;{{FILEPATH}}&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="435"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pick an executable file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="438"/>
+        <source>Pick</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="60"/>
         <source>System Language</source>
         <translation>Jazyk systému</translation>
@@ -9916,7 +9998,12 @@ Do you want to save them before closing the project?</source>
         <translation>Kliknite sem pre pridanie URL adresy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="193"/>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="168"/>
+        <source>Select an executable file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="230"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
@@ -9925,12 +10012,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 Pozor: Táto zmena bude vykonaná okamžite a je nevratná!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="278"/>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="335"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="192"/>
+        <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="229"/>
         <source>Restore default settings</source>
         <translation>Obnoviť predvolené nastavenie</translation>
     </message>
