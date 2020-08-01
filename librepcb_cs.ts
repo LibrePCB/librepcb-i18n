@@ -208,7 +208,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="724"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
-        <translation type="unfinished"/>
+        <translation>Tato verze aplikace je NESTABILNÍ! Možnost &apos;%1&apos; je deaktivována, aby nedošlo k poškození projektů nebo knihoven. Místo toho použijte prosím stabilní verzi.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="203"/>
@@ -372,7 +372,7 @@
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="222"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná jednotka délky: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -692,7 +692,7 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
     <message>
         <location filename="../libs/librepcb/library/dev/msg/msgnopadsindeviceconnected.cpp" line="38"/>
         <source>No pads connected</source>
-        <translation type="unfinished"/>
+        <translation>Nejsou připojeny plošky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/dev/msg/msgnopadsindeviceconnected.cpp" line="39"/>
@@ -701,7 +701,11 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
 To fix this issue, connect the package pads to their corresponding component signals in the table widget.
 
 If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
-        <translation type="unfinished"/>
+        <translation>Zvolené pouzdro obsahuje plošky ale žádná není připojena k signálu komponentu. Tyto plošky tak nemají žádnou elektrickou funkci a při přidání pouzdra na desku plošných spojů, nebude možné k nim připojit žádny spoj.
+
+Řešením je připojení plošek pouzdra k signálům komponentu pomocí tabulky.
+
+Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky připojovat, můžete tuto zprávu ignorovat.</translation>
     </message>
 </context>
 <context>
@@ -979,12 +983,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="71"/>
         <source>Mils</source>
-        <translation type="unfinished"/>
+        <translation>Mils</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/mathparser.cpp" line="67"/>
         <source>Failed to parse expression:</source>
-        <translation type="unfinished"/>
+        <translation>Chyba při analýze výrazu:</translation>
     </message>
 </context>
 <context>
@@ -1084,27 +1088,27 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="76"/>
         <source>Removing temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>Odstraňování dočasného adresáře...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="81"/>
         <source>Looking for files to copy...</source>
-        <translation type="unfinished"/>
+        <translation>Hledání souborů pro kopírování...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="92"/>
         <source>Copy file %1 of %2...</source>
-        <translation type="unfinished"/>
+        <translation>Kopírování souboru %1 z %2...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="99"/>
         <source>Renaming temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>Přejmenování dočasného adresáře ...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="103"/>
         <source>Successfully finished!</source>
-        <translation type="unfinished"/>
+        <translation>Úspěšně ukončeno!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="113"/>
@@ -1463,18 +1467,18 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="192"/>
         <source>References</source>
-        <translation type="unfinished"/>
+        <translation>References</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="193"/>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="211"/>
         <source>Sheet Frames</source>
-        <translation type="unfinished"/>
+        <translation>Sheet Frames</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="194"/>
         <source>Netlines</source>
-        <translation type="unfinished"/>
+        <translation>Netlines</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="195"/>
@@ -1502,7 +1506,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="199"/>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="222"/>
         <source>Guide</source>
-        <translation type="unfinished"/>
+        <translation>Guide</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="201"/>
@@ -1557,7 +1561,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="213"/>
         <source>Milling (PTH)</source>
-        <translation type="unfinished"/>
+        <translation>Milling (PTH)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="214"/>
@@ -1572,17 +1576,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="216"/>
         <source>Vias</source>
-        <translation type="unfinished"/>
+        <translation>Vias</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="217"/>
         <source>Air Wires</source>
-        <translation type="unfinished"/>
+        <translation>Air Wires</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="218"/>
         <source>Measures</source>
-        <translation type="unfinished"/>
+        <translation>Measures</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="219"/>
@@ -1622,22 +1626,22 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="230"/>
         <source>Top Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Top Hidden Grab Areas</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="231"/>
         <source>Bot Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Bot Hidden Grab Areas</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="232"/>
         <source>Top References</source>
-        <translation type="unfinished"/>
+        <translation>Top References</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="233"/>
         <source>Bot References</source>
-        <translation type="unfinished"/>
+        <translation>Bot References</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="234"/>
@@ -1662,62 +1666,62 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="238"/>
         <source>Top Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Top Courtyard</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="239"/>
         <source>Bot Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Bot Courtyard</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="240"/>
         <source>Top Stop Mask</source>
-        <translation type="unfinished"/>
+        <translation>Top Stop Mask</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="241"/>
         <source>Bot Stop Mask</source>
-        <translation type="unfinished"/>
+        <translation>Bot Stop Mask</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="242"/>
         <source>Top Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Top Solder Paste</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="243"/>
         <source>Bot Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Bot Solder Paste</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="244"/>
         <source>Top Finish</source>
-        <translation type="unfinished"/>
+        <translation>Top Finish</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="245"/>
         <source>Bot Finish</source>
-        <translation type="unfinished"/>
+        <translation>Bot Finish</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="246"/>
         <source>Top Glue</source>
-        <translation type="unfinished"/>
+        <translation>Top Glue</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="247"/>
         <source>Bot Glue</source>
-        <translation type="unfinished"/>
+        <translation>Bot Glue</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="249"/>
         <source>Top Copper</source>
-        <translation type="unfinished"/>
+        <translation>Top Copper</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="250"/>
         <source>Bot Copper</source>
-        <translation type="unfinished"/>
+        <translation>Bot Copper</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="253"/>
@@ -1735,7 +1739,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="39"/>
         <source>Appearance:</source>
-        <translation type="unfinished"/>
+        <translation>Vzhled</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="48"/>
@@ -1804,12 +1808,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="64"/>
         <source>Enter numeric expression</source>
-        <translation type="unfinished"/>
+        <translation>Zadat číselný výraz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="311"/>
         <source>internal</source>
-        <translation type="unfinished"/>
+        <translation>Vnitřní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="314"/>
@@ -2345,7 +2349,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="592"/>
         <source>Rescan Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Prohledat knihovny</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="604"/>
@@ -2412,7 +2416,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="385"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Zdá se, že při posledním použití tohoto projektu selhala aplikace. Přejete si obnovit poslední automaticky uloženou zálohu?</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="415"/>
@@ -2607,7 +2611,7 @@ Pracovní prostor je nezávislý na platformě, takže může být použit na r�
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard.ui" line="14"/>
         <source>Initialize Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Inicializace pracovního prostoru</translation>
     </message>
 </context>
 <context>
@@ -2615,32 +2619,32 @@ Pracovní prostor je nezávislý na platformě, takže může být použit na r�
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="14"/>
         <source>Choose version to import</source>
-        <translation type="unfinished"/>
+        <translation>Zvolit verzi pro import</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="17"/>
         <source>Initialize Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Inicializace pracovního prostoru</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="20"/>
         <source>Choose how to initialize libraries and settings.</source>
-        <translation type="unfinished"/>
+        <translation>Zvolit způsob inicializace knihoven a nastavení.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="26"/>
         <source>The selected workspace was not opened yet with this version of LibrePCB. To keep the workspace compatible with older versions, LibrePCB stores libraries and settings for each file format version independendly. Since there are libraries and settings available from older LibrePCB versions, you can import them now.</source>
-        <translation type="unfinished"/>
+        <translation>Zvolený pracovní prostor nebyl zatím v této verzi LibrePCB použitý. Pro uchování zpětné kompatibility se staršími verzemi, LibrePCB ukládá knihovny a nastavení pro každou verzi formátu souboru nezávisle. Ze starších verzí, jsou k dispozici knihovny a nastavení, které můžete nyní importovat.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="36"/>
         <source>Import from:</source>
-        <translation type="unfinished"/>
+        <translation>Import z:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.cpp" line="50"/>
         <source>Do not import any data</source>
-        <translation type="unfinished"/>
+        <translation>Neimportovat žádná data</translation>
     </message>
 </context>
 <context>
@@ -2648,27 +2652,27 @@ Pracovní prostor je nezávislý na platformě, takže může být použit na r�
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="14"/>
         <source>Choose settings</source>
-        <translation type="unfinished"/>
+        <translation>Zvolit nastavení</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="17"/>
         <source>Choose workspace settings</source>
-        <translation type="unfinished"/>
+        <translation>Zvolit nastavení pracovního prostoru</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="20"/>
         <source>Set the most important workspace settings.</source>
-        <translation type="unfinished"/>
+        <translation>Nastavit nejdůležitější nastavení pracovní plochy.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="26"/>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Jazyk:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="40"/>
         <source>Length Unit:</source>
-        <translation type="unfinished"/>
+        <translation>Jednotka délky:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="54"/>
@@ -2683,7 +2687,7 @@ Pracovní prostor je nezávislý na platformě, takže může být použit na r�
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="81"/>
         <source>Preferred Norm:</source>
-        <translation type="unfinished"/>
+        <translation>Preferovaná norma:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="53"/>
@@ -2707,37 +2711,37 @@ Pracovní prostor je nezávislý na platformě, takže může být použit na r�
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="14"/>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="17"/>
         <source>Finalize Import</source>
-        <translation type="unfinished"/>
+        <translation>Dokončení importu</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="20"/>
         <source>Ready to start the import operation.</source>
-        <translation type="unfinished"/>
+        <translation>Připraven pro zahájení importu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="26"/>
         <source>To import the old settings and libraries, the following directory will be recursively copied:</source>
-        <translation type="unfinished"/>
+        <translation>Při importu starších nastavení a knihoven, budou rekurzivní zkopírovány také následující adresáře:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="43"/>
         <source>Source:</source>
-        <translation type="unfinished"/>
+        <translation>Zdroj:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="80"/>
         <source>Make sure these directories are not accessed by any application during the copy operation!</source>
-        <translation type="unfinished"/>
+        <translation>Ujistěte se, že tyto adresáře nebudou používány jinou aplikací během kopírování!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="90"/>
         <source>Destination:</source>
-        <translation type="unfinished"/>
+        <translation>Cíl:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="97"/>
         <source>Start Import</source>
-        <translation type="unfinished"/>
+        <translation>Spustit import</translation>
     </message>
 </context>
 <context>
@@ -4024,7 +4028,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="225"/>
         <source>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Zdá se, že při posledním použití tohoto knihovního prvku selhala aplikace. Přejete si obnovit poslední automaticky uloženou zálohu?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="298"/>
@@ -4188,7 +4192,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="208"/>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="219"/>
@@ -4223,7 +4227,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="602"/>
         <source>&amp;Rescan Libraries</source>
-        <translation type="unfinished"/>
+        <translation>P&amp;rohledat knihovny</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="323"/>
@@ -4398,7 +4402,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="143"/>
         <source>Filter elements</source>
-        <translation type="unfinished"/>
+        <translation>Filtr prvků</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="150"/>
@@ -4582,7 +4586,7 @@ Chcete je před zavřením uložit?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="391"/>
         <source>Move to other library</source>
-        <translation type="unfinished"/>
+        <translation>Přesunout do jiné knihovny</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="401"/>
@@ -4616,17 +4620,17 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="533"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Opravdu chcete přesunout následující elementy do knihovny &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="543"/>
         <source>Note: This cannot be easily undone!</source>
-        <translation type="unfinished"/>
+        <translation>Poznámka: Tato změna není jednoduše vratná!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="547"/>
         <source>Move %1 elements</source>
-        <translation type="unfinished"/>
+        <translation>Přesun %1 elementů</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="604"/>
@@ -6219,7 +6223,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netpoint.cpp" line="74"/>
         <source>Dead net point in board &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Nefunkční bod spoje na desce &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -6240,7 +6244,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_via.h" line="169"/>
         <source>Unknown via shape: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Neznámý tvar plošky přechodu: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -6449,7 +6453,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardnetpointedit.cpp" line="40"/>
         <source>Edit netpoint</source>
-        <translation type="unfinished"/>
+        <translation>Upravit signální bod</translation>
     </message>
 </context>
 <context>
@@ -6458,7 +6462,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardnetsegmentadd.cpp" line="41"/>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardnetsegmentadd.cpp" line="49"/>
         <source>Add net segment</source>
-        <translation type="unfinished"/>
+        <translation>Přidat segment spoje</translation>
     </message>
 </context>
 <context>
@@ -6466,7 +6470,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardnetsegmentaddelements.cpp" line="43"/>
         <source>Add net segment elements</source>
-        <translation type="unfinished"/>
+        <translation>Přidat elementy segmentu spoje</translation>
     </message>
 </context>
 <context>
@@ -6474,7 +6478,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardnetsegmentedit.cpp" line="41"/>
         <source>Edit net segment</source>
-        <translation type="unfinished"/>
+        <translation>Upravit segment spoje</translation>
     </message>
 </context>
 <context>
@@ -6482,7 +6486,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardnetsegmentremove.cpp" line="42"/>
         <source>Remove net segment</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit segment spoje</translation>
     </message>
 </context>
 <context>
@@ -6490,7 +6494,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardnetsegmentremoveelements.cpp" line="44"/>
         <source>Remove net segment elements</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit elementy segmentu spoje</translation>
     </message>
 </context>
 <context>
@@ -6687,7 +6691,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdnetsignaladd.cpp" line="43"/>
         <source>Add netsignal</source>
-        <translation type="unfinished"/>
+        <translation>Přidat signál spoje</translation>
     </message>
 </context>
 <context>
@@ -6695,7 +6699,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdnetsignaledit.cpp" line="42"/>
         <source>Edit netsignal</source>
-        <translation type="unfinished"/>
+        <translation>Upravit signál spoje</translation>
     </message>
 </context>
 <context>
@@ -6703,7 +6707,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdnetsignalremove.cpp" line="42"/>
         <source>Remove netsignal</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit signál spoje</translation>
     </message>
 </context>
 <context>
@@ -6735,7 +6739,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicedit.cpp" line="40"/>
         <source>Edit sheet properties</source>
-        <translation type="unfinished"/>
+        <translation>Upravit vlastnosti výkresu</translation>
     </message>
 </context>
 <context>
@@ -6775,7 +6779,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicnetpointedit.cpp" line="40"/>
         <source>Edit netpoint</source>
-        <translation type="unfinished"/>
+        <translation>Upravit signální bod</translation>
     </message>
 </context>
 <context>
@@ -6784,7 +6788,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicnetsegmentadd.cpp" line="42"/>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicnetsegmentadd.cpp" line="50"/>
         <source>Add net segment</source>
-        <translation type="unfinished"/>
+        <translation>Přidat segment spoje</translation>
     </message>
 </context>
 <context>
@@ -6792,7 +6796,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicnetsegmentaddelements.cpp" line="43"/>
         <source>Add net segment elements</source>
-        <translation type="unfinished"/>
+        <translation>Přidat elementy segmentu spoje</translation>
     </message>
 </context>
 <context>
@@ -6800,7 +6804,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicnetsegmentedit.cpp" line="41"/>
         <source>Edit net segment</source>
-        <translation type="unfinished"/>
+        <translation>Upravit segment spoje</translation>
     </message>
 </context>
 <context>
@@ -6808,7 +6812,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicnetsegmentremove.cpp" line="42"/>
         <source>Remove net segment</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit segment spoje</translation>
     </message>
 </context>
 <context>
@@ -6816,7 +6820,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicnetsegmentremoveelements.cpp" line="44"/>
         <source>Remove net segment elements</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit elementy segmentu spoje</translation>
     </message>
 </context>
 <context>
@@ -6884,7 +6888,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="176"/>
         <source>The net signal of the component signal &quot;%1:%2&quot; cannot be changed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>Signál spoje komponentu &quot;%1:%2&quot; nemůže být změněn, protože se stále používá!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="229"/>
@@ -7029,7 +7033,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_netpoint.cpp" line="66"/>
         <source>Dead net point in schematic page &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Nefunkční bod spoje na stránce schématu &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -7363,12 +7367,12 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="380"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="414"/>
         <source>Select Whole Trace</source>
-        <translation type="unfinished"/>
+        <translation>Vybrat celý spoj</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="384"/>
         <source>Measure Selected Segments Length</source>
-        <translation type="unfinished"/>
+        <translation>Změřit vybrané segmenty spojí</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="796"/>
@@ -7378,12 +7382,12 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="803"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
-        <translation type="unfinished"/>
+        <translation>UPOZORNĚNÍ: Jsou vybrané %1 segmenty spoje, ale některé nejsou připojeny!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="831"/>
         <source>Selected trace segments may not branch!</source>
-        <translation type="unfinished"/>
+        <translation>Vybrané segmenty spoje se nemají větvit!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="447"/>
@@ -7563,7 +7567,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="251"/>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Hledat</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="262"/>
@@ -7849,18 +7853,18 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="897"/>
         <source>Generate Pick&amp;&amp;Place Files</source>
-        <translation type="unfinished"/>
+        <translation>Vytvořit Pick&amp;&amp;Place soubory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="909"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="573"/>
         <source>SVG Export</source>
-        <translation type="unfinished"/>
+        <translation>Vyvést do SVG</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="250"/>
         <source>Find device...</source>
-        <translation type="unfinished"/>
+        <translation>Vyhledat prvek ...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="259"/>
@@ -7964,7 +7968,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="14"/>
         <source>Generate Pick&amp;Place Data</source>
-        <translation type="unfinished"/>
+        <translation>Vytvořit Pick&amp;&amp;Place data</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="20"/>
@@ -7974,22 +7978,22 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="27"/>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Textový štítek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="34"/>
         <source>Top Devices:</source>
-        <translation type="unfinished"/>
+        <translation>Vrchní součástky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="44"/>
         <source>Bottom Devices:</source>
-        <translation type="unfinished"/>
+        <translation>Spodní součástky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="70"/>
         <source>Include comment with some metadata (provides additional information, but might cause issues with some CSV readers)</source>
-        <translation type="unfinished"/>
+        <translation>Přidat komentář s metadaty (poskytnout dodatečné informace, ale některé CSV čtečky s tím mohou mít problém)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="90"/>
@@ -8241,7 +8245,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdchangenetsignalofschematicnetsegment.cpp" line="55"/>
         <source>Change netsignal of netsegment</source>
-        <translation type="unfinished"/>
+        <translation>Změnit signál segmentu spoje</translation>
     </message>
 </context>
 <context>
@@ -8249,7 +8253,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdcombineboardnetsegments.cpp" line="49"/>
         <source>Combine Board Net Segments</source>
-        <translation type="unfinished"/>
+        <translation>Sloučit signály spojů desky</translation>
     </message>
 </context>
 <context>
@@ -9026,7 +9030,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="143"/>
         <source>Change net of net segment</source>
-        <translation type="unfinished"/>
+        <translation>Změnit spoj signálu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="161"/>
@@ -9051,12 +9055,12 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="189"/>
         <source>The segment will be moved to the existing net &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Segment bude přesunut do stávajícího spoje &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="193"/>
         <source>The segment will be moved to the new net &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Segment bude přesunut do nového spoje &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/renamenetsegmentdialog.cpp" line="204"/>
@@ -9235,7 +9239,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="119"/>
         <source>Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Schéma</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="134"/>
@@ -9260,7 +9264,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="210"/>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Hledat</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="221"/>
@@ -9285,12 +9289,12 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="791"/>
         <source>Rename Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Přejmenovat list schémy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="803"/>
         <source>Export sheet to SVG</source>
-        <translation type="unfinished"/>
+        <translation>Vyvést list schémy do SVG</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="291"/>
@@ -9511,7 +9515,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="450"/>
         <source>SVG Export</source>
-        <translation type="unfinished"/>
+        <translation>Vyvést do SVG</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="577"/>
@@ -9531,12 +9535,12 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="610"/>
         <source>Rename sheet</source>
-        <translation type="unfinished"/>
+        <translation>Přejmenovat list schématu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="610"/>
         <source>Choose new name:</source>
-        <translation type="unfinished"/>
+        <translation>Zvolte nový název:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="403"/>
@@ -9551,7 +9555,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="207"/>
         <source>Find symbol...</source>
-        <translation type="unfinished"/>
+        <translation>Vyhledat komponent ...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="368"/>
@@ -9808,17 +9812,17 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="39"/>
         <source>Application Language:</source>
-        <translation type="unfinished"/>
+        <translation>Použít jazyk:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="64"/>
         <source>Changing the language requires to restart the application.</source>
-        <translation type="unfinished"/>
+        <translation>Změna jazyka vyžaduje restart aplikace.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="76"/>
         <source>Default Length Unit:</source>
-        <translation type="unfinished"/>
+        <translation>Výchozí jednotka délky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="90"/>
@@ -9839,12 +9843,12 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="136"/>
         <source>Autosave Interval:</source>
-        <translation type="unfinished"/>
+        <translation>Interval automatického ukládání:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="155"/>
         <source>Seconds (0 = disable autosave)</source>
-        <translation type="unfinished"/>
+        <translation>sekund (0 = vypnutí automatického ukládání)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="165"/>
@@ -9854,7 +9858,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="171"/>
         <source>Rendering Method:</source>
-        <translation type="unfinished"/>
+        <translation>Způsob vykreslování:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="180"/>
@@ -9903,24 +9907,25 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="78"/>
         <source>Click here to add a locale</source>
-        <translation type="unfinished"/>
+        <translation>Klepněte sem pro přidání lokalizace</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="103"/>
         <source>Click here to add a norm</source>
-        <translation type="unfinished"/>
+        <translation>Klepněte sem pro přidání normy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="126"/>
         <source>Click here a add an URL</source>
-        <translation type="unfinished"/>
+        <translation>Klepněte sem pro přidání URL adresy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="193"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
-        <translation type="unfinished"/>
+        <translation>Opravdu chcete obnovit výchozí nastavení?
+Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="278"/>
@@ -9943,7 +9948,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="184"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;&lt;b&gt;UPOZORNĚNÍ: Toto není stálá verze programu!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Práce s ní může poškodit váš pracovní prostor, knihovny anebo projekty! Soubory uložené touto verzí, nebudou čitelné stabilními verzemi LibrePCB. Před pokračováním doporučujeme, vytvořit si jejich kopie. Pokud si nejste jisti postupem, prosím raději použijte oficiálni stabilní verzi.&lt;/p&gt;&lt;p&gt;Pro více podrobností, si prosím podívejte &lt;a href=&quot;%1&quot;&gt;koncept verzování&lt;/a&gt; LibrePCB.&lt;/p&gt;&lt;p&gt;Opravdu chcete pokračovať i když může dojít k poškození Vašich souborů?!&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>

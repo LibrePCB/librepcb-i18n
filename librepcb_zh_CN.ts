@@ -115,7 +115,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="89"/>
         <source>Run the electrical rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>运行电路回路规则测试，存在异常时，输出所有异常错误/警告并报告失败情况(退出代码为 1 )</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
@@ -173,7 +173,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="134"/>
         <source>Save project before closing it (useful to upgrade file format).</source>
-        <translation type="unfinished"/>
+        <translation>在关闭文件前保存 (通常在升级文件格式时使用)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
@@ -218,7 +218,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="142"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
-        <translation type="unfinished"/>
+        <translation>在打开的库中所包含的所有元素上运行选中的操作</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="145"/>
@@ -228,7 +228,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="167"/>
         <source>Path to project file (*.lpp[z]).</source>
-        <translation type="unfinished"/>
+        <translation>工程文件路径 (*.lpp[z])</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="183"/>
@@ -428,7 +428,7 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="207"/>
         <source>UUID List File:</source>
-        <translation type="unfinished"/>
+        <translation>UUID 列表文件:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="214"/>
@@ -570,7 +570,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentprefix.cpp" line="37"/>
         <source>No component prefix set</source>
-        <translation type="unfinished"/>
+        <translation>未设定的组件前缀</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentprefix.cpp" line="38"/>
@@ -819,12 +819,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="97"/>
         <source>Node is not a list.</source>
-        <translation type="unfinished"/>
+        <translation>Node 不是一个列表。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="104"/>
         <source>Node is not a token or string.</source>
-        <translation type="unfinished"/>
+        <translation>节点不是一个令牌(token)或字符串(string)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="108"/>
@@ -835,7 +835,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="127"/>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="156"/>
         <source>Child not found: %1</source>
-        <translation type="unfinished"/>
+        <translation>找不到子节点: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="231"/>
@@ -850,7 +850,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="302"/>
         <source>File does not have exactly one root node.</source>
-        <translation type="unfinished"/>
+        <translation>文件包括不止一个根节点。</translation>
     </message>
 </context>
 <context>
@@ -878,12 +878,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="240"/>
         <source>Could not find the file &quot;/proc/version&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>无法找到文件 &quot;/proc/version&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="270"/>
         <source>OpenProcess() failed with error %1.</source>
-        <translation type="unfinished"/>
+        <translation>OpenProcess() 发生错误 %1.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="279"/>
@@ -927,7 +927,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/main.cpp" line="268"/>
         <source>The workspace &quot;%1&quot; cannot be opened: %2</source>
-        <translation type="unfinished"/>
+        <translation>工作区 %1 不能被打开: %2</translation>
     </message>
 </context>
 <context>
@@ -980,7 +980,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/utils/mathparser.cpp" line="67"/>
         <source>Failed to parse expression:</source>
-        <translation type="unfinished"/>
+        <translation>表达式解析失败:</translation>
     </message>
 </context>
 <context>
@@ -1080,7 +1080,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="76"/>
         <source>Removing temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>正在删除零时文件夹......</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="81"/>
@@ -1459,7 +1459,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="192"/>
         <source>References</source>
-        <translation type="unfinished"/>
+        <translation>引用</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="193"/>
@@ -1503,7 +1503,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="201"/>
         <source>Outlines</source>
-        <translation type="unfinished"/>
+        <translation>大纲</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="202"/>
@@ -1528,12 +1528,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="206"/>
         <source>Optional Pins</source>
-        <translation type="unfinished"/>
+        <translation>可选引脚</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="207"/>
         <source>Required Pins</source>
-        <translation type="unfinished"/>
+        <translation>必要引脚</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="208"/>
@@ -1818,7 +1818,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/network/networkrequest.cpp" line="55"/>
         <source>The received content exceeds the 100MB size limit.</source>
-        <translation type="unfinished"/>
+        <translation>收到的内容超出了 100MB 的大小限制。</translation>
     </message>
 </context>
 <context>
@@ -4209,7 +4209,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="323"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>撤销 (&amp;U)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="335"/>
@@ -7582,7 +7582,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="383"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>撤销 (&amp;U)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="395"/>
@@ -9287,7 +9287,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="380"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>撤销 (&amp;U)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="392"/>

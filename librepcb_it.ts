@@ -254,7 +254,7 @@
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="233"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="252"/>
         <source>Wrong argument count.</source>
-        <translation type="unfinished"/>
+        <translation>Conteggio argomenti errato.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="262"/>
@@ -283,12 +283,12 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="94"/>
         <source>The lock file &quot;%1&quot; has too few lines.</source>
-        <translation type="unfinished"/>
+        <translation>Il file di blocco &quot;% 1&quot; ha troppe poche righe.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="146"/>
         <source>The directory is locked, check if it is already opened elsewhere: %1</source>
-        <translation type="unfinished"/>
+        <translation>La directory è bloccata, controlla se è già aperta altrove:% 1</translation>
     </message>
 </context>
 <context>
@@ -356,7 +356,7 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/fileutils.cpp" line="156"/>
         <source>Could not create directory or path &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile creare la directory o il percorso &quot;% 1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -372,7 +372,7 @@
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="222"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Unità di lunghezza non valida: &quot;% 1&quot;</translation>
     </message>
 </context>
 <context>
@@ -380,12 +380,12 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="14"/>
         <source>LibrePCB Eagle Import</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB Eagle Importazione</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="21"/>
         <source>Output Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Cartella di destinazione:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="28"/>
@@ -423,12 +423,12 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="200"/>
         <source>Converted Files:</source>
-        <translation type="unfinished"/>
+        <translation>File convertiti:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="207"/>
         <source>UUID List File:</source>
-        <translation type="unfinished"/>
+        <translation>Elenco File UUID:</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="214"/>
@@ -453,7 +453,7 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="244"/>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Interrompi</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="253"/>
@@ -468,7 +468,7 @@
     <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="20"/>
         <source>UUID Generator</source>
-        <translation type="unfinished"/>
+        <translation>Generatore UUID</translation>
     </message>
     <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="33"/>
@@ -478,7 +478,7 @@
     <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="52"/>
         <source>Auto-Generate every Second</source>
-        <translation type="unfinished"/>
+        <translation>Generazione automatica ogni secondo</translation>
     </message>
 </context>
 <context>
@@ -486,14 +486,15 @@
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgduplicatepadname.cpp" line="40"/>
         <source>Duplicate pad name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nome pad duplicato: &apos;% 1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgduplicatepadname.cpp" line="41"/>
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
-        <translation type="unfinished"/>
+        <translation>Tutti i pacchetti pad devono avere nomi univoci, altrimenti non potranno essere distinti in seguito nell&apos;editor del dispositivo. Se la tua parte ha più derivazioni con la stessa funzionalità (ad es. Più derivazioni GND), puoi assegnare tutti questi pad allo stesso segnale componente più avanti nell&apos;editor del dispositivo.
+</translation>
     </message>
 </context>
 <context>
@@ -527,12 +528,13 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingauthor.cpp" line="37"/>
         <source>Author not set</source>
-        <translation type="unfinished"/>
+        <translation>Autore non impostato</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingauthor.cpp" line="38"/>
         <source>It is recommended to set an author (e.g. full name or nickname), although it&apos;s not required.</source>
-        <translation type="unfinished"/>
+        <translation>Si consiglia di impostare un autore (ad es. Nome completo o nickname), sebbene non sia necessario.
+ </translation>
     </message>
 </context>
 <context>
@@ -545,7 +547,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingcategories.cpp" line="38"/>
         <source>It&apos;s very important to assign every library element to at least one category. Otherwise it will be very hard to find the element in the workspace library, so it&apos;s highly recommended to fix this.</source>
-        <translation type="unfinished"/>
+        <translation>È molto importante assegnare ogni elemento della libreria ad almeno una categoria. Altrimenti sarà molto difficile trovare l&apos;elemento nella libreria dell&apos;area di lavoro, quindi si consiglia vivamente di risolverlo.</translation>
     </message>
 </context>
 <context>
@@ -5828,7 +5830,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="326"/>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Interrompi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="341"/>
