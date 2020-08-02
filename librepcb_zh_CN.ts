@@ -4224,22 +4224,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="421"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="433"/>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>剪切</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="445"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="457"/>
         <source>R&amp;emove</source>
-        <translation type="unfinished"/>
+        <translation>删除(&amp;E)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="469"/>
@@ -6592,7 +6592,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmddeviceinstanceadd.cpp" line="41"/>
         <source>Add device to board</source>
-        <translation type="unfinished"/>
+        <translation>向电路板添加器件</translation>
     </message>
 </context>
 <context>
@@ -7096,7 +7096,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_adddevice.cpp" line="242"/>
         <source>Add device to board</source>
-        <translation type="unfinished"/>
+        <translation>向电路板添加器件</translation>
     </message>
 </context>
 <context>
@@ -7628,22 +7628,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="457"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="472"/>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>剪切</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="487"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="502"/>
         <source>R&amp;emove</source>
-        <translation type="unfinished"/>
+        <translation>删除(&amp;E)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="514"/>
@@ -7835,7 +7835,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="911"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="618"/>
         <source>SVG Export</source>
-        <translation type="unfinished"/>
+        <translation>SVG 导出</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="923"/>
@@ -7916,7 +7916,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="573"/>
         <source>PDF exported successfully</source>
-        <translation type="unfinished"/>
+        <translation>PDF 导出成功</translation>
     </message>
 </context>
 <context>
@@ -8196,7 +8196,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdadddevicetoboard.cpp" line="58"/>
         <source>Add device to board</source>
-        <translation type="unfinished"/>
+        <translation>向电路板添加器件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdadddevicetoboard.cpp" line="90"/>
@@ -8969,13 +8969,15 @@ Do you want to save them before closing the project?</source>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.ui" line="39"/>
         <source>Preferred Norms:
 (Highest priority at top)</source>
-        <translation type="unfinished"/>
+        <translation>偏好的规范:
+(顶部为最高优先级)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.ui" line="53"/>
         <source>Preferred Languages:
 (Highest priority at top)</source>
-        <translation type="unfinished"/>
+        <translation>偏好的语言:
+(顶部为最高优先级)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.cpp" line="105"/>
@@ -9238,22 +9240,22 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="502"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="514"/>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>剪切</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="526"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="538"/>
         <source>R&amp;emove</source>
-        <translation type="unfinished"/>
+        <translation>删除(&amp;E)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="550"/>
@@ -9299,7 +9301,7 @@ Do you want to save them before closing the project?</source>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="642"/>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="645"/>
         <source>Add Bipolar Capacitor</source>
-        <translation type="unfinished"/>
+        <translation>添加双极电容器</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="657"/>
@@ -9374,7 +9376,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="811"/>
         <source>Ctrl+A</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+A</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="212"/>
@@ -9384,12 +9386,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="436"/>
         <source>PDF exported successfully</source>
-        <translation type="unfinished"/>
+        <translation>PDF 导出成功</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="478"/>
         <source>SVG Export</source>
-        <translation type="unfinished"/>
+        <translation>SVG 导出</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="653"/>
@@ -9535,7 +9537,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="340"/>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>剪切</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="342"/>
@@ -9726,12 +9728,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="321"/>
         <source>Place Devices [%1]</source>
-        <translation type="unfinished"/>
+        <translation>放置器件 [%1]</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="453"/>
         <source>Add device to board</source>
-        <translation type="unfinished"/>
+        <translation>向电路板添加器件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="479"/>
@@ -9859,7 +9861,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="155"/>
         <source>Seconds (0 = disable autosave)</source>
-        <translation type="unfinished"/>
+        <translation>秒 (0 = 禁用自动保存)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="165"/>
@@ -9879,7 +9881,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="193"/>
         <source>This setting will be applied only to newly opened windows.</source>
-        <translation type="unfinished"/>
+        <translation>该设置仅对新打开的窗口有效。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="206"/>
@@ -9890,13 +9892,15 @@ Do you want to save them before closing the project?</source>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="212"/>
         <source>Preferred Languages:
 (Highest priority at top)</source>
-        <translation type="unfinished"/>
+        <translation>偏好的语言:
+(顶部为最高优先级)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="220"/>
         <source>Preferred Norms:
 (Highest priority at top)</source>
-        <translation type="unfinished"/>
+        <translation>偏好的规范:
+(顶部为最高优先级)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="255"/>
@@ -9911,7 +9915,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="285"/>
         <source>External Applications</source>
-        <translation type="unfinished"/>
+        <translation>外部应用程序</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="297"/>
