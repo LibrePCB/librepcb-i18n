@@ -120,7 +120,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>导出原理图到指定的文件。已存在的文件将被覆盖。支持的文件扩展名：%1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="97"/>
@@ -133,12 +133,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="100"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>导出通用物料表到指定的文件。已存在的文件将被覆盖。支持的文件扩展名：%1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="106"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>导出电路板特定的物料表到指定的文件。已存在的文件将被覆盖。支持的文件扩展名：%1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="112"/>
@@ -9916,7 +9916,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="297"/>
         <source>PDF Reader</source>
-        <translation type="unfinished"/>
+        <translation>PDF 阅读器</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="309"/>
@@ -9931,32 +9931,32 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="331"/>
         <source>Run custom command</source>
-        <translation type="unfinished"/>
+        <translation>运行自定义命令</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="349"/>
         <source>Custom command:</source>
-        <translation type="unfinished"/>
+        <translation>自定义命令:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="362"/>
         <source>Open PDF after export:</source>
-        <translation type="unfinished"/>
+        <translation>导出后打开 PDF:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="371"/>
         <source>Always</source>
-        <translation type="unfinished"/>
+        <translation>总是</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="381"/>
         <source>Never</source>
-        <translation type="unfinished"/>
+        <translation>从不</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="391"/>
         <source>Ask every time</source>
-        <translation type="unfinished"/>
+        <translation>每次询问</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="419"/>
@@ -9971,12 +9971,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="435"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pick an executable file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;选择一个可执行文件&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="438"/>
         <source>Pick</source>
-        <translation type="unfinished"/>
+        <translation>选择</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="60"/>
@@ -10001,7 +10001,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="168"/>
         <source>Select an executable file</source>
-        <translation type="unfinished"/>
+        <translation>选择一个可执行文件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="230"/>
