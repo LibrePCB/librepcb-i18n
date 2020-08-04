@@ -2182,7 +2182,7 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="221"/>
         <source>Failed to open ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba při otevírání ZIP souboru &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="237"/>
@@ -2192,7 +2192,7 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="253"/>
         <source>Failed to create ZIP file.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba při vytváření ZIP souboru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="273"/>
@@ -4202,7 +4202,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="712"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Vybrat vše</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="325"/>
@@ -7880,7 +7880,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="923"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Vybrat vše</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="253"/>
@@ -8336,7 +8336,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdpasteschematicitems.cpp" line="71"/>
         <source>Paste Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Přilepit prvky schématu</translation>
     </message>
 </context>
 <context>
@@ -9414,12 +9414,12 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="808"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Vybrat vše</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="811"/>
         <source>Ctrl+A</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+A</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="212"/>
@@ -9621,7 +9621,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="506"/>
         <source>Paste Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Přilepit prvky schématu</translation>
     </message>
 </context>
 <context>

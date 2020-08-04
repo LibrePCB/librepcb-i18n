@@ -2182,7 +2182,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="221"/>
         <source>Failed to open ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba pri otváraní ZIP súboru &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="237"/>
@@ -2192,7 +2192,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="253"/>
         <source>Failed to create ZIP file.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba pri vytváraní ZIP súboru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="273"/>
@@ -4202,7 +4202,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="712"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Vybrať všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="325"/>
@@ -7880,7 +7880,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="923"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Vybrať všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="253"/>
@@ -8336,7 +8336,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdpasteschematicitems.cpp" line="71"/>
         <source>Paste Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Prilepiť elementy schémy</translation>
     </message>
 </context>
 <context>
@@ -9414,12 +9414,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="808"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Vybrať všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="811"/>
         <source>Ctrl+A</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+A</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="212"/>
@@ -9621,7 +9621,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="506"/>
         <source>Paste Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Prilepiť elementy schémy</translation>
     </message>
 </context>
 <context>
