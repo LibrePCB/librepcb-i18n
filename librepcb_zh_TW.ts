@@ -372,7 +372,7 @@
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="222"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>無效的長度單位：&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -693,7 +693,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/dev/msg/msgnopadsindeviceconnected.cpp" line="38"/>
         <source>No pads connected</source>
-        <translation type="unfinished"/>
+        <translation>焊墊尚未被連接</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/dev/msg/msgnopadsindeviceconnected.cpp" line="39"/>
