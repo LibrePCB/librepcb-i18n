@@ -6933,17 +6933,17 @@ Are you really sure to remove &quot;%2&quot;?</source>
 <context>
     <name>librepcb::project::NetSignal</name>
     <message>
-        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="152"/>
+        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="154"/>
         <source>The net signal &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation>無法移除連接線訊號&quot;%1&quot;因為它正在被使用中！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="260"/>
+        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="262"/>
         <source>Unused net signal: &quot;%1&quot;</source>
         <translation>未使用的連接線訊號：&quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="273"/>
+        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="285"/>
         <source>Net signal connected to less than two pins: &quot;%1&quot;</source>
         <translation>元件訊號&quot;%1&quot;已連接的引腳數少於 2 支</translation>
     </message>

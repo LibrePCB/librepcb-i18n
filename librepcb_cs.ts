@@ -6938,17 +6938,17 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
 <context>
     <name>librepcb::project::NetSignal</name>
     <message>
-        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="152"/>
+        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="154"/>
         <source>The net signal &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation>Signál &quot;%1&quot; nemůže být odstraněn, protože se stále používá!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="260"/>
+        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="262"/>
         <source>Unused net signal: &quot;%1&quot;</source>
         <translation>Nepoužitý signál: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="273"/>
+        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="285"/>
         <source>Net signal connected to less than two pins: &quot;%1&quot;</source>
         <translation>Signál má propojovat nejméně dva vývody: &quot;%1&quot;</translation>
     </message>
