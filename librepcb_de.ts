@@ -998,7 +998,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="120"/>
         <source>LibrePCB is a free &amp;amp; open source schematic/layout-editor. It is mainly developed by Urban Bruhin, with &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/graphs/contributors&quot;&gt;over a dozen other contributors&lt;/a&gt;!</source>
-        <translation>LibrePCB ist eine freie &amp;amp; open source Schema/Layout-Editor. Es wird hauptsächlich von Urban Bruhin entwickelt mit der Hilfe von &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/graphs/contributors&quot;&gt; vielen Beitragenden&lt;/a&gt;!</translation>
+        <translation>LibrePCB ist eine freie &amp;amp; open source Schaltplan/Layout-Editor. Es wird hauptsächlich von Urban Bruhin entwickelt mit der Hilfe von &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/graphs/contributors&quot;&gt; vielen Beitragenden&lt;/a&gt;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="163"/>
@@ -5934,12 +5934,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="304"/>
         <source>Directory exists already</source>
-        <translation type="unfinished"/>
+        <translation>Verzeichnis existiert bereits</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="305"/>
         <source>The directory &quot;%1&quot; exists already.</source>
-        <translation type="unfinished"/>
+        <translation>Das Verzeichnis &quot;%1&quot; existiert bereits.</translation>
     </message>
 </context>
 <context>
@@ -6010,12 +6010,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="271"/>
         <source>Open Library Editor</source>
-        <translation type="unfinished"/>
+        <translation>Öffne Biobliothek Editor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="278"/>
         <source>Remove this Library</source>
-        <translation type="unfinished"/>
+        <translation>Diese Bibliothek entfernen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="86"/>
@@ -6025,7 +6025,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="87"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nein</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="90"/>
@@ -6035,12 +6035,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="90"/>
         <source>Local</source>
-        <translation type="unfinished"/>
+        <translation>Lokal</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="125"/>
         <source>Remove Library</source>
-        <translation type="unfinished"/>
+        <translation>Bibliothek entfernen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.cpp" line="127"/>
@@ -6113,7 +6113,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="89"/>
         <source>Name + Version</source>
-        <translation type="unfinished"/>
+        <translation>Name + Version</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="146"/>
@@ -6128,12 +6128,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.ui" line="123"/>
         <source>Installed Version</source>
-        <translation type="unfinished"/>
+        <translation>Installierte Version</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="227"/>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>Installieren</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="209"/>
@@ -6143,17 +6143,17 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="211"/>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Aktualisieren</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="214"/>
         <source>Installed</source>
-        <translation type="unfinished"/>
+        <translation>Installiert</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="221"/>
         <source>Recommended</source>
-        <translation type="unfinished"/>
+        <translation>Empfohlen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="231"/>
@@ -6163,7 +6163,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/repositorylibrarylistwidgetitem.cpp" line="162"/>
         <source>Download failed</source>
-        <translation type="unfinished"/>
+        <translation>Download fehlgeschlagen</translation>
     </message>
 </context>
 <context>
@@ -6171,12 +6171,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/library/cmd/cmdprojectlibraryaddelement.cpp" line="44"/>
         <source>Add element to library</source>
-        <translation type="unfinished"/>
+        <translation>Element zu Bibliothek hinzufügen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/library/cmd/cmdprojectlibraryremoveelement.cpp" line="44"/>
         <source>Remove element from library</source>
-        <translation type="unfinished"/>
+        <translation>Element aus Bibliothek entfernen</translation>
     </message>
 </context>
 <context>
@@ -6484,7 +6484,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardplaneedit.cpp" line="43"/>
         <source>Edit plane</source>
-        <translation type="unfinished"/>
+        <translation>Fläche bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -6540,7 +6540,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardviaedit.cpp" line="40"/>
         <source>Edit via</source>
-        <translation type="unfinished"/>
+        <translation>Via bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -6570,7 +6570,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdcomponentinstanceedit.cpp" line="42"/>
         <source>Edit Component</source>
-        <translation type="unfinished"/>
+        <translation>Komponente bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -6578,7 +6578,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdcomponentinstanceremove.cpp" line="42"/>
         <source>Remove component</source>
-        <translation type="unfinished"/>
+        <translation>Komponente entfernen</translation>
     </message>
 </context>
 <context>
@@ -6642,7 +6642,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdnetclassadd.cpp" line="42"/>
         <source>Add netclass</source>
-        <translation type="unfinished"/>
+        <translation>Netzklasse hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -6650,7 +6650,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdnetclassedit.cpp" line="41"/>
         <source>Edit netclass</source>
-        <translation type="unfinished"/>
+        <translation>Netzklasse bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -6658,7 +6658,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdnetclassremove.cpp" line="42"/>
         <source>Remove netclass</source>
-        <translation type="unfinished"/>
+        <translation>Netzklasse entfernen</translation>
     </message>
 </context>
 <context>
@@ -6690,7 +6690,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/metadata/cmd/cmdprojectmetadataedit.cpp" line="39"/>
         <source>Edit Project Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Projekt Metadaten bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -6698,7 +6698,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/settings/cmd/cmdprojectsettingschange.cpp" line="41"/>
         <source>Change Project Settings</source>
-        <translation type="unfinished"/>
+        <translation>Projekt Einstellungen ändern</translation>
     </message>
 </context>
 <context>
@@ -6706,7 +6706,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicadd.cpp" line="42"/>
         <source>Add schematic</source>
-        <translation type="unfinished"/>
+        <translation>Schaltplan hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -6803,7 +6803,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicremove.cpp" line="42"/>
         <source>Remove schematic</source>
-        <translation type="unfinished"/>
+        <translation>Schaltplan entfernen</translation>
     </message>
 </context>
 <context>
@@ -6950,12 +6950,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="272"/>
         <source>Invalid schematic name: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Ungültiger Schaltplanname: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="278"/>
         <source>The schematic exists already: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Der Schaltplan existiert bereits: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="297"/>
