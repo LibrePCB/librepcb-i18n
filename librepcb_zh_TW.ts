@@ -985,7 +985,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/utils/mathparser.cpp" line="67"/>
         <source>Failed to parse expression:</source>
-        <translation type="unfinished"/>
+        <translation>解析表達式失敗：</translation>
     </message>
 </context>
 <context>
@@ -1736,7 +1736,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="39"/>
         <source>Appearance:</source>
-        <translation type="unfinished"/>
+        <translation>外觀：</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="48"/>
@@ -1805,12 +1805,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="64"/>
         <source>Enter numeric expression</source>
-        <translation type="unfinished"/>
+        <translation>輸入數字表達式</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="311"/>
         <source>internal</source>
-        <translation type="unfinished"/>
+        <translation>內部的</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="314"/>
@@ -2177,7 +2177,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="221"/>
         <source>Failed to open ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>ZIP 檔&apos;%1&apos;開啟失敗。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="237"/>
@@ -2187,7 +2187,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="253"/>
         <source>Failed to create ZIP file.</source>
-        <translation type="unfinished"/>
+        <translation>ZIP 檔建立失敗。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="273"/>
@@ -4197,7 +4197,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="712"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>全選</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="325"/>
@@ -7891,7 +7891,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="923"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>全選</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="253"/>
@@ -9425,7 +9425,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="808"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>全選</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="811"/>
@@ -9974,42 +9974,42 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="297"/>
         <source>PDF Reader</source>
-        <translation type="unfinished"/>
+        <translation>PDF 檢視器</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="309"/>
         <source>Reader to use:</source>
-        <translation type="unfinished"/>
+        <translation>欲使用的檢視器：</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="318"/>
         <source>System default</source>
-        <translation type="unfinished"/>
+        <translation>系統預設</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="331"/>
         <source>Run custom command</source>
-        <translation type="unfinished"/>
+        <translation>執行自訂指令</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="349"/>
         <source>Custom command:</source>
-        <translation type="unfinished"/>
+        <translation>自訂指令：</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="362"/>
         <source>Open PDF after export:</source>
-        <translation type="unfinished"/>
+        <translation>輸出後開啟 PDF：</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="371"/>
         <source>Always</source>
-        <translation type="unfinished"/>
+        <translation>總是</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="381"/>
         <source>Never</source>
-        <translation type="unfinished"/>
+        <translation>永不</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="391"/>
@@ -10044,12 +10044,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="78"/>
         <source>Click here to add a locale</source>
-        <translation type="unfinished"/>
+        <translation>點選這裡新增語系。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="103"/>
         <source>Click here to add a norm</source>
-        <translation type="unfinished"/>
+        <translation>點選這裡新增標準規範</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="126"/>
