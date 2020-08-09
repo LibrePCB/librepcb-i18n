@@ -8398,7 +8398,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::project::editor::CmdReplaceDevice</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/cmd/cmdreplacedevice.cpp" line="57"/>
+        <location filename="../libs/librepcb/projecteditor/cmd/cmdreplacedevice.cpp" line="55"/>
         <source>Change Device</source>
         <translation>Zmeniť súčiastku</translation>
     </message>

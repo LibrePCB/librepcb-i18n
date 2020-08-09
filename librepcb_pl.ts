@@ -8357,7 +8357,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::editor::CmdReplaceDevice</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/cmd/cmdreplacedevice.cpp" line="57"/>
+        <location filename="../libs/librepcb/projecteditor/cmd/cmdreplacedevice.cpp" line="55"/>
         <source>Change Device</source>
         <translation type="unfinished"/>
     </message>
