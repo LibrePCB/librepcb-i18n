@@ -7150,31 +7150,61 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::editor::BES_AddVia</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="130"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="66"/>
+        <source>Auto</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="134"/>
         <source>Size:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="142"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="146"/>
         <source>Drill:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="154"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="158"/>
         <source>Signal:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="188"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="313"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="328"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="350"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="392"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="324"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="335"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="354"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="468"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="515"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="290"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="372"/>
+        <source>Multiple different signals at via position.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="388"/>
+        <source>Via of a different signal already present at target position.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="396"/>
+        <source>Pad of a different signal already present at target position.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="405"/>
+        <source>Netpoint of a different signal already present at target position.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="414"/>
+        <source>Netline of a different signal already present at target position.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="297"/>
         <source>Add via to board</source>
         <translation type="unfinished"/>
     </message>
@@ -7265,7 +7295,7 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="506"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="505"/>
         <source>Draw Board Trace</source>
         <translation type="unfinished"/>
     </message>
@@ -8233,6 +8263,14 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdaddsymboltoschematic.cpp" line="90"/>
         <source>The symbol with the UUID &quot;%1&quot; does not exist in the workspace library!</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::project::editor::CmdBoardSplitNetLine</name>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/cmd/cmdboardsplitnetline.cpp" line="42"/>
+        <source>Split trace</source>
         <translation type="unfinished"/>
     </message>
 </context>

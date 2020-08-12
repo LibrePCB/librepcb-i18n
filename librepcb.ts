@@ -7206,7 +7206,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="66"/>
         <source>Auto</source>
-        <translation type="unfinished">Auto</translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="134"/>
@@ -7235,27 +7235,27 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="372"/>
         <source>Multiple different signals at via position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiple different signals at via position.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="388"/>
         <source>Via of a different signal already present at target position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Via of a different signal already present at target position.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="396"/>
         <source>Pad of a different signal already present at target position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad of a different signal already present at target position.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="405"/>
         <source>Netpoint of a different signal already present at target position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Netpoint of a different signal already present at target position.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="414"/>
         <source>Netline of a different signal already present at target position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Netline of a different signal already present at target position.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="297"/>
@@ -8328,7 +8328,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdboardsplitnetline.cpp" line="42"/>
         <source>Split trace</source>
-        <translation type="unfinished"></translation>
+        <translation>Split trace</translation>
     </message>
 </context>
 <context>
