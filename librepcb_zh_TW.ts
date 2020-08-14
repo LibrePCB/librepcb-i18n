@@ -10007,7 +10007,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="285"/>
         <source>External Applications</source>
-        <translation type="unfinished"/>
+        <translation>外部程式</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="297"/>
@@ -10097,7 +10097,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="168"/>
         <source>Select an executable file</source>
-        <translation type="unfinished"/>
+        <translation>請選擇一個執行檔</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="230"/>
