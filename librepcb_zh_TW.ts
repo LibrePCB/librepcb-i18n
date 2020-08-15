@@ -7223,7 +7223,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="372"/>
         <source>Multiple different signals at via position.</source>
-        <translation type="unfinished"/>
+        <translation>導通孔被多個不同的訊號定義</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="388"/>
@@ -7997,7 +7997,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="573"/>
         <source>PDF exported successfully</source>
-        <translation type="unfinished"/>
+        <translation>成功匯出 PDF</translation>
     </message>
 </context>
 <context>
@@ -8313,7 +8313,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdboardsplitnetline.cpp" line="42"/>
         <source>Split trace</source>
-        <translation type="unfinished"/>
+        <translation>分割走線</translation>
     </message>
 </context>
 <context>
@@ -8385,7 +8385,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdpasteschematicitems.cpp" line="71"/>
         <source>Paste Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>貼上線路圖元素</translation>
     </message>
 </context>
 <context>
@@ -9468,7 +9468,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="811"/>
         <source>Ctrl+A</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+A</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="212"/>
@@ -9478,7 +9478,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="436"/>
         <source>PDF exported successfully</source>
-        <translation type="unfinished"/>
+        <translation>成功匯出 PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="478"/>
@@ -9670,7 +9670,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="506"/>
         <source>Paste Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>貼上線路圖元素</translation>
     </message>
 </context>
 <context>
@@ -10067,7 +10067,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="435"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pick an executable file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;選取一個執行檔&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="438"/>
