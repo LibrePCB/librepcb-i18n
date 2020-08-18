@@ -7228,27 +7228,27 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="372"/>
         <source>Multiple different signals at via position.</source>
-        <translation type="unfinished"/>
+        <translation>Viacero rôznych signálov na pozícii prechodu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="388"/>
         <source>Via of a different signal already present at target position.</source>
-        <translation type="unfinished"/>
+        <translation>Prechod patriaci inému signálu už je na cieľovej pozícii.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="396"/>
         <source>Pad of a different signal already present at target position.</source>
-        <translation type="unfinished"/>
+        <translation>Plôška patriaca inému signálu už je na cieľovej pozícii.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="405"/>
         <source>Netpoint of a different signal already present at target position.</source>
-        <translation type="unfinished"/>
+        <translation>Bod patriaci inému signálu už je na cieľovej pozícii.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="414"/>
         <source>Netline of a different signal already present at target position.</source>
-        <translation type="unfinished"/>
+        <translation>Spoj patriaci inému signálu už je na cieľovej pozícii.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="297"/>
@@ -8318,7 +8318,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdboardsplitnetline.cpp" line="42"/>
         <source>Split trace</source>
-        <translation type="unfinished"/>
+        <translation>Rozdeliť spoj</translation>
     </message>
 </context>
 <context>
