@@ -7364,100 +7364,135 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::editor::BES_Select</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="277"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="447"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="485"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="515"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="91"/>
         <source>Rotate</source>
         <translation>旋轉</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="279"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="449"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="487"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="517"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="92"/>
         <source>Flip</source>
         <translation>翻轉</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="282"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="93"/>
+        <source>Remove</source>
+        <translation>移除</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="95"/>
+        <source>Remove Whole Trace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="101"/>
+        <source>Snap To Grid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="296"/>
         <source>Remove %1</source>
         <translation>移除 %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="285"/>
-        <source>Snap to grid</source>
-        <translation>吸附網格</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="293"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="311"/>
         <source>Change Device</source>
         <translation>變更裝置</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="305"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="334"/>
         <source>Change Footprint</source>
         <translation>變更腳位圖</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="322"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="422"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="491"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="521"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="547"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="99"/>
         <source>Properties</source>
         <translation>Properties</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="343"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="349"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="367"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="653"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="733"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="749"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="764"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="789"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="305"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="326"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="354"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="523"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="637"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="676"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="692"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="707"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="732"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="386"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="420"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="103"/>
         <source>Select Whole Trace</source>
         <translation>選取整條走線</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="390"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="97"/>
         <source>Measure Selected Segments Length</source>
         <translation>測量選擇的線段長度</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="802"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="745"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
         <translation><numerusform>%n 條走線線段的總長度為：%2 mm / %3 in</numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="809"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="752"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
         <translation>警告：總共有%1條走線已選擇，但是它們並不是完全相連的！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="837"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="780"/>
         <source>Selected trace segments may not branch!</source>
         <translation>選擇的走線線段無法建立分支！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="453"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="416"/>
         <source>Visible</source>
         <translation>可見的</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="458"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="300"/>
+        <source>Reset all texts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="369"/>
+        <source>Remove Trace Segment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="398"/>
+        <source>Remove Via</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="414"/>
+        <source>Remove Plane</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="424"/>
         <source>Plane Properties</source>
         <translation>平面內容</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="800"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="434"/>
+        <source>Remove Polygon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="446"/>
+        <source>Remove Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="458"/>
+        <source>Remove Hole</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="743"/>
         <source>Measurement Result</source>
         <translation>量測結果</translation>
     </message>

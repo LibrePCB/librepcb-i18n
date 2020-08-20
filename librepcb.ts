@@ -7388,17 +7388,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="93"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="95"/>
         <source>Remove Whole Trace</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove Whole Trace</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="101"/>
         <source>Snap To Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Snap To Grid</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="296"/>
@@ -7469,22 +7469,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="300"/>
         <source>Reset all texts</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset all texts</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="369"/>
         <source>Remove Trace Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove Trace Segment</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="398"/>
         <source>Remove Via</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove Via</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="414"/>
         <source>Remove Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove Plane</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="424"/>
@@ -7494,17 +7494,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="434"/>
         <source>Remove Polygon</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove Polygon</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="446"/>
         <source>Remove Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove Text</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="458"/>
         <source>Remove Hole</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove Hole</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="743"/>
