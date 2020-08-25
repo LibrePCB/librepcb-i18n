@@ -7976,7 +7976,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="107"/>
         <source>%1 - LibrePCB Board Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - LibrePCB Board Editor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="253"/>
@@ -9578,7 +9578,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="91"/>
         <source>%1 - LibrePCB Schematic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - LibrePCB Schematic Editor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="203"/>
