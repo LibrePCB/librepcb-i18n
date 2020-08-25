@@ -7964,7 +7964,7 @@ You need at least LibrePCB %1 to open it.
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="911"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="618"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="617"/>
         <source>SVG Export</source>
         <translation>SVG Export</translation>
     </message>
@@ -7972,6 +7972,11 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="923"/>
         <source>Select All</source>
         <translation>Select All</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="107"/>
+        <source>%1 - LibrePCB Board Editor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="253"/>
@@ -8002,12 +8007,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="435"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="455"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="472"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="510"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="597"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="644"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="689"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="715"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="471"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="509"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="596"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="643"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="688"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="714"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -8032,20 +8037,20 @@ You need at least LibrePCB %1 to open it.
         <translation>Are you really sure to remove the board &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="496"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="518"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="605"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="495"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="517"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="604"/>
         <source>No board selected.</source>
         <translation>No board selected.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="531"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="572"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="530"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="571"/>
         <source>PDF Export</source>
         <translation>PDF Export</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="573"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="572"/>
         <source>PDF exported successfully</source>
         <translation>PDF exported successfully</translation>
     </message>
@@ -9569,6 +9574,11 @@ Do you want to save them before closing the project?</translation>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="695"/>
         <source>Error</source>
         <translation>Error</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="91"/>
+        <source>%1 - LibrePCB Schematic Editor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="203"/>
