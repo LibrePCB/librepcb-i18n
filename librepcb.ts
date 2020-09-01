@@ -7359,16 +7359,21 @@ You need at least LibrePCB %1 to open it.
         <translation>No layer selected.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="561"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="577"/>
+        <source>Pad is not connected to any signal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="582"/>
         <source>Nothing here to connect.</source>
         <translation>Nothing here to connect.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="618"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="776"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="795"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="821"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="1006"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="639"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="797"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="816"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="842"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="1042"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
