@@ -7361,7 +7361,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="577"/>
         <source>Pad is not connected to any signal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad is not connected to any signal.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="582"/>
