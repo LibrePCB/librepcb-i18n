@@ -7071,399 +7071,6 @@ You need at least LibrePCB %1 to open it.
     </message>
 </context>
 <context>
-    <name>librepcb::project::editor::BES_AddDevice</name>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_adddevice.cpp" line="79"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_adddevice.cpp" line="116"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_adddevice.cpp" line="179"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_adddevice.cpp" line="283"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_adddevice.cpp" line="305"/>
-        <source>Error</source>
-        <translation>Errore</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_adddevice.cpp" line="117"/>
-        <source>Could not add device:
-
-%1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_adddevice.cpp" line="241"/>
-        <source>Add device to board</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>librepcb::project::editor::BES_AddHole</name>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addhole.cpp" line="90"/>
-        <source>Diameter:</source>
-        <translation>Diametro:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addhole.cpp" line="115"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addhole.cpp" line="203"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addhole.cpp" line="233"/>
-        <source>Error</source>
-        <translation>Errore</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addhole.cpp" line="186"/>
-        <source>Add hole to board</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>librepcb::project::editor::BES_AddStrokeText</name>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="104"/>
-        <source>Layer:</source>
-        <translation>Strati:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="121"/>
-        <source>Text:</source>
-        <translation>Testo:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="140"/>
-        <source>Height:</source>
-        <translation>Altezza:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="152"/>
-        <source>Mirror:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="177"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="312"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="342"/>
-        <source>Error</source>
-        <translation>Errore</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addstroketext.cpp" line="289"/>
-        <source>Add text to board</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>librepcb::project::editor::BES_AddVia</name>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="66"/>
-        <source>Auto</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="134"/>
-        <source>Size:</source>
-        <translation>Dimensione:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="146"/>
-        <source>Drill:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="158"/>
-        <source>Signal:</source>
-        <translation>Segnale:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="322"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="333"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="352"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="468"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="515"/>
-        <source>Error</source>
-        <translation>Errore</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="371"/>
-        <source>Multiple different signals at via position.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="387"/>
-        <source>Via of a different signal already present at target position.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="396"/>
-        <source>Pad of a different signal already present at target position.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="406"/>
-        <source>Netpoint of a different signal already present at target position.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="415"/>
-        <source>Netline of a different signal already present at target position.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_addvia.cpp" line="295"/>
-        <source>Add via to board</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>librepcb::project::editor::BES_DrawPlane</name>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="103"/>
-        <source>Signal:</source>
-        <translation>Segnale:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="127"/>
-        <source>Layer:</source>
-        <translation>Strati:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="285"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="325"/>
-        <source>Draw board plane</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="300"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="337"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="352"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawplane.cpp" line="390"/>
-        <source>Error</source>
-        <translation>Errore</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::project::editor::BES_DrawPolygon</name>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="98"/>
-        <source>Layer:</source>
-        <translation>Strati:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="114"/>
-        <source>Width:</source>
-        <translation>Larghezza:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="126"/>
-        <source>Filled:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="278"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="316"/>
-        <source>Draw Board Polygon</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="294"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="327"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawpolygon.cpp" line="342"/>
-        <source>Error</source>
-        <translation>Errore</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::project::editor::BES_DrawTrace</name>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="228"/>
-        <source>Layer:</source>
-        <translation>Strati:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="208"/>
-        <source>Width:</source>
-        <translation>Larghezza:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="220"/>
-        <source>Auto</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="273"/>
-        <source>Size:</source>
-        <translation>Dimensione:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="285"/>
-        <source>Drill:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="503"/>
-        <source>Draw Board Trace</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="511"/>
-        <source>No layer selected.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="542"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="583"/>
-        <source>Pad is not connected to any signal.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="588"/>
-        <source>Nothing here to connect.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="645"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="803"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="822"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="847"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_drawtrace.cpp" line="1047"/>
-        <source>Error</source>
-        <translation>Errore</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::project::editor::BES_Select</name>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="92"/>
-        <source>Rotate</source>
-        <translation>Ruota</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="93"/>
-        <source>Flip</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="95"/>
-        <source>Remove</source>
-        <translation>Elimina</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="98"/>
-        <source>Remove Whole Trace</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="105"/>
-        <source>Snap To Grid</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="296"/>
-        <source>Remove %1</source>
-        <translation>Rimuovi %1 </translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="311"/>
-        <source>Change Device</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="334"/>
-        <source>Change Footprint</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="103"/>
-        <source>Properties</source>
-        <translation>Proprietà</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="305"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="326"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="356"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="525"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="638"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="676"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="692"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="707"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="732"/>
-        <source>Error</source>
-        <translation>Errore</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="108"/>
-        <source>Select Whole Trace</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.h" line="101"/>
-        <source>Measure Selected Segments Length</source>
-        <translation type="unfinished"/>
-    </message>
-    <message numerus="yes">
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="745"/>
-        <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="752"/>
-        <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="780"/>
-        <source>Selected trace segments may not branch!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="418"/>
-        <source>Visible</source>
-        <translation>Visibile</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="300"/>
-        <source>Reset all texts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="371"/>
-        <source>Remove Trace Segment</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="400"/>
-        <source>Remove Via</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="416"/>
-        <source>Remove Plane</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="426"/>
-        <source>Plane Properties</source>
-        <translation>Proprietà dei paini</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="436"/>
-        <source>Remove Polygon</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="448"/>
-        <source>Remove Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="460"/>
-        <source>Remove Hole</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/bes_select.cpp" line="743"/>
-        <source>Measurement Result</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>librepcb::project::editor::BoardDesignRuleCheckDialog</name>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="14"/>
@@ -7915,7 +7522,7 @@ You need at least LibrePCB %1 to open it.
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="911"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="615"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="612"/>
         <source>SVG Export</source>
         <translation>Esporta SVG</translation>
     </message>
@@ -7930,79 +7537,470 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="253"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="243"/>
         <source>Find device...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="262"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="252"/>
         <source>Scanning libraries (%p%)</source>
         <translation>Lettura librerie (%p%) </translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="425"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
         <source>Add New Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="425"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="445"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="442"/>
         <source>Choose a name:</source>
         <translation>Scegli un nome:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="426"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="423"/>
         <source>new_board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="435"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="455"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="472"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="510"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="594"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="641"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="686"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="712"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="432"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="452"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="469"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="507"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="591"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="638"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="683"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="709"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="445"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="442"/>
         <source>Copy Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="446"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="443"/>
         <source>copy_of_%1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="464"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="461"/>
         <source>Remove board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="465"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="462"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="496"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="518"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="602"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="493"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="515"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="599"/>
         <source>No board selected.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="531"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="571"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="528"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="568"/>
         <source>PDF Export</source>
         <translation>Esporta PDF</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="571"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="568"/>
         <source>PDF exported successfully</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::project::editor::BoardEditorState_AddDevice</name>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="127"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="182"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="207"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="229"/>
+        <source>Error</source>
+        <translation>Errore</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="165"/>
+        <source>Add device to board</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="183"/>
+        <source>Could not add device:
+
+%1</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::project::editor::BoardEditorState_AddHole</name>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addhole.cpp" line="81"/>
+        <source>Diameter:</source>
+        <translation>Diametro:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addhole.cpp" line="147"/>
+        <source>Add hole to board</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addhole.cpp" line="157"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addhole.cpp" line="185"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addhole.cpp" line="207"/>
+        <source>Error</source>
+        <translation>Errore</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::project::editor::BoardEditorState_AddStrokeText</name>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="96"/>
+        <source>Layer:</source>
+        <translation>Strato:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="110"/>
+        <source>Text:</source>
+        <translation>Testo:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="130"/>
+        <source>Height:</source>
+        <translation>Altezza:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="142"/>
+        <source>Mirror:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="244"/>
+        <source>Add text to board</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="256"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="309"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="331"/>
+        <source>Error</source>
+        <translation>Errore</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::project::editor::BoardEditorState_AddVia</name>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="66"/>
+        <source>Auto</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="127"/>
+        <source>Size:</source>
+        <translation>Dimensione:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="139"/>
+        <source>Drill:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="151"/>
+        <source>Signal:</source>
+        <translation>Segnale:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="243"/>
+        <source>Add via to board</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="266"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="305"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="427"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="449"/>
+        <source>Error</source>
+        <translation>Errore</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="326"/>
+        <source>Multiple different signals at via position.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="342"/>
+        <source>Via of a different signal already present at target position.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="351"/>
+        <source>Pad of a different signal already present at target position.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="361"/>
+        <source>Netpoint of a different signal already present at target position.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="370"/>
+        <source>Netline of a different signal already present at target position.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::project::editor::BoardEditorState_DrawPlane</name>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="88"/>
+        <source>Signal:</source>
+        <translation>Segnale:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="111"/>
+        <source>Layer:</source>
+        <translation>Strato:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="214"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="254"/>
+        <source>Draw board plane</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="229"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="268"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="294"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="314"/>
+        <source>Error</source>
+        <translation>Errore</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::project::editor::BoardEditorState_DrawPolygon</name>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="86"/>
+        <source>Layer:</source>
+        <translation>Strato:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="99"/>
+        <source>Width:</source>
+        <translation>Larghezza:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="111"/>
+        <source>Filled:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="209"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="256"/>
+        <source>Draw board polygon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="226"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="268"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="302"/>
+        <source>Error</source>
+        <translation>Errore</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::project::editor::BoardEditorState_DrawTrace</name>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="132"/>
+        <source>Width:</source>
+        <translation>Larghezza:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="144"/>
+        <source>Auto</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="152"/>
+        <source>Layer:</source>
+        <translation>Strato:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="194"/>
+        <source>Size:</source>
+        <translation>Dimensione:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="206"/>
+        <source>Drill:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="414"/>
+        <source>Draw Board Trace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="422"/>
+        <source>No layer selected.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="453"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="494"/>
+        <source>Pad is not connected to any signal.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="499"/>
+        <source>Nothing here to connect.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="557"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="715"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="734"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="759"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="924"/>
+        <source>Error</source>
+        <translation>Errore</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::project::editor::BoardEditorState_Select</name>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="211"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="303"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="325"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="356"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="551"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="588"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="604"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="618"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="643"/>
+        <source>Error</source>
+        <translation>Errore</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="293"/>
+        <source>Remove %1</source>
+        <translation>Rimuovi %1 </translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="297"/>
+        <source>Reset all texts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="309"/>
+        <source>Change Device</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="333"/>
+        <source>Change Footprint</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="372"/>
+        <source>Remove Trace Segment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="401"/>
+        <source>Remove Via</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="417"/>
+        <source>Remove Plane</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="419"/>
+        <source>Visible</source>
+        <translation>Visibile</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="428"/>
+        <source>Plane Properties</source>
+        <translation>Proprietà dei piani</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="438"/>
+        <source>Remove Polygon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="450"/>
+        <source>Remove Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="462"/>
+        <source>Remove Hole</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="654"/>
+        <source>Measurement Result</source>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="656"/>
+        <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="663"/>
+        <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="690"/>
+        <source>Selected trace segments may not branch!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="108"/>
+        <source>Rotate</source>
+        <translation>Ruota</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="109"/>
+        <source>Flip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="111"/>
+        <source>Remove</source>
+        <translation>Elimina</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="114"/>
+        <source>Remove Whole Trace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="117"/>
+        <source>Measure Selected Segments Length</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="119"/>
+        <source>Properties</source>
+        <translation>Proprietà</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="121"/>
+        <source>Snap To Grid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="124"/>
+        <source>Select Whole Trace</source>
         <translation type="unfinished"/>
     </message>
 </context>
