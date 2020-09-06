@@ -7845,7 +7845,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="209"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="256"/>
         <source>Draw board polygon</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť polygón na doske</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="226"/>
@@ -7996,7 +7996,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message numerus="yes">
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="656"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Celková dĺžka %n segmentu spoja: %2 mm / %3 in</numerusform><numerusform>Celková dĺžka %n segmentov spoja: %2 mm / %3 in</numerusform><numerusform>Celková dĺžka %n segmentov spoja: %2 mm / %3 in</numerusform><numerusform>Celková dĺžka %n segmentov spoja: %2 mm / %3 in</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="663"/>
