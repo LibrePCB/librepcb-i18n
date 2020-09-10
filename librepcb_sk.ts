@@ -4951,19 +4951,24 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Číslo verzie zodpovedá sémantickému verziovaniu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="139"/>
+        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="155"/>
         <source>Choose category</source>
         <translation>Zvoliť kategóriu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="161"/>
+        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="177"/>
         <source>Reset</source>
         <translation>Vynulovať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.cpp" line="191"/>
+        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.cpp" line="199"/>
         <source>Root category</source>
         <translation>Koreňová kategória</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.cpp" line="205"/>
+        <source>... and %1 more.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

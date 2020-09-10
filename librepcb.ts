@@ -4972,7 +4972,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.cpp" line="205"/>
         <source>... and %1 more.</source>
-        <translation type="unfinished"></translation>
+        <translation>... and %1 more.</translation>
     </message>
 </context>
 <context>
