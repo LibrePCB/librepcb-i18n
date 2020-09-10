@@ -120,7 +120,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Exportiere Schaltpläne in angegebene Datei(en). Bestehende Dateien werden überschrieben. Unterstützte Dateiendungen: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="97"/>
@@ -1311,7 +1311,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="51"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Grifffläche</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="60"/>
@@ -1355,7 +1355,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/geometry/cmd/cmdholeedit.cpp" line="39"/>
         <source>Edit hole</source>
-        <translation type="unfinished"/>
+        <translation>Bohrung bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -1507,12 +1507,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="202"/>
         <source>Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Griffflächen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="203"/>
         <source>Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Versteckte Griffflächen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="204"/>
@@ -1868,7 +1868,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="193"/>
         <source>Receive data: %1</source>
-        <translation type="unfinished"/>
+        <translation>Empfange Daten: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="208"/>
@@ -1893,17 +1893,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="259"/>
         <source>Request successfully finished.</source>
-        <translation type="unfinished"/>
+        <translation>Anfrage erfolgreich abgeschlossen.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="265"/>
         <source>Request aborted.</source>
-        <translation type="unfinished"/>
+        <translation>Anfrage abgebrochen.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="271"/>
         <source>Request failed: %1</source>
-        <translation type="unfinished"/>
+        <translation>Anfrage fehlgeschlagen: %1</translation>
     </message>
 </context>
 <context>
@@ -1911,12 +1911,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="184"/>
         <source>Pos. X</source>
-        <translation type="unfinished"/>
+        <translation>X-Position</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="186"/>
         <source>Pos. Y</source>
-        <translation type="unfinished"/>
+        <translation>Y-Position</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="188"/>
@@ -1936,7 +1936,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="204"/>
         <source>Add a new vertex</source>
-        <translation type="unfinished"/>
+        <translation>Neuen Knoten hinzufügen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="271"/>
@@ -1969,7 +1969,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="51"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Grifffläche</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="60"/>
@@ -5147,7 +5147,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="104"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Grifffläche</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="165"/>
@@ -5187,7 +5187,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="121"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Grifffläche</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="207"/>
@@ -5497,7 +5497,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="104"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Grifffläche</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="165"/>
@@ -5537,7 +5537,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="121"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Grifffläche</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="206"/>
@@ -5834,7 +5834,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="293"/>
         <source>Local directory:</source>
-        <translation type="unfinished"/>
+        <translation>Lokales Verzeichnis:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="310"/>
@@ -5849,7 +5849,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="341"/>
         <source>No error.</source>
-        <translation type="unfinished"/>
+        <translation>Kein Fehler.</translation>
     </message>
 </context>
 <context>
@@ -5879,32 +5879,32 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="163"/>
         <source>Please enter a name.</source>
-        <translation type="unfinished"/>
+        <translation>Bitte gebe einen Namen ein.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="168"/>
         <source>Please enter an author.</source>
-        <translation type="unfinished"/>
+        <translation>Bitte gebe einen Autor ein.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="173"/>
         <source>The specified version number is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Die angegebene Versionsnummer ist nicht gültig.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="178"/>
         <source>The specified URL is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Die angegebene URL ist nicht gültig.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="183"/>
         <source>Please enter a directory name.</source>
-        <translation type="unfinished"/>
+        <translation>Bitte gebe einen Verzeichnisnamen ein.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="188"/>
         <source>The specified directory exists already.</source>
-        <translation type="unfinished"/>
+        <translation>Das angegebene Verzeichnis existiert bereits.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="271"/>
@@ -5914,7 +5914,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="277"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Beschäftigt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="278"/>
@@ -5924,12 +5924,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="295"/>
         <source>Please enter a valid URL.</source>
-        <translation type="unfinished"/>
+        <translation>Bitte gebe eine gültige URL ein.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="300"/>
         <source>Please enter a valid directory.</source>
-        <translation type="unfinished"/>
+        <translation>Bitte gebe ein gültiges Verzeichnis ein.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="304"/>
@@ -6067,7 +6067,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.cpp" line="68"/>
         <source>Add a new library</source>
-        <translation type="unfinished"/>
+        <translation>Neue Bibliothek hinzufügen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarylistwidgetitem.cpp" line="69"/>
@@ -6090,7 +6090,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.cpp" line="149"/>
         <source>Could not load library list</source>
-        <translation type="unfinished"/>
+        <translation>Konnte Bibliotheksliste nicht laden</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.cpp" line="196"/>
@@ -6243,7 +6243,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="117"/>
         <source>Missing connection: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
+        <translation>Fehlende Verbindung: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="129"/>
