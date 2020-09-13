@@ -10018,37 +10018,37 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="285"/>
         <source>External Applications</source>
-        <translation type="unfinished"/>
+        <translation>Applicazioni esterne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="297"/>
         <source>PDF Reader</source>
-        <translation type="unfinished"/>
+        <translation>Lettore PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="309"/>
         <source>Reader to use:</source>
-        <translation type="unfinished"/>
+        <translation>Lettore da usare:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="318"/>
         <source>System default</source>
-        <translation type="unfinished"/>
+        <translation>Default del sistema</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="331"/>
         <source>Run custom command</source>
-        <translation type="unfinished"/>
+        <translation>Esegui comando personalizzato</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="349"/>
         <source>Custom command:</source>
-        <translation type="unfinished"/>
+        <translation>Comando personalizzato:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="362"/>
         <source>Open PDF after export:</source>
-        <translation type="unfinished"/>
+        <translation>Apri PDF dopo l&apos;esportazione:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="371"/>
@@ -10058,12 +10058,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="381"/>
         <source>Never</source>
-        <translation type="unfinished"/>
+        <translation>Mai</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="391"/>
         <source>Ask every time</source>
-        <translation type="unfinished"/>
+        <translation>Chiedi ogni volta</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="419"/>
@@ -10078,12 +10078,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="435"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pick an executable file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Scegli un file eseguibile&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="438"/>
         <source>Pick</source>
-        <translation type="unfinished"/>
+        <translation>Scegli</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="60"/>
@@ -10108,14 +10108,15 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="168"/>
         <source>Select an executable file</source>
-        <translation type="unfinished"/>
+        <translation>Seleziona un file eseguibile</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="230"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
-        <translation type="unfinished"/>
+        <translation>Sei sicuro di ripristinare tutte le impostazioni ai valori predefiniti?
+Attenzione: questo verrà applicato immediatamente e non può essere annullato!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="335"/>
@@ -10133,12 +10134,13 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="183"/>
         <source>Unstable file format!</source>
-        <translation type="unfinished"/>
+        <translation>Formato dile instabile!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="184"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;&lt;b&gt; ATTENZIONE: questa versione dell&apos;applicazione è INSTABILE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Tutto ciò che fai con questa applicazione può danneggiare il tuo spazio di lavoro, le tue librerie o i tuoi progetti! I file salvati non saranno leggibili con le versioni stabili di LibrePCB. Si consiglia vivamente di creare un backup prima di procedere. Se non sei sicuro, scarica invece una versione stabile ufficiale.&lt;/p&gt;&lt;p&gt; Per i dettagli, dai un&apos;occhiata al controllo delle versioni su LibrePCB&lt;a href=&quot;%1&quot;&gt;.&lt;/p&gt;&lt;p&gt;Sei davvero sicuro di continuare con il rischio di rompere i tuoi file ?!&lt;/p&gt;
+ </translation>
     </message>
 </context>
 </TS>
