@@ -2360,7 +2360,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="550"/>
         <source>Workspace Settings</source>
-        <translation type="unfinished"/>
+        <translation>Impostazioni dell&apos;area di lavoro</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="565"/>
@@ -2667,7 +2667,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="66"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Questo nome verrà utilizzato come autore durante la creazione di nuovi progetti o librerie.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="81"/>
@@ -9488,7 +9488,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="610"/>
         <source>Choose new name:</source>
-        <translation type="unfinished"/>
+        <translation>Scegli un nuovo nome:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="403"/>
@@ -9700,12 +9700,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/workspacechooserdialog.ui" line="14"/>
         <source>Please choose a workspace</source>
-        <translation type="unfinished"/>
+        <translation>Scegli un&apos;area di lavoro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspacechooserdialog.ui" line="35"/>
         <source>Add existing Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi area di lavoro esistente</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/workspacechooserdialog.ui" line="42"/>
@@ -9715,7 +9715,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/workspacechooserdialog.ui" line="49"/>
         <source>Remove selected Workspaces from list</source>
-        <translation type="unfinished"/>
+        <translation>Rimuovi gli spazi di lavoro selezionati dall&apos;elenco</translation>
     </message>
 </context>
 <context>
@@ -9723,12 +9723,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="401"/>
         <source>Library not found in workspace library: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Libreria non trovata nella libreria dell&apos;area di lavoro: &quot;% 1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="423"/>
         <source>Device not found in workspace library: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo non trovato nella libreria dell&apos;area di lavoro: &quot;% 1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="631"/>
@@ -9743,7 +9743,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/library/workspacelibrarydb.cpp" line="742"/>
         <source>The library &quot;%1&quot; does not exist in the library database.</source>
-        <translation type="unfinished"/>
+        <translation>La libreria &quot;%1&quot; non esiste nel database della libreria.</translation>
     </message>
 </context>
 <context>
@@ -9751,7 +9751,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="17"/>
         <source>Workspace Settings</source>
-        <translation type="unfinished"/>
+        <translation>Impostazioni dell&apos;area di lavoro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="33"/>
@@ -9766,12 +9766,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="64"/>
         <source>Changing the language requires to restart the application.</source>
-        <translation type="unfinished"/>
+        <translation>La modifica della lingua richiede il riavvio dell&apos;applicazione.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="76"/>
         <source>Default Length Unit:</source>
-        <translation type="unfinished"/>
+        <translation>Unità di lunghezza predefinita:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="90"/>
@@ -9787,7 +9787,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="124"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Questo nome verrà utilizzato come autore durante la creazione di nuovi progetti o librerie.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="136"/>
@@ -9797,17 +9797,17 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="155"/>
         <source>Seconds (0 = disable autosave)</source>
-        <translation type="unfinished"/>
+        <translation>Secondi (0 = disabilita il salvataggio automatico)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="165"/>
         <source>Appearance</source>
-        <translation type="unfinished"/>
+        <translation>Aspetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="171"/>
         <source>Rendering Method:</source>
-        <translation type="unfinished"/>
+        <translation>Metodo di Rendering:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="180"/>
@@ -9844,7 +9844,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="261"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Repositories are used to browse, download and update libraries.&lt;br/&gt;You can add any server to this list which implements the LibrePCB API.&lt;br/&gt;The official LibrePCB server is &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Le repository vengono utilizzati per sfogliare, scaricare e aggiornare le librerie.&lt;br/&gt;È possibile aggiungere a questo elenco qualsiasi server che implementa l&apos;API di LibrePCB.&lt;br/&gt;Il server ufficiale LibrePCB è &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="60"/>
