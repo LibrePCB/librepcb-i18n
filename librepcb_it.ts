@@ -80,12 +80,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="70"/>
         <source>Open a project to execute project-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Apri un progetto per eseguire attività relative al progetto.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="71"/>
         <source>open-project [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>apri-progetto [opzioni_comando]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="73"/>
@@ -95,7 +95,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="74"/>
         <source>open-library [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>apri-libreria [opzioni_comando]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="79"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="112"/>
         <source>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Elenco separato da virgole di attributi aggiuntivi da esportare nella distinta componenti. Esempio:&quot;%1&quot; </translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="115"/>
@@ -158,12 +158,13 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="123"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>Sostituisci le impostazioni di output di fabbricazione PCB fornendo un file * .lp contenente impostazioni personalizzate. Se non impostato, verranno invece utilizzate le impostazioni delle schede.
+ </translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="128"/>
         <source>The name of the board(s) to export. Can be given multiple times. If not set, all boards are exported.</source>
-        <translation type="unfinished"/>
+        <translation>Il nome delle scheda(e) da esportare. Può essere somministrato più volte. Se non impostato, tutte le schede vengono esportate.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="131"/>
@@ -188,7 +189,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="145"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
-        <translation type="unfinished"/>
+        <translation>Salvare la libreria (e gli elementi contenuti se viene fornito &apos;--all&apos;) prima di chiuderli (utile per aggiornare il formato del file).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="148"/>
@@ -213,7 +214,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="669"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
-        <translation type="unfinished"/>
+        <translation>Controlla &apos;% 1&apos; per i file non canonici ...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="686"/>
@@ -223,7 +224,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="714"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
-        <translation type="unfinished"/>
+        <translation>Questa versione dell&apos;applicazione è INSTABILE! L&apos;opzione &apos;% 1&apos; è disabilitata per evitare di interrompere progetti o librerie. Utilizza invece una versione stabile.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
@@ -448,7 +449,7 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="237"/>
         <source>Devices --&gt; Components + Devices</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivi -&gt; Componenti + Dispositivi</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="244"/>
@@ -473,7 +474,7 @@
     <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="33"/>
         <source>Generate Random UUID and Copy to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Genera UUID casuale e copia negli appunti</translation>
     </message>
     <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="52"/>
@@ -507,7 +508,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgduplicatepinname.cpp" line="40"/>
         <source>All symbol pins must have unique names, otherwise they cannot be distinguished later in the component editor. If your part has several pins with same functionality (e.g. multiple GND pins), you should add only one of these pins to the symbol. The assignment to multiple leads should be done in the device editor instead.</source>
-        <translation type="unfinished"/>
+        <translation>Tutti i pin dei simboli devono avere nomi univoci, altrimenti non possono essere distinti successivamente nell&apos;editor dei componenti. Se la tua parte ha più pin con la stessa funzionalità (ad esempio più pin GND), dovresti aggiungere solo uno di questi pin al simbolo. L&apos;assegnazione a più lead dovrebbe invece essere eseguita nell&apos;editor del dispositivo.</translation>
     </message>
 </context>
 <context>
@@ -572,7 +573,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentprefix.cpp" line="37"/>
         <source>No component prefix set</source>
-        <translation type="unfinished"/>
+        <translation>Nessun prefisso del componente impostato</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentprefix.cpp" line="38"/>
@@ -590,7 +591,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprint.cpp" line="38"/>
         <source>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</source>
-        <translation type="unfinished"/>
+        <translation>Ogni pacchetto deve avere almeno un&apos;impronta, altrimenti non può essere aggiunto a una bacheca.</translation>
     </message>
 </context>
 <context>
@@ -598,7 +599,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintname.cpp" line="41"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Testo mancante &apos;%1&apos; nel footprint &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintname.cpp" line="43"/>
@@ -611,7 +612,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintvalue.cpp" line="41"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Testo mancante &apos;%1&apos; nel footprint &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintvalue.cpp" line="43"/>
@@ -650,12 +651,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariant.cpp" line="37"/>
         <source>No symbol variant defined</source>
-        <translation type="unfinished"/>
+        <translation>Nessuna variante di simbolo definita</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariant.cpp" line="38"/>
         <source>Every component requires at least one symbol variant, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Ogni componente richiede almeno una variante di simbolo, altrimenti non può essere aggiunto agli schemi.</translation>
     </message>
 </context>
 <context>
@@ -663,12 +664,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariantitem.cpp" line="41"/>
         <source>Symbol variant &apos;%1&apos; has no items</source>
-        <translation type="unfinished"/>
+        <translation>La variante del simbolo &apos;%1&apos; non ha elementi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariantitem.cpp" line="43"/>
         <source>Every symbol variant requires at least one symbol item, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Ogni variante di simbolo richiede almeno un elemento simbolo, altrimenti non può essere aggiunto agli schemi.</translation>
     </message>
 </context>
 <context>
@@ -681,7 +682,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/msg/msgnamenottitlecase.cpp" line="38"/>
         <source>Generally the library element name should be written in title case (for consistency). As the current name has words starting with a lowercase character, it seems that it is not title cases. If this assumption is wrong, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Generalmente il nome dell&apos;elemento della libreria dovrebbe essere scritto in maiuscolo / minuscolo (per coerenza). Poiché il nome corrente ha parole che iniziano con un carattere minuscolo, sembra che non si tratti di casi del titolo. Se questa ipotesi è sbagliata, ignora semplicemente questo messaggio.</translation>
     </message>
 </context>
 <context>
@@ -689,7 +690,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/dev/msg/msgnopadsindeviceconnected.cpp" line="38"/>
         <source>No pads connected</source>
-        <translation type="unfinished"/>
+        <translation>Nessun pad collegato</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/dev/msg/msgnopadsindeviceconnected.cpp" line="39"/>
@@ -10134,7 +10135,7 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
     <message>
         <location filename="../apps/librepcb/main.cpp" line="183"/>
         <source>Unstable file format!</source>
-        <translation>Formato dile instabile!</translation>
+        <translation>Formato file instabile!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="184"/>
