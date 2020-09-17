@@ -928,7 +928,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/geometry/via.h" line="155"/>
         <source>Unknown via shape: &quot;%1&quot;</source>
-        <translation type="unfinished">Unknown via shape: &quot;%1&quot;</translation>
+        <translation>Unknown via shape: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
