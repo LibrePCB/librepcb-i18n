@@ -8007,7 +8007,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="719"/>
         <source>Paste board elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Paste board elements</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="806"/>
@@ -8458,7 +8458,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdpasteboarditems.cpp" line="76"/>
         <source>Paste Board Elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Paste Board Elements</translation>
     </message>
 </context>
 <context>
@@ -8466,7 +8466,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdpastefootprintitems.cpp" line="51"/>
         <source>Paste Board Elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Paste Board Elements</translation>
     </message>
 </context>
 <context>
