@@ -176,98 +176,98 @@
         <translation>在關閉專案之前儲存（更新檔案格式時很實用）。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="137"/>
         <source>Fail if the project files are not strictly canonical, i.e. there would be changes when saving the project. Note that this option is not available for *.lppz files.</source>
         <translation>當專案檔不是嚴格的正規寫法，即在儲存專案時會有所變更。此選項不適用於 *.lppz 檔案。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="142"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="144"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
         <translation>在開啟的元件庫中全部元素執行所選擇的動作。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="145"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="148"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
         <translation>在關閉之前儲存元件庫，若指定 &apos;--all&apos; 則包括所有包含的元素（更新檔案格式時很實用）。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="148"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="152"/>
         <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
         <translation>當開啟的檔案不是嚴格的正規寫法時導致失敗，即在儲存元件庫元素時會有所變更。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="183"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="187"/>
         <source>Path to library directory (*.lplib).</source>
         <translation>元件庫目錄的路徑 (*.lplib)。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="188"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="192"/>
         <source>Unknown command &apos;%1&apos;.</source>
         <translation>未知的指令&apos;%1&apos;。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="214"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="218"/>
         <source>Commands:</source>
         <translation>指令：</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="669"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="675"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
         <translation>檢查 &apos;%1&apos; 是否為非正規檔案...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="686"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="692"/>
         <source>Save &apos;%1&apos;...</source>
         <translation>儲存 &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="714"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="720"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
         <translation>此應用程式版本為　非　穩　定　版　！&apos;%1&apos; 選項已關閉來避免破壞到專案或是元件庫。請改用穩定釋出的版本。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="206"/>
         <source>LibrePCB CLI Version %1</source>
         <translation>LibrePCB 指令版 %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="167"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="171"/>
         <source>Path to project file (*.lpp[z]).</source>
         <translation>專案檔的路徑 (*.lpp[z])。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="203"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="207"/>
         <source>Git Revision %1</source>
         <translation>Git Revision %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="204"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="208"/>
         <source>Qt Version %1 (compiled against %2)</source>
         <translation>QT版本 %1 （針對%2進行編譯）</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="206"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="210"/>
         <source>Built at %1</source>
         <translation>建置在 %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="231"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="250"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="235"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="254"/>
         <source>Wrong argument count.</source>
         <translation>參數個數錯誤。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="260"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="264"/>
         <source>Internal failure.</source>
         <translation>內部錯誤。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="263"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="267"/>
         <source>SUCCESS</source>
         <translation>成功</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="266"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="270"/>
         <source>Finished with errors!</source>
         <translation>帶錯誤的完成！</translation>
     </message>
@@ -861,7 +861,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>StrokeFontPool</name>
     <message>
-        <location filename="../libs/librepcb/common/font/strokefontpool.cpp" line="67"/>
+        <location filename="../libs/librepcb/common/font/strokefontpool.cpp" line="68"/>
         <source>The font &quot;%1&quot; does not exist in the font pool.</source>
         <translation>字型 &quot;%1&quot; 不存在。</translation>
     </message>
@@ -2851,149 +2851,149 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::cli</name>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="287"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="291"/>
         <source>Open project &apos;%1&apos;...</source>
         <translation>開啟專案 &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="309"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="313"/>
         <source>Check for non-canonical files...</source>
         <translation>檢查非正規的檔案...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="311"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="316"/>
         <source>ERROR: The option &apos;--strict&apos; is not available for *.lppz files!</source>
         <translation>錯誤：選項&apos;--strict&apos;不適用於*.lppz檔案！</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="334"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="339"/>
         <source>Run ERC...</source>
         <translation>執行 ERC...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="347"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="352"/>
         <source>WARNING</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="350"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="355"/>
         <source>ERROR</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="357"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="362"/>
         <source>Approved messages: %1</source>
         <translation>批准的訊息：%1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="358"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="363"/>
         <source>Non-approved messages: %1</source>
         <translation>未批准的訊息：&apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="369"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="374"/>
         <source>Export schematics to &apos;%1&apos;...</source>
         <translation>匯出線路圖到&apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="382"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="457"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="387"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="462"/>
         <source>ERROR: Unknown extension &apos;%1&apos;.</source>
         <translation>錯誤：未知的檔案關聯 &apos;%1&apos;。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="424"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="429"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
         <translation>匯出電路板用的原物料清單(BOM)到&apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="426"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="431"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
         <translation>匯出通用的原物料清單(BOM)到&apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="466"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="471"/>
         <source>Export PCB fabrication data...</source>
         <translation>匯出加工資料...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="400"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="405"/>
         <source>ERROR: No board with the name &apos;%1&apos; found.</source>
         <translation>錯誤：找不到包含名稱 %1 的電路板。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="477"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="482"/>
         <source>ERROR: Failed to load custom settings: %1</source>
         <translation>錯誤：載入自訂設定檔失敗：%1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="483"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="488"/>
         <source>Board &apos;%1&apos;:</source>
         <translation>電路板&apos;%1&apos;：</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="497"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="503"/>
         <source>Save project...</source>
         <translation>儲存專案...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="517"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="523"/>
         <source>ERROR: The file %1 was written multiple times!</source>
         <translation>錯誤：檔案%1已被多次覆寫！</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="522"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="528"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
         <translation>註：為了避免檔案被多次覆寫，再次確認所有的輸出功能都是唯一的檔案路徑。對於電路板輸出檔，您可以在路徑中加入佔位字元&apos;%1&apos;或者在指定電路板輸出時使用&apos;%2&apos;參數。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="533"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="652"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="539"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="658"/>
         <source>ERROR: %1</source>
         <translation>錯誤：%1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="545"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="551"/>
         <source>Open library &apos;%1&apos;...</source>
         <translation>開啟元件庫 &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="557"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="563"/>
         <source>Process %1 component categories...</source>
         <translation>處理 %1 個元件分類...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="560"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="576"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="592"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="608"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="624"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="640"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="566"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="582"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="598"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="614"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="630"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="646"/>
         <source>Open &apos;%1&apos;...</source>
         <translation>開啟 &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="573"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="579"/>
         <source>Process %1 package categories...</source>
         <translation>處理 %1 個封裝分類...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="589"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="595"/>
         <source>Process %1 symbols...</source>
         <translation>處理 %1 個符號...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="605"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="611"/>
         <source>Process %1 packages...</source>
         <translation>處理 %1 個封裝...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="621"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="627"/>
         <source>Process %1 components...</source>
         <translation>處理 %1 個元件...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="637"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="643"/>
         <source>Process %1 devices...</source>
         <translation>處理 %1 個裝置...</translation>
     </message>
@@ -3486,13 +3486,13 @@ p, li { white-space: pre-wrap; }
     <name>librepcb::library::editor::ComponentPinSignalMapModel</name>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentpinsignalmapmodel.cpp" line="132"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentpinsignalmapmodel.cpp" line="321"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentpinsignalmapmodel.cpp" line="322"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentpinsignalmapmodel.cpp" line="222"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentpinsignalmapmodel.cpp" line="392"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentpinsignalmapmodel.cpp" line="394"/>
         <source>unconnected</source>
         <translation>未連接</translation>
     </message>
@@ -3928,7 +3928,7 @@ p, li { white-space: pre-wrap; }
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/dev/devicepadsignalmapmodel.cpp" line="275"/>
+        <location filename="../libs/librepcb/libraryeditor/dev/devicepadsignalmapmodel.cpp" line="276"/>
         <source>unconnected</source>
         <translation>未連接</translation>
     </message>
@@ -6355,35 +6355,35 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation>連接線(&apos;%1&apos;)的導通孔 Restring 最小寬度：%2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="410"/>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="409"/>
         <source>Min. pad restring (&apos;%1&apos;): %2</source>
         <comment>Placeholders are pad name + restring width</comment>
         <translation>焊墊(&apos;%1&apos;)的 Restring 最小寬度：%2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="429"/>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="428"/>
         <source>Check minimum PTH drill diameters...</source>
         <translation>檢查最小的 PTH 鑽孔直徑...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="435"/>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="434"/>
         <source>Min. via drill diameter (&apos;%1&apos;): %2</source>
         <comment>Placeholders are net name + drill diameter</comment>
         <translation>連接線(&apos;%1&apos;)的導通孔鑽孔最小直徑：%2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="456"/>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="455"/>
         <source>Min. pad drill diameter (&apos;%1&apos;): %2</source>
         <comment>Placeholders are pad name + drill diameter</comment>
         <translation>焊墊(&apos;%1&apos;)的鑽孔最小直徑：%2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="474"/>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="473"/>
         <source>Check minimum NPTH drill diameters...</source>
         <translation>檢查最小的 NPTH 鑽孔直徑...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="476"/>
+        <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="475"/>
         <source>Min. hole diameter: %1</source>
         <comment>Placeholder is drill diameter</comment>
         <translation>最小孔洞直徑：%1</translation>
@@ -6398,14 +6398,14 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation>已經有一個相同名稱&quot;%1&quot;的連接線類別！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="250"/>
-        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="280"/>
+        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="251"/>
+        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="281"/>
         <source>There is already a net signal with the name &quot;%1&quot;!</source>
         <translation>已經有一個相同名稱&quot;%1&quot;的連接線訊號！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="335"/>
-        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="365"/>
+        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="336"/>
+        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="366"/>
         <source>There is already a component with the name &quot;%1&quot;!</source>
         <translation>已經有一個相同名稱&quot;%1&quot;的元件！</translation>
     </message>
@@ -7091,7 +7091,7 @@ You need at least LibrePCB %1 to open it.
         <translation>變體：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="498"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="499"/>
         <source>No device selected</source>
         <translation>沒有選擇的裝置</translation>
     </message>
@@ -7103,12 +7103,12 @@ You need at least LibrePCB %1 to open it.
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="539"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="540"/>
         <source>Invalid Selection</source>
         <translation>無效的選擇</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="540"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="541"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>請選取一個裝置和一個符號變體。</translation>
     </message>
@@ -7858,57 +7858,57 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::editor::BoardEditorState_DrawTrace</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="135"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="139"/>
         <source>Width:</source>
         <translation>寬：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="147"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="151"/>
         <source>Auto</source>
         <translation>自動</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="155"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="159"/>
         <source>Layer:</source>
         <translation>層：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="197"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="201"/>
         <source>Size:</source>
         <translation>大小：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="209"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="213"/>
         <source>Drill:</source>
         <translation>鑽孔：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="417"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="421"/>
         <source>Draw Board Trace</source>
         <translation>繪製電路板走線</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="425"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="429"/>
         <source>No layer selected.</source>
         <translation>沒有選擇的層。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="456"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="497"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="460"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="501"/>
         <source>Pad is not connected to any signal.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="502"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="506"/>
         <source>Nothing here to connect.</source>
         <translation>沒有可連接的。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="560"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="718"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="737"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="762"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="927"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="564"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="723"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="742"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="767"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="932"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -8008,12 +8008,12 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="815"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="816"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
         <translation>警告：總共有%1條走線已選擇，但是它們並不是完全相連的！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="842"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="843"/>
         <source>Selected trace segments may not branch!</source>
         <translation>選擇的走線線段無法建立分支！</translation>
     </message>
@@ -8596,12 +8596,12 @@ You need at least LibrePCB %1 to open it.
         <translation>%1 的內容</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.cpp" line="161"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.cpp" line="162"/>
         <source>Change properties of %1</source>
         <translation>變更 %1 的內容</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.cpp" line="186"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.cpp" line="187"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -9666,27 +9666,27 @@ Do you want to save them before closing the project?</source>
 <context>
     <name>librepcb::project::editor::SchematicEditorState_DrawWire</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="235"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="239"/>
         <source>Draw Wire</source>
         <translation>繪製導線</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="260"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="510"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="264"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="514"/>
         <source>Invalid net name</source>
         <translation>無效的連接線名稱</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="261"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="512"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="265"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="516"/>
         <source>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</source>
         <translation>無法套用強制的連接線名稱，因為&apos;%1&apos;是無效的連接線名稱。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="355"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="524"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="542"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="565"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="359"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="528"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="546"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="569"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -9906,12 +9906,12 @@ Do you want to save them before closing the project?</source>
         <translation>放置裝置 [%1]</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="453"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="452"/>
         <source>Add device to board</source>
         <translation>加入裝置至電路板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="479"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="478"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
