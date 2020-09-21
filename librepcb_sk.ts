@@ -4976,7 +4976,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.cpp" line="205"/>
         <source>... and %1 more.</source>
-        <translation type="unfinished"/>
+        <translation>... a %1 ďalšie.</translation>
     </message>
 </context>
 <context>
@@ -8000,7 +8000,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="719"/>
         <source>Paste board elements</source>
-        <translation type="unfinished"/>
+        <translation>Prilepiť elementy dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="806"/>
@@ -8448,7 +8448,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdpasteboarditems.cpp" line="76"/>
         <source>Paste Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>Prilepiť elementy dosky</translation>
     </message>
 </context>
 <context>
@@ -8456,7 +8456,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdpastefootprintitems.cpp" line="51"/>
         <source>Paste Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>Prilepiť elementy dosky</translation>
     </message>
 </context>
 <context>
