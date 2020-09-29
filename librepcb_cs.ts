@@ -6021,7 +6021,7 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
 <context>
     <name>librepcb::library::manager::LibraryDownload</name>
     <message>
-        <location filename="../libs/librepcb/librarymanager/librarydownload.cpp" line="139"/>
+        <location filename="../libs/librepcb/librarymanager/librarydownload.cpp" line="153"/>
         <source>The downloaded ZIP file does not contain a LibrePCB library.</source>
         <translation>Stáhnutý ZIP soubor neobsahuje knihovnu LibrePCB.</translation>
     </message>

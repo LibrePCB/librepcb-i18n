@@ -5989,7 +5989,7 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::library::manager::LibraryDownload</name>
     <message>
-        <location filename="../libs/librepcb/librarymanager/librarydownload.cpp" line="139"/>
+        <location filename="../libs/librepcb/librarymanager/librarydownload.cpp" line="153"/>
         <source>The downloaded ZIP file does not contain a LibrePCB library.</source>
         <translation type="unfinished"/>
     </message>
