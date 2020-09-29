@@ -5312,12 +5312,12 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="401"/>
         <source>Remove Vertex</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove Vertex</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="438"/>
         <source>Add Vertex</source>
-        <translation type="unfinished"></translation>
+        <translation>Add Vertex</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="447"/>
@@ -5670,12 +5670,12 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="384"/>
         <source>Remove Vertex</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove Vertex</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="420"/>
         <source>Add Vertex</source>
-        <translation type="unfinished"></translation>
+        <translation>Add Vertex</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="430"/>
@@ -8081,12 +8081,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="124"/>
         <source>Remove Vertex</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove Vertex</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="126"/>
         <source>Add Vertex</source>
-        <translation type="unfinished"></translation>
+        <translation>Add Vertex</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="129"/>
