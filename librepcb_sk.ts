@@ -5308,12 +5308,12 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="401"/>
         <source>Remove Vertex</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť vrchol</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="438"/>
         <source>Add Vertex</source>
-        <translation type="unfinished"/>
+        <translation>Pridať vrchol</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="447"/>
@@ -5666,12 +5666,12 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="384"/>
         <source>Remove Vertex</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť vrchol</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="420"/>
         <source>Add Vertex</source>
-        <translation type="unfinished"/>
+        <translation>Pridať vrchol</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="430"/>
@@ -8077,12 +8077,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="124"/>
         <source>Remove Vertex</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť vrchol</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="126"/>
         <source>Add Vertex</source>
-        <translation type="unfinished"/>
+        <translation>Pridať vrchol</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="129"/>
