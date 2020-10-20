@@ -7645,20 +7645,20 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::editor::BoardEditorState_AddDevice</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="127"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="182"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="207"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="229"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="130"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="185"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="210"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="232"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="165"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="168"/>
         <source>Add device to board</source>
         <translation>Añadir dispositivo a placa</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="183"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="186"/>
         <source>Could not add device:
 
 %1</source>
