@@ -110,7 +110,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="84"/>
         <source>The command to execute.</source>
-        <translation type="unfinished"/>
+        <translation>Команда для исполнения.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="89"/>
@@ -148,7 +148,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="115"/>
         <source>attributes</source>
-        <translation type="unfinished"/>
+        <translation>атрибуты</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="118"/>
@@ -626,7 +626,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="37"/>
         <source>Missing text: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует текст: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="38"/>
@@ -639,7 +639,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="37"/>
         <source>Missing text: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует текст: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="38"/>
@@ -713,7 +713,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgoverlappingsymbolpins.cpp" line="63"/>
         <source>Overlapping pins: %1</source>
-        <translation type="unfinished"/>
+        <translation>Перекрывающиеся выводы: %1</translation>
     </message>
 </context>
 <context>
@@ -832,7 +832,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="108"/>
         <source>Node value is empty.</source>
-        <translation type="unfinished"/>
+        <translation>Пустое значение узла.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="127"/>
@@ -1091,7 +1091,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="76"/>
         <source>Removing temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>Удаление временного каталога...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="81"/>
@@ -1101,22 +1101,22 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="92"/>
         <source>Copy file %1 of %2...</source>
-        <translation type="unfinished"/>
+        <translation>Копирование файла %1 из %2...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="99"/>
         <source>Renaming temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>Переименование временного каталога...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="103"/>
         <source>Successfully finished!</source>
-        <translation type="unfinished"/>
+        <translation>Завершено успешно!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="113"/>
         <source>Failed to copy files:</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось скопировать файлы:</translation>
     </message>
 </context>
 <context>
@@ -1197,7 +1197,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="185"/>
         <source>Attribute key</source>
-        <translation type="unfinished"/>
+        <translation>Ключ атрибута</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="268"/>
@@ -1227,7 +1227,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="285"/>
         <source>Add a new attribute</source>
-        <translation type="unfinished"/>
+        <translation>Добавить новый атрибут</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="436"/>
@@ -1447,7 +1447,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/network/filedownload.cpp" line="125"/>
         <source>Error while readback file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Ошибка при чтении файла &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/filedownload.cpp" line="136"/>
@@ -1549,12 +1549,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="208"/>
         <source>Pin Names</source>
-        <translation type="unfinished"/>
+        <translation>Имена выводов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="209"/>
         <source>Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Номера выводов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="212"/>
@@ -1762,7 +1762,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="29"/>
         <source>Interval:</source>
-        <translation type="unfinished"/>
+        <translation>Интервал:</translation>
     </message>
 </context>
 <context>
