@@ -3220,7 +3220,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/cmd/cmdpastesymbolitems.cpp" line="53"/>
         <source>Paste Symbol Elements</source>
-        <translation type="unfinished"/>
+        <translation>Вставить элементы символа</translation>
     </message>
 </context>
 <context>
@@ -3646,7 +3646,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="113"/>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="189"/>
         <source>Symbol &apos;%1&apos; not found in workspace library!</source>
-        <translation type="unfinished"/>
+        <translation>Символ &apos;%1&apos; не найден в библиотеке Рабочей области!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="257"/>
@@ -4264,7 +4264,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="481"/>
         <source>Add S&amp;ymbol Pin</source>
-        <translation type="unfinished"/>
+        <translation>Добавить вывод &amp;символа</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="493"/>
@@ -4825,7 +4825,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_copyfrom.ui" line="20"/>
         <source>Choose the element which you want to copy from.</source>
-        <translation type="unfinished"/>
+        <translation>Выберите элемент из которого вы хотите скопировать.</translation>
     </message>
 </context>
 <context>
@@ -4939,7 +4939,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="108"/>
         <source>Version number according to semantic versioning</source>
-        <translation type="unfinished"/>
+        <translation>Номер версии в соответствии с правилами версионирования схемы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.ui" line="155"/>
@@ -5226,7 +5226,7 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="207"/>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="252"/>
         <source>Add footprint polygon</source>
-        <translation type="unfinished"/>
+        <translation>Добавить полигон посад. места</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="220"/>
@@ -5460,7 +5460,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.ui" line="17"/>
         <source>Choose Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Выберите символ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.ui" line="31"/>
@@ -5475,7 +5475,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="194"/>
         <source>Could not load symbols</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось загрузить символы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="202"/>
@@ -5485,7 +5485,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="221"/>
         <source>Could not load symbol</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось загрузить символ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="228"/>
@@ -5495,7 +5495,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/symbolchooserdialog.cpp" line="229"/>
         <source>Please select a symbol.</source>
-        <translation type="unfinished"/>
+        <translation>Пожалуйста, выберите символ.</translation>
     </message>
 </context>
 <context>
@@ -5520,7 +5520,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_addpins.cpp" line="173"/>
         <source>Add symbol pin</source>
-        <translation type="unfinished"/>
+        <translation>Добавить вывод символа</translation>
     </message>
 </context>
 <context>
@@ -5589,7 +5589,7 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="206"/>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="251"/>
         <source>Add symbol polygon</source>
-        <translation type="unfinished"/>
+        <translation>Добавить полигон символа</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="219"/>
@@ -5619,7 +5619,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="194"/>
         <source>Add symbol text</source>
-        <translation type="unfinished"/>
+        <translation>Добавить текст символа</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="206"/>
@@ -5659,12 +5659,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="430"/>
         <source>&amp;Rotate</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Повернуть</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="434"/>
         <source>&amp;Mirror</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Отзеркалить</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="438"/>
@@ -5679,7 +5679,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="556"/>
         <source>Paste Symbol Elements</source>
-        <translation type="unfinished"/>
+        <translation>Вставить элементы символа</translation>
     </message>
 </context>
 <context>
@@ -5747,7 +5747,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="295"/>
         <source>Edit symbol metadata</source>
-        <translation type="unfinished"/>
+        <translation>Редактировать метаданные символа</translation>
     </message>
 </context>
 <context>
@@ -5755,7 +5755,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/dialogs/symbolpinpropertiesdialog.ui" line="14"/>
         <source>Pin Properties</source>
-        <translation type="unfinished"/>
+        <translation>Свойства вывода</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/dialogs/symbolpinpropertiesdialog.ui" line="22"/>
@@ -5808,7 +5808,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="57"/>
         <source>Select all</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать все</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="64"/>
@@ -5933,7 +5933,7 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="294"/>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="299"/>
         <source>Invalid Input</source>
-        <translation type="unfinished"/>
+        <translation>Неверный ввод</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.cpp" line="163"/>
@@ -6143,7 +6143,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="14"/>
         <source>Workspace Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>Менеджер библиотеки Рабочей области</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/librarymanager.ui" line="72"/>
@@ -6303,7 +6303,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="129"/>
         <source>Check board clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Проверка зазоров платы...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="170"/>
@@ -6320,7 +6320,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="216"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
         <comment>Placeholders are layer name + net names</comment>
-        <translation type="unfinished"/>
+        <translation>Зазор (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="234"/>
@@ -6331,7 +6331,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="263"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
         <comment>Placeholders are layer name + component names</comment>
-        <translation type="unfinished"/>
+        <translation>Зазор (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="279"/>
@@ -6400,7 +6400,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="475"/>
         <source>Min. hole diameter: %1</source>
         <comment>Placeholder is drill diameter</comment>
-        <translation type="unfinished"/>
+        <translation>Мин. диаметр отверстия: %1</translation>
     </message>
 </context>
 <context>
@@ -6649,7 +6649,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmddeviceinstanceedit.cpp" line="40"/>
         <source>Edit device instance</source>
-        <translation type="unfinished"/>
+        <translation>Редактировать экземпляр устройства</translation>
     </message>
 </context>
 <context>
@@ -6657,7 +6657,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmddeviceinstanceeditall.cpp" line="45"/>
         <source>Edit device instance</source>
-        <translation type="unfinished"/>
+        <translation>Редактировать экземпляр устройства</translation>
     </message>
 </context>
 <context>
@@ -7639,7 +7639,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="443"/>
         <source>copy_of_%1</source>
-        <translation type="unfinished"/>
+        <translation>копия_%1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="461"/>
@@ -7859,7 +7859,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="209"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="256"/>
         <source>Draw board polygon</source>
-        <translation type="unfinished"/>
+        <translation>Отрисовать полигон платы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="226"/>
@@ -8000,7 +8000,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="598"/>
         <source>Remove Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Удалить полигон</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="610"/>
@@ -8015,7 +8015,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="965"/>
         <source>Paste board elements</source>
-        <translation type="unfinished"/>
+        <translation>Вставить элементы платы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1102"/>
@@ -8192,7 +8192,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.ui" line="52"/>
         <source>Min. Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Мин. зазор:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardplanepropertiesdialog.ui" line="59"/>
