@@ -115,7 +115,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="89"/>
         <source>Run the electrical rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Запустить проверку электрических правил, распечатать все неподтверждённые предупреждения/ошибки и выйти с ошибкой (код завершения = 1) если есть неподтверждённые сообщения.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
@@ -657,7 +657,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariant.cpp" line="38"/>
         <source>Every component requires at least one symbol variant, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Каждый компонент должен иметь хотя бы один вариант символа, иначе он не может быть помещён на схему.</translation>
     </message>
 </context>
 <context>
@@ -1260,7 +1260,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="41"/>
         <source>Ratio (% of diam.)</source>
-        <translation type="unfinished"/>
+        <translation>Коэфф-т (% от диам.)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="48"/>
@@ -1318,7 +1318,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="44"/>
         <source>Filled</source>
-        <translation type="unfinished"/>
+        <translation>Закрашенный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="51"/>
@@ -1414,12 +1414,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="137"/>
         <source>Move up</source>
-        <translation type="unfinished"/>
+        <translation>Вверх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="140"/>
         <source>Move down</source>
-        <translation type="unfinished"/>
+        <translation>Вниз</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="144"/>
@@ -1519,12 +1519,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="202"/>
         <source>Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Области захвата</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="203"/>
         <source>Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Скрытые области захвата</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="204"/>
@@ -1579,7 +1579,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="216"/>
         <source>Vias</source>
-        <translation type="unfinished"/>
+        <translation>Перех. отверстия</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="217"/>
@@ -1599,12 +1599,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="224"/>
         <source>Top Placement</source>
-        <translation type="unfinished"/>
+        <translation>Верх. размещение</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="225"/>
         <source>Bot Placement</source>
-        <translation type="unfinished"/>
+        <translation>Ниж. размещение</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="226"/>
@@ -1619,22 +1619,22 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="228"/>
         <source>Top Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Верх. области захвата</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="229"/>
         <source>Bot Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Ниж. области захвата</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="230"/>
         <source>Top Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Верх. скрытые области захвата</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="231"/>
         <source>Bot Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Ниж. скрытые области захвата</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="232"/>
@@ -1669,12 +1669,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="238"/>
         <source>Top Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Верх. обл. установки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="239"/>
         <source>Bot Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Ниж. обл. установки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="240"/>
@@ -1689,22 +1689,22 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="242"/>
         <source>Top Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Верх. паяльная паста</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="243"/>
         <source>Bot Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Ниж. паяльная паста</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="244"/>
         <source>Top Finish</source>
-        <translation type="unfinished"/>
+        <translation>Верх. покрытие</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="245"/>
         <source>Bot Finish</source>
-        <translation type="unfinished"/>
+        <translation>Ниж. покрытие</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="246"/>
@@ -1770,7 +1770,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="38"/>
         <source>Align left</source>
-        <translation type="unfinished"/>
+        <translation>Выравнивание влево</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="44"/>
@@ -1780,7 +1780,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="50"/>
         <source>Align right</source>
-        <translation type="unfinished"/>
+        <translation>Выравнивание вправо</translation>
     </message>
 </context>
 <context>
@@ -1857,12 +1857,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="123"/>
         <source>Network access manager is not running.</source>
-        <translation type="unfinished"/>
+        <translation>Диспетчер доступа к сети не запущен.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="140"/>
         <source>GET request failed! Network access manager thread not running?!</source>
-        <translation type="unfinished"/>
+        <translation>Неудачный GET-запрос! Возможно, диспетчер доступа к сети не запущен?!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="168"/>
@@ -1978,7 +1978,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="44"/>
         <source>Filled</source>
-        <translation type="unfinished"/>
+        <translation>Закрашенный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="51"/>
@@ -2872,12 +2872,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="362"/>
         <source>Approved messages: %1</source>
-        <translation type="unfinished"/>
+        <translation>Подтверждёных сообщений: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="363"/>
         <source>Non-approved messages: %1</source>
-        <translation type="unfinished"/>
+        <translation>Неподтверждённых сообщений: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="374"/>
@@ -3666,12 +3666,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="293"/>
         <source>Placing this symbol in schematics is mandatory.</source>
-        <translation type="unfinished"/>
+        <translation>Размещение этого символа на схеме обязательно.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="294"/>
         <source>Placing this symbol in schematics is optional</source>
-        <translation type="unfinished"/>
+        <translation>Размещение этого символа на схеме необязательно.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="360"/>
@@ -6325,7 +6325,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="234"/>
         <source>Check courtyard clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Проверка зазоров у обл. установки...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="263"/>
@@ -6761,7 +6761,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicadd.cpp" line="42"/>
         <source>Add schematic</source>
-        <translation type="unfinished"/>
+        <translation>Добавить схему</translation>
     </message>
 </context>
 <context>
@@ -6900,7 +6900,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="316"/>
         <source>All symbols of a component must be placed in the same schematic.</source>
-        <translation type="unfinished"/>
+        <translation>Все символы компонента должны быть помещены на одну схему.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="415"/>
@@ -7013,12 +7013,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="277"/>
         <source>The schematic exists already: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Схема уже существует: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="295"/>
         <source>There is already a schematic with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Уже есть схема с именем &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="321"/>
@@ -7045,12 +7045,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="361"/>
         <source>No schematic pages selected.</source>
-        <translation type="unfinished"/>
+        <translation>Не выбрана схема.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="370"/>
         <source>No schematic page with the index %1 found.</source>
-        <translation type="unfinished"/>
+        <translation>Не найдена страница схемы с номером %1.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="378"/>
@@ -7182,7 +7182,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="119"/>
         <source>Additional Courtyard Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Доп. отступ у обл. установки:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="132"/>
@@ -7544,7 +7544,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="824"/>
         <source>&amp;Export project to *.lppz</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Экспортировать проект в *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="827"/>
@@ -7769,7 +7769,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="246"/>
         <source>Add via to board</source>
-        <translation type="unfinished"/>
+        <translation>Добавить перех. отв. на плату</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="270"/>
@@ -7974,7 +7974,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="555"/>
         <source>Remove Via</source>
-        <translation type="unfinished"/>
+        <translation>Удалить перех. отв.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="574"/>
@@ -8229,7 +8229,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="14"/>
         <source>Via Properties</source>
-        <translation type="unfinished"/>
+        <translation>Свойства перех. отв.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardviapropertiesdialog.ui" line="22"/>
@@ -8435,7 +8435,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmddragselectedboarditems.cpp" line="59"/>
         <source>Drag Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>Перетащить элементы платы</translation>
     </message>
 </context>
 <context>
@@ -8451,7 +8451,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdmirrorselectedschematicitems.cpp" line="54"/>
         <source>Mirror Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Отзеркалить элементы схемы</translation>
     </message>
 </context>
 <context>
@@ -8467,7 +8467,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdpasteboarditems.cpp" line="76"/>
         <source>Paste Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>Вставить элементы платы</translation>
     </message>
 </context>
 <context>
@@ -8475,7 +8475,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdpastefootprintitems.cpp" line="51"/>
         <source>Paste Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>Вставить элементы платы</translation>
     </message>
 </context>
 <context>
@@ -8483,7 +8483,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdpasteschematicitems.cpp" line="71"/>
         <source>Paste Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Вставить элементы схемы</translation>
     </message>
 </context>
 <context>
@@ -8507,7 +8507,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdremoveselectedschematicitems.cpp" line="76"/>
         <source>Remove Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Удалить элементы схемы.</translation>
     </message>
 </context>
 <context>
@@ -8539,7 +8539,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdrotateselectedschematicitems.cpp" line="54"/>
         <source>Rotate Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Певернуть элементы схемы.</translation>
     </message>
 </context>
 <context>
@@ -9370,7 +9370,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="343"/>
         <source>Export schematics to &amp;PDF</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт схемы в &amp;PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="358"/>
@@ -9546,7 +9546,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="761"/>
         <source>&amp;Export project to *.lppz</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Экспортировать проект в *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="764"/>
@@ -9616,7 +9616,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="91"/>
         <source>%1 - LibrePCB Schematic Editor</source>
-        <translation type="unfinished"/>
+        <translation>%1 - Редактор схем LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="203"/>
@@ -9741,7 +9741,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="474"/>
         <source>Paste Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Вставить элементы схемы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.h" line="110"/>
@@ -9868,7 +9868,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="97"/>
         <source>symbol variant &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>вариант символа &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/symbolinstancepropertiesdialog.cpp" line="202"/>
@@ -9886,7 +9886,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="20"/>
         <source>Place Devices</source>
-        <translation type="unfinished"/>
+        <translation>Разместить устройства</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="44"/>
@@ -9921,7 +9921,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="322"/>
         <source>Place Devices [%1]</source>
-        <translation type="unfinished"/>
+        <translation>Разместить устройства [%1]</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="452"/>
