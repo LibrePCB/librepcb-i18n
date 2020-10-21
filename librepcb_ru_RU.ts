@@ -1559,7 +1559,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="212"/>
         <source>Board Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Контуры платы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="213"/>
@@ -1574,7 +1574,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="215"/>
         <source>Pads</source>
-        <translation type="unfinished"/>
+        <translation>Контактные площадки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="216"/>
@@ -1811,7 +1811,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="64"/>
         <source>Enter numeric expression</source>
-        <translation type="unfinished"/>
+        <translation>Введите числовое выражение</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="311"/>
@@ -1950,7 +1950,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="204"/>
         <source>Add a new vertex</source>
-        <translation type="unfinished"/>
+        <translation>Добавить новую вершину</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="271"/>
@@ -2180,22 +2180,22 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="179"/>
         <source>File &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Файл &apos;%1&apos; отсутствует.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="221"/>
         <source>Failed to open ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось открыть ZIP-файл &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="237"/>
         <source>Failed to open the ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось открыть ZIP-файл &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="253"/>
         <source>Failed to create ZIP file.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось создать ZIP файл.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="273"/>
@@ -2210,7 +2210,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="447"/>
         <source>File system is read-only.</source>
-        <translation type="unfinished"/>
+        <translation>Файловая система доступна только для чтения.</translation>
     </message>
 </context>
 <context>
@@ -2362,7 +2362,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="592"/>
         <source>Rescan Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Пересканировать библиотеки</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="604"/>
@@ -2424,7 +2424,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="384"/>
         <source>Restore autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Восстановить резервную копию из авто-сохранения?</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="385"/>
@@ -2575,7 +2575,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="51"/>
         <source>Create a n&amp;ew workspace</source>
-        <translation type="unfinished"/>
+        <translation>Создать новое &amp;Рабочее место</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="61"/>
@@ -2624,7 +2624,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard.ui" line="14"/>
         <source>Initialize Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Инициализация Рабочего места</translation>
     </message>
 </context>
 <context>
@@ -2632,12 +2632,12 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="14"/>
         <source>Choose version to import</source>
-        <translation type="unfinished"/>
+        <translation>Выберите версию для импорта</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="17"/>
         <source>Initialize Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Инициализация Рабочего места</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="20"/>
@@ -2685,7 +2685,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="40"/>
         <source>Length Unit:</source>
-        <translation type="unfinished"/>
+        <translation>Единица длины:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="54"/>
@@ -2788,12 +2788,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="87"/>
         <source>Ask to close project (confirm message box!)</source>
-        <translation type="unfinished"/>
+        <translation>Спрашивать при закрытии проекта (показывать окно подтверждения)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="94"/>
         <source>Abort.</source>
-        <translation>Отменаю</translation>
+        <translation>Прервано.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="115"/>
@@ -2992,7 +2992,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/cmd/cmdcomponentedit.cpp" line="38"/>
         <source>Edit component metadata</source>
-        <translation type="unfinished"/>
+        <translation>Редактировать метаданные компонента</translation>
     </message>
 </context>
 <context>
@@ -3032,7 +3032,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/dev/cmd/cmddeviceedit.cpp" line="40"/>
         <source>Edit device properties</source>
-        <translation type="unfinished"/>
+        <translation>Редактировать свойства устройства</translation>
     </message>
 </context>
 <context>
@@ -3064,7 +3064,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cat/cmd/cmdlibrarycategoryedit.cpp" line="39"/>
         <source>Edit category metadata</source>
-        <translation type="unfinished"/>
+        <translation>Редактировать метаданные категории</translation>
     </message>
 </context>
 <context>
@@ -3088,7 +3088,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/sym/cmd/cmdsymbolpinedit.cpp" line="38"/>
         <source>Edit pin</source>
-        <translation type="unfinished"/>
+        <translation>Редактировать вывод</translation>
     </message>
 </context>
 <context>
@@ -3141,7 +3141,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorytreelabeltextbuilder.cpp" line="118"/>
         <source>Root category</source>
-        <translation type="unfinished"/>
+        <translation>Корневая категория</translation>
     </message>
 </context>
 <context>
@@ -3188,7 +3188,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorylisteditorwidget.cpp" line="119"/>
         <source>Root category</source>
-        <translation type="unfinished"/>
+        <translation>Корневая категория</translation>
     </message>
 </context>
 <context>
@@ -3307,12 +3307,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="210"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Сообщения:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.cpp" line="97"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Неверные метаданные</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.cpp" line="107"/>
@@ -3448,12 +3448,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="333"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Сообщения:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="131"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Неверные метаданные</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="142"/>
@@ -3493,7 +3493,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentpinsignalmapmodel.cpp" line="261"/>
         <source>Pin</source>
-        <translation type="unfinished"/>
+        <translation>Вывод</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentpinsignalmapmodel.cpp" line="263"/>
@@ -3568,7 +3568,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="236"/>
         <source>Add a new signal</source>
-        <translation type="unfinished"/>
+        <translation>Добавить новый сигнал</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="361"/>
@@ -3640,7 +3640,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="104"/>
         <source>Please choose a symbol.</source>
-        <translation type="unfinished"/>
+        <translation>Пожалуйста, выберите символ.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="113"/>
@@ -3651,7 +3651,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="257"/>
         <source>Choose symbol...</source>
-        <translation type="unfinished"/>
+        <translation>Выберите символ...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="288"/>
@@ -3711,7 +3711,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="383"/>
         <source>Add a new symbol</source>
-        <translation type="unfinished"/>
+        <translation>Добавить новый символ</translation>
     </message>
 </context>
 <context>
@@ -3844,12 +3844,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="397"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Сообщения:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="144"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Неверные метаданные</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="155"/>
@@ -3859,7 +3859,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="197"/>
         <source>Edit device metadata</source>
-        <translation type="unfinished"/>
+        <translation>Редактировать метаданные устройства</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="236"/>
@@ -3937,7 +3937,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="210"/>
         <source>User name not set</source>
-        <translation type="unfinished"/>
+        <translation>Имя пользователя не указано</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="211"/>
@@ -3947,7 +3947,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="224"/>
         <source>Restore autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Восстановить резервную копию из авто-сохранения?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="225"/>
@@ -4194,7 +4194,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="712"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать все</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="325"/>
@@ -4396,7 +4396,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="740"/>
         <source>&amp;Save &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Сохранить &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4518,7 +4518,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="469"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Сообщения:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="167"/>
@@ -4533,7 +4533,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="157"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Неверные метаданные</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="381"/>
@@ -4611,7 +4611,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="612"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось открыть файл</translation>
     </message>
 </context>
 <context>
@@ -4624,7 +4624,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizard.cpp" line="101"/>
         <source>Could not copy element</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось скопировать элемент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizard.cpp" line="115"/>
@@ -4949,7 +4949,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.cpp" line="199"/>
         <source>Root category</source>
-        <translation type="unfinished"/>
+        <translation>Корневая категория</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.cpp" line="205"/>
@@ -5026,7 +5026,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.ui" line="206"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Сообщения:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.ui" line="101"/>
@@ -5041,7 +5041,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.cpp" line="97"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Неверные метаданные</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.cpp" line="107"/>
@@ -5339,7 +5339,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="109"/>
         <source>Pads</source>
-        <translation type="unfinished"/>
+        <translation>Контактные площадки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="164"/>
@@ -5384,12 +5384,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.ui" line="261"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Сообщения:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="207"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Неверные метаданные</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="218"/>
@@ -5727,12 +5727,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.ui" line="194"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Сообщения:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="196"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Неверные метаданные</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/symboleditorwidget.cpp" line="207"/>
@@ -7581,7 +7581,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="914"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать все</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="107"/>
@@ -9562,7 +9562,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="808"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать все</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="811"/>
