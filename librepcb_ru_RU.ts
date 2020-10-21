@@ -1222,7 +1222,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="282"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Новый:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="285"/>
@@ -1945,7 +1945,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="200"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Новый:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="204"/>
@@ -2798,17 +2798,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="115"/>
         <source>Open project %1...</source>
-        <translation>Открыть проект %1...</translation>
+        <translation>Открытие проекта %1...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="119"/>
         <source>Save project %1...</source>
-        <translation>Сохранить проект %1...</translation>
+        <translation>Сохранение проекта %1...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="126"/>
         <source>Failed to update library elements! Probably there were breaking changes in some library elements.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось обновить элементы библиотеки! Вероятно, были критические изменения в некоторых элементах библиотеки.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="130"/>
@@ -2824,7 +2824,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="101"/>
         <source>Open project file system...</source>
-        <translation type="unfinished"/>
+        <translation>Открытие файловой системы проекта...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="174"/>
@@ -2847,12 +2847,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="313"/>
         <source>Check for non-canonical files...</source>
-        <translation type="unfinished"/>
+        <translation>Проверка на неканоничные файлы...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="316"/>
         <source>ERROR: The option &apos;--strict&apos; is not available for *.lppz files!</source>
-        <translation type="unfinished"/>
+        <translation>ОШИБКА: Опция &apos;--strict&apos; недоступна для файлов *.lppz!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="339"/>
@@ -2913,7 +2913,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="482"/>
         <source>ERROR: Failed to load custom settings: %1</source>
-        <translation type="unfinished"/>
+        <translation>ОШИБКА: Не удалось загрузить пользовательские настройки: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="488"/>
@@ -2928,7 +2928,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="523"/>
         <source>ERROR: The file %1 was written multiple times!</source>
-        <translation type="unfinished"/>
+        <translation>ОШИБКА: Файл %1 был записан несколько раз!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="528"/>
@@ -3008,7 +3008,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/cmp/cmd/cmdcomponentsignaledit.cpp" line="38"/>
         <source>Edit component signal</source>
-        <translation type="unfinished"/>
+        <translation>Редактировать сигнал компонента</translation>
     </message>
 </context>
 <context>
@@ -3236,7 +3236,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/cmd/cmdremoveselectedsymbolitems.cpp" line="47"/>
         <source>Remove Symbol Elements</source>
-        <translation type="unfinished"/>
+        <translation>Удалить элементы символа</translation>
     </message>
 </context>
 <context>
@@ -3287,7 +3287,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="112"/>
         <source>Category should no longer be used.</source>
-        <translation type="unfinished"/>
+        <translation>Эта категория не должна больше использоваться.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmpcat/componentcategoryeditorwidget.ui" line="119"/>
@@ -3330,7 +3330,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.ui" line="31"/>
         <source>What are you looking for?</source>
-        <translation>А что вы ищете?</translation>
+        <translation>Что вы ищете?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/componentchooserdialog.cpp" line="98"/>
@@ -3418,7 +3418,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="264"/>
         <source>Component should no longer be used.</source>
-        <translation type="unfinished"/>
+        <translation>Компонент не должен больше использоваться.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="271"/>
@@ -3428,12 +3428,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="288"/>
         <source>Schematic-Only:</source>
-        <translation type="unfinished"/>
+        <translation>Схематичный:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="295"/>
         <source>Component cannot be used in devices.</source>
-        <translation type="unfinished"/>
+        <translation>Компонент не может быть использован в устройствах.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.ui" line="302"/>
@@ -3463,12 +3463,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="280"/>
         <source>Determine default value</source>
-        <translation type="unfinished"/>
+        <translation>Определите значение по умолчанию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componenteditorwidget.cpp" line="282"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
-        <translation type="unfinished"/>
+        <translation>Этот компонент специфичный (для производителя) или общий?</translation>
     </message>
 </context>
 <context>
@@ -3498,7 +3498,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentpinsignalmapmodel.cpp" line="263"/>
         <source>Component Signal</source>
-        <translation type="unfinished"/>
+        <translation>Сигнал компонента</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentpinsignalmapmodel.cpp" line="265"/>
@@ -3511,7 +3511,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="93"/>
         <source>Add component signal(s)</source>
-        <translation type="unfinished"/>
+        <translation>Добавить сигнал(ы) компонента</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="106"/>
@@ -3533,7 +3533,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="178"/>
         <source>Optional</source>
-        <translation type="unfinished"/>
+        <translation>Необязательный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="182"/>
@@ -3563,7 +3563,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="233"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Новый:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="236"/>
@@ -3661,7 +3661,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="288"/>
         <source>Optional</source>
-        <translation type="unfinished"/>
+        <translation>Необязательный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="293"/>
@@ -3706,7 +3706,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="379"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Новый:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="383"/>
@@ -3728,7 +3728,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistmodel.cpp" line="188"/>
         <source>Symbol variant name</source>
-        <translation type="unfinished"/>
+        <translation>Имя варианта символа</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistmodel.cpp" line="192"/>
@@ -3758,17 +3758,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistmodel.cpp" line="277"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Новый:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistmodel.cpp" line="281"/>
         <source>Add a new symbol variant</source>
-        <translation type="unfinished"/>
+        <translation>Добавить новый вариант символа</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistmodel.cpp" line="405"/>
         <source>There is already a symbol variant with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Уже есть вариант символа с именем &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -3834,7 +3834,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="380"/>
         <source>Device should no longer be used.</source>
-        <translation type="unfinished"/>
+        <translation>Устройство больше не должно использоваться.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="387"/>
@@ -3909,7 +3909,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/devicepadsignalmapmodel.cpp" line="172"/>
         <source>Component Signal</source>
-        <translation type="unfinished"/>
+        <translation>Сигнал компонента</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/devicepadsignalmapmodel.cpp" line="224"/>
@@ -3985,7 +3985,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/footprintlistmodel.cpp" line="244"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Новый:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/footprintlistmodel.cpp" line="247"/>
@@ -4758,7 +4758,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentproperties.ui" line="26"/>
         <source>Schematic-Only:</source>
-        <translation type="unfinished"/>
+        <translation>Схематичный:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentproperties.ui" line="33"/>
@@ -5036,7 +5036,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.ui" line="108"/>
         <source>Category should no longer be used.</source>
-        <translation type="unfinished"/>
+        <translation>Эта категория не должна больше использоваться.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkgcat/packagecategoryeditorwidget.cpp" line="97"/>
@@ -5437,7 +5437,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlistmodel.cpp" line="200"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>Новый:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlistmodel.cpp" line="203"/>
