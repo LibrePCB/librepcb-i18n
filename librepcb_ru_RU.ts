@@ -80,7 +80,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="70"/>
         <source>Open a project to execute project-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Открыть проект чтобы выполнить связанные с ним задачи.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="71"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="73"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Открыть библиотеку чтобы выполнить связанные с ней задачи.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="74"/>
@@ -248,7 +248,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="210"/>
         <source>Built at %1</source>
-        <translation type="unfinished"/>
+        <translation>Дата сборки: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="235"/>
@@ -372,7 +372,7 @@
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="222"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Неверная единица длины: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -10026,7 +10026,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="76"/>
         <source>Default Length Unit:</source>
-        <translation type="unfinished"/>
+        <translation>Единица длины по умолчанию:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="90"/>
@@ -10128,7 +10128,9 @@ Do you want to save them before closing the project?</source>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
-        <translation type="unfinished"/>
+        <translation>Вы уверены что хотите сбросить все настройки в значения по умолчанию?
+
+Внимание: Это изменение будет применено немедленно и не может быть отменено!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="278"/>
