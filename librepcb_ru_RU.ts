@@ -2642,7 +2642,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="20"/>
         <source>Choose how to initialize libraries and settings.</source>
-        <translation type="unfinished"/>
+        <translation>Выберите как инициализировать библиотеки и настройки.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="26"/>
@@ -2652,7 +2652,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="36"/>
         <source>Import from:</source>
-        <translation type="unfinished"/>
+        <translation>Импортировать из:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.cpp" line="50"/>
@@ -2680,7 +2680,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="26"/>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Язык:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="40"/>
@@ -2739,7 +2739,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="43"/>
         <source>Source:</source>
-        <translation type="unfinished"/>
+        <translation>Источник:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="80"/>
@@ -2749,12 +2749,12 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="90"/>
         <source>Destination:</source>
-        <translation type="unfinished"/>
+        <translation>Приёмник:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="97"/>
         <source>Start Import</source>
-        <translation type="unfinished"/>
+        <translation>Начать импорт</translation>
     </message>
 </context>
 <context>
@@ -2893,7 +2893,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="429"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Экспортировать спецификацию платы в &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="431"/>
@@ -2959,7 +2959,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="630"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="646"/>
         <source>Open &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Открыть &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="579"/>
@@ -4154,7 +4154,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="210"/>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Фильтр</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="221"/>
@@ -4553,7 +4553,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="391"/>
         <source>Move to other library</source>
-        <translation type="unfinished"/>
+        <translation>Переместить в другую библиотеку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="401"/>
@@ -4586,7 +4586,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="533"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Вы уверены что хотите переместить эти элементы в библиотеку &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="543"/>
@@ -7066,7 +7066,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="94"/>
         <source>No symbol with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
-        <translation type="unfinished"/>
+        <translation>Символ с UUID &quot;%1&quot; не найден в библиотеке проекта.</translation>
     </message>
 </context>
 <context>
@@ -7550,7 +7550,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="839"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="842"/>
         <source>Generate BOM</source>
-        <translation type="unfinished"/>
+        <translation>Собрать спецификацию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="854"/>
@@ -8277,7 +8277,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="14"/>
         <source>Generate BOM</source>
-        <translation type="unfinished"/>
+        <translation>Собрать спецификацию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="20"/>
@@ -8510,7 +8510,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdremoveunusedlibraryelements.cpp" line="50"/>
         <source>Remove unused library elements</source>
-        <translation type="unfinished"/>
+        <translation>Удалить неиспользуемые элементы библиотеки</translation>
     </message>
 </context>
 <context>
@@ -9551,7 +9551,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="776"/>
         <source>Generate BOM</source>
-        <translation type="unfinished"/>
+        <translation>Собрать спецификацию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="808"/>
