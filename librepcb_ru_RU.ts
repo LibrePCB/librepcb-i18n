@@ -17,12 +17,12 @@
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="38"/>
         <source>LibrePCB Default Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Правила проектирования LibrePCB по умолчанию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="126"/>
         <source>Invalid design rules: %1</source>
-        <translation type="unfinished"/>
+        <translation>Неверные правила проектирования: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="144"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="112"/>
         <source>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Список дополнительных атрибутов, разделённых запятыми, для экспорта в спецификацию. Например: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="115"/>
@@ -218,7 +218,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="144"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
-        <translation type="unfinished"/>
+        <translation>Выполнить выбранные действия над всеми элементами открытой библиотеки.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="148"/>
@@ -587,7 +587,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprint.cpp" line="37"/>
         <source>No footprint defined</source>
-        <translation type="unfinished"/>
+        <translation>Посад. места не определены</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprint.cpp" line="38"/>
@@ -600,7 +600,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintname.cpp" line="41"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует текст &apos;%1&apos; в посад. месте &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintname.cpp" line="43"/>
@@ -613,7 +613,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintvalue.cpp" line="41"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует текст &apos;%1&apos; в посад. месте &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintvalue.cpp" line="43"/>
@@ -991,7 +991,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/utils/mathparser.cpp" line="67"/>
         <source>Failed to parse expression:</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось разобрать выражение:</translation>
     </message>
 </context>
 <context>
@@ -1240,7 +1240,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="14"/>
         <source>Board Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Правила проектирования платы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="20"/>
@@ -1609,12 +1609,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="226"/>
         <source>Top Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Верх. документация</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="227"/>
         <source>Bot Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Ниж. документация</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="228"/>
@@ -1649,22 +1649,22 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="234"/>
         <source>Top Names</source>
-        <translation type="unfinished"/>
+        <translation>Верх. имена</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="235"/>
         <source>Bot Names</source>
-        <translation type="unfinished"/>
+        <translation>Ниж. имена</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="236"/>
         <source>Top Values</source>
-        <translation type="unfinished"/>
+        <translation>Верх. значения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="237"/>
         <source>Bot Values</source>
-        <translation type="unfinished"/>
+        <translation>Ниж. значения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="238"/>
@@ -1719,17 +1719,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="249"/>
         <source>Top Copper</source>
-        <translation type="unfinished"/>
+        <translation>Верх медь</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="250"/>
         <source>Bot Copper</source>
-        <translation type="unfinished"/>
+        <translation>Ниж медь</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="253"/>
         <source>Inner Copper %1</source>
-        <translation type="unfinished"/>
+        <translation>Внутр. медь %1</translation>
     </message>
 </context>
 <context>
@@ -2251,7 +2251,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/utils/undostackactiongroup.cpp" line="78"/>
         <source>Undo failed</source>
-        <translation type="unfinished"/>
+        <translation>Отменить не удалось</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/utils/undostackactiongroup.cpp" line="86"/>
@@ -3040,7 +3040,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/dev/cmd/cmddevicepadsignalmapitemedit.cpp" line="41"/>
         <source>Edit device pad-signal-map</source>
-        <translation type="unfinished"/>
+        <translation>Редактировать карту площадок-сигналов устройства</translation>
     </message>
 </context>
 <context>
@@ -3056,7 +3056,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/pkg/cmd/cmdfootprintpadedit.cpp" line="40"/>
         <source>Edit footprint pad</source>
-        <translation type="unfinished"/>
+        <translation>Редактировать площадку посад. места</translation>
     </message>
 </context>
 <context>
@@ -3196,7 +3196,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/cmd/cmddragselectedfootprintitems.cpp" line="54"/>
         <source>Drag Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Перетащить элементы посад. места</translation>
     </message>
 </context>
 <context>
@@ -3228,7 +3228,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/cmd/cmdremoveselectedfootprintitems.cpp" line="48"/>
         <source>Remove Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Удалить элементы посад. места</translation>
     </message>
 </context>
 <context>
@@ -3616,7 +3616,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.ui" line="151"/>
         <source>Pin-Signal-Map</source>
-        <translation type="unfinished"/>
+        <translation>Карта выводов-сигналов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.cpp" line="105"/>
@@ -3799,7 +3799,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="244"/>
         <source>Pad-Signal-Map</source>
-        <translation type="unfinished"/>
+        <translation>Карта площадок-сигналов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="300"/>
@@ -3932,7 +3932,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="182"/>
         <source>WARNING: This library element contains errors, see exact messages below. You should fix these errors before saving it, otherwise the library element may not work as expected.</source>
-        <translation type="unfinished"/>
+        <translation>ПРЕДУПРЕЖДЕНИЕ: Этот элемент библиотеки содержит ошибки, см. конкретные сообщения ниже. Вам нужно исправить эти ошибки перед сохранением, иначе этот элемент библиотеки может работать не так как ожидается.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="210"/>
@@ -3975,7 +3975,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/footprintlistmodel.cpp" line="194"/>
         <source>Footprint name</source>
-        <translation type="unfinished"/>
+        <translation>Имя посад. места</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/footprintlistmodel.cpp" line="236"/>
@@ -3990,7 +3990,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/footprintlistmodel.cpp" line="247"/>
         <source>Add a new footprint</source>
-        <translation type="unfinished"/>
+        <translation>Добавить новое посад. место</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/footprintlistmodel.cpp" line="350"/>
@@ -4384,7 +4384,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="563"/>
         <source>Failed to open category</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось открыть категорию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="608"/>
@@ -4565,7 +4565,9 @@ Do you want to save them before closing it?</source>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
-        <translation type="unfinished"/>
+        <translation>ПРЕДУПРЕЖДЕНИЕ: Элементы библиотеки обычно НЕ должны удаляться, потому что это может испортить другие элементы, зависимые от удалённых! Вместо удаления, они помечаются как устаревшие.
+
+Вы по прежнему хотите удалить эти элементы библиотеки?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="504"/>
@@ -4737,7 +4739,7 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentpinsignalmap.ui" line="14"/>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentpinsignalmap.ui" line="17"/>
         <source>Component Pin-Signal-Map</source>
-        <translation type="unfinished"/>
+        <translation>Карта выводов-сигналов компонента</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_componentpinsignalmap.ui" line="20"/>
@@ -5148,7 +5150,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="235"/>
         <source>Add footprint pad</source>
-        <translation type="unfinished"/>
+        <translation>Добавить площадку посад. места</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="249"/>
@@ -5259,7 +5261,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="232"/>
         <source>Add footprint text</source>
-        <translation type="unfinished"/>
+        <translation>Добавить текст посад. места</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="247"/>
@@ -6312,7 +6314,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="186"/>
         <source>Check copper clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Проверка зазоров между медью...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="216"/>
@@ -6334,7 +6336,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="279"/>
         <source>Check minimum copper width...</source>
-        <translation type="unfinished"/>
+        <translation>Проверка минимальной ширины меди...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="289"/>
@@ -6440,7 +6442,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboarddesignrulesmodify.cpp" line="41"/>
         <source>Modify board design rules</source>
-        <translation type="unfinished"/>
+        <translation>Изменить правила проектирования платы</translation>
     </message>
 </context>
 <context>
@@ -6671,7 +6673,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdfootprintstroketextadd.cpp" line="41"/>
         <source>Add footprint text</source>
-        <translation type="unfinished"/>
+        <translation>Добавить текст посад. места</translation>
     </message>
 </context>
 <context>
@@ -6679,7 +6681,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdfootprintstroketextremove.cpp" line="41"/>
         <source>Remove footprint text</source>
-        <translation type="unfinished"/>
+        <translation>Удалить текст посад. места</translation>
     </message>
 </context>
 <context>
@@ -6687,7 +6689,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdfootprintstroketextsreset.cpp" line="47"/>
         <source>Reset footprint texts</source>
-        <translation type="unfinished"/>
+        <translation>Сбросить текст посад. места</translation>
     </message>
 </context>
 <context>
@@ -7122,7 +7124,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/addcomponentdialog.cpp" line="541"/>
         <source>Please select a component and a symbol variant.</source>
-        <translation type="unfinished"/>
+        <translation>Пожалуйста, выберите компонент и вариант символа.</translation>
     </message>
 </context>
 <context>
@@ -7130,27 +7132,27 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="14"/>
         <source>Design Rule Check</source>
-        <translation type="unfinished"/>
+        <translation>Проверка правил проектирования</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="24"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="30"/>
         <source>Clearance Copper to Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между медью и медью:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="37"/>
         <source>Clearance Copper to Board Edge:</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между медью и краем платы:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="44"/>
         <source>Minimum Copper Width:</source>
-        <translation type="unfinished"/>
+        <translation>Минимальная ширина меди:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="51"/>
@@ -7568,7 +7570,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="878"/>
         <source>Design Rule Check</source>
-        <translation type="unfinished"/>
+        <translation>Проверка правил проектирования</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="890"/>
@@ -8090,7 +8092,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.ui" line="25"/>
         <source>Number of inner copper layers:</source>
-        <translation type="unfinished"/>
+        <translation>Количество внутренних слоёв меди:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.ui" line="52"/>
@@ -8131,12 +8133,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="34"/>
         <source>Top Devices:</source>
-        <translation type="unfinished"/>
+        <translation>Верхние устройства:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="44"/>
         <source>Bottom Devices:</source>
-        <translation type="unfinished"/>
+        <translation>Нижние устройства:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="70"/>
@@ -8146,7 +8148,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.ui" line="90"/>
         <source>Success!</source>
-        <translation type="unfinished"/>
+        <translation>Успешно!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardpickplacegeneratordialog.cpp" line="65"/>
@@ -8290,7 +8292,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="40"/>
         <source>Success!</source>
-        <translation type="unfinished"/>
+        <translation>Успешно!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="60"/>
@@ -8316,7 +8318,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.ui" line="126"/>
         <source>Comma-separated list of additional attributes, e.g. &quot;MANUFACTURER, MPN&quot;</source>
         <extracomment>Don't translate the attributes MANUFACTURER and MPN, they must be in English.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Список дополнительных атрибутов, разделённый запятыми, напр. &quot;MANUFACTURER, MPN&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="66"/>
