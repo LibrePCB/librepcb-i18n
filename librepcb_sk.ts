@@ -3948,7 +3948,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="182"/>
         <source>WARNING: This library element contains errors, see exact messages below. You should fix these errors before saving it, otherwise the library element may not work as expected.</source>
-        <translation>UPOZORNENIE: Tento prvok knižnice obsahuje chyby, zobrazené v správe nižšie. Mali by ste ich opraviť pred uložením, inak prvok nebude plniť funkciu tak, ako očakávate.</translation>
+        <translation>UPOZORNENIE: Tento knižničný prvok obsahuje chyby - zobrazené sú v správach. Pred uložením by ste ich mali opraviť, inak prvok nemusí plniť očakávanú funkciu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="210"/>
