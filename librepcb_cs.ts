@@ -2637,7 +2637,7 @@ Pracovní prostory jsou nezávislé na platformě, takže mohou být použity na
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="14"/>
         <source>Choose version to import</source>
-        <translation>Zvolit verzi pro import</translation>
+        <translation>Zvolit verzi pro zavedení</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="17"/>
@@ -2657,12 +2657,12 @@ Pracovní prostory jsou nezávislé na platformě, takže mohou být použity na
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="36"/>
         <source>Import from:</source>
-        <translation>Import z:</translation>
+        <translation>Zavedení z:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.cpp" line="50"/>
         <source>Do not import any data</source>
-        <translation>Neimportovat žádná data</translation>
+        <translation>Nezavádět žádná data</translation>
     </message>
 </context>
 <context>
@@ -2729,17 +2729,17 @@ Pracovní prostory jsou nezávislé na platformě, takže mohou být použity na
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="14"/>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="17"/>
         <source>Finalize Import</source>
-        <translation>Dokončení importu</translation>
+        <translation>Dokončení zavedení</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="20"/>
         <source>Ready to start the import operation.</source>
-        <translation>Připraven pro zahájení importu.</translation>
+        <translation>Připraven pro zahájení zavádění.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="26"/>
         <source>To import the old settings and libraries, the following directory will be recursively copied:</source>
-        <translation>Při importu starších nastavení a knihoven, budou rekurzivní zkopírovány také následující adresáře:</translation>
+        <translation>Při zavádění starších nastavení a knihoven, budou rekurzivně zkopírovány také následující adresáře:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="43"/>
@@ -2759,7 +2759,7 @@ Pracovní prostory jsou nezávislé na platformě, takže mohou být použity na
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="97"/>
         <source>Start Import</source>
-        <translation>Spustit import</translation>
+        <translation>Spustit zavedení</translation>
     </message>
 </context>
 <context>
@@ -7684,7 +7684,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="568"/>
         <source>PDF exported successfully</source>
-        <translation>Export do PDF byl úspěšný</translation>
+        <translation>Vyvedení do PDF bylo úspěšné</translation>
     </message>
 </context>
 <context>
@@ -9599,7 +9599,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="441"/>
         <source>PDF exported successfully</source>
-        <translation>Export do PDF byl úspěšný</translation>
+        <translation>Vyvedení do PDF bylo úspěšné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="483"/>
@@ -10167,7 +10167,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="362"/>
         <source>Open PDF after export:</source>
-        <translation>Po exportu otevřít PDF:</translation>
+        <translation>Po vyvedení otevřít PDF:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="371"/>
