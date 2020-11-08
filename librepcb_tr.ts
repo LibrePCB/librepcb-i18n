@@ -811,45 +811,35 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>SExpression</name>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="72"/>
-        <source>Unknown node type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="97"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="73"/>
         <source>Node is not a list.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="104"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="80"/>
         <source>Node is not a token or string.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="108"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="84"/>
         <source>Node value is empty.</source>
         <translation>Düğüm değeri boş.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="127"/>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="156"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="103"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="132"/>
         <source>Child not found: %1</source>
         <translation>Çoçuk bulunamadı: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="230"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="243"/>
         <source>Invalid S-Expression list name: %1</source>
         <translation>Geçersiz S-Expression liste ismi: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="258"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="271"/>
         <source>Invalid S-Expression token: %1</source>
         <translation>Geçersiz S-Expression simgesi: %1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="300"/>
-        <source>File does not have exactly one root node.</source>
-        <translation>Dosya sadece bir kök düğüme sahip değil.</translation>
     </message>
 </context>
 <context>

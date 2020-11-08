@@ -817,45 +817,35 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>SExpression</name>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="72"/>
-        <source>Unknown node type.</source>
-        <translation>未知的節點類型。</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="97"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="73"/>
         <source>Node is not a list.</source>
         <translation>節點不是一個清單。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="104"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="80"/>
         <source>Node is not a token or string.</source>
         <translation>節點不是一個或 token 字串。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="108"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="84"/>
         <source>Node value is empty.</source>
         <translation>節點值為空白。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="127"/>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="156"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="103"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="132"/>
         <source>Child not found: %1</source>
         <translation>找不到子節點： %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="230"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="243"/>
         <source>Invalid S-Expression list name: %1</source>
         <translation>無效的 S-Expression 清單名稱：%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="258"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="271"/>
         <source>Invalid S-Expression token: %1</source>
         <translation>無效的 S-Expression token：%1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="300"/>
-        <source>File does not have exactly one root node.</source>
-        <translation>檔案沒有確切的根節點。</translation>
     </message>
 </context>
 <context>

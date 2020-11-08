@@ -820,45 +820,35 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>SExpression</name>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="72"/>
-        <source>Unknown node type.</source>
-        <translation>Neznámy typ uzla.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="97"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="73"/>
         <source>Node is not a list.</source>
         <translation>Uzol nie je typu zoznam.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="104"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="80"/>
         <source>Node is not a token or string.</source>
         <translation>Uzol nie je token alebo reťazec.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="108"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="84"/>
         <source>Node value is empty.</source>
         <translation>Hodnota uzla neobsahuje žiadnu hodnotu.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="127"/>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="156"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="103"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="132"/>
         <source>Child not found: %1</source>
         <translation>Potomok nenájdený: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="230"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="243"/>
         <source>Invalid S-Expression list name: %1</source>
         <translation>Neplatný názov zoznamu S-Expresion: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="258"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="271"/>
         <source>Invalid S-Expression token: %1</source>
         <translation>Neplatný S-Expresion token: %1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="300"/>
-        <source>File does not have exactly one root node.</source>
-        <translation>Súbor neobsahuje root uzol.</translation>
     </message>
 </context>
 <context>
