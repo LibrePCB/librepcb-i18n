@@ -856,34 +856,39 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>SystemInfo</name>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="176"/>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="194"/>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="202"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="179"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="197"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="205"/>
         <source>Could not determine if another process is running.</source>
         <translation>Nedá sa zistiť ak beží iný proces.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="224"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="227"/>
         <source>proc_name() failed with error %1.</source>
         <translation>Funkcia proc_name() neúspešne ukončená s chybou %1.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="242"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="250"/>
+        <source>sysctl() failed with retval=%1 and errno=%2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="265"/>
         <source>Could not find the file &quot;/proc/version&quot;.</source>
         <translation>Nedá sa nájsť súbor &quot;/proc/version&quot;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="272"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="295"/>
         <source>OpenProcess() failed with error %1.</source>
         <translation>Funkcia OpenProcess() neúspešne ukončená s chybou %1.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="280"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="303"/>
         <source>QueryFullProcessImageNameW() failed with error %1.</source>
         <translation>Funkcia QueryFullProcessImageNameW() neúspešne ukončená s chybou %1.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="306"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="329"/>
         <source>Could not determine the process name of another process.</source>
         <translation>Nedá sa zistiť názov iného procesu.</translation>
     </message>

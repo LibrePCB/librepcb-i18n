@@ -873,7 +873,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="250"/>
         <source>sysctl() failed with retval=%1 and errno=%2.</source>
-        <translation type="unfinished"></translation>
+        <translation>sysctl() failed with retval=%1 and errno=%2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="265"/>
