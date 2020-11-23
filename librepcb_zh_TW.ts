@@ -7921,7 +7921,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="460"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="501"/>
         <source>Pad is not connected to any signal.</source>
-        <translation type="unfinished"/>
+        <translation>焊墊並未連接任何訊號</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="506"/>
