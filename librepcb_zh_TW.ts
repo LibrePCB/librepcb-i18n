@@ -364,7 +364,7 @@
     <message>
         <location filename="../libs/librepcb/common/gridproperties.h" line="116"/>
         <source>Unknown grid type: &quot;%1&quot;</source>
-        <translation>未知的網格類型：&quot;%1&quot;</translation>
+        <translation>未知的格點類型：&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -736,12 +736,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgsymbolpinnotongrid.cpp" line="42"/>
         <source>Pin not on %1mm grid: &apos;%2&apos;</source>
-        <translation>引腳沒有對齊到 %1mm 網格: &apos;%2&apos;</translation>
+        <translation>引腳沒有對齊到 %1mm 格點: &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgsymbolpinnotongrid.cpp" line="44"/>
         <source>Every pin must be placed exactly on the %1mm grid, otherwise it cannot be connected in the schematic editor.</source>
-        <translation>每支引腳必須對齊到 %1mm 網格，否則無法在線路圖編輯器中被連接。</translation>
+        <translation>每支引腳必須對齊到 %1mm 格點，否則無法在線路圖編輯器中被連接。</translation>
     </message>
 </context>
 <context>
@@ -1728,7 +1728,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="23"/>
         <source>Grid Settings</source>
-        <translation>網格設定</translation>
+        <translation>格點設定</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="39"/>
@@ -1738,7 +1738,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="48"/>
         <source>No Grid</source>
-        <translation>無網格</translation>
+        <translation>無格點</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/gridsettingsdialog.ui" line="58"/>
@@ -2276,7 +2276,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="53"/>
         <source>This workspace was already used with a newer version of LibrePCB. All changes in libraries and workspace settings will not be available in newer versions of LibrePCB.</source>
-        <translation>此工作區已被更新版本的 LibrePCB 使用過。所有在元件庫和工作區上的變更將無法被更新版本的 LibrePCB 使用。</translation>
+        <translation>此工作區已被較新版本的 LibrePCB 使用過。所有在元件庫和工作區上的變更將無法被更新版本的 LibrePCB 使用。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="83"/>
@@ -3123,7 +3123,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="110"/>
         <source>The library element %1 was created with a newer application version. You need at least LibrePCB version %2 to open it.</source>
-        <translation>此元件庫元素 %1 是被更新版的應用程式建立的。你至少需要使用 LibrePCB %2 來開啟它。</translation>
+        <translation>此元件庫元素 %1 是被較新版的應用程式建立的。你至少需要使用 LibrePCB %2 來開啟它。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="145"/>
@@ -4319,7 +4319,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="580"/>
         <source>&amp;Grid</source>
-        <translation>網格 (&amp;G)</translation>
+        <translation>格點 (&amp;G)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="592"/>
@@ -4508,7 +4508,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="438"/>
         <source>URL:</source>
-        <translation>URL:</translation>
+        <translation>URL：</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="452"/>
@@ -5293,12 +5293,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="401"/>
         <source>Remove Vertex</source>
-        <translation type="unfinished"/>
+        <translation>移除頂點</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="438"/>
         <source>Add Vertex</source>
-        <translation type="unfinished"/>
+        <translation>加入頂點</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="447"/>
@@ -5651,22 +5651,22 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="384"/>
         <source>Remove Vertex</source>
-        <translation type="unfinished"/>
+        <translation>移除頂點</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="420"/>
         <source>Add Vertex</source>
-        <translation type="unfinished"/>
+        <translation>加入頂點</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="430"/>
         <source>&amp;Rotate</source>
-        <translation type="unfinished"/>
+        <translation>旋轉 (&amp;R)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="434"/>
         <source>&amp;Mirror</source>
-        <translation type="unfinished"/>
+        <translation>鏡像 (&amp;M)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="438"/>
@@ -5795,7 +5795,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="39"/>
         <source>Download from repository</source>
-        <translation>從版本庫下載</translation>
+        <translation>由版本庫下載</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="45"/>
@@ -5865,7 +5865,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="259"/>
         <source>&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically. It&apos;s highly recommended to use &amp;quot;Download from repository&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;從網路上下載以 ZIP 壓縮的元件庫並且儲存成本機元件庫&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;註：使用此方式下載的元件庫不會被自動更新。強烈建議如果可以請 &amp;quot;自版本庫下載&amp;quot;&lt;/span&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;從網路上下載以 ZIP 壓縮的元件庫並且儲存成本機元件庫&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;註：使用此方式下載的元件庫不會被自動更新。強烈建議如果可以請 &amp;quot;由版本庫下載&amp;quot;&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="220"/>
@@ -5880,7 +5880,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="238"/>
         <source>URL:</source>
-        <translation>URL:</translation>
+        <translation>URL：</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="253"/>
@@ -6041,7 +6041,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="140"/>
         <source>URL:</source>
-        <translation>URL:</translation>
+        <translation>URL：</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/libraryinfowidget.ui" line="163"/>
@@ -6867,7 +6867,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematictextadd.cpp" line="41"/>
         <source>Add schematic text</source>
-        <translation type="unfinished"/>
+        <translation>加入線路圖文字</translation>
     </message>
 </context>
 <context>
@@ -6875,7 +6875,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematictextremove.cpp" line="41"/>
         <source>Remove schematic text</source>
-        <translation type="unfinished"/>
+        <translation>移除線路圖文字</translation>
     </message>
 </context>
 <context>
@@ -7007,7 +7007,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
 You need at least LibrePCB %1 to open it.
 
 %2</source>
-        <translation>此專案是被更新版的應用程式建立的。
+        <translation>此專案是被較新版的應用程式建立的。
 你至少需要使用 LibrePCB %1 來開啟它。
 
 %2</translation>
@@ -7411,7 +7411,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="505"/>
         <source>&amp;Grid</source>
-        <translation>網格 (&amp;G)</translation>
+        <translation>格點 (&amp;G)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="517"/>
@@ -7608,7 +7608,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="107"/>
         <source>%1 - LibrePCB Board Editor</source>
-        <translation type="unfinished"/>
+        <translation>%1 - LibrePCB 電路板編輯器</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="243"/>
@@ -7810,17 +7810,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="346"/>
         <source>Via of a different signal already present at target position.</source>
-        <translation type="unfinished"/>
+        <translation>目標位置已存在定義了相異訊號的導通孔</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="355"/>
         <source>Pad of a different signal already present at target position.</source>
-        <translation type="unfinished"/>
+        <translation>目標位置已存在定義了相異訊號的焊墊</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="365"/>
         <source>Netpoint of a different signal already present at target position.</source>
-        <translation type="unfinished"/>
+        <translation>目標位置已存在定義了相異訊號的連接線頂點</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="374"/>
@@ -7876,7 +7876,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="209"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="256"/>
         <source>Draw board polygon</source>
-        <translation type="unfinished"/>
+        <translation>繪製電路板多邊形</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="226"/>
@@ -7977,7 +7977,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="450"/>
         <source>Reset all texts</source>
-        <translation type="unfinished"/>
+        <translation>重設所ˋ有文字</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="462"/>
@@ -7992,17 +7992,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="526"/>
         <source>Remove Trace Segment</source>
-        <translation type="unfinished"/>
+        <translation>移除走線線段</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="555"/>
         <source>Remove Via</source>
-        <translation type="unfinished"/>
+        <translation>移除導通孔</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="574"/>
         <source>Remove Plane</source>
-        <translation type="unfinished"/>
+        <translation>移除平面</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="576"/>
@@ -8017,22 +8017,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="598"/>
         <source>Remove Polygon</source>
-        <translation type="unfinished"/>
+        <translation>移除多邊形</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="610"/>
         <source>Remove Text</source>
-        <translation type="unfinished"/>
+        <translation>移除文字</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="622"/>
         <source>Remove Hole</source>
-        <translation type="unfinished"/>
+        <translation>移除孔洞</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="965"/>
         <source>Paste board elements</source>
-        <translation type="unfinished"/>
+        <translation>貼上電路板元素</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1102"/>
@@ -8042,7 +8042,7 @@ You need at least LibrePCB %1 to open it.
     <message numerus="yes">
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1104"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n 條走線線段的總長度為：%2 mm / %3 in</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1112"/>
@@ -8072,17 +8072,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="121"/>
         <source>Remove Whole Trace</source>
-        <translation type="unfinished"/>
+        <translation>移除整條走線</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="124"/>
         <source>Remove Vertex</source>
-        <translation type="unfinished"/>
+        <translation>移除頂點</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="126"/>
         <source>Add Vertex</source>
-        <translation type="unfinished"/>
+        <translation>加入頂點</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="129"/>
@@ -8097,7 +8097,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="133"/>
         <source>Snap To Grid</source>
-        <translation type="unfinished"/>
+        <translation>靠齊格點</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.h" line="136"/>
@@ -8490,7 +8490,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdpasteboarditems.cpp" line="76"/>
         <source>Paste Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>貼上電路板元素</translation>
     </message>
 </context>
 <context>
@@ -8498,7 +8498,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdpastefootprintitems.cpp" line="51"/>
         <source>Paste Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>貼上電路板元素</translation>
     </message>
 </context>
 <context>
@@ -9498,7 +9498,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="612"/>
         <source>&amp;Grid</source>
-        <translation>網格 (&amp;G)</translation>
+        <translation>格點 (&amp;G)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="620"/>
@@ -9589,12 +9589,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="822"/>
         <source>Add &amp;Text</source>
-        <translation type="unfinished"/>
+        <translation>加入文字 (&amp;T)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="825"/>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>加入文字</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="214"/>
@@ -9649,7 +9649,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="91"/>
         <source>%1 - LibrePCB Schematic Editor</source>
-        <translation type="unfinished"/>
+        <translation>%1 - LibrePCB 線路圖編輯器</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="205"/>
@@ -9735,7 +9735,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="228"/>
         <source>Add text to schematic</source>
-        <translation type="unfinished"/>
+        <translation>加入文字至線路圖</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="243"/>
