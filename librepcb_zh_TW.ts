@@ -702,7 +702,11 @@ Passive parts: Using an attribute, e.g. %3</source>
 To fix this issue, connect the package pads to their corresponding component signals in the table widget.
 
 If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
-        <translation type="unfinished"/>
+        <translation>選擇的封裝包含焊墊，卻皆未連接至元件訊號。所以當此裝置被加入電路板，其的焊墊不會存在任何電氣功能。
+
+如欲修正此問題，請至表格工具中進行封裝焊墊至對應元件訊號的連接。
+
+若所有的點都僅有機械用途而不需要連接任何元件訊號，可以忽略此訊息。</translation>
     </message>
 </context>
 <context>
@@ -4972,7 +4976,8 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_entermetadata.cpp" line="205"/>
         <source>... and %1 more.</source>
-        <translation type="unfinished"/>
+        <translation>,,, 還剩 %1 個
+</translation>
     </message>
 </context>
 <context>
@@ -7814,7 +7819,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="374"/>
         <source>Netline of a different signal already present at target position.</source>
-        <translation type="unfinished"/>
+        <translation>目標位置已存在定義了相異訊號的連接線線條</translation>
     </message>
 </context>
 <context>
