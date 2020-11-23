@@ -9639,7 +9639,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="704"/>
         <source>Choose new name:</source>
-        <translation>選取一個新名稱：</translation>
+        <translation>取一個新名稱：</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="404"/>
