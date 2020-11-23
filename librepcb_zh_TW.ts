@@ -564,7 +564,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
 Generic parts (e.g. a diode): %1
 Specific parts (e.g. a microcontroller): %2
 Passive parts: Using an attribute, e.g. %3</source>
-        <translation>多數元件應該要有預設數值。當元件被加入線路圖時，預設數值將成為元件的值。這也包括之後在線路圖中會被置入的佔位字元。常用的預設數值有：
+        <translation>多數元件應該要有預設數值。當元件被加入線路圖時，預設數值將成為元件的值。這也包括之後在線路圖中會被置入的置換符號。常用的預設數值有：
 
 通用元件（比如二極體）：%1
 特規元件（比如微控制器）：%2
@@ -871,7 +871,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="250"/>
         <source>sysctl() failed with retval=%1 and errno=%2.</source>
-        <translation type="unfinished"/>
+        <translation>sysctl() 錯誤 回傳值=%1 錯誤碼=%2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="265"/>
@@ -1010,7 +1010,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="163"/>
         <source>LibrePCB is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/blob/master/LICENSE.txt&quot;&gt;in our source code&lt;/a&gt;.</source>
-        <translation>LibrePCB 是個自由軟體，在GNU通用公眾授權條款第3版或是往後的版本之下釋出。您可以在&lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/blob/master/LICENSE.txt&quot;&gt;我們的原使碼中&lt;/a&gt;找到完整的授權協議條款。</translation>
+        <translation>LibrePCB 是個自由軟體，在GNU通用公眾授權條款第3版 (GPLv3) 或是往後的版本之下釋出。您可以在&lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/blob/master/LICENSE.txt&quot;&gt;我們的原使碼中&lt;/a&gt;找到完整的授權協議條款。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="173"/>
@@ -2937,7 +2937,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="529"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
-        <translation>註：為了避免檔案被多次覆寫，再次確認所有的輸出功能都是唯一的檔案路徑。對於電路板輸出檔，您可以在路徑中加入佔位字元&apos;%1&apos;或者在指定電路板輸出時使用&apos;%2&apos;參數。</translation>
+        <translation>註：為了避免檔案被多次覆寫，再次確認所有的輸出功能都是唯一的檔案路徑。對於電路板輸出檔，您可以在路徑中加入置換符號 &apos;%1&apos; 或者在指定電路板輸出時使用 &apos;%2&apos; 參數。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="540"/>
@@ -7932,7 +7932,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="460"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="501"/>
         <source>Pad is not connected to any signal.</source>
-        <translation type="unfinished"/>
+        <translation>焊墊並未連接任何訊號</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="506"/>
@@ -10227,7 +10227,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="419"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use &lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt;{{FILEPATH}}}&lt;/span&gt; as placeholder for the filename.&lt;/p&gt;&lt;p&gt;Notice: If your path contains space you may need to add quotes like this: &lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt;&amp;quot;{{FILEPATH}}&amp;quot;&lt;/span&gt; .&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用&lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt;{{FILEPATH}}}&lt;/span&gt; 作為檔名的置換符號。&lt;/p&gt;&lt;p&gt;請留意：若您的路徑包含空格，您將會需要加入引號如下：&lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt;&amp;quot;{{FILEPATH}}&amp;quot;&lt;/span&gt; .&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="425"/>
@@ -10242,7 +10242,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.ui" line="438"/>
         <source>Pick</source>
-        <translation type="unfinished"/>
+        <translation>選取</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/workspace/settings/workspacesettingsdialog.cpp" line="60"/>
