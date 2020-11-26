@@ -4081,7 +4081,7 @@ p, li { white-space: pre-wrap; }
         <translation>(nepřipojený)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.cpp" line="180"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.cpp" line="177"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -5159,9 +5159,9 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
         <translation>Přidat plošku vývodu do pouzdra</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="249"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="273"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="288"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="247"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="271"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="286"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -5416,7 +5416,7 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
 <context>
     <name>librepcb::library::editor::PackagePadComboBox</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/widgets/packagepadcombobox.cpp" line="109"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/widgets/packagepadcombobox.cpp" line="70"/>
         <source>(unconnected)</source>
         <translation>(nepřipojený)</translation>
     </message>
