@@ -4084,7 +4084,7 @@ p, li { white-space: pre-wrap; }
         <translation>(not connected)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.cpp" line="180"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.cpp" line="177"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -5163,9 +5163,9 @@ Are you still sure to delete the following library elements?</translation>
         <translation>Add footprint pad</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="249"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="273"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="288"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="247"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="271"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="286"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -5420,7 +5420,7 @@ Are you still sure to delete the following library elements?</translation>
 <context>
     <name>librepcb::library::editor::PackagePadComboBox</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/widgets/packagepadcombobox.cpp" line="109"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/widgets/packagepadcombobox.cpp" line="70"/>
         <source>(unconnected)</source>
         <translation>(unconnected)</translation>
     </message>
