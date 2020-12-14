@@ -870,7 +870,7 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="250"/>
         <source>sysctl() failed with retval=%1 and errno=%2.</source>
-        <translation type="unfinished"/>
+        <translation>sysctl() neúspěšné s návr. hodnotou=%1 a kódem chyby=%2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="265"/>
@@ -6872,7 +6872,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematictextadd.cpp" line="41"/>
         <source>Add schematic text</source>
-        <translation type="unfinished"/>
+        <translation>Přidat text schématu</translation>
     </message>
 </context>
 <context>
@@ -6880,7 +6880,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematictextremove.cpp" line="41"/>
         <source>Remove schematic text</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit text schématu</translation>
     </message>
 </context>
 <context>
@@ -9594,12 +9594,12 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="822"/>
         <source>Add &amp;Text</source>
-        <translation type="unfinished"/>
+        <translation>Přidat &amp;text</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="825"/>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>Přidat text</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="214"/>
@@ -9740,7 +9740,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="228"/>
         <source>Add text to schematic</source>
-        <translation type="unfinished"/>
+        <translation>Přidat text do schématu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="243"/>
