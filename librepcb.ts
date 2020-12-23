@@ -6871,7 +6871,7 @@ Are you really sure to remove &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicpolygonadd.cpp" line="41"/>
         <source>Add polygon to schematic</source>
-        <translation type="unfinished"></translation>
+        <translation>Add polygon to schematic</translation>
     </message>
 </context>
 <context>
@@ -6879,7 +6879,7 @@ Are you really sure to remove &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicpolygonremove.cpp" line="42"/>
         <source>Remove polygon from schematic</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove polygon from schematic</translation>
     </message>
 </context>
 <context>
@@ -9630,7 +9630,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="839"/>
         <source>Draw Polygon</source>
-        <translation type="unfinished"></translation>
+        <translation>Draw Polygon</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="216"/>
@@ -9786,30 +9786,30 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="88"/>
         <source>Layer:</source>
-        <translation type="unfinished">Layer:</translation>
+        <translation>Layer:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="102"/>
         <source>Width:</source>
-        <translation type="unfinished">Width:</translation>
+        <translation>Width:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="114"/>
         <source>Filled:</source>
-        <translation type="unfinished">Filled:</translation>
+        <translation>Filled:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="215"/>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="261"/>
         <source>Draw schematic polygon</source>
-        <translation type="unfinished"></translation>
+        <translation>Draw schematic polygon</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="231"/>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="273"/>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="308"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>
@@ -9880,12 +9880,12 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.h" line="130"/>
         <source>Remove Vertex</source>
-        <translation type="unfinished">Remove Vertex</translation>
+        <translation>Remove Vertex</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.h" line="132"/>
         <source>Add Vertex</source>
-        <translation type="unfinished">Add Vertex</translation>
+        <translation>Add Vertex</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.h" line="125"/>
