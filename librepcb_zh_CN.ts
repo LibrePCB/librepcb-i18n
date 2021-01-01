@@ -7077,7 +7077,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::SI_SymbolPin</name>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_symbolpin.cpp" line="239"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_symbolpin.cpp" line="255"/>
         <source>Unconnected pin: &quot;%1&quot; of symbol &quot;%2&quot;</source>
         <translation type="unfinished"/>
     </message>

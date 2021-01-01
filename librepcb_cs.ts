@@ -7115,7 +7115,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
 <context>
     <name>librepcb::project::SI_SymbolPin</name>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_symbolpin.cpp" line="239"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_symbolpin.cpp" line="255"/>
         <source>Unconnected pin: &quot;%1&quot; of symbol &quot;%2&quot;</source>
         <translation>Nepřipojený vývod: &quot;%1&quot; schematické značky &quot;%2&quot;</translation>
     </message>
