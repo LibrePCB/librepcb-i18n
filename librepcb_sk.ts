@@ -6864,7 +6864,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicpolygonadd.cpp" line="41"/>
         <source>Add polygon to schematic</source>
-        <translation type="unfinished"/>
+        <translation>Pridať polygón do schémy</translation>
     </message>
 </context>
 <context>
@@ -6872,7 +6872,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicpolygonremove.cpp" line="42"/>
         <source>Remove polygon from schematic</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť polygón zo schémy</translation>
     </message>
 </context>
 <context>
@@ -9620,7 +9620,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="839"/>
         <source>Draw Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť polygón</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="216"/>
@@ -9792,7 +9792,7 @@ Do you want to save them before closing the project?</source>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="215"/>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="261"/>
         <source>Draw schematic polygon</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť polygón v schéme</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="231"/>
