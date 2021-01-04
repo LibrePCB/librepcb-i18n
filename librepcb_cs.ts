@@ -6864,7 +6864,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicpolygonadd.cpp" line="41"/>
         <source>Add polygon to schematic</source>
-        <translation type="unfinished"/>
+        <translation>Přidat mnohoúhelník do schématu</translation>
     </message>
 </context>
 <context>
@@ -6872,7 +6872,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicpolygonremove.cpp" line="42"/>
         <source>Remove polygon from schematic</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit mnohoúhelník ze schématu</translation>
     </message>
 </context>
 <context>
@@ -9620,7 +9620,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="839"/>
         <source>Draw Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Kreslit mnohoúhelník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="216"/>
@@ -9792,7 +9792,7 @@ Chcete je před zavřením projektu uložit?</translation>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="215"/>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="261"/>
         <source>Draw schematic polygon</source>
-        <translation type="unfinished"/>
+        <translation>Kreslit mnohoúhelník ve schématu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="231"/>
