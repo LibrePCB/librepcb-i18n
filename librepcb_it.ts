@@ -5656,7 +5656,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="442"/>
         <source>&amp;Properties</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Proprietà</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="556"/>
@@ -5737,7 +5737,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/dialogs/symbolpinpropertiesdialog.ui" line="14"/>
         <source>Pin Properties</source>
-        <translation type="unfinished"/>
+        <translation>Proprietà del Pin</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/dialogs/symbolpinpropertiesdialog.ui" line="22"/>
@@ -5795,7 +5795,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="64"/>
         <source>Download and install/update selected libraries</source>
-        <translation type="unfinished"/>
+        <translation>Scarica e installa/aggiorna le librerie selezionate</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="80"/>
@@ -5880,7 +5880,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="310"/>
         <source>Download Library</source>
-        <translation type="unfinished"/>
+        <translation>Scarica la libreria</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/librarymanager/addlibrarywidget.ui" line="326"/>
@@ -7389,7 +7389,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="549"/>
         <source>&amp;Properties</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Proprietà</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="552"/>
@@ -9484,7 +9484,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="689"/>
         <source>&amp;Properties</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Proprietà</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="701"/>
