@@ -143,7 +143,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="112"/>
         <source>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>导出逗号分隔的附加属性到 BOM 表。例如: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="115"/>
@@ -198,7 +198,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="187"/>
         <source>Path to library directory (*.lplib).</source>
-        <translation type="unfinished"/>
+        <translation>库文件夹路径 (*.lplib)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="192"/>
@@ -213,7 +213,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="676"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
-        <translation type="unfinished"/>
+        <translation>检查不规范的文件 ‘%1’ ...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="693"/>
@@ -223,7 +223,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="721"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
-        <translation type="unfinished"/>
+        <translation>此应用程序版本不稳定！已禁用选项“%1”以避免损坏项目或库。请改用稳定版本。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="206"/>
@@ -278,7 +278,7 @@
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="76"/>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="168"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation>目录 &quot;%1&quot; 不存在。</translation>
+        <translation>文件夹 &quot;%1&quot; 不存在。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="94"/>
@@ -372,7 +372,7 @@
     <message>
         <location filename="../libs/librepcb/common/units/lengthunit.cpp" line="222"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>长度单位无效: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
