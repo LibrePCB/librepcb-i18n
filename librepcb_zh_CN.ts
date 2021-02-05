@@ -486,14 +486,16 @@
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgduplicatepadname.cpp" line="39"/>
         <source>Duplicate pad name: &apos;%1&apos;</source>
-        <translation>重复的焊盘名: &apos;%1&apos;</translation>
+        <translation>焊盘重名: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgduplicatepadname.cpp" line="40"/>
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
-        <translation type="unfinished"/>
+        <translation>所有封装焊盘都必须具有唯一的名称，否则以后无法在设备编辑器中对其进行区分。如果您的零件有多个具有相同功能的引脚（例如多个GND引脚），您可以稍后在设备编辑器中将所有这些焊盘分配给相同的元件符号。
+
+对于中性封装（例如SOT23），焊盘应仅以数字命名，而不是以功能命名（例如，应使用“1”、“2”、“3”，而不是“D”、“G”、“S”）。</translation>
     </message>
 </context>
 <context>
@@ -501,7 +503,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgduplicatepinname.cpp" line="39"/>
         <source>Duplicate pin name: &apos;%1&apos;</source>
-        <translation>重复的引脚名: &apos;%1&apos;</translation>
+        <translation>引脚重名: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgduplicatepinname.cpp" line="40"/>
@@ -527,12 +529,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingauthor.cpp" line="37"/>
         <source>Author not set</source>
-        <translation>作者没有设定</translation>
+        <translation>作者未设定</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingauthor.cpp" line="38"/>
         <source>It is recommended to set an author (e.g. full name or nickname), although it&apos;s not required.</source>
-        <translation>虽然不是必需，但推荐设置作者(例如全名或呢称)。</translation>
+        <translation>尽管不是必须的，仍推荐设置作者(例如全名或呢称)。</translation>
     </message>
 </context>
 <context>
@@ -1041,7 +1043,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="302"/>
         <source>Details</source>
-        <translation>详细内容</translation>
+        <translation>详情</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.ui" line="333"/>
@@ -1051,17 +1053,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="62"/>
         <source>For more information, please check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>更多信息，请浏览&lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt;或&lt;a href=&apos;%2&apos;&gt;GitHub仓库&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="67"/>
         <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal or Bitcoin. Check out &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; for details.</source>
-        <translation type="unfinished"/>
+        <translation>通过Patreon、PayPal或比特币进行捐赠，以支持LibrePCB的持续发展。详情参见&lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="72"/>
         <source>Check out our &lt;a href=&apos;%1&apos;&gt;Contribution Guidelines&lt;/a&gt; if you&apos;re interested in development of LibrePCB!</source>
-        <translation type="unfinished"/>
+        <translation>如果你有志参与LibrePCB的开发，请访问&lt;a href=&apos;%1&apos;&gt;贡献指南&lt;/a&gt;了解详情。</translation>
     </message>
 </context>
 <context>
@@ -1069,7 +1071,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/alignmentselector.ui" line="14"/>
         <source>Form</source>
-        <translation>Form</translation>
+        <translation>从</translation>
     </message>
 </context>
 <context>
@@ -1077,32 +1079,32 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="76"/>
         <source>Removing temporary directory...</source>
-        <translation>正在删除零时文件夹......</translation>
+        <translation>正在删除临时文件夹......</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="81"/>
         <source>Looking for files to copy...</source>
-        <translation type="unfinished"/>
+        <translation>正在查找要复制的文件...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="92"/>
         <source>Copy file %1 of %2...</source>
-        <translation type="unfinished"/>
+        <translation>复制文件 %1 到 %2...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="99"/>
         <source>Renaming temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>正在重命名临时文件夹...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="103"/>
         <source>Successfully finished!</source>
-        <translation type="unfinished"/>
+        <translation>全部完成！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="113"/>
         <source>Failed to copy files:</source>
-        <translation type="unfinished"/>
+        <translation>复制文件失败:</translation>
     </message>
 </context>
 <context>
@@ -1142,7 +1144,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attrtypepower.cpp" line="39"/>
         <source>Power</source>
-        <translation type="unfinished"/>
+        <translation>电源</translation>
     </message>
 </context>
 <context>
@@ -1183,12 +1185,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="185"/>
         <source>Attribute key</source>
-        <translation type="unfinished"/>
+        <translation>属性键</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="268"/>
         <source>Key</source>
-        <translation type="unfinished"/>
+        <translation>键</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="270"/>
@@ -1208,7 +1210,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="282"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>新建:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="285"/>
@@ -1218,7 +1220,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/attributes/attributelistmodel.cpp" line="436"/>
         <source>There is already an attribute with the key &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>属性键已存在“%1”</translation>
     </message>
 </context>
 <context>
@@ -1241,17 +1243,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="34"/>
         <source>Minimum</source>
-        <translation type="unfinished"/>
+        <translation>最小</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="41"/>
         <source>Ratio (% of diam.)</source>
-        <translation type="unfinished"/>
+        <translation>直径百分比</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="48"/>
         <source>Maximum</source>
-        <translation type="unfinished"/>
+        <translation>最大</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="55"/>
@@ -1271,12 +1273,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="76"/>
         <source>Restring THT Pads:</source>
-        <translation type="unfinished"/>
+        <translation>限制插件焊盘:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.ui" line="83"/>
         <source>Restring Vias:</source>
-        <translation type="unfinished"/>
+        <translation>限制过孔:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/boarddesignrulesdialog.cpp" line="166"/>
@@ -1299,12 +1301,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="35"/>
         <source>Area:</source>
-        <translation type="unfinished"/>
+        <translation>区域:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="44"/>
         <source>Filled</source>
-        <translation type="unfinished"/>
+        <translation>填充</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/circlepropertiesdialog.ui" line="51"/>
@@ -1369,7 +1371,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/geometry/cmd/cmdstroketextedit.cpp" line="39"/>
         <source>Edit stroke text</source>
-        <translation type="unfinished"/>
+        <translation>编辑文本线宽</translation>
     </message>
 </context>
 <context>
@@ -1438,7 +1440,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/network/filedownload.cpp" line="136"/>
         <source>Checksum verification of downloaded file failed!</source>
-        <translation type="unfinished"/>
+        <translation>下载的文件校验错！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/filedownload.cpp" line="144"/>
@@ -1545,17 +1547,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="182"/>
         <source>Board Outlines</source>
-        <translation type="unfinished"/>
+        <translation>板外形</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="183"/>
         <source>Milling (PTH)</source>
-        <translation type="unfinished"/>
+        <translation>铣削(金属化孔)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="184"/>
         <source>Drills (NPTH)</source>
-        <translation type="unfinished"/>
+        <translation>钻孔(非金属化孔)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="185"/>
@@ -1570,7 +1572,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="187"/>
         <source>Air Wires</source>
-        <translation type="unfinished"/>
+        <translation>跳线</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="188"/>
@@ -1585,12 +1587,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="194"/>
         <source>Top Placement</source>
-        <translation type="unfinished"/>
+        <translation>顶面放置</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="195"/>
         <source>Bot Placement</source>
-        <translation type="unfinished"/>
+        <translation>底面放置</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="196"/>
@@ -1756,7 +1758,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="38"/>
         <source>Align left</source>
-        <translation type="unfinished"/>
+        <translation>左对齐</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="44"/>
@@ -1766,7 +1768,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/halignactiongroup.cpp" line="50"/>
         <source>Align right</source>
-        <translation type="unfinished"/>
+        <translation>右对齐</translation>
     </message>
 </context>
 <context>
@@ -1774,7 +1776,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.ui" line="14"/>
         <source>Hole Properties</source>
-        <translation type="unfinished"/>
+        <translation>孔属性</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/holepropertiesdialog.ui" line="22"/>
@@ -1807,7 +1809,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="314"/>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>缺省</translation>
     </message>
 </context>
 <context>
@@ -1931,7 +1933,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="200"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>新建:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/geometry/pathmodel.cpp" line="204"/>
@@ -1959,12 +1961,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="35"/>
         <source>Area:</source>
-        <translation type="unfinished"/>
+        <translation>区域:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="44"/>
         <source>Filled</source>
-        <translation type="unfinished"/>
+        <translation>填充</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/polygonpropertiesdialog.ui" line="51"/>
@@ -3545,7 +3547,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="233"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>新建:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="236"/>
@@ -3688,7 +3690,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="379"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>新建:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantitemlistmodel.cpp" line="383"/>
@@ -3715,7 +3717,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistmodel.cpp" line="192"/>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>缺省</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistmodel.cpp" line="262"/>
@@ -3740,7 +3742,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistmodel.cpp" line="277"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>新建:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvariantlistmodel.cpp" line="281"/>
@@ -3967,7 +3969,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/footprintlistmodel.cpp" line="244"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>新建:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/footprintlistmodel.cpp" line="247"/>
@@ -5417,7 +5419,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlistmodel.cpp" line="200"/>
         <source>New:</source>
-        <translation type="unfinished"/>
+        <translation>新建:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/packagepadlistmodel.cpp" line="203"/>
