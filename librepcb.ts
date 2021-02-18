@@ -6254,7 +6254,7 @@ Are you really sure to remove &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="185"/>
         <source>(no net)</source>
-        <translation type="unfinished"></translation>
+        <translation>(no net)</translation>
     </message>
 </context>
 <context>
@@ -7825,7 +7825,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="165"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>None</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="240"/>
