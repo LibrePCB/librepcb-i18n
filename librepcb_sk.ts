@@ -6250,7 +6250,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="185"/>
         <source>(no net)</source>
-        <translation type="unfinished"/>
+        <translation>(bez signálu)</translation>
     </message>
 </context>
 <context>
