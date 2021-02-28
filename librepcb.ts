@@ -5332,7 +5332,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="464"/>
         <source>Snap To Grid</source>
-        <translation type="unfinished">Snap To Grid</translation>
+        <translation>Snap To Grid</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="470"/>
@@ -5691,7 +5691,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="442"/>
         <source>&amp;Snap To Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Snap To Grid</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="448"/>
