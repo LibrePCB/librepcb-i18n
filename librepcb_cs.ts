@@ -5687,7 +5687,7 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="442"/>
         <source>&amp;Snap To Grid</source>
-        <translation type="unfinished"/>
+        <translation>Přichytávat k mřížce</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="448"/>
