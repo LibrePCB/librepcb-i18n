@@ -275,20 +275,20 @@
 <context>
     <name>DirectoryLock</name>
     <message>
-        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="76"/>
-        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="168"/>
+        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="77"/>
+        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="187"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
         <translation>目錄 &quot;%1&quot; 不存在。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="94"/>
+        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="95"/>
         <source>The lock file &quot;%1&quot; has too few lines.</source>
         <translation>鎖定檔案 &quot;%1&quot; 的行數太少。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="145"/>
-        <source>The directory is locked, check if it is already opened elsewhere: %1</source>
-        <translation>目錄已被鎖定，請檢察是否在已在其他位置被開啟：%1</translation>
+        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="166"/>
+        <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -921,17 +921,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="218"/>
+        <location filename="../apps/librepcb/main.cpp" line="219"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="267"/>
+        <location filename="../apps/librepcb/main.cpp" line="271"/>
         <source>Cannot open the workspace</source>
         <translation>無法開啟工作區</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="268"/>
+        <location filename="../apps/librepcb/main.cpp" line="272"/>
         <source>The workspace &quot;%1&quot; cannot be opened: %2</source>
         <translation>開啟工作區 &quot;%1&quot; 被開啟： %2</translation>
     </message>
@@ -1387,6 +1387,35 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <location filename="../libs/librepcb/common/geometry/cmd/cmdtextedit.cpp" line="37"/>
         <source>Edit text</source>
         <translation>編輯文字</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::DirectoryLockHandlerDialog</name>
+    <message>
+        <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="14"/>
+        <source>Directory is locked</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="35"/>
+        <source>Could not open the directory &quot;%1&quot; because it is already opened by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
+        <extracomment>%2 is something like &quot;sername@computername&quot;.</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="52"/>
+        <source>If you&apos;re absolutely sure that the directory is not accessed by any other application instance anymore, you could discard the current lock and open this directory anyway. But if the directory is still accessed by another application instance, this could lead in corrupt files, so use this option very carefully!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="50"/>
+        <source>I accept the risk.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="55"/>
+        <source>Open anyway</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2290,15 +2319,15 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="168"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="518"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="616"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="620"/>
         <source>New Project</source>
         <translation>新增專案</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="185"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="530"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="493"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="587"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="497"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="591"/>
         <source>Open Project</source>
         <translation>開啟專案</translation>
     </message>
@@ -2389,112 +2418,112 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation>關閉所有已開啟的專案</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="75"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="76"/>
         <source>Control Panel - LibrePCB %1</source>
         <translation>控制台 - LibrePCB %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="79"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="80"/>
         <source>Workspace: %1</source>
         <translation>工作區： %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="84"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="85"/>
         <source>Scanning libraries (%p%)</source>
         <translation>正在掃描元件庫(%p%)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="279"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="280"/>
         <source>Could not create project</source>
         <translation>無法建立專案</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="306"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="337"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="307"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="339"/>
         <source>Could not open project</source>
         <translation>無法開啟專案</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="384"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="386"/>
         <source>Restore autosave backup?</source>
         <translation>還原自動儲存的備份？</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="385"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="387"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>噢，看起來上次這個程式在開啟你的專案時GG了，想要還原上次自動儲存的備份嗎？</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="415"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="524"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="671"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="419"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="528"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="675"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="494"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="498"/>
         <source>LibrePCB project files (%1)</source>
         <translation>LibrePCB 專案檔 (%1)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="529"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="533"/>
         <source>Workspace changed</source>
         <translation>工作區已變更</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="530"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="534"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation>重新開啟應用程式之後將使用已選擇的工作區。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="591"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="595"/>
         <source>Close Project</source>
         <translation>關閉專案</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="597"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="722"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="751"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="601"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="726"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="755"/>
         <source>Remove from favorites</source>
         <translation>自最愛移除</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="601"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="725"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="605"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="729"/>
         <source>Add to favorites</source>
         <translation>加到最愛</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="606"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="728"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="753"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="610"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="732"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="757"/>
         <source>Update project library</source>
         <translation>更新專案元件庫</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="609"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="613"/>
         <source>Open</source>
         <translation>開啟</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="618"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="651"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="622"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="655"/>
         <source>New Folder</source>
         <translation>新增資料夾</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="623"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="658"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="627"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="662"/>
         <source>Remove</source>
         <translation>移除</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="651"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="655"/>
         <source>Name:</source>
         <translation>名稱：</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="659"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="663"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -3929,37 +3958,37 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::editor::EditorWidgetBase</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="161"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="163"/>
         <source>WARNING: You have changed some important properties of this library element. This breaks all other elements which depend on this one! Maybe you want to create a new library element instead of modifying this one?</source>
         <translation>警告：您已變更了此元件庫元素中一些重要的內容選項。這會破壞相依於此元素的其它元素！您可能是想要新增一個元件庫元素而非變更此項？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="182"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="184"/>
         <source>WARNING: This library element contains errors, see exact messages below. You should fix these errors before saving it, otherwise the library element may not work as expected.</source>
         <translation>警告：這個元件庫元素包含錯誤，詳見下方訊息！您應該在儲存之前修復這些錯誤，否則此元件庫元件將不會如預期運作。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="210"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="212"/>
         <source>User name not set</source>
         <translation>未設定使用者名稱</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="211"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="213"/>
         <source>No user name defined in workspace settings. Please open workspace settings to set the default user name.</source>
         <translation>工作區設定檔中沒有定義使用者名稱。請開啟功作區設定檔來設定使用者名稱預設值。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="224"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="226"/>
         <source>Restore autosave backup?</source>
         <translation>還原自動儲存的備份？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="225"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="227"/>
         <source>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</source>
         <translation>噢，看起來上次在你開啟元件庫元素時GG了，想要還原上次自動儲存的備份嗎？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="298"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="300"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -4381,24 +4410,24 @@ p, li { white-space: pre-wrap; }
         <translation>正在掃描元件庫(%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="563"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="565"/>
         <source>Failed to open category</source>
         <translation>開啟分類失敗</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="608"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="610"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation>在元件庫中有未儲存的元素。
 想要在關閉專案之前儲存嗎？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="611"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="613"/>
         <source>Unsaved changes</source>
         <translation>尚未儲存的變更</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="740"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="742"/>
         <source>&amp;Save &apos;%1&apos;</source>
         <translation>儲存 &apos;%1&apos; (&amp;S)</translation>
     </message>
@@ -10083,19 +10112,14 @@ Do you want to save them before closing the project?</source>
 <context>
     <name>librepcb::workspace::Workspace</name>
     <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="69"/>
+        <location filename="../libs/librepcb/workspace/workspace.cpp" line="70"/>
         <source>Invalid workspace path: &quot;%1&quot;</source>
         <translation>無效的工作區路徑：&quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="77"/>
+        <location filename="../libs/librepcb/workspace/workspace.cpp" line="78"/>
         <source>The workspace version %1 is not compatible with this application version.</source>
         <translation>工作區版本 %1 不相容於此版本的應用程式。</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="97"/>
-        <source>The workspace is already opened by another application instance or user!</source>
-        <translation>此工作區已在另一個地方被開啟！</translation>
     </message>
 </context>
 <context>
@@ -10369,12 +10393,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>main</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="183"/>
+        <location filename="../apps/librepcb/main.cpp" line="184"/>
         <source>Unstable file format!</source>
         <translation>非穩定版的檔案格式！</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="184"/>
+        <location filename="../apps/librepcb/main.cpp" line="185"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;注意：此應用程式版本為　非　穩　定　版！&lt;/b&gt;&lt;/p&gt;&lt;p&gt;您所有的變更將有機會導致工作區、元件庫或是專案被破壞！儲存的檔案將無法被將來穩定釋出的 LibrePCB 存取。我們強烈建議您在繼續之前先備份。若您有任何疑慮，請另行下載穩定發行的版本。&lt;/p&gt;&lt;p&gt;詳細資訊請參閱 LibrePCB 的&lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;您確定要冒著檔案被破壞的風險繼續嗎？&lt;/p&gt;</translation>
     </message>

@@ -290,7 +290,7 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="166"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</translation>
     </message>
 </context>
 <context>
@@ -1396,28 +1396,28 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="14"/>
         <source>Directory is locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Directory is locked</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="35"/>
         <source>Could not open the directory &quot;%1&quot; because it is already opened by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
         <extracomment>%2 is something like &quot;sername@computername&quot;.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Could not open the directory &quot;%1&quot; because it is already opened by &quot;%2&quot;. Close any application accessing this directory and try again.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="52"/>
         <source>If you&apos;re absolutely sure that the directory is not accessed by any other application instance anymore, you could discard the current lock and open this directory anyway. But if the directory is still accessed by another application instance, this could lead in corrupt files, so use this option very carefully!</source>
-        <translation type="unfinished"></translation>
+        <translation>If you&apos;re absolutely sure that the directory is not accessed by any other application instance anymore, you could discard the current lock and open this directory anyway. But if the directory is still accessed by another application instance, this could lead in corrupt files, so use this option very carefully!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="50"/>
         <source>I accept the risk.</source>
-        <translation type="unfinished"></translation>
+        <translation>I accept the risk.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="55"/>
         <source>Open anyway</source>
-        <translation type="unfinished"></translation>
+        <translation>Open anyway</translation>
     </message>
 </context>
 <context>
