@@ -3553,7 +3553,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="106"/>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="120"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="313"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="315"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -3563,52 +3563,42 @@ p, li { white-space: pre-wrap; }
         <translation>Signal name (may contain ranges like &quot;%1&quot;)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="178"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="183"/>
+        <source>If checked, the signal needs to be connected in schematics, otherwise an ERC error is raised.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="186"/>
+        <source>If unchecked, it&apos;s allowed to leave the signal unconnected in schematics.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="225"/>
         <source>Required</source>
         <translation>Required</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="178"/>
-        <source>Optional</source>
-        <translation>Optional</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="182"/>
-        <source>Leaving this signal unconnected in schematics produces an ERC error.</source>
-        <translation>Leaving this signal unconnected in schematics produces an ERC error.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="184"/>
-        <source>Leaving this signal unconnected in schematics is allowed.</source>
-        <translation>Leaving this signal unconnected in schematics is allowed.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="221"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="223"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="223"/>
-        <source>Connection</source>
-        <translation>Connection</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="225"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="227"/>
         <source>Forced Net</source>
         <translation>Forced Net</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="233"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="235"/>
         <source>New:</source>
         <translation>New:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="236"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="238"/>
         <source>Add a new signal</source>
         <translation>Add a new signal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="361"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="363"/>
         <source>There is already a signal with the name &quot;%1&quot;.</source>
         <translation>There is already a signal with the name &quot;%1&quot;.</translation>
     </message>
