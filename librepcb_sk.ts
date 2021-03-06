@@ -3562,12 +3562,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="183"/>
         <source>If checked, the signal needs to be connected in schematics, otherwise an ERC error is raised.</source>
-        <translation>Označte, ak signál musí byť v schéme pripojený a v prípade nepripojenia, bude hlásená ERC chyba.</translation>
+        <translation>Ak je možnosť zašktrnutá, signál musí byť v schéme pripojený a v prípade nepripojenia, bude hlásená ERC chyba.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="186"/>
         <source>If unchecked, it&apos;s allowed to leave the signal unconnected in schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Ak nie je možnosť zašktrnutá, signál nemusí byť v schéme pripojený.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="225"/>
