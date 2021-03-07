@@ -7871,31 +7871,11 @@ You need at least LibrePCB %1 to open it.
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="257"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="380"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="402"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="455"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="355"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="377"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="430"/>
         <source>Error</source>
         <translation>錯誤</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="295"/>
-        <source>Via of a different signal already present at target position.</source>
-        <translation>目標位置已存在定義了相異訊號的導通孔</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="304"/>
-        <source>Pad of a different signal already present at target position.</source>
-        <translation>目標位置已存在定義了相異訊號的焊墊</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="314"/>
-        <source>Netpoint of a different signal already present at target position.</source>
-        <translation>目標位置已存在定義了相異訊號的連接線頂點</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="323"/>
-        <source>Netline of a different signal already present at target position.</source>
-        <translation>目標位置已存在定義了相異訊號的連接線線條</translation>
     </message>
 </context>
 <context>
