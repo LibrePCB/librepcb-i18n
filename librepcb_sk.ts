@@ -726,12 +726,12 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadclearanceviolation.cpp" line="44"/>
         <source>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Plôšky vývodov &apos;%1&apos; a &apos;%2&apos; v &apos;%3&apos; sú príliš blízko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadclearanceviolation.cpp" line="47"/>
         <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
-        <translation type="unfinished"/>
+        <translation>Plôšky vývodov by mali byť od seba vzdialené minimálne %1. V niektorých prípadoch je potrebná menšia vzdialenosť, ale pamätajte, že nie každý výrobca DPS je schopný túto vzdialenosť akceptovať.</translation>
     </message>
 </context>
 <context>
