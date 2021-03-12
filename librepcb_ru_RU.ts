@@ -443,7 +443,7 @@
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="230"/>
         <source>Packages --&gt; Packages</source>
-        <translation>Packages --&gt; Packages</translation>
+        <translation>Пакеты --&gt; пакеты</translation>
     </message>
     <message>
         <location filename="../apps/EagleImport/mainwindow.ui" line="237"/>
@@ -592,7 +592,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprint.cpp" line="38"/>
         <source>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</source>
-        <translation type="unfinished"/>
+        <translation>Каждый пакет должен иметь хотя бы одно посадочное место, иначе он не может быть помещён на плату.</translation>
     </message>
 </context>
 <context>
@@ -665,7 +665,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariantitem.cpp" line="41"/>
         <source>Symbol variant &apos;%1&apos; has no items</source>
-        <translation type="unfinished"/>
+        <translation>Вариант &apos;%1&apos; символа не имеет элементов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariantitem.cpp" line="43"/>
@@ -1417,12 +1417,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="50"/>
         <source>I accept the risk.</source>
-        <translation type="unfinished"/>
+        <translation>Я принимаю риск.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="55"/>
         <source>Open anyway</source>
-        <translation type="unfinished"/>
+        <translation>Открыть всё равно</translation>
     </message>
 </context>
 <context>
@@ -1847,7 +1847,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="311"/>
         <source>internal</source>
-        <translation type="unfinished"/>
+        <translation>Внутренний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/widgets/lengtheditbase.cpp" line="314"/>
@@ -2696,7 +2696,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="14"/>
         <source>Choose settings</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать настройки</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="17"/>
@@ -2975,7 +2975,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="552"/>
         <source>Open library &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Открыть библиотеку &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="564"/>
@@ -3602,7 +3602,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.ui" line="17"/>
         <source>Component Symbol Variant</source>
-        <translation type="unfinished"/>
+        <translation>Вариант символа компонента</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsymbolvarianteditdialog.ui" line="26"/>
@@ -3810,7 +3810,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="76"/>
         <source>Package</source>
-        <translation type="unfinished"/>
+        <translation>Пакет</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.ui" line="159"/>
@@ -3902,7 +3902,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="276"/>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="371"/>
         <source>Package not found!</source>
-        <translation type="unfinished"/>
+        <translation>Пакет не найден!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/dev/deviceeditorwidget.cpp" line="285"/>
@@ -4474,12 +4474,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="125"/>
         <source>Package Categories</source>
-        <translation type="unfinished"/>
+        <translation>Категории пакетов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="165"/>
         <source>Packages</source>
-        <translation type="unfinished"/>
+        <translation>Пакеты</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.ui" line="205"/>
@@ -4689,7 +4689,8 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="65"/>
         <source>Package Category
 (e.g. DIP)</source>
-        <translation type="unfinished"/>
+        <translation>Категория пакета
+(например, DIP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="92"/>
@@ -4712,7 +4713,8 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="125"/>
         <source>Package
 (e.g. DIP8)</source>
-        <translation type="unfinished"/>
+        <translation>Пакет
+(например, DIP8)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_choosetype.ui" line="152"/>
@@ -4880,7 +4882,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="95"/>
         <source>Package</source>
-        <translation type="unfinished"/>
+        <translation>Пакет</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="111"/>
@@ -5080,7 +5082,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.ui" line="17"/>
         <source>Choose Package</source>
-        <translation type="unfinished"/>
+        <translation>Выберите пакет</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.ui" line="31"/>
@@ -5115,7 +5117,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/packagechooserdialog.cpp" line="230"/>
         <source>Please select a package.</source>
-        <translation type="unfinished"/>
+        <translation>Пожалуйста выберите пакет.</translation>
     </message>
 </context>
 <context>
@@ -7149,7 +7151,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/project/schematics/items/si_symbolpin.cpp" line="255"/>
         <source>Unconnected pin: &quot;%1&quot; of symbol &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Неподсоединённый вывод: &quot;%1&quot; символа &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
@@ -8633,7 +8635,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="137"/>
         <source>Package:</source>
-        <translation type="unfinished"/>
+        <translation>Пакет:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/deviceinstancepropertiesdialog.ui" line="102"/>
@@ -9730,7 +9732,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="378"/>
         <source>The component with the UUID &quot;%1&quot; does not have any symbol.</source>
-        <translation type="unfinished"/>
+        <translation>Компонент с UUID &quot;%1&quot; не имеет никаких символов.</translation>
     </message>
 </context>
 <context>
