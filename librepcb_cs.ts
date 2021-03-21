@@ -6830,7 +6830,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
 <context>
     <name>librepcb::project::CmdSchematicNetLabelAdd</name>
     <message>
-        <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicnetlabeladd.cpp" line="44"/>
+        <location filename="../libs/librepcb/project/schematics/cmd/cmdschematicnetlabeladd.cpp" line="45"/>
         <source>Add netlabel</source>
         <translation>Přidat název spoje</translation>
     </message>
@@ -9754,13 +9754,13 @@ Chcete je před zavřením projektu uložit?</translation>
     <name>librepcb::project::editor::SchematicEditorState_AddNetLabel</name>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="81"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="187"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="218"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="196"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="227"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="171"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="180"/>
         <source>Add net label to schematic</source>
         <translation>Přidat název spoje do schématu</translation>
     </message>
