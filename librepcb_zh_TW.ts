@@ -288,7 +288,7 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="166"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
-        <translation type="unfinished"/>
+        <translation>無法鎖定目錄 &quot;%1&quot; 因為它已經被 &quot;%2&quot; 鎖定。請將任何存取此目錄的程式結束再試一次。</translation>
     </message>
 </context>
 <context>
@@ -727,12 +727,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadclearanceviolation.cpp" line="44"/>
         <source>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>在&apos;%3&apos;中焊墊&apos;%1&apos;到焊墊&apos;%2&apos;的間隙</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadclearanceviolation.cpp" line="47"/>
         <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
-        <translation type="unfinished"/>
+        <translation>焊墊之間必須保留至少 %1 的間隙。在某些狀況下將會需要更少的間隙，但並非每間板廠都有能力可靠得生產出來，所以通常會避免使用太小的間隙。</translation>
     </message>
 </context>
 <context>
@@ -1413,12 +1413,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="35"/>
         <source>Could not open the directory &quot;%1&quot; because it is already opened by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
         <extracomment>%2 is something like &quot;sername@computername&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>無法開啟目錄 &quot;%1&quot; 因為它已經被 &quot;%2&quot; 開啟。請將任何存取此目錄的程式結束再試一次。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="52"/>
         <source>If you&apos;re absolutely sure that the directory is not accessed by any other application instance anymore, you could discard the current lock and open this directory anyway. But if the directory is still accessed by another application instance, this could lead in corrupt files, so use this option very carefully!</source>
-        <translation type="unfinished"/>
+        <translation>如果你很確定此目錄已經不被被任何程式實體存取，你可以忽略目前的鎖定並且照常開啟。但是如果正在被任何程式實體存取，將導致檔案毀損，所以使用此選項時請多留意。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="50"/>
@@ -3574,12 +3574,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="183"/>
         <source>If checked, the signal needs to be connected in schematics, otherwise an ERC error is raised.</source>
-        <translation type="unfinished"/>
+        <translation>若選取此項，線路圖中未連接的訊號將造成 ERC 錯誤。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="186"/>
         <source>If unchecked, it&apos;s allowed to leave the signal unconnected in schematics.</source>
-        <translation type="unfinished"/>
+        <translation>若選取此項，線路圖中未連接的訊號將被允許。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="225"/>
@@ -6294,7 +6294,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/items/bi_netsegment.cpp" line="185"/>
         <source>(no net)</source>
-        <translation type="unfinished"/>
+        <translation>( 沒有連接線 )</translation>
     </message>
 </context>
 <context>
