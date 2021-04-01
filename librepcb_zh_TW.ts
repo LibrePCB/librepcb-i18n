@@ -1407,7 +1407,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="14"/>
         <source>Directory is locked</source>
-        <translation type="unfinished"/>
+        <translation>目錄已被鎖定</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="35"/>
@@ -1423,12 +1423,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="50"/>
         <source>I accept the risk.</source>
-        <translation type="unfinished"/>
+        <translation>我自己承擔風險</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="55"/>
         <source>Open anyway</source>
-        <translation type="unfinished"/>
+        <translation>就是要開啟</translation>
     </message>
 </context>
 <context>
