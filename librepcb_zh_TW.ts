@@ -2332,15 +2332,15 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="168"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="518"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="620"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="616"/>
         <source>New Project</source>
         <translation>新增專案</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="185"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.ui" line="530"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="497"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="591"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="493"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="587"/>
         <source>Open Project</source>
         <translation>開啟專案</translation>
     </message>
@@ -2446,97 +2446,97 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation>正在掃描元件庫(%p%)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="280"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="276"/>
         <source>Could not create project</source>
         <translation>無法建立專案</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="307"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="339"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="303"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="335"/>
         <source>Could not open project</source>
         <translation>無法開啟專案</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="386"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="382"/>
         <source>Restore autosave backup?</source>
         <translation>還原自動儲存的備份？</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="387"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="383"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>噢，看起來上次這個程式在開啟你的專案時GG了，想要還原上次自動儲存的備份嗎？</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="419"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="528"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="675"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="415"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="524"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="671"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="498"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="494"/>
         <source>LibrePCB project files (%1)</source>
         <translation>LibrePCB 專案檔 (%1)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="533"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="529"/>
         <source>Workspace changed</source>
         <translation>工作區已變更</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="534"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="530"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation>重新開啟應用程式之後將使用已選擇的工作區。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="595"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="591"/>
         <source>Close Project</source>
         <translation>關閉專案</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="601"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="726"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="755"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="597"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="722"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="751"/>
         <source>Remove from favorites</source>
         <translation>自最愛移除</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="605"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="729"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="601"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="725"/>
         <source>Add to favorites</source>
         <translation>加到最愛</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="610"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="732"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="757"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="606"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="728"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="753"/>
         <source>Update project library</source>
         <translation>更新專案元件庫</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="613"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="609"/>
         <source>Open</source>
         <translation>開啟</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="622"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="655"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="618"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="651"/>
         <source>New Folder</source>
         <translation>新增資料夾</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="627"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="662"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="623"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="658"/>
         <source>Remove</source>
         <translation>移除</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="655"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="651"/>
         <source>Name:</source>
         <translation>名稱：</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="663"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="659"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -2873,12 +2873,12 @@ p, li { white-space: pre-wrap; }
         <translation>開啟專案檔系統...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="174"/>
+        <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="169"/>
         <source>Update %1...</source>
         <translation>更新 %1...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="181"/>
+        <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="176"/>
         <source>Skip %1...</source>
         <translation>跳過 %1...</translation>
     </message>
@@ -3991,7 +3991,7 @@ p, li { white-space: pre-wrap; }
         <translation>噢，看起來上次在你開啟元件庫元素時GG了，想要還原上次自動儲存的備份嗎？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="300"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="296"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -5316,60 +5316,60 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="185"/>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="207"/>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="219"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="381"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="586"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="631"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="648"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="671"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="683"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="692"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="724"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="744"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="373"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="578"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="623"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="640"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="663"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="675"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="684"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="716"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="736"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="401"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="393"/>
         <source>Remove Vertex</source>
         <translation>移除頂點</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="438"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="430"/>
         <source>Add Vertex</source>
         <translation>加入頂點</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="447"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="439"/>
         <source>Rotate</source>
         <translation>旋轉</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="451"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="443"/>
         <source>Mirror</source>
         <translation>鏡像</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="455"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="447"/>
         <source>Flip</source>
         <translation>翻轉</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="459"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="451"/>
         <source>Remove</source>
         <translation>移除</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="464"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="456"/>
         <source>Snap To Grid</source>
         <translation>貼齊格點</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="470"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="462"/>
         <source>Properties</source>
         <translation>內容</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="612"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="604"/>
         <source>Paste Footprint Elements</source>
         <translation>貼上腳位圖元素</translation>
     </message>
@@ -5680,55 +5680,55 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="183"/>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="205"/>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="217"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="365"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="538"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="577"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="594"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="611"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="623"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="632"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="664"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="684"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="357"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="530"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="569"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="586"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="603"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="615"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="624"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="656"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="676"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="384"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="376"/>
         <source>Remove Vertex</source>
         <translation>移除頂點</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="420"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="412"/>
         <source>Add Vertex</source>
         <translation>加入頂點</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="429"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="421"/>
         <source>&amp;Rotate</source>
         <translation>旋轉 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="433"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="425"/>
         <source>&amp;Mirror</source>
         <translation>鏡像 (&amp;M)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="437"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="429"/>
         <source>R&amp;emove</source>
         <translation>移除 (&amp;e)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="442"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="434"/>
         <source>&amp;Snap To Grid</source>
         <translation>貼齊格點 (&amp;S)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="448"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="440"/>
         <source>&amp;Properties</source>
         <translation>內容 (&amp;P)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="559"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="551"/>
         <source>Paste Symbol Elements</source>
         <translation>貼上符號元素</translation>
     </message>
@@ -7666,7 +7666,7 @@ You need at least LibrePCB %1 to open it.
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="902"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="612"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="608"/>
         <source>SVG Export</source>
         <translation>SVG 匯出</translation>
     </message>
@@ -7691,68 +7691,68 @@ You need at least LibrePCB %1 to open it.
         <translation>正在掃描元件庫(%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="418"/>
         <source>Add New Board</source>
         <translation>新增電路板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="442"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="418"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="438"/>
         <source>Choose a name:</source>
         <translation>選取一個名稱：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="423"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="419"/>
         <source>new_board</source>
         <translation>new_board</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="432"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="452"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="469"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="507"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="591"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="638"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="683"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="709"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="428"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="448"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="465"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="503"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="587"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="634"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="679"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="705"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="442"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="438"/>
         <source>Copy Board</source>
         <translation>複製電路板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="443"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="439"/>
         <source>copy_of_%1</source>
         <translation>copy_of_%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="461"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="457"/>
         <source>Remove board</source>
         <translation>移除電路板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="462"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="458"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>您確定要移除電路板&quot;%1&quot;嗎？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="493"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="515"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="599"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="489"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="511"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="595"/>
         <source>No board selected.</source>
         <translation>沒有選擇的電路板。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="528"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="568"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="524"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="564"/>
         <source>PDF Export</source>
         <translation>PDF 匯出</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="568"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="564"/>
         <source>PDF exported successfully</source>
         <translation>成功匯出 PDF</translation>
     </message>
@@ -7996,106 +7996,106 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="337"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="346"/>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="355"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="455"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="477"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="509"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="753"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="790"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="806"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="820"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="852"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="886"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="904"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="922"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="937"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="994"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1024"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1090"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="448"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="470"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="502"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="746"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="783"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="799"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="813"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="845"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="879"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="897"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="915"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="930"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="987"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1017"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1083"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="445"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="438"/>
         <source>Remove %1</source>
         <translation>移除 %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="449"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="442"/>
         <source>Reset all texts</source>
         <translation>重設所ˋ有文字</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="461"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="454"/>
         <source>Change Device</source>
         <translation>變更裝置</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="486"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="479"/>
         <source>Change Footprint</source>
         <translation>變更腳位圖</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="525"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="518"/>
         <source>Remove Trace Segment</source>
         <translation>移除走線線段</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="554"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="547"/>
         <source>Remove Via</source>
         <translation>移除導通孔</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="573"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="566"/>
         <source>Remove Plane</source>
         <translation>移除平面</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="575"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="568"/>
         <source>Visible</source>
         <translation>可見的</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="584"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="577"/>
         <source>Plane Properties</source>
         <translation>平面內容</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="597"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="590"/>
         <source>Remove Polygon</source>
         <translation>移除多邊形</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="609"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="602"/>
         <source>Remove Text</source>
         <translation>移除文字</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="621"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="614"/>
         <source>Remove Hole</source>
         <translation>移除孔洞</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="964"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="957"/>
         <source>Paste board elements</source>
         <translation>貼上電路板元素</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1101"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1094"/>
         <source>Measurement Result</source>
         <translation>量測結果</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1103"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1096"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
         <translation><numerusform>%n 條走線線段的總長度為：%2 mm / %3 in</numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1111"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1104"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
         <translation>警告：總共有%1條走線已選擇，但是它們並不是完全相連的！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1138"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1131"/>
         <source>Selected trace segments may not branch!</source>
         <translation>選擇的走線線段無法建立分支！</translation>
     </message>
@@ -9151,14 +9151,14 @@ You need at least LibrePCB %1 to open it.
         <translation>儲存專案時出現錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="253"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="249"/>
         <source>You have unsaved changes in the project.
 Do you want to save them before closing the project?</source>
         <translation>在專案中有未儲存的變更。
 想要在關閉專案之前儲存嗎？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="252"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="248"/>
         <source>Save Project?</source>
         <translation>儲存專案？</translation>
     </message>
@@ -9652,47 +9652,47 @@ Do you want to save them before closing the project?</source>
         <translation>掃描元件庫中(%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="445"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="441"/>
         <source>PDF exported successfully</source>
         <translation>成功匯出 PDF</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="487"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="483"/>
         <source>SVG Export</source>
         <translation>SVG 匯出</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="691"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="687"/>
         <source>Add schematic page</source>
         <translation>加入線路圖頁面</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="692"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="688"/>
         <source>Choose a name:</source>
         <translation>選取一個名稱：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="693"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="689"/>
         <source>New Page</source>
         <translation>新增頁面</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="724"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="720"/>
         <source>Rename sheet</source>
         <translation>重新命名稿紙</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="724"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="720"/>
         <source>Choose new name:</source>
         <translation>取一個新名稱：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="406"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="465"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="510"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="702"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="714"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="733"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="402"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="461"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="506"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="698"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="710"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="729"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -9707,13 +9707,13 @@ Do you want to save them before closing the project?</source>
         <translation>尋找符號...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="371"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="367"/>
         <source>No pages to print.</source>
         <translation>沒有可列印的頁面。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="423"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="445"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="419"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="441"/>
         <source>PDF Export</source>
         <translation>PDF 匯出</translation>
     </message>
@@ -9861,13 +9861,13 @@ Do you want to save them before closing the project?</source>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="279"/>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="306"/>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="315"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="481"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="497"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="513"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="545"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="564"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="579"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="623"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="473"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="489"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="505"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="537"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="556"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="571"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="615"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -9907,7 +9907,7 @@ Do you want to save them before closing the project?</source>
         <translation>鏡像</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="390"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="382"/>
         <source>Remove Symbol</source>
         <translation>移除符號</translation>
     </message>
@@ -9917,17 +9917,17 @@ Do you want to save them before closing the project?</source>
         <translation>內容</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="404"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="396"/>
         <source>Remove Net Label</source>
         <translation>移除連接線標籤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="406"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="398"/>
         <source>Rename Net Segment</source>
         <translation>重新命名連接線線段</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="603"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="595"/>
         <source>Paste Schematic Elements</source>
         <translation>貼上線路圖元素</translation>
     </message>
