@@ -8421,20 +8421,20 @@ You need at least LibrePCB %1 to open it.
     <message numerus="yes">
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="169"/>
         <source>Warning: %n device(s) from the selected board differ from their pre-selected devices in the schematic: %1</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Warning: %n device(s) from the selected board differ from their pre-selected devices in the schematic: %1</numerusform>
+            <numerusform>Warning: %n device(s) from the selected board differ from their pre-selected devices in the schematic: %1</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="178"/>
         <source>All devices of the selected board are in sync with their pre-selected devices in the schematic.</source>
-        <translation type="unfinished"></translation>
+        <translation>All devices of the selected board are in sync with their pre-selected devices in the schematic.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="186"/>
         <source>Devices are not exported because no board is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Devices are not exported because no board is selected.</translation>
     </message>
 </context>
 <context>
