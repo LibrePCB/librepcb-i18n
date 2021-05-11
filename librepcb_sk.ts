@@ -8411,17 +8411,17 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message numerus="yes">
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="169"/>
         <source>Warning: %n device(s) from the selected board differ from their pre-selected devices in the schematic: %1</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Upozornenie: %n súčiastka zvolenej dosky je rozdielna voči prednastavenej zo schémy: %1</numerusform><numerusform>Upozornenie: %n súčiastky zvolenej dosky sú rozdielne voči prednastaveným zo schémy: %1</numerusform><numerusform>Upozornenie: %n súčiastok zvolenej dosky je rozdielnych voči prednastavenými zo schémy: %1</numerusform><numerusform>Upozornenie: %n súčiastok zvolenej dosky je rozdielnych voči prednastavenými zo schémy: %1</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="178"/>
         <source>All devices of the selected board are in sync with their pre-selected devices in the schematic.</source>
-        <translation type="unfinished"/>
+        <translation>Všetky súčiastky zvolenej dosky sú synchronizované podľa ich prednastavení v schéme.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="186"/>
         <source>Devices are not exported because no board is selected.</source>
-        <translation type="unfinished"/>
+        <translation>Súčiastka nebola exportovaná pretože nebola zvolená doska plošných spojov.</translation>
     </message>
 </context>
 <context>
