@@ -4870,13 +4870,9 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
     <name>librepcb::library::editor::NewElementWizardPage_DeviceProperties</name>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="14"/>
+        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="17"/>
         <source>Device Properties</source>
         <translation>Vlastnosti součástky</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="17"/>
-        <source>De&amp;vice Properties</source>
-        <translation>&amp;Vlastnosti součástky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="20"/>

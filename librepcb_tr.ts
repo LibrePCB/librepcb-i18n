@@ -4832,12 +4832,8 @@ Are you still sure to delete the following library elements?</source>
     <name>librepcb::library::editor::NewElementWizardPage_DeviceProperties</name>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="14"/>
-        <source>Device Properties</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="17"/>
-        <source>De&amp;vice Properties</source>
+        <source>Device Properties</source>
         <translation type="unfinished"/>
     </message>
     <message>
