@@ -8407,7 +8407,7 @@ You need at least LibrePCB %1 to open it.
     <message numerus="yes">
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="169"/>
         <source>Warning: %n device(s) from the selected board differ from their pre-selected devices in the schematic: %1</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>警告：選擇的電路板中有 %n 個裝置與它們在線路圖中預選取的裝置 %1 不同</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="178"/>
