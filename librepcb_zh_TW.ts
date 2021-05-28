@@ -8417,7 +8417,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="186"/>
         <source>Devices are not exported because no board is selected.</source>
-        <translation>沒有任何電路板被選取，所以裝置未被輸出。</translation>
+        <translation>沒有任何電路板被選取，所以裝置未被匯出。</translation>
     </message>
 </context>
 <context>
