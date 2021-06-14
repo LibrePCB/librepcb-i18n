@@ -10083,17 +10083,17 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="68"/>
         <source>Set/unset as default device for the component in schematic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Set/unset as default device for the component in schematic.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="97"/>
         <source>No device or package for the selected component found in the library! Please add a suitable device and package to your workspace library.</source>
-        <translation type="unfinished"></translation>
+        <translation>No device or package for the selected component found in the library! Please add a suitable device and package to your workspace library.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="125"/>
         <source>Add the selected device to the board.</source>
-        <translation type="unfinished"></translation>
+        <translation>Add the selected device to the board.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="128"/>
@@ -10103,7 +10103,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="138"/>
         <source>Use the selected device for all identical components and add them to the board.</source>
-        <translation type="unfinished"></translation>
+        <translation>Use the selected device for all identical components and add them to the board.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="141"/>
@@ -10113,17 +10113,17 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="148"/>
         <source>Add all components with pre-selected device to the board.</source>
-        <translation type="unfinished"></translation>
+        <translation>Add all components with pre-selected device to the board.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="151"/>
         <source>Add Pre-Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Add Pre-Selected</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="158"/>
         <source>Add all components to the board, using automatically determined devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Add all components to the board, using automatically determined devices.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="161"/>
@@ -10133,22 +10133,22 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="219"/>
         <source>Designator</source>
-        <translation type="unfinished"></translation>
+        <translation>Designator</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="220"/>
         <source>Value</source>
-        <translation type="unfinished">Value</translation>
+        <translation>Value</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="221"/>
         <source>Component</source>
-        <translation type="unfinished">Component</translation>
+        <translation>Component</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="223"/>
         <source>Device is already pre-selected in schematics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Device is already pre-selected in schematics.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="244"/>
@@ -10158,12 +10158,12 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="381"/>
         <source>Default footprint.</source>
-        <translation type="unfinished"></translation>
+        <translation>Default footprint.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="488"/>
         <source>Add devices to board</source>
-        <translation type="unfinished"></translation>
+        <translation>Add devices to board</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="434"/>
