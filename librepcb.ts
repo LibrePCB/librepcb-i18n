@@ -1101,7 +1101,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="65"/>
         <source>The file or directory &quot;%1&quot; exists already.</source>
-        <translation type="unfinished">The file or directory &quot;%1&quot; exists already.</translation>
+        <translation>The file or directory &quot;%1&quot; exists already.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="72"/>

@@ -1097,32 +1097,37 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::AsyncCopyOperation</name>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="76"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="65"/>
+        <source>The file or directory &quot;%1&quot; exists already.</source>
+        <translation>檔案或目錄 &quot;%1&quot; 已經存在。</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="72"/>
         <source>Removing temporary directory...</source>
         <translation>正在移除暫存目錄...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="81"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="78"/>
         <source>Looking for files to copy...</source>
         <translation>正在尋找要複製的檔案...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="92"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="89"/>
         <source>Copy file %1 of %2...</source>
         <translation>複製檔案 %1 / 總共 %2 個...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="99"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="96"/>
         <source>Renaming temporary directory...</source>
         <translation>正在重新命名暫存目錄...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="103"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="100"/>
         <source>Successfully finished!</source>
         <translation>成功的完成了！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="113"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="110"/>
         <source>Failed to copy files:</source>
         <translation>複製檔案失敗：</translation>
     </message>

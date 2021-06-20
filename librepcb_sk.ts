@@ -1096,32 +1096,37 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>librepcb::AsyncCopyOperation</name>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="76"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="65"/>
+        <source>The file or directory &quot;%1&quot; exists already.</source>
+        <translation>Súbor, alebo adresár &quot;%1&quot; už existuje.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="72"/>
         <source>Removing temporary directory...</source>
         <translation>Odstraňovanie dočasného adresára...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="81"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="78"/>
         <source>Looking for files to copy...</source>
         <translation>Hĺadanie súborov pre kopírovanie...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="92"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="89"/>
         <source>Copy file %1 of %2...</source>
         <translation>Kopírovanie súboru %1 z %2...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="99"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="96"/>
         <source>Renaming temporary directory...</source>
         <translation>Premenovanie dočasného adresára...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="103"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="100"/>
         <source>Successfully finished!</source>
         <translation>Úspešne ukončené!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="113"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="110"/>
         <source>Failed to copy files:</source>
         <translation>Chyba pri kopírovaní súborov:</translation>
     </message>
