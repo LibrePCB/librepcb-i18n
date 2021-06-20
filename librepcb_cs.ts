@@ -8785,37 +8785,37 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <translation>Chyby v zapojení (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="220"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="221"/>
         <source>Circuit Warnings (%1)</source>
         <translation>Upozornění v zapojení (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="223"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="225"/>
         <source>Schematic Errors (%1)</source>
         <translation>Chyby ve schématu (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="227"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="230"/>
         <source>Schematic Warnings (%1)</source>
         <translation>Upozornění ve schématu (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="230"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="234"/>
         <source>Board Errors (%1)</source>
         <translation>Chyby na desce (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="233"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="238"/>
         <source>Board Warnings (%1)</source>
         <translation>Upozornění na desce (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="236"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="242"/>
         <source>Approved (%1)</source>
         <translation>Schváleno (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="238"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="245"/>
         <source>ERC [%1]</source>
         <translation>ERC [%1]</translation>
     </message>
