@@ -4578,32 +4578,32 @@ Chcete je před zavřením uložit?</translation>
         <translation>Neplatná popisná data</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="381"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="383"/>
         <source>Edit</source>
         <translation>Upravit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="384"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="386"/>
         <source>Duplicate</source>
         <translation>Zdvojit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="387"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="389"/>
         <source>Remove</source>
         <translation>Odstranit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="391"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="393"/>
         <source>Move to other library</source>
         <translation>Přesunout do jiné knihovny</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="401"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="403"/>
         <source>New</source>
         <translation>Nový</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="491"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="493"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -4611,48 +4611,48 @@ Are you still sure to delete the following library elements?</source>
 Opravdu chcete odstranit následující prvky knihovny?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="504"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="506"/>
         <source>This cannot be undone!</source>
         <translation>Tuto změnu nelze vrátit zpět!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="508"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="510"/>
         <source>Remove %1 elements</source>
         <translation>Odstranit %1 prvků</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="520"/>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="561"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="522"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="563"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="533"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="535"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation>Opravdu chcete přesunout následující elementy do knihovny &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="543"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="545"/>
         <source>Note: This cannot be easily undone!</source>
         <translation>Poznámka: Tato změna není jednoduše vratná!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="547"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="549"/>
         <source>Move %1 elements</source>
         <translation>Přesun %1 elementů</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="604"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="606"/>
         <source>Choose library icon</source>
         <translation>Vybrat ikonu knihovny</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="606"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="608"/>
         <source>Portable Network Graphics (*.png)</source>
         <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="612"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="614"/>
         <source>Could not open file</source>
         <translation>Nepodařilo se otevřít soubor</translation>
     </message>
