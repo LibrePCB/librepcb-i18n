@@ -10075,7 +10075,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="68"/>
         <source>Set/unset as default device for the component in schematic.</source>
-        <translation type="unfinished"/>
+        <translation>Nastaviť ako predvolenú súčiastku pre schematický komponent.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="97"/>
@@ -10125,7 +10125,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="219"/>
         <source>Designator</source>
-        <translation type="unfinished"/>
+        <translation>Označenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="220"/>
@@ -10150,7 +10150,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="381"/>
         <source>Default footprint.</source>
-        <translation type="unfinished"/>
+        <translation>Predvolené púzdro.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="488"/>
