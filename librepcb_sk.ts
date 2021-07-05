@@ -10080,12 +10080,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="97"/>
         <source>No device or package for the selected component found in the library! Please add a suitable device and package to your workspace library.</source>
-        <translation type="unfinished"/>
+        <translation>V knižnici sa nenachádza zvolená súčiastka alebo púzdro! Prosím, pridajte ju do knižnice pracovného priestoru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="125"/>
         <source>Add the selected device to the board.</source>
-        <translation type="unfinished"/>
+        <translation>Pridať zvolenú súčiastku na dosku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="128"/>
@@ -10095,7 +10095,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="138"/>
         <source>Use the selected device for all identical components and add them to the board.</source>
-        <translation type="unfinished"/>
+        <translation>Pridať na dosku rovnaké komponenty zvolenej súčiastky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="141"/>
@@ -10105,12 +10105,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="148"/>
         <source>Add all components with pre-selected device to the board.</source>
-        <translation type="unfinished"/>
+        <translation>Pridať na dosku rovnaké komponenty predvolenej súčiastky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="151"/>
         <source>Add Pre-Selected</source>
-        <translation type="unfinished"/>
+        <translation>Pridať predvolené.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="158"/>
