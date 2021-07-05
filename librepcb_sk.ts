@@ -10115,7 +10115,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="158"/>
         <source>Add all components to the board, using automatically determined devices.</source>
-        <translation type="unfinished"/>
+        <translation>Pridať na dosku všetky komponenty, s použitím automatického výbery súčiastok. </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="161"/>
@@ -10140,7 +10140,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="223"/>
         <source>Device is already pre-selected in schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Súčiastka je už predvolená v schéme.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="244"/>
@@ -10155,7 +10155,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="488"/>
         <source>Add devices to board</source>
-        <translation type="unfinished"/>
+        <translation>Pridať súčiastky na dosku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="434"/>
