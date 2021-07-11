@@ -20,27 +20,27 @@
         <translation>Východzie LibrePCB návrhové pravidlá</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="126"/>
+        <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="136"/>
         <source>Invalid design rules: %1</source>
         <translation>Nesprávne pravidlá: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="144"/>
+        <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="154"/>
         <source>Stop mask clearance: MAX must be &gt;= MIN</source>
         <translation>Presah nespájkovacej masky: MAX musí byť &gt;= MIN</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="155"/>
+        <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="165"/>
         <source>Cream mask clearance: MAX must be &gt;= MIN</source>
         <translation>Presah spájkovacej masky: MAX musí byť &gt;= MIN</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="166"/>
+        <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="176"/>
         <source>Restring pads: MAX must be &gt;= MIN</source>
         <translation>Šírka okružia sp. plôšky: MAX musí byť &gt;= MIN</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="177"/>
+        <location filename="../libs/librepcb/common/boarddesignrules.cpp" line="187"/>
         <source>Restring vias: MAX must be &gt;= MIN</source>
         <translation>Šírka okružia prechodu: MAX musí byť &gt;= MIN</translation>
     </message>
@@ -196,17 +196,17 @@
         <translation>Príkazy:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="675"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="676"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
         <translation>Kontrola &apos;%1&apos; na ne-kanonické súbory...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="692"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="693"/>
         <source>Save &apos;%1&apos;...</source>
         <translation>Uložiť &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="720"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="721"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
         <translation>Táto verzia aplikácie je NESTABILNÁ! Možnosť &apos;%1&apos; je deaktivovaná, aby nedošlo k poškodeniu projektov alebo knižníc. Namiesto toho použite prosím stabilnú verziu,</translation>
     </message>
@@ -275,20 +275,20 @@
 <context>
     <name>DirectoryLock</name>
     <message>
-        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="76"/>
-        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="168"/>
+        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="77"/>
+        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="187"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
         <translation>Adresár &quot;%1&quot; neexistuje.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="94"/>
+        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="95"/>
         <source>The lock file &quot;%1&quot; has too few lines.</source>
         <translation>Súbor &quot;%1&quot; obsahuje príliš málo riadkov.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="145"/>
-        <source>The directory is locked, check if it is already opened elsewhere: %1</source>
-        <translation>Adresár je uzamknutý. Skontrolujte, či sa nepoužíva inou aplikáciou: %1</translation>
+        <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="166"/>
+        <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
+        <translation>Adresár &quot;%1&quot; sa nedá uzamknúť, pretože už je uzamknutý pomocou &quot;%2&quot;. Zatvorte aplikáciu používajúcu tento adresár a skúste to znova.</translation>
     </message>
 </context>
 <context>
@@ -362,7 +362,7 @@
 <context>
     <name>GridProperties</name>
     <message>
-        <location filename="../libs/librepcb/common/gridproperties.h" line="115"/>
+        <location filename="../libs/librepcb/common/gridproperties.h" line="116"/>
         <source>Unknown grid type: &quot;%1&quot;</source>
         <translation>Neznámy typ rastru: &quot;%1&quot;</translation>
     </message>
@@ -722,6 +722,19 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     </message>
 </context>
 <context>
+    <name>MsgPadClearanceViolation</name>
+    <message>
+        <location filename="../libs/librepcb/library/pkg/msg/msgpadclearanceviolation.cpp" line="44"/>
+        <source>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</source>
+        <translation>Plôšky vývodov &apos;%1&apos; a &apos;%2&apos; v &apos;%3&apos; sú príliš blízko</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/library/pkg/msg/msgpadclearanceviolation.cpp" line="47"/>
+        <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
+        <translation>Plôšky vývodov by mali byť od seba vzdialené minimálne %1. V niektorých prípadoch je potrebná menšia vzdialenosť, ale pamätajte, že nie každý výrobca DPS je schopný túto vzdialenosť akceptovať.</translation>
+    </message>
+</context>
+<context>
     <name>MsgPadOverlapsWithPlacement</name>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadoverlapswithplacement.cpp" line="43"/>
@@ -820,45 +833,29 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>SExpression</name>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="72"/>
-        <source>Unknown node type.</source>
-        <translation>Neznámy typ uzla.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="97"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="73"/>
         <source>Node is not a list.</source>
         <translation>Uzol nie je typu zoznam.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="104"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="80"/>
         <source>Node is not a token or string.</source>
         <translation>Uzol nie je token alebo reťazec.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="108"/>
-        <source>Node value is empty.</source>
-        <translation>Hodnota uzla neobsahuje žiadnu hodnotu.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="127"/>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="156"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="102"/>
         <source>Child not found: %1</source>
         <translation>Potomok nenájdený: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="230"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="242"/>
         <source>Invalid S-Expression list name: %1</source>
         <translation>Neplatný názov zoznamu S-Expresion: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="258"/>
+        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="270"/>
         <source>Invalid S-Expression token: %1</source>
         <translation>Neplatný S-Expresion token: %1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/common/fileio/sexpression.cpp" line="300"/>
-        <source>File does not have exactly one root node.</source>
-        <translation>Súbor neobsahuje root uzol.</translation>
     </message>
 </context>
 <context>
@@ -872,34 +869,39 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>SystemInfo</name>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="176"/>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="194"/>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="202"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="179"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="197"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="205"/>
         <source>Could not determine if another process is running.</source>
         <translation>Nedá sa zistiť ak beží iný proces.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="224"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="227"/>
         <source>proc_name() failed with error %1.</source>
         <translation>proc_name() neúspešne ukončený s chybou %1.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="242"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="250"/>
+        <source>sysctl() failed with retval=%1 and errno=%2.</source>
+        <translation>sysctl() neúspešné s návr. hodnotou=%1 a kódom chyby=%2.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="265"/>
         <source>Could not find the file &quot;/proc/version&quot;.</source>
         <translation>Nedá sa nájsť súbor &quot;/proc/version&quot;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="272"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="295"/>
         <source>OpenProcess() failed with error %1.</source>
         <translation>Funkcia OpenProcess() neúspešne ukončená s chybou %1.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="280"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="303"/>
         <source>QueryFullProcessImageNameW() failed with error %1.</source>
         <translation>Funkcia QueryFullProcessImageNameW() neúspešne ukončená s chybou %1.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/systeminfo.cpp" line="306"/>
+        <location filename="../libs/librepcb/common/systeminfo.cpp" line="329"/>
         <source>Could not determine the process name of another process.</source>
         <translation>Nedá sa zistiť názov iného procesu.</translation>
     </message>
@@ -923,7 +925,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>Via</name>
     <message>
-        <location filename="../libs/librepcb/common/geometry/via.h" line="155"/>
+        <location filename="../libs/librepcb/common/geometry/via.h" line="156"/>
         <source>Unknown via shape: &quot;%1&quot;</source>
         <translation>Neznámy tvar plôšky prechodu: &quot;%1&quot;</translation>
     </message>
@@ -931,17 +933,17 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="218"/>
+        <location filename="../apps/librepcb/main.cpp" line="219"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="267"/>
+        <location filename="../apps/librepcb/main.cpp" line="271"/>
         <source>Cannot open the workspace</source>
         <translation>Pracovná plocha sa nedá otvoriť</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="268"/>
+        <location filename="../apps/librepcb/main.cpp" line="272"/>
         <source>The workspace &quot;%1&quot; cannot be opened: %2</source>
         <translation>Pracovná plocha &quot;%1&quot; nemôže byť otvorená: %2</translation>
     </message>
@@ -1094,32 +1096,37 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>librepcb::AsyncCopyOperation</name>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="76"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="65"/>
+        <source>The file or directory &quot;%1&quot; exists already.</source>
+        <translation>Súbor, alebo adresár &quot;%1&quot; už existuje.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="72"/>
         <source>Removing temporary directory...</source>
         <translation>Odstraňovanie dočasného adresára...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="81"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="78"/>
         <source>Looking for files to copy...</source>
         <translation>Hĺadanie súborov pre kopírovanie...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="92"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="89"/>
         <source>Copy file %1 of %2...</source>
         <translation>Kopírovanie súboru %1 z %2...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="99"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="96"/>
         <source>Renaming temporary directory...</source>
         <translation>Premenovanie dočasného adresára...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="103"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="100"/>
         <source>Successfully finished!</source>
         <translation>Úspešne ukončené!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="113"/>
+        <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="110"/>
         <source>Failed to copy files:</source>
         <translation>Chyba pri kopírovaní súborov:</translation>
     </message>
@@ -1400,6 +1407,35 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     </message>
 </context>
 <context>
+    <name>librepcb::DirectoryLockHandlerDialog</name>
+    <message>
+        <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="14"/>
+        <source>Directory is locked</source>
+        <translation>Adresár je uzamknutý</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="35"/>
+        <source>Could not open the directory &quot;%1&quot; because it is already opened by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
+        <extracomment>%2 is something like &quot;sername@computername&quot;.</extracomment>
+        <translation>Adresár &quot;%1&quot; sa nedá otvoriť, pretože je už otvorený pomocou &quot;%2&quot;. Zatvorte aplikáciu používajúcu tento adresár a skúste to znova.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="52"/>
+        <source>If you&apos;re absolutely sure that the directory is not accessed by any other application instance anymore, you could discard the current lock and open this directory anyway. But if the directory is still accessed by another application instance, this could lead in corrupt files, so use this option very carefully!</source>
+        <translation>Ak ste si naozaj istý, že tento adresár nie je používaný inou inštanciou tohto programu, môžete vyradiť toto uzamknutie a otvoriť tento adresár znova. V prípade, že adresár je stále používaný inou inštanciou tohto programu a uzamknutie vyradíte, môže dôjsť k poškodeniu súborov. Preto buďte opatrní!</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="50"/>
+        <source>I accept the risk.</source>
+        <translation>Rozumiem riziku.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="55"/>
+        <source>Open anyway</source>
+        <translation>Napriek tomu otvoriť</translation>
+    </message>
+</context>
+<context>
     <name>librepcb::EditableTableWidget</name>
     <message>
         <location filename="../libs/librepcb/common/widgets/editabletablewidget.cpp" line="109"/>
@@ -1473,266 +1509,266 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>librepcb::GraphicsLayer</name>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="192"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="162"/>
         <source>References</source>
         <translation>References</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="193"/>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="211"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="163"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="181"/>
         <source>Sheet Frames</source>
         <translation>Rámiky sch. listov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="194"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="164"/>
         <source>Netlines</source>
         <translation>Netlines</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="195"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="165"/>
         <source>Netlabels</source>
         <translation>Názvy spojov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="196"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="166"/>
         <source>Netlabel Anchors</source>
         <translation>Prichytenie názvu spoja</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="197"/>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="220"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="167"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="190"/>
         <source>Documentation</source>
         <translation>Dokumentácia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="198"/>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="221"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="168"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="191"/>
         <source>Comments</source>
         <translation>Poznámka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="199"/>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="222"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="169"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="192"/>
         <source>Guide</source>
         <translation>Guide</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="201"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="171"/>
         <source>Outlines</source>
         <translation>Obrys dosky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="202"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="172"/>
         <source>Grab Areas</source>
         <translation>Obsadenie plôch</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="203"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="173"/>
         <source>Hidden Grab Areas</source>
         <translation>Skryté obsadenie plôch</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="204"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="174"/>
         <source>Names</source>
         <translation>Názvy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="205"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="175"/>
         <source>Values</source>
         <translation>Hodnoty</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="206"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="176"/>
         <source>Optional Pins</source>
         <translation>Nepovinné vývody</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="207"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="177"/>
         <source>Required Pins</source>
         <translation>Vyžadované vývody</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="208"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="178"/>
         <source>Pin Names</source>
         <translation>Názov vývodu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="209"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="179"/>
         <source>Pin Numbers</source>
         <translation>Číslo vývodu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="212"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="182"/>
         <source>Board Outlines</source>
         <translation>Obrys dosky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="213"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="183"/>
         <source>Milling (PTH)</source>
         <translation>Frézovanie (PTH)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="214"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="184"/>
         <source>Drills (NPTH)</source>
         <translation>Vŕtanie (NPTH)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="215"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="185"/>
         <source>Pads</source>
         <translation>Plôška vývodu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="216"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="186"/>
         <source>Vias</source>
         <translation>Prechody</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="217"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="187"/>
         <source>Air Wires</source>
         <translation>Vzdušné spoje</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="218"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="188"/>
         <source>Measures</source>
         <translation>Meranie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="219"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="189"/>
         <source>Alignment</source>
         <translation>Zarovnanie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="224"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="194"/>
         <source>Top Placement</source>
         <translation>Vrchné súčiastky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="225"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="195"/>
         <source>Bot Placement</source>
         <translation>Bot Placement</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="226"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="196"/>
         <source>Top Documentation</source>
         <translation>Top Documentation</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="227"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="197"/>
         <source>Bot Documentation</source>
         <translation>Bot Documentation</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="228"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="198"/>
         <source>Top Grab Areas</source>
         <translation>Vrchné obsadenie plochy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="229"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="199"/>
         <source>Bot Grab Areas</source>
         <translation>Spodné obsadenie plôch</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="230"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="200"/>
         <source>Top Hidden Grab Areas</source>
         <translation>Vrchné skryté obsadenie plôch</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="231"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="201"/>
         <source>Bot Hidden Grab Areas</source>
         <translation>Spodné skryté obsadenie plôch</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="232"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="202"/>
         <source>Top References</source>
         <translation>Top References</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="233"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="203"/>
         <source>Bot References</source>
         <translation>Bot References</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="234"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="204"/>
         <source>Top Names</source>
         <translation>Top Names</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="235"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="205"/>
         <source>Bot Names</source>
         <translation>Bot Names</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="236"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="206"/>
         <source>Top Values</source>
         <translation>Top Values</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="237"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="207"/>
         <source>Bot Values</source>
         <translation>Bot Values</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="238"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="208"/>
         <source>Top Courtyard</source>
         <translation>Top Courtyard</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="239"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="209"/>
         <source>Bot Courtyard</source>
         <translation>Bot Courtyard</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="240"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="210"/>
         <source>Top Stop Mask</source>
         <translation>Top Stop Mask</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="241"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="211"/>
         <source>Bot Stop Mask</source>
         <translation>Bot Stop Mask</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="242"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="212"/>
         <source>Top Solder Paste</source>
         <translation>Top Solder Paste</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="243"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="213"/>
         <source>Bot Solder Paste</source>
         <translation>Bot Solder Paste</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="244"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="214"/>
         <source>Top Finish</source>
         <translation>Top Finish</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="245"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="215"/>
         <source>Bot Finish</source>
         <translation>Bot Finish</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="246"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="216"/>
         <source>Top Glue</source>
         <translation>Top Glue</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="247"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="217"/>
         <source>Bot Glue</source>
         <translation>Bot Glue</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="249"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="219"/>
         <source>Top Copper</source>
         <translation>Top Copper</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="250"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="220"/>
         <source>Bot Copper</source>
         <translation>Bot Copper</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="253"/>
+        <location filename="../libs/librepcb/common/graphics/graphicslayer.cpp" line="223"/>
         <source>Inner Copper %1</source>
         <translation>Inner Copper %1</translation>
     </message>
@@ -2401,38 +2437,38 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
         <translation>Zatvoriť všetky otvorené projekty</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="75"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="76"/>
         <source>Control Panel - LibrePCB %1</source>
         <translation>Ovládací panel - LibrePCB %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="79"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="80"/>
         <source>Workspace: %1</source>
         <translation>Pracovná plocha: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="84"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="85"/>
         <source>Scanning libraries (%p%)</source>
         <translation>Prezeranie knižníc (%p%)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="279"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="276"/>
         <source>Could not create project</source>
         <translation>Nedá sa vytvoriť projekt</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="306"/>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="337"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="303"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="335"/>
         <source>Could not open project</source>
         <translation>Projekt sa nedá vytvoriť</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="384"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="382"/>
         <source>Restore autosave backup?</source>
         <translation>Obnoviť z automatickej zálohy?</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="385"/>
+        <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="383"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>Zdá sa, že pri poslednom použití tohoto projektu zlyhala aplikácia. Želáte si obnoviť poslednú automaticky uloženú zálohu?</translation>
     </message>
@@ -2843,12 +2879,12 @@ p, li { white-space: pre-wrap; }
         <translation>Otvoriť súbory projektu...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="174"/>
+        <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="169"/>
         <source>Update %1...</source>
         <translation>Aktualizácia %1...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="181"/>
+        <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="176"/>
         <source>Skip %1...</source>
         <translation>Vynechané %1...</translation>
     </message>
@@ -2927,78 +2963,78 @@ p, li { white-space: pre-wrap; }
         <translation>CHYBA: Doska s názvom &apos;%1&apos; neexistuje.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="482"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="483"/>
         <source>ERROR: Failed to load custom settings: %1</source>
         <translation>CHYBA: Nepodarilo sa načítať užívateľské nastavenie: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="488"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="489"/>
         <source>Board &apos;%1&apos;:</source>
         <translation>Doska &apos;%1&apos;:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="503"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="504"/>
         <source>Save project...</source>
         <translation>Uložiť projekt....</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="523"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="524"/>
         <source>ERROR: The file %1 was written multiple times!</source>
         <translation>CHYBA: Súbor %1 bol zapísaný viackrát!</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="528"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="529"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
         <translation>POZNÁMKA: Aby ste sa vyhli viacnásobnému zápisu do súboru, skontrolujte jedinečnosť cesty súborov pri exportovaní. Pre výstupy dosky, môžete použiť zástupný symbol &apos;%1&apos; ako cestu, alebo zadajte exportovanú dosku s &apos;%2&apos; argumentom.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="539"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="658"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="540"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="659"/>
         <source>ERROR: %1</source>
         <translation>CHYBA: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="551"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="552"/>
         <source>Open library &apos;%1&apos;...</source>
         <translation>Otvoriť knižnicu &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="563"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="564"/>
         <source>Process %1 component categories...</source>
         <translation>Proces %1 kategórie komponentov...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="566"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="582"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="598"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="614"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="630"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="646"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="567"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="583"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="599"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="615"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="631"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="647"/>
         <source>Open &apos;%1&apos;...</source>
         <translation>Otvoriť &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="579"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="580"/>
         <source>Process %1 package categories...</source>
         <translation>Proces %1 kategórie púzdier...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="595"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="596"/>
         <source>Process %1 symbols...</source>
         <translation>Proces %1 sch. značky...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="611"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="612"/>
         <source>Process %1 packages...</source>
         <translation>Proces %1 púzdra...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="627"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="628"/>
         <source>Process %1 components...</source>
         <translation>Proces %1 komponenty...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="643"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="644"/>
         <source>Process %1 devices...</source>
         <translation>Proces %1 súčiastky...</translation>
     </message>
@@ -3119,7 +3155,7 @@ p, li { white-space: pre-wrap; }
 %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/library.cpp" line="137"/>
+        <location filename="../libs/librepcb/library/library.cpp" line="138"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
         <translation>Adresár knižníc musí obsahovať súbor s príponou &apos;.lplib&apos;.</translation>
     </message>
@@ -3127,22 +3163,22 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::LibraryBaseElement</name>
     <message>
-        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="86"/>
+        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="90"/>
         <source>Directory is not a library element of type %1: &quot;%2&quot;</source>
         <translation>Adresár neobsahuje knižničný element typu %1: &quot;%2&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="94"/>
+        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="98"/>
         <source>Directory name is not a valid UUID: &quot;%1&quot;</source>
         <translation>Názov adresára s neplatným UUID: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="105"/>
+        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="110"/>
         <source>The library element %1 was created with a newer application version. You need at least LibrePCB version %2 to open it.</source>
         <translation>Element knižnice %1 bol vytvorený v novšej verzii aplikácie. Na otvorenie potrebujete LibrePCB verzie %2.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="135"/>
+        <location filename="../libs/librepcb/library/librarybaseelement.cpp" line="145"/>
         <source>UUID mismatch between element directory and main file: &quot;%1&quot;</source>
         <translation>Detekovaná kolízia UUID medzi adresárovým elementom a hlavným súborom: &quot;%1&quot;</translation>
     </message>
@@ -3532,7 +3568,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="106"/>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="120"/>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="313"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="315"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -3542,52 +3578,42 @@ p, li { white-space: pre-wrap; }
         <translation>Názov signálu (môže obsahovať rozsah ako &quot;%1&quot;)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="178"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="183"/>
+        <source>If checked, the signal needs to be connected in schematics, otherwise an ERC error is raised.</source>
+        <translation>Ak je možnosť zašktrnutá, signál musí byť v schéme pripojený a v prípade nepripojenia, bude hlásená ERC chyba.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="186"/>
+        <source>If unchecked, it&apos;s allowed to leave the signal unconnected in schematics.</source>
+        <translation>Ak nie je možnosť zašktrnutá, signál nemusí byť v schéme pripojený.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="225"/>
         <source>Required</source>
         <translation>Vyžadovaný</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="178"/>
-        <source>Optional</source>
-        <translation>Nepovinný</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="182"/>
-        <source>Leaving this signal unconnected in schematics produces an ERC error.</source>
-        <translation>Ukončenie nepripojeného signálu vygeneruje ERC chybu.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="184"/>
-        <source>Leaving this signal unconnected in schematics is allowed.</source>
-        <translation>Ukončenie tohto nepripojeného signálu, je povolené.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="221"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="223"/>
         <source>Name</source>
         <translation>Názov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="223"/>
-        <source>Connection</source>
-        <translation>El. pripojenie</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="225"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="227"/>
         <source>Forced Net</source>
         <translation>Pripojenie k signálu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="233"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="235"/>
         <source>New:</source>
         <translation>Nový:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="236"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="238"/>
         <source>Add a new signal</source>
         <translation>Pridať nový signál</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="361"/>
+        <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="363"/>
         <source>There is already a signal with the name &quot;%1&quot;.</source>
         <translation>Už existuje signál s názvom &quot;%1&quot;.</translation>
     </message>
@@ -3941,37 +3967,37 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::library::editor::EditorWidgetBase</name>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="161"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="163"/>
         <source>WARNING: You have changed some important properties of this library element. This breaks all other elements which depend on this one! Maybe you want to create a new library element instead of modifying this one?</source>
         <translation>UPOZORNENIE: Zmenili ste niektoré dôležité vlastnosti tohto prvku knižnice. Môže to poškodiť iné súvisiace prvky. Nechcete vytvoriť radšej nový knižničný prvok?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="182"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="184"/>
         <source>WARNING: This library element contains errors, see exact messages below. You should fix these errors before saving it, otherwise the library element may not work as expected.</source>
         <translation>UPOZORNENIE: Tento prvok knižnice obsahuje chyby, zobrazené v správe nižšie. Mali by ste ich opraviť pred uložením, inak prvok nebude plniť funkciu tak, ako očakávate.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="210"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="212"/>
         <source>User name not set</source>
         <translation>Meno užívateľa nie je nastavené</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="211"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="213"/>
         <source>No user name defined in workspace settings. Please open workspace settings to set the default user name.</source>
         <translation>Meno užívateľa nie je v nastavení pracovného priestoru zadané. Prosím, otvorte nastavenie prac. priestoru a zadajte meno užívateľa.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="224"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="226"/>
         <source>Restore autosave backup?</source>
         <translation>Obnoviť z automatickej zálohy?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="225"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="227"/>
         <source>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</source>
         <translation>Zdá sa, že pri poslednom použití tejto knižnice, zlyhala aplikácia. Želáte si obnoviť poslednú automaticky uloženú zálohu?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="298"/>
+        <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="296"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -4393,24 +4419,24 @@ p, li { white-space: pre-wrap; }
         <translation>Prezeranie knižníc (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="740"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="742"/>
         <source>&amp;Save &apos;%1&apos;</source>
         <translation>Uložiť &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="563"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="565"/>
         <source>Failed to open category</source>
         <translation>Chyba pri otváraní kategórie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="608"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="610"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation>Posledné zmeny prvku knižnice neboli uložené.
 Želáte si uložiť ich pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="611"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="613"/>
         <source>Unsaved changes</source>
         <translation>Neuložené zmeny</translation>
     </message>
@@ -4552,32 +4578,32 @@ Do you want to save them before closing it?</source>
         <translation>Neplatné metadáta</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="381"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="383"/>
         <source>Edit</source>
         <translation>Upraviť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="384"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="386"/>
         <source>Duplicate</source>
         <translation>Duplikovať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="387"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="389"/>
         <source>Remove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="391"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="393"/>
         <source>Move to other library</source>
         <translation>Presunúť do inej knižnice</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="401"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="403"/>
         <source>New</source>
         <translation>Nový</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="491"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="493"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -4585,48 +4611,48 @@ Are you still sure to delete the following library elements?</source>
 Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="504"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="506"/>
         <source>This cannot be undone!</source>
         <translation>Táto zmena je nevratná!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="508"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="510"/>
         <source>Remove %1 elements</source>
         <translation>Odstrániť %1 elementov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="520"/>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="561"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="522"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="563"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="533"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="535"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation>Naozaj chcete presunúť nasledujúce elementy do knižnice &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="543"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="545"/>
         <source>Note: This cannot be easily undone!</source>
         <translation>Poznámka: Táto zmena nie je jednoducho vratná!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="547"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="549"/>
         <source>Move %1 elements</source>
         <translation>Presun %1 elementov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="604"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="606"/>
         <source>Choose library icon</source>
         <translation>Zvoliť ikonku knižnice</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="606"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="608"/>
         <source>Portable Network Graphics (*.png)</source>
         <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="612"/>
+        <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="614"/>
         <source>Could not open file</source>
         <translation>Nedá sa otvoriť súbor</translation>
     </message>
@@ -4849,13 +4875,9 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <name>librepcb::library::editor::NewElementWizardPage_DeviceProperties</name>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="14"/>
+        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="17"/>
         <source>Device Properties</source>
         <translation>Vlastnosti súčiastky</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="17"/>
-        <source>De&amp;vice Properties</source>
-        <translation>&amp;Vlastnosti súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/newelementwizard/newelementwizardpage_deviceproperties.ui" line="20"/>
@@ -5130,14 +5152,14 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Priemer:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addholes.cpp" line="135"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addholes.cpp" line="134"/>
         <source>Add hole</source>
         <translation>Pridať otvor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addholes.cpp" line="147"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addholes.cpp" line="169"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addholes.cpp" line="183"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addholes.cpp" line="146"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addholes.cpp" line="164"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addholes.cpp" line="178"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -5165,14 +5187,14 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Priemer vrtáku:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="235"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="234"/>
         <source>Add footprint pad</source>
         <translation>Pridať plôšku vývodu púzdra</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="249"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="273"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="288"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="248"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="268"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="283"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -5185,29 +5207,29 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Vrstva:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="88"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="87"/>
         <source>Line Width:</source>
         <translation>Šírka čiary:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="98"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="97"/>
         <source>Fill</source>
         <translation>Vyplniť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="104"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="103"/>
         <source>Grab Area</source>
         <translation>Pozadie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="165"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="164"/>
         <source>Add symbol circle</source>
         <translation>Pridať kruh</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="179"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="212"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="226"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="178"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="211"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawcircle.cpp" line="225"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -5220,35 +5242,35 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Vrstva:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="92"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="91"/>
         <source>Line Width:</source>
         <translation>Šírka čiary:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="103"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="102"/>
         <source>Angle:</source>
         <translation>Uhol:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="113"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="112"/>
         <source>Fill</source>
         <translation>Vyplniť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="121"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="120"/>
         <source>Grab Area</source>
         <translation>Pozadie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="207"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="252"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="206"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="251"/>
         <source>Add footprint polygon</source>
         <translation>Pridať polygón do púzdra</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="220"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="237"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="260"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="219"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="236"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="259"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -5261,29 +5283,29 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Vrstva:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="94"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="93"/>
         <source>Text:</source>
         <translation>Text:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="117"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="116"/>
         <source>Height:</source>
         <translation>Výška:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="128"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="127"/>
         <source>Stroke Width:</source>
         <translation>Šírka:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="232"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="231"/>
         <source>Add footprint text</source>
         <translation>Pridať text do púzdra</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="247"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="269"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="283"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="246"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="268"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="282"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -5294,54 +5316,60 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="185"/>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="207"/>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="219"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="381"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="579"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="624"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="641"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="664"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="673"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="705"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="725"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="373"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="578"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="623"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="640"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="663"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="675"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="684"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="716"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="736"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="401"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="393"/>
         <source>Remove Vertex</source>
         <translation>Odstrániť vrchol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="438"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="430"/>
         <source>Add Vertex</source>
         <translation>Pridať vrchol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="447"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="439"/>
         <source>Rotate</source>
         <translation>Otočiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="451"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="443"/>
         <source>Mirror</source>
         <translation>Zrkadliť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="455"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="447"/>
         <source>Flip</source>
         <translation>Prevrátiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="459"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="451"/>
         <source>Remove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="463"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="456"/>
+        <source>Snap To Grid</source>
+        <translation>Prichytiť k rastru</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="462"/>
         <source>Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="605"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="604"/>
         <source>Paste Footprint Elements</source>
         <translation>Prilepiť elementy púzdra</translation>
     </message>
@@ -5548,29 +5576,29 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Vrstva:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="88"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="87"/>
         <source>Line Width:</source>
         <translation>Šírka čiary:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="98"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="97"/>
         <source>Fill</source>
         <translation>Vyplniť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="104"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="103"/>
         <source>Grab Area</source>
         <translation>Pozadie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="165"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="164"/>
         <source>Add symbol circle</source>
         <translation>Pridať kruh</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="178"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="211"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="225"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="177"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="210"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawcircle.cpp" line="224"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -5583,35 +5611,35 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Vrstva:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="92"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="91"/>
         <source>Line Width:</source>
         <translation>Šírka čiary:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="103"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="102"/>
         <source>Angle:</source>
         <translation>Uhol:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="113"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="112"/>
         <source>Fill</source>
         <translation>Vyplniť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="121"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="120"/>
         <source>Grab Area</source>
         <translation>Pozadie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="206"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="251"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="205"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="250"/>
         <source>Add symbol polygon</source>
         <translation>Pridať polygón do sch. značky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="219"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="236"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="259"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="218"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="235"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="258"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -5624,24 +5652,24 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Vrstva:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="88"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="87"/>
         <source>Text:</source>
         <translation>Text:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="107"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="106"/>
         <source>Height:</source>
         <translation>Výška:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="194"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="193"/>
         <source>Add symbol text</source>
         <translation>Pridať text do sch. značky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="206"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="228"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="242"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="205"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="227"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_drawtextbase.cpp" line="241"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -5652,49 +5680,55 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="183"/>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="205"/>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="217"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="365"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="535"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="574"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="591"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="608"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="617"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="649"/>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="669"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="357"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="530"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="569"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="586"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="603"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="615"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="624"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="656"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="676"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="384"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="376"/>
         <source>Remove Vertex</source>
         <translation>Odstrániť vrchol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="420"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="412"/>
         <source>Add Vertex</source>
         <translation>Pridať vrchol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="430"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="421"/>
         <source>&amp;Rotate</source>
         <translation>Otočiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="434"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="425"/>
         <source>&amp;Mirror</source>
         <translation>Zrkadliť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="438"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="429"/>
         <source>R&amp;emove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="442"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="434"/>
+        <source>&amp;Snap To Grid</source>
+        <translation>Prichytiť k rastru</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="440"/>
         <source>&amp;Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="556"/>
+        <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="551"/>
         <source>Paste Symbol Elements</source>
         <translation>Prilepiť elementy symbolu</translation>
     </message>
@@ -6262,12 +6296,12 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
 <context>
     <name>librepcb::project::BI_Device</name>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="129"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="132"/>
         <source>No device with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation>Súčiastka s UUID &quot;%1&quot; sa nenachádza v projektovej knižnici.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="149"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_device.cpp" line="152"/>
         <source>No package with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation>Púzdro s UUID &quot;%1&quot; neexistuje v projektovej knižnici.</translation>
     </message>
@@ -6275,7 +6309,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
 <context>
     <name>librepcb::project::BI_NetPoint</name>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_netpoint.cpp" line="62"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_netpoint.cpp" line="65"/>
         <source>Dead net point in board &quot;%1&quot;: %2</source>
         <translation>Nefunkčný bod spoja na doske &quot;%1&quot;: %2</translation>
     </message>
@@ -6283,7 +6317,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
 <context>
     <name>librepcb::project::BI_Plane</name>
     <message>
-        <location filename="../libs/librepcb/project/boards/items/bi_plane.cpp" line="86"/>
+        <location filename="../libs/librepcb/project/boards/items/bi_plane.cpp" line="92"/>
         <source>Invalid net signal UUID: &quot;%1&quot;</source>
         <translation>Spoj s nekorektným UUID: &quot;%1&quot;</translation>
     </message>
@@ -6423,20 +6457,20 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
 <context>
     <name>librepcb::project::Circuit</name>
     <message>
-        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="164"/>
-        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="193"/>
+        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="165"/>
+        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="194"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
         <translation>Už existuje trieda spojov s názvom &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="251"/>
-        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="281"/>
+        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="252"/>
+        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="282"/>
         <source>There is already a net signal with the name &quot;%1&quot;!</source>
         <translation>Už existuje signál s názvom &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="336"/>
-        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="366"/>
+        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="337"/>
+        <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="367"/>
         <source>There is already a component with the name &quot;%1&quot;!</source>
         <translation>Už existuje komponent s názvom &quot;%1&quot;!</translation>
     </message>
@@ -6905,27 +6939,27 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
 <context>
     <name>librepcb::project::ComponentInstance</name>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="67"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="70"/>
         <source>The component with the UUID &quot;%1&quot; does not exist in the project&apos;s library!</source>
         <translation>Komponent s UUID &quot;%1&quot; sa nenachádza v projektovej knižnici!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="277"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="281"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation>Komponent &quot;%1&quot; nemôže byť odstránený, pretože sa stále používa!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="316"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="320"/>
         <source>All symbols of a component must be placed in the same schematic.</source>
         <translation>Všetky sch. značky komponentu, musia byť umiestnené na rovnakom liste schémy.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="415"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="419"/>
         <source>Unplaced required symbols of component &quot;%1&quot;: %2</source>
         <translation>Neumiestnená vyžadovaná sch. značka komponentu &quot;%1&quot;: %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="419"/>
+        <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="423"/>
         <source>Unplaced optional symbols of component &quot;%1&quot;: %2</source>
         <translation>Neumiestnená nevyžadovaná sch. značka komponentu &quot;%1&quot;: %2</translation>
     </message>
@@ -6933,22 +6967,22 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
 <context>
     <name>librepcb::project::ComponentSignalInstance</name>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="176"/>
+        <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="177"/>
         <source>The net signal of the component signal &quot;%1:%2&quot; cannot be changed because it is still in use!</source>
         <translation>Signál spoja komponentu &quot;%1:%2&quot; nemôže byť zmenený, pretože sa stále používa!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="229"/>
+        <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="230"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation>Komponent &quot;%1&quot; nemôže byť odstránený, pretože sa stále používa!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="301"/>
+        <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="302"/>
         <source>Unconnected component signal: &quot;%1&quot; from &quot;%2&quot;</source>
         <translation>Nepripojený signál komponentu: &quot;%1&quot; z &quot;%2&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="305"/>
+        <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="306"/>
         <source>Signal name conflict: &quot;%1&quot; != &quot;%2&quot; (&quot;%3&quot; from &quot;%4&quot;)</source>
         <translation>Nezhoda názvov signálov: &quot;%1&quot; != &quot;%2&quot; (&quot;%3&quot; z &quot;%4&quot;)</translation>
     </message>
@@ -6956,12 +6990,12 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
 <context>
     <name>librepcb::project::NetClass</name>
     <message>
-        <location filename="../libs/librepcb/project/circuit/netclass.cpp" line="94"/>
+        <location filename="../libs/librepcb/project/circuit/netclass.cpp" line="95"/>
         <source>The net class &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation>Trieda spojov &quot;%1&quot; nemôže byť odstránená, pretože sa stále používa!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/netclass.cpp" line="137"/>
+        <location filename="../libs/librepcb/project/circuit/netclass.cpp" line="138"/>
         <source>Unused net class: &quot;%1&quot;</source>
         <translation>Nepoužité triedy spojov: &quot;%1&quot;</translation>
     </message>
@@ -6969,17 +7003,17 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
 <context>
     <name>librepcb::project::NetSignal</name>
     <message>
-        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="154"/>
+        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="156"/>
         <source>The net signal &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation>Signál &quot;%1&quot; nemôže byť odstránený, pretože sa stále používa!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="265"/>
+        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="267"/>
         <source>Unused net signal: &quot;%1&quot;</source>
         <translation>Nepoužitý signál: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="288"/>
+        <location filename="../libs/librepcb/project/circuit/netsignal.cpp" line="290"/>
         <source>Net signal connected to less than two pins: &quot;%1&quot;</source>
         <translation>Signál má prepájať najmenej dva vývody: &quot;%1&quot;</translation>
     </message>
@@ -6992,17 +7026,17 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
         <translation>Prípona súboru projektu musí byť  &quot;lpp&quot;!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="86"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="87"/>
         <source>The directory &quot;%1&quot; does not contain a LibrePCB project.</source>
         <translation>Adresár &quot;%1&quot; neobsahuje projekt LibrePCB.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="92"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="93"/>
         <source>The file &quot;%1&quot; does not exist.</source>
         <translation>Súbor &quot;%1&quot; neexistuje.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="102"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="103"/>
         <source>This project was created with a newer application version.
 You need at least LibrePCB %1 to open it.
 
@@ -7013,64 +7047,64 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="77"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="78"/>
         <source>The directory &quot;%1&quot; already contains a LibrePCB project.</source>
         <translation>Adresár &quot;%1&quot; už obsahuje projekt LibrePCB.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="138"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="139"/>
         <source>Unknown</source>
         <translation>Neznámy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="271"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="272"/>
         <source>Invalid schematic name: &quot;%1&quot;</source>
         <translation>Neplatný názov schémy: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="277"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="278"/>
         <source>The schematic exists already: &quot;%1&quot;</source>
         <translation>Schéma už existuje: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="295"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="296"/>
         <source>There is already a schematic with the name &quot;%1&quot;!</source>
         <translation>Už existuje schéma s názvom &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="321"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="322"/>
         <source>There are still elements in the schematic &quot;%1&quot;!</source>
         <translation>Stále sú elementy na schéme &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="411"/>
-        <location filename="../libs/librepcb/project/project.cpp" line="428"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="412"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="429"/>
         <source>Invalid board name: &quot;%1&quot;</source>
         <translation>Neplatný názov dosky: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="417"/>
-        <location filename="../libs/librepcb/project/project.cpp" line="434"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="418"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="435"/>
         <source>The board exists already: &quot;%1&quot;</source>
         <translation>Doska už existuje: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="451"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="452"/>
         <source>There is already a board with the name &quot;%1&quot;!</source>
         <translation>Už existuje doska s názvom &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="361"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="362"/>
         <source>No schematic pages selected.</source>
         <translation>Nie sú vybrané žiadne listy schémy.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="370"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="371"/>
         <source>No schematic page with the index %1 found.</source>
         <translation>Schematický list s indexom %1 neexistuje.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/project/project.cpp" line="378"/>
+        <location filename="../libs/librepcb/project/project.cpp" line="379"/>
         <source>Unknown error while printing.</source>
         <translation>Počas tlače sa vyskytla neznáma chyba.</translation>
     </message>
@@ -7078,7 +7112,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::project::SI_NetPoint</name>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_netpoint.cpp" line="62"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_netpoint.cpp" line="65"/>
         <source>Dead net point in schematic page &quot;%1&quot;: %2</source>
         <translation>Nefunkčný bod spoja na stránke schémy &quot;%1&quot;: %2</translation>
     </message>
@@ -7086,7 +7120,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::project::SI_Symbol</name>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="94"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_symbol.cpp" line="96"/>
         <source>No symbol with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation>Sch. značka s UUID &quot;%1&quot; sa nenachádza v zapojení!</translation>
     </message>
@@ -7094,7 +7128,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::project::SI_SymbolPin</name>
     <message>
-        <location filename="../libs/librepcb/project/schematics/items/si_symbolpin.cpp" line="239"/>
+        <location filename="../libs/librepcb/project/schematics/items/si_symbolpin.cpp" line="255"/>
         <source>Unconnected pin: &quot;%1&quot; of symbol &quot;%2&quot;</source>
         <translation>Nepripojený vývod: &quot;%1&quot; sch. značky &quot;%2&quot;</translation>
     </message>
@@ -7596,7 +7630,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="902"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="573"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="576"/>
         <source>SVG Export</source>
         <translation>Exportovať do SVG</translation>
     </message>
@@ -7611,72 +7645,72 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>%1 - LibrePCB Editor dosky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="243"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="244"/>
         <source>Find device...</source>
         <translation>Vyhľadať prvok...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="252"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="253"/>
         <source>Scanning libraries (%p%)</source>
         <translation>Prezeranie knižníc (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="425"/>
         <source>Add New Board</source>
         <translation>Pridať novú dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="422"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="442"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="425"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="445"/>
         <source>Choose a name:</source>
         <translation>Zvoľte názov:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="423"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="426"/>
         <source>new_board</source>
         <translation>nová_doska</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="432"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="452"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="469"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="507"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="552"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="599"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="644"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="670"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="435"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="455"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="472"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="510"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="555"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="602"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="647"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="673"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="442"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="445"/>
         <source>Copy Board</source>
         <translation>Kopírovať dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="443"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="446"/>
         <source>copy_of_%1</source>
         <translation>kópia_z_%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="461"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="464"/>
         <source>Remove board</source>
         <translation>Odstrániť dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="462"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="465"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>Naozaj chcete odstrániť dosku &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="493"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="515"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="560"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="496"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="518"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="563"/>
         <source>No board selected.</source>
         <translation>Doska nie je vybraná.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="528"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="531"/>
         <source>PDF Export</source>
         <translation>Exportovať do PDF</translation>
     </message>
@@ -7684,20 +7718,20 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::project::editor::BoardEditorState_AddDevice</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="127"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="182"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="207"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="229"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="130"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="185"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="210"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="232"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="165"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="168"/>
         <source>Add device to board</source>
         <translation>Pridať súčiastku na dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="183"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="186"/>
         <source>Could not add device:
 
 %1</source>
@@ -7734,29 +7768,29 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Vrstva:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="110"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="109"/>
         <source>Text:</source>
         <translation>Text:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="130"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="129"/>
         <source>Height:</source>
         <translation>Výška:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="142"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="141"/>
         <source>Mirror:</source>
         <translation>Zrkadlenie:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="244"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="243"/>
         <source>Add text to board</source>
         <translation>Pridať text na dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="256"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="309"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="331"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="255"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="308"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="330"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -7764,62 +7798,42 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::project::editor::BoardEditorState_AddVia</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="66"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="165"/>
         <source>Auto</source>
         <translation>Automaticky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="130"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="126"/>
         <source>Size:</source>
         <translation>Rozmer:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="142"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="138"/>
         <source>Drill:</source>
         <translation>Vrták:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="154"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="150"/>
         <source>Signal:</source>
         <translation>Signál:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="246"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="240"/>
         <source>Add via to board</source>
         <translation>Pridať prechod na dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="270"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="309"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="431"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="453"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="244"/>
+        <source>No net signal selected.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="261"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="359"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="381"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="434"/>
         <source>Error</source>
         <translation>Chyba</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="330"/>
-        <source>Multiple different signals at via position.</source>
-        <translation>Viacero rôznych signálov na pozícii prechodu.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="346"/>
-        <source>Via of a different signal already present at target position.</source>
-        <translation>Prechod patriaci inému signálu už je na cieľovej pozícii.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="355"/>
-        <source>Pad of a different signal already present at target position.</source>
-        <translation>Plôška patriaca inému signálu už je na cieľovej pozícii.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="365"/>
-        <source>Netpoint of a different signal already present at target position.</source>
-        <translation>Bod spoja patriaci inému signálu už je na cieľovej pozícii.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="374"/>
-        <source>Netline of a different signal already present at target position.</source>
-        <translation>Spoj patriaci inému signálu už je na cieľovej pozícii.</translation>
     </message>
 </context>
 <context>
@@ -7930,10 +7944,10 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="564"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="723"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="742"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="767"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="932"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="725"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="744"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="769"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="935"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -7941,110 +7955,110 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::project::editor::BoardEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="273"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="338"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="347"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="356"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="456"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="478"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="510"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="754"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="791"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="807"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="821"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="853"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="887"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="905"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="923"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="938"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="995"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1025"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1091"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="272"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="337"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="346"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="355"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="448"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="470"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="502"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="746"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="783"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="799"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="813"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="845"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="879"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="897"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="915"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="930"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="987"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1017"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1083"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="446"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="438"/>
         <source>Remove %1</source>
         <translation>Odstrániť %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="450"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="442"/>
         <source>Reset all texts</source>
         <translation>Obnoviť všetky texty na východzie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="462"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="454"/>
         <source>Change Device</source>
         <translation>Zmeniť súčiastku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="487"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="479"/>
         <source>Change Footprint</source>
         <translation>Zmeniť púzdro</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="526"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="518"/>
         <source>Remove Trace Segment</source>
         <translation>Odstrániť segment spoja</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="555"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="547"/>
         <source>Remove Via</source>
         <translation>Odstrániť prechod</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="574"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="566"/>
         <source>Remove Plane</source>
         <translation>Odstrániť vyplnenú plochu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="576"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="568"/>
         <source>Visible</source>
         <translation>Viditeľnosť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="585"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="577"/>
         <source>Plane Properties</source>
         <translation>Vlastnosti signálnej plochy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="598"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="590"/>
         <source>Remove Polygon</source>
         <translation>Odstrániť polygón</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="610"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="602"/>
         <source>Remove Text</source>
         <translation>Odstrániť text</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="622"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="614"/>
         <source>Remove Hole</source>
         <translation>Odstrániť otvor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="965"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="957"/>
         <source>Paste board elements</source>
         <translation>Prilepiť elementy dosky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1102"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1094"/>
         <source>Measurement Result</source>
         <translation>Výsledok merania</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1104"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1096"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1112"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1104"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
         <translation>UPOZORNENIE: Sú vybrané %1 segmenty spoja, ale niektoré nie sú pripojené!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1139"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_select.cpp" line="1131"/>
         <source>Selected trace segments may not branch!</source>
         <translation>Vybrané segmenty spoja sa nemajú vetviť!</translation>
     </message>
@@ -8338,24 +8352,39 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Zoznam dodatočných atríbútov oddelených čiarkami, napríklad &quot;MANUFACTURER, MPN&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="66"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="69"/>
         <source>&amp;Generate</source>
         <translation>&amp;Generovať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="68"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="71"/>
         <source>None</source>
         <translation>Žiadne</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="100"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="103"/>
         <source>Save to</source>
         <translation>Uložiť do</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="120"/>
+        <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="123"/>
         <source>Error</source>
         <translation>Chyba</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="169"/>
+        <source>Warning: %n device(s) from the selected board differ from their pre-selected devices in the schematic: %1</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="178"/>
+        <source>All devices of the selected board are in sync with their pre-selected devices in the schematic.</source>
+        <translation>Všetky súčiastky zvolenej dosky sú synchronizované podľa ich prednastavení v schéme.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="186"/>
+        <source>Devices are not exported because no board is selected.</source>
+        <translation>Súčiastka nebola exportovaná pretože nebola zvolená doska plošných spojov.</translation>
     </message>
 </context>
 <context>
@@ -8718,37 +8747,37 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Chyby v zapojení (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="220"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="221"/>
         <source>Circuit Warnings (%1)</source>
         <translation>Upozornenia v zapojení (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="223"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="225"/>
         <source>Schematic Errors (%1)</source>
         <translation>Chyby na schéme (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="227"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="230"/>
         <source>Schematic Warnings (%1)</source>
         <translation>Upozornenia na schéme (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="230"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="234"/>
         <source>Board Errors (%1)</source>
         <translation>Chyby na doske (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="233"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="238"/>
         <source>Board Warnings (%1)</source>
         <translation>Upozornenia na doske (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="236"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="242"/>
         <source>Approved (%1)</source>
         <translation>Schválené (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="238"/>
+        <location filename="../libs/librepcb/projecteditor/docks/ercmsgdock.cpp" line="245"/>
         <source>ERC [%1]</source>
         <translation>ERC [%1]</translation>
     </message>
@@ -9100,13 +9129,13 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Vyskytla sa chyba počas ukladania projektu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="253"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="249"/>
         <source>You have unsaved changes in the project.
 Do you want to save them before closing the project?</source>
         <translation>V projekte sú zmeny, ktoré neboli uložené. Chcete ich uložiť pred uzavretím projektu?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="252"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="248"/>
         <source>Save Project?</source>
         <translation>Uložiť projekt?</translation>
     </message>
@@ -9590,42 +9619,42 @@ Do you want to save them before closing the project?</source>
         <translation>Prezeranie knižníc (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="449"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="445"/>
         <source>SVG Export</source>
         <translation>Exportovať do SVG</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="632"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="643"/>
         <source>Add schematic page</source>
         <translation>Pridať list schémy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="633"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="644"/>
         <source>Choose a name:</source>
         <translation>Zvoľte názov:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="634"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="645"/>
         <source>New Page</source>
         <translation>Nový list</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="665"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="676"/>
         <source>Rename sheet</source>
         <translation>Premenovať výkres</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="665"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="676"/>
         <source>Choose new name:</source>
         <translation>Zvoľte nový názov:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="402"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="427"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="472"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="643"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="655"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="674"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="398"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="423"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="468"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="654"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="666"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="685"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -9640,12 +9669,12 @@ Do you want to save them before closing the project?</source>
         <translation>Vyhľadať komponent...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="367"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="363"/>
         <source>No pages to print.</source>
         <translation>Pre tlač nie sú žiadne listy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="419"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="415"/>
         <source>PDF Export</source>
         <translation>Exportovať do PDF</translation>
     </message>
@@ -9700,27 +9729,27 @@ Do you want to save them before closing the project?</source>
 <context>
     <name>librepcb::project::editor::SchematicEditorState_DrawWire</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="239"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="293"/>
         <source>Draw Wire</source>
         <translation>Pridať spoj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="264"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="514"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="323"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="579"/>
         <source>Invalid net name</source>
         <translation>Neplatný názov spoja</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="265"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="516"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="324"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="581"/>
         <source>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</source>
         <translation>Nie je možné priradiť k spoju &apos;%1&apos;, pretože má neplatný názov.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="359"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="528"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="546"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="569"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="419"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="593"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="611"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="634"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -9731,31 +9760,31 @@ Do you want to save them before closing the project?</source>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="163"/>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="247"/>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="274"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="402"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="418"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="434"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="450"/>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="494"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="394"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="410"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="426"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="442"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="486"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="343"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="335"/>
         <source>Remove Symbol</source>
         <translation>Odstrániť sch. značku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="357"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="349"/>
         <source>Remove Net Label</source>
         <translation>Odstrániť názov spoja</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="359"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="351"/>
         <source>Rename Net Segment</source>
         <translation>Premenovať spoj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="474"/>
+        <location filename="../libs/librepcb/projecteditor/schematiceditor/fsm/schematiceditorstate_select.cpp" line="466"/>
         <source>Paste Schematic Elements</source>
         <translation>Prilepiť elementy schémy</translation>
     </message>
@@ -9905,47 +9934,103 @@ Do you want to save them before closing the project?</source>
         <translation>Umiestniť prvky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="44"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="40"/>
         <source>Device:</source>
         <translation>Prvok:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="74"/>
-        <source>No device for the selected component found in the library! Please add a suitable device to your workspace library.</source>
-        <translation>Pre zvolený komponent sa v knižnici nenachádza žiaden prvok! Prosím pridajte zodpovedajúci prvok do pracovnej knižnice.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="86"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="47"/>
         <source>Footprint:</source>
         <translation>Púzdro:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="116"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="68"/>
+        <source>Set/unset as default device for the component in schematic.</source>
+        <translation>Nastaviť ako predvolenú súčiastku pre schematický komponent.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="97"/>
+        <source>No device or package for the selected component found in the library! Please add a suitable device and package to your workspace library.</source>
+        <translation>V knižnici sa nenachádza zvolená súčiastka alebo púzdro! Prosím, pridajte ju do knižnice pracovného priestoru.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="125"/>
+        <source>Add the selected device to the board.</source>
+        <translation>Pridať zvolenú súčiastku na dosku.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="128"/>
         <source>Add</source>
         <translation>Pridať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="123"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="138"/>
+        <source>Use the selected device for all identical components and add them to the board.</source>
+        <translation>Pridať na dosku rovnaké komponenty zvolenej súčiastky.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="141"/>
         <source>Add Similar</source>
         <translation>Pridať podobný</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="130"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="148"/>
+        <source>Add all components with pre-selected device to the board.</source>
+        <translation>Pridať na dosku rovnaké komponenty predvolenej súčiastky.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="151"/>
+        <source>Add Pre-Selected</source>
+        <translation>Pridať predvolené.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="158"/>
+        <source>Add all components to the board, using automatically determined devices.</source>
+        <translation>Pridať na dosku všetky komponenty, s použitím automatického výbery súčiastok. </translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="161"/>
         <source>Auto-Add All</source>
         <translation>Automaticky pridať všetko</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="322"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="219"/>
+        <source>Designator</source>
+        <translation>Označenie</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="220"/>
+        <source>Value</source>
+        <translation>Hodnota</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="221"/>
+        <source>Component</source>
+        <translation>Komponent</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="223"/>
+        <source>Device is already pre-selected in schematics.</source>
+        <translation>Súčiastka je už predvolená v schéme.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="244"/>
         <source>Place Devices [%1]</source>
         <translation>Umiestniť prvky [%1]</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="452"/>
-        <source>Add device to board</source>
-        <translation>Pridať prvok na dosku</translation>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="381"/>
+        <source>Default footprint.</source>
+        <translation>Predvolené púzdro.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="478"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="488"/>
+        <source>Add devices to board</source>
+        <translation>Pridať súčiastky na dosku.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="434"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="524"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -9953,19 +10038,14 @@ Do you want to save them before closing the project?</source>
 <context>
     <name>librepcb::workspace::Workspace</name>
     <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="69"/>
+        <location filename="../libs/librepcb/workspace/workspace.cpp" line="70"/>
         <source>Invalid workspace path: &quot;%1&quot;</source>
         <translation>Neplatná cesta k prac. ploche</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="77"/>
+        <location filename="../libs/librepcb/workspace/workspace.cpp" line="78"/>
         <source>The workspace version %1 is not compatible with this application version.</source>
         <translation>Verzia pracovnej plochy %1 nie je kompatibilná s touto verziou aplikácie.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/workspace/workspace.cpp" line="97"/>
-        <source>The workspace is already opened by another application instance or user!</source>
-        <translation>Pracovná plocha je otvorená inou inštanciou aplikácie, alebo užívateľom!</translation>
     </message>
 </context>
 <context>
@@ -10164,12 +10244,12 @@ Pozor: Táto zmena bude vykonaná okamžite a je nevratná!</translation>
 <context>
     <name>main</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="183"/>
+        <location filename="../apps/librepcb/main.cpp" line="184"/>
         <source>Unstable file format!</source>
         <translation>Formát súboru, sa môže zmeniť!</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="184"/>
+        <location filename="../apps/librepcb/main.cpp" line="185"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;UPOZORNENIE: Toto nie je stabilná verzia aplikácie!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Práca s ňou, môže poškodiť Váš aplikačný pracovný priestor, knižnice, alebo projekty! Súbory uložené touto verziou, nebudú čitateľné stabilnými verziami LibrePCB. Pred pokračovaním Vám odporúčame, vytvoriť si ich kópie. Ak nie ste si istý postupom, prosím radšej použite oficiálnu stabilnú verziu.&lt;/p&gt;&lt;p&gt;Pre viac podrobností, si prosím pozrite &lt;a href=&quot;%1&quot;&gt;koncept verziovania&lt;/a&gt; LibrePCB.&lt;/p&gt;&lt;p&gt;Naozaj chcete pokračovať aj keď môže dôjsť k poškodeniu Vašich súborov?!&lt;/p&gt;</translation>
     </message>

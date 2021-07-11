@@ -290,7 +290,7 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="166"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</translation>
     </message>
 </context>
 <context>
@@ -729,12 +729,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadclearanceviolation.cpp" line="44"/>
         <source>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadclearanceviolation.cpp" line="47"/>
         <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</translation>
     </message>
 </context>
 <context>
@@ -886,7 +886,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="250"/>
         <source>sysctl() failed with retval=%1 and errno=%2.</source>
-        <translation type="unfinished"></translation>
+        <translation>sysctl() failed with retval=%1 and errno=%2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/systeminfo.cpp" line="265"/>
@@ -1101,7 +1101,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="65"/>
         <source>The file or directory &quot;%1&quot; exists already.</source>
-        <translation type="unfinished">The file or directory &quot;%1&quot; exists already.</translation>
+        <translation>The file or directory &quot;%1&quot; exists already.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/asynccopyoperation.cpp" line="72"/>
@@ -1414,28 +1414,28 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="14"/>
         <source>Directory is locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Directory is locked</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="35"/>
         <source>Could not open the directory &quot;%1&quot; because it is already opened by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
         <extracomment>%2 is something like &quot;sername@computername&quot;.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Could not open the directory &quot;%1&quot; because it is already opened by &quot;%2&quot;. Close any application accessing this directory and try again.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="52"/>
         <source>If you&apos;re absolutely sure that the directory is not accessed by any other application instance anymore, you could discard the current lock and open this directory anyway. But if the directory is still accessed by another application instance, this could lead in corrupt files, so use this option very carefully!</source>
-        <translation type="unfinished"></translation>
+        <translation>If you&apos;re absolutely sure that the directory is not accessed by any other application instance anymore, you could discard the current lock and open this directory anyway. But if the directory is still accessed by another application instance, this could lead in corrupt files, so use this option very carefully!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="50"/>
         <source>I accept the risk.</source>
-        <translation type="unfinished"></translation>
+        <translation>I accept the risk.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="55"/>
         <source>Open anyway</source>
-        <translation type="unfinished"></translation>
+        <translation>Open anyway</translation>
     </message>
 </context>
 <context>
@@ -3583,12 +3583,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="183"/>
         <source>If checked, the signal needs to be connected in schematics, otherwise an ERC error is raised.</source>
-        <translation type="unfinished"></translation>
+        <translation>If checked, the signal needs to be connected in schematics, otherwise an ERC error is raised.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="186"/>
         <source>If unchecked, it&apos;s allowed to leave the signal unconnected in schematics.</source>
-        <translation type="unfinished"></translation>
+        <translation>If unchecked, it&apos;s allowed to leave the signal unconnected in schematics.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="225"/>
@@ -5365,7 +5365,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="456"/>
         <source>Snap To Grid</source>
-        <translation type="unfinished">Snap To Grid</translation>
+        <translation>Snap To Grid</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_select.cpp" line="462"/>
@@ -5724,7 +5724,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="434"/>
         <source>&amp;Snap To Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Snap To Grid</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/sym/fsm/symboleditorstate_select.cpp" line="440"/>
@@ -7832,7 +7832,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="244"/>
         <source>No net signal selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No net signal selected.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/fsm/boardeditorstate_addvia.cpp" line="261"/>
@@ -8384,20 +8384,20 @@ You need at least LibrePCB %1 to open it.
     <message numerus="yes">
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="169"/>
         <source>Warning: %n device(s) from the selected board differ from their pre-selected devices in the schematic: %1</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Warning: %n device(s) from the selected board differ from their pre-selected devices in the schematic: %1</numerusform>
+            <numerusform>Warning: %n device(s) from the selected board differ from their pre-selected devices in the schematic: %1</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="178"/>
         <source>All devices of the selected board are in sync with their pre-selected devices in the schematic.</source>
-        <translation type="unfinished"></translation>
+        <translation>All devices of the selected board are in sync with their pre-selected devices in the schematic.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="186"/>
         <source>Devices are not exported because no board is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Devices are not exported because no board is selected.</translation>
     </message>
 </context>
 <context>
@@ -9960,17 +9960,17 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="68"/>
         <source>Set/unset as default device for the component in schematic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Set/unset as default device for the component in schematic.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="97"/>
         <source>No device or package for the selected component found in the library! Please add a suitable device and package to your workspace library.</source>
-        <translation type="unfinished"></translation>
+        <translation>No device or package for the selected component found in the library! Please add a suitable device and package to your workspace library.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="125"/>
         <source>Add the selected device to the board.</source>
-        <translation type="unfinished"></translation>
+        <translation>Add the selected device to the board.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="128"/>
@@ -9980,7 +9980,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="138"/>
         <source>Use the selected device for all identical components and add them to the board.</source>
-        <translation type="unfinished"></translation>
+        <translation>Use the selected device for all identical components and add them to the board.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="141"/>
@@ -9990,17 +9990,17 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="148"/>
         <source>Add all components with pre-selected device to the board.</source>
-        <translation type="unfinished"></translation>
+        <translation>Add all components with pre-selected device to the board.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="151"/>
         <source>Add Pre-Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Add Pre-Selected</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="158"/>
         <source>Add all components to the board, using automatically determined devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Add all components to the board, using automatically determined devices.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="161"/>
@@ -10010,22 +10010,22 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="219"/>
         <source>Designator</source>
-        <translation type="unfinished"></translation>
+        <translation>Designator</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="220"/>
         <source>Value</source>
-        <translation type="unfinished">Value</translation>
+        <translation>Value</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="221"/>
         <source>Component</source>
-        <translation type="unfinished">Component</translation>
+        <translation>Component</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="223"/>
         <source>Device is already pre-selected in schematics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Device is already pre-selected in schematics.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="244"/>
@@ -10035,12 +10035,12 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="381"/>
         <source>Default footprint.</source>
-        <translation type="unfinished"></translation>
+        <translation>Default footprint.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="488"/>
         <source>Add devices to board</source>
-        <translation type="unfinished"></translation>
+        <translation>Add devices to board</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="434"/>
