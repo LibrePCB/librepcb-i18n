@@ -924,18 +924,18 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="219"/>
+        <location filename="../apps/librepcb/main.cpp" line="182"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="271"/>
-        <source>Cannot open the workspace</source>
+        <location filename="../apps/librepcb/main.cpp" line="183"/>
+        <source>Could not open the workspace &quot;%1&quot;:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="272"/>
-        <source>The workspace &quot;%1&quot; cannot be opened: %2</source>
+        <location filename="../apps/librepcb/main.cpp" line="247"/>
+        <source>This directory is not a valid LibrePCB workspace.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -10392,12 +10392,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>main</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="184"/>
+        <location filename="../apps/librepcb/main.cpp" line="202"/>
         <source>Unstable file format!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="185"/>
+        <location filename="../apps/librepcb/main.cpp" line="203"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation type="unfinished"/>
     </message>
