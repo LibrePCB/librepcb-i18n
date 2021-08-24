@@ -927,17 +927,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="182"/>
+        <location filename="../apps/librepcb/main.cpp" line="191"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="183"/>
+        <location filename="../apps/librepcb/main.cpp" line="192"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="247"/>
+        <location filename="../apps/librepcb/main.cpp" line="256"/>
         <source>This directory is not a valid LibrePCB workspace.</source>
         <translation type="unfinished"/>
     </message>
@@ -10407,12 +10407,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>main</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="202"/>
+        <location filename="../apps/librepcb/main.cpp" line="211"/>
         <source>Unstable file format!</source>
         <translation>不稳定的文件格式！</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="203"/>
+        <location filename="../apps/librepcb/main.cpp" line="212"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;注意：该应用非稳定版！&lt;/b&gt;&lt;/p&gt;&lt;p&gt;只要您使用了此应用，就有可能破坏你的工作区、库或项目！保存的文件也可能无法使用稳定版的LibrePCB打开。非常建议您在进行任何操作前进行备份。如果您自己没把握，请下载官方最新的稳定版本。&lt;/p&gt;&lt;p&gt;更多详情，请阅读LibrePCB的&lt;a href=&quot;%1&quot;&gt;版本控制文档&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;您真的确认继续操作并承担文件损坏的风险吗？！&lt;/p&gt;</translation>
     </message>
