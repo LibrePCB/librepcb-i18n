@@ -2633,28 +2633,28 @@ Workspaces are platform independent, so they can be used across different operat
         <translation>選取工作區目錄：</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="70"/>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="79"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="78"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="87"/>
         <source>Invalid Directory</source>
         <translation>無效的目錄</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="71"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="79"/>
         <source>The selected directory is invalid or not empty.</source>
         <translation>所選擇的目錄無效或非空的。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="80"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="88"/>
         <source>The selected directory is not a valid workspace.</source>
         <translation>所選擇的目錄不是一個有效的工作區。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="110"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="118"/>
         <source>Select Empty Directory</source>
         <translation>選取空目錄</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="117"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="125"/>
         <source>Select Workspace Directory</source>
         <translation>選取工作區目錄</translation>
     </message>

@@ -2626,28 +2626,28 @@ Workspaces are platform independent, so they can be used across different operat
         <translation>选择工作区目录:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="70"/>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="79"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="78"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="87"/>
         <source>Invalid Directory</source>
         <translation>非法路径</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="71"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="79"/>
         <source>The selected directory is invalid or not empty.</source>
         <translation>所选目录无效或不为空。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="80"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="88"/>
         <source>The selected directory is not a valid workspace.</source>
         <translation>所选目录不是有效的工作区。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="110"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="118"/>
         <source>Select Empty Directory</source>
         <translation>选择空目录</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="117"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="125"/>
         <source>Select Workspace Directory</source>
         <translation>选择工作区目录</translation>
     </message>

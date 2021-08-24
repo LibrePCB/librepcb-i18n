@@ -2617,28 +2617,28 @@ Workspaces are platform independent, so they can be used across different operat
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="70"/>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="79"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="78"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="87"/>
         <source>Invalid Directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="71"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="79"/>
         <source>The selected directory is invalid or not empty.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="80"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="88"/>
         <source>The selected directory is not a valid workspace.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="110"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="118"/>
         <source>Select Empty Directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="117"/>
+        <location filename="../apps/librepcb/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="125"/>
         <source>Select Workspace Directory</source>
         <translation type="unfinished"/>
     </message>
