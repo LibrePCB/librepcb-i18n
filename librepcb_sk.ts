@@ -940,12 +940,12 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../apps/librepcb/main.cpp" line="192"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
-        <translation type="unfinished"/>
+        <translation>Nepodarilo sa otvoriť pracovný priestor &quot;%1&quot;:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="256"/>
         <source>This directory is not a valid LibrePCB workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Adresár nie je platný adresár prac. priestoru LibrePCB.</translation>
     </message>
 </context>
 <context>
