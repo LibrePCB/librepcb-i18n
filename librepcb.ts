@@ -7262,17 +7262,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="150"/>
         <source>Check for missing connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Check for missing connections</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="173"/>
         <source>Rebuild planes before running checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Rebuild planes before running checks</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="193"/>
         <source>Select All/None</source>
-        <translation type="unfinished"></translation>
+        <translation>Select All/None</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="98"/>
@@ -7320,17 +7320,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="47"/>
         <source>Zoom to location</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom to location</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="64"/>
         <source>Open DRC Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Open DRC Settings</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="78"/>
         <source>Run DRC</source>
-        <translation type="unfinished">Run DRC</translation>
+        <translation>Run DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.cpp" line="111"/>
