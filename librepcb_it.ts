@@ -2446,13 +2446,13 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="276"/>
         <source>Could not create project</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile creare il progetto</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="303"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="335"/>
         <source>Could not open project</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile aprire il progetto</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="382"/>
@@ -2489,14 +2489,14 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="591"/>
         <source>Close Project</source>
-        <translation type="unfinished"/>
+        <translation>Apri progetto</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="597"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="722"/>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="751"/>
         <source>Remove from favorites</source>
-        <translation type="unfinished"/>
+        <translation>Elimina dai favoriti</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/controlpanel/controlpanel.cpp" line="601"/>
@@ -2684,7 +2684,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.cpp" line="50"/>
         <source>Do not import any data</source>
-        <translation type="unfinished"/>
+        <translation>Non importare alcun dato</translation>
     </message>
 </context>
 <context>
@@ -2781,7 +2781,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="97"/>
         <source>Start Import</source>
-        <translation type="unfinished"/>
+        <translation>Inizia importazione</translation>
     </message>
 </context>
 <context>
@@ -2820,7 +2820,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="94"/>
         <source>Abort.</source>
-        <translation type="unfinished"/>
+        <translation>Annulla</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/projectlibraryupdater/projectlibraryupdater.cpp" line="115"/>
@@ -2930,7 +2930,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="471"/>
         <source>Export PCB fabrication data...</source>
-        <translation type="unfinished"/>
+        <translation>Esporta dati fabbricazione PCB </translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="405"/>
@@ -3205,7 +3205,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/categorylisteditorwidget.ui" line="57"/>
         <source>Remove selected</source>
-        <translation type="unfinished"/>
+        <translation>Elimina selezionato</translation>
     </message>
 </context>
 <context>
@@ -6765,7 +6765,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/settings/cmd/cmdprojectsettingschange.cpp" line="41"/>
         <source>Change Project Settings</source>
-        <translation type="unfinished"/>
+        <translation>Cambia impostazioni di progetto</translation>
     </message>
 </context>
 <context>
@@ -6989,7 +6989,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="87"/>
         <source>The directory &quot;%1&quot; does not contain a LibrePCB project.</source>
-        <translation type="unfinished"/>
+        <translation>La cartella &quot;%1&quot; non contiene un progetto LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/project.cpp" line="93"/>
@@ -7338,12 +7338,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="301"/>
         <source>&amp;Save Project</source>
-        <translation type="unfinished"/>
+        <translation>&amp; Salva Progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="313"/>
         <source>&amp;Close Project</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Chiudi Progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="325"/>
@@ -7458,7 +7458,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="567"/>
         <source>Project Settings</source>
-        <translation type="unfinished"/>
+        <translation>Impostazioni Progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="579"/>
@@ -7568,7 +7568,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="812"/>
         <source>Update Library</source>
-        <translation type="unfinished"/>
+        <translation>Aggiorna libreria</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="824"/>
@@ -9168,7 +9168,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.ui" line="17"/>
         <source>Project Settings</source>
-        <translation type="unfinished"/>
+        <translation>Impostazioni Progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/projectsettingsdialog.ui" line="33"/>
@@ -9368,7 +9368,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="293"/>
         <source>&amp;Save Project</source>
-        <translation type="unfinished"/>
+        <translation>&amp; Salva Progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="305"/>
@@ -9473,7 +9473,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="550"/>
         <source>&amp;Close Project</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Chiudi Progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="562"/>
@@ -9559,7 +9559,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="749"/>
         <source>Update Library</source>
-        <translation type="unfinished"/>
+        <translation>Aggiorna libreria</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="761"/>
