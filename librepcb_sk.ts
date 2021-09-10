@@ -2257,32 +2257,32 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>librepcb::UndoStack</name>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="145"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="188"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="161"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="204"/>
         <source>Another command is active at the moment. Please finish that command to continue.</source>
         <translation>Práve je aktívna iná akcia. Prosím najskôr ju ukončite..</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="171"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="187"/>
         <source>Undo: %1</source>
         <translation>Späť: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="172"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="266"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="343"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="188"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="282"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="359"/>
         <source>Redo</source>
         <translation>Opakovať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="207"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="224"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="247"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="223"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="240"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="263"/>
         <source>No command group active!</source>
         <translation>Nie je aktívna skupina príkazov!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="342"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="358"/>
         <source>Undo</source>
         <translation>Späť</translation>
     </message>
@@ -9188,29 +9188,29 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::project::editor::ProjectEditor</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="184"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="186"/>
         <source>Export project to *.lppz</source>
         <translation>Exportovať projekt do *.lppz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="193"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="195"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="208"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="211"/>
         <source>Error while saving the project</source>
         <translation>Vyskytla sa chyba počas ukladania projektu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="249"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="259"/>
         <source>You have unsaved changes in the project.
 Do you want to save them before closing the project?</source>
         <translation>Posledné zmeny v projekte neboli uložené.
 Želáte si ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="248"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="258"/>
         <source>Save Project?</source>
         <translation>Uložiť projekt?</translation>
     </message>

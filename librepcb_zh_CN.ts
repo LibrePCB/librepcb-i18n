@@ -2251,32 +2251,32 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::UndoStack</name>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="145"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="188"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="161"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="204"/>
         <source>Another command is active at the moment. Please finish that command to continue.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="171"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="187"/>
         <source>Undo: %1</source>
         <translation>撤销： %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="172"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="266"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="343"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="188"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="282"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="359"/>
         <source>Redo</source>
         <translation>重复</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="207"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="224"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="247"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="223"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="240"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="263"/>
         <source>No command group active!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="342"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="358"/>
         <source>Undo</source>
         <translation>撤销</translation>
     </message>
@@ -9148,28 +9148,28 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::editor::ProjectEditor</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="184"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="186"/>
         <source>Export project to *.lppz</source>
         <translation>导出工程到 *.lppz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="193"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="195"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="208"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="211"/>
         <source>Error while saving the project</source>
         <translation>保存工程时出错</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="249"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="259"/>
         <source>You have unsaved changes in the project.
 Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="248"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="258"/>
         <source>Save Project?</source>
         <translation>保存工程?</translation>
     </message>
