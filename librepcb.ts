@@ -2260,32 +2260,32 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::UndoStack</name>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="145"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="188"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="161"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="204"/>
         <source>Another command is active at the moment. Please finish that command to continue.</source>
         <translation>Another command is active at the moment. Please finish that command to continue.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="171"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="187"/>
         <source>Undo: %1</source>
         <translation>Undo: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="172"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="266"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="343"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="188"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="282"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="359"/>
         <source>Redo</source>
         <translation>Redo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="207"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="224"/>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="247"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="223"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="240"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="263"/>
         <source>No command group active!</source>
         <translation>No command group active!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/undostack.cpp" line="342"/>
+        <location filename="../libs/librepcb/common/undostack.cpp" line="358"/>
         <source>Undo</source>
         <translation>Undo</translation>
     </message>
@@ -9201,29 +9201,29 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::editor::ProjectEditor</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="184"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="186"/>
         <source>Export project to *.lppz</source>
         <translation>Export project to *.lppz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="193"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="195"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="208"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="211"/>
         <source>Error while saving the project</source>
         <translation>Error while saving the project</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="249"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="259"/>
         <source>You have unsaved changes in the project.
 Do you want to save them before closing the project?</source>
         <translation>You have unsaved changes in the project.
 Do you want to save them before closing the project?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="248"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="258"/>
         <source>Save Project?</source>
         <translation>Save Project?</translation>
     </message>
