@@ -288,7 +288,7 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="166"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Adresář &quot;%1&quot; se nepodařilo uzamknout, protože už je uzamknut pomocí &quot;%2&quot;. Zavřete aplikaci používající tento adresář a zkuste to znovu.</translation>
     </message>
 </context>
 <context>
@@ -726,12 +726,12 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadclearanceviolation.cpp" line="44"/>
         <source>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Plošky vývodů &apos;%1&apos; a &apos;%2&apos; v &apos;%3&apos; jsou příliš blízko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgpadclearanceviolation.cpp" line="47"/>
         <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
-        <translation type="unfinished"/>
+        <translation>Plošky vývodů by měli být od sebe vzdáleny nejméně %1. V některých případech je potřeba menší vzdálenost, ale pamatujte na to, že ne každý výrobce PCB je schopen takto malou vzdálenost spolehlivě zajistit. Takže je obvykle potřeba se tomu vyhnout.</translation>
     </message>
 </context>
 <context>
@@ -940,12 +940,12 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
     <message>
         <location filename="../apps/librepcb/main.cpp" line="192"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
-        <translation type="unfinished"/>
+        <translation>Nepodařilo se otevřít pracovní prostor &quot;%1&quot;:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="256"/>
         <source>This directory is not a valid LibrePCB workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Tento adresář není adresářem pracovního prostoru LibrePCB.</translation>
     </message>
 </context>
 <context>
@@ -1411,28 +1411,28 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="14"/>
         <source>Directory is locked</source>
-        <translation type="unfinished"/>
+        <translation>Adresář je uzamknut</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="35"/>
         <source>Could not open the directory &quot;%1&quot; because it is already opened by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
         <extracomment>%2 is something like &quot;sername@computername&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Adresář &quot;%1&quot; se nepodařilo otevřít, protože už je otevřen pomocí &quot;%2&quot;. Zavřete aplikaci používající tento adresář a zkuste to znovu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.ui" line="52"/>
         <source>If you&apos;re absolutely sure that the directory is not accessed by any other application instance anymore, you could discard the current lock and open this directory anyway. But if the directory is still accessed by another application instance, this could lead in corrupt files, so use this option very carefully!</source>
-        <translation type="unfinished"/>
+        <translation>Pokud si jste opravdu jistý, že tento adresář není používán jinou instancí tohoto programu, můžete vyřadit toto uzamknutí a otevřít tento adresář znovu. V případe, že adresář je stále používán jinou instancí tohoto programu a uzamknutí vyřadíte, může dojít k poškození souborů. Proto buďte opatrní!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="50"/>
         <source>I accept the risk.</source>
-        <translation type="unfinished"/>
+        <translation>Přijímám nebezpečí.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/directorylockhandlerdialog.cpp" line="55"/>
         <source>Open anyway</source>
-        <translation type="unfinished"/>
+        <translation>Přesto otevřít</translation>
     </message>
 </context>
 <context>
@@ -3580,12 +3580,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="183"/>
         <source>If checked, the signal needs to be connected in schematics, otherwise an ERC error is raised.</source>
-        <translation type="unfinished"/>
+        <translation>Pokud je možnost zašktrnuta, signál musí být ve schématu pripojen a v případe nepřipojení bude hlášena ERC chyba.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="186"/>
         <source>If unchecked, it&apos;s allowed to leave the signal unconnected in schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Pokud možnost není zašktrnuta, signál nemusí být ve schématu připojen.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/cmp/componentsignallistmodel.cpp" line="225"/>
@@ -7218,17 +7218,17 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="150"/>
         <source>Check for missing connections</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola chybějících spojení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="173"/>
         <source>Rebuild planes before running checks</source>
-        <translation type="unfinished"/>
+        <translation>Před spuštěním kontrol přestavit</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="193"/>
         <source>Select All/None</source>
-        <translation type="unfinished"/>
+        <translation>Vybrat vše/Nevybrat nic</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="98"/>
@@ -7276,12 +7276,12 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="47"/>
         <source>Zoom to location</source>
-        <translation type="unfinished"/>
+        <translation>Přiblížit na místo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="64"/>
         <source>Open DRC Settings</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít nastavení DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="78"/>
@@ -8400,12 +8400,12 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="178"/>
         <source>All devices of the selected board are in sync with their pre-selected devices in the schematic.</source>
-        <translation type="unfinished"/>
+        <translation>Všechny součástky zvolené desky jsou synchronizovány s ve schématu předvolenými součástkami.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/bomgeneratordialog.cpp" line="186"/>
         <source>Devices are not exported because no board is selected.</source>
-        <translation type="unfinished"/>
+        <translation>Součástky nebyly vyvedeny, protože nebyla vybrána deska plošných spojů.</translation>
     </message>
 </context>
 <context>
@@ -9998,12 +9998,12 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="148"/>
         <source>Add all components with pre-selected device to the board.</source>
-        <translation type="unfinished"/>
+        <translation>Přidat na desku všechny komponenty předvolené součástky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="151"/>
         <source>Add Pre-Selected</source>
-        <translation type="unfinished"/>
+        <translation>Přidat předvolené</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="158"/>
@@ -10018,7 +10018,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="219"/>
         <source>Designator</source>
-        <translation type="unfinished"/>
+        <translation>Označení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="220"/>
@@ -10033,7 +10033,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="223"/>
         <source>Device is already pre-selected in schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Součástka je už předvolena v schématu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="244"/>
@@ -10043,12 +10043,12 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="381"/>
         <source>Default footprint.</source>
-        <translation type="unfinished"/>
+        <translation>Výchozí pouzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="488"/>
         <source>Add devices to board</source>
-        <translation type="unfinished"/>
+        <translation>Přidat součástky na desku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="434"/>
