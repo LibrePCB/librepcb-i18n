@@ -6,7 +6,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributekey.h" line="55"/>
         <source>Invalid attribute key: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid attribute key: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -60,7 +60,7 @@
     <message>
         <location filename="../libs/librepcb/common/circuitidentifier.h" line="59"/>
         <source>Invalid identifier: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid identifier: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -98,22 +98,22 @@
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="98"/>
         <source>None (no text)</source>
-        <translation type="unfinished"></translation>
+        <translation>None (no text)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="104"/>
         <source>Symbol pin name</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol pin name</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="110"/>
         <source>Component signal name</source>
-        <translation type="unfinished"></translation>
+        <translation>Component signal name</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="116"/>
         <source>Schematic net name</source>
-        <translation type="unfinished"></translation>
+        <translation>Schematic net name</translation>
     </message>
 </context>
 <context>
@@ -318,7 +318,7 @@
     <message>
         <location filename="../libs/librepcb/library/cmp/componentprefix.h" line="49"/>
         <source>Invalid component prefix: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid component prefix: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -326,7 +326,7 @@
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemsuffix.h" line="48"/>
         <source>Invalid component symbol suffix: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid component symbol suffix: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -353,12 +353,12 @@
     <message>
         <location filename="../libs/librepcb/common/import/dxfreader.cpp" line="187"/>
         <source>File does not exist or is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>File does not exist or is not readable.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/import/dxfreader.cpp" line="193"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to read DXF file &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -366,7 +366,7 @@
     <message>
         <location filename="../libs/librepcb/common/elementname.h" line="60"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid name: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -442,7 +442,7 @@
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayername.h" line="48"/>
         <source>Not a valid graphics layer name: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Not a valid graphics layer name: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -458,7 +458,7 @@
     <message>
         <location filename="../libs/librepcb/common/alignment.h" line="102"/>
         <source>Invalid horizontal alignment: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid horizontal alignment: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -466,12 +466,12 @@
     <message>
         <location filename="../libs/librepcb/common/units/length.h" line="654"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"></translation>
+        <translation>Value must be &gt;= 0!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/length.h" line="774"/>
         <source>Value must be &gt; 0!</source>
-        <translation type="unfinished"></translation>
+        <translation>Value must be &gt; 0!</translation>
     </message>
 </context>
 <context>
@@ -899,7 +899,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/units/ratio.h" line="311"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"></translation>
+        <translation>Value must be &gt;= 0!</translation>
     </message>
 </context>
 <context>
@@ -932,32 +932,32 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="266"/>
         <source>Not a valid boolean.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not a valid boolean.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="278"/>
         <source>Not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not a valid integer.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="290"/>
         <source>Not a valid unsigned integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not a valid unsigned integer.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="303"/>
         <source>Not a valid datetime.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not a valid datetime.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="314"/>
         <source>Not a valid color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not a valid color.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="324"/>
         <source>Not a valid URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not a valid URL.</translation>
     </message>
 </context>
 <context>
@@ -965,12 +965,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/serializablekeyvaluemap.h" line="91"/>
         <source>Key &quot;%1&quot; defined multiple times.</source>
-        <translation type="unfinished"></translation>
+        <translation>Key &quot;%1&quot; defined multiple times.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/serializablekeyvaluemap.h" line="99"/>
         <source>No default %1 defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>No default %1 defined.</translation>
     </message>
 </context>
 <context>
@@ -978,12 +978,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/serializableobjectlist.h" line="458"/>
         <source>There is no element of type &quot;%1&quot; with the UUID &quot;%2&quot; in the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>There is no element of type &quot;%1&quot; with the UUID &quot;%2&quot; in the list.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/serializableobjectlist.h" line="467"/>
         <source>There is no element of type &quot;%1&quot; with the name &quot;%2&quot; in the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>There is no element of type &quot;%1&quot; with the name &quot;%2&quot; in the list.</translation>
     </message>
 </context>
 <context>
@@ -991,37 +991,37 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="87"/>
         <source>Passive</source>
-        <translation type="unfinished"></translation>
+        <translation>Passive</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="93"/>
         <source>Power</source>
-        <translation type="unfinished">Power</translation>
+        <translation>Power</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="99"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Input</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="105"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Output</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="111"/>
         <source>I/O</source>
-        <translation type="unfinished"></translation>
+        <translation>I/O</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="117"/>
         <source>Open Drain</source>
-        <translation type="unfinished"></translation>
+        <translation>Open Drain</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="149"/>
         <source>Invalid signal role: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid signal role: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -1077,7 +1077,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/toolbox.h" line="537"/>
         <source>Invalid fixed point number string: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid fixed point number string: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -1093,7 +1093,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/alignment.h" line="173"/>
         <source>Invalid vertical alignment: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid vertical alignment: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -1185,7 +1185,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.cpp" line="154"/>
         <source>Choose file</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose file</translation>
     </message>
 </context>
 <context>
@@ -1574,7 +1574,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/cmd/cmdlistelementinsert.h" line="52"/>
         <source>Add %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Add %1</translation>
     </message>
 </context>
 <context>
@@ -1582,7 +1582,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/cmd/cmdlistelementremove.h" line="51"/>
         <source>Remove %1</source>
-        <translation type="unfinished">Remove %1</translation>
+        <translation>Remove %1</translation>
     </message>
 </context>
 <context>
@@ -1590,7 +1590,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/cmd/cmdlistelementsswap.h" line="51"/>
         <source>Move %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Move %1</translation>
     </message>
 </context>
 <context>
@@ -1651,80 +1651,83 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="14"/>
         <source>DXF Import</source>
-        <translation type="unfinished"></translation>
+        <translation>DXF Import</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="22"/>
         <source>Layer:</source>
-        <translation type="unfinished">Layer:</translation>
+        <translation>Layer:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="29"/>
         <source>The layer to set on the imported objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>The layer to set on the imported objects.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="36"/>
         <source>If checked, circles will be imported as drills.
 If unchecked (the default), circles will be imported as polygons.</source>
-        <translation type="unfinished"></translation>
+        <translation>If checked, circles will be imported as drills.
+If unchecked (the default), circles will be imported as polygons.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="40"/>
         <source>Import circles as drills</source>
-        <translation type="unfinished"></translation>
+        <translation>Import circles as drills</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="47"/>
         <source>Line width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Line width:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="54"/>
         <source>The line width to set on the imported objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>The line width to set on the imported objects.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="61"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Scale factor:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="68"/>
         <source>Position:</source>
-        <translation type="unfinished">Position:</translation>
+        <translation>Position:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="75"/>
         <source>If checked (the default), you can interactively place the imported objects by cursor.
 If unchecked, you need to specify exact coordinates where the point (0,0) of the DXF will be located.</source>
-        <translation type="unfinished"></translation>
+        <translation>If checked (the default), you can interactively place the imported objects by cursor.
+If unchecked, you need to specify exact coordinates where the point (0,0) of the DXF will be located.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="79"/>
         <source>Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Interactive</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="88"/>
         <source>X-coordinate.</source>
-        <translation type="unfinished"></translation>
+        <translation>X-coordinate.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="95"/>
         <source>Y-coordinate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Y-coordinate.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="104"/>
         <source>Additional scale factor, in case the DXF is not scaled properly.
 Note: If you have issues with scaling, make sure to configure the measuring unit of the DXF in your MCAD.</source>
-        <translation type="unfinished"></translation>
+        <translation>Additional scale factor, in case the DXF is not scaled properly.
+Note: If you have issues with scaling, make sure to configure the measuring unit of the DXF in your MCAD.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.cpp" line="165"/>
         <source>The selected file does not contain any objects to import.</source>
-        <translation type="unfinished"></translation>
+        <translation>The selected file does not contain any objects to import.</translation>
     </message>
 </context>
 <context>
@@ -1733,27 +1736,27 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
         <location filename="../libs/librepcb/common/model/editablelistmodel.h" line="134"/>
         <location filename="../libs/librepcb/common/model/editablelistmodel.h" line="139"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/model/editablelistmodel.h" line="134"/>
         <source>Invalid value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid value.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/model/editablelistmodel.h" line="140"/>
         <source>Value already contained in list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Value already contained in list.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/model/editablelistmodel.h" line="251"/>
         <source>Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Item</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/model/editablelistmodel.h" line="259"/>
         <source>New:</source>
-        <translation type="unfinished">New:</translation>
+        <translation>New:</translation>
     </message>
 </context>
 <context>
@@ -4562,7 +4565,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="48"/>
         <source>This is a remote library and thus opened in read-only mode. Use a local library to manage your own library elements. To override remote library elements, copy them to a local library and set a higher version number.</source>
-        <translation type="unfinished"></translation>
+        <translation>This is a remote library and thus opened in read-only mode. Use a local library to manage your own library elements. To override remote library elements, copy them to a local library and set a higher version number.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="339"/>
@@ -4652,7 +4655,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="726"/>
         <source>Import DXF</source>
-        <translation type="unfinished"></translation>
+        <translation>Import DXF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="519"/>
@@ -4911,7 +4914,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="401"/>
         <source>Open</source>
-        <translation type="unfinished">Open</translation>
+        <translation>Open</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="404"/>
@@ -8051,7 +8054,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="930"/>
         <source>Import DXF</source>
-        <translation type="unfinished"></translation>
+        <translation>Import DXF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="106"/>
@@ -8880,18 +8883,18 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="62"/>
         <source>Combine Schematic Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Combine Schematic Items</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="136"/>
         <source>There are multiple different nets with forced names at this position.</source>
-        <translation type="unfinished"></translation>
+        <translation>There are multiple different nets with forced names at this position.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="199"/>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="203"/>
         <source>Sorry, not yet implemented...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, not yet implemented...</translation>
     </message>
 </context>
 <context>
