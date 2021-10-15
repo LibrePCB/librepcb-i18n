@@ -4,7 +4,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributekey.h" line="55"/>
         <source>Invalid attribute key: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nesprávny kľúč atribútu: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -58,7 +58,7 @@
     <message>
         <location filename="../libs/librepcb/common/circuitidentifier.h" line="59"/>
         <source>Invalid identifier: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nesprávny identifikátor: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -96,22 +96,22 @@
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="98"/>
         <source>None (no text)</source>
-        <translation type="unfinished"/>
+        <translation>Prázdne (bez textu)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="104"/>
         <source>Symbol pin name</source>
-        <translation type="unfinished"/>
+        <translation>Názov vývodu sch. značky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="110"/>
         <source>Component signal name</source>
-        <translation type="unfinished"/>
+        <translation>Názov signálu komponentu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="116"/>
         <source>Schematic net name</source>
-        <translation type="unfinished"/>
+        <translation>Názov schematického spoja</translation>
     </message>
 </context>
 <context>
@@ -316,7 +316,7 @@
     <message>
         <location filename="../libs/librepcb/library/cmp/componentprefix.h" line="49"/>
         <source>Invalid component prefix: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný prefix komponentu: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -324,7 +324,7 @@
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemsuffix.h" line="48"/>
         <source>Invalid component symbol suffix: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný sufix sch. značky komponentu: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -351,12 +351,12 @@
     <message>
         <location filename="../libs/librepcb/common/import/dxfreader.cpp" line="187"/>
         <source>File does not exist or is not readable.</source>
-        <translation type="unfinished"/>
+        <translation>Súbor neexistuje, alebo nie je čitateľný.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/import/dxfreader.cpp" line="193"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Nepodarilo sa načítať súbor DXF &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -364,7 +364,7 @@
     <message>
         <location filename="../libs/librepcb/common/elementname.h" line="60"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný názov: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -440,7 +440,7 @@
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayername.h" line="48"/>
         <source>Not a valid graphics layer name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný názov grafickej vrstvy: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -456,7 +456,7 @@
     <message>
         <location filename="../libs/librepcb/common/alignment.h" line="102"/>
         <source>Invalid horizontal alignment: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné horizontálne zarovnanie: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -464,12 +464,12 @@
     <message>
         <location filename="../libs/librepcb/common/units/length.h" line="654"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"/>
+        <translation>Hodnota musí byť &gt;= 0!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/length.h" line="774"/>
         <source>Value must be &gt; 0!</source>
-        <translation type="unfinished"/>
+        <translation>Hodnota musí byť &gt; 0!</translation>
     </message>
 </context>
 <context>
@@ -896,7 +896,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/units/ratio.h" line="311"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"/>
+        <translation>Hodnota musí byť &gt;= 0!</translation>
     </message>
 </context>
 <context>
@@ -929,32 +929,32 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="266"/>
         <source>Not a valid boolean.</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná logická hodnota.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="278"/>
         <source>Not a valid integer.</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná číselná hodnota typu integer.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="290"/>
         <source>Not a valid unsigned integer.</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná číselná hodnota typu unsigned integer.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="303"/>
         <source>Not a valid datetime.</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná hodnota typu datetime.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="314"/>
         <source>Not a valid color.</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná hodnota typu color.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="324"/>
         <source>Not a valid URL.</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná URL adresa.</translation>
     </message>
 </context>
 <context>
@@ -962,12 +962,12 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/fileio/serializablekeyvaluemap.h" line="91"/>
         <source>Key &quot;%1&quot; defined multiple times.</source>
-        <translation type="unfinished"/>
+        <translation>Kľúč &quot;%1&quot; je definovaný viacnásobne.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/serializablekeyvaluemap.h" line="99"/>
         <source>No default %1 defined.</source>
-        <translation type="unfinished"/>
+        <translation>Predvolená hodnota %1 nie je definovaná.</translation>
     </message>
 </context>
 <context>
@@ -975,12 +975,12 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/fileio/serializableobjectlist.h" line="458"/>
         <source>There is no element of type &quot;%1&quot; with the UUID &quot;%2&quot; in the list.</source>
-        <translation type="unfinished"/>
+        <translation>Element typu &quot;%1&quot; s UUID &quot;%2&quot; sa nenachádza v zozname.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/serializableobjectlist.h" line="467"/>
         <source>There is no element of type &quot;%1&quot; with the name &quot;%2&quot; in the list.</source>
-        <translation type="unfinished"/>
+        <translation>Element typu &quot;%1&quot; s názvom &quot;%2&quot; sa nenachádza v zozname.</translation>
     </message>
 </context>
 <context>
@@ -988,7 +988,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="87"/>
         <source>Passive</source>
-        <translation type="unfinished"/>
+        <translation>Pasívny</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="93"/>
@@ -998,22 +998,22 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="99"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Vstup</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="105"/>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Výstup</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="111"/>
         <source>I/O</source>
-        <translation type="unfinished"/>
+        <translation>I/O</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="117"/>
         <source>Open Drain</source>
-        <translation type="unfinished"/>
+        <translation>Otvorený kolektor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="149"/>
