@@ -1090,7 +1090,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/alignment.h" line="173"/>
         <source>Invalid vertical alignment: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné vertikálne zarovnanie: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -1182,7 +1182,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.cpp" line="154"/>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť súbor</translation>
     </message>
 </context>
 <context>
@@ -1571,7 +1571,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/fileio/cmd/cmdlistelementinsert.h" line="52"/>
         <source>Add %1</source>
-        <translation type="unfinished"/>
+        <translation>Pridať %1</translation>
     </message>
 </context>
 <context>
@@ -1587,7 +1587,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/fileio/cmd/cmdlistelementsswap.h" line="51"/>
         <source>Move %1</source>
-        <translation type="unfinished"/>
+        <translation>Presunúť %1</translation>
     </message>
 </context>
 <context>
@@ -1648,7 +1648,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="14"/>
         <source>DXF Import</source>
-        <translation type="unfinished"/>
+        <translation>DXF Import</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="22"/>
@@ -1669,7 +1669,7 @@ If unchecked (the default), circles will be imported as polygons.</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="40"/>
         <source>Import circles as drills</source>
-        <translation type="unfinished"/>
+        <translation>Importovať kružnice ako otvory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="47"/>
@@ -1705,12 +1705,12 @@ If unchecked, you need to specify exact coordinates where the point (0,0) of the
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="88"/>
         <source>X-coordinate.</source>
-        <translation type="unfinished"/>
+        <translation>Súradnica X.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="95"/>
         <source>Y-coordinate.</source>
-        <translation type="unfinished"/>
+        <translation>Súradnica Y.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="104"/>
@@ -1735,7 +1735,7 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
     <message>
         <location filename="../libs/librepcb/common/model/editablelistmodel.h" line="134"/>
         <source>Invalid value.</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná hodnota.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/model/editablelistmodel.h" line="140"/>
@@ -1745,7 +1745,7 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
     <message>
         <location filename="../libs/librepcb/common/model/editablelistmodel.h" line="251"/>
         <source>Item</source>
-        <translation type="unfinished"/>
+        <translation>Položka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/model/editablelistmodel.h" line="259"/>
@@ -4649,7 +4649,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="726"/>
         <source>Import DXF</source>
-        <translation type="unfinished"/>
+        <translation>Import DXF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="519"/>
@@ -4923,7 +4923,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="413"/>
         <source>Copy to other library</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovať do inej knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="415"/>
@@ -4982,7 +4982,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="582"/>
         <source>Copy %1 elements</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovanie %1 elementov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="651"/>
@@ -8007,7 +8007,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="930"/>
         <source>Import DXF</source>
-        <translation type="unfinished"/>
+        <translation>Import DXF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="106"/>
