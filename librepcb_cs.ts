@@ -1254,17 +1254,17 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
         <translation>Kopírovat do schránky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="62"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="64"/>
         <source>For more information, please check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
         <translation>Další informace najdete na &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; , nebo v našem &lt;a href=&apos;%2&apos;&gt;úložišti na GitHub&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="67"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="69"/>
         <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal or Bitcoin. Check out &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; for details.</source>
         <translation>Podpořit vývoj LibrePCB pomocí finančního daru pomocí služby Patreon, PayPal nebo kryptoměnou Bitcoin. Navštivte &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; pro více informací.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="72"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="74"/>
         <source>Check out our &lt;a href=&apos;%1&apos;&gt;Contribution Guidelines&lt;/a&gt; if you&apos;re interested in development of LibrePCB!</source>
         <translation>Podívejte se na &lt;a href=&apos;%1&apos;&gt;pokyny pro přispěvatele&lt;/a&gt;, pokud máte zájem podílet se na vývoji LibrePCB!</translation>
     </message>

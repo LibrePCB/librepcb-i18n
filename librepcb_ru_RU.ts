@@ -1249,17 +1249,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation>Скопировать в буфер обмена</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="62"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="64"/>
         <source>For more information, please check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
         <translation>Подробнее можно узнать на &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; или &lt;a href=&apos;%2&apos;&gt;в репозитории на GitHub&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="67"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="69"/>
         <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal or Bitcoin. Check out &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; for details.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="72"/>
+        <location filename="../libs/librepcb/common/dialogs/aboutdialog.cpp" line="74"/>
         <source>Check out our &lt;a href=&apos;%1&apos;&gt;Contribution Guidelines&lt;/a&gt; if you&apos;re interested in development of LibrePCB!</source>
         <translation>Если вы заинтересованы в разработке LibrePCB, изучите наше &lt;a href=&apos;%1&apos;&gt;Руководство участникам&lt;/a&gt;!</translation>
     </message>
