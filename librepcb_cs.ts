@@ -4,7 +4,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributekey.h" line="55"/>
         <source>Invalid attribute key: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nesprávný klíč atributu: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -96,7 +96,7 @@
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="98"/>
         <source>None (no text)</source>
-        <translation type="unfinished"/>
+        <translation>Prázdn0 (bez textu)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="104"/>

@@ -1664,7 +1664,8 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="36"/>
         <source>If checked, circles will be imported as drills.
 If unchecked (the default), circles will be imported as polygons.</source>
-        <translation type="unfinished"/>
+        <translation>Ak je možnosť zaškrtnutá, kružnice budú importované ako otvory.
+Inak (východzia hodnota), budú kružnice importované ako polygóny.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="40"/>
@@ -1674,17 +1675,17 @@ If unchecked (the default), circles will be imported as polygons.</source>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="47"/>
         <source>Line width:</source>
-        <translation type="unfinished"/>
+        <translation>Šírka čiary:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="54"/>
         <source>The line width to set on the imported objects.</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenie šírky čiary importovaných objektov.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="61"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"/>
+        <translation>Koeficient mierky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="68"/>
@@ -1695,12 +1696,13 @@ If unchecked (the default), circles will be imported as polygons.</source>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="75"/>
         <source>If checked (the default), you can interactively place the imported objects by cursor.
 If unchecked, you need to specify exact coordinates where the point (0,0) of the DXF will be located.</source>
-        <translation type="unfinished"/>
+        <translation>Ak je možnosť zaškrtnutá (predvolené), je možné interaktívne umiestňovať importované objekty pomocou kurzoru.
+Inak je potrebné presne špecifikovať súradnice kde bude nulový bod (0,0) DXF umiestnený.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="79"/>
         <source>Interactive</source>
-        <translation type="unfinished"/>
+        <translation>Interaktívne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="88"/>
@@ -1716,12 +1718,13 @@ If unchecked, you need to specify exact coordinates where the point (0,0) of the
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="104"/>
         <source>Additional scale factor, in case the DXF is not scaled properly.
 Note: If you have issues with scaling, make sure to configure the measuring unit of the DXF in your MCAD.</source>
-        <translation type="unfinished"/>
+        <translation>Doplnkový koeficient mierky v prípade, že DXF nie je v správnej mierke.
+Poznámka: Ak máte problémy s mierkou, skontrolujte rozmerové jednotky DXF vo Vašom MCAD programe.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.cpp" line="165"/>
         <source>The selected file does not contain any objects to import.</source>
-        <translation type="unfinished"/>
+        <translation>Zvolený súbor neobsahuje žiadne objekty pre import.</translation>
     </message>
 </context>
 <context>
@@ -1740,7 +1743,7 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
     <message>
         <location filename="../libs/librepcb/common/model/editablelistmodel.h" line="140"/>
         <source>Value already contained in list.</source>
-        <translation type="unfinished"/>
+        <translation>Hodnota už existuje v zozname.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/model/editablelistmodel.h" line="251"/>
@@ -4559,7 +4562,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="48"/>
         <source>This is a remote library and thus opened in read-only mode. Use a local library to manage your own library elements. To override remote library elements, copy them to a local library and set a higher version number.</source>
-        <translation type="unfinished"/>
+        <translation>Toto je vzdialená knižnica a preto sa otvára v režime len na čítanie. Použite lokálnu knižnicu pre spravovanie vlastných prvkov knižnice. Ak chcete prepísať prvky vzdialenej knižnice, skopírujte ich do lokálnej knižnice a zvýšte číslo verzie.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="339"/>
@@ -4967,7 +4970,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="568"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Naozaj chcete skopírovať nasledujúce elementy do knižnice &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/lib/libraryoverviewwidget.cpp" line="578"/>
@@ -7563,17 +7566,17 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="150"/>
         <source>Check for missing connections</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola chýbajúcich prepojení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="173"/>
         <source>Rebuild planes before running checks</source>
-        <translation type="unfinished"/>
+        <translation>Obnovte vyplnené plochy pred spustením kontrol</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="193"/>
         <source>Select All/None</source>
-        <translation type="unfinished"/>
+        <translation>Vybrať všetko/nič</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckdialog.ui" line="98"/>
@@ -7621,12 +7624,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="47"/>
         <source>Zoom to location</source>
-        <translation type="unfinished"/>
+        <translation>Priblížiť lokalitu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="64"/>
         <source>Open DRC Settings</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť nastavenie DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boarddesignrulecheckmessagesdock.ui" line="78"/>
@@ -8829,18 +8832,18 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="62"/>
         <source>Combine Schematic Items</source>
-        <translation type="unfinished"/>
+        <translation>Skombinovať položky schémy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="136"/>
         <source>There are multiple different nets with forced names at this position.</source>
-        <translation type="unfinished"/>
+        <translation>Na tejto pozícii je niekoľko rôznych signálov s manuálne nastavenými názvami. </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="199"/>
         <location filename="../libs/librepcb/projecteditor/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="203"/>
         <source>Sorry, not yet implemented...</source>
-        <translation type="unfinished"/>
+        <translation>Prepáčte, no toto nie je zatiaľ implementované...</translation>
     </message>
 </context>
 <context>
