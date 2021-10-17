@@ -1018,7 +1018,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/signalrole.h" line="149"/>
         <source>Invalid signal role: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná funkcia signálu: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -1074,7 +1074,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/toolbox.h" line="537"/>
         <source>Invalid fixed point number string: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný celočíselný reťazec: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -1658,7 +1658,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="29"/>
         <source>The layer to set on the imported objects.</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenie vrstvy pre importované objekty.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="36"/>
