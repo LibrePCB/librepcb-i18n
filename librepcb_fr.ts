@@ -2546,17 +2546,17 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="267"/>
+        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="268"/>
         <source>Failed to create the ZIP file &apos;%1&apos;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="429"/>
+        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="433"/>
         <source>Failed to write file &apos;%1&apos; to &apos;%2&apos;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="441"/>
+        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="445"/>
         <source>File system is read-only.</source>
         <translation type="unfinished"/>
     </message>
@@ -9485,28 +9485,28 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::project::editor::ProjectEditor</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="186"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="187"/>
         <source>Export project to *.lppz</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="195"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="217"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="211"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="233"/>
         <source>Error while saving the project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="259"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="281"/>
         <source>You have unsaved changes in the project.
 Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="258"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="280"/>
         <source>Save Project?</source>
         <translation type="unfinished"/>
     </message>

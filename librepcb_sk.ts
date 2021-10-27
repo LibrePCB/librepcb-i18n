@@ -2560,17 +2560,17 @@ Poznámka: Ak máte problémy s mierkou, skontrolujte rozmerové jednotky DXF vo
         <translation>Chyba pri vytváraní ZIP súboru.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="267"/>
+        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="268"/>
         <source>Failed to create the ZIP file &apos;%1&apos;.</source>
         <translation>Chyba pri vytváraní ZIP súboru &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="429"/>
+        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="433"/>
         <source>Failed to write file &apos;%1&apos; to &apos;%2&apos;.</source>
         <translation>Chyba pri zápise súboru &apos;%1&apos; do &apos;%2&apos;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="441"/>
+        <location filename="../libs/librepcb/common/fileio/transactionalfilesystem.cpp" line="445"/>
         <source>File system is read-only.</source>
         <translation>Súborový systém nie je zapisovateľný.</translation>
     </message>
@@ -9537,29 +9537,29 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::project::editor::ProjectEditor</name>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="186"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="187"/>
         <source>Export project to *.lppz</source>
         <translation>Exportovať projekt do *.lppz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="195"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="217"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="211"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="233"/>
         <source>Error while saving the project</source>
         <translation>Vyskytla sa chyba počas ukladania projektu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="259"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="281"/>
         <source>You have unsaved changes in the project.
 Do you want to save them before closing the project?</source>
         <translation>Posledné zmeny v projekte neboli uložené.
 Želáte si ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="258"/>
+        <location filename="../libs/librepcb/projecteditor/projecteditor.cpp" line="280"/>
         <source>Save Project?</source>
         <translation>Uložiť projekt?</translation>
     </message>
