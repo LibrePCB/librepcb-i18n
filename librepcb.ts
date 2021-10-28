@@ -1191,7 +1191,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <location filename="../libs/librepcb/common/network/orderpcbapirequest.cpp" line="85"/>
         <source>The project is too large (%1). If you manually added files to the project directory, you might need to move them out of the project directory.</source>
         <comment>Placeholder is the file size.</comment>
-        <translation type="unfinished"></translation>
+        <translation>The project is too large (%1). If you manually added files to the project directory, you might need to move them out of the project directory.</translation>
     </message>
 </context>
 <context>
@@ -2253,7 +2253,7 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="184"/>
         <source>Send data: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Send data: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="238"/>
@@ -2296,7 +2296,7 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
     <message>
         <location filename="../libs/librepcb/common/network/orderpcbapirequest.cpp" line="138"/>
         <source>This service is currently not available. Please try again later or order the PCB manually either with the Gerber export or the *.lppz export.</source>
-        <translation type="unfinished"></translation>
+        <translation>This service is currently not available. Please try again later or order the PCB manually either with the Gerber export or the *.lppz export.</translation>
     </message>
 </context>
 <context>
@@ -8036,7 +8036,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="942"/>
         <source>Order PCB</source>
-        <translation type="unfinished"></translation>
+        <translation>Order PCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="106"/>
@@ -9533,70 +9533,70 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="14"/>
         <source>Order PCB</source>
-        <translation type="unfinished"></translation>
+        <translation>Order PCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="43"/>
         <source>Note: This is a preview feature and still in development. Any feedback is very welcome in our %1.</source>
         <extracomment>Placeholder is a hyperlink with the text &apos;discussion forum&apos;.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Note: This is a preview feature and still in development. Any feedback is very welcome in our %1.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="71"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. Just click on the upload button below to get started. This will export the project directory to a *.lppz archive and upload it to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>This tool helps you to quickly and easily get your designed PCB manufactured. Just click on the upload button below to get started. This will export the project directory to a *.lppz archive and upload it to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="87"/>
         <source>For more information about how the uploaded project gets processed, see %1.</source>
         <extracomment>Placeholder is an URL with hyperlink.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>For more information about how the uploaded project gets processed, see %1.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="103"/>
         <source>After upload, open web browser and close this dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>After upload, open web browser and close this dialog</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="113"/>
         <source>Upload Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Upload Project</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="166"/>
         <source>Checking availability...</source>
-        <translation type="unfinished"></translation>
+        <translation>Checking availability...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="63"/>
         <source>discussion forum</source>
-        <translation type="unfinished"></translation>
+        <translation>discussion forum</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="88"/>
         <source>This feature is not available because there is no API server configured in your workspace settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>This feature is not available because there is no API server configured in your workspace settings.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="139"/>
         <source>Exporting project...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporting project...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="159"/>
         <source>Uploading project...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uploading project...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="186"/>
         <source>Success! Open %1 to continue.</source>
         <comment>Placeholder is an URL with hyperlink.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Success! Open %1 to continue.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="195"/>
         <source>Success! Opening %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Success! Opening %1...</translation>
     </message>
 </context>
 <context>
@@ -10105,7 +10105,7 @@ Do you want to save them before closing the project?</translation>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="823"/>
         <source>Order PCB</source>
-        <translation type="unfinished"></translation>
+        <translation>Order PCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="213"/>
