@@ -5560,17 +5560,17 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="262"/>
         <source>Note that each pad can only be added once.</source>
-        <translation type="unfinished"></translation>
+        <translation>Note that each pad can only be added once.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="267"/>
         <source>No package pad selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No package pad selected.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="273"/>
         <source>The pad &quot;%1&quot; has been added already.</source>
-        <translation type="unfinished"></translation>
+        <translation>The pad &quot;%1&quot; has been added already.</translation>
     </message>
 </context>
 <context>
