@@ -4451,12 +4451,7 @@ p, li { white-space: pre-wrap; }
         <translation>Rotation:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.cpp" line="68"/>
-        <source>(not connected)</source>
-        <translation>(not connected)</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.cpp" line="208"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/dialogs/footprintpadpropertiesdialog.cpp" line="207"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -5551,16 +5546,31 @@ Are you still sure to delete the following library elements?</translation>
         <translation>Drill Diameter:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="234"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="236"/>
         <source>Add footprint pad</source>
         <translation>Add footprint pad</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="248"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="268"/>
-        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="283"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="250"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="289"/>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="304"/>
         <source>Error</source>
         <translation>Error</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="262"/>
+        <source>Note that each pad can only be added once.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="267"/>
+        <source>No package pad selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/pkg/fsm/packageeditorstate_addpads.cpp" line="273"/>
+        <source>The pad &quot;%1&quot; has been added already.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5815,14 +5825,6 @@ Are you still sure to delete the following library elements?</translation>
         <location filename="../libs/librepcb/libraryeditor/pkg/packageeditorwidget.cpp" line="326"/>
         <source>Edit package metadata</source>
         <translation>Edit package metadata</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::library::editor::PackagePadComboBox</name>
-    <message>
-        <location filename="../libs/librepcb/libraryeditor/pkg/widgets/packagepadcombobox.cpp" line="109"/>
-        <source>(unconnected)</source>
-        <translation>(unconnected)</translation>
     </message>
 </context>
 <context>
