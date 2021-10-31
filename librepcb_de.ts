@@ -2877,7 +2877,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/firstrunwizard/firstrunwizard.ui" line="17"/>
         <source>Choose LibrePCB Workspace</source>
-        <translation>LibrePCB Arbeitzplatz auswählen</translation>
+        <translation>LibrePCB Arbeitsplatz auswählen</translation>
     </message>
 </context>
 <context>
@@ -3026,7 +3026,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="17"/>
         <source>Choose workspace settings</source>
-        <translation>Arbeitzplatz Einstellungen auswählen</translation>
+        <translation>Arbeitsplatz Einstellungen auswählen</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="20"/>
