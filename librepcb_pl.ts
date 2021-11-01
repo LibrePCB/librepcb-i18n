@@ -4452,92 +4452,92 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="84"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="87"/>
         <source>&amp;File</source>
         <translation>&amp;Plik</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="98"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="101"/>
         <source>&amp;Edit</source>
         <translation>&amp;Edycja</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="116"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="119"/>
         <source>&amp;Help</source>
         <translation>P&amp;omoc</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="125"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="128"/>
         <source>&amp;Tools</source>
         <translation>&amp;Narzędzia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="142"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="145"/>
         <source>&amp;View</source>
         <translation>&amp;Widok</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="159"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="162"/>
         <source>File</source>
         <translation>Plik</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="175"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="178"/>
         <source>Edit</source>
         <translation>Edycja</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="197"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="200"/>
         <source>View</source>
         <translation>Widok</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="212"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="215"/>
         <source>Filter</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="223"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="226"/>
         <source>Command</source>
         <translation>Polecenia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="236"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="239"/>
         <source>Tools</source>
         <translation>Narzędzia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="265"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="268"/>
         <source>&amp;About LibrePCB</source>
         <translation>&amp;O LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="276"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="279"/>
         <source>About &amp;Qt</source>
         <translation>O &amp;Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="291"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="294"/>
         <source>&amp;Close Library Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="303"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="306"/>
         <source>&amp;New</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="606"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="609"/>
         <source>&amp;Rescan Libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="714"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="717"/>
         <source>Select All</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="327"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="330"/>
         <source>&amp;Undo</source>
         <translation>&amp;Cofnij</translation>
     </message>
@@ -4547,162 +4547,162 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="339"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="342"/>
         <source>&amp;Redo</source>
         <translation>Przyw&amp;róć</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="351"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="354"/>
         <source>Abort Command</source>
         <translation>Anuluj polecenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="363"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="366"/>
         <source>&amp;Zoom In</source>
         <translation>&amp;Powiększ</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="375"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="378"/>
         <source>Zoom &amp;Out</source>
         <translation>Z&amp;mniejsz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="387"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="390"/>
         <source>Zoo&amp;m All</source>
         <translation>D&amp;opasuj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="399"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="402"/>
         <source>R&amp;otate Counterclockwise</source>
         <translation>&amp;Obróć w lewo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="411"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="414"/>
         <source>Rotate C&amp;lockwise</source>
         <translation>O&amp;bróć w prawo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="423"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="426"/>
         <source>&amp;Copy</source>
         <translation>&amp;Kopiuj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="435"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="438"/>
         <source>Cut</source>
         <translation>Wytnij</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="447"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="450"/>
         <source>&amp;Paste</source>
         <translation>&amp;Wklej</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="459"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="462"/>
         <source>R&amp;emove</source>
         <translation>&amp;Usuń</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="471"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="474"/>
         <source>&amp;Select</source>
         <translation>&amp;Zaznacz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="483"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="486"/>
         <source>Add S&amp;ymbol Pin</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="495"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="498"/>
         <source>Add THT Pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="507"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="510"/>
         <source>Add S&amp;MT Pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="690"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="693"/>
         <source>Mirror</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="702"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="705"/>
         <source>Flip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="726"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="729"/>
         <source>Import DXF</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="519"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="522"/>
         <source>&amp;Draw Line</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="531"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="534"/>
         <source>&amp;Add Text</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="543"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="546"/>
         <source>Draw &amp;Polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="555"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="558"/>
         <source>Draw &amp;Circle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="558"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="561"/>
         <source>Draw Circle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="570"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="573"/>
         <source>Add &amp;Hole (NPTH)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="582"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="585"/>
         <source>&amp;Grid</source>
         <translation>&amp;Siatka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="594"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="597"/>
         <source>Draw &amp;Rectangle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="618"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="621"/>
         <source>&amp;Remove Element</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="630"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="633"/>
         <source>Add Name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="642"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="645"/>
         <source>Add Value</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="654"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="657"/>
         <source>Show element in file manager</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="666"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="669"/>
         <source>Online Documentation</source>
         <translation>Dokumentacja online</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="678"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="681"/>
         <source>LibrePCB Website</source>
         <translation>Strona LibrePCB</translation>
     </message>
@@ -7972,7 +7972,7 @@ You need at least LibrePCB %1 to open it.
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="909"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="586"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="587"/>
         <source>SVG Export</source>
         <translation type="unfinished"/>
     </message>
@@ -7992,78 +7992,78 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="106"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="107"/>
         <source>%1 - LibrePCB Board Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="253"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="254"/>
         <source>Find device...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="262"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="263"/>
         <source>Scanning libraries (%p%)</source>
         <translation>Skanowanie bibliotek (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="435"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="436"/>
         <source>Add New Board</source>
         <translation>Dodaj nową płytkę</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="435"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="455"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="436"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="456"/>
         <source>Choose a name:</source>
         <translation>Wybierz nazwę:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="436"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="437"/>
         <source>new_board</source>
         <translation>new_board</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="445"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="465"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="482"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="520"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="565"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="612"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="657"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="683"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="877"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="446"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="466"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="483"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="521"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="566"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="613"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="658"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="684"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="878"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="455"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="456"/>
         <source>Copy Board</source>
         <translation>Kopiuj płytkę</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="456"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="457"/>
         <source>copy_of_%1</source>
         <translation>copy_of_%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="474"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="475"/>
         <source>Remove board</source>
         <translation>Usuń płytkę</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="475"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="476"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>Czy na pewno chcesz skasować płytkę &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="506"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="528"/>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="573"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="507"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="529"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="574"/>
         <source>No board selected.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="541"/>
+        <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="542"/>
         <source>PDF Export</source>
         <translation>Eksport PDF</translation>
     </message>
