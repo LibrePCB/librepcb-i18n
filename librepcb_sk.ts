@@ -1188,7 +1188,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
         <location filename="../libs/librepcb/common/network/orderpcbapirequest.cpp" line="85"/>
         <source>The project is too large (%1). If you manually added files to the project directory, you might need to move them out of the project directory.</source>
         <comment>Placeholder is the file size.</comment>
-        <translation type="unfinished"/>
+        <translation>Projekt je príliš veľký (%1). Ak ste manuálne pridávali súbory do adresára projektu, budete ich musieť presunúť z tohto adresára. </translation>
     </message>
 </context>
 <context>
@@ -2250,7 +2250,7 @@ Poznámka: Ak máte problémy s mierkou, skontrolujte rozmerové jednotky DXF vo
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="184"/>
         <source>Send data: %1</source>
-        <translation type="unfinished"/>
+        <translation>Odoslať dáta: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/networkrequestbase.cpp" line="238"/>
@@ -2293,7 +2293,7 @@ Poznámka: Ak máte problémy s mierkou, skontrolujte rozmerové jednotky DXF vo
     <message>
         <location filename="../libs/librepcb/common/network/orderpcbapirequest.cpp" line="138"/>
         <source>This service is currently not available. Please try again later or order the PCB manually either with the Gerber export or the *.lppz export.</source>
-        <translation type="unfinished"/>
+        <translation>Táto služba je momentálne nedostupná. Skúste to znova neskôr alebo objednajte DPS ručne buď exportom do gerber formátu alebo exportom *.lppz. </translation>
     </message>
 </context>
 <context>
@@ -8066,7 +8066,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="942"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>Objednať DPS</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="107"/>
@@ -9558,70 +9558,70 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="14"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>Objednať DPS</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="43"/>
         <source>Note: This is a preview feature and still in development. Any feedback is very welcome in our %1.</source>
         <extracomment>Placeholder is a hyperlink with the text 'discussion forum'.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Poznámka: Toto je ukážka funkcie ktorá je stále vo vývoji. Akákoľvek spätná väzba je vítaná v našom %1.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="71"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. Just click on the upload button below to get started. This will export the project directory to a *.lppz archive and upload it to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser.</source>
-        <translation type="unfinished"/>
+        <translation>Tento nástroj Vám pomôže rýchlejšie a jednoduchšie vyrobiť navrhnutú dosku plošných spojov. Začnite kliknutím na tlačidlo nižšie. Týmto sa vyexportuje adresár projektu do archívu *.lppz a nahrá ho na API server, nakonfigurovaný v nastaveniach Vášho pracovného priestoru. Potom môžete pokračovať v procese objednávky vo webovom prehliadači.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="87"/>
         <source>For more information about how the uploaded project gets processed, see %1.</source>
         <extracomment>Placeholder is an URL with hyperlink.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Pre viac informácií o ďalšom spracovaní projektu, pozrite sem: %1.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="103"/>
         <source>After upload, open web browser and close this dialog</source>
-        <translation type="unfinished"/>
+        <translation>Po nahraní otvorte web prehliadač a zatvorte toto dialógové okno</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="113"/>
         <source>Upload Project</source>
-        <translation type="unfinished"/>
+        <translation>Nahrať projekt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="166"/>
         <source>Checking availability...</source>
-        <translation type="unfinished"/>
+        <translation>Kontroluje sa dostupnosť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="63"/>
         <source>discussion forum</source>
-        <translation type="unfinished"/>
+        <translation>diskusnom fóre</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="88"/>
         <source>This feature is not available because there is no API server configured in your workspace settings.</source>
-        <translation type="unfinished"/>
+        <translation>Táto funkcia nie je dostupná, pretože nie je nastavená konfigurácia API servera v nastavení pracovnej plochy.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="139"/>
         <source>Exporting project...</source>
-        <translation type="unfinished"/>
+        <translation>Projekt sa exportuje...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="159"/>
         <source>Uploading project...</source>
-        <translation type="unfinished"/>
+        <translation>Projekt sa nahráva...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="186"/>
         <source>Success! Open %1 to continue.</source>
         <comment>Placeholder is an URL with hyperlink.</comment>
-        <translation type="unfinished"/>
+        <translation>Úspešné! Otvorte %1 pre pokračovanie.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="195"/>
         <source>Success! Opening %1...</source>
-        <translation type="unfinished"/>
+        <translation>Úspešné! Otváram %1...</translation>
     </message>
 </context>
 <context>
@@ -10140,7 +10140,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="854"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>Objednať DPS</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="217"/>
