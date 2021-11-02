@@ -1183,7 +1183,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.cpp" line="154"/>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>選取檔案</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/network/orderpcbapirequest.cpp" line="85"/>
@@ -8028,7 +8028,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="942"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>下訂 PCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.cpp" line="107"/>
@@ -9519,7 +9519,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="14"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>下訂 PCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="43"/>
@@ -10091,7 +10091,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.ui" line="823"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>下訂 PCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/schematiceditor/schematiceditor.cpp" line="213"/>
