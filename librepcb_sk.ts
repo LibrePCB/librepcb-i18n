@@ -9575,12 +9575,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="87"/>
         <source>For more information about how the uploaded project gets processed, see %1.</source>
         <extracomment>Placeholder is an URL with hyperlink.</extracomment>
-        <translation>Pre viac informácií o ďalšom spracovaní projektu, pozrite sem: %1.</translation>
+        <translation>Pre viac informácií o spracovaní nahratého projektu, pozrite sem: %1.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="103"/>
         <source>After upload, open web browser and close this dialog</source>
-        <translation>Po nahraní otvorte web prehliadač a zatvorte toto dialógové okno</translation>
+        <translation>Po nahraní otvoriť web prehliadač a zatvoriť toto dialógové okno</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="113"/>
