@@ -58,7 +58,7 @@
     <message>
         <location filename="../libs/librepcb/common/circuitidentifier.h" line="59"/>
         <source>Invalid identifier: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný identifikátor: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
