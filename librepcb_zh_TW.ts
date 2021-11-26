@@ -322,7 +322,7 @@
 <context>
     <name>ComponentSymbolVariantItemSuffix</name>
     <message>
-        <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemsuffix.h" line="48"/>
+        <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemsuffix.h" line="56"/>
         <source>Invalid component symbol suffix: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
@@ -356,6 +356,14 @@
     <message>
         <location filename="../libs/librepcb/common/import/dxfreader.cpp" line="193"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>EagleTypeConverter</name>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="226"/>
+        <source>Layer %1 is not supported.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -483,92 +491,9 @@
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="14"/>
-        <source>LibrePCB Eagle Import</source>
-        <translation>LibrePCB Eagle 匯入</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="21"/>
-        <source>Output Directory:</source>
-        <translation>輸出目錄：</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="28"/>
-        <source>Input Files:</source>
-        <translation>輸入檔案：</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="51"/>
-        <source>0/0</source>
-        <translation>0/0</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="61"/>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="111"/>
-        <source>Converted Elements:</source>
-        <translation>轉換後的元素：</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="68"/>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="59"/>
         <source>Close</source>
         <translation>關閉</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="75"/>
-        <source>Errors:</source>
-        <translation>錯誤：</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="94"/>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="124"/>
-        <source>%v/%m</source>
-        <translation>%v/%m</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="200"/>
-        <source>Converted Files:</source>
-        <translation>轉換後的檔案：</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="207"/>
-        <source>UUID List File:</source>
-        <translation>UUID 列表檔案：</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="214"/>
-        <source>Convert:</source>
-        <translation>轉換至：</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="223"/>
-        <source>Symbols --&gt; Symbols</source>
-        <translation>符號 --&gt; 符號</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="230"/>
-        <source>Packages --&gt; Packages</source>
-        <translation>封裝 --&gt; 封裝</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="237"/>
-        <source>Devices --&gt; Components + Devices</source>
-        <translation>裝置 --&gt; 元件 + 裝置</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="244"/>
-        <source>Abort</source>
-        <translation>放棄</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="253"/>
-        <source>Remove Duplicates:</source>
-        <translation>刪除重複的：</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="278"/>
-        <source>RUN</source>
-        <translation>執行</translation>
     </message>
     <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="20"/>
@@ -3371,6 +3296,50 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>librepcb::eagleimport::EagleLibraryImport</name>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="418"/>
+        <source>Skipped symbol due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="504"/>
+        <source>Skipped package due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="545"/>
+        <source>Dependent symbol &quot;%1&quot; not imported.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="585"/>
+        <source>Skipped component due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="603"/>
+        <source>Dependent component &quot;%1&quot; not imported.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="609"/>
+        <source>Dependent package &quot;%1&quot; not imported.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="641"/>
+        <source>Skipped device due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="648"/>
+        <source>Finished: %1 of %2 element(s) imported</source>
+        <comment>Placeholders are numbers</comment>
+        <translation type="unfinished"><numerusform></numerusform></translation>
+    </message>
+</context>
+<context>
     <name>librepcb::library::CmdComponentEdit</name>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmd/cmdcomponentedit.cpp" line="38"/>
@@ -4296,6 +4265,221 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>librepcb::library::editor::EagleLibraryImportWizard</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.ui" line="14"/>
+        <source>EAGLE Library Import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.cpp" line="70"/>
+        <source>&amp;Restart</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.cpp" line="101"/>
+        <source>Abort</source>
+        <translation>放棄</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.cpp" line="102"/>
+        <source>The import is currently in progress. Closing this window will abort it.
+
+Do you really want to close it?</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::EagleLibraryImportWizardContext</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardcontext.cpp" line="98"/>
+        <source>No file selected.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardcontext.cpp" line="104"/>
+        <source>Found %1 element(s) in the selected library.</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::EagleLibraryImportWizardPage_ChooseLibrary</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="17"/>
+        <source>Select Library</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="20"/>
+        <source>Choose the EAGLE library file to import.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="26"/>
+        <source>Note: Only EAGLE 6 (or later) *.lbr files are supported (XML based file format).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="44"/>
+        <source>Select file with the button to the right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.cpp" line="59"/>
+        <source>Choose file</source>
+        <translation>選取檔案</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::EagleLibraryImportWizardPage_Result</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="17"/>
+        <source>Import Progress</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="20"/>
+        <source>The selected elements will be imported now. For large or complex libraries this can take a few minutes.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="26"/>
+        <source>&lt;p&gt;After the import, it is highly recommended to perform the following tasks with each of the imported elements:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Assign reasonable categories (if not done yet)&lt;/li&gt;
+  &lt;li&gt;Review and rework geometry of symbols and footprints&lt;/li&gt;
+  &lt;li&gt;Fix any remaining warnings shown in the library editor&lt;/li&gt;
+&lt;/ul&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="47"/>
+        <source>Import Errors</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.cpp" line="114"/>
+        <source>Scanning libraries</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::EagleLibraryImportWizardPage_SelectElements</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.ui" line="17"/>
+        <source>Select Elements To Import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.ui" line="20"/>
+        <source>Select the library elements to import. Dependent elements of devices and components will be selected automatically.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.cpp" line="249"/>
+        <source>Devices</source>
+        <translation>裝置</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.cpp" line="252"/>
+        <source>Components</source>
+        <translation>元件</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.cpp" line="255"/>
+        <source>Symbols</source>
+        <translation>符號</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.cpp" line="258"/>
+        <source>Packages</source>
+        <translation>封裝</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::EagleLibraryImportWizardPage_SetOptions</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="17"/>
+        <source>Set Options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="20"/>
+        <source>Choose the import options and click on the import button below to continue. If you are unsure about the options, just keep the default values.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="26"/>
+        <source>Prefix</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="47"/>
+        <source>Helps to distinguish between manually created elements and imported elements.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="50"/>
+        <source>Add prefix &quot;%1&quot; to all library element names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="60"/>
+        <source>Component Category</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="88"/>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="147"/>
+        <source>Choose category</source>
+        <translation>選取分類</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="102"/>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="161"/>
+        <source>Reset</source>
+        <translation>重設</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="119"/>
+        <source>Package Category</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="183"/>
+        <source>&lt;b&gt;Attention:&lt;/b&gt; The import cannot be undone (except my manually removing the imported elements)!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.cpp" line="61"/>
+        <source>&amp;Import!</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::EagleLibraryImportWizardPage_Start</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_start.ui" line="17"/>
+        <source>EAGLE Library Import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_start.ui" line="20"/>
+        <source>Kick-start the migration from EAGLE to LibrePCB by importing your EAGLE library elements into the currently opened LibrePCB library.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_start.ui" line="26"/>
+        <source>Please consider these important notes when using this tool:
+&lt;ul&gt;
+  &lt;li&gt;LibrePCB libraries are organized differently to EAGLE libraries, thus the quality of the imported elements will likely not be as high as when creating them manually from scratch. Some manual rework might be needed after the import.&lt;/li&gt;
+  &lt;li&gt;If you import library elements multiple times, you will end up with duplicates. It is recommended to import each EAGLE library only once. So you should select all elements you might ever need, instead of importing a library step by step.&lt;/li&gt;
+  &lt;li&gt;Especially if you plan to import a lot of elements, it might be a good idea to create a separate LibrePCB library for them. This will provide a clear separation between imported elements and manually created elements.&lt;/li&gt;
+&lt;/ul&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::library::editor::EditorWidgetBase</name>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="163"/>
@@ -4485,87 +4669,87 @@ p, li { white-space: pre-wrap; }
         <translation>檔案 (&amp;F)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="101"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="112"/>
         <source>&amp;Edit</source>
         <translation>編輯 (&amp;E)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="119"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="130"/>
         <source>&amp;Help</source>
         <translation>求助 (&amp;H)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="128"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="139"/>
         <source>&amp;Tools</source>
         <translation>工具 (&amp;T)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="145"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="156"/>
         <source>&amp;View</source>
         <translation>檢視 (&amp;V)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="162"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="173"/>
         <source>File</source>
         <translation>檔案</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="178"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="189"/>
         <source>Edit</source>
         <translation>編輯</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="200"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="211"/>
         <source>View</source>
         <translation>檢視</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="215"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="226"/>
         <source>Filter</source>
         <translation>過濾</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="226"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="237"/>
         <source>Command</source>
         <translation>指令</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="239"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="250"/>
         <source>Tools</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="268"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="279"/>
         <source>&amp;About LibrePCB</source>
         <translation>關於 LibrePCB (&amp;A)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="279"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="290"/>
         <source>About &amp;Qt</source>
         <translation>關於 Qt (&amp;Q)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="294"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="305"/>
         <source>&amp;Close Library Editor</source>
         <translation>關閉元件庫編輯器 (&amp;C)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="306"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="317"/>
         <source>&amp;New</source>
         <translation>新增 (&amp;N)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="609"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="620"/>
         <source>&amp;Rescan Libraries</source>
         <translation>重新掃描元件庫 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="717"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="728"/>
         <source>Select All</source>
         <translation>全選</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="330"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="341"/>
         <source>&amp;Undo</source>
         <translation>復原 (&amp;U)</translation>
     </message>
@@ -4575,204 +4759,214 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="342"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="91"/>
+        <source>&amp;Import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="353"/>
         <source>&amp;Redo</source>
         <translation>重做 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="354"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="365"/>
         <source>Abort Command</source>
         <translation>終止指令</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="366"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="377"/>
         <source>&amp;Zoom In</source>
         <translation>放大 (&amp;Z)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="378"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="389"/>
         <source>Zoom &amp;Out</source>
         <translation>縮小 (&amp;O)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="390"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="401"/>
         <source>Zoo&amp;m All</source>
         <translation>縮放至符合區域 (&amp;m)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="402"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="413"/>
         <source>R&amp;otate Counterclockwise</source>
         <translation>逆時針旋轉 (&amp;o)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="414"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="425"/>
         <source>Rotate C&amp;lockwise</source>
         <translation>順時針旋轉 (&amp;l)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="426"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="437"/>
         <source>&amp;Copy</source>
         <translation>複製 (&amp;C)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="438"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="449"/>
         <source>Cut</source>
         <translation>剪下</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="450"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="461"/>
         <source>&amp;Paste</source>
         <translation>貼上 (&amp;P)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="462"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="473"/>
         <source>R&amp;emove</source>
         <translation>移除 (&amp;e)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="474"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="485"/>
         <source>&amp;Select</source>
         <translation>選取 (&amp;S)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="486"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="497"/>
         <source>Add S&amp;ymbol Pin</source>
         <translation>加入符號引腳 (&amp;y)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="498"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="509"/>
         <source>Add THT Pad</source>
         <translation>加入 THT 焊墊</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="510"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="521"/>
         <source>Add S&amp;MT Pad</source>
         <translation>加入表面貼裝焊墊 (&amp;M)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="693"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="704"/>
         <source>Mirror</source>
         <translation>鏡像</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="705"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="716"/>
         <source>Flip</source>
         <translation>翻轉</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="729"/>
-        <source>Import DXF</source>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="736"/>
+        <source>2D Drawing (&amp;DXF)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="522"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="744"/>
+        <source>&amp;EAGLE Library</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="533"/>
         <source>&amp;Draw Line</source>
         <translation>繪製線條 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="534"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="545"/>
         <source>&amp;Add Text</source>
         <translation>加入文字 (&amp;A)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="546"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="557"/>
         <source>Draw &amp;Polygon</source>
         <translation>繪製多邊形 (&amp;P)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="558"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="569"/>
         <source>Draw &amp;Circle</source>
         <translation>繪製圓形 (&amp;C)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="561"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="572"/>
         <source>Draw Circle</source>
         <translation>繪製圓形</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="573"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="584"/>
         <source>Add &amp;Hole (NPTH)</source>
         <translation>加入孔洞 (NPTH) (&amp;H)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="585"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="596"/>
         <source>&amp;Grid</source>
         <translation>格點 (&amp;G)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="597"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="608"/>
         <source>Draw &amp;Rectangle</source>
         <translation>繪製四邊形 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="621"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="632"/>
         <source>&amp;Remove Element</source>
         <translation>移除元素 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="633"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="644"/>
         <source>Add Name</source>
         <translation>加入名稱</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="645"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="656"/>
         <source>Add Value</source>
         <translation>加入數值</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="657"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="668"/>
         <source>Show element in file manager</source>
         <translation>在檔案管理器中顯示元素</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="669"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="680"/>
         <source>Online Documentation</source>
         <translation>線上文件</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="681"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="692"/>
         <source>LibrePCB Website</source>
         <translation>LibrePCB 網站</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="142"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="148"/>
         <source> [Read-Only]</source>
         <translation>[唯讀]</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="143"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="149"/>
         <source>%1 - LibrePCB Library Editor</source>
         <translation>%1 - LibrePCB 元件庫編輯器</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="151"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="157"/>
         <source>Filter elements</source>
         <translation>過濾元素</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="158"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="164"/>
         <source>Scanning libraries (%p%)</source>
         <translation>正在掃描元件庫(%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="571"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="577"/>
         <source>Failed to open category</source>
         <translation>開啟分類失敗</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="616"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="622"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation>在元件庫中有未儲存的元素。
 想要在關閉專案之前儲存嗎？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="619"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="625"/>
         <source>Unsaved changes</source>
         <translation>尚未儲存的變更</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="753"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="761"/>
         <source>&amp;Save &apos;%1&apos;</source>
         <translation>儲存 &apos;%1&apos; (&amp;S)</translation>
     </message>

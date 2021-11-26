@@ -366,7 +366,7 @@
     <message>
         <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="226"/>
         <source>Layer %1 is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Layer %1 is not supported.</translation>
     </message>
 </context>
 <context>
@@ -3307,45 +3307,45 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="418"/>
         <source>Skipped symbol due to error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skipped symbol due to error: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="504"/>
         <source>Skipped package due to error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skipped package due to error: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="545"/>
         <source>Dependent symbol &quot;%1&quot; not imported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependent symbol &quot;%1&quot; not imported.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="585"/>
         <source>Skipped component due to error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skipped component due to error: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="603"/>
         <source>Dependent component &quot;%1&quot; not imported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependent component &quot;%1&quot; not imported.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="609"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependent package &quot;%1&quot; not imported.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="641"/>
         <source>Skipped device due to error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skipped device due to error: %1</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="648"/>
         <source>Finished: %1 of %2 element(s) imported</source>
         <comment>Placeholders are numbers</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Finished: %1 of %2 element(s) imported</numerusform>
+            <numerusform>Finished: %1 of %2 element(s) imported</numerusform>
         </translation>
     </message>
 </context>
@@ -4279,24 +4279,26 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.ui" line="14"/>
         <source>EAGLE Library Import</source>
-        <translation type="unfinished"></translation>
+        <translation>EAGLE Library Import</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.cpp" line="70"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Restart</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.cpp" line="101"/>
         <source>Abort</source>
-        <translation type="unfinished">Abort</translation>
+        <translation>Abort</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.cpp" line="102"/>
         <source>The import is currently in progress. Closing this window will abort it.
 
 Do you really want to close it?</source>
-        <translation type="unfinished"></translation>
+        <translation>The import is currently in progress. Closing this window will abort it.
+
+Do you really want to close it?</translation>
     </message>
 </context>
 <context>
@@ -4304,14 +4306,14 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardcontext.cpp" line="98"/>
         <source>No file selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No file selected.</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardcontext.cpp" line="104"/>
         <source>Found %1 element(s) in the selected library.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Found %1 element(s) in the selected library.</numerusform>
+            <numerusform>Found %1 element(s) in the selected library.</numerusform>
         </translation>
     </message>
 </context>
@@ -4320,27 +4322,27 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="17"/>
         <source>Select Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Select Library</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="20"/>
         <source>Choose the EAGLE library file to import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose the EAGLE library file to import.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="26"/>
         <source>Note: Only EAGLE 6 (or later) *.lbr files are supported (XML based file format).</source>
-        <translation type="unfinished"></translation>
+        <translation>Note: Only EAGLE 6 (or later) *.lbr files are supported (XML based file format).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="44"/>
         <source>Select file with the button to the right</source>
-        <translation type="unfinished"></translation>
+        <translation>Select file with the button to the right</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.cpp" line="59"/>
         <source>Choose file</source>
-        <translation type="unfinished">Choose file</translation>
+        <translation>Choose file</translation>
     </message>
 </context>
 <context>
@@ -4348,12 +4350,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="17"/>
         <source>Import Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Import Progress</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="20"/>
         <source>The selected elements will be imported now. For large or complex libraries this can take a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>The selected elements will be imported now. For large or complex libraries this can take a few minutes.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="26"/>
@@ -4363,17 +4365,22 @@ Do you really want to close it?</source>
   &lt;li&gt;Review and rework geometry of symbols and footprints&lt;/li&gt;
   &lt;li&gt;Fix any remaining warnings shown in the library editor&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;After the import, it is highly recommended to perform the following tasks with each of the imported elements:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Assign reasonable categories (if not done yet)&lt;/li&gt;
+  &lt;li&gt;Review and rework geometry of symbols and footprints&lt;/li&gt;
+  &lt;li&gt;Fix any remaining warnings shown in the library editor&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="47"/>
         <source>Import Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Import Errors</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.cpp" line="114"/>
         <source>Scanning libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Scanning libraries</translation>
     </message>
 </context>
 <context>
@@ -4381,32 +4388,32 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.ui" line="17"/>
         <source>Select Elements To Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Select Elements To Import</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.ui" line="20"/>
         <source>Select the library elements to import. Dependent elements of devices and components will be selected automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Select the library elements to import. Dependent elements of devices and components will be selected automatically.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.cpp" line="249"/>
         <source>Devices</source>
-        <translation type="unfinished">Devices</translation>
+        <translation>Devices</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.cpp" line="252"/>
         <source>Components</source>
-        <translation type="unfinished">Components</translation>
+        <translation>Components</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.cpp" line="255"/>
         <source>Symbols</source>
-        <translation type="unfinished">Symbols</translation>
+        <translation>Symbols</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.cpp" line="258"/>
         <source>Packages</source>
-        <translation type="unfinished">Packages</translation>
+        <translation>Packages</translation>
     </message>
 </context>
 <context>
@@ -4414,59 +4421,59 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="17"/>
         <source>Set Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Set Options</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="20"/>
         <source>Choose the import options and click on the import button below to continue. If you are unsure about the options, just keep the default values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose the import options and click on the import button below to continue. If you are unsure about the options, just keep the default values.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="26"/>
         <source>Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefix</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="47"/>
         <source>Helps to distinguish between manually created elements and imported elements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Helps to distinguish between manually created elements and imported elements.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="50"/>
         <source>Add prefix &quot;%1&quot; to all library element names</source>
-        <translation type="unfinished"></translation>
+        <translation>Add prefix &quot;%1&quot; to all library element names</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="60"/>
         <source>Component Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Component Category</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="88"/>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="147"/>
         <source>Choose category</source>
-        <translation type="unfinished">Choose category</translation>
+        <translation>Choose category</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="102"/>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="161"/>
         <source>Reset</source>
-        <translation type="unfinished">Reset</translation>
+        <translation>Reset</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="119"/>
         <source>Package Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Package Category</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="183"/>
         <source>&lt;b&gt;Attention:&lt;/b&gt; The import cannot be undone (except my manually removing the imported elements)!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Attention:&lt;/b&gt; The import cannot be undone (except my manually removing the imported elements)!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.cpp" line="61"/>
         <source>&amp;Import!</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Import!</translation>
     </message>
 </context>
 <context>
@@ -4474,12 +4481,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_start.ui" line="17"/>
         <source>EAGLE Library Import</source>
-        <translation type="unfinished"></translation>
+        <translation>EAGLE Library Import</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_start.ui" line="20"/>
         <source>Kick-start the migration from EAGLE to LibrePCB by importing your EAGLE library elements into the currently opened LibrePCB library.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kick-start the migration from EAGLE to LibrePCB by importing your EAGLE library elements into the currently opened LibrePCB library.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_start.ui" line="26"/>
@@ -4489,7 +4496,12 @@ Do you really want to close it?</source>
   &lt;li&gt;If you import library elements multiple times, you will end up with duplicates. It is recommended to import each EAGLE library only once. So you should select all elements you might ever need, instead of importing a library step by step.&lt;/li&gt;
   &lt;li&gt;Especially if you plan to import a lot of elements, it might be a good idea to create a separate LibrePCB library for them. This will provide a clear separation between imported elements and manually created elements.&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Please consider these important notes when using this tool:
+&lt;ul&gt;
+  &lt;li&gt;LibrePCB libraries are organized differently to EAGLE libraries, thus the quality of the imported elements will likely not be as high as when creating them manually from scratch. Some manual rework might be needed after the import.&lt;/li&gt;
+  &lt;li&gt;If you import library elements multiple times, you will end up with duplicates. It is recommended to import each EAGLE library only once. So you should select all elements you might ever need, instead of importing a library step by step.&lt;/li&gt;
+  &lt;li&gt;Especially if you plan to import a lot of elements, it might be a good idea to create a separate LibrePCB library for them. This will provide a clear separation between imported elements and manually created elements.&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
 </context>
 <context>
@@ -4774,7 +4786,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="91"/>
         <source>&amp;Import</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Import</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="353"/>
@@ -4864,12 +4876,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="736"/>
         <source>2D Drawing (&amp;DXF)</source>
-        <translation type="unfinished"></translation>
+        <translation>2D Drawing (&amp;DXF)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="744"/>
         <source>&amp;EAGLE Library</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;EAGLE Library</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="533"/>

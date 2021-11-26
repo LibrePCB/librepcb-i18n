@@ -322,7 +322,7 @@
 <context>
     <name>ComponentSymbolVariantItemSuffix</name>
     <message>
-        <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemsuffix.h" line="48"/>
+        <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemsuffix.h" line="56"/>
         <source>Invalid component symbol suffix: &apos;%1&apos;</source>
         <translation>Neplatný sufix sch. značky komponentu: &apos;%1&apos;</translation>
     </message>
@@ -357,6 +357,14 @@
         <location filename="../libs/librepcb/common/import/dxfreader.cpp" line="193"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
         <translation>Nepodarilo sa načítať súbor DXF &quot;%1&quot;: %2</translation>
+    </message>
+</context>
+<context>
+    <name>EagleTypeConverter</name>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="226"/>
+        <source>Layer %1 is not supported.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -483,92 +491,9 @@
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="14"/>
-        <source>LibrePCB Eagle Import</source>
-        <translation>LibrePCB Eagle Import</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="21"/>
-        <source>Output Directory:</source>
-        <translation>Výstupný adresár:</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="28"/>
-        <source>Input Files:</source>
-        <translation>Vstupné súbory:</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="51"/>
-        <source>0/0</source>
-        <translation>0/0</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="61"/>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="111"/>
-        <source>Converted Elements:</source>
-        <translation>Konvertovaných prvkov:</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="68"/>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="59"/>
         <source>Close</source>
         <translation>Zavrieť</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="75"/>
-        <source>Errors:</source>
-        <translation>Chýb:</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="94"/>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="124"/>
-        <source>%v/%m</source>
-        <translation>%v/%m</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="200"/>
-        <source>Converted Files:</source>
-        <translation>Konvertovaných súborov:</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="207"/>
-        <source>UUID List File:</source>
-        <translation>Súbor so zoznamom UUID:</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="214"/>
-        <source>Convert:</source>
-        <translation>Konverzia:</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="223"/>
-        <source>Symbols --&gt; Symbols</source>
-        <translation>Sch. značky --&gt; sch. značky</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="230"/>
-        <source>Packages --&gt; Packages</source>
-        <translation>Púzdra --&gt; Púzdra</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="237"/>
-        <source>Devices --&gt; Components + Devices</source>
-        <translation>Súčiastky --&gt; komponenty + súčiastky</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="244"/>
-        <source>Abort</source>
-        <translation>Prerušiť</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="253"/>
-        <source>Remove Duplicates:</source>
-        <translation>Odstrániť duplicitné:</translation>
-    </message>
-    <message>
-        <location filename="../apps/EagleImport/mainwindow.ui" line="278"/>
-        <source>RUN</source>
-        <translation>SPUSTIŤ</translation>
     </message>
     <message>
         <location filename="../apps/UuidGenerator/mainwindow.ui" line="20"/>
@@ -3375,6 +3300,50 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>librepcb::eagleimport::EagleLibraryImport</name>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="418"/>
+        <source>Skipped symbol due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="504"/>
+        <source>Skipped package due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="545"/>
+        <source>Dependent symbol &quot;%1&quot; not imported.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="585"/>
+        <source>Skipped component due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="603"/>
+        <source>Dependent component &quot;%1&quot; not imported.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="609"/>
+        <source>Dependent package &quot;%1&quot; not imported.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="641"/>
+        <source>Skipped device due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="648"/>
+        <source>Finished: %1 of %2 element(s) imported</source>
+        <comment>Placeholders are numbers</comment>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
+</context>
+<context>
     <name>librepcb::library::CmdComponentEdit</name>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmd/cmdcomponentedit.cpp" line="38"/>
@@ -4300,6 +4269,221 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>librepcb::library::editor::EagleLibraryImportWizard</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.ui" line="14"/>
+        <source>EAGLE Library Import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.cpp" line="70"/>
+        <source>&amp;Restart</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.cpp" line="101"/>
+        <source>Abort</source>
+        <translation>Prerušiť</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.cpp" line="102"/>
+        <source>The import is currently in progress. Closing this window will abort it.
+
+Do you really want to close it?</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::EagleLibraryImportWizardContext</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardcontext.cpp" line="98"/>
+        <source>No file selected.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardcontext.cpp" line="104"/>
+        <source>Found %1 element(s) in the selected library.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::EagleLibraryImportWizardPage_ChooseLibrary</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="17"/>
+        <source>Select Library</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="20"/>
+        <source>Choose the EAGLE library file to import.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="26"/>
+        <source>Note: Only EAGLE 6 (or later) *.lbr files are supported (XML based file format).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="44"/>
+        <source>Select file with the button to the right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.cpp" line="59"/>
+        <source>Choose file</source>
+        <translation>Zvoliť súbor</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::EagleLibraryImportWizardPage_Result</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="17"/>
+        <source>Import Progress</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="20"/>
+        <source>The selected elements will be imported now. For large or complex libraries this can take a few minutes.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="26"/>
+        <source>&lt;p&gt;After the import, it is highly recommended to perform the following tasks with each of the imported elements:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Assign reasonable categories (if not done yet)&lt;/li&gt;
+  &lt;li&gt;Review and rework geometry of symbols and footprints&lt;/li&gt;
+  &lt;li&gt;Fix any remaining warnings shown in the library editor&lt;/li&gt;
+&lt;/ul&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="47"/>
+        <source>Import Errors</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.cpp" line="114"/>
+        <source>Scanning libraries</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::EagleLibraryImportWizardPage_SelectElements</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.ui" line="17"/>
+        <source>Select Elements To Import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.ui" line="20"/>
+        <source>Select the library elements to import. Dependent elements of devices and components will be selected automatically.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.cpp" line="249"/>
+        <source>Devices</source>
+        <translation>Súčiastky</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.cpp" line="252"/>
+        <source>Components</source>
+        <translation>Komponenty</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.cpp" line="255"/>
+        <source>Symbols</source>
+        <translation>Schematické značky</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.cpp" line="258"/>
+        <source>Packages</source>
+        <translation>Púzdra</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::EagleLibraryImportWizardPage_SetOptions</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="17"/>
+        <source>Set Options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="20"/>
+        <source>Choose the import options and click on the import button below to continue. If you are unsure about the options, just keep the default values.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="26"/>
+        <source>Prefix</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="47"/>
+        <source>Helps to distinguish between manually created elements and imported elements.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="50"/>
+        <source>Add prefix &quot;%1&quot; to all library element names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="60"/>
+        <source>Component Category</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="88"/>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="147"/>
+        <source>Choose category</source>
+        <translation>Zvoliť kategóriu</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="102"/>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="161"/>
+        <source>Reset</source>
+        <translation>Vynulovať</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="119"/>
+        <source>Package Category</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="183"/>
+        <source>&lt;b&gt;Attention:&lt;/b&gt; The import cannot be undone (except my manually removing the imported elements)!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.cpp" line="61"/>
+        <source>&amp;Import!</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::library::editor::EagleLibraryImportWizardPage_Start</name>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_start.ui" line="17"/>
+        <source>EAGLE Library Import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_start.ui" line="20"/>
+        <source>Kick-start the migration from EAGLE to LibrePCB by importing your EAGLE library elements into the currently opened LibrePCB library.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_start.ui" line="26"/>
+        <source>Please consider these important notes when using this tool:
+&lt;ul&gt;
+  &lt;li&gt;LibrePCB libraries are organized differently to EAGLE libraries, thus the quality of the imported elements will likely not be as high as when creating them manually from scratch. Some manual rework might be needed after the import.&lt;/li&gt;
+  &lt;li&gt;If you import library elements multiple times, you will end up with duplicates. It is recommended to import each EAGLE library only once. So you should select all elements you might ever need, instead of importing a library step by step.&lt;/li&gt;
+  &lt;li&gt;Especially if you plan to import a lot of elements, it might be a good idea to create a separate LibrePCB library for them. This will provide a clear separation between imported elements and manually created elements.&lt;/li&gt;
+&lt;/ul&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::library::editor::EditorWidgetBase</name>
     <message>
         <location filename="../libs/librepcb/libraryeditor/common/editorwidgetbase.cpp" line="163"/>
@@ -4489,87 +4673,87 @@ p, li { white-space: pre-wrap; }
         <translation>Súbor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="101"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="112"/>
         <source>&amp;Edit</source>
         <translation>Úpravy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="119"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="130"/>
         <source>&amp;Help</source>
         <translation>Pomocník</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="128"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="139"/>
         <source>&amp;Tools</source>
         <translation>Nás&amp;troje</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="145"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="156"/>
         <source>&amp;View</source>
         <translation>Zobrazenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="162"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="173"/>
         <source>File</source>
         <translation>Súbor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="178"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="189"/>
         <source>Edit</source>
         <translation>Upraviť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="200"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="211"/>
         <source>View</source>
         <translation>Zobrazenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="215"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="226"/>
         <source>Filter</source>
         <translation>Filter</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="226"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="237"/>
         <source>Command</source>
         <translation>Príkaz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="239"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="250"/>
         <source>Tools</source>
         <translation>Nástroje</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="268"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="279"/>
         <source>&amp;About LibrePCB</source>
         <translation>Informácie o LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="279"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="290"/>
         <source>About &amp;Qt</source>
         <translation>Informácie o &amp;Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="294"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="305"/>
         <source>&amp;Close Library Editor</source>
         <translation>Zatvoriť editor knižnice</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="306"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="317"/>
         <source>&amp;New</source>
         <translation>&amp;Nová</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="609"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="620"/>
         <source>&amp;Rescan Libraries</source>
         <translation>&amp;Skenovať knižnice</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="717"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="728"/>
         <source>Select All</source>
         <translation>Vybrať všetko</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="330"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="341"/>
         <source>&amp;Undo</source>
         <translation>Späť</translation>
     </message>
@@ -4579,204 +4763,214 @@ p, li { white-space: pre-wrap; }
         <translation>Toto je vzdialená knižnica a preto sa otvára v režime len na čítanie. Použite lokálnu knižnicu pre spravovanie vlastných elementov knižnice. Ak chcete prepísať elementy vzdialenej knižnice, skopírujte ich do lokálnej knižnice a zvýšte číslo verzie.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="342"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="91"/>
+        <source>&amp;Import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="353"/>
         <source>&amp;Redo</source>
         <translation>Opakovať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="354"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="365"/>
         <source>Abort Command</source>
         <translation>Ukončiť príkaz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="366"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="377"/>
         <source>&amp;Zoom In</source>
         <translation>Priblížiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="378"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="389"/>
         <source>Zoom &amp;Out</source>
         <translation>Zmenšiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="390"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="401"/>
         <source>Zoo&amp;m All</source>
         <translation>Zväčšiť všetko</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="402"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="413"/>
         <source>R&amp;otate Counterclockwise</source>
         <translation>Otočiť d&amp;oľava</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="414"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="425"/>
         <source>Rotate C&amp;lockwise</source>
         <translation>Otočiť dop&amp;rava</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="426"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="437"/>
         <source>&amp;Copy</source>
         <translation>Kopírovať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="438"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="449"/>
         <source>Cut</source>
         <translation>Vystrihnúť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="450"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="461"/>
         <source>&amp;Paste</source>
         <translation>&amp;Prilepiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="462"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="473"/>
         <source>R&amp;emove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="474"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="485"/>
         <source>&amp;Select</source>
         <translation>Vybrať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="486"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="497"/>
         <source>Add S&amp;ymbol Pin</source>
         <translation>Pridať vývod značky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="498"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="509"/>
         <source>Add THT Pad</source>
         <translation>Pridať THT plôšku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="510"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="521"/>
         <source>Add S&amp;MT Pad</source>
         <translation>Pridať S&amp;MT plôšku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="693"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="704"/>
         <source>Mirror</source>
         <translation>Zrkadliť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="705"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="716"/>
         <source>Flip</source>
         <translation>Prevrátiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="729"/>
-        <source>Import DXF</source>
-        <translation>Import DXF</translation>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="736"/>
+        <source>2D Drawing (&amp;DXF)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="522"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="744"/>
+        <source>&amp;EAGLE Library</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="533"/>
         <source>&amp;Draw Line</source>
         <translation>Kresliť čiaru</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="534"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="545"/>
         <source>&amp;Add Text</source>
         <translation>Prid&amp;ať text</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="546"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="557"/>
         <source>Draw &amp;Polygon</source>
         <translation>Kresliť &amp;polygón</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="558"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="569"/>
         <source>Draw &amp;Circle</source>
         <translation>Kresliť kružnicu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="561"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="572"/>
         <source>Draw Circle</source>
         <translation>Kresliť kružnicu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="573"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="584"/>
         <source>Add &amp;Hole (NPTH)</source>
         <translation>Pridať otvor (NPTH)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="585"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="596"/>
         <source>&amp;Grid</source>
         <translation>Raster</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="597"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="608"/>
         <source>Draw &amp;Rectangle</source>
         <translation>K&amp;resliť obĺžnik</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="621"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="632"/>
         <source>&amp;Remove Element</source>
         <translation>Odst&amp;rániť prvok</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="633"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="644"/>
         <source>Add Name</source>
         <translation>Pridať názov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="645"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="656"/>
         <source>Add Value</source>
         <translation>Pridať hodnotu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="657"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="668"/>
         <source>Show element in file manager</source>
         <translation>Zobraziť prvky v prehliadači súborov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="669"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="680"/>
         <source>Online Documentation</source>
         <translation>Online dokumentácia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="681"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.ui" line="692"/>
         <source>LibrePCB Website</source>
         <translation>Prejsť na stránku LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="142"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="148"/>
         <source> [Read-Only]</source>
         <translation> [iba na čítanie]</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="143"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="149"/>
         <source>%1 - LibrePCB Library Editor</source>
         <translation>%1 - LibrePCB Editor knižnice</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="151"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="157"/>
         <source>Filter elements</source>
         <translation>Filter elementov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="158"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="164"/>
         <source>Scanning libraries (%p%)</source>
         <translation>Skenovanie knižníc (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="571"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="577"/>
         <source>Failed to open category</source>
         <translation>Chyba pri otváraní kategórie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="616"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="622"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation>Posledné zmeny prvku knižnice neboli uložené.
 Želáte si ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="619"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="625"/>
         <source>Unsaved changes</source>
         <translation>Neuložené zmeny</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="753"/>
+        <location filename="../libs/librepcb/libraryeditor/libraryeditor.cpp" line="761"/>
         <source>&amp;Save &apos;%1&apos;</source>
         <translation>Uložiť &apos;%1&apos;</translation>
     </message>
