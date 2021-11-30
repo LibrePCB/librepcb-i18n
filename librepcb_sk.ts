@@ -4422,7 +4422,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="26"/>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>Prefix</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="47"/>
