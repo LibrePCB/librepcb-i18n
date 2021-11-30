@@ -364,7 +364,7 @@
     <message>
         <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="226"/>
         <source>Layer %1 is not supported.</source>
-        <translation type="unfinished"/>
+        <translation>Vrstva %1 nie je podporovaná.</translation>
     </message>
 </context>
 <context>
@@ -3304,43 +3304,43 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="418"/>
         <source>Skipped symbol due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Pre chybu bola vynechaná sch. značka: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="504"/>
         <source>Skipped package due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Pre chybu bolo vynechané púzdro: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="545"/>
         <source>Dependent symbol &quot;%1&quot; not imported.</source>
-        <translation type="unfinished"/>
+        <translation>Odkazovaná schematická značka &quot;%1&quot; nebola importovaná.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="585"/>
         <source>Skipped component due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Pre chybu bol vynechaný komponent: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="603"/>
         <source>Dependent component &quot;%1&quot; not imported.</source>
-        <translation type="unfinished"/>
+        <translation>Odkazovaný komponent &quot;%1&quot; nebol importovaný.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="609"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
-        <translation type="unfinished"/>
+        <translation>Odkazované púzdro &quot;%1&quot; nebolo importované.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="641"/>
         <source>Skipped device due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Pre chybu bola vynechaná súčiastka: %1</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="648"/>
         <source>Finished: %1 of %2 element(s) imported</source>
         <comment>Placeholders are numbers</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Ukončené: %1 z %2 elementov bol importovaný</numerusform><numerusform>Ukončené: %1 z %2 elementov boli importované</numerusform><numerusform>Ukončené: %1 z %2 elementov bolo importovaných</numerusform><numerusform>Ukončené: %1 z %2 elementov bolo importovaných</numerusform></translation>
     </message>
 </context>
 <context>
@@ -4273,12 +4273,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.ui" line="14"/>
         <source>EAGLE Library Import</source>
-        <translation type="unfinished"/>
+        <translation>Import knižnice EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.cpp" line="70"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Reštartovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizard.cpp" line="101"/>
@@ -4290,7 +4290,9 @@ p, li { white-space: pre-wrap; }
         <source>The import is currently in progress. Closing this window will abort it.
 
 Do you really want to close it?</source>
-        <translation type="unfinished"/>
+        <translation>Práve prebieha import. Zatvorením tohto okna, bude prerušený.
+
+Naozaj si želáte zatvoriť toto okno?</translation>
     </message>
 </context>
 <context>
@@ -4298,12 +4300,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardcontext.cpp" line="98"/>
         <source>No file selected.</source>
-        <translation type="unfinished"/>
+        <translation>Nie je zvolený žiadny súbor.</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardcontext.cpp" line="104"/>
         <source>Found %1 element(s) in the selected library.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Nájdený %1 element v zvolenej knižnici.</numerusform><numerusform>Nájdené %1 elementy v zvolenej knižnici.</numerusform><numerusform>Nájdených %1 elementov v zvolenej knižnici.</numerusform><numerusform>Nájdených %1 elementov v zvolenej knižnici.</numerusform></translation>
     </message>
 </context>
 <context>
@@ -4311,17 +4313,17 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="17"/>
         <source>Select Library</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte knižnicu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="20"/>
         <source>Choose the EAGLE library file to import.</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte knižnicu EAGLE ktorú si prajete importovať.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="26"/>
         <source>Note: Only EAGLE 6 (or later) *.lbr files are supported (XML based file format).</source>
-        <translation type="unfinished"/>
+        <translation>Poznámka: Iba súbory *.lbr knižnice EAGLE verzie 6 (a vyššie) sú podporované (používajú súborový formát XML).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="44"/>
@@ -4465,7 +4467,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_start.ui" line="17"/>
         <source>EAGLE Library Import</source>
-        <translation type="unfinished"/>
+        <translation>Import knižnice EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_start.ui" line="20"/>
@@ -7078,7 +7080,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/project/boards/cmd/cmdboardlayerstackedit.cpp" line="41"/>
         <source>Modify board layer stack</source>
-        <translation>Upraviť stohovanie vrstiev dosky</translation>
+        <translation>Upraviť usporiadanie vrstiev dosky</translation>
     </message>
 </context>
 <context>
@@ -8168,7 +8170,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="735"/>
         <source>&amp;Layer Stack Setup</source>
-        <translation>Nastaviť stohovanie vrstiev</translation>
+        <translation>Nastaviť usporiadanie vrstiev</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardeditor.ui" line="747"/>
@@ -8743,7 +8745,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.ui" line="14"/>
         <source>Layer Stack Setup</source>
-        <translation>Nastavenie stohovania vrstiev</translation>
+        <translation>Nastavenie usporiadania vrstiev</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/boardlayerstacksetupdialog.ui" line="25"/>
