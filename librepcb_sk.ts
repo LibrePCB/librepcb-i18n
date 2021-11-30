@@ -4356,17 +4356,22 @@ Naozaj si želáte zatvoriť toto okno?</translation>
   &lt;li&gt;Review and rework geometry of symbols and footprints&lt;/li&gt;
   &lt;li&gt;Fix any remaining warnings shown in the library editor&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Po importe je dôrazne odporúčané vykonať s každým z importovaných prvkov, tieto kroky:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Priradiť do zodpovedajúcej kategórie ()&lt;/li&gt;
+  &lt;li&gt;Skontrolovať a opraviť geometriu symbolov a púzdier&lt;/li&gt;
+  &lt;li&gt;Opraviť prípadné varovania zobrazované v editore knižnice&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="47"/>
         <source>Import Errors</source>
-        <translation type="unfinished"/>
+        <translation>Chyby importu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.cpp" line="114"/>
         <source>Scanning libraries</source>
-        <translation type="unfinished"/>
+        <translation>Skenovanie knižníc</translation>
     </message>
 </context>
 <context>
@@ -4374,12 +4379,12 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.ui" line="17"/>
         <source>Select Elements To Import</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť elementy na importovanie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.ui" line="20"/>
         <source>Select the library elements to import. Dependent elements of devices and components will be selected automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte knižnicu elementov pre import. Púzdra a komponenty ktoré sú v závislosti, budú zvolené automaticky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_selectelements.cpp" line="249"/>
@@ -4407,7 +4412,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="17"/>
         <source>Set Options</source>
-        <translation type="unfinished"/>
+        <translation>Nastaviť možnosti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_setoptions.ui" line="20"/>
