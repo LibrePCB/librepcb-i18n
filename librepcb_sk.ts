@@ -4328,7 +4328,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.ui" line="44"/>
         <source>Select file with the button to the right</source>
-        <translation type="unfinished"/>
+        <translation>Vyberte súbor pomocou tlačidla vpravo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_chooselibrary.cpp" line="59"/>
@@ -4341,12 +4341,12 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="17"/>
         <source>Import Progress</source>
-        <translation type="unfinished"/>
+        <translation>Priebeh importu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="20"/>
         <source>The selected elements will be imported now. For large or complex libraries this can take a few minutes.</source>
-        <translation type="unfinished"/>
+        <translation>Teraz budú importované zvolené prvky. V prípade veľkých alebo zložitých knižníc, to môže trvať aj niekoľko minút. </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/libraryeditor/eagleimport/eaglelibraryimportwizardpage_result.ui" line="26"/>
