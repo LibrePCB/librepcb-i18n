@@ -101,7 +101,7 @@
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="104"/>
         <source>Symbol pin name</source>
-        <translation type="unfinished"/>
+        <translation>符號引腳名稱</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="110"/>
@@ -111,7 +111,7 @@
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="116"/>
         <source>Schematic net name</source>
-        <translation type="unfinished"/>
+        <translation>線路圖連接線名稱</translation>
     </message>
 </context>
 <context>
@@ -364,7 +364,7 @@
     <message>
         <location filename="../libs/librepcb/common/elementname.h" line="60"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>無效的名稱：&apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -464,12 +464,12 @@
     <message>
         <location filename="../libs/librepcb/common/units/length.h" line="654"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"/>
+        <translation>值必須 &gt;= 0</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/length.h" line="774"/>
         <source>Value must be &gt; 0!</source>
-        <translation type="unfinished"/>
+        <translation>值必須 &gt; 0！</translation>
     </message>
 </context>
 <context>
@@ -897,7 +897,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/units/ratio.h" line="311"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"/>
+        <translation>值必須 &gt;= 0</translation>
     </message>
 </context>
 <context>
@@ -930,32 +930,32 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="266"/>
         <source>Not a valid boolean.</source>
-        <translation type="unfinished"/>
+        <translation>不是一個有效的布林值</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="278"/>
         <source>Not a valid integer.</source>
-        <translation type="unfinished"/>
+        <translation>不是一個有效的整數</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="290"/>
         <source>Not a valid unsigned integer.</source>
-        <translation type="unfinished"/>
+        <translation>不是一個有效的無號整數</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="303"/>
         <source>Not a valid datetime.</source>
-        <translation type="unfinished"/>
+        <translation>不是一個有效的時間</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="314"/>
         <source>Not a valid color.</source>
-        <translation type="unfinished"/>
+        <translation>不是一個有效的顏色</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/sexpression.h" line="324"/>
         <source>Not a valid URL.</source>
-        <translation type="unfinished"/>
+        <translation>不是一個有效的 URL</translation>
     </message>
 </context>
 <context>
@@ -1707,7 +1707,7 @@ If unchecked, you need to specify exact coordinates where the point (0,0) of the
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="79"/>
         <source>Interactive</source>
-        <translation type="unfinished"/>
+        <translation>互動式</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/dialogs/dxfimportdialog.ui" line="88"/>
@@ -9546,7 +9546,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="113"/>
         <source>Upload Project</source>
-        <translation type="unfinished"/>
+        <translation>上傳專案</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.ui" line="166"/>
@@ -9566,12 +9566,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="139"/>
         <source>Exporting project...</source>
-        <translation type="unfinished"/>
+        <translation>正在匯出專案...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="159"/>
         <source>Uploading project...</source>
-        <translation type="unfinished"/>
+        <translation>正在更新專案...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/dialogs/orderpcbdialog.cpp" line="186"/>
@@ -10461,7 +10461,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="151"/>
         <source>Add Pre-Selected</source>
-        <translation type="unfinished"/>
+        <translation>加入預選的</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.ui" line="158"/>
@@ -10501,12 +10501,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="381"/>
         <source>Default footprint.</source>
-        <translation type="unfinished"/>
+        <translation>預設腳位圖</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="488"/>
         <source>Add devices to board</source>
-        <translation type="unfinished"/>
+        <translation>加入裝置至電路板</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/projecteditor/boardeditor/unplacedcomponentsdock.cpp" line="434"/>
