@@ -4,7 +4,7 @@
     <message>
         <location filename="../libs/librepcb/core/attribute/attributekey.h" line="55"/>
         <source>Invalid attribute key: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>無效的屬性鍵值：&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -888,7 +888,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="92"/>
         <source>Key &quot;%1&quot; defined multiple times.</source>
-        <translation type="unfinished"/>
+        <translation>鍵值&quot;%1&quot;已多次被定義。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="100"/>
@@ -2764,12 +2764,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="186"/>
         <source>Attribute key</source>
-        <translation>屬性序號</translation>
+        <translation>屬性鍵值</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="269"/>
         <source>Key</source>
-        <translation>序號</translation>
+        <translation>鍵值</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="271"/>
@@ -2799,7 +2799,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="437"/>
         <source>There is already an attribute with the key &quot;%1&quot;.</source>
-        <translation>已經有一個屬性有相同的序號&quot;%1&quot;.</translation>
+        <translation>已經有一個屬性有相同的鍵值&quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
