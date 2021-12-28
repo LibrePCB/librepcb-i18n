@@ -4,7 +4,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributekey.h" line="55"/>
         <source>Invalid attribute key: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>無效的屬性鍵值：&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -963,7 +963,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/fileio/serializablekeyvaluemap.h" line="91"/>
         <source>Key &quot;%1&quot; defined multiple times.</source>
-        <translation type="unfinished"/>
+        <translation>鍵值&quot;%1&quot;已多次被定義。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/fileio/serializablekeyvaluemap.h" line="99"/>
