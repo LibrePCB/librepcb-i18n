@@ -88,7 +88,7 @@
     <message>
         <location filename="../libs/librepcb/common/utils/clipperhelpers.cpp" line="290"/>
         <source>Failed to calculate the connection point of a cut-in to an outline!</source>
-        <translation type="unfinished"/>
+        <translation>cut-in到轮廓的连接点运算失败！</translation>
     </message>
 </context>
 <context>
