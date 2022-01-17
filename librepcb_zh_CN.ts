@@ -4,7 +4,7 @@
     <message>
         <location filename="../libs/librepcb/common/attributes/attributekey.h" line="55"/>
         <source>Invalid attribute key: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>无效的属性键值: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -58,7 +58,7 @@
     <message>
         <location filename="../libs/librepcb/common/circuitidentifier.h" line="59"/>
         <source>Invalid identifier: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>无效标识符: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
