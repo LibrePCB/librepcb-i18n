@@ -6675,120 +6675,120 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="126"/>
         <source>Rebuild planes...</source>
-        <translation type="unfinished"/>
+        <translation>重建平面...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="134"/>
         <source>Check for missing connections...</source>
-        <translation type="unfinished"/>
+        <translation>检查遗漏的连接...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="140"/>
         <source>Missing connection: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
+        <translation>遗漏的连接：&apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="152"/>
         <source>Check board clearances...</source>
-        <translation type="unfinished"/>
+        <translation>检查电路板安全间距...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="193"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; Board Outline</source>
         <comment>Placeholders are layer name + net name</comment>
-        <translation type="unfinished"/>
+        <translation>安全间距（%1层）：&apos;%2&apos;&lt;-&gt;电路板外框之间</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="209"/>
         <source>Check copper clearances...</source>
-        <translation type="unfinished"/>
+        <translation>检查铜箔间隙...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="239"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
         <comment>Placeholders are layer name + net names</comment>
-        <translation type="unfinished"/>
+        <translation>安全间距 (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="257"/>
         <source>Check courtyard clearances...</source>
-        <translation type="unfinished"/>
+        <translation>检查外扩位移间隙...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="286"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
         <comment>Placeholders are layer name + component names</comment>
-        <translation type="unfinished"/>
+        <translation>安全间距 (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="302"/>
         <source>Check minimum copper width...</source>
-        <translation type="unfinished"/>
+        <translation>检查最小的铜箔宽度...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="312"/>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="358"/>
         <source>Min. copper width (%1) of text: %2</source>
         <comment>Placeholders are layer name + width</comment>
-        <translation type="unfinished"/>
+        <translation>(%1)的文字最小铜箔宽度：%2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="337"/>
         <source>Min. copper width (%1) of plane: %2</source>
         <comment>Placeholders are layer name + width</comment>
-        <translation type="unfinished"/>
+        <translation>(%1)的平面最小铜箔宽度：%2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="383"/>
         <source>Min. copper width (%1) of trace: %2</source>
         <comment>Placeholders are layer name + width</comment>
-        <translation type="unfinished"/>
+        <translation>(%1)的走线最小铜箔宽度：%2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="401"/>
         <source>Check minimum PTH restrings...</source>
-        <translation type="unfinished"/>
+        <translation>检查最小的 PTH-电镀通孔-Plating through hole Restrings...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="408"/>
         <source>Min. via restring (&apos;%1&apos;): %2</source>
         <comment>Placeholders are net name + restring width</comment>
-        <translation type="unfinished"/>
+        <translation>连接线(&apos;%1&apos;)的导通孔 Restring 最小宽度：%2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="432"/>
         <source>Min. pad restring (&apos;%1&apos;): %2</source>
         <comment>Placeholders are pad name + restring width</comment>
-        <translation type="unfinished"/>
+        <translation>焊盘(&apos;%1&apos;)的 Restring 最小宽度：%2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="451"/>
         <source>Check minimum PTH drill diameters...</source>
-        <translation type="unfinished"/>
+        <translation>检查最小的 PTH（电镀通孔-Plating through hole） 鑽孔直径...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="457"/>
         <source>Min. via drill diameter (&apos;%1&apos;): %2</source>
         <comment>Placeholders are net name + drill diameter</comment>
-        <translation type="unfinished"/>
+        <translation>连接线(&apos;%1&apos;)的导通孔钻孔最小直径：%2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="478"/>
         <source>Min. pad drill diameter (&apos;%1&apos;): %2</source>
         <comment>Placeholders are pad name + drill diameter</comment>
-        <translation type="unfinished"/>
+        <translation>焊盘(&apos;%1&apos;)的钻孔最小直径：%2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="496"/>
         <source>Check minimum NPTH drill diameters...</source>
-        <translation type="unfinished"/>
+        <translation>检查最小的 NPTH （Non Plating Through Hole-非电镀通孔）钻孔直径...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/boards/drc/boarddesignrulecheck.cpp" line="498"/>
         <source>Min. hole diameter: %1</source>
         <comment>Placeholder is drill diameter</comment>
-        <translation type="unfinished"/>
+        <translation>最小孔洞直径：%1</translation>
     </message>
 </context>
 <context>
@@ -6797,19 +6797,19 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="165"/>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="194"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>已经有一个相同名称&quot;%1&quot;的连接线类别！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="252"/>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="282"/>
         <source>There is already a net signal with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>已经有一个相同名称&quot;%1&quot;的连接线讯号！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="337"/>
         <location filename="../libs/librepcb/project/circuit/circuit.cpp" line="367"/>
         <source>There is already a component with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>已经有一个相同名称&quot;%1&quot;的组件！</translation>
     </message>
 </context>
 <context>
@@ -7005,7 +7005,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/circuit/cmd/cmdcomponentinstanceadd.cpp" line="80"/>
         <source>The component with the UUID &quot;%1&quot; does not exist in the project&apos;s library!</source>
-        <translation type="unfinished"/>
+        <translation>UUID为&quot;%1&quot;的组件不存在于项目的元件库中！</translation>
     </message>
 </context>
 <context>
@@ -7278,27 +7278,27 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="70"/>
         <source>The component with the UUID &quot;%1&quot; does not exist in the project&apos;s library!</source>
-        <translation type="unfinished"/>
+        <translation>UUID为&quot;%1&quot;的组件不存在于项目的元件库中！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="281"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>无法移除元件&quot;%1&quot;因为它正在被使用中！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="320"/>
         <source>All symbols of a component must be placed in the same schematic.</source>
-        <translation type="unfinished"/>
+        <translation>所有组件的符号必须放置在同一张线路图中。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="419"/>
         <source>Unplaced required symbols of component &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>组件&quot;%1&quot;有必须却未被放入的符号：%2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentinstance.cpp" line="423"/>
         <source>Unplaced optional symbols of component &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>元件&quot;%1&quot;有可选放却没被放入的符号：%2</translation>
     </message>
 </context>
 <context>
@@ -7311,7 +7311,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="230"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>无法移除元件&quot;%1&quot;因为它正在被使用中！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/project/circuit/componentsignalinstance.cpp" line="302"/>
