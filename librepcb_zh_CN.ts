@@ -96,22 +96,23 @@
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="98"/>
         <source>None (no text)</source>
-        <translation type="unfinished"/>
+        <translation>无（无文本）</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="104"/>
         <source>Symbol pin name</source>
-        <translation type="unfinished"/>
+        <translation>符号引脚名称</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="110"/>
         <source>Component signal name</source>
-        <translation type="unfinished"/>
+        <translation>元件信号名称
+</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/cmpsigpindisplaytype.h" line="116"/>
         <source>Schematic net name</source>
-        <translation type="unfinished"/>
+        <translation>电路图连接线名称</translation>
     </message>
 </context>
 <context>
@@ -192,7 +193,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="118"/>
         <source>Export PCB fabrication data (Gerber/Excellon) according the fabrication output settings of boards. Existing files will be overwritten.</source>
-        <translation type="unfinished"/>
+        <translation>根据电路板的制造用数据设定值导出 PCB 加工资料 (Gerber/Excellon)。存在的文件将被覆盖。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="123"/>
