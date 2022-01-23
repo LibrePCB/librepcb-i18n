@@ -684,12 +684,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/msg/msgmissingsymbolvariant.cpp" line="36"/>
         <source>No symbol variant defined</source>
-        <translation type="unfinished"/>
+        <translation>未定义符号变量</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/msg/msgmissingsymbolvariant.cpp" line="37"/>
         <source>Every component requires at least one symbol variant, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"/>
+        <translation>每个组件都需要至少一个符号变量，否则无法添加到原理图中。</translation>
     </message>
 </context>
 <context>
@@ -702,7 +702,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/msg/msgmissingsymbolvariantitem.cpp" line="42"/>
         <source>Every symbol variant requires at least one symbol item, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"/>
+        <translation>每个符号变量都需要至少一个符号项，否则无法添加到原理图中。</translation>
     </message>
 </context>
 <context>
@@ -710,12 +710,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/msg/msgnamenottitlecase.cpp" line="36"/>
         <source>Name not title case: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>名称未遵循标题首字母大写原则: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/msg/msgnamenottitlecase.cpp" line="37"/>
         <source>Generally the library element name should be written in title case (for consistency). As the current name has words starting with a lowercase character, it seems that it is not title cases. If this assumption is wrong, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>通常元件库元素命名需要依循标题字首大写原则（为了保持延续性）。当单字字首不是大写，就不符合该原则。若您认为此判断有误，请忽略此讯息。</translation>
     </message>
 </context>
 <context>
@@ -723,7 +723,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/dev/msg/msgnopadsindeviceconnected.cpp" line="37"/>
         <source>No pads connected</source>
-        <translation type="unfinished"/>
+        <translation>没有连接焊盘</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/dev/msg/msgnopadsindeviceconnected.cpp" line="38"/>
@@ -732,7 +732,11 @@ Passive parts: Using an attribute, e.g. %3</source>
 To fix this issue, connect the package pads to their corresponding component signals in the table widget.
 
 If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
-        <translation type="unfinished"/>
+        <translation>选择的封装包含焊盘，却皆未连接至组件讯号。所以当此设备被加入到PCB时候，它的焊盘不会存在任何电气功能。
+
+如欲修正此问题，请至表格工具中进行封装焊盘至对应组件讯号的连接。
+
+若所有的点都仅有机械用途而不需要连接任何组件讯号，可以忽略此讯息。</translation>
     </message>
 </context>
 <context>
@@ -740,12 +744,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgoverlappingsymbolpins.cpp" line="42"/>
         <source>There are multiple pins at the same position. This is not allowed because you cannot connect wires to these pins in the schematic editor.</source>
-        <translation type="unfinished"/>
+        <translation>同一位置有多个引脚。 这是不允许的，因为您无法在原理图编辑器中将电线连接到这些引脚。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgoverlappingsymbolpins.cpp" line="62"/>
         <source>Overlapping pins: %1</source>
-        <translation type="unfinished"/>
+        <translation>重叠引脚：%1</translation>
     </message>
 </context>
 <context>
@@ -753,12 +757,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgpadclearanceviolation.cpp" line="43"/>
         <source>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>在&apos;%3&apos;中焊垫&apos;%1&apos;到焊垫&apos;%2&apos;的安全间距</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgpadclearanceviolation.cpp" line="46"/>
         <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
-        <translation type="unfinished"/>
+        <translation>焊盘彼此之间应至少有 %1 的安全间距。 在某些情况下，可能需要使用较小的间隙，但并非所有 PCB 制造商都能可靠地生产出如此小的间隙，因此通常应避免这种情况。</translation>
     </message>
 </context>
 <context>
@@ -766,12 +770,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgpadoverlapswithplacement.cpp" line="42"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to placement layer</source>
-        <translation type="unfinished"/>
+        <translation>在&apos;%2&apos;中焊盘&apos;%1&apos;到装配区的安全间距</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgpadoverlapswithplacement.cpp" line="44"/>
         <source>Pads should have at least %1 clearance to the outlines layer because outlines are drawn on silkscreen which will be cropped for Gerber export.</source>
-        <translation type="unfinished"/>
+        <translation>焊盘应与边框层至少有 %1 的安全间距，因为边框是在丝网上绘制的，丝网印刷将被裁剪以用于 Gerber 导出。</translation>
     </message>
 </context>
 <context>
@@ -779,7 +783,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgsymbolpinnotongrid.cpp" line="41"/>
         <source>Pin not on %1mm grid: &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>引脚没有对齐到 %1mm 网格: &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgsymbolpinnotongrid.cpp" line="43"/>
@@ -793,12 +797,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgwrongfootprinttextlayer.cpp" line="44"/>
         <source>Layer of &apos;%1&apos; in &apos;%2&apos; is not &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>在&apos;%2&apos;中的&apos;%1&apos;层不是&apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgwrongfootprinttextlayer.cpp" line="47"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>文本元素&apos;%1&apos;通常应该在&apos;%2&apos;层中。</translation>
     </message>
 </context>
 <context>
@@ -806,12 +810,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgwrongsymboltextlayer.cpp" line="41"/>
         <source>Layer of &apos;%1&apos; is not &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos;层不是&apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgwrongsymboltextlayer.cpp" line="43"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>文本元素&apos;%1&apos;通常应该在&apos;%2&apos;层中。</translation>
     </message>
 </context>
 <context>
@@ -842,42 +846,42 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/serialization/sexpression.cpp" line="242"/>
         <source>Invalid S-Expression list name: %1</source>
-        <translation type="unfinished"/>
+        <translation>无效的 S-Expression 列表名称：%1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/sexpression.cpp" line="270"/>
         <source>Invalid S-Expression token: %1</source>
-        <translation type="unfinished"/>
+        <translation>无效的 S-Expression token：%1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/sexpression.h" line="266"/>
         <source>Not a valid boolean.</source>
-        <translation type="unfinished"/>
+        <translation>不是一个有效的布尔值</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/sexpression.h" line="278"/>
         <source>Not a valid integer.</source>
-        <translation type="unfinished"/>
+        <translation>不是一个有效的整数</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/sexpression.h" line="290"/>
         <source>Not a valid unsigned integer.</source>
-        <translation type="unfinished"/>
+        <translation>不是一个有效的无符号整数</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/sexpression.h" line="303"/>
         <source>Not a valid datetime.</source>
-        <translation type="unfinished"/>
+        <translation>不是有效日期</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/sexpression.h" line="314"/>
         <source>Not a valid color.</source>
-        <translation type="unfinished"/>
+        <translation>不是有效颜色</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/sexpression.h" line="324"/>
         <source>Not a valid URL.</source>
-        <translation type="unfinished"/>
+        <translation>不是有效的URL</translation>
     </message>
 </context>
 <context>
@@ -885,12 +889,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="92"/>
         <source>Key &quot;%1&quot; defined multiple times.</source>
-        <translation type="unfinished"/>
+        <translation>键值&quot;%1&quot;已被多次定义。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="100"/>
         <source>No default %1 defined.</source>
-        <translation type="unfinished"/>
+        <translation>未定义默认 %1。</translation>
     </message>
 </context>
 <context>
@@ -898,12 +902,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="460"/>
         <source>There is no element of type &quot;%1&quot; with the UUID &quot;%2&quot; in the list.</source>
-        <translation type="unfinished"/>
+        <translation>列表中没有 UUID-唯一识别码 为“%2”的类型为“%1”的元素。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="469"/>
         <source>There is no element of type &quot;%1&quot; with the name &quot;%2&quot; in the list.</source>
-        <translation type="unfinished"/>
+        <translation>列表中没有名称为“%2”的类型为“%1”的元素。</translation>
     </message>
 </context>
 <context>
@@ -911,7 +915,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="88"/>
         <source>Passive</source>
-        <translation type="unfinished"/>
+        <translation>被动</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="94"/>
@@ -921,27 +925,27 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="100"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>输入</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="106"/>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>输出</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="112"/>
         <source>I/O</source>
-        <translation type="unfinished"/>
+        <translation>I/O-输入输出</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="118"/>
         <source>Open Drain</source>
-        <translation type="unfinished"/>
+        <translation>漏极开路</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="150"/>
         <source>Invalid signal role: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>无效的信号角色：“%1”</translation>
     </message>
 </context>
 <context>
@@ -949,7 +953,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/font/strokefontpool.cpp" line="68"/>
         <source>The font &quot;%1&quot; does not exist in the font pool.</source>
-        <translation type="unfinished"/>
+        <translation>字体池中不存在字体“%1”。</translation>
     </message>
 </context>
 <context>
@@ -959,17 +963,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <location filename="../libs/librepcb/core/systeminfo.cpp" line="198"/>
         <location filename="../libs/librepcb/core/systeminfo.cpp" line="206"/>
         <source>Could not determine if another process is running.</source>
-        <translation type="unfinished"/>
+        <translation>无法确定是否有另一个进程正在运行。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/systeminfo.cpp" line="228"/>
         <source>proc_name() failed with error %1.</source>
-        <translation type="unfinished"/>
+        <translation>proc_name() 执行失败，错误 %1。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/systeminfo.cpp" line="251"/>
         <source>sysctl() failed with retval=%1 and errno=%2.</source>
-        <translation type="unfinished"/>
+        <translation>sysctl() 错误 返回值=%1 错误码=%2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/systeminfo.cpp" line="266"/>
@@ -984,7 +988,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/systeminfo.cpp" line="304"/>
         <source>QueryFullProcessImageNameW() failed with error %1.</source>
-        <translation type="unfinished"/>
+        <translation>QueryFullProcessImageNameW() 执行失败，错误 %1。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/systeminfo.cpp" line="330"/>
@@ -997,7 +1001,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/utils/toolbox.h" line="540"/>
         <source>Invalid fixed point number string: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>无效的定点数字符串：“%1” 。定点数：小数点位置固定的数,也就是小数点后面的位数是固定的</translation>
     </message>
 </context>
 <context>
@@ -1013,7 +1017,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/types/alignment.h" line="174"/>
         <source>Invalid vertical alignment: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>无效的垂直对齐：&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -1042,12 +1046,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../apps/librepcb/main.cpp" line="190"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
-        <translation type="unfinished"/>
+        <translation>无法打开工作区 &quot;%1&quot;:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="254"/>
         <source>This directory is not a valid LibrePCB workspace.</source>
-        <translation type="unfinished"/>
+        <translation>此目录不是有效的 LibrePCB 工作区。</translation>
     </message>
 </context>
 <context>
@@ -1086,12 +1090,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <location filename="../libs/librepcb/core/network/orderpcbapirequest.cpp" line="85"/>
         <source>The project is too large (%1). If you manually added files to the project directory, you might need to move them out of the project directory.</source>
         <comment>Placeholder is the file size.</comment>
-        <translation type="unfinished"/>
+        <translation>项目太大 (%1)。 如果您是手动将文件添加到项目目录，则可能需要将它们移出项目目录。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_netsegment.cpp" line="183"/>
         <source>(no net)</source>
-        <translation type="unfinished"/>
+        <translation>( 没有连接线 )</translation>
     </message>
 </context>
 <context>
@@ -1185,7 +1189,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/attribute/attrtypestring.cpp" line="37"/>
         <source>String</source>
-        <translation type="unfinished"/>
+        <translation>字符串</translation>
     </message>
 </context>
 <context>
@@ -1201,12 +1205,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="133"/>
         <source>No device with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
-        <translation type="unfinished"/>
+        <translation>在项目的元件库中找不到 UUID-唯一识别码为&quot;%1&quot; 的设备。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="153"/>
         <source>No package with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
-        <translation type="unfinished"/>
+        <translation>在项目元件库中找不到 UUID-唯一识别码 为&quot;%1&quot;的封装。</translation>
     </message>
 </context>
 <context>
@@ -1214,7 +1218,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_netpoint.cpp" line="64"/>
         <source>Dead net point in board &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>在电路板&quot;%1&quot;中有连接死点%2</translation>
     </message>
 </context>
 <context>
@@ -1222,12 +1226,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_plane.cpp" line="90"/>
         <source>Invalid net signal UUID: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>无效的连接线讯号 UUID-唯一识别码：&quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_plane.h" line="183"/>
         <source>Unknown plane connect style: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>未知的平面连接样式：&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
