@@ -198,12 +198,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="123"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>提供一个包含自定义的 *.lp 文件设置来覆盖 PCB 加工资料的设置。如果未设置则会使用专案中电路板的设置。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="128"/>
         <source>The name of the board(s) to export. Can be given multiple times. If not set, all boards are exported.</source>
-        <translation type="unfinished"/>
+        <translation>需要导出的（一张或多张）电路板名称，可以多次指定。未设定将导出全部电路板。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="131"/>
@@ -218,12 +218,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="137"/>
         <source>Fail if the project files are not strictly canonical, i.e. there would be changes when saving the project. Note that this option is not available for *.lppz files.</source>
-        <translation type="unfinished"/>
+        <translation>如果项目文件不是严格规范的，则失败，即保存项目时会有更改。 请注意，此选项不适用于 *.lppz 文件。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="152"/>
         <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
-        <translation type="unfinished"/>
+        <translation>如果打开的文件不是严格规范的，则失败，即保存元件库元素时会有更改。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="192"/>
@@ -263,7 +263,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="148"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
-        <translation type="unfinished"/>
+        <translation>在关闭库之前保存库（如果给出“--all”，则保存包含的元素）（对升级文件格式有用）。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="171"/>
@@ -317,7 +317,7 @@
     <message>
         <location filename="../libs/librepcb/library/cmp/componentprefix.h" line="49"/>
         <source>Invalid component prefix: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>无效的组件前缀: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -325,7 +325,7 @@
     <message>
         <location filename="../libs/librepcb/library/cmp/componentsymbolvariantitemsuffix.h" line="48"/>
         <source>Invalid component symbol suffix: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>无效的component符号后缀: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -344,7 +344,7 @@
     <message>
         <location filename="../libs/librepcb/common/fileio/directorylock.cpp" line="166"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
-        <translation type="unfinished"/>
+        <translation>无法锁定目录&quot;%1&quot;，因为它已被 &quot;%2&quot;锁定。 关闭任何访问此目录的应用程序，然后重试。</translation>
     </message>
 </context>
 <context>
@@ -352,12 +352,12 @@
     <message>
         <location filename="../libs/librepcb/common/import/dxfreader.cpp" line="187"/>
         <source>File does not exist or is not readable.</source>
-        <translation type="unfinished"/>
+        <translation>文件不存在或不可读。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/import/dxfreader.cpp" line="193"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>未能读取 DXF 文件 &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -365,7 +365,7 @@
     <message>
         <location filename="../libs/librepcb/common/elementname.h" line="60"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>无效名称: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -441,7 +441,7 @@
     <message>
         <location filename="../libs/librepcb/common/graphics/graphicslayername.h" line="48"/>
         <source>Not a valid graphics layer name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>不是有效的图形图层名称: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -457,7 +457,7 @@
     <message>
         <location filename="../libs/librepcb/common/alignment.h" line="102"/>
         <source>Invalid horizontal alignment: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>无效的水平对齐：&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -465,12 +465,12 @@
     <message>
         <location filename="../libs/librepcb/common/units/length.h" line="654"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"/>
+        <translation>值必须 &gt;= 0！</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/common/units/length.h" line="774"/>
         <source>Value must be &gt; 0!</source>
-        <translation type="unfinished"/>
+        <translation>值必须 &gt; 0！</translation>
     </message>
 </context>
 <context>
@@ -614,7 +614,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgduplicatepinname.cpp" line="40"/>
         <source>All symbol pins must have unique names, otherwise they cannot be distinguished later in the component editor. If your part has several pins with same functionality (e.g. multiple GND pins), you should add only one of these pins to the symbol. The assignment to multiple leads should be done in the device editor instead.</source>
-        <translation type="unfinished"/>
+        <translation>所有在符号上的引脚必须以不同的名称命名，否则之后的元件编辑器中将无法做出区别。如果你的元件有多支相同功能的引脚（例如：数支 GND 脚），你应该只将其中一支引脚加入到符号中。数支引脚的指定应该要在装置编辑器中被完成。</translation>
     </message>
 </context>
 <context>
@@ -627,7 +627,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgduplicatesignalname.cpp" line="42"/>
         <source>All component signals must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several pins which are electrically exactly equal (e.g. multiple GND pins), you should add only one of these pins as a component signal. The assignment to multiple pins should be done in the device editor instead.</source>
-        <translation type="unfinished"/>
+        <translation>所有在元件上的讯号必须以不同的名称命名，否则之后的装置编辑器中将无法做出区别。如果你的元件有多支电气特性相同的引脚（例如：数支 GND 脚），你应该只将其中一支引脚加入到符号中。数支引脚的指定应该要在装置编辑器中被完成。</translation>
     </message>
 </context>
 <context>
@@ -653,7 +653,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/library/msg/msgmissingcategories.cpp" line="38"/>
         <source>It&apos;s very important to assign every library element to at least one category. Otherwise it will be very hard to find the element in the workspace library, so it&apos;s highly recommended to fix this.</source>
-        <translation type="unfinished"/>
+        <translation>在元件库中将每一个元件指定到至少一个分类非常重要，不然未来在工作区元件库中会很难找到该元件，所以强烈建议将此修正。</translation>
     </message>
 </context>
 <context>
@@ -670,7 +670,11 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
 Generic parts (e.g. a diode): %1
 Specific parts (e.g. a microcontroller): %2
 Passive parts: Using an attribute, e.g. %3</source>
-        <translation type="unfinished"/>
+        <translation>多数元件应该要有预设数值。当元件被加入电路图时，预设数值将成为元件的值。这也包括之后在电路图中会被置入的置换符号。常用的预设数值有：
+
+通用元件（比如二极管）：%1
+特规元件（比如微控制器）：%2
+被动元件：使用属性，比如%3</translation>
     </message>
 </context>
 <context>
@@ -683,7 +687,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingcomponentprefix.cpp" line="38"/>
         <source>Most components should have a prefix defined. The prefix is used to generate the component&apos;s name when adding it to a schematic. For example the prefix &apos;R&apos; (resistor) leads to component names &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos; etc.</source>
-        <translation type="unfinished"/>
+        <translation>多数元件应该要有一个前缀定义。前缀定义是在将元件加入电路图时用来产生元件名称的。举例来说，前缀字&apos;R&apos;(resistor)产生元件名称&apos;R1&apos;,&apos;R2&apos;,&apos;R3&apos;，依此类推。</translation>
     </message>
 </context>
 <context>
@@ -709,7 +713,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintname.cpp" line="43"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>大多数封装应该有一个组件名称的文本元素，否则您将不会在 PCB 上看到该名称（例如在丝印上）。 只有少数不需要名称的例外情况（例如，封装只是一张图纸），如果是后者您可以忽略此消息。</translation>
     </message>
 </context>
 <context>
@@ -722,7 +726,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/pkg/msg/msgmissingfootprintvalue.cpp" line="43"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>大多数封装应具有组件值的文本元件，否则您将不会在 PCB 上看到该值（例如在丝印上）。 只有少数不需要值的例外情况（例如，如果封装只是一张图纸），如果是后者您可以忽略此消息。</translation>
     </message>
 </context>
 <context>
@@ -735,7 +739,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolname.cpp" line="38"/>
         <source>Most symbols should have a text element for the component&apos;s name, otherwise you won&apos;t see that name in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a name, for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>大多数符号应该有一个组件名称的文本元件，否则您将不会在原理图中看到该名称。 只有少数例外（例如原理图框架）不需要名称，如果是后者您可以忽略此消息。</translation>
     </message>
 </context>
 <context>
@@ -748,7 +752,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/sym/msg/msgmissingsymbolvalue.cpp" line="38"/>
         <source>Most symbols should have a text element for the component&apos;s value, otherwise you won&apos;t see that value in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a value, for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>大多数符号应该有一个组件值的文本元件，否则您将不会在原理图中看到该值。 只有少数例外（例如原理图框架）不需要值，对于后者您可以忽略此消息的情况。</translation>
     </message>
 </context>
 <context>
@@ -756,7 +760,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariant.cpp" line="37"/>
         <source>No symbol variant defined</source>
-        <translation type="unfinished"/>
+        <translation>未定义符号变量</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/library/cmp/msg/msgmissingsymbolvariant.cpp" line="38"/>
@@ -891,7 +895,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/common/units/ratio.h" line="311"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"/>
+        <translation>值必须 &gt;= 0！</translation>
     </message>
 </context>
 <context>
