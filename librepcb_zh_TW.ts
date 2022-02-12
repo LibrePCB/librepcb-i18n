@@ -2036,7 +2036,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::SQLiteDatabase</name>
     <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="73"/>
+        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="72"/>
         <source>Invalid database: &quot;%1&quot;</source>
         <translation>無效的資料庫：&quot;%1&quot;</translation>
     </message>
@@ -2044,37 +2044,6 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="80"/>
         <source>Could not open database: &quot;%1&quot;</source>
         <translation>無法開啟資料庫：&quot;%1&quot;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="108"/>
-        <source>Could not start database transaction.</source>
-        <translation>無法開始資料庫交易。</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="119"/>
-        <source>Could not commit database transaction.</source>
-        <translation>無法提交資料庫交易。</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="133"/>
-        <source>Could not rollback database transaction.</source>
-        <translation>無法倒回資料庫交易。</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="157"/>
-        <source>Error while preparing SQL query: %1</source>
-        <translation>準備查詢 SQL 時出錯：%1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="187"/>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="197"/>
-        <source>Error while executing SQL query: %1</source>
-        <translation>執行查詢 SQL 時出錯：%1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="218"/>
-        <source>Could not enable SQLite Write-Ahead Logging: &quot;%1&quot;</source>
-        <translation>無法啟用 SQLite 的 Write-Ahead Logging 模式：&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -2126,34 +2095,6 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="68"/>
         <source>The workspace version %1 is not compatible with this application version.</source>
         <translation>工作區版本 %1 不相容於此版本的應用程式。</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::WorkspaceLibraryDb</name>
-    <message>
-        <location filename="../libs/librepcb/core/workspace/workspacelibrarydb.cpp" line="397"/>
-        <source>Library not found in workspace library: &quot;%1&quot;</source>
-        <translation>工作區的元件庫中找不到&quot;%1&quot;元件庫</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/workspace/workspacelibrarydb.cpp" line="418"/>
-        <source>Device not found in workspace library: &quot;%1&quot;</source>
-        <translation>工作區的元件庫中找不到&quot;%1&quot;裝置</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/workspace/workspacelibrarydb.cpp" line="626"/>
-        <source>Endless loop in category parentship detected (%1).</source>
-        <translation>分類的繼承關係中偵測到無窮迴圈 (%1)。</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/workspace/workspacelibrarydb.cpp" line="652"/>
-        <source>The category &quot;%1&quot; does not exist in the library database.</source>
-        <translation>分類&quot;%1&quot;不存在於元件庫的資料庫中。</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/workspace/workspacelibrarydb.cpp" line="735"/>
-        <source>The library &quot;%1&quot; does not exist in the library database.</source>
-        <translation>元件庫&quot;%1&quot;不存在於元件庫的資料庫中。</translation>
     </message>
 </context>
 <context>
@@ -2358,12 +2299,12 @@ You need at least LibrePCB %1 to open it.
         <translation>選取檔案</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/categorytreelabeltextbuilder.cpp" line="91"/>
-        <source>Endless recursion detected!</source>
-        <translation>偵測到無窮的遞迴！</translation>
+        <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="94"/>
+        <source>ERROR: %1 not found</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/categorytreelabeltextbuilder.cpp" line="117"/>
+        <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="98"/>
         <source>Root category</source>
         <translation>根分類</translation>
     </message>
@@ -2396,6 +2337,11 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/undostack.cpp" line="105"/>
         <source>Redo</source>
         <translation>重做</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/cat/categorytreelabeltextbuilder.cpp" line="81"/>
+        <source>Please choose a category.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2507,22 +2453,22 @@ You need at least LibrePCB %1 to open it.
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="425"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="422"/>
         <source>No component selected</source>
         <translation>沒有選擇的元件</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="493"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="490"/>
         <source>No device selected</source>
         <translation>沒有選擇的裝置</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="532"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="529"/>
         <source>Invalid Selection</source>
         <translation>無效的選擇</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="533"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="530"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>請選取一個裝置和一個符號變體。</translation>
     </message>
@@ -4146,14 +4092,6 @@ You need at least LibrePCB %1 to open it.
     </message>
 </context>
 <context>
-    <name>librepcb::editor::CategoryListEditorWidgetBase</name>
-    <message>
-        <location filename="../libs/librepcb/editor/library/cat/categorylisteditorwidget.cpp" line="123"/>
-        <source>Root category</source>
-        <translation>根分類</translation>
-    </message>
-</context>
-<context>
     <name>librepcb::editor::CirclePropertiesDialog</name>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="14"/>
@@ -5229,27 +5167,27 @@ You need at least LibrePCB %1 to open it.
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="176"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="174"/>
         <source>Could not load components</source>
         <translation>無法載入元件</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="183"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="181"/>
         <source>No component selected</source>
         <translation>沒有選擇的元件</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="193"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="191"/>
         <source>Could not load component metadata</source>
         <translation>無法載入元件的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="248"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="246"/>
         <source>Invalid Selection</source>
         <translation>無效的選擇</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="249"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="247"/>
         <source>Please select a component.</source>
         <translation>請選取一個元件。</translation>
     </message>
@@ -7914,42 +7852,42 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation>復原失敗</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="406"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="407"/>
         <source>Open</source>
         <translation>開啟</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="406"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="407"/>
         <source>Edit</source>
         <translation>編輯</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="409"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="410"/>
         <source>Duplicate</source>
         <translation>製作副本</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="413"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="414"/>
         <source>Remove</source>
         <translation>移除</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="418"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="419"/>
         <source>Copy to other library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="420"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="421"/>
         <source>Move to other library</source>
         <translation>移動到其它元件庫</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="434"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="435"/>
         <source>New</source>
         <translation>新增</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="529"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="530"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -7958,58 +7896,58 @@ Are you still sure to delete the following library elements?</source>
 您依然確定要刪除以下元件庫元素嗎？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="542"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="543"/>
         <source>This cannot be undone!</source>
         <translation>此動作無法被復原！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="546"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="547"/>
         <source>Remove %1 elements</source>
         <translation>移除 %1 元素</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="558"/>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="611"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="559"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="612"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="572"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="573"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation>您確定要移動以下元素到元件庫 &apos;%1&apos; 內？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="573"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="574"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="583"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="584"/>
         <source>Note: This cannot be easily undone!</source>
         <translation>註：此動作沒那麼容易被復原！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="587"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="588"/>
         <source>Move %1 elements</source>
         <translation>移動 %1 元素</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="587"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="588"/>
         <source>Copy %1 elements</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="656"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="657"/>
         <source>Choose library icon</source>
         <translation>選取元件庫圖示</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="658"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="659"/>
         <source>Portable Network Graphics (*.png)</source>
         <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="664"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="665"/>
         <source>Could not open file</source>
         <translation>無法開啟檔案</translation>
     </message>
@@ -8348,12 +8286,7 @@ Are you still sure to delete the following library elements?</source>
         <translation>重設</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.cpp" line="198"/>
-        <source>Root category</source>
-        <translation>根分類</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.cpp" line="204"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.cpp" line="211"/>
         <source>... and %1 more.</source>
         <translation>,,, 還剩 %1 個
 </translation>
@@ -8704,27 +8637,27 @@ Are you still sure to delete the following library elements?</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="176"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="173"/>
         <source>Could not load packages</source>
         <translation>無法載入封裝</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="183"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="180"/>
         <source>No package selected</source>
         <translation>沒有選擇的封裝</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="193"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="190"/>
         <source>Could not load package metadata</source>
         <translation>無法載入封裝的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="227"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="224"/>
         <source>Invalid Selection</source>
         <translation>無效的選擇</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="228"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="225"/>
         <source>Please select a package.</source>
         <translation>請選取一個封裝。</translation>
     </message>
@@ -10238,27 +10171,27 @@ p, li { white-space: pre-wrap; }
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="192"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="190"/>
         <source>Could not load symbols</source>
         <translation>無法載入符號</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="200"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="198"/>
         <source>No symbol selected</source>
         <translation>沒有選擇的符號</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="219"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="217"/>
         <source>Could not load symbol</source>
         <translation>無法載入符號</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="226"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="224"/>
         <source>Invalid Selection</source>
         <translation>無效的選擇</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="227"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="225"/>
         <source>Please select a symbol.</source>
         <translation>請選取一個符號。</translation>
     </message>

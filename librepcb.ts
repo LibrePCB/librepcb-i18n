@@ -2311,7 +2311,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="94"/>
         <source>ERROR: %1 not found</source>
-        <translation type="unfinished"></translation>
+        <translation>ERROR: %1 not found</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="98"/>
@@ -2351,7 +2351,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreelabeltextbuilder.cpp" line="81"/>
         <source>Please choose a category.</source>
-        <translation type="unfinished"></translation>
+        <translation>Please choose a category.</translation>
     </message>
 </context>
 <context>

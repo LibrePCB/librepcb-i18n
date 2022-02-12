@@ -2037,7 +2037,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
 <context>
     <name>librepcb::SQLiteDatabase</name>
     <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="73"/>
+        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="72"/>
         <source>Invalid database: &quot;%1&quot;</source>
         <translation>Nesprávná databáze: &quot;%1&quot;</translation>
     </message>
@@ -2045,37 +2045,6 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="80"/>
         <source>Could not open database: &quot;%1&quot;</source>
         <translation>Nepodařilo se otevřít databázi: &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="108"/>
-        <source>Could not start database transaction.</source>
-        <translation>Nepodařilo se spustit databázovou transakci.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="119"/>
-        <source>Could not commit database transaction.</source>
-        <translation>Nepodařilo se potvrdit databázovou transakci.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="133"/>
-        <source>Could not rollback database transaction.</source>
-        <translation>Databázová transakce se nedá vrátit zpět.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="157"/>
-        <source>Error while preparing SQL query: %1</source>
-        <translation>Vyskytla se chyba během vytváření dotazu SQL: %1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="187"/>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="197"/>
-        <source>Error while executing SQL query: %1</source>
-        <translation>Vyskytla se chyba během vykonávání SQL dotazu: %1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="218"/>
-        <source>Could not enable SQLite Write-Ahead Logging: &quot;%1&quot;</source>
-        <translation>Nepodařilo se povolit spuštění záznamu SQLite Write-Ahead: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -2127,34 +2096,6 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="68"/>
         <source>The workspace version %1 is not compatible with this application version.</source>
         <translation>Verze pracovního prostoru %1 není kompatibilní s touto verzí programu.</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::WorkspaceLibraryDb</name>
-    <message>
-        <location filename="../libs/librepcb/core/workspace/workspacelibrarydb.cpp" line="397"/>
-        <source>Library not found in workspace library: &quot;%1&quot;</source>
-        <translation>Knihovna se nenachází v knihovně pracovního prostoru: &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/workspace/workspacelibrarydb.cpp" line="418"/>
-        <source>Device not found in workspace library: &quot;%1&quot;</source>
-        <translation>Součástka se nenachází v knihovně pracovního prostoru: &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/workspace/workspacelibrarydb.cpp" line="626"/>
-        <source>Endless loop in category parentship detected (%1).</source>
-        <translation>Byly zjištěny odkazy kategorií ve smyčce (%1).</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/workspace/workspacelibrarydb.cpp" line="652"/>
-        <source>The category &quot;%1&quot; does not exist in the library database.</source>
-        <translation>Kategorie &quot;%1&quot; se nenachází v databázi knihoven.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/workspace/workspacelibrarydb.cpp" line="735"/>
-        <source>The library &quot;%1&quot; does not exist in the library database.</source>
-        <translation>Knihovna &quot;%1&quot;  se nenachází v databázi knihoven.</translation>
     </message>
 </context>
 <context>
@@ -2359,12 +2300,12 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/categorytreelabeltextbuilder.cpp" line="91"/>
-        <source>Endless recursion detected!</source>
-        <translation>Zjištěna nekonečná rekurze!</translation>
+        <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="94"/>
+        <source>ERROR: %1 not found</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/categorytreelabeltextbuilder.cpp" line="117"/>
+        <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="98"/>
         <source>Root category</source>
         <translation>Kořenová kategorie</translation>
     </message>
@@ -2397,6 +2338,11 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <location filename="../libs/librepcb/editor/undostack.cpp" line="105"/>
         <source>Redo</source>
         <translation>Znovu</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/cat/categorytreelabeltextbuilder.cpp" line="81"/>
+        <source>Please choose a category.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2508,22 +2454,22 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="425"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="422"/>
         <source>No component selected</source>
         <translation>Není vybrána žádná komponenta</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="493"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="490"/>
         <source>No device selected</source>
         <translation>Není vybrána žádná součástka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="532"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="529"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výběr</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="533"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="530"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>Vyberte, prosím, komponentu a variantu schematické značky.</translation>
     </message>
@@ -4147,14 +4093,6 @@ Na otevření potřebujete alespoň LibrePCB %1.
     </message>
 </context>
 <context>
-    <name>librepcb::editor::CategoryListEditorWidgetBase</name>
-    <message>
-        <location filename="../libs/librepcb/editor/library/cat/categorylisteditorwidget.cpp" line="123"/>
-        <source>Root category</source>
-        <translation>Kořenová kategorie</translation>
-    </message>
-</context>
-<context>
     <name>librepcb::editor::CirclePropertiesDialog</name>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="14"/>
@@ -5230,27 +5168,27 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="176"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="174"/>
         <source>Could not load components</source>
         <translation>Nepodařilo se nahrát komponenty</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="183"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="181"/>
         <source>No component selected</source>
         <translation>Není vybrána žádná komponenta</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="193"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="191"/>
         <source>Could not load component metadata</source>
         <translation>Nepodařilo se nahrát popisná data komponenty</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="248"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="246"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výběr</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="249"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="247"/>
         <source>Please select a component.</source>
         <translation>Vyberte, prosím, komponentu.</translation>
     </message>
@@ -7916,42 +7854,42 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
         <translation>Nepodařilo se uložit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="406"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="407"/>
         <source>Open</source>
         <translation>Otevřít</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="406"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="407"/>
         <source>Edit</source>
         <translation>Upravit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="409"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="410"/>
         <source>Duplicate</source>
         <translation>Zdvojit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="413"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="414"/>
         <source>Remove</source>
         <translation>Odstranit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="418"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="419"/>
         <source>Copy to other library</source>
         <translation>Kopírovat do jiné knihovny</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="420"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="421"/>
         <source>Move to other library</source>
         <translation>Přesunout do jiné knihovny</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="434"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="435"/>
         <source>New</source>
         <translation>Nový</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="529"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="530"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -7959,58 +7897,58 @@ Are you still sure to delete the following library elements?</source>
 Opravdu chcete odstranit následující prvky knihovny?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="542"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="543"/>
         <source>This cannot be undone!</source>
         <translation>Tuto změnu nelze vrátit zpět!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="546"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="547"/>
         <source>Remove %1 elements</source>
         <translation>Odstranit %1 prvků</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="558"/>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="611"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="559"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="612"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="572"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="573"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation>Opravdu chcete přesunout následující prvky do knihovny &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="573"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="574"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
         <translation>Opravdu chcete kopírovat následující prvky do knihovny &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="583"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="584"/>
         <source>Note: This cannot be easily undone!</source>
         <translation>Poznámka: Tato změna není jednoduše vratná!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="587"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="588"/>
         <source>Move %1 elements</source>
         <translation>Přesun %1 prvků</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="587"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="588"/>
         <source>Copy %1 elements</source>
         <translation>Kopírování %1 prvků</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="656"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="657"/>
         <source>Choose library icon</source>
         <translation>Vybrat ikonu knihovny</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="658"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="659"/>
         <source>Portable Network Graphics (*.png)</source>
         <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="664"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="665"/>
         <source>Could not open file</source>
         <translation>Nepodařilo se otevřít soubor</translation>
     </message>
@@ -8349,12 +8287,7 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
         <translation>Obnovit výchozí nastavení</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.cpp" line="198"/>
-        <source>Root category</source>
-        <translation>Kořenová kategorie</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.cpp" line="204"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.cpp" line="211"/>
         <source>... and %1 more.</source>
         <translation>... a %1 další.</translation>
     </message>
@@ -8704,27 +8637,27 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="176"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="173"/>
         <source>Could not load packages</source>
         <translation>Nepodařilo se nahrát pouzdra</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="183"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="180"/>
         <source>No package selected</source>
         <translation>Není vybráno žádné pouzdro</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="193"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="190"/>
         <source>Could not load package metadata</source>
         <translation>Nepodařilo se nahrát popisná data pouzdra</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="227"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="224"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výběr</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="228"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="225"/>
         <source>Please select a package.</source>
         <translation>Vyberte, prosím, pouzdro.</translation>
     </message>
@@ -10238,27 +10171,27 @@ p, li { white-space: pre-wrap; }
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="192"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="190"/>
         <source>Could not load symbols</source>
         <translation>Nepodařilo se nahrát schematické značky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="200"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="198"/>
         <source>No symbol selected</source>
         <translation>Není vybrána žádná schematická značka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="219"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="217"/>
         <source>Could not load symbol</source>
         <translation>Nepodařilo se nahrát schematickou značku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="226"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="224"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výběr</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="227"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="225"/>
         <source>Please select a symbol.</source>
         <translation>Vyberte, prosím, schematickou značku.</translation>
     </message>
