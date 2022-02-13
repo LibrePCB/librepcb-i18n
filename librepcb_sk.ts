@@ -2344,6 +2344,11 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <source>Please choose a category.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="94"/>
+        <source>Category</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>librepcb::editor::AboutDialog</name>
@@ -2447,29 +2452,29 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Variant:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="180"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="193"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="228"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="181"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="194"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="229"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="422"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="423"/>
         <source>No component selected</source>
         <translation>Komponent nie je vybraný</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="490"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="491"/>
         <source>No device selected</source>
         <translation>Súčiastka nie je vybraná</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="529"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="530"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výber</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="530"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="531"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>Prosím, zvoľte komponent a variantu sch. značky.</translation>
     </message>
@@ -4090,6 +4095,19 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../libs/librepcb/editor/library/cat/categorylisteditorwidget.ui" line="57"/>
         <source>Remove selected</source>
         <translation>Odstrániť vybrané</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::CategoryTreeModel</name>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="137"/>
+        <source>(Without Category)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="138"/>
+        <source>All library elements without a category</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8297,7 +8315,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Vynulovať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.cpp" line="211"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.cpp" line="213"/>
         <source>... and %1 more.</source>
         <translation>... a %1 ďalšie.</translation>
     </message>
@@ -8642,32 +8660,32 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Čo hľadáte?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="96"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="97"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="173"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="174"/>
         <source>Could not load packages</source>
         <translation>Nedajú sa načítať púzdra</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="180"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="181"/>
         <source>No package selected</source>
         <translation>Púzdro nie je vybrané</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="190"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="191"/>
         <source>Could not load package metadata</source>
         <translation>Nedajú sa načítať metadáta púzdra</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="224"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="225"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výber</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="225"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="226"/>
         <source>Please select a package.</source>
         <translation>Prosím, zvoľte púzdro.</translation>
     </message>
@@ -8974,17 +8992,17 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Správy:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="219"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="218"/>
         <source>Invalid metadata</source>
         <translation>Neplatné metadáta</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="230"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="229"/>
         <source>Save failed</source>
         <translation>Uloženie neúspešné</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="326"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="325"/>
         <source>Edit package metadata</source>
         <translation>Upraviť metadáta púzdra</translation>
     </message>
@@ -10176,32 +10194,32 @@ p, li { white-space: pre-wrap; }
         <translation>Čo hľadáte?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="115"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="116"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="190"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="191"/>
         <source>Could not load symbols</source>
         <translation>Nadajú sa načítať sch. značky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="198"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="199"/>
         <source>No symbol selected</source>
         <translation>Schematická značka nie je vybraná</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="217"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="218"/>
         <source>Could not load symbol</source>
         <translation>Nedá sa načítať sch. značka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="224"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="225"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výber</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="225"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="226"/>
         <source>Please select a symbol.</source>
         <translation>Prosím, zvoľte sch. značku.</translation>
     </message>

@@ -2356,7 +2356,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="94"/>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Category</translation>
     </message>
 </context>
 <context>
@@ -4117,12 +4117,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="137"/>
         <source>(Without Category)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Without Category)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="138"/>
         <source>All library elements without a category</source>
-        <translation type="unfinished"></translation>
+        <translation>All library elements without a category</translation>
     </message>
 </context>
 <context>
