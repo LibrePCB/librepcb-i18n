@@ -2463,12 +2463,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="64"/>
         <source>&amp;Add more</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Add more</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="110"/>
         <source>If checked, this dialog will automatically be opened again after finishing placement of the current component.</source>
-        <translation type="unfinished"></translation>
+        <translation>If checked, this dialog will automatically be opened again after finishing placement of the current component.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="194"/>

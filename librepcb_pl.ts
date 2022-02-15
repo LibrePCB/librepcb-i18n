@@ -2329,7 +2329,7 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="94"/>
+        <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="105"/>
         <source>Category</source>
         <translation type="unfinished"/>
     </message>
@@ -2436,29 +2436,39 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="181"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="64"/>
+        <source>&amp;Add more</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="110"/>
+        <source>If checked, this dialog will automatically be opened again after finishing placement of the current component.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="194"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="229"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="207"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="242"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="423"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="419"/>
         <source>No component selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="491"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="478"/>
         <source>No device selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="530"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="512"/>
         <source>Invalid Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="531"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="513"/>
         <source>Please select a component and a symbol variant.</source>
         <translation type="unfinished"/>
     </message>
@@ -4082,12 +4092,12 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CategoryTreeModel</name>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="137"/>
+        <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="148"/>
         <source>(Without Category)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="138"/>
+        <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="149"/>
         <source>All library elements without a category</source>
         <translation type="unfinished"/>
     </message>
@@ -9827,31 +9837,31 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SchematicEditorState_AddComponent</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="85"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="88"/>
         <source>Value:</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="161"/>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="177"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="204"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="279"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="427"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="207"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="281"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="437"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="240"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="242"/>
         <source>Add Symbol to Schematic</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="325"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="327"/>
         <source>Add Component to Schematic</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="377"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="387"/>
         <source>The component with the UUID &quot;%1&quot; does not have any symbol.</source>
         <translation type="unfinished"/>
     </message>
