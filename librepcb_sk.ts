@@ -1903,7 +1903,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/core/network/orderpcbapirequest.cpp" line="138"/>
         <source>This service is currently not available. Please try again later or order the PCB manually either with the Gerber export or the *.lppz export.</source>
-        <translation>Táto služba je momentálne nedostupná. Skúste to znova neskôr alebo objednajte DPS ručne buď exportom do gerber formátu alebo exportom *.lppz. </translation>
+        <translation>Táto služba je momentálne nedostupná. Skúste to znova neskôr alebo objednajte DPS manuálne buď exportom do gerber formátu, alebo exportom *.lppz. </translation>
     </message>
 </context>
 <context>
@@ -2302,7 +2302,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="94"/>
         <source>ERROR: %1 not found</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA: %1 nenájdená</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="98"/>
@@ -2342,12 +2342,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreelabeltextbuilder.cpp" line="81"/>
         <source>Please choose a category.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, zvoľte kategóriu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="105"/>
         <source>Category</source>
-        <translation type="unfinished"/>
+        <translation>Kategória</translation>
     </message>
 </context>
 <context>
@@ -2454,12 +2454,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="64"/>
         <source>&amp;Add more</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pridať viac</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="110"/>
         <source>If checked, this dialog will automatically be opened again after finishing placement of the current component.</source>
-        <translation type="unfinished"/>
+        <translation>Označte, ak sa má toto dialógové okno automaticky zobrazovať po umiestnení súčiastky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="194"/>
@@ -4112,12 +4112,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="148"/>
         <source>(Without Category)</source>
-        <translation type="unfinished"/>
+        <translation>(Bez kategórie)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="149"/>
         <source>All library elements without a category</source>
-        <translation type="unfinished"/>
+        <translation>Všetky prvky knižnice bez nastavenej kategórie</translation>
     </message>
 </context>
 <context>
@@ -6357,7 +6357,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="20"/>
         <source>Choose the import options and click on the import button below to continue. If you are unsure about the options, just keep the default values.</source>
-        <translation type="unfinished"/>
+        <translation>Nastavte možnosti importovania a kliknite na tlačidlo importu pre pokračovanie. Ak nie ste si istý jednotlivými možnosťami, ponechajte predvolené.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="26"/>
@@ -6367,17 +6367,17 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="47"/>
         <source>Helps to distinguish between manually created elements and imported elements.</source>
-        <translation type="unfinished"/>
+        <translation>Pomáha rozlišovať medzi manuálne vytvorenými prvkami a importovanými prvkami.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="50"/>
         <source>Add prefix &quot;%1&quot; to all library element names</source>
-        <translation type="unfinished"/>
+        <translation>Pridať prefix &quot;%1&quot; k názvom všetkých prvkov knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="60"/>
         <source>Component Category</source>
-        <translation type="unfinished"/>
+        <translation>Kategória komponentu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="88"/>
@@ -6394,17 +6394,17 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="119"/>
         <source>Package Category</source>
-        <translation type="unfinished"/>
+        <translation>Kategória púzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="183"/>
         <source>&lt;b&gt;Attention:&lt;/b&gt; The import cannot be undone (except my manually removing the imported elements)!</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Upozornenie:&lt;/b&gt; Zmeny spôsobené importom sa nedajú vrátiť späť (iba manuálnym odstránením importovaných elementov)!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.cpp" line="58"/>
         <source>&amp;Import!</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Imporovať!</translation>
     </message>
 </context>
 <context>
@@ -6417,7 +6417,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_start.ui" line="20"/>
         <source>Kick-start the migration from EAGLE to LibrePCB by importing your EAGLE library elements into the currently opened LibrePCB library.</source>
-        <translation type="unfinished"/>
+        <translation>Začnite migráciu z EAGLE na LibrePCB importovaním prvkov knižnice EAGLE do aktuálne otvorenej knižnice LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_start.ui" line="26"/>
@@ -6427,7 +6427,13 @@ Naozaj si želáte zatvoriť toto okno?</translation>
   &lt;li&gt;If you import library elements multiple times, you will end up with duplicates. It is recommended to import each EAGLE library only once. So you should select all elements you might ever need, instead of importing a library step by step.&lt;/li&gt;
   &lt;li&gt;Especially if you plan to import a lot of elements, it might be a good idea to create a separate LibrePCB library for them. This will provide a clear separation between imported elements and manually created elements.&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, venujte pozornosť nasledujúcim poznámkam:
+&lt;ul&gt;
+  &lt;li&gt;Knižnice LibrePCB sú usporiadané inak ako knižnice EAGLE, takže kvalita importovaných prvkov pravdepodobne nebude taká vysoká ako pri ich manuálnom vytváraní od začiatku. Je vysoko pravdepodobné, že po importe ich bude potrebné manuálne upraviť.
+&lt;/li&gt;
+  &lt;li&gt;Ak prvky knižnice importujete viackrát, budú vytvorené ich duplikáty. Odporúča sa preto, importovať každú knižnicu EAGLE iba raz. Preto je lepšie vybrať všetky prvky na import, ktoré by ste mohli v budúcnosti potrebovať, ako postupne importovať jednotlivé prvky knižnice.&lt;/li&gt;
+  &lt;li&gt;Najmä ak plánujete importovať väčšie množstvo prvkov, je lepšie vytvoriť pre ne samostatnú LibrePCB knižnicu a importovať do nej. Importované prvky budú tak jasnejšie oddelené od pôvodných.&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
 </context>
 <context>
@@ -7308,7 +7314,7 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="91"/>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Importovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="112"/>
@@ -7553,12 +7559,12 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="736"/>
         <source>2D Drawing (&amp;DXF)</source>
-        <translation type="unfinished"/>
+        <translation>2D Výkres (&amp;DXF)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="744"/>
         <source>&amp;EAGLE Library</source>
-        <translation type="unfinished"/>
+        <translation>Knižnica &amp;EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="149"/>
@@ -7723,7 +7729,7 @@ Do you want to save them before closing it?</source>
 %1
 
 Are you really sure to remove &quot;%2&quot;?</source>
-        <translation>Pozor! Toto spôsobí odstránenie celého adresára knižnice:
+        <translation>Upozornenie! Toto spôsobí odstránenie celého adresára knižnice:
 
 %1
 
@@ -7937,7 +7943,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="543"/>
         <source>This cannot be undone!</source>
-        <translation>Táto zmena je nevratná!</translation>
+        <translation>Túto zmenu nemožno vrátiť späť!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="547"/>
@@ -7963,7 +7969,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="584"/>
         <source>Note: This cannot be easily undone!</source>
-        <translation>Poznámka: Táto zmena nie je jednoducho vratná!</translation>
+        <translation>Poznámka: Toto nie je jednoduché vrátiť späť!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="588"/>
@@ -9203,7 +9209,7 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;  - Projekt musí byť zatvorený počas aktualizácie (zatvorí sa automaticky).&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;  - Čiastkové aktualizácie nie sú možné. Buď sa aktualizuje všetko alebo nič.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;  - Breaking changes in library elements can cause the update to fail (i.e. no elements will be updated).&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;  - Aktualizácia je nevratný proces. Odporúčame najskôr vytvoriť záložnú kópiu pojektu!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;  - Aktualizáciu nemožno vrátiť späť. Odporúčame najskôr vytvoriť záložnú kópiu projektu!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.ui" line="60"/>
@@ -11050,7 +11056,7 @@ p, li { white-space: pre-wrap; }
 Attention: This will be applied immediately and cannot be undone!</source>
         <translation>Naozaj chcete obnoviť pôvodné nastavenie?
 
-Pozor: Táto zmena bude vykonaná okamžite a je nevratná!</translation>
+Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="335"/>
