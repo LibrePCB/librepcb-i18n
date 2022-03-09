@@ -1475,22 +1475,22 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="183"/>
         <source>No pages to export/print.</source>
-        <translation type="unfinished"></translation>
+        <translation>No pages to export/print.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="357"/>
         <source>Failed to export image &quot;%1&quot;. Check file permissions and make sure to use a supported image file extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to export image &quot;%1&quot;. Check file permissions and make sure to use a supported image file extension.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="378"/>
         <source>Failed to finish PDF export. Check permissions of output file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to finish PDF export. Check permissions of output file.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="382"/>
         <source>Failed to finish printing with unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to finish printing with unknown error.</translation>
     </message>
 </context>
 <context>
@@ -2369,12 +2369,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopservices.cpp" line="73"/>
         <source>PDF Export</source>
-        <translation type="unfinished">PDF Export</translation>
+        <translation>PDF Export</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopservices.cpp" line="73"/>
         <source>PDF exported successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF exported successfully.</translation>
     </message>
 </context>
 <context>
@@ -2991,17 +2991,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="81"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Export</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="94"/>
         <source>Generate production data</source>
-        <translation type="unfinished"></translation>
+        <translation>Generate production data</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="106"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Import</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="131"/>
@@ -3086,22 +3086,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="363"/>
         <source>&amp;Print board</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Print board</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="366"/>
         <source>Print board</source>
-        <translation type="unfinished"></translation>
+        <translation>Print board</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="390"/>
         <source>Export &amp;PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Export &amp;PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="393"/>
         <source>Export board as PDF file</source>
-        <translation type="unfinished"></translation>
+        <translation>Export board as PDF file</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="405"/>
@@ -3261,52 +3261,52 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="753"/>
         <source>PCB &amp;Fabrication Data (Gerber)</source>
-        <translation type="unfinished"></translation>
+        <translation>PCB &amp;Fabrication Data (Gerber)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="756"/>
         <source>Generate PCB fabrication data</source>
-        <translation type="unfinished"></translation>
+        <translation>Generate PCB fabrication data</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="865"/>
         <source>Export project &amp;archive (*.lppz)</source>
-        <translation type="unfinished"></translation>
+        <translation>Export project &amp;archive (*.lppz)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="868"/>
         <source>Export project to *.lppz archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Export project to *.lppz archive</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="877"/>
         <source>Bill of materials (BOM)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bill of materials (BOM)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="880"/>
         <source>Export bill of materials (BOM)</source>
-        <translation type="unfinished"></translation>
+        <translation>Export bill of materials (BOM)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="928"/>
         <source>&amp;Pick&amp;&amp;Place Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pick&amp;&amp;Place Files</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="931"/>
         <source>Generate pick&amp;place files</source>
-        <translation type="unfinished"></translation>
+        <translation>Generate pick&amp;place files</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="973"/>
         <source>Export &amp;image</source>
-        <translation type="unfinished"></translation>
+        <translation>Export &amp;image</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="976"/>
         <source>Export board as image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Export board as image file</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="761"/>
@@ -3448,12 +3448,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="883"/>
         <source>Preparing board...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparing board...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="883"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -7124,298 +7124,298 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="26"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="32"/>
         <source>Printer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Printer:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="42"/>
         <source>Page size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Page size:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="58"/>
         <source>Duplex:</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplex:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="78"/>
         <source>Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolution:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="104"/>
         <source>Orientation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientation:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="119"/>
         <source>Auto</source>
-        <translation type="unfinished">Auto</translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="138"/>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landscape</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="154"/>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portrait</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="166"/>
         <source>Scale factor:</source>
-        <translation type="unfinished">Scale factor:</translation>
+        <translation>Scale factor:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="175"/>
         <source>Fit to page size</source>
-        <translation type="unfinished"></translation>
+        <translation>Fit to page size</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="206"/>
         <source>Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Background:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="221"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>None</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="240"/>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>White</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="256"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Black</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="268"/>
         <source>Margins:</source>
-        <translation type="unfinished"></translation>
+        <translation>Margins:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="327"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Advanced</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="333"/>
         <source>Transformation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformation:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="342"/>
         <source>Rotate</source>
-        <translation type="unfinished">Rotate</translation>
+        <translation>Rotate</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="349"/>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="504"/>
         <source>Mirror</source>
-        <translation type="unfinished">Mirror</translation>
+        <translation>Mirror</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="358"/>
         <source>Minimum line width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum line width:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="368"/>
         <source>Colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Colors:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="375"/>
         <source>Black/White</source>
-        <translation type="unfinished"></translation>
+        <translation>Black/White</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="388"/>
         <source>Copies:</source>
-        <translation type="unfinished"></translation>
+        <translation>Copies:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="415"/>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Colors</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="450"/>
         <source>Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Content</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="499"/>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Page</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="513"/>
         <source>Pages</source>
-        <translation type="unfinished">Pages</translation>
+        <translation>Pages</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="522"/>
         <source>All pages</source>
-        <translation type="unfinished"></translation>
+        <translation>All pages</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="551"/>
         <source>Current page</source>
-        <translation type="unfinished"></translation>
+        <translation>Current page</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="566"/>
         <source>Custom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="593"/>
         <source>The page number will be appended to the filename.</source>
-        <translation type="unfinished"></translation>
+        <translation>The page number will be appended to the filename.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="654"/>
         <source>Open the exported file or their parent directory if multiple files were exported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open the exported file or their parent directory if multiple files were exported.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="657"/>
         <source>Open exported file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Open exported file(s)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="68"/>
         <source>Operation in progress...</source>
-        <translation type="unfinished"></translation>
+        <translation>Operation in progress...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="69"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="91"/>
         <source>Export Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Export Image</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="94"/>
         <source>Export PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Export PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="97"/>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Print</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="159"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished">Copy to clipboard</translation>
+        <translation>Copy to clipboard</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="162"/>
         <source>Copy the image to the clipboard instead of saving it as a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy the image to the clipboard instead of saving it as a file.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="171"/>
         <source>Looking for printers...</source>
-        <translation type="unfinished"></translation>
+        <translation>Looking for printers...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="354"/>
         <source>&amp;New</source>
-        <translation type="unfinished">&amp;New</translation>
+        <translation>&amp;New</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="367"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Remove</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="384"/>
         <source>R&amp;ename</source>
-        <translation type="unfinished"></translation>
+        <translation>R&amp;ename</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="448"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="463"/>
         <source>Processing page %1 of %2...</source>
-        <translation type="unfinished"></translation>
+        <translation>Processing page %1 of %2...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="549"/>
         <source>All Layers</source>
-        <translation type="unfinished"></translation>
+        <translation>All Layers</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="555"/>
         <source>Assembly Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Assembly Top</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="570"/>
         <source>Assembly Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Assembly Bottom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="585"/>
         <source>Drills</source>
-        <translation type="unfinished"></translation>
+        <translation>Drills</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="595"/>
         <source>Copper Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Copper Top</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="606"/>
         <source>Copper Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Copper Bottom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="915"/>
         <source>No printer found</source>
-        <translation type="unfinished"></translation>
+        <translation>No printer found</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="966"/>
         <source>One Sided</source>
-        <translation type="unfinished"></translation>
+        <translation>One Sided</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="969"/>
         <source>Long Edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Long Edge</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="973"/>
         <source>Short Edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Short Edge</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1003"/>
         <source>Custom (adjust to content)</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom (adjust to content)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1174"/>
         <source>Save as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Save as...</translation>
     </message>
 </context>
 <context>
@@ -7681,7 +7681,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="102"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Export</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="125"/>
@@ -7936,32 +7936,32 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="771"/>
         <source>&amp;Print</source>
-        <translation type="unfinished">&amp;Print</translation>
+        <translation>&amp;Print</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="774"/>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Print</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="786"/>
         <source>Export &amp;PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Export &amp;PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="789"/>
         <source>Export as PDF file</source>
-        <translation type="unfinished"></translation>
+        <translation>Export as PDF file</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="801"/>
         <source>Export &amp;image</source>
-        <translation type="unfinished"></translation>
+        <translation>Export &amp;image</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="804"/>
         <source>Export as image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Export as image file</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="158"/>
@@ -9423,7 +9423,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="572"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>
@@ -9909,12 +9909,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="51"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Export</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="64"/>
         <source>Generate production data</source>
-        <translation type="unfinished"></translation>
+        <translation>Generate production data</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="88"/>
@@ -10009,22 +10009,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="360"/>
         <source>&amp;Print schematics</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Print schematics</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="363"/>
         <source>Print schematics</source>
-        <translation type="unfinished"></translation>
+        <translation>Print schematics</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="375"/>
         <source>Export &amp;PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Export &amp;PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="378"/>
         <source>Export schematics as PDF file</source>
-        <translation type="unfinished"></translation>
+        <translation>Export schematics as PDF file</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="390"/>
@@ -10190,42 +10190,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="769"/>
         <source>&amp;New Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;New Sheet</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="793"/>
         <source>Export project &amp;archive (*.lppz)</source>
-        <translation type="unfinished"></translation>
+        <translation>Export project &amp;archive (*.lppz)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="796"/>
         <source>Export project to *.lppz archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Export project to *.lppz archive</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="805"/>
         <source>Bill of materials (BOM)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bill of materials (BOM)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="808"/>
         <source>Export bill of materials (BOM)</source>
-        <translation type="unfinished"></translation>
+        <translation>Export bill of materials (BOM)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="813"/>
         <source>&amp;Rename Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rename Sheet</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="873"/>
         <source>Export &amp;image</source>
-        <translation type="unfinished"></translation>
+        <translation>Export &amp;image</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="876"/>
         <source>Export schematics as image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Export schematics as image file</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="781"/>
@@ -10308,12 +10308,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="672"/>
         <source>Preparing schematics...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparing schematics...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="672"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -10921,7 +10921,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="523"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>

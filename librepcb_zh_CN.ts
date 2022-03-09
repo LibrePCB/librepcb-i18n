@@ -117,196 +117,196 @@
 <context>
     <name>CommandLineInterface</name>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="73"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="76"/>
         <source>Open a project to execute project-related tasks.</source>
         <translation>打开项目以进行与项目相关的工作。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="74"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="77"/>
         <source>open-project [command_options]</source>
         <translation>打开项目 [指令选项]</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="76"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="79"/>
         <source>Open a library to execute library-related tasks.</source>
         <translation>打开元件库以进行与元件库相关的工作。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="77"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="80"/>
         <source>open-library [command_options]</source>
         <translation>打开元件库 [指令选项]</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="82"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="85"/>
         <source>LibrePCB Command Line Interface</source>
         <translation>LibrePCB 命令行界面</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="85"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="88"/>
         <source>Verbose output.</source>
         <translation>详细输出。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="87"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="90"/>
         <source>The command to execute.</source>
         <translation>要执行的命令。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="92"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="95"/>
         <source>Run the electrical rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
         <translation>运行电路回路规则测试，存在异常时，输出所有异常错误/警告并报告失败情况(退出代码为 1 )</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="97"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="100"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
         <translation>导出原理图到指定的文件。已存在的文件将被覆盖。支持的文件扩展名：%1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="100"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="106"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="112"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="129"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="103"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="109"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="115"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="132"/>
         <source>file</source>
         <translation>文件</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="103"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="106"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
         <translation>导出通用物料表到指定的文件。已存在的文件将被覆盖。支持的文件扩展名：%1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="109"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="112"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
         <translation>导出电路板特定的物料表到指定的文件。已存在的文件将被覆盖。支持的文件扩展名：%1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="115"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="118"/>
         <source>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</source>
         <translation>导出逗号分隔的附加属性到 BOM 表。例如: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="118"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="121"/>
         <source>attributes</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="121"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="124"/>
         <source>Export PCB fabrication data (Gerber/Excellon) according the fabrication output settings of boards. Existing files will be overwritten.</source>
         <translation>根据电路板的制造用数据设定值导出 PCB 加工资料 (Gerber/Excellon)。存在的文件将被覆盖。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="126"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="129"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
         <translation>提供一个包含自定义的 *.lp 文件设置来覆盖 PCB 加工资料的设置。如果未设置则会使用专案中电路板的设置。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="131"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="134"/>
         <source>The name of the board(s) to export. Can be given multiple times. If not set, all boards are exported.</source>
         <translation>需要导出的（一张或多张）电路板名称，可以多次指定。未设定将导出全部电路板。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="134"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="137"/>
         <source>name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="137"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="140"/>
         <source>Save project before closing it (useful to upgrade file format).</source>
         <translation>在关闭文件前保存 (通常在升级文件格式时使用)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="140"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="143"/>
         <source>Fail if the project files are not strictly canonical, i.e. there would be changes when saving the project. Note that this option is not available for *.lppz files.</source>
         <translation>如果项目文件不是严格规范的，则失败，即保存项目时会有更改。 请注意，此选项不适用于 *.lppz 文件。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="147"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="150"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
         <translation>在打开的元件库中所包含的所有元件(一个或多个)上运行选中的操作元件库</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="151"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="154"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
         <translation>在关闭元件库之前保存元件库（如果给出“--all”，则保存包含的元件）（对升级文件格式有用）。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="155"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="158"/>
         <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
         <translation>如果打开的文件不是严格规范的，则失败，即保存元件库元件时会有更改。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="190"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="193"/>
         <source>Path to library directory (*.lplib).</source>
         <translation>库文件夹路径 (*.lplib)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="195"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="198"/>
         <source>Unknown command &apos;%1&apos;.</source>
         <translation>未知的命令 &apos;%1&apos;。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="221"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="224"/>
         <source>Commands:</source>
         <translation>命令：</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="679"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="694"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
         <translation>检查不规范的文件 ‘%1’ ...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="696"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="711"/>
         <source>Save &apos;%1&apos;...</source>
         <translation>保存 &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="724"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="739"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
         <translation>此应用程序版本不稳定！已禁用选项“%1”以避免损坏项目或库。请改用稳定版本。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="209"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="212"/>
         <source>LibrePCB CLI Version %1</source>
         <translation>LibrePCB 命令版本 %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="174"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="177"/>
         <source>Path to project file (*.lpp[z]).</source>
         <translation>工程文件路径 (*.lpp[z])</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="210"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="213"/>
         <source>Git Revision %1</source>
         <translation>Git Revision %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="211"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="214"/>
         <source>Qt Version %1 (compiled against %2)</source>
         <translation>Qt版本%1（针对%2编译）</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="213"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="216"/>
         <source>Built at %1</source>
         <translation>构建于%1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="238"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="257"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="241"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="260"/>
         <source>Wrong argument count.</source>
         <translation>参数个数错误。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="267"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="270"/>
         <source>Internal failure.</source>
         <translation>内部失败。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="270"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="273"/>
         <source>SUCCESS</source>
         <translation>成功</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="273"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="276"/>
         <source>Finished with errors!</source>
         <translation>完成有错误！</translation>
     </message>
@@ -1229,7 +1229,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation>无效的连接线讯号 UUID-唯一识别码：&quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_plane.h" line="183"/>
+        <location filename="../libs/librepcb/core/project/board/items/bi_plane.h" line="178"/>
         <source>Unknown plane connect style: &quot;%1&quot;</source>
         <translation>未知的平面连接样式：&quot;%1&quot;</translation>
     </message>
@@ -1237,125 +1237,125 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::BoardDesignRuleCheck</name>
     <message numerus="yes">
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="112"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="113"/>
         <source>Finished with %1 message(s)!</source>
         <comment>Count of messages</comment>
         <translation><numerusform>完成 %1 条消息！</numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="124"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="125"/>
         <source>Rebuild planes...</source>
         <translation>重建平面...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="132"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="133"/>
         <source>Check for missing connections...</source>
         <translation>检查遗漏的连接...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="138"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="139"/>
         <source>Missing connection: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
         <translation>遗漏的连接：&apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="150"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="151"/>
         <source>Check board clearances...</source>
         <translation>检查电路板安全间距...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="191"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="192"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; Board Outline</source>
         <comment>Placeholders are layer name + net name</comment>
         <translation>安全间距（%1层）：&apos;%2&apos;&lt;-&gt;电路板外框之间</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="207"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="208"/>
         <source>Check copper clearances...</source>
         <translation>检查铜箔间隙...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="237"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="238"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
         <comment>Placeholders are layer name + net names</comment>
         <translation>安全间距 (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="255"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="256"/>
         <source>Check courtyard clearances...</source>
         <translation>检查外扩位移间隙...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="284"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="285"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
         <comment>Placeholders are layer name + component names</comment>
         <translation>安全间距 (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="300"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="301"/>
         <source>Check minimum copper width...</source>
         <translation>检查最小的铜箔宽度...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="310"/>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="356"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="311"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="355"/>
         <source>Min. copper width (%1) of text: %2</source>
         <comment>Placeholders are layer name + width</comment>
         <translation>(%1)的文字最小铜箔宽度：%2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="335"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="334"/>
         <source>Min. copper width (%1) of plane: %2</source>
         <comment>Placeholders are layer name + width</comment>
         <translation>(%1)的平面最小铜箔宽度：%2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="381"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="378"/>
         <source>Min. copper width (%1) of trace: %2</source>
         <comment>Placeholders are layer name + width</comment>
         <translation>(%1)的走线最小铜箔宽度：%2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="399"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="396"/>
         <source>Check minimum PTH restrings...</source>
         <translation>检查最小的 PTH-电镀通孔-Plating through hole Restrings...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="406"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="403"/>
         <source>Min. via restring (&apos;%1&apos;): %2</source>
         <comment>Placeholders are net name + restring width</comment>
         <translation>连接线(&apos;%1&apos;)的导通孔 Restring 最小宽度：%2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="429"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="426"/>
         <source>Min. pad restring (&apos;%1&apos;): %2</source>
         <comment>Placeholders are pad name + restring width</comment>
         <translation>焊盘(&apos;%1&apos;)的 Restring 最小宽度：%2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="448"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="445"/>
         <source>Check minimum PTH drill diameters...</source>
         <translation>检查最小的 PTH（电镀通孔-Plating through hole） 钻孔直径...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="454"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="451"/>
         <source>Min. via drill diameter (&apos;%1&apos;): %2</source>
         <comment>Placeholders are net name + drill diameter</comment>
         <translation>连接线(&apos;%1&apos;)的导通孔钻孔最小直径：%2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="474"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="471"/>
         <source>Min. pad drill diameter (&apos;%1&apos;): %2</source>
         <comment>Placeholders are pad name + drill diameter</comment>
         <translation>焊盘(&apos;%1&apos;)的钻孔最小直径：%2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="492"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="489"/>
         <source>Check minimum NPTH drill diameters...</source>
         <translation>检查最小的 NPTH （Non Plating Through Hole-非电镀通孔）钻孔直径...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="494"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="491"/>
         <source>Min. hole diameter: %1</source>
         <comment>Placeholder is drill diameter</comment>
         <translation>最小孔洞直径：%1</translation>
@@ -1467,268 +1467,291 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     </message>
 </context>
 <context>
+    <name>librepcb::GraphicsExport</name>
+    <message>
+        <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="183"/>
+        <source>No pages to export/print.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="357"/>
+        <source>Failed to export image &quot;%1&quot;. Check file permissions and make sure to use a supported image file extension.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="378"/>
+        <source>Failed to finish PDF export. Check permissions of output file.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="382"/>
+        <source>Failed to finish printing with unknown error.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::GraphicsLayer</name>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="162"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="180"/>
         <source>References</source>
         <translation>引用</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="163"/>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="181"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="199"/>
         <source>Sheet Frames</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="164"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="182"/>
         <source>Netlines</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="165"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="183"/>
         <source>Netlabels</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="166"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="184"/>
         <source>Netlabel Anchors</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="167"/>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="190"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="185"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="208"/>
         <source>Documentation</source>
         <translation>文档</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="168"/>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="191"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="186"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="209"/>
         <source>Comments</source>
         <translation>注释</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="169"/>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="192"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="187"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="210"/>
         <source>Guide</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="171"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="189"/>
         <source>Outlines</source>
         <translation>大纲</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="172"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="190"/>
         <source>Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="173"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="191"/>
         <source>Hidden Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="174"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="192"/>
         <source>Names</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="175"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="193"/>
         <source>Values</source>
         <translation>值</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="176"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="194"/>
         <source>Optional Pins</source>
         <translation>可选引脚</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="177"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="195"/>
         <source>Required Pins</source>
         <translation>必要引脚</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="178"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="196"/>
         <source>Pin Names</source>
         <translation>引脚名</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="179"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="197"/>
         <source>Pin Numbers</source>
         <translation>引脚号</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="182"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="200"/>
         <source>Board Outlines</source>
         <translation>板外形</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="183"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="201"/>
         <source>Milling (PTH)</source>
         <translation>铣削(金属化孔)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="184"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="202"/>
         <source>Drills (NPTH)</source>
         <translation>钻孔(非金属化孔)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="185"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="203"/>
         <source>Pads</source>
         <translation>焊盘</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="186"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="204"/>
         <source>Vias</source>
         <translation>过孔</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="187"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="205"/>
         <source>Air Wires</source>
         <translation>跳线</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="188"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="206"/>
         <source>Measures</source>
         <translation>测量</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="189"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="207"/>
         <source>Alignment</source>
         <translation>对齐</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="194"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="212"/>
         <source>Top Placement</source>
         <translation>顶面放置</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="195"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="213"/>
         <source>Bot Placement</source>
         <translation>底面放置</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="196"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="214"/>
         <source>Top Documentation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="197"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="215"/>
         <source>Bot Documentation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="198"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="216"/>
         <source>Top Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="199"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="217"/>
         <source>Bot Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="200"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="218"/>
         <source>Top Hidden Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="201"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="219"/>
         <source>Bot Hidden Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="202"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="220"/>
         <source>Top References</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="203"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="221"/>
         <source>Bot References</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="204"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="222"/>
         <source>Top Names</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="205"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="223"/>
         <source>Bot Names</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="206"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="224"/>
         <source>Top Values</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="207"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="225"/>
         <source>Bot Values</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="208"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="226"/>
         <source>Top Courtyard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="209"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="227"/>
         <source>Bot Courtyard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="210"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="228"/>
         <source>Top Stop Mask</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="211"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="229"/>
         <source>Bot Stop Mask</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="212"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="230"/>
         <source>Top Solder Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="213"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="231"/>
         <source>Bot Solder Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="214"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="232"/>
         <source>Top Finish</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="215"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="233"/>
         <source>Bot Finish</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="216"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="234"/>
         <source>Top Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="217"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="235"/>
         <source>Bot Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="219"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="237"/>
         <source>Top Copper</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="220"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="238"/>
         <source>Bot Copper</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="223"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="241"/>
         <source>Inner Copper %1</source>
         <translation type="unfinished"/>
     </message>
@@ -1909,27 +1932,27 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::Project</name>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="65"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="64"/>
         <source>The suffix of the project file must be &quot;lpp&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="76"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="75"/>
         <source>The directory &quot;%1&quot; already contains a LibrePCB project.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="85"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="84"/>
         <source>The directory &quot;%1&quot; does not contain a LibrePCB project.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="91"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="90"/>
         <source>The file &quot;%1&quot; does not exist.</source>
         <translation>文件 &quot;%1&quot; 不存在。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="101"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="100"/>
         <source>This project was created with a newer application version.
 You need at least LibrePCB %1 to open it.
 
@@ -1937,59 +1960,44 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="137"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="136"/>
         <source>Unknown</source>
         <translation>未知的</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="270"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="269"/>
         <source>Invalid schematic name: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="276"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="275"/>
         <source>The schematic exists already: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="294"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="293"/>
         <source>There is already a schematic with the name &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="320"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="319"/>
         <source>There are still elements in the schematic &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="360"/>
-        <source>No schematic pages selected.</source>
-        <translation>没有选中任何原理图页。</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="369"/>
-        <source>No schematic page with the index %1 found.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="377"/>
-        <source>Unknown error while printing.</source>
-        <translation>打印时出现未知错误。</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="410"/>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="427"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="366"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="383"/>
         <source>Invalid board name: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="416"/>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="433"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="372"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="389"/>
         <source>The board exists already: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="450"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="406"/>
         <source>There is already a board with the name &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
@@ -2026,7 +2034,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::SI_SymbolPin</name>
     <message>
-        <location filename="../libs/librepcb/core/project/schematic/items/si_symbolpin.cpp" line="252"/>
+        <location filename="../libs/librepcb/core/project/schematic/items/si_symbolpin.cpp" line="254"/>
         <source>Unconnected pin: &quot;%1&quot; of symbol &quot;%2&quot;</source>
         <translation type="unfinished"/>
     </message>
@@ -2098,149 +2106,149 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::cli</name>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="294"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="297"/>
         <source>Open project &apos;%1&apos;...</source>
         <translation>打开项目 &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="316"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="319"/>
         <source>Check for non-canonical files...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="319"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="322"/>
         <source>ERROR: The option &apos;--strict&apos; is not available for *.lppz files!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="342"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="345"/>
         <source>Run ERC...</source>
         <translation>执行 ERC...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="355"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="358"/>
         <source>WARNING</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="358"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="361"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="405"/>
         <source>ERROR</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="365"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="368"/>
         <source>Approved messages: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="366"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="369"/>
         <source>Non-approved messages: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="377"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="380"/>
         <source>Export schematics to &apos;%1&apos;...</source>
         <translation>导出原理图到 &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="390"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="465"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="480"/>
         <source>ERROR: Unknown extension &apos;%1&apos;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="432"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="447"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="434"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="449"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="474"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="489"/>
         <source>Export PCB fabrication data...</source>
         <translation>导出 PCB 制造数据...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="408"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="423"/>
         <source>ERROR: No board with the name &apos;%1&apos; found.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="486"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="501"/>
         <source>ERROR: Failed to load custom settings: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="492"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="507"/>
         <source>Board &apos;%1&apos;:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="507"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="522"/>
         <source>Save project...</source>
         <translation>保存工程...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="527"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="542"/>
         <source>ERROR: The file %1 was written multiple times!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="532"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="547"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="543"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="662"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="558"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="677"/>
         <source>ERROR: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="555"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="570"/>
         <source>Open library &apos;%1&apos;...</source>
         <translation>打开库 &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="567"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="582"/>
         <source>Process %1 component categories...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="570"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="586"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="602"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="618"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="634"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="650"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="585"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="601"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="617"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="633"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="649"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="665"/>
         <source>Open &apos;%1&apos;...</source>
         <translation>打开 &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="583"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="598"/>
         <source>Process %1 package categories...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="599"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="614"/>
         <source>Process %1 symbols...</source>
         <translation>处理 %1 个符号...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="615"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="630"/>
         <source>Process %1 packages...</source>
         <translation>处理 %1 个包 ...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="631"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="646"/>
         <source>Process %1 components...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="647"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="662"/>
         <source>Process %1 devices...</source>
         <translation type="unfinished"/>
     </message>
@@ -2344,6 +2352,16 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="105"/>
         <source>Category</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/desktopservices.cpp" line="73"/>
+        <source>PDF Export</source>
+        <translation>PDF 导出</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/desktopservices.cpp" line="73"/>
+        <source>PDF exported successfully.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2949,453 +2967,481 @@ You need at least LibrePCB %1 to open it.
         <translation>PCB 编辑器</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="55"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="54"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The schematic contains components which are not placed yet on this board. You can add them with the &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Place Devices&lt;/span&gt;&lt;/a&gt; dock.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="78"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="77"/>
         <source>&amp;File</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="100"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="81"/>
+        <source>&amp;Export</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="94"/>
+        <source>Generate production data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="106"/>
+        <source>Import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="131"/>
         <source>&amp;Edit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="120"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="151"/>
         <source>&amp;View</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="133"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="164"/>
         <source>Pro&amp;ject</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="142"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="173"/>
         <source>&amp;Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="157"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="188"/>
         <source>&amp;Help</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="166"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="197"/>
         <source>&amp;Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="190"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="221"/>
         <source>File</source>
         <translation>文件</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="214"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="245"/>
         <source>Zoom</source>
         <translation>缩放</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="228"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="259"/>
         <source>Edit</source>
         <translation>编辑</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="248"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="279"/>
         <source>View</source>
         <translation>查看</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="260"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="291"/>
         <source>Search</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="271"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="302"/>
         <source>Tools</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="292"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="323"/>
         <source>Command</source>
         <translation>命令</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="308"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="339"/>
         <source>&amp;Save Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="320"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="351"/>
         <source>&amp;Close Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="332"/>
-        <source>&amp;Print</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="344"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="378"/>
         <source>&amp;Quit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="356"/>
-        <source>PDF &amp;Export</source>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="363"/>
+        <source>&amp;Print board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="368"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="366"/>
+        <source>Print board</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="390"/>
+        <source>Export &amp;PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="393"/>
+        <source>Export board as PDF file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="405"/>
         <source>Show Control Panel</source>
         <translation>显示控制面板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="380"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="417"/>
         <source>Show Schematic Editor</source>
         <translation>显示原理图编辑器</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="392"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="429"/>
         <source>&amp;Undo</source>
         <translation>撤销 &amp;U</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="404"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="441"/>
         <source>&amp;Redo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="416"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="453"/>
         <source>Online Documentation</source>
         <translation>在线文档</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="428"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="465"/>
         <source>LibrePCB Website</source>
         <translation>LibrePCB 网站</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="440"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="477"/>
         <source>R&amp;otate Counterclockwise</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="452"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="489"/>
         <source>Rotate C&amp;lockwise</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="464"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="501"/>
         <source>&amp;Copy</source>
         <translation>复制(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="476"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="513"/>
         <source>Cut</source>
         <translation>剪切</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="488"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="525"/>
         <source>&amp;Paste</source>
         <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="500"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="537"/>
         <source>R&amp;emove</source>
         <translation>删除(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="512"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="549"/>
         <source>&amp;Grid</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="524"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="561"/>
         <source>&amp;Zoom In</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="536"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="573"/>
         <source>Zoom &amp;Out</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="548"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="585"/>
         <source>Zoo&amp;m All</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="556"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="593"/>
         <source>&amp;Properties</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="559"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="596"/>
         <source>Edit Project Properties</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="571"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="608"/>
         <source>&amp;Settings</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="574"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="611"/>
         <source>Project Settings</source>
         <translation>工程设置</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="586"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="623"/>
         <source>&amp;About LibrePCB</source>
         <translation>&amp;关于 LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="597"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="634"/>
         <source>About &amp;Qt</source>
         <translation>关于 &amp;Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="612"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="649"/>
         <source>&amp;Select</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="624"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="661"/>
         <source>Abort Command</source>
         <translation>中止命令</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="636"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="673"/>
         <source>&amp;New Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="644"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="681"/>
         <source>&amp;Net Classes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="656"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="693"/>
         <source>&amp;Flip Horizontal</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="668"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="705"/>
         <source>Flip &amp;Vertical</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="680"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="717"/>
         <source>&amp;Draw Trace</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="692"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="729"/>
         <source>&amp;Add Via</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="704"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="741"/>
         <source>&amp;Copy Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="716"/>
-        <source>&amp;Generate Fabrication Data</source>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="753"/>
+        <source>PCB &amp;Fabrication Data (Gerber)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="719"/>
-        <source>Generate Fabrication Data</source>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="756"/>
+        <source>Generate PCB fabrication data</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="727"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="865"/>
+        <source>Export project &amp;archive (*.lppz)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="868"/>
+        <source>Export project to *.lppz archive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="877"/>
+        <source>Bill of materials (BOM)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="880"/>
+        <source>Export bill of materials (BOM)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="928"/>
+        <source>&amp;Pick&amp;&amp;Place Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="931"/>
+        <source>Generate pick&amp;place files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="973"/>
+        <source>Export &amp;image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="976"/>
+        <source>Export board as image file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="761"/>
         <source>&amp;Design Rules</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="735"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="769"/>
         <source>&amp;Layer Stack Setup</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="747"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="781"/>
         <source>Remove &amp;Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="759"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="793"/>
         <source>D&amp;raw Polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="771"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="805"/>
         <source>&amp;Rebuild Planes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="783"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="817"/>
         <source>Add &amp;Plane</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="795"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="829"/>
         <source>Add T&amp;ext</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="807"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="841"/>
         <source>Add &amp;Hole</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="819"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="853"/>
         <source>Update Library</source>
         <translation>更新库</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="831"/>
-        <source>&amp;Export project to *.lppz</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="834"/>
-        <source>Export project to *.lppz</source>
-        <translation>导出工程到 *.lppz</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="846"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="849"/>
-        <source>Generate BOM</source>
-        <translation>生成 BOM</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="861"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="892"/>
         <source>Show All Planes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="873"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="904"/>
         <source>Hide All Planes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="885"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="916"/>
         <source>Design Rule Check</source>
         <translation>设计规则检查</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="897"/>
-        <source>Generate Pick&amp;&amp;Place Files</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="909"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="627"/>
-        <source>SVG Export</source>
-        <translation>SVG 导出</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="921"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="940"/>
         <source>Select All</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="933"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="952"/>
         <source>Import DXF</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="942"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="961"/>
         <source>Order PCB</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="106"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="108"/>
         <source>%1 - LibrePCB Board Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="256"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="268"/>
         <source>Find device...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="265"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="277"/>
         <source>Scanning libraries (%p%)</source>
         <translation>正在扫描库 (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="438"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="450"/>
         <source>Add New Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="438"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="458"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="450"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="470"/>
         <source>Choose a name:</source>
         <translation>选择一个名字:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="439"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="451"/>
         <source>new_board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="448"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="468"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="485"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="523"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="606"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="653"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="698"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="724"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="918"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="460"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="480"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="497"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="558"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="584"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="778"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="910"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="458"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="470"/>
         <source>Copy Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="459"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="471"/>
         <source>copy_of_%1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="477"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="489"/>
         <source>Remove board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="478"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="490"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="509"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="531"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="614"/>
-        <source>No board selected.</source>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="883"/>
+        <source>Preparing board...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="544"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="583"/>
-        <source>PDF Export</source>
-        <translation>PDF 导出</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="583"/>
-        <source>PDF exported successfully</source>
-        <translation>PDF 导出成功</translation>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="883"/>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3639,17 +3685,17 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="553"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="575"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="607"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="851"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="888"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="904"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="918"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="950"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="984"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1002"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1020"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1035"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1102"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1168"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="850"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="887"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="903"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="917"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="949"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="983"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1001"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1019"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1034"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1101"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1167"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -3714,27 +3760,27 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1047"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1046"/>
         <source>Paste board elements</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1179"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1178"/>
         <source>Measurement Result</source>
         <translation>测量结果</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1181"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1180"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
         <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1189"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1188"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1216"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1215"/>
         <source>Selected trace segments may not branch!</source>
         <translation type="unfinished"/>
     </message>
@@ -6538,37 +6584,37 @@ Do you really want to close it?</source>
 <context>
     <name>librepcb::editor::EditorWidgetBase</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="163"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="175"/>
         <source>WARNING: You have changed some important properties of this library element. This breaks all other elements which depend on this one! Maybe you want to create a new library element instead of modifying this one?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="184"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="196"/>
         <source>WARNING: This library element contains errors, see exact messages below. You should fix these errors before saving it, otherwise the library element may not work as expected.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="212"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="224"/>
         <source>User name not set</source>
         <translation>未设置用户名</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="213"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="225"/>
         <source>No user name defined in workspace settings. Please open workspace settings to set the default user name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="226"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="238"/>
         <source>Restore autosave backup?</source>
         <translation>要恢复自动保存的备份？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="227"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="239"/>
         <source>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="296"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="308"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -7032,6 +7078,305 @@ Workspaces are platform independent, so they can be used across different operat
     </message>
 </context>
 <context>
+    <name>librepcb::editor::GraphicsExportDialog</name>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="26"/>
+        <source>General</source>
+        <translation>通常</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="32"/>
+        <source>Printer:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="42"/>
+        <source>Page size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="58"/>
+        <source>Duplex:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="78"/>
+        <source>Resolution:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="104"/>
+        <source>Orientation:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="119"/>
+        <source>Auto</source>
+        <translation>自动</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="138"/>
+        <source>Landscape</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="154"/>
+        <source>Portrait</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="166"/>
+        <source>Scale factor:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="175"/>
+        <source>Fit to page size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="206"/>
+        <source>Background:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="221"/>
+        <source>None</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="240"/>
+        <source>White</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="256"/>
+        <source>Black</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="268"/>
+        <source>Margins:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="327"/>
+        <source>Advanced</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="333"/>
+        <source>Transformation:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="342"/>
+        <source>Rotate</source>
+        <translation>旋转</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="349"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="504"/>
+        <source>Mirror</source>
+        <translation>镜像</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="358"/>
+        <source>Minimum line width:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="368"/>
+        <source>Colors:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="375"/>
+        <source>Black/White</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="388"/>
+        <source>Copies:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="415"/>
+        <source>Colors</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="450"/>
+        <source>Content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="499"/>
+        <source>Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="513"/>
+        <source>Pages</source>
+        <translation>页面</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="522"/>
+        <source>All pages</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="551"/>
+        <source>Current page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="566"/>
+        <source>Custom:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="593"/>
+        <source>The page number will be appended to the filename.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="654"/>
+        <source>Open the exported file or their parent directory if multiple files were exported.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="657"/>
+        <source>Open exported file(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="68"/>
+        <source>Operation in progress...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="69"/>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="91"/>
+        <source>Export Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="94"/>
+        <source>Export PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="97"/>
+        <source>Print</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="159"/>
+        <source>Copy to clipboard</source>
+        <translation>复制到剪切板</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="162"/>
+        <source>Copy the image to the clipboard instead of saving it as a file.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="171"/>
+        <source>Looking for printers...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="354"/>
+        <source>&amp;New</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="367"/>
+        <source>&amp;Remove</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="384"/>
+        <source>R&amp;ename</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="448"/>
+        <source>Error</source>
+        <translation>错误</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="463"/>
+        <source>Processing page %1 of %2...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="549"/>
+        <source>All Layers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="555"/>
+        <source>Assembly Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="570"/>
+        <source>Assembly Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="585"/>
+        <source>Drills</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="595"/>
+        <source>Copper Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="606"/>
+        <source>Copper Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="915"/>
+        <source>No printer found</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="966"/>
+        <source>One Sided</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="969"/>
+        <source>Long Edge</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="973"/>
+        <source>Short Edge</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1003"/>
+        <source>Custom (adjust to content)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1174"/>
+        <source>Save as...</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::editor::GridSettingsDialog</name>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/gridsettingsdialog.ui" line="23"/>
@@ -7292,293 +7637,328 @@ Workspaces are platform independent, so they can be used across different operat
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="112"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="102"/>
+        <source>&amp;Export</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="125"/>
         <source>&amp;Edit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="130"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="143"/>
         <source>&amp;Help</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="139"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="152"/>
         <source>&amp;Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="156"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="169"/>
         <source>&amp;View</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="173"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="186"/>
         <source>File</source>
         <translation>文件</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="189"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="204"/>
         <source>Edit</source>
         <translation>编辑</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="211"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="226"/>
         <source>View</source>
         <translation>查看</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="226"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="241"/>
         <source>Filter</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="237"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="252"/>
         <source>Command</source>
         <translation>命令</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="250"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="265"/>
         <source>Tools</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="279"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="294"/>
         <source>&amp;About LibrePCB</source>
         <translation>&amp;关于 LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="290"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="305"/>
         <source>About &amp;Qt</source>
         <translation>关于 &amp;Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="305"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="320"/>
         <source>&amp;Close Library Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="317"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="332"/>
         <source>&amp;New</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="341"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="356"/>
         <source>&amp;Undo</source>
         <translation>撤销 &amp;U</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="353"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="368"/>
         <source>&amp;Redo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="365"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="380"/>
         <source>Abort Command</source>
         <translation>中止命令</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="377"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="392"/>
         <source>&amp;Zoom In</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="389"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="404"/>
         <source>Zoom &amp;Out</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="401"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="416"/>
         <source>Zoo&amp;m All</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="413"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="428"/>
         <source>R&amp;otate Counterclockwise</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="425"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="440"/>
         <source>Rotate C&amp;lockwise</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="437"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="452"/>
         <source>&amp;Copy</source>
         <translation>复制(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="449"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="464"/>
         <source>Cut</source>
         <translation>剪切</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="461"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="476"/>
         <source>&amp;Paste</source>
         <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="473"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="488"/>
         <source>R&amp;emove</source>
         <translation>删除(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="485"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="500"/>
         <source>&amp;Select</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="497"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="512"/>
         <source>Add S&amp;ymbol Pin</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="509"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="524"/>
         <source>Add THT Pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="521"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="536"/>
         <source>Add S&amp;MT Pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="533"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="548"/>
         <source>&amp;Draw Line</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="545"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="560"/>
         <source>&amp;Add Text</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="557"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="572"/>
         <source>Draw &amp;Polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="569"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="584"/>
         <source>Draw &amp;Circle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="572"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="587"/>
         <source>Draw Circle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="584"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="599"/>
         <source>Add &amp;Hole (NPTH)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="596"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="611"/>
         <source>&amp;Grid</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="608"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="623"/>
         <source>Draw &amp;Rectangle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="620"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="635"/>
         <source>&amp;Rescan Libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="632"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="647"/>
         <source>&amp;Remove Element</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="644"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="659"/>
         <source>Add Name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="656"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="671"/>
         <source>Add Value</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="668"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="683"/>
         <source>Show element in file manager</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="680"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="695"/>
         <source>Online Documentation</source>
         <translation>在线文档</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="692"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="707"/>
         <source>LibrePCB Website</source>
         <translation>LibrePCB 网站</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="704"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="719"/>
         <source>Mirror</source>
         <translation>镜像</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="716"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="731"/>
         <source>Flip</source>
         <translation>翻转</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="728"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="743"/>
         <source>Select All</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="736"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="751"/>
         <source>2D Drawing (&amp;DXF)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="744"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="759"/>
         <source>&amp;EAGLE Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="149"/>
-        <source> [Read-Only]</source>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="771"/>
+        <source>&amp;Print</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="150"/>
-        <source>%1 - LibrePCB Library Editor</source>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="774"/>
+        <source>Print</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="786"/>
+        <source>Export &amp;PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="789"/>
+        <source>Export as PDF file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="801"/>
+        <source>Export &amp;image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="804"/>
+        <source>Export as image file</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="158"/>
+        <source> [Read-Only]</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="159"/>
+        <source>%1 - LibrePCB Library Editor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="167"/>
         <source>Filter elements</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="165"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="174"/>
         <source>Scanning libraries (%p%)</source>
         <translation>正在扫描库 (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="578"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="587"/>
         <source>Failed to open category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="623"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="632"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="626"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="635"/>
         <source>Unsaved changes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="762"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="774"/>
         <source>&amp;Save &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
@@ -8672,7 +9052,7 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorFsm</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorfsm.cpp" line="152"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorfsm.cpp" line="157"/>
         <source>Please select a footprint.</source>
         <translation type="unfinished"/>
     </message>
@@ -8971,19 +9351,24 @@ Are you still sure to delete the following library elements?</source>
         <translation>消息:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="218"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="220"/>
         <source>Invalid metadata</source>
         <translation>非法的元数据</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="229"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="231"/>
         <source>Save failed</source>
         <translation>保存失败</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="325"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="327"/>
         <source>Edit package metadata</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="572"/>
+        <source>Error</source>
+        <translation>错误</translation>
     </message>
 </context>
 <context>
@@ -9455,396 +9840,413 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="67"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="51"/>
+        <source>&amp;Export</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="64"/>
+        <source>Generate production data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="88"/>
         <source>&amp;Help</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="76"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="97"/>
         <source>&amp;Edit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="95"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="116"/>
         <source>&amp;View</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="105"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="126"/>
         <source>&amp;Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="116"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="137"/>
         <source>Pro&amp;ject</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="125"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="146"/>
         <source>Schematic</source>
         <translation>原理图</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="140"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="162"/>
         <source>File</source>
         <translation>文件</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="167"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="189"/>
         <source>Zoom</source>
         <translation>缩放</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="184"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="206"/>
         <source>Edit</source>
         <translation>编辑</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="205"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="227"/>
         <source>View</source>
         <translation>查看</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="217"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="239"/>
         <source>Search</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="228"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="250"/>
         <source>Tools</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="248"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="270"/>
         <source>Command</source>
         <translation>命令</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="264"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="286"/>
         <source>Components</source>
         <translation>元件</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="285"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="307"/>
         <source>&amp;Quit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="300"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="322"/>
         <source>&amp;Save Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="312"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="334"/>
         <source>&amp;About LibrePCB</source>
         <translation>&amp;关于 LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="323"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="345"/>
         <source>About &amp;Qt</source>
         <translation>关于 &amp;Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="338"/>
-        <source>&amp;Print</source>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="360"/>
+        <source>&amp;Print schematics</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="350"/>
-        <source>Export schematics to &amp;PDF</source>
-        <translation>导出原理图为 &amp;PDF</translation>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="363"/>
+        <source>Print schematics</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="365"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="375"/>
+        <source>Export &amp;PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="378"/>
+        <source>Export schematics as PDF file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="390"/>
         <source>Show Control Panel</source>
         <translation>显示控制面板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="377"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="402"/>
         <source>Show Board Editor</source>
         <translation>显示 PCB 编辑器</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="389"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="414"/>
         <source>&amp;Undo</source>
         <translation>撤销 &amp;U</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="401"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="426"/>
         <source>&amp;Redo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="413"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="438"/>
         <source>&amp;Zoom In</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="425"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="450"/>
         <source>Zoom &amp;Out</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="437"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="462"/>
         <source>Zoo&amp;m All</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="449"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="474"/>
         <source>Online Documentation</source>
         <translation>在线文档</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="461"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="486"/>
         <source>LibrePCB Website</source>
         <translation>LibrePCB 网站</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="473"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="498"/>
         <source>R&amp;otate Counterclockwise</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="485"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="510"/>
         <source>Rotate C&amp;lockwise</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="497"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="522"/>
         <source>M&amp;irror</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="509"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="534"/>
         <source>&amp;Copy</source>
         <translation>复制(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="521"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="546"/>
         <source>Cut</source>
         <translation>剪切</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="533"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="558"/>
         <source>&amp;Paste</source>
         <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="545"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="570"/>
         <source>R&amp;emove</source>
         <translation>删除(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="557"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="582"/>
         <source>&amp;Close Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="569"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="594"/>
         <source>&amp;Select</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="581"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="606"/>
         <source>Add &amp;Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="593"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="618"/>
         <source>&amp;Draw Wire</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="605"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="630"/>
         <source>Abort Command</source>
         <translation>中止命令</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="617"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="642"/>
         <source>&amp;Grid</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="625"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="650"/>
         <source>&amp;Net Classes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="637"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="662"/>
         <source>Add Resistor</source>
         <translation>添加电阻</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="649"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="652"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="674"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="677"/>
         <source>Add Bipolar Capacitor</source>
         <translation>添加双极电容器</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="664"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="689"/>
         <source>Add Inductor</source>
         <translation>添加电感</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="676"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="701"/>
         <source>Add GND</source>
         <translation>添加 GND</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="688"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="713"/>
         <source>Add VCC</source>
         <translation>添加 VCC</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="696"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="721"/>
         <source>&amp;Properties</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="708"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="733"/>
         <source>&amp;Settings</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="720"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="745"/>
         <source>&amp;Add Netlabel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="732"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="757"/>
         <source>Add Unipolar Capacitor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="744"/>
-        <source>&amp;New Schematic Page</source>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="769"/>
+        <source>&amp;New Sheet</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="756"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="793"/>
+        <source>Export project &amp;archive (*.lppz)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="796"/>
+        <source>Export project to *.lppz archive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="805"/>
+        <source>Bill of materials (BOM)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="808"/>
+        <source>Export bill of materials (BOM)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="813"/>
+        <source>&amp;Rename Sheet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="873"/>
+        <source>Export &amp;image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="876"/>
+        <source>Export schematics as image file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="781"/>
         <source>Update Library</source>
         <translation>更新库</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="768"/>
-        <source>&amp;Export project to *.lppz</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="771"/>
-        <source>Export project to *.lppz</source>
-        <translation>导出工程到 *.lppz</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="783"/>
-        <source>Generate BOM</source>
-        <translation>生成 BOM</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="791"/>
-        <source>Rename Sheet</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="803"/>
-        <source>Export sheet to SVG</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="815"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="822"/>
         <source>Select All</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="827"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="834"/>
         <source>Add &amp;Text</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="830"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="837"/>
         <source>Add Text</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="842"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="849"/>
         <source>Draw Polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="854"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="861"/>
         <source>Order PCB</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="89"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="90"/>
         <source>%1 - LibrePCB Schematic Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="210"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="223"/>
         <source>Find symbol...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="219"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="232"/>
         <source>Scanning libraries (%p%)</source>
         <translation>正在扫描库 (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="370"/>
-        <source>No pages to print.</source>
-        <translation>没有要打印的页面。</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="405"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="463"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="508"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="700"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="712"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="731"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="563"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="575"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="594"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="701"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="422"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="443"/>
-        <source>PDF Export</source>
-        <translation>PDF 导出</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="443"/>
-        <source>PDF exported successfully</source>
-        <translation>PDF 导出成功</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="485"/>
-        <source>SVG Export</source>
-        <translation>SVG 导出</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="689"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="552"/>
         <source>Add schematic page</source>
         <translation>添加原理图页</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="690"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="553"/>
         <source>Choose a name:</source>
         <translation>选择一个名字:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="691"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="554"/>
         <source>New Page</source>
         <translation>新建页</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="722"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="585"/>
         <source>Rename sheet</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="722"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="585"/>
         <source>Choose new name:</source>
         <translation>选择新的名字:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="672"/>
+        <source>Preparing schematics...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="672"/>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10435,19 +10837,24 @@ p, li { white-space: pre-wrap; }
         <translation>消息:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="205"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="207"/>
         <source>Invalid metadata</source>
         <translation>非法的元数据</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="216"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="218"/>
         <source>Save failed</source>
         <translation>保存失败</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="308"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="310"/>
         <source>Edit symbol metadata</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="523"/>
+        <source>Error</source>
+        <translation>错误</translation>
     </message>
 </context>
 <context>
