@@ -6205,18 +6205,19 @@ Warning: This cannot be undone!</translation>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="113"/>
         <source>Options:</source>
-        <translation type="unfinished">Options:</translation>
+        <translation>Options:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="120"/>
         <source>If checked, tangent polylines of the DXF will be joined together.
 Helps for example to avoid invalid board outline polygons.</source>
-        <translation type="unfinished"></translation>
+        <translation>If checked, tangent polylines of the DXF will be joined together.
+Helps for example to avoid invalid board outline polygons.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="124"/>
         <source>Join tangent polylines</source>
-        <translation type="unfinished"></translation>
+        <translation>Join tangent polylines</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="131"/>
