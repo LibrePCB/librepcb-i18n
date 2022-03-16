@@ -3444,7 +3444,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="883"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Zrušiť</translation>
     </message>
 </context>
 <context>
@@ -7128,27 +7128,27 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="32"/>
         <source>Printer:</source>
-        <translation type="unfinished"/>
+        <translation>Tlačiareň:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="42"/>
         <source>Page size:</source>
-        <translation type="unfinished"/>
+        <translation>Veľkosť strany:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="58"/>
         <source>Duplex:</source>
-        <translation type="unfinished"/>
+        <translation>Obojstranná tlač:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="78"/>
         <source>Resolution:</source>
-        <translation type="unfinished"/>
+        <translation>Rozlíšenie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="104"/>
         <source>Orientation:</source>
-        <translation type="unfinished"/>
+        <translation>Orientácia:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="119"/>
@@ -7158,12 +7158,12 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="138"/>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Na šírku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="154"/>
         <source>Portrait</source>
-        <translation type="unfinished"/>
+        <translation>Na výšku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="166"/>
@@ -7173,12 +7173,12 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="175"/>
         <source>Fit to page size</source>
-        <translation type="unfinished"/>
+        <translation>Prispôsobiť strane</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="206"/>
         <source>Background:</source>
-        <translation type="unfinished"/>
+        <translation>Pozadie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="221"/>
@@ -7188,17 +7188,17 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="240"/>
         <source>White</source>
-        <translation type="unfinished"/>
+        <translation>Biele</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="256"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Čierne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="268"/>
         <source>Margins:</source>
-        <translation type="unfinished"/>
+        <translation>Okraje:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="327"/>
@@ -7229,32 +7229,32 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="368"/>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Farby:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="375"/>
         <source>Black/White</source>
-        <translation type="unfinished"/>
+        <translation>Čiernobiele</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="388"/>
         <source>Copies:</source>
-        <translation type="unfinished"/>
+        <translation>Kópie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="415"/>
         <source>Colors</source>
-        <translation type="unfinished"/>
+        <translation>Farby</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="450"/>
         <source>Content</source>
-        <translation type="unfinished"/>
+        <translation>Obsah</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="499"/>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Strana</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="513"/>
@@ -7264,12 +7264,12 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="522"/>
         <source>All pages</source>
-        <translation type="unfinished"/>
+        <translation>Všetky strany</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="551"/>
         <source>Current page</source>
-        <translation type="unfinished"/>
+        <translation>Aktuálna strana</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="566"/>
@@ -7289,17 +7289,17 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="657"/>
         <source>Open exported file(s)</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť exportovaný súbor(y)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="68"/>
         <source>Operation in progress...</source>
-        <translation type="unfinished"/>
+        <translation>Prebieha...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="69"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="91"/>
@@ -7339,12 +7339,12 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="367"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Odstrániť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="384"/>
         <source>R&amp;ename</source>
-        <translation type="unfinished"/>
+        <translation>Pr&amp;emenovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="448"/>
@@ -10311,7 +10311,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="672"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Zrušiť</translation>
     </message>
 </context>
 <context>
