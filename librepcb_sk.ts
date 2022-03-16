@@ -1469,22 +1469,22 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="183"/>
         <source>No pages to export/print.</source>
-        <translation type="unfinished"/>
+        <translation>Nie sú listy na export/tlač.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="357"/>
         <source>Failed to export image &quot;%1&quot;. Check file permissions and make sure to use a supported image file extension.</source>
-        <translation type="unfinished"/>
+        <translation>Nepodarilo sa exportovať obrázok &quot;%1&quot;. Skontrolujte oprávnenia súboru a uistite sa, že používate podporovanú príponu súboru obrázka.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="378"/>
         <source>Failed to finish PDF export. Check permissions of output file.</source>
-        <translation type="unfinished"/>
+        <translation>Nepodarilo sa dokončiť export do PDF. Skontrolujte oprávnenia výstupného súboru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="382"/>
         <source>Failed to finish printing with unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Nepodarilo sa dokončiť tlač. Vyskytla sa neznáma chyba. </translation>
     </message>
 </context>
 <context>
@@ -2365,7 +2365,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopservices.cpp" line="73"/>
         <source>PDF exported successfully.</source>
-        <translation type="unfinished"/>
+        <translation>Export do PDF bol úspešne ukončený. </translation>
     </message>
 </context>
 <context>
@@ -2982,17 +2982,17 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="81"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Exportovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="94"/>
         <source>Generate production data</source>
-        <translation type="unfinished"/>
+        <translation>Generovať výrobné dáta</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="106"/>
         <source>Import</source>
-        <translation type="unfinished"/>
+        <translation>Importovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="131"/>
@@ -3077,22 +3077,22 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="363"/>
         <source>&amp;Print board</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tlačiť dosku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="366"/>
         <source>Print board</source>
-        <translation type="unfinished"/>
+        <translation>Tlačiť dosku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="390"/>
         <source>Export &amp;PDF</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať do &amp;PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="393"/>
         <source>Export board as PDF file</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať dosku do PDF súboru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="405"/>
@@ -3292,7 +3292,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="973"/>
         <source>Export &amp;image</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať ako &amp;obrázok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="976"/>
@@ -7314,7 +7314,7 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="97"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Tlačiť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="159"/>
@@ -7414,7 +7414,7 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1174"/>
         <source>Save as...</source>
-        <translation type="unfinished"/>
+        <translation>Uložiť ako...</translation>
     </message>
 </context>
 <context>
@@ -7680,7 +7680,7 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="102"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Exportovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="125"/>
@@ -7940,27 +7940,27 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="774"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Tlačiť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="786"/>
         <source>Export &amp;PDF</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať do &amp;PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="789"/>
         <source>Export as PDF file</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať do PDF súboru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="801"/>
         <source>Export &amp;image</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať &amp;obrázok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="804"/>
         <source>Export as image file</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať ako súbor s obrázkom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="158"/>
@@ -9907,12 +9907,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="51"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Export</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="64"/>
         <source>Generate production data</source>
-        <translation type="unfinished"/>
+        <translation>Generovať výrobné dáta</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="88"/>
@@ -10007,17 +10007,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="360"/>
         <source>&amp;Print schematics</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tlačiť schémy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="363"/>
         <source>Print schematics</source>
-        <translation type="unfinished"/>
+        <translation>Tlačiť schémy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="375"/>
         <source>Export &amp;PDF</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať do &amp;PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="378"/>
@@ -10188,7 +10188,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="769"/>
         <source>&amp;New Sheet</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nový výkres</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="793"/>
@@ -10213,12 +10213,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="813"/>
         <source>&amp;Rename Sheet</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Premenovať výkres</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="873"/>
         <source>Export &amp;image</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať ako &amp;obrázok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="876"/>
