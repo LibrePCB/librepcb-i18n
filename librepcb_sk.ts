@@ -3252,42 +3252,42 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="753"/>
         <source>PCB &amp;Fabrication Data (Gerber)</source>
-        <translation type="unfinished"/>
+        <translation>Výrobné dáta (Gerber formát) dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="756"/>
         <source>Generate PCB fabrication data</source>
-        <translation type="unfinished"/>
+        <translation>Generovať výrobné dáta dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="865"/>
         <source>Export project &amp;archive (*.lppz)</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať a &amp;archivovať projekt (*.lppz)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="868"/>
         <source>Export project to *.lppz archive</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať projekt do *.lppz archívu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="877"/>
         <source>Bill of materials (BOM)</source>
-        <translation type="unfinished"/>
+        <translation>Zoznam súčiastok (BOM)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="880"/>
         <source>Export bill of materials (BOM)</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať zoznam súčiastok (BOM)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="928"/>
         <source>&amp;Pick&amp;&amp;Place Files</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pick&amp;&amp;Place súbory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="931"/>
         <source>Generate pick&amp;place files</source>
-        <translation type="unfinished"/>
+        <translation>Generovať Pick&amp;&amp;Place súbory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="973"/>
@@ -3297,7 +3297,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="976"/>
         <source>Export board as image file</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať dosku ako súbor s obrázkom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="761"/>
@@ -3439,7 +3439,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="883"/>
         <source>Preparing board...</source>
-        <translation type="unfinished"/>
+        <translation>Pripravujem dáta dosky...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="883"/>
@@ -6196,12 +6196,13 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="120"/>
         <source>If checked, tangent polylines of the DXF will be joined together.
 Helps for example to avoid invalid board outline polygons.</source>
-        <translation type="unfinished"/>
+        <translation>Ak je označené, dotýkajúce sa čiary DXF budú spojené.
+Pomáha napríklad vyhnúť sa neuzavretým polygónom podľa obrysu dosky. </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="124"/>
         <source>Join tangent polylines</source>
-        <translation type="unfinished"/>
+        <translation>Spojiť dotýkajúce sa čiary</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="131"/>
@@ -7203,12 +7204,12 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="327"/>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Rozšírené</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="333"/>
         <source>Transformation:</source>
-        <translation type="unfinished"/>
+        <translation>Zmena:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="342"/>
@@ -7224,7 +7225,7 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="358"/>
         <source>Minimum line width:</source>
-        <translation type="unfinished"/>
+        <translation>Minimálna šírka čiary:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="368"/>
@@ -7274,17 +7275,17 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="566"/>
         <source>Custom:</source>
-        <translation type="unfinished"/>
+        <translation>Užívateľské:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="593"/>
         <source>The page number will be appended to the filename.</source>
-        <translation type="unfinished"/>
+        <translation>Číslo strany bude pridané k názvu súboru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="654"/>
         <source>Open the exported file or their parent directory if multiple files were exported.</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť exportovaný súbor alebo nadradený adresár, ak sa exportovalo viacero súborov. </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="657"/>
@@ -7304,12 +7305,12 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="91"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať obrázok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="94"/>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať do PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="97"/>
@@ -7324,12 +7325,12 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="162"/>
         <source>Copy the image to the clipboard instead of saving it as a file.</source>
-        <translation type="unfinished"/>
+        <translation>Skopírovať obrázok do schránky namiesto uloženia do súboru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="171"/>
         <source>Looking for printers...</source>
-        <translation type="unfinished"/>
+        <translation>Hľadám tlačiarne...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="354"/>
@@ -7354,62 +7355,62 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="463"/>
         <source>Processing page %1 of %2...</source>
-        <translation type="unfinished"/>
+        <translation>Spracovávam stranu %1 z %2...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="549"/>
         <source>All Layers</source>
-        <translation type="unfinished"/>
+        <translation>Všetky vrstvy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="555"/>
         <source>Assembly Top</source>
-        <translation type="unfinished"/>
+        <translation>Osadenie vrchnej strany</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="570"/>
         <source>Assembly Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Osadenie spodnej strany</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="585"/>
         <source>Drills</source>
-        <translation type="unfinished"/>
+        <translation>Otvory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="595"/>
         <source>Copper Top</source>
-        <translation type="unfinished"/>
+        <translation>Spoje vrchnej strany</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="606"/>
         <source>Copper Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Spoje spodnej strany</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="915"/>
         <source>No printer found</source>
-        <translation type="unfinished"/>
+        <translation>Tlačiareň nenájdená</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="966"/>
         <source>One Sided</source>
-        <translation type="unfinished"/>
+        <translation>Jednostranná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="969"/>
         <source>Long Edge</source>
-        <translation type="unfinished"/>
+        <translation>Dlhý okraj</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="973"/>
         <source>Short Edge</source>
-        <translation type="unfinished"/>
+        <translation>Krátky okraj</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1003"/>
         <source>Custom (adjust to content)</source>
-        <translation type="unfinished"/>
+        <translation>Užívateľské (nastaviť podľa obsahu)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1174"/>
@@ -10022,7 +10023,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="378"/>
         <source>Export schematics as PDF file</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať schémy do PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="390"/>
@@ -10193,22 +10194,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="793"/>
         <source>Export project &amp;archive (*.lppz)</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať a &amp;archivovať projekt (*.lppz)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="796"/>
         <source>Export project to *.lppz archive</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať projekt do *.lppz archívu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="805"/>
         <source>Bill of materials (BOM)</source>
-        <translation type="unfinished"/>
+        <translation>Zoznam súčiastok (BOM)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="808"/>
         <source>Export bill of materials (BOM)</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať zoznam súčiastok (BOM)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="813"/>
@@ -10223,7 +10224,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="876"/>
         <source>Export schematics as image file</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať schémy ako súbor s obrázkom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="781"/>
@@ -10306,7 +10307,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="672"/>
         <source>Preparing schematics...</source>
-        <translation type="unfinished"/>
+        <translation>Pripravujem dáta schém...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="672"/>
