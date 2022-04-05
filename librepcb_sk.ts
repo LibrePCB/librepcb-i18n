@@ -827,57 +827,32 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>SExpression</name>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.cpp" line="73"/>
-        <source>Node is not a list.</source>
-        <translation>Uzol nie je typu zoznam.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.cpp" line="80"/>
-        <source>Node is not a token or string.</source>
-        <translation>Uzol nie je token alebo reťazec.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.cpp" line="102"/>
-        <source>Child not found: %1</source>
-        <translation>Potomok nenájdený: %1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.cpp" line="242"/>
-        <source>Invalid S-Expression list name: %1</source>
-        <translation>Neplatný názov zoznamu S-Expresion: %1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.cpp" line="270"/>
-        <source>Invalid S-Expression token: %1</source>
-        <translation>Neplatný S-Expresion token: %1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="266"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="283"/>
         <source>Not a valid boolean.</source>
         <translation>Neplatná logická hodnota.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="278"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="295"/>
         <source>Not a valid integer.</source>
         <translation>Neplatná číselná hodnota typu integer.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="290"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="307"/>
         <source>Not a valid unsigned integer.</source>
         <translation>Neplatná číselná hodnota typu unsigned integer.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="303"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="320"/>
         <source>Not a valid datetime.</source>
         <translation>Neplatná hodnota typu datetime.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="314"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="331"/>
         <source>Not a valid color.</source>
         <translation>Neplatná hodnota typu color.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="324"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="341"/>
         <source>Not a valid URL.</source>
         <translation>Neplatná URL adresa.</translation>
     </message>
@@ -1398,12 +1373,12 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
         <translation>Všetky sch. značky komponentu, musia byť umiestnené na rovnakom liste schémy.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="417"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="424"/>
         <source>Unplaced required symbols of component &quot;%1&quot;: %2</source>
         <translation>Neumiestnená vyžadovaná sch. značka komponentu &quot;%1&quot;: %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="421"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="428"/>
         <source>Unplaced optional symbols of component &quot;%1&quot;: %2</source>
         <translation>Neumiestnená nepovinná sch. značka komponentu &quot;%1&quot;: %2</translation>
     </message>
@@ -1421,12 +1396,12 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
         <translation>Komponent &quot;%1&quot; nemôže byť odstránený, pretože sa stále používa!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="301"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="300"/>
         <source>Unconnected component signal: &quot;%1&quot; from &quot;%2&quot;</source>
         <translation>Nepripojený signál &quot;%1&quot; komponentu &quot;%2&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="305"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="304"/>
         <source>Signal name conflict: &quot;%1&quot; != &quot;%2&quot; (&quot;%3&quot; from &quot;%4&quot;)</source>
         <translation>Nezhoda názvov signálov: &quot;%1&quot; != &quot;%2&quot; (&quot;%3&quot; z &quot;%4&quot;)</translation>
     </message>
@@ -1815,12 +1790,12 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
         <translation>Signál &quot;%1&quot; nemôže byť odstránený, pretože sa stále používa!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="265"/>
+        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="267"/>
         <source>Unused net signal: &quot;%1&quot;</source>
         <translation>Nepoužitý signál: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="288"/>
+        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="290"/>
         <source>Net signal connected to less than two pins: &quot;%1&quot;</source>
         <translation>Signál má prepájať najmenej dva vývody: &quot;%1&quot;</translation>
     </message>

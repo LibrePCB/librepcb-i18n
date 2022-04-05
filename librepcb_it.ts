@@ -821,57 +821,32 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>SExpression</name>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.cpp" line="73"/>
-        <source>Node is not a list.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.cpp" line="80"/>
-        <source>Node is not a token or string.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.cpp" line="102"/>
-        <source>Child not found: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.cpp" line="242"/>
-        <source>Invalid S-Expression list name: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.cpp" line="270"/>
-        <source>Invalid S-Expression token: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="266"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="283"/>
         <source>Not a valid boolean.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="278"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="295"/>
         <source>Not a valid integer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="290"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="307"/>
         <source>Not a valid unsigned integer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="303"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="320"/>
         <source>Not a valid datetime.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="314"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="331"/>
         <source>Not a valid color.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="324"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="341"/>
         <source>Not a valid URL.</source>
         <translation type="unfinished"/>
     </message>
@@ -1392,12 +1367,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="417"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="424"/>
         <source>Unplaced required symbols of component &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="421"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="428"/>
         <source>Unplaced optional symbols of component &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -1415,12 +1390,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="301"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="300"/>
         <source>Unconnected component signal: &quot;%1&quot; from &quot;%2&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="305"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="304"/>
         <source>Signal name conflict: &quot;%1&quot; != &quot;%2&quot; (&quot;%3&quot; from &quot;%4&quot;)</source>
         <translation type="unfinished"/>
     </message>
@@ -1807,12 +1782,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="265"/>
+        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="267"/>
         <source>Unused net signal: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="288"/>
+        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="290"/>
         <source>Net signal connected to less than two pins: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
