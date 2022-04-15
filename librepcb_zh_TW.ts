@@ -973,7 +973,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>Toolbox</name>
     <message>
-        <location filename="../libs/librepcb/core/utils/toolbox.h" line="540"/>
+        <location filename="../libs/librepcb/core/utils/toolbox.h" line="555"/>
         <source>Invalid fixed point number string: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>

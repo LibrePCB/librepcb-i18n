@@ -974,7 +974,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>Toolbox</name>
     <message>
-        <location filename="../libs/librepcb/core/utils/toolbox.h" line="540"/>
+        <location filename="../libs/librepcb/core/utils/toolbox.h" line="555"/>
         <source>Invalid fixed point number string: &quot;%1&quot;</source>
         <translation>无效的定点数字符串：“%1” 。定点数：小数点位置固定的数,也就是小数点后面的位数是固定的</translation>
     </message>
