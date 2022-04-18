@@ -873,12 +873,12 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>SerializableObjectList</name>
     <message>
-        <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="460"/>
+        <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="463"/>
         <source>There is no element of type &quot;%1&quot; with the UUID &quot;%2&quot; in the list.</source>
         <translation>Element typu &quot;%1&quot; s UUID &quot;%2&quot; sa nenachádza v zozname.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="469"/>
+        <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="472"/>
         <source>There is no element of type &quot;%1&quot; with the name &quot;%2&quot; in the list.</source>
         <translation>Element typu &quot;%1&quot; s názvom &quot;%2&quot; sa nenachádza v zozname.</translation>
     </message>
@@ -2012,7 +2012,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::SI_SymbolPin</name>
     <message>
-        <location filename="../libs/librepcb/core/project/schematic/items/si_symbolpin.cpp" line="254"/>
+        <location filename="../libs/librepcb/core/project/schematic/items/si_symbolpin.cpp" line="261"/>
         <source>Unconnected pin: &quot;%1&quot; of symbol &quot;%2&quot;</source>
         <translation>Nepripojený vývod: &quot;%1&quot; sch. značky &quot;%2&quot;</translation>
     </message>
@@ -2462,22 +2462,22 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="410"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="409"/>
         <source>No component selected</source>
         <translation>Komponent nie je vybraný</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="469"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="471"/>
         <source>No device selected</source>
         <translation>Súčiastka nie je vybraná</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="503"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="505"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výber</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="504"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="506"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>Prosím, zvoľte komponent a variantu sch. značky.</translation>
     </message>
@@ -5232,12 +5232,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Nepodarilo sa načítať metadáta komponentu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="246"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="248"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výber</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="247"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="249"/>
         <source>Please select a component.</source>
         <translation>Prosím, zvoľte komponent.</translation>
     </message>
@@ -5488,7 +5488,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Mapovanie vývodov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.cpp" line="124"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.cpp" line="136"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -5985,7 +5985,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="286"/>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="381"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="383"/>
         <source>Package not found!</source>
         <translation>Púzdro nenájdené!</translation>
     </message>
@@ -7959,24 +7959,24 @@ Pracovné priestory sú nezávislé od platformy, takže môžu byť použitý n
         <translation>Skenovanie knižníc (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="587"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="577"/>
         <source>Failed to open category</source>
         <translation>Chyba pri otváraní kategórie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="632"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="622"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation>Posledné zmeny prvku knižnice neboli uložené.
 Želáte si ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="635"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="625"/>
         <source>Unsaved changes</source>
         <translation>Neuložené zmeny</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="774"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="764"/>
         <source>&amp;Save &apos;%1&apos;</source>
         <translation>Uložiť &apos;%1&apos;</translation>
     </message>
@@ -10637,24 +10637,24 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SymbolEditorState_AddPins</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="73"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="71"/>
         <source>Name:</source>
         <translation>Názov:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="82"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="80"/>
         <source>Length:</source>
         <translation>Dĺžka:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="105"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="143"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="186"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="103"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="141"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="184"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="172"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="170"/>
         <source>Add symbol pin</source>
         <translation>Pridať vývod sch. značke</translation>
     </message>
@@ -10662,34 +10662,34 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawCircle</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="77"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="75"/>
         <source>Layer:</source>
         <translation>Vrstva:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="86"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="84"/>
         <source>Line Width:</source>
         <translation>Šírka čiary:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="96"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="94"/>
         <source>Fill</source>
         <translation>Vyplniť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="102"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="100"/>
         <source>Grab Area</source>
         <translation>Obsadiť plochu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="163"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="161"/>
         <source>Add symbol circle</source>
         <translation>Pridať kružnicu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="176"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="209"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="223"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="174"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="207"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="221"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -10697,40 +10697,40 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawPolygonBase</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="81"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="79"/>
         <source>Layer:</source>
         <translation>Vrstva:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="90"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="88"/>
         <source>Line Width:</source>
         <translation>Šírka čiary:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="101"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="99"/>
         <source>Angle:</source>
         <translation>Uhol:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="111"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="109"/>
         <source>Fill</source>
         <translation>Vyplniť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="119"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="117"/>
         <source>Grab Area</source>
         <translation>Obsadiť plochu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="204"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="249"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="202"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="247"/>
         <source>Add symbol polygon</source>
         <translation>Pridať polygón do sch. značky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="217"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="234"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="257"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="215"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="232"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="255"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -10738,29 +10738,29 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawTextBase</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="77"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="75"/>
         <source>Layer:</source>
         <translation>Vrstva:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="86"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="84"/>
         <source>Text:</source>
         <translation>Text:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="105"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="103"/>
         <source>Height:</source>
         <translation>Výška:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="192"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="190"/>
         <source>Add symbol text</source>
         <translation>Pridať text do sch. značky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="204"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="226"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="240"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="203"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="225"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="239"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -10768,59 +10768,59 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SymbolEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="188"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="210"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="222"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="304"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="420"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="445"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="627"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="681"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="698"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="710"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="719"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="751"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="771"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="189"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="211"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="223"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="305"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="421"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="446"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="623"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="677"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="694"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="706"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="715"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="747"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="768"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="464"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="465"/>
         <source>Remove Vertex</source>
         <translation>Odstrániť vrchol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="500"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="502"/>
         <source>Add Vertex</source>
         <translation>Pridať vrchol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="510"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="512"/>
         <source>&amp;Rotate</source>
         <translation>Otočiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="515"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="517"/>
         <source>&amp;Mirror</source>
         <translation>Zrkadliť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="520"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="522"/>
         <source>R&amp;emove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="526"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="528"/>
         <source>&amp;Snap To Grid</source>
         <translation>Prichytiť k rastru</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="533"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="535"/>
         <source>&amp;Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="639"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="635"/>
         <source>Paste Symbol Elements</source>
         <translation>Prilepiť elementy symbolu</translation>
     </message>
