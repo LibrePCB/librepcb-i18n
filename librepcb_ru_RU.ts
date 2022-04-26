@@ -351,12 +351,12 @@
     <message>
         <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="187"/>
         <source>File does not exist or is not readable.</source>
-        <translation type="unfinished"/>
+        <translation>Файл не существует или нечитаем.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="193"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Ошибка чтения DXF-файла &quot;%1&quot;: %2 </translation>
     </message>
 </context>
 <context>
