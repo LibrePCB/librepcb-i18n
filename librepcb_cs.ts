@@ -2012,7 +2012,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
 <context>
     <name>librepcb::SI_SymbolPin</name>
     <message>
-        <location filename="../libs/librepcb/core/project/schematic/items/si_symbolpin.cpp" line="261"/>
+        <location filename="../libs/librepcb/core/project/schematic/items/si_symbolpin.cpp" line="263"/>
         <source>Unconnected pin: &quot;%1&quot; of symbol &quot;%2&quot;</source>
         <translation>Nepřipojený vývod: &quot;%1&quot; schematické značky &quot;%2&quot;</translation>
     </message>
@@ -7596,12 +7596,17 @@ Pracovní prostory jsou nezávislé na platformě, takže mohou být použity na
         <translation>Zadat číselný výraz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="314"/>
+        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="96"/>
+        <source>Default value:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="320"/>
         <source>internal</source>
         <translation>Vnitřní</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="317"/>
+        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="323"/>
         <source>default</source>
         <translation>Výchozí</translation>
     </message>
@@ -10620,24 +10625,24 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SymbolEditorState_AddPins</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="71"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="70"/>
         <source>Name:</source>
         <translation>Název:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="80"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="79"/>
         <source>Length:</source>
         <translation>Délka:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="103"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="141"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="184"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="102"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="144"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="192"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="170"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="177"/>
         <source>Add symbol pin</source>
         <translation>Přidat vývod schematické značce</translation>
     </message>
@@ -10998,17 +11003,52 @@ p, li { white-space: pre-wrap; }
         <translation>Délka:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="43"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="48"/>
+        <source>Move text automatically when changing the pin length.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="51"/>
+        <source>Move Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="60"/>
         <source>Position:</source>
         <translation>Poloha:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="60"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="77"/>
         <source>Rotation:</source>
         <translation>Otočení:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.cpp" line="127"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="94"/>
+        <source>Text Position:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="111"/>
+        <source>Text Rotation:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="121"/>
+        <source>Text Height:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="131"/>
+        <source>Text Alignment:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.cpp" line="68"/>
+        <source>(at 0° rotation)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.cpp" line="176"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>

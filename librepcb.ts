@@ -7632,7 +7632,7 @@ Workspaces are platform independent, so they can be used across different operat
     <message>
         <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="96"/>
         <source>Default value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Default value:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="320"/>
@@ -11040,12 +11040,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="48"/>
         <source>Move text automatically when changing the pin length.</source>
-        <translation type="unfinished"></translation>
+        <translation>Move text automatically when changing the pin length.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="51"/>
         <source>Move Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Move Text</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="60"/>
@@ -11060,27 +11060,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="94"/>
         <source>Text Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>Text Position:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="111"/>
         <source>Text Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Text Rotation:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="121"/>
         <source>Text Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Text Height:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="131"/>
         <source>Text Alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Text Alignment:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.cpp" line="68"/>
         <source>(at 0° rotation)</source>
-        <translation type="unfinished"></translation>
+        <translation>(at 0° rotation)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.cpp" line="176"/>
