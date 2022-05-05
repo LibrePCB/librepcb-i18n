@@ -2452,29 +2452,29 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="185"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="198"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="233"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="186"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="199"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="234"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="409"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="410"/>
         <source>No component selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="471"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="472"/>
         <source>No device selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="505"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="506"/>
         <source>Invalid Selection</source>
         <translation>非法的选择</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="506"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="507"/>
         <source>Please select a component and a symbol variant.</source>
         <translation type="unfinished"/>
     </message>
@@ -5948,49 +5948,49 @@ Warning: This cannot be undone!</source>
         <translation>消息:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="154"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="155"/>
         <source>Invalid metadata</source>
         <translation>非法的元数据</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="165"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="166"/>
         <source>Save failed</source>
         <translation>保存失败</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="207"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="208"/>
         <source>Edit device metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="246"/>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="327"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="247"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="328"/>
         <source>Component not found!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="254"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="255"/>
         <source>Change component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="269"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="270"/>
         <source>Could not set component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="286"/>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="383"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="287"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="384"/>
         <source>Package not found!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="295"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="296"/>
         <source>Change package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="314"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="315"/>
         <source>Could not set package</source>
         <translation type="unfinished"/>
     </message>
@@ -9015,32 +9015,32 @@ Are you still sure to delete the following library elements?</source>
         <translation>你在查找什么？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="97"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="98"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="174"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="175"/>
         <source>Could not load packages</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="181"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="182"/>
         <source>No package selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="191"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="192"/>
         <source>Could not load package metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="225"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="227"/>
         <source>Invalid Selection</source>
         <translation>非法的选择</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="226"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="228"/>
         <source>Please select a package.</source>
         <translation type="unfinished"/>
     </message>
@@ -9048,7 +9048,7 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorFsm</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorfsm.cpp" line="157"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorfsm.cpp" line="154"/>
         <source>Please select a footprint.</source>
         <translation type="unfinished"/>
     </message>
@@ -9056,19 +9056,19 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_AddHoles</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="73"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="71"/>
         <source>Diameter:</source>
         <translation>直径:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="133"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="131"/>
         <source>Add hole</source>
         <translation>添加孔</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="145"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="163"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="177"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="143"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="161"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="175"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -9076,34 +9076,34 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_AddPads</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="92"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="90"/>
         <source>Package Pad:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="124"/>
         <source>Width:</source>
         <translation>宽度:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="136"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="134"/>
         <source>Height:</source>
         <translation>高度:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="147"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="145"/>
         <source>Drill Diameter:</source>
         <translation>钻孔直径:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="233"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="231"/>
         <source>Add footprint pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="245"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="265"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="280"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="244"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="264"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="279"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -9111,34 +9111,34 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawCircle</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="77"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="75"/>
         <source>Layer:</source>
         <translation>层:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="86"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="84"/>
         <source>Line Width:</source>
         <translation>线宽:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="96"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="94"/>
         <source>Fill</source>
         <translation>填充</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="102"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="100"/>
         <source>Grab Area</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="163"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="161"/>
         <source>Add symbol circle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="177"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="210"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="224"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="174"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="207"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="221"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -9146,40 +9146,40 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawPolygonBase</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="81"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="79"/>
         <source>Layer:</source>
         <translation>层:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="90"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="88"/>
         <source>Line Width:</source>
         <translation>线宽:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="101"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="99"/>
         <source>Angle:</source>
         <translation>角度:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="111"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="109"/>
         <source>Fill</source>
         <translation>填充</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="119"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="117"/>
         <source>Grab Area</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="205"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="250"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="203"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="248"/>
         <source>Add footprint polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="218"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="235"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="258"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="216"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="233"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="256"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -9187,34 +9187,34 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawTextBase</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="83"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="81"/>
         <source>Layer:</source>
         <translation>层:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="92"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="90"/>
         <source>Text:</source>
         <translation>文本:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="115"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="113"/>
         <source>Height:</source>
         <translation>高度:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="124"/>
         <source>Stroke Width:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="230"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="228"/>
         <source>Add footprint text</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="245"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="267"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="281"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="242"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="264"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="278"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -9222,64 +9222,64 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="190"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="212"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="224"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="309"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="449"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="474"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="690"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="750"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="773"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="785"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="794"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="826"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="846"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="192"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="214"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="226"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="311"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="451"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="476"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="685"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="745"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="768"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="780"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="789"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="821"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="842"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="494"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="496"/>
         <source>Remove Vertex</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="531"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="534"/>
         <source>Add Vertex</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="541"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="545"/>
         <source>Rotate</source>
         <translation>旋转</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="546"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="550"/>
         <source>Mirror</source>
         <translation>镜像</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="551"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="555"/>
         <source>Flip</source>
         <translation>翻转</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="556"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="560"/>
         <source>Remove</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="562"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="566"/>
         <source>Snap To Grid</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="569"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="573"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="707"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="702"/>
         <source>Paste Footprint Elements</source>
         <translation type="unfinished"/>
     </message>
@@ -10541,7 +10541,7 @@ p, li { white-space: pre-wrap; }
         <translation>自动旋转</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.cpp" line="199"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.cpp" line="197"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -11177,27 +11177,27 @@ p, li { white-space: pre-wrap; }
         <translation>自动添加全部</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="221"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="222"/>
         <source>Designator</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="222"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="223"/>
         <source>Value</source>
         <translation>值</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="223"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="224"/>
         <source>Component</source>
         <translation>元件</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="225"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="226"/>
         <source>Device is already pre-selected in schematics.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="246"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="247"/>
         <source>Place Devices [%1]</source>
         <translation>放置器件 [%1]</translation>
     </message>
