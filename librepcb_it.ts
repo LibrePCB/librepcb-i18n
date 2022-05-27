@@ -1006,18 +1006,13 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="189"/>
+        <location filename="../apps/librepcb/main.cpp" line="188"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="190"/>
+        <location filename="../apps/librepcb/main.cpp" line="189"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../apps/librepcb/main.cpp" line="254"/>
-        <source>This directory is not a valid LibrePCB workspace.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1068,37 +1063,37 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::AsyncCopyOperation</name>
     <message>
-        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="66"/>
+        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="73"/>
         <source>The file or directory &quot;%1&quot; exists already.</source>
         <translation>Il percorso &quot;%1&quot; è già esistente.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="73"/>
+        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="80"/>
         <source>Removing temporary directory...</source>
         <translation>Rimozione cartelle temporanee</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="79"/>
+        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="86"/>
         <source>Looking for files to copy...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="90"/>
+        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="100"/>
         <source>Copy file %1 of %2...</source>
         <translation>Copiare file %1 di %2...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="97"/>
+        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="107"/>
         <source>Renaming temporary directory...</source>
         <translation>Rinominare la cartella temporanea ...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="101"/>
+        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="111"/>
         <source>Successfully finished!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="111"/>
+        <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="121"/>
         <source>Failed to copy files:</source>
         <translation>Impossibile copiare i files:</translation>
     </message>
@@ -2058,13 +2053,13 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::Workspace</name>
     <message>
-        <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="60"/>
-        <source>Invalid workspace path: &quot;%1&quot;</source>
+        <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="152"/>
+        <source>The directory &quot;%1&quot; is not a valid LibrePCB workspace.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="68"/>
-        <source>The workspace version %1 is not compatible with this application version.</source>
+        <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="164"/>
+        <source>The workspace &quot;%1&quot; requires LibrePCB %2 or later.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5653,15 +5648,15 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="168"/>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="518"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="624"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="616"/>
         <source>New Project</source>
         <translation>Nuovo Progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="185"/>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="530"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="502"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="595"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="499"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="587"/>
         <source>Open Project</source>
         <translation>Apri Progetto</translation>
     </message>
@@ -5767,97 +5762,96 @@ You need at least LibrePCB %1 to open it.
         <translation>Lettura librerie (%p%) </translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="279"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="276"/>
         <source>Could not create project</source>
         <translation>Impossibile creare il progetto</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="306"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="348"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="303"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="345"/>
         <source>Could not open project</source>
         <translation>Impossibile aprire il progetto</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="395"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="392"/>
         <source>Restore autosave backup?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="396"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="393"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="426"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="533"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="679"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="423"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="671"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="503"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="500"/>
         <source>LibrePCB project files (%1)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="538"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="530"/>
         <source>Workspace changed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="539"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="531"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="599"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="591"/>
         <source>Close Project</source>
         <translation>Apri progetto</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="605"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="730"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="759"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="597"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="722"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="751"/>
         <source>Remove from favorites</source>
         <translation>Elimina dai favoriti</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="609"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="733"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="601"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="725"/>
         <source>Add to favorites</source>
         <translation>Aggiungi ai favoriti</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="614"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="736"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="761"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="606"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="728"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="753"/>
         <source>Update project library</source>
         <translation>Aggiorna libreria di progetto</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="617"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="609"/>
         <source>Open</source>
         <translation>Apri</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="626"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="659"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="618"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="651"/>
         <source>New Folder</source>
         <translation>Nuova cartella</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="631"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="666"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="623"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="658"/>
         <source>Remove</source>
         <translation>Elimina</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="659"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="651"/>
         <source>Name:</source>
         <translation>Nome:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="667"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="659"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -6813,109 +6807,6 @@ Do you really want to close it?</source>
     </message>
 </context>
 <context>
-    <name>librepcb::editor::FirstRunWizard</name>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizard.ui" line="17"/>
-        <source>Choose LibrePCB Workspace</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::FirstRunWizardPage_Welcome</name>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_welcome.ui" line="14"/>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_welcome.ui" line="17"/>
-        <source>Welcome to LibrePCB</source>
-        <translation>Benvenuto in LibrePCB</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_welcome.ui" line="20"/>
-        <source>This wizard will help you to open or create a LibrePCB workspace.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_welcome.ui" line="26"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600;&quot;&gt;Welcome To LibrePCB&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_welcome.ui" line="43"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Website: &lt;a href=&quot;https://librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://librepcb.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;GitHub Project: &lt;a href=&quot;https://github.com/LibrePCB&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://github.com/LibrePCB&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;LibrePCB is published under the &lt;a href=&quot;http://www.gnu.org/licenses/gpl-3.0.html&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;GNU GPLv3&lt;/span&gt;&lt;/a&gt; License.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::FirstRunWizardPage_WorkspacePath</name>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="14"/>
-        <source>WizardPage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="17"/>
-        <source>Select Workspace Path</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="20"/>
-        <source>Please select a directory to open or create a LibrePCB workspace.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="32"/>
-        <source>LibrePCB needs a workspace directory to store settings, libraries and projects.
-
-Workspaces are platform independent, so they can be used across different operating systems.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="51"/>
-        <source>Create a n&amp;ew workspace</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="61"/>
-        <source>Choose an empty directory to create a new workspace:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="92"/>
-        <source>Open an e&amp;xisting workspace</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.ui" line="102"/>
-        <source>Select the workspace directory:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="78"/>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="87"/>
-        <source>Invalid Directory</source>
-        <translation>Cartella non valida</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="79"/>
-        <source>The selected directory is invalid or not empty.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="88"/>
-        <source>The selected directory is not a valid workspace.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="118"/>
-        <source>Select Empty Directory</source>
-        <translation>Scegli cartella vuota</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/firstrunwizard/firstrunwizardpage_workspacepath.cpp" line="125"/>
-        <source>Select Workspace Directory</source>
-        <translation>Seleziona la Directory della Cartella di Lavoro</translation>
-    </message>
-</context>
-<context>
     <name>librepcb::editor::FootprintListModel</name>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="91"/>
@@ -7431,82 +7322,44 @@ Workspaces are platform independent, so they can be used across different operat
     <name>librepcb::editor::InitializeWorkspaceWizard</name>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard.ui" line="14"/>
-        <source>Initialize Workspace</source>
+        <source>LibrePCB Workspace Setup</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::InitializeWorkspaceWizard_ChooseImportVersion</name>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="14"/>
-        <source>Choose version to import</source>
-        <translation>Seleziona versione da importare</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="17"/>
-        <source>Initialize Workspace</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="20"/>
-        <source>Choose how to initialize libraries and settings.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="26"/>
-        <source>The selected workspace was not opened yet with this version of LibrePCB. To keep the workspace compatible with older versions, LibrePCB stores libraries and settings for each file format version independendly. Since there are libraries and settings available from older LibrePCB versions, you can import them now.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.ui" line="36"/>
-        <source>Import from:</source>
-        <translation>Importa da:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseimportversion.cpp" line="48"/>
-        <source>Do not import any data</source>
-        <translation>Non importare alcun dato</translation>
     </message>
 </context>
 <context>
     <name>librepcb::editor::InitializeWorkspaceWizard_ChooseSettings</name>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="14"/>
-        <source>Choose settings</source>
-        <translation>Seleziona impostazioni</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="17"/>
-        <source>Choose workspace settings</source>
+        <source>Choose Settings</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="20"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="17"/>
         <source>Set the most important workspace settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="26"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="23"/>
         <source>Language:</source>
         <translation>Lingua:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="40"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="37"/>
         <source>Length Unit:</source>
         <translation>Unita di misura della lunghezza: </translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="54"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="51"/>
         <source>User Name:</source>
         <translation>Nome utente:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="66"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="63"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
         <translation>Questo nome verrà utilizzato come autore durante la creazione di nuovi progetti o librerie.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="81"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="78"/>
         <source>Preferred Norm:</source>
         <translation type="unfinished"/>
     </message>
@@ -7527,42 +7380,125 @@ Workspaces are platform independent, so they can be used across different operat
     </message>
 </context>
 <context>
-    <name>librepcb::editor::InitializeWorkspaceWizard_FinalizeImport</name>
+    <name>librepcb::editor::InitializeWorkspaceWizard_ChooseWorkspace</name>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="14"/>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="17"/>
-        <source>Finalize Import</source>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="14"/>
+        <source>Select Workspace Path</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="20"/>
-        <source>Ready to start the import operation.</source>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="17"/>
+        <source>Please select a directory to open or create a LibrePCB workspace.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="26"/>
-        <source>To import the old settings and libraries, the following directory will be recursively copied:</source>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="29"/>
+        <source>&lt;p&gt;LibrePCB stores settings, libraries and (optionally) projects in a directory called &lt;i&gt;workspace&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;Workspaces are platform independent, so they can be used across different operating systems.&lt;/p&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="43"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="53"/>
+        <source>Choose the workspace directory to open or create:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="51"/>
+        <source>Select Workspace Directory</source>
+        <translation>Seleziona la Directory della Cartella di Lavoro</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="114"/>
+        <source>Please select a directory.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="116"/>
+        <source>Directory contains a valid workspace.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="118"/>
+        <source>New workspace will be created.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="120"/>
+        <source>Directory is not empty!</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::InitializeWorkspaceWizard_Upgrade</name>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="14"/>
+        <source>Upgrade Workspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="17"/>
+        <source>Upgrade the workspace to the latest file format.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="55"/>
+        <source>&lt;p&gt;Your workspace was created with an older LibrePCB version and needs to be upgraded.&lt;/p&gt;
+&lt;p&gt;To still keep the workspace compatible with older versions of LibrePCB, a snapshot of the currently installed libraries and settings will be created.&lt;/p&gt;
+&lt;p&gt;No worries, this operation is not harmful at all, it may just take a few seconds ;-)&lt;/p&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="106"/>
         <source>Source:</source>
         <translation>Sorgente:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="80"/>
-        <source>Make sure these directories are not accessed by any application during the copy operation!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="90"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="144"/>
         <source>Destination:</source>
         <translation>Destinazione:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_finalizeimport.ui" line="97"/>
-        <source>Start Import</source>
-        <translation>Inizia importazione</translation>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="47"/>
+        <source>Upgrade to LibrePCB %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="51"/>
+        <source>Upgrade</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="85"/>
+        <source>Error:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="87"/>
+        <source>If the error persists, you could try to copy the mentioned directory manually (e.g. with your file manager).</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::InitializeWorkspaceWizard_Welcome</name>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="14"/>
+        <source>Welcome to LibrePCB</source>
+        <translation>Benvenuto in LibrePCB</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="17"/>
+        <source>This wizard will help you to open or create a LibrePCB workspace.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="23"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600;&quot;&gt;Welcome To LibrePCB&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="62"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Website: &lt;a href=&quot;https://librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://librepcb.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;GitHub Project: &lt;a href=&quot;https://github.com/LibrePCB&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://github.com/LibrePCB&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;LibrePCB is published under the &lt;a href=&quot;http://www.gnu.org/licenses/gpl-3.0.html&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;GNU GPLv3&lt;/span&gt;&lt;/a&gt; License.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11391,37 +11327,37 @@ p, li { white-space: pre-wrap; }
         <translation>Scegli</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="60"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="61"/>
         <source>System Language</source>
         <translation>Lingua di sistema</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="78"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="79"/>
         <source>Click here to add a locale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="103"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="104"/>
         <source>Click here to add a norm</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="127"/>
         <source>Click here a add an URL</source>
         <translation>Premi qui per aggungere un URL</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="168"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="169"/>
         <source>Select an executable file</source>
         <translation>Seleziona un file eseguibile</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="229"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="230"/>
         <source>Restore default settings</source>
         <translation>Ripristina impostazioni predefinite</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="230"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="231"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
@@ -11429,7 +11365,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
 Attenzione: questo verrà applicato immediatamente e non può essere annullato!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="335"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="337"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -11437,12 +11373,12 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>main</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="209"/>
+        <location filename="../apps/librepcb/main.cpp" line="208"/>
         <source>Unstable file format!</source>
         <translation>Formato file instabile!</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="210"/>
+        <location filename="../apps/librepcb/main.cpp" line="209"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt; ATTENZIONE: questa versione dell&apos;applicazione è INSTABILE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Tutto ciò che fai con questa applicazione può danneggiare il tuo spazio di lavoro, le tue librerie o i tuoi progetti! I file salvati non saranno leggibili con le versioni stabili di LibrePCB. Si consiglia vivamente di creare un backup prima di procedere. Se non sei sicuro, scarica invece una versione stabile ufficiale.&lt;/p&gt;&lt;p&gt; Per i dettagli, dai un&apos;occhiata al controllo delle versioni su LibrePCB&lt;a href=&quot;%1&quot;&gt;.&lt;/p&gt;&lt;p&gt;Sei davvero sicuro di continuare con il rischio di rompere i tuoi file ?!&lt;/p&gt;
  </translation>
