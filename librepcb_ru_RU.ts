@@ -3445,14 +3445,14 @@ You need at least LibrePCB %1 to open it.
         <translation>Диаметр:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addhole.cpp" line="145"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addhole.cpp" line="141"/>
         <source>Add hole to board</source>
         <translation>Добавить отверстие на плату</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addhole.cpp" line="155"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addhole.cpp" line="183"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addhole.cpp" line="205"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addhole.cpp" line="151"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addhole.cpp" line="179"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addhole.cpp" line="201"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -3480,14 +3480,14 @@ You need at least LibrePCB %1 to open it.
         <translation>Зеркалирование:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="241"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="237"/>
         <source>Add text to board</source>
         <translation>Добавить текст на плату</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="253"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="306"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="328"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="249"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="302"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="324"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -3520,15 +3520,15 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="253"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="255"/>
         <source>Add via to board</source>
         <translation>Добавить перех. отв. на плату</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="270"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="368"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="390"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="443"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="272"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="370"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="392"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="445"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -3546,16 +3546,16 @@ You need at least LibrePCB %1 to open it.
         <translation>Слой:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="212"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="252"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="202"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="242"/>
         <source>Draw board plane</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="227"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="266"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="292"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="312"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="217"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="256"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="282"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="302"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -3578,15 +3578,15 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="207"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="254"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="197"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="244"/>
         <source>Draw board polygon</source>
         <translation>Отрисовать полигон платы</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="224"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="266"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="300"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="214"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="256"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="290"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -3619,26 +3619,26 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="420"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="431"/>
         <source>Draw Board Trace</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="428"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="439"/>
         <source>No layer selected.</source>
         <translation>Слой не выбран</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="434"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="445"/>
         <source>Pad is not connected to any signal.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="590"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="749"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="769"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="794"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="957"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="601"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="760"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="780"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="805"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="968"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -6933,12 +6933,12 @@ Do you really want to close it?</source>
         <translation>Вращение:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="67"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="91"/>
         <source>(not connected)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="204"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="228"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -8999,7 +8999,7 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorFsm</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorfsm.cpp" line="154"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorfsm.cpp" line="157"/>
         <source>Please select a footprint.</source>
         <translation>Пожалуйста выберите посадочное место.</translation>
     </message>
@@ -9007,19 +9007,19 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_AddHoles</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="71"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="70"/>
         <source>Diameter:</source>
         <translation>Диаметр:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="131"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="134"/>
         <source>Add hole</source>
         <translation>Добавить отверстие</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="143"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="161"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="175"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="146"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="164"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="178"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -9027,12 +9027,12 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_AddPads</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="90"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="89"/>
         <source>Package Pad:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="124"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="123"/>
         <source>Width:</source>
         <translation>Ширина:</translation>
     </message>
@@ -9042,19 +9042,19 @@ Are you still sure to delete the following library elements?</source>
         <translation>Высота:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="145"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="147"/>
         <source>Drill Diameter:</source>
         <translation>Диаметр отверстия:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="231"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="266"/>
         <source>Add footprint pad</source>
         <translation>Добавить площадку посад. места</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="244"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="264"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="279"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="299"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="314"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -9062,22 +9062,22 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawCircle</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="75"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="74"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="84"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="83"/>
         <source>Line Width:</source>
         <translation>Толщина линии:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="94"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="93"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="100"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="99"/>
         <source>Grab Area</source>
         <translation>Область захвата</translation>
     </message>
@@ -9097,27 +9097,27 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawPolygonBase</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="79"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="78"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="88"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="87"/>
         <source>Line Width:</source>
         <translation>Толщина линии:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="99"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="98"/>
         <source>Angle:</source>
         <translation>Угол:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="109"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="108"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="117"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="116"/>
         <source>Grab Area</source>
         <translation>Область захвата</translation>
     </message>
@@ -9138,34 +9138,34 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawTextBase</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="81"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="80"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="90"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="89"/>
         <source>Text:</source>
         <translation>Текст:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="113"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="112"/>
         <source>Height:</source>
         <translation>Высота:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="124"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="123"/>
         <source>Stroke Width:</source>
         <translation>Ширина штриха:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="228"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="231"/>
         <source>Add footprint text</source>
         <translation>Добавить текст посад. места</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="242"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="264"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="278"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="245"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="267"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="281"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -10205,26 +10205,26 @@ p, li { white-space: pre-wrap; }
         <translation>Значение:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="161"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="177"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="207"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="281"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="437"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="163"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="179"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="209"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="283"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="439"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="242"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="244"/>
         <source>Add Symbol to Schematic</source>
         <translation>Добавить символ на схему</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="327"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="329"/>
         <source>Add Component to Schematic</source>
         <translation>Добавить компонент на схему</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="387"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="389"/>
         <source>The component with the UUID &quot;%1&quot; does not have any symbol.</source>
         <translation>Компонент с UUID &quot;%1&quot; не имеет никаких символов.</translation>
     </message>
@@ -10232,14 +10232,14 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SchematicEditorState_AddNetLabel</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="81"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="196"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="227"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="79"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="192"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="223"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="180"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="176"/>
         <source>Add net label to schematic</source>
         <translation type="unfinished"/>
     </message>
@@ -10262,14 +10262,14 @@ p, li { white-space: pre-wrap; }
         <translation>Высота:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="224"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="220"/>
         <source>Add text to schematic</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="239"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="276"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="298"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="235"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="272"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="294"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -10292,15 +10292,15 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="211"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="257"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="200"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="246"/>
         <source>Draw schematic polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="227"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="269"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="304"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="216"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="258"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="293"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -10308,27 +10308,27 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SchematicEditorState_DrawWire</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="292"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="288"/>
         <source>Draw Wire</source>
         <translation>Рисовать дорожку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="322"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="578"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="318"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="574"/>
         <source>Invalid net name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="323"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="580"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="319"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="576"/>
         <source>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="418"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="592"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="610"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="633"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="414"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="588"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="606"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="629"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -10544,24 +10544,24 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SymbolEditorState_AddPins</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="70"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="69"/>
         <source>Name:</source>
         <translation>Имя:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="79"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="78"/>
         <source>Length:</source>
         <translation>Длина:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="102"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="144"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="192"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="105"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="147"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="195"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="177"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="180"/>
         <source>Add symbol pin</source>
         <translation>Добавить вывод символа</translation>
     </message>
@@ -10569,22 +10569,22 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawCircle</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="75"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="74"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="84"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="83"/>
         <source>Line Width:</source>
         <translation>Толщина линии:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="94"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="93"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="100"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="99"/>
         <source>Grab Area</source>
         <translation>Область захвата</translation>
     </message>
@@ -10604,27 +10604,27 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawPolygonBase</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="79"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="78"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="88"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="87"/>
         <source>Line Width:</source>
         <translation>Толщина линии:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="99"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="98"/>
         <source>Angle:</source>
         <translation>Угол:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="109"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="108"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="117"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="116"/>
         <source>Grab Area</source>
         <translation>Область захвата</translation>
     </message>
@@ -10645,29 +10645,29 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawTextBase</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="75"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="74"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="84"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="83"/>
         <source>Text:</source>
         <translation>Текст:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="103"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="102"/>
         <source>Height:</source>
         <translation>Высота:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="190"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="193"/>
         <source>Add symbol text</source>
         <translation>Добавить текст символа</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="203"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="225"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="239"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="206"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="228"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="242"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
