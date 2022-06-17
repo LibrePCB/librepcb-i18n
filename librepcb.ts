@@ -2672,12 +2672,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="188"/>
+        <location filename="../apps/librepcb/main.cpp" line="189"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="189"/>
+        <location filename="../apps/librepcb/main.cpp" line="190"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
         <translation>Could not open the workspace &quot;%1&quot;:</translation>
     </message>
@@ -4002,6 +4002,11 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/workspace/desktopservices.cpp" line="73"/>
         <source>PDF exported successfully.</source>
         <translation>PDF exported successfully.</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/modelview/keyboardshortcutsmodel.cpp" line="183"/>
+        <source>Default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8569,6 +8574,37 @@ Do you really want to close it?</translation>
     </message>
 </context>
 <context>
+    <name>librepcb::editor::KeySequencesEditorWidget</name>
+    <message>
+        <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="123"/>
+        <source>Remove this shortcut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="135"/>
+        <source>Restore default shortcut(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="154"/>
+        <source>Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="161"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancel</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::KeyboardShortcutsModel</name>
+    <message>
+        <location filename="../libs/librepcb/editor/modelview/keyboardshortcutsmodel.cpp" line="251"/>
+        <source>None</source>
+        <translation type="unfinished">None</translation>
+    </message>
+</context>
+<context>
     <name>librepcb::editor::LengthEditBase</name>
     <message>
         <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="65"/>
@@ -11642,37 +11678,47 @@ p, li { white-space: pre-wrap; }
         <translation>Pick</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="61"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="455"/>
+        <source>Keyboard Shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="520"/>
+        <source>Type to filter...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="68"/>
         <source>System Language</source>
         <translation>System Language</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="79"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="86"/>
         <source>Click here to add a locale</source>
         <translation>Click here to add a locale</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="104"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="111"/>
         <source>Click here to add a norm</source>
         <translation>Click here to add a norm</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="127"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="134"/>
         <source>Click here a add an URL</source>
         <translation>Click here a add an URL</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="169"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="176"/>
         <source>Select an executable file</source>
         <translation>Select an executable file</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="230"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="274"/>
         <source>Restore default settings</source>
         <translation>Restore default settings</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="231"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="275"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
@@ -11681,7 +11727,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
 Attention: This will be applied immediately and cannot be undone!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="337"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="400"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -11689,12 +11735,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
 <context>
     <name>main</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="208"/>
+        <location filename="../apps/librepcb/main.cpp" line="209"/>
         <source>Unstable file format!</source>
         <translation>Unstable file format!</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="209"/>
+        <location filename="../apps/librepcb/main.cpp" line="210"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</translation>
     </message>
