@@ -2670,12 +2670,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="188"/>
+        <location filename="../apps/librepcb/main.cpp" line="189"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="189"/>
+        <location filename="../apps/librepcb/main.cpp" line="190"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
         <translation type="unfinished"/>
     </message>
@@ -3991,6 +3991,11 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopservices.cpp" line="73"/>
         <source>PDF exported successfully.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/modelview/keyboardshortcutsmodel.cpp" line="183"/>
+        <source>Default</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -8531,6 +8536,37 @@ Do you really want to close it?</source>
     </message>
 </context>
 <context>
+    <name>librepcb::editor::KeySequencesEditorWidget</name>
+    <message>
+        <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="123"/>
+        <source>Remove this shortcut</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="135"/>
+        <source>Restore default shortcut(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="154"/>
+        <source>Apply</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="161"/>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::KeyboardShortcutsModel</name>
+    <message>
+        <location filename="../libs/librepcb/editor/modelview/keyboardshortcutsmodel.cpp" line="251"/>
+        <source>None</source>
+        <translation>無</translation>
+    </message>
+</context>
+<context>
     <name>librepcb::editor::LengthEditBase</name>
     <message>
         <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="65"/>
@@ -11604,37 +11640,47 @@ p, li { white-space: pre-wrap; }
         <translation>選取</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="61"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="455"/>
+        <source>Keyboard Shortcuts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="520"/>
+        <source>Type to filter...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="68"/>
         <source>System Language</source>
         <translation>系統語言</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="79"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="86"/>
         <source>Click here to add a locale</source>
         <translation>點選這裡新增語系。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="104"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="111"/>
         <source>Click here to add a norm</source>
         <translation>點選這裡新增標準規範</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="127"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="134"/>
         <source>Click here a add an URL</source>
         <translation>點選這裡新增 URL</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="169"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="176"/>
         <source>Select an executable file</source>
         <translation>請選擇一個執行檔</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="230"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="274"/>
         <source>Restore default settings</source>
         <translation>還原預設設定值</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="231"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="275"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
@@ -11643,7 +11689,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
 注意：這會馬上被套用且不可復原！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="337"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="400"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -11651,12 +11697,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>main</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="208"/>
+        <location filename="../apps/librepcb/main.cpp" line="209"/>
         <source>Unstable file format!</source>
         <translation>非穩定版的檔案格式！</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="209"/>
+        <location filename="../apps/librepcb/main.cpp" line="210"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;注意：此應用程式版本為　非　穩　定　版！&lt;/b&gt;&lt;/p&gt;&lt;p&gt;您所有的變更將有機會導致工作區、元件庫或是專案被破壞！儲存的檔案將無法被將來穩定釋出的 LibrePCB 存取。我們強烈建議您在繼續之前先備份。若您有任何疑慮，請另行下載穩定發行的版本。&lt;/p&gt;&lt;p&gt;詳細資訊請參閱 LibrePCB 的&lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;您確定要冒著檔案被破壞的風險繼續嗎？&lt;/p&gt;</translation>
     </message>
