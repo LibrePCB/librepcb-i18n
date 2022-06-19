@@ -1830,12 +1830,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1381"/>
         <source>Keyboard Shortcuts Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyboard Shortcuts Reference</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1382"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Open a quick reference about the keyboard shortcuts</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1390"/>
@@ -4021,7 +4021,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/utils/standardeditorcommandhandler.cpp" line="92"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
 </context>
 <context>
