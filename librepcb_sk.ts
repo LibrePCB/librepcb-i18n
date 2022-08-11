@@ -372,7 +372,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="73"/>
         <source>Editor</source>
-        <translation type="unfinished"/>
+        <translation>Editor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="77"/>
@@ -382,7 +382,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="78"/>
         <source>Add a new item</source>
-        <translation type="unfinished"/>
+        <translation>Pridať novú položku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="86"/>
@@ -392,27 +392,27 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="87"/>
         <source>Open the selected item(s)</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť zvolenú položku(-ky)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="95"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Uložiť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="96"/>
         <source>Save changes to filesystem</source>
-        <translation type="unfinished"/>
+        <translation>Uložiť zmeny</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="104"/>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Uložiť všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="105"/>
         <source>Save all elements to filesystem</source>
-        <translation type="unfinished"/>
+        <translation>Uložiť všetky elementy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="113"/>
@@ -422,52 +422,52 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="114"/>
         <source>Select all visible objects</source>
-        <translation type="unfinished"/>
+        <translation>Vybrať všetky viditeľné objekty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="122"/>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Vyhľadať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="123"/>
         <source>Find or filter objects</source>
-        <translation type="unfinished"/>
+        <translation>Vyhľadať alebo filtrovať objekty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="131"/>
         <source>Find Next</source>
-        <translation type="unfinished"/>
+        <translation>Vyhľadať nasledujúci</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="132"/>
         <source>Go to the next found object</source>
-        <translation type="unfinished"/>
+        <translation>Prejsť na nasledujúci nájdený objekt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="140"/>
         <source>Find Previous</source>
-        <translation type="unfinished"/>
+        <translation>Vyhľadať predchádzajúci</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="141"/>
         <source>Go to the previous found object</source>
-        <translation type="unfinished"/>
+        <translation>Prejsť na predchádzajúci nájdený objekt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="149"/>
         <source>Show in File Manager</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť v prehliadači súborov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="150"/>
         <source>Open the directory in the file manager</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť adresár v prehliadači súborov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="158"/>
         <source>Control Panel</source>
-        <translation type="unfinished"/>
+        <translation>Ovládací panel</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="159"/>
@@ -522,7 +522,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="204"/>
         <source>Create a new library element</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť nový element v knižnici</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="212"/>
@@ -542,7 +542,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="222"/>
         <source>Create a new project</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť nový projekt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="230"/>
@@ -552,12 +552,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="231"/>
         <source>Open an existing project</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť jestvujúci projekt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="239"/>
         <source>Save Project</source>
-        <translation type="unfinished"/>
+        <translation>Uložiť projekt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="240"/>
@@ -597,7 +597,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="275"/>
         <source>Grid Properties</source>
-        <translation type="unfinished"/>
+        <translation>Vlastnosti rastra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="276"/>
