@@ -1309,12 +1309,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="913"/>
         <source>Measure Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Measure Distance</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="914"/>
         <source>Measure the distance between two points</source>
-        <translation type="unfinished"></translation>
+        <translation>Measure the distance between two points</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="922"/>
@@ -2501,7 +2501,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="458"/>
         <source>Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift</translation>
     </message>
 </context>
 <context>
@@ -9102,27 +9102,27 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="253"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Copied to clipboard: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="457"/>
         <source>(press %1 to disable snap)</source>
-        <translation type="unfinished"></translation>
+        <translation>(press %1 to disable snap)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="462"/>
         <source>Press %1 to copy the value to clipboard or %2 to clear the measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>Press %1 to copy the value to clipboard or %2 to clear the measurement</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="467"/>
         <source>Click to specify the end point</source>
-        <translation type="unfinished"></translation>
+        <translation>Click to specify the end point</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="470"/>
         <source>Click to specify the start point</source>
-        <translation type="unfinished"></translation>
+        <translation>Click to specify the start point</translation>
     </message>
 </context>
 <context>
