@@ -9710,7 +9710,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="201"/>
         <source>Failed to open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to open %1</translation>
     </message>
 </context>
 <context>
@@ -11671,12 +11671,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="338"/>
         <source>Custom command(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom command(s):</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="370"/>
         <source>You can add multiple commands to make the same settings working on multiple computers. LibrePCB will iterate through the list of commands until one of them succeeds. If none succeeds, the system&apos;s default application will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>You can add multiple commands to make the same settings working on multiple computers. LibrePCB will iterate through the list of commands until one of them succeeds. If none succeeds, the system&apos;s default application will be used.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="190"/>
@@ -11717,29 +11717,29 @@ p, li { white-space: pre-wrap; }
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="157"/>
         <source>Absolute path to the file to open</source>
         <comment>Decription for &apos;{{FILEPATH}}&apos; placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Absolute path to the file to open</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="161"/>
         <source>URL to the file to open (file://)</source>
         <comment>Decription for &apos;{{URL}}&apos; placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>URL to the file to open (file://)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="168"/>
         <source>Web Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Web Browser</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="175"/>
         <source>Website URL to open</source>
         <comment>Decription for &apos;{{URL}}&apos; placeholder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Website URL to open</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="180"/>
         <source>File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>File Manager</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="290"/>
@@ -11758,27 +11758,27 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="340"/>
         <source>Example:</source>
-        <translation type="unfinished"></translation>
+        <translation>Example:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="362"/>
         <source>Select executable...</source>
-        <translation type="unfinished"></translation>
+        <translation>Select executable...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="365"/>
         <source>Select executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Select executable</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="376"/>
         <source>Remove this command</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove this command</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="391"/>
         <source>Available placeholders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Available placeholders:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="493"/>
