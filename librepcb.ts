@@ -5079,27 +5079,27 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="34"/>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Format:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="43"/>
         <source>CSV with metadata*</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV with metadata*</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="53"/>
         <source>CSV without metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV without metadata</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="60"/>
         <source>Gerber X3</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerber X3</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="87"/>
         <source>*) Adds additional information to the files, but might cause issues with some CSV readers.</source>
-        <translation type="unfinished"></translation>
+        <translation>*) Adds additional information to the files, but might cause issues with some CSV readers.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="94"/>
@@ -5114,7 +5114,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="132"/>
         <source>Browse Output Directory</source>
-        <translation type="unfinished">Browse Output Directory</translation>
+        <translation>Browse Output Directory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="150"/>

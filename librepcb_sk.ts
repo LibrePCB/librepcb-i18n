@@ -4630,27 +4630,27 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Schéma obsahuje komponenty, ktoré nie sú zatiaľ umiestnené na doske s plošnými spojmi. Pridáte ich pomocou dokovateľného dialógu &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Neumiestnené súčiastky&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="622"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="623"/>
         <source>File</source>
         <translation>Súbor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="640"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="641"/>
         <source>Edit</source>
         <translation>Upraviť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="653"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="654"/>
         <source>View</source>
         <translation>Zobrazenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="687"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="688"/>
         <source>Tools</source>
         <translation>Nástroje</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="678"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="679"/>
         <source>Command</source>
         <translation>Príkaz</translation>
     </message>
@@ -4660,7 +4660,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>%1 - LibrePCB Editor dosky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="664"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="665"/>
         <source>Find device...</source>
         <translation>Vyhľadať prvok...</translation>
     </message>
@@ -4670,64 +4670,64 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Skenovanie knižníc (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1135"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1136"/>
         <source>Add New Board</source>
         <translation>Pridať novú dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1135"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1155"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1136"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1156"/>
         <source>Choose a name:</source>
         <translation>Zvoľte názov:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1136"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1137"/>
         <source>new_board</source>
         <translation>nová_doska</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="373"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1035"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1145"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1165"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1182"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1233"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1299"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1036"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1146"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1166"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1183"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1234"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1300"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="839"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="840"/>
         <source>Boards</source>
         <translation>Doska s plošnými spojmi</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1155"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1156"/>
         <source>Copy Board</source>
         <translation>Kopírovať dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1156"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1157"/>
         <source>copy_of_%1</source>
         <translation>kópia_z_%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1174"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1175"/>
         <source>Remove board</source>
         <translation>Odstrániť dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1175"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1176"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>Naozaj chcete odstrániť dosku &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1272"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1273"/>
         <source>Preparing board...</source>
         <translation>Pripravujem dáta dosky...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1272"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1273"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
@@ -5066,31 +5066,56 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="34"/>
+        <source>Format:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="43"/>
+        <source>CSV with metadata*</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="53"/>
+        <source>CSV without metadata</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="60"/>
+        <source>Gerber X3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="87"/>
+        <source>*) Adds additional information to the files, but might cause issues with some CSV readers.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="94"/>
         <source>Top Devices:</source>
         <translation>Vrchné súčiastky:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="44"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="107"/>
         <source>Bottom Devices:</source>
         <translation>Spodné súčiastky:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="70"/>
-        <source>Include comment with some metadata (provides additional information, but might cause issues with some CSV readers)</source>
-        <translation>Pridať komentár s metadátami (poskytnúť dodatočné informácie, ale niektoré CSV čítačky s tým môžu mať problém)</translation>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="132"/>
+        <source>Browse Output Directory</source>
+        <translation>Otvoriť výstupný adresár</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="90"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="150"/>
         <source>Success!</source>
         <translation>Úspešné!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="64"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="65"/>
         <source>&amp;Generate</source>
         <translation>&amp;Generovať</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="97"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="161"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -7922,12 +7947,12 @@ Naozaj si želáte zatvoriť toto okno?</translation>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="190"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="191"/>
         <source>Warning</source>
         <translation>Upozornenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="190"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="191"/>
         <source>Directory does not exist.</source>
         <translation>Adresár neexistuje.</translation>
     </message>

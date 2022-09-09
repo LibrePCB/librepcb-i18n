@@ -4629,27 +4629,27 @@ You need at least LibrePCB %1 to open it.
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;此線路圖中包含了尚未置入電路板中的原件。你可以透過 &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;放置裝置&lt;/span&gt;&lt;/a&gt; 視窗來將它們加入&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="622"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="623"/>
         <source>File</source>
         <translation>檔案</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="640"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="641"/>
         <source>Edit</source>
         <translation>編輯</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="653"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="654"/>
         <source>View</source>
         <translation>檢視</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="687"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="688"/>
         <source>Tools</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="678"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="679"/>
         <source>Command</source>
         <translation>指令</translation>
     </message>
@@ -4659,7 +4659,7 @@ You need at least LibrePCB %1 to open it.
         <translation>%1 - LibrePCB 電路板編輯器</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="664"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="665"/>
         <source>Find device...</source>
         <translation>尋找裝置...</translation>
     </message>
@@ -4669,64 +4669,64 @@ You need at least LibrePCB %1 to open it.
         <translation>掃描元件庫中(%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1135"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1136"/>
         <source>Add New Board</source>
         <translation>新增電路板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1135"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1155"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1136"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1156"/>
         <source>Choose a name:</source>
         <translation>選取一個名稱：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1136"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1137"/>
         <source>new_board</source>
         <translation>new_board</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="373"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1035"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1145"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1165"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1182"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1233"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1299"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1036"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1146"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1166"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1183"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1234"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1300"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="839"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="840"/>
         <source>Boards</source>
         <translation>電路板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1155"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1156"/>
         <source>Copy Board</source>
         <translation>複製電路板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1156"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1157"/>
         <source>copy_of_%1</source>
         <translation>copy_of_%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1174"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1175"/>
         <source>Remove board</source>
         <translation>移除電路板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1175"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1176"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>您確定要移除電路板&quot;%1&quot;嗎？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1272"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1273"/>
         <source>Preparing board...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1272"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1273"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
@@ -5065,31 +5065,56 @@ You need at least LibrePCB %1 to open it.
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="34"/>
+        <source>Format:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="43"/>
+        <source>CSV with metadata*</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="53"/>
+        <source>CSV without metadata</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="60"/>
+        <source>Gerber X3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="87"/>
+        <source>*) Adds additional information to the files, but might cause issues with some CSV readers.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="94"/>
         <source>Top Devices:</source>
         <translation>頂面裝置：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="44"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="107"/>
         <source>Bottom Devices:</source>
         <translation>底面裝置：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="70"/>
-        <source>Include comment with some metadata (provides additional information, but might cause issues with some CSV readers)</source>
-        <translation>引用後設資料至註解中（可以提供額外的訊息，但可能對 CSV 讀者造成問題）</translation>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="132"/>
+        <source>Browse Output Directory</source>
+        <translation>瀏覽輸出目錄</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="90"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="150"/>
         <source>Success!</source>
         <translation>成功！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="64"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="65"/>
         <source>&amp;Generate</source>
         <translation>產生 (&amp;G)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="97"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="161"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -7904,12 +7929,12 @@ Do you really want to close it?</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="190"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="191"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="190"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="191"/>
         <source>Directory does not exist.</source>
         <translation>目錄不存在。</translation>
     </message>
