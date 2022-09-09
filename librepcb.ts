@@ -206,12 +206,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="137"/>
         <source>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="143"/>
         <source>Export pick&amp;place file for automated assembly of the bottom board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Export pick&amp;place file for automated assembly of the bottom board side. Existing files will be overwritten. Supported file extensions: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
@@ -3866,17 +3866,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="551"/>
         <source>top</source>
-        <translation type="unfinished"></translation>
+        <translation>top</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="555"/>
         <source>bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>bottom</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="559"/>
         <source>Export %1 assembly data to &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Export %1 assembly data to &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="595"/>
