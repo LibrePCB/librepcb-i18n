@@ -2858,12 +2858,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::BI_Device</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="133"/>
+        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="134"/>
         <source>No device with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation>在项目的元件库中找不到 UUID-唯一识别码为&quot;%1&quot; 的设备。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="153"/>
+        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="154"/>
         <source>No package with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation>在项目元件库中找不到 UUID-唯一识别码 为&quot;%1&quot;的封装。</translation>
     </message>

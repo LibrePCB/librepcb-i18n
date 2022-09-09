@@ -2856,12 +2856,12 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>librepcb::BI_Device</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="133"/>
+        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="134"/>
         <source>No device with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation>Súčiastka s UUID &quot;%1&quot; sa nenachádza v projektovej knižnici.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="153"/>
+        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="154"/>
         <source>No package with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation>Púzdro s UUID &quot;%1&quot; neexistuje v projektovej knižnici.</translation>
     </message>
