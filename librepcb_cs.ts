@@ -619,12 +619,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="284"/>
         <source>Layer Stack</source>
-        <translation type="unfinished"/>
+        <translation>Uspořádání fyz. vrstev desky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="285"/>
         <source>View/modify the board layer stack setup</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit/upravit uspořádání fyz. vrstev desky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="293"/>
@@ -1670,7 +1670,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1230"/>
         <source>Pages</source>
-        <translation>Listy</translation>
+        <translation>Schematické listy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1231"/>
@@ -1700,7 +1700,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1257"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>Vrstvy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1258"/>
@@ -2152,7 +2152,7 @@
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="151"/>
         <source>&amp;Show/Hide Docks</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit/Skrýt dokovatelné dialogy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="156"/>
@@ -5049,7 +5049,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardlayerstacksetupdialog.ui" line="14"/>
         <source>Layer Stack Setup</source>
-        <translation>Nastavení stohování vrstev</translation>
+        <translation>Nastavení uspořádání fyz. vrstev desky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardlayerstacksetupdialog.ui" line="25"/>
@@ -5542,7 +5542,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardlayerstackedit.cpp" line="41"/>
         <source>Modify board layer stack</source>
-        <translation>Upravit stohování vrstev desky</translation>
+        <translation>Upravit uspořádání fyz. vrstev desky</translation>
     </message>
 </context>
 <context>
@@ -8230,12 +8230,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="513"/>
         <source>Pages</source>
-        <translation>Listy</translation>
+        <translation>Schematické listy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="522"/>
         <source>All pages</source>
-        <translation type="unfinished"/>
+        <translation>Všechny schematické listy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="551"/>
@@ -8315,7 +8315,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="552"/>
         <source>All Layers</source>
-        <translation type="unfinished"/>
+        <translation>Všechny vrstvy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="558"/>
@@ -10856,7 +10856,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematicpagesdock.ui" line="20"/>
         <source>Pages</source>
-        <translation>Listy</translation>
+        <translation>Schematické listy</translation>
     </message>
 </context>
 <context>

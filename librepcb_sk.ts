@@ -204,12 +204,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="137"/>
         <source>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Exportuje súbor pick&amp;place pre automatické osádzanie súčiastok, pre vrchnú stranu dosky. Jestvujúce súbory budú prepísané. Podporované prípony súborov: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="143"/>
         <source>Export pick&amp;place file for automated assembly of the bottom board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Exportuje súbor pick&amp;place pre automatické osádzanie súčiastok, pre spodnú stranu dosky. Jestvujúce súbory budú prepísané. Podporované prípony súborov: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
@@ -484,7 +484,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="159"/>
         <source>Bring the control panel window to front</source>
-        <translation type="unfinished"/>
+        <translation>Presunúť okno ovládacieho panel dopredu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="167"/>
@@ -619,7 +619,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="284"/>
         <source>Layer Stack</source>
-        <translation>Usporiadanie vrstiev</translation>
+        <translation>Usporiadanie fyz. vrstiev dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="285"/>
@@ -1665,7 +1665,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1226"/>
         <source>Docks</source>
-        <translation type="unfinished"/>
+        <translation>Dokovateľné dialógy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1230"/>
@@ -1675,7 +1675,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1231"/>
         <source>Go to the pages dock</source>
-        <translation type="unfinished"/>
+        <translation>Prejsť na dokovateľný dialóg schematických listov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1239"/>
@@ -1685,7 +1685,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1240"/>
         <source>Go to the ERC messages dock</source>
-        <translation type="unfinished"/>
+        <translation>Prejsť na dokovateľný dialóg ERC správ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1248"/>
@@ -1695,17 +1695,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1249"/>
         <source>Go to the DRC messages dock</source>
-        <translation type="unfinished"/>
+        <translation>Prejsť na dokovateľný dialóg DRC správ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1257"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>Vrstvy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1258"/>
         <source>Go to the layers dock</source>
-        <translation type="unfinished"/>
+        <translation>Prejsť na dokovateľný dialóg vrstiev</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1266"/>
@@ -1715,7 +1715,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1267"/>
         <source>Go to the dock for placing devices</source>
-        <translation type="unfinished"/>
+        <translation>Prejsť na dokovateľný dialóg pre umiestňovanie súčiastok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1275"/>
@@ -2147,12 +2147,12 @@
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="147"/>
         <source>Go to &amp;Dock</source>
-        <translation type="unfinished"/>
+        <translation>Prejsť na &amp;dokovateľný dialóg</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="151"/>
         <source>&amp;Show/Hide Docks</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť/Skryť dokovateľné dialógy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="156"/>
@@ -5049,7 +5049,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardlayerstacksetupdialog.ui" line="14"/>
         <source>Layer Stack Setup</source>
-        <translation>Nastavenie usporiadania vrstiev</translation>
+        <translation>Nastavenie usporiadania fyz. vrstiev</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardlayerstacksetupdialog.ui" line="25"/>
@@ -5542,7 +5542,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardlayerstackedit.cpp" line="41"/>
         <source>Modify board layer stack</source>
-        <translation>Upraviť usporiadanie vrstiev dosky</translation>
+        <translation>Upraviť usporiadanie fyz. vrstiev dosky</translation>
     </message>
 </context>
 <context>
