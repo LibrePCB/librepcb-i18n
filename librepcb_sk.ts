@@ -619,12 +619,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="284"/>
         <source>Layer Stack</source>
-        <translation type="unfinished"/>
+        <translation>Usporiadanie vrstiev</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="285"/>
         <source>View/modify the board layer stack setup</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť/upraviť usporiadanie fyz. vrstiev dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="293"/>
