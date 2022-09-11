@@ -1191,12 +1191,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="795"/>
         <source>Draw Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Draw Arc</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="796"/>
         <source>Draw graphical arcs</source>
-        <translation type="unfinished"></translation>
+        <translation>Draw graphical arcs</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="804"/>
@@ -10065,17 +10065,17 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="553"/>
         <source>Click to specify the arc center</source>
-        <translation type="unfinished"></translation>
+        <translation>Click to specify the arc center</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="556"/>
         <source>Click to specify the start point</source>
-        <translation type="unfinished">Click to specify the start point</translation>
+        <translation>Click to specify the start point</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="559"/>
         <source>Click to specify the end point</source>
-        <translation type="unfinished">Click to specify the end point</translation>
+        <translation>Click to specify the end point</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="563"/>
@@ -11219,17 +11219,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="552"/>
         <source>Click to specify the arc center</source>
-        <translation type="unfinished"></translation>
+        <translation>Click to specify the arc center</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="555"/>
         <source>Click to specify the start point</source>
-        <translation type="unfinished">Click to specify the start point</translation>
+        <translation>Click to specify the start point</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="558"/>
         <source>Click to specify the end point</source>
-        <translation type="unfinished">Click to specify the end point</translation>
+        <translation>Click to specify the end point</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="562"/>
