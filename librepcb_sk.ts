@@ -10166,22 +10166,22 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Správy:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="246"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="255"/>
         <source>Invalid metadata</source>
         <translation>Neplatné metadáta</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="257"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="266"/>
         <source>Save failed</source>
         <translation>Uloženie neúspešné</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="372"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="381"/>
         <source>Edit package metadata</source>
         <translation>Upraviť metadáta púzdra</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="629"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="638"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -11290,22 +11290,22 @@ p, li { white-space: pre-wrap; }
         <translation>Správy:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="232"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="240"/>
         <source>Invalid metadata</source>
         <translation>Neplatné metadáta</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="243"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="251"/>
         <source>Save failed</source>
         <translation>Uloženie neúspešné</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="354"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="362"/>
         <source>Edit symbol metadata</source>
         <translation>Upraviť metadáta sch. značky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="579"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="587"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
