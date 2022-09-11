@@ -9997,7 +9997,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="110"/>
         <source>Arc Angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arc Angle:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="120"/>
@@ -10007,7 +10007,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="124"/>
         <source>Fill polygon, if closed</source>
-        <translation type="unfinished"></translation>
+        <translation>Fill polygon, if closed</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="138"/>
@@ -10017,7 +10017,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="142"/>
         <source>Use polygon as grab area</source>
-        <translation type="unfinished"></translation>
+        <translation>Use polygon as grab area</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="257"/>
@@ -10035,32 +10035,32 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="447"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
-        <translation type="unfinished"></translation>
+        <translation>(press %1 to disable snap, %2 to abort)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="449"/>
         <source>right click</source>
-        <translation type="unfinished"></translation>
+        <translation>right click</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="453"/>
         <source>Click to specify the first edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Click to specify the first edge</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="456"/>
         <source>Click to specify the second edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Click to specify the second edge</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="461"/>
         <source>Click to specify the first point</source>
-        <translation type="unfinished"></translation>
+        <translation>Click to specify the first point</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="464"/>
         <source>Click to specify the next point</source>
-        <translation type="unfinished"></translation>
+        <translation>Click to specify the next point</translation>
     </message>
 </context>
 <context>
@@ -10187,22 +10187,22 @@ Are you still sure to delete the following library elements?</translation>
         <translation>Messages:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="246"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="255"/>
         <source>Invalid metadata</source>
         <translation>Invalid metadata</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="257"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="266"/>
         <source>Save failed</source>
         <translation>Save failed</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="372"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="381"/>
         <source>Edit package metadata</source>
         <translation>Edit package metadata</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="629"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="638"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -11136,7 +11136,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="110"/>
         <source>Arc Angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arc Angle:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="120"/>
@@ -11146,7 +11146,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="124"/>
         <source>Fill polygon, if closed</source>
-        <translation type="unfinished"></translation>
+        <translation>Fill polygon, if closed</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="138"/>
@@ -11156,7 +11156,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="142"/>
         <source>Use polygon as grab area</source>
-        <translation type="unfinished"></translation>
+        <translation>Use polygon as grab area</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="256"/>
@@ -11174,32 +11174,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="446"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
-        <translation type="unfinished"></translation>
+        <translation>(press %1 to disable snap, %2 to abort)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="448"/>
         <source>right click</source>
-        <translation type="unfinished"></translation>
+        <translation>right click</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="452"/>
         <source>Click to specify the first edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Click to specify the first edge</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="455"/>
         <source>Click to specify the second edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Click to specify the second edge</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="460"/>
         <source>Click to specify the first point</source>
-        <translation type="unfinished"></translation>
+        <translation>Click to specify the first point</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="463"/>
         <source>Click to specify the next point</source>
-        <translation type="unfinished"></translation>
+        <translation>Click to specify the next point</translation>
     </message>
 </context>
 <context>
@@ -11311,22 +11311,22 @@ p, li { white-space: pre-wrap; }
         <translation>Messages:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="232"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="240"/>
         <source>Invalid metadata</source>
         <translation>Invalid metadata</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="243"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="251"/>
         <source>Save failed</source>
         <translation>Save failed</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="354"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="362"/>
         <source>Edit symbol metadata</source>
         <translation>Edit symbol metadata</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="579"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="587"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
