@@ -146,7 +146,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="91"/>
         <source>Print this message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Print this message.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
@@ -251,12 +251,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="189"/>
         <source>List command-specific options:</source>
-        <translation type="unfinished"></translation>
+        <translation>List command-specific options:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="192"/>
         <source>Help:</source>
-        <translation type="unfinished"></translation>
+        <translation>Help:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="224"/>
@@ -276,12 +276,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="279"/>
         <source>Missing arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Missing arguments:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="285"/>
         <source>Unknown arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Unknown arguments:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="794"/>
@@ -306,7 +306,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="97"/>
         <source>The command to execute (see list below).</source>
-        <translation type="unfinished"></translation>
+        <translation>The command to execute (see list below).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="206"/>
@@ -316,17 +316,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="266"/>
         <source>File Format %1</source>
-        <translation type="unfinished"></translation>
+        <translation>File Format %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="267"/>
         <source>(stable)</source>
-        <translation type="unfinished"></translation>
+        <translation>(stable)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="267"/>
         <source>(unstable)</source>
-        <translation type="unfinished"></translation>
+        <translation>(unstable)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="268"/>
@@ -3877,7 +3877,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="642"/>
         <source>ERROR: The file &apos;%1&apos; was written multiple times!</source>
-        <translation type="unfinished"></translation>
+        <translation>ERROR: The file &apos;%1&apos; was written multiple times!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="495"/>
