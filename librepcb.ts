@@ -226,12 +226,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="160"/>
         <source>Same as &apos;%1&apos;, but allows to specify boards by index instead of by name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Same as &apos;%1&apos;, but allows to specify boards by index instead of by name.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="163"/>
         <source>index</source>
-        <translation type="unfinished"></translation>
+        <translation>index</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="166"/>
@@ -3912,7 +3912,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="394"/>
         <source>ERROR: Board index &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>ERROR: Board index &apos;%1&apos; is invalid.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="571"/>
