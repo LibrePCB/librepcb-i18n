@@ -4393,89 +4393,89 @@ You need at least LibrePCB %1 to open it.
         <translation>No error.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="71"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="79"/>
         <source>e.g. the URL to the Git repository (optional)</source>
         <translation>e.g. the URL to the Git repository (optional)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="76"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="84"/>
         <source>e.g. https://github.com/LibrePCB-Libraries/LibrePCB_Base.lplib/archive/master.zip</source>
         <translation>e.g. https://github.com/LibrePCB-Libraries/LibrePCB_Base.lplib/archive/master.zip</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="162"/>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="167"/>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="172"/>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="177"/>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="182"/>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="187"/>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="294"/>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="299"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="170"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="175"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="180"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="185"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="190"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="195"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="302"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="307"/>
         <source>Invalid Input</source>
         <translation>Invalid Input</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="163"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="171"/>
         <source>Please enter a name.</source>
         <translation>Please enter a name.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="168"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="176"/>
         <source>Please enter an author.</source>
         <translation>Please enter an author.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="173"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="181"/>
         <source>The specified version number is not valid.</source>
         <translation>The specified version number is not valid.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="178"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="186"/>
         <source>The specified URL is not valid.</source>
         <translation>The specified URL is not valid.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="183"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="191"/>
         <source>Please enter a directory name.</source>
         <translation>Please enter a directory name.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="188"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="196"/>
         <source>The specified directory exists already.</source>
         <translation>The specified directory exists already.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="271"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="279"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="277"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="285"/>
         <source>Busy</source>
         <translation>Busy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="278"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="286"/>
         <source>A download is already running.</source>
         <translation>A download is already running.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="295"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="303"/>
         <source>Please enter a valid URL.</source>
         <translation>Please enter a valid URL.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="300"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="308"/>
         <source>Please enter a valid directory.</source>
         <translation>Please enter a valid directory.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="304"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="312"/>
         <source>Directory exists already</source>
         <translation>Directory exists already</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="305"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="313"/>
         <source>The directory &quot;%1&quot; exists already.</source>
         <translation>The directory &quot;%1&quot; exists already.</translation>
     </message>
@@ -9028,12 +9028,12 @@ Are you really sure to remove &quot;%2&quot;?</translation>
         <translation>Close</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.cpp" line="147"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.cpp" line="155"/>
         <source>Could not load library list</source>
         <translation>Could not load library list</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.cpp" line="194"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.cpp" line="206"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -10719,37 +10719,37 @@ p, li { white-space: pre-wrap; }
         <translation>Author</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="162"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="161"/>
         <source>Download failed</source>
         <translation>Download failed</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="209"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="208"/>
         <source>v%1</source>
         <translation>v%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="211"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="210"/>
         <source>Update</source>
         <translation>Update</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="214"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="213"/>
         <source>Installed</source>
         <translation>Installed</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="221"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="220"/>
         <source>Recommended</source>
         <translation>Recommended</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="227"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="226"/>
         <source>Install</source>
         <translation>Install</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="231"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="230"/>
         <source>Error: Invalid UUID</source>
         <translation>Error: Invalid UUID</translation>
     </message>
