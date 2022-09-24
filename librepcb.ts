@@ -5067,11 +5067,11 @@ You need at least LibrePCB %1 to open it.
         <translation>Pad is not connected to any signal.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="582"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="741"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="761"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="786"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="949"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="556"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="718"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="738"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="763"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="866"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -5079,42 +5079,42 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="215"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="297"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="475"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="540"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="549"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="558"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="683"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="712"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1028"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1048"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1064"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1080"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1096"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1110"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1137"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1163"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1181"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1199"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1214"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1281"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1347"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="214"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="296"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="474"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="553"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="562"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="571"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="700"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="729"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1045"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1065"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1081"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1097"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1113"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1127"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1154"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1180"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1198"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1216"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1231"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1298"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1364"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1226"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1243"/>
         <source>Paste board elements</source>
         <translation>Paste board elements</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1358"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1375"/>
         <source>Measurement Result</source>
         <translation>Measurement Result</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1360"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1377"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
         <translation>
             <numerusform>Total length of %n trace segment(s): %2 mm / %3 in</numerusform>
@@ -5122,12 +5122,12 @@ You need at least LibrePCB %1 to open it.
         </translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1368"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1385"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
         <translation>WARNING: There are %1 trace segments selected, but not all of them are connected!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1395"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1412"/>
         <source>Selected trace segments may not branch!</source>
         <translation>Selected trace segments may not branch!</translation>
     </message>
@@ -10190,25 +10190,25 @@ Are you still sure to delete the following library elements?</translation>
 <context>
     <name>librepcb::editor::PackageEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="245"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="267"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="279"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="365"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="415"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="584"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="609"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="853"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="913"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="936"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="948"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="256"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="278"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="290"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="382"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="432"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="601"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="626"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="874"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="934"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="957"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="984"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="969"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="978"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1005"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1026"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="870"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="891"/>
         <source>Paste Footprint Elements</source>
         <translation>Paste Footprint Elements</translation>
     </message>
@@ -10423,27 +10423,27 @@ Are you still sure to delete the following library elements?</translation>
 <context>
     <name>librepcb::editor::ProjectEditor</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="202"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="198"/>
         <source>Export project to *.lppz</source>
         <translation>Export project to *.lppz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="232"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="228"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="269"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="265"/>
         <source>Error while saving the project</source>
         <translation>Error while saving the project</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="316"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="312"/>
         <source>Save Project?</source>
         <translation>Save Project?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="317"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="313"/>
         <source>You have unsaved changes in the project.
 Do you want to save them before closing the project?</source>
         <translation>You have unsaved changes in the project.
@@ -10971,27 +10971,27 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SchematicEditorState_DrawWire</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="288"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="279"/>
         <source>Draw Wire</source>
         <translation>Draw Wire</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="318"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="574"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="310"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="568"/>
         <source>Invalid net name</source>
         <translation>Invalid net name</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="319"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="576"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="311"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="570"/>
         <source>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</source>
         <translation>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="414"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="588"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="606"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="629"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="408"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="582"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="600"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="623"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -10999,23 +10999,23 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SchematicEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="242"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="348"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="378"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="387"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="633"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="654"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="675"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="690"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="717"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="736"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="751"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="795"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="241"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="362"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="392"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="401"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="650"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="671"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="692"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="707"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="734"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="753"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="768"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="812"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="775"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="792"/>
         <source>Paste Schematic Elements</source>
         <translation>Paste Schematic Elements</translation>
     </message>
@@ -11339,25 +11339,25 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SymbolEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="239"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="261"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="273"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="357"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="403"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="541"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="566"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="773"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="827"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="844"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="856"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="865"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="892"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="913"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="249"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="271"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="283"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="372"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="418"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="556"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="581"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="792"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="846"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="863"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="875"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="884"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="911"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="932"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="785"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="804"/>
         <source>Paste Symbol Elements</source>
         <translation>Paste Symbol Elements</translation>
     </message>
