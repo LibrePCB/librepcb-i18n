@@ -4719,27 +4719,27 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Schéma obsahuje komponenty, ktoré nie sú zatiaľ umiestnené na doske s plošnými spojmi. Pridáte ich pomocou dokovateľného dialógu &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Neumiestnené súčiastky&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="629"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="633"/>
         <source>File</source>
         <translation>Súbor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="647"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="651"/>
         <source>Edit</source>
         <translation>Upraviť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="660"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="664"/>
         <source>View</source>
         <translation>Zobrazenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="694"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="698"/>
         <source>Tools</source>
         <translation>Nástroje</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="685"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="689"/>
         <source>Command</source>
         <translation>Príkaz</translation>
     </message>
@@ -4749,7 +4749,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>%1 - LibrePCB Editor dosky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="671"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="675"/>
         <source>Find device...</source>
         <translation>Vyhľadať prvok...</translation>
     </message>
@@ -4759,64 +4759,64 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Skenovanie knižníc (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1143"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1147"/>
         <source>Add New Board</source>
         <translation>Pridať novú dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1143"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1164"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1147"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1168"/>
         <source>Choose a name:</source>
         <translation>Zvoľte názov:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1144"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1148"/>
         <source>new_board</source>
         <translation>nová_doska</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="379"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1043"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1154"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1175"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1193"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1245"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1311"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1047"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1158"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1179"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1197"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1249"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1315"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="846"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="850"/>
         <source>Boards</source>
         <translation>Doska s plošnými spojmi</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1164"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1168"/>
         <source>Copy Board</source>
         <translation>Kopírovať dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1165"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1169"/>
         <source>copy_of_%1</source>
         <translation>kópia_z_%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1184"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1188"/>
         <source>Remove board</source>
         <translation>Odstrániť dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1185"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1189"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>Naozaj chcete odstrániť dosku &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1284"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1288"/>
         <source>Preparing board...</source>
         <translation>Pripravujem dáta dosky...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1284"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1288"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
@@ -7899,159 +7899,179 @@ Naozaj si želáte zatvoriť toto okno?</translation>
         <translation>Generátor výrobných dát</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="29"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This is a simple RS-274X X2 / Excellon file generator. It&apos;s still in an experimental state and thus may have some issues.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;=&amp;gt; Please review the generated files before ordering PCBs!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;To open the generated files, you could use the free application &lt;a href=&quot;http://gerbv.geda-project.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;gerbv&lt;/span&gt;&lt;/a&gt; or the &lt;a href=&quot;https://gerber.ucamco.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;official reference viewer from Ucamco&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Toto je jednoduchý RS-274X X2 / Excellon generátor súborov. Ešte stále je v štádiu experimentovania takže môže obsahovať nejaké chyby.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;=&amp;gt; Prosím skontrolujte si vygenerované súbory pred objednaním DPS!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Na otvorenie týchto súborov, môžete použiť bezplatnú aplikáciu &lt;a href=&quot;http://gerbv.geda-project.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;gerbv&lt;/span&gt;&lt;/a&gt; alebo &lt;a href=&quot;https://gerber.ucamco.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;oficiálny referenčný prehliadač od fy. Ucamco&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="49"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="46"/>
         <source>Output Files</source>
         <translation>Výstupné súbory</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="62"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="59"/>
         <source>Drills NPTH:</source>
         <translation>Vŕtanie NPTH:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="76"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="73"/>
         <source>Top Copper:</source>
         <translation>Vrchné spoje:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="113"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="110"/>
         <source>Merge PTH and NPTH drills into one file</source>
         <translation>Zlúčiť PTH a NPTH vŕtanie do jednoho súboru</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="120"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="117"/>
         <source>Outlines:</source>
         <translation>Obrys:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="134"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="131"/>
         <source>Top Silkscreen:</source>
         <translation>Vrchný popis:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="141"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="138"/>
         <source>Drills Merged:</source>
         <translation>Vŕtanie spolu:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="148"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="145"/>
         <source>Bottom Soldermask:</source>
         <translation>Spodná spájk. maska:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="162"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="159"/>
         <source>Top Soldermask:</source>
         <translation>Vrchná spájk. maska:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="183"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="180"/>
         <source>Bottom Copper:</source>
         <translation>Spodné spoje:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="190"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="187"/>
         <source>Drills PTH:</source>
         <translation>Vŕtanie PTH</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="197"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="194"/>
         <source>Base Path:</source>
         <translation>Základná cesta:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="204"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="201"/>
         <source>Bottom Paste Mask
 (Bottom Stencil):</source>
         <translation>Spodná maska pasty
 (Spodná šablóna):</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="226"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="223"/>
         <source>Predefined configs:</source>
         <translation>Preddefinované konfigurácie:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="249"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="246"/>
         <source>Default (layer encoded in file name)</source>
         <translation>Predvolené (kódy vrstiev budú v názvoch súborov)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="256"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="253"/>
         <source>Protel naming (layer encoded in file extension)</source>
         <translation>Pomenovanie Protel (kódy vrstiev budú ako prípony súborov)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="265"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="262"/>
         <source>Top Paste Mask
 (Top Stencil):</source>
         <translation>Vrchná maska pasty
 (Vrchná šablóna):</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="280"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="277"/>
         <source>Bottom Silkscreen:</source>
         <translation>Spodný popis:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="287"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="284"/>
         <source>Inner Copper:</source>
         <translation>Vnútorné vodivé:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="299"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="296"/>
         <source>Top Silkscreen Layers</source>
         <translation>Vrchná popisná vrstva</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="308"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="347"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="305"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="344"/>
         <source>Placement</source>
         <translation>Obrysy súčiastok</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="318"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="357"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="315"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="354"/>
         <source>Names</source>
         <translation>Names</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="328"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="367"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="325"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="364"/>
         <source>Values</source>
         <translation>Values</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="338"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="335"/>
         <source>Bottom Silkscreen Layers</source>
         <translation>Spodná popisná vrstva</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="379"/>
-        <source>Generate Gerber &amp;&amp; Excellon Files</source>
-        <translation>Generovať Gerber a Excellon súbory</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="386"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="391"/>
         <source>Browse Output Directory</source>
         <translation>Otvoriť výstupný adresár</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="184"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="57"/>
+        <source>&amp;Generate</source>
+        <translation>&amp;Generovať</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="79"/>
+        <source>This dialog allows to generate Gerber X2 (RS-274X) / Excellon files for PCB fabrication.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="83"/>
+        <source>Note that it&apos;s highly recommended to review the generated files before ordering PCBs.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="86"/>
+        <source>This could be done with the free application &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; or the &lt;a href=&quot;%2&quot;&gt;official reference viewer from Ucamco&lt;/a&gt;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="93"/>
+        <source>As a simpler and faster alternative, you could use the &lt;a href=&quot;%1&quot;&gt;Order PCB&lt;/a&gt; feature instead.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="234"/>
+        <source>Success!</source>
+        <translation>Úspešné!</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="245"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="196"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="257"/>
         <source>Warning</source>
         <translation>Upozornenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="196"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="257"/>
         <source>Directory does not exist.</source>
         <translation>Adresár neexistuje.</translation>
     </message>
