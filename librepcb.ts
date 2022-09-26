@@ -7033,7 +7033,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="107"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should &lt;a href=&quot;%1&quot;&gt;open the library manager&lt;/a&gt; to add some libraries.</source>
-        <translation type="unfinished"></translation>
+        <translation>This workspace does not contain any libraries, which are essential to create and modify projects. You should &lt;a href=&quot;%1&quot;&gt;open the library manager&lt;/a&gt; to add some libraries.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="397"/>
@@ -9264,18 +9264,19 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="67"/>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Don&apos;t show again</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="70"/>
         <source>Permanently hide this message.
 This can be reverted in the workspace settings dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permanently hide this message.
+This can be reverted in the workspace settings dialog.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="90"/>
         <source>Temporarily hide this message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Temporarily hide this message.</translation>
     </message>
 </context>
 <context>
@@ -11910,7 +11911,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="205"/>
         <source>Dismissed Messages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dismissed Messages:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="226"/>
@@ -12061,19 +12062,19 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="420"/>
         <source>Reset</source>
-        <translation type="unfinished">Reset</translation>
+        <translation>Reset</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="423"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="426"/>
         <source>Currently there are %1 dismissed message(s).</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Currently there are %1 dismissed message(s).</numerusform>
+            <numerusform>Currently there are %1 dismissed message(s).</numerusform>
         </translation>
     </message>
     <message>
