@@ -9670,47 +9670,52 @@ Are you still sure to delete the following library elements?</source>
         <translation>https://zh.wikipedia.org/zh-tw/創用CC授權條款</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="72"/>
-        <source>CC0-1.0 (no restrictions, recommended for open hardware projects)</source>
-        <translation>CC0-1.0（無著作權，建議開放硬體專案使用）</translation>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="70"/>
+        <source>None</source>
+        <translation>無</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="74"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="71"/>
+        <source>CC0-1.0 (no restrictions)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="73"/>
         <source>CC-BY-4.0 (requires attribution)</source>
         <translation>CC-BY-4.0（需要姓名標示）</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="77"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="76"/>
         <source>CC-BY-SA-4.0 (requires attribution + share alike)</source>
         <translation>CC-BY-SA-4.0（需要姓名標示且以相同方式分享）</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="146"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="145"/>
         <source>Project&apos;s parent directory</source>
         <translation>專案的上層目錄</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="166"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="165"/>
         <source>Please enter a valid project name.</source>
         <translation>請輸入一個專案名稱。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="174"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="173"/>
         <source>The location must be an existing directory.</source>
         <translation>必須是一個存在的目錄。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="183"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="182"/>
         <source>Oops, could not determine a valid filepath.</source>
         <translation>噢，無法判定有效的檔案路徑。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="211"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="210"/>
         <source>Invalid filepath</source>
         <translation>無效的檔案路徑</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="212"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="211"/>
         <source>The project&apos;s directory exists already and is not empty.</source>
         <translation>此專案目錄已經存在且不是空目錄。</translation>
     </message>

@@ -9687,47 +9687,52 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>https://en.wikipedia.org/wiki/Creative_Commons_license</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="72"/>
-        <source>CC0-1.0 (no restrictions, recommended for open hardware projects)</source>
-        <translation>CC0-1.0 (no restrictions, recommended for open hardware projects)</translation>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="70"/>
+        <source>None</source>
+        <translation>Žiadne</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="74"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="71"/>
+        <source>CC0-1.0 (no restrictions)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="73"/>
         <source>CC-BY-4.0 (requires attribution)</source>
         <translation>CC-BY-4.0 (requires attribution)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="77"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="76"/>
         <source>CC-BY-SA-4.0 (requires attribution + share alike)</source>
         <translation>CC-BY-SA-4.0 (requires attribution + share alike)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="146"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="145"/>
         <source>Project&apos;s parent directory</source>
         <translation>Hlavný adresár projektov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="166"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="165"/>
         <source>Please enter a valid project name.</source>
         <translation>Prosím, zadajte platné meno projektu.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="174"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="173"/>
         <source>The location must be an existing directory.</source>
         <translation>Umiestnenie musí smerovať do už jestvujúceho adresára.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="183"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="182"/>
         <source>Oops, could not determine a valid filepath.</source>
         <translation>Ojoj, nemôžem zistiť platnú cestu k súboru.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="211"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="210"/>
         <source>Invalid filepath</source>
         <translation>Neplatná cesta k súboru</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="212"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="211"/>
         <source>The project&apos;s directory exists already and is not empty.</source>
         <translation>Adresár projektu už existuje a nie je prázdny.</translation>
     </message>
