@@ -4238,29 +4238,29 @@ You need at least LibrePCB %1 to open it.
         <translation>If checked, this dialog will automatically be opened again after finishing placement of the current component.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="186"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="199"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="234"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="193"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="206"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="241"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="410"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="417"/>
         <source>No component selected</source>
         <translation>No component selected</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="472"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="479"/>
         <source>No device selected</source>
         <translation>No device selected</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="506"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="513"/>
         <source>Invalid Selection</source>
         <translation>Invalid Selection</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="507"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="514"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>Please select a component and a symbol variant.</translation>
     </message>
