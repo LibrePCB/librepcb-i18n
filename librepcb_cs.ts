@@ -4229,29 +4229,29 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="186"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="199"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="234"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="193"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="206"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="241"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="410"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="417"/>
         <source>No component selected</source>
         <translation>Není vybrána žádná komponenta</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="472"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="479"/>
         <source>No device selected</source>
         <translation>Není vybrána žádná součástka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="506"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="513"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výběr</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="507"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="514"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>Vyberte, prosím, komponentu a variantu schematické značky.</translation>
     </message>
