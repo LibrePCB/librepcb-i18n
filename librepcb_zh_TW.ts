@@ -9009,7 +9009,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation>工作區元件庫管理器</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.ui" line="72"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.ui" line="75"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>

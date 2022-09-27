@@ -9028,7 +9028,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
         <translation>Správca pracovného priestoru</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.ui" line="72"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.ui" line="75"/>
         <source>Close</source>
         <translation>Zavrieť</translation>
     </message>

@@ -8986,7 +8986,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.ui" line="72"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.ui" line="75"/>
         <source>Close</source>
         <translation type="unfinished"/>
     </message>
