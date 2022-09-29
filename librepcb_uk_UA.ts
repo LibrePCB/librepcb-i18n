@@ -83,7 +83,7 @@
     <message>
         <location filename="../libs/librepcb/core/utils/clipperhelpers.cpp" line="116"/>
         <source>Failed to offset a path: %1</source>
-        <translation>Не вдалося змістити шлях: % 1</translation>
+        <translation>Не вдалося змістити шлях: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/utils/clipperhelpers.cpp" line="290"/>
@@ -154,7 +154,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="108"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Експорт схеми до заданих файл(ів). Існуючі файли будуть перезаписані. Підтримувані розширення файлів: % 1</translation>
+        <translation>Експорт схеми до заданих файл(ів). Існуючі файли будуть перезаписані. Підтримувані розширення файлів: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="111"/>
@@ -209,7 +209,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="155"/>
         <source>The name of the board(s) to export. Can be given multiple times. If not set, all boards are exported.</source>
-        <translation>Назва плат(и) для експорту. Можна вказати кілька разів. Якщо не встановлено,  то експортуються всі плати.</translation>
+        <translation>Назва плат(и) для експорту. Можна вказати кілька разів. Якщо не вказано,  то експортуються всі плати.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="158"/>
@@ -349,7 +349,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="283"/>
         <source>Qt Version %1 (compiled against %2)</source>
-        <translation>Qt версія % 1 (скомпільовано з % 2)</translation>
+        <translation>Qt версія %1 (скомпільовано з %2)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="285"/>
@@ -394,7 +394,7 @@
     <message>
         <location filename="../libs/librepcb/core/fileio/directorylock.cpp" line="97"/>
         <source>The lock file &quot;%1&quot; has too few lines.</source>
-        <translation>Файл блокування &quot;% 1&quot; містить забагато рядків.</translation>
+        <translation>Файл блокування &quot;%1&quot; містить забагато рядків.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/directorylock.cpp" line="170"/>
@@ -2021,23 +2021,23 @@
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="43"/>
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="82"/>
         <source>The file &quot;%1&quot; does not exist.</source>
-        <translation>Файл &quot;% 1&quot; не існує.</translation>
+        <translation>Файл &quot;%1&quot; не існує.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="48"/>
         <source>Cannot open file &quot;%1&quot;: %2</source>
-        <translation>Неможливо відкрити файл &quot;% 1&quot;: % 2</translation>
+        <translation>Неможливо відкрити файл &quot;%1&quot;:  %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="60"/>
         <source>Could not open or create file &quot;%1&quot;: %2</source>
-        <translation>Не вдається відкрити або створити файл &quot;% 1&quot;: %2</translation>
+        <translation>Не вдається відкрити або створити файл &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="67"/>
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="72"/>
         <source>Could not write to file &quot;%1&quot;: %2</source>
-        <translation>Не вдалося записати в файл &quot;% 1&quot;: %2</translation>
+        <translation>Не вдалося записати в файл &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="86"/>
@@ -3654,7 +3654,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="90"/>
         <source>The file &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Файл &quot;%1&quot; не існує.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="100"/>
@@ -4350,7 +4350,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="326"/>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="341"/>
@@ -7409,7 +7409,7 @@ If unchecked (the default), circles will be imported as polygons.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizard.cpp" line="100"/>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizard.cpp" line="101"/>
@@ -8947,7 +8947,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.ui" line="75"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Закрити</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.cpp" line="155"/>
