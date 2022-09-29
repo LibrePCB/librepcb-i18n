@@ -693,7 +693,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="311"/>
         <source>Update Project Library</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizácia projektovej knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="312"/>
@@ -813,7 +813,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="420"/>
         <source>Import/Export</source>
-        <translation type="unfinished"/>
+        <translation>Importovať/Exportovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="423"/>
@@ -838,12 +838,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="441"/>
         <source>Export *.lppz Archive</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať *.lppz archív</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="442"/>
         <source>Export the project as a self-contained *.lppz archive</source>
-        <translation type="unfinished"/>
+        <translation>Exportovanie projektu do samostatného archívu *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="450"/>
@@ -853,7 +853,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="451"/>
         <source>Export graphics as a pixmap</source>
-        <translation type="unfinished"/>
+        <translation>Exportovanie grafiky do mapy pixelov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="459"/>
@@ -863,7 +863,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="460"/>
         <source>Export graphics as a PDF</source>
-        <translation type="unfinished"/>
+        <translation>Exportovanie grafiky do PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="468"/>
@@ -1073,12 +1073,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="654"/>
         <source>Snap to Grid</source>
-        <translation type="unfinished"/>
+        <translation>Prichytiť k rastru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="655"/>
         <source>Move the selected object(s) to snap the grid</source>
-        <translation type="unfinished"/>
+        <translation>Presunutie zvoleného objektu (objektov) na raster</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="663"/>
@@ -1193,22 +1193,22 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="759"/>
         <source>Draw Line</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť čiaru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="760"/>
         <source>Draw graphical lines</source>
-        <translation type="unfinished"/>
+        <translation>Kreslenie grafických čiar</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="768"/>
         <source>Draw Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť štvoruholník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="769"/>
         <source>Draw graphical rectangles</source>
-        <translation type="unfinished"/>
+        <translation>Kreslenie grafických štvoruholníkov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="777"/>
@@ -1218,7 +1218,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="778"/>
         <source>Draw graphical polygons</source>
-        <translation type="unfinished"/>
+        <translation>Kreslenie grafických polygónov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="786"/>
@@ -1228,17 +1228,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="787"/>
         <source>Draw graphical circles</source>
-        <translation type="unfinished"/>
+        <translation>Kreslenie grafických kružníc</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="795"/>
         <source>Draw Arc</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť oblúk</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="796"/>
         <source>Draw graphical arcs</source>
-        <translation type="unfinished"/>
+        <translation>Kreslenie grafických oblúkov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="804"/>
@@ -1313,12 +1313,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="867"/>
         <source>Draw Wire</source>
-        <translation>Pridať spoj</translation>
+        <translation>Kresliť spoj</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="868"/>
         <source>Draw wires to create electrical connections between symbol pins</source>
-        <translation type="unfinished"/>
+        <translation>Kreslenie elektrických prepojení medzi vývodmi sch. značiek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="877"/>
@@ -1343,12 +1343,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="895"/>
         <source>Draw Trace</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť spoj</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="896"/>
         <source>Draw copper traces to interconnect devices</source>
-        <translation type="unfinished"/>
+        <translation>Kreslenie vodivých spojov pre prepojenie súčiastok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="904"/>
@@ -1363,12 +1363,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="913"/>
         <source>Draw Plane</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť vyplnenú plochu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="914"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
-        <translation type="unfinished"/>
+        <translation>Kreslenie automaticky vyplnenej vodivej plochy pre prepojenie vývodov a prechodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="922"/>
@@ -1734,7 +1734,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1248"/>
         <source>Electrical Rule Check (ERC)</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola elektrických pravidiel (ERC)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1249"/>
@@ -1799,22 +1799,22 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1306"/>
         <source>Close Tab</source>
-        <translation type="unfinished"/>
+        <translation>Zavrieť kartu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1307"/>
         <source>Close the currently opened tab</source>
-        <translation type="unfinished"/>
+        <translation>Zavrieť aktuálne otvorenú kartu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1315"/>
         <source>Close All Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Zavrieť všetky karty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1316"/>
         <source>Close all currently opened tabs</source>
-        <translation type="unfinished"/>
+        <translation>Zavrieť všetky otvorené karty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1324"/>
@@ -1834,17 +1834,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1334"/>
         <source>Close the currently opened project</source>
-        <translation type="unfinished"/>
+        <translation>Zavrieť aktuálne otvorený projekt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1342"/>
         <source>Close All Projects</source>
-        <translation type="unfinished"/>
+        <translation>Zavrieť všetky projekty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1343"/>
         <source>Close all currently opened projects</source>
-        <translation type="unfinished"/>
+        <translation>Zavrieť všetky aktuálne otvorené projekty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1351"/>
@@ -1854,7 +1854,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1352"/>
         <source>Close the whole application</source>
-        <translation type="unfinished"/>
+        <translation>Zavrieť celú aplikáciu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1359"/>
@@ -1904,12 +1904,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1399"/>
         <source>Keyboard Shortcuts Reference</source>
-        <translation type="unfinished"/>
+        <translation>Zoznam klávesových skratiek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1400"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Otvorenie prehľadu nastavených klávesových skratiek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1408"/>
@@ -2191,7 +2191,7 @@
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="139"/>
         <source>&amp;Extras</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Doplnky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="143"/>
@@ -3941,7 +3941,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="630"/>
         <source>Export %1 assembly data to &apos;%2&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Exportujem z %1 osadzovacie dáta do &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="666"/>
@@ -4109,7 +4109,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/modelview/keyboardshortcutsmodel.cpp" line="183"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Predvolené</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/standardeditorcommandhandler.cpp" line="94"/>
@@ -7848,7 +7848,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.ui" line="81"/>
         <source>Approve Selected Messages</source>
-        <translation>Odsúhlasiť vybrané správy</translation>
+        <translation>Schváliť zvolené oznámenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="216"/>
@@ -8665,7 +8665,9 @@ Naozaj si želáte zatvoriť toto okno?</translation>
         <source>&lt;p&gt;Your workspace was created with an older LibrePCB version and needs to be upgraded.&lt;/p&gt;
 &lt;p&gt;To still keep the workspace compatible with older versions of LibrePCB, a snapshot of the currently installed libraries and settings will be created.&lt;/p&gt;
 &lt;p&gt;No worries, this operation is not harmful at all, it may just take a few seconds ;-)&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Váš pracovný priestor bol naposledy uložený v staršej verzii  LibrePCB a je potrebné ho aktualizovať.&lt;/p&gt;
+&lt;p&gt;Pre uchovanie spätnej kompatibility so staršími verziami  LibrePCB, bude vytvorený archív momentálne nainštalovaných knižníc a nastavení.&lt;/p&gt;
+&lt;p&gt;Neobávajte sa, táto operácia nič nepoškodí  a bude trvať len pár sekúnd ;-)&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="106"/>
@@ -8731,7 +8733,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="135"/>
         <source>Restore default shortcut(s)</source>
-        <translation type="unfinished"/>
+        <translation>Obnoviť predvolené klávesové skratky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="154"/>
@@ -8762,7 +8764,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="96"/>
         <source>Default value:</source>
-        <translation type="unfinished"/>
+        <translation>Predvolená hodnota:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="322"/>
@@ -9026,7 +9028,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.ui" line="14"/>
         <source>Workspace Library Manager</source>
-        <translation>Správca pracovného priestoru</translation>
+        <translation>Správca knižníc pracovného priestoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.ui" line="75"/>
@@ -9221,7 +9223,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="457"/>
         <source>(press %1 to disable snap)</source>
-        <translation type="unfinished"/>
+        <translation>(stačením %1 sa zakáže prichytenie)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="462"/>
@@ -10095,7 +10097,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="123"/>
         <source>Fill polygon, if closed</source>
-        <translation type="unfinished"/>
+        <translation>Vyplniť polygón ak je uzavretý</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="137"/>
@@ -10123,7 +10125,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="538"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
-        <translation type="unfinished"/>
+        <translation>(stačením %1 sa zakáže prichytenie, %2 sa ukončí akcia)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="540"/>
@@ -10439,7 +10441,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="198"/>
         <source>Export project to *.lppz</source>
-        <translation>Exportovanie projekt do *.lppz</translation>
+        <translation>Exportovanie projektu do *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="228"/>
@@ -10992,7 +10994,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="279"/>
         <source>Draw Wire</source>
-        <translation>Pridať spoj</translation>
+        <translation>Kresliť spoj</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="310"/>
@@ -11254,7 +11256,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="123"/>
         <source>Fill polygon, if closed</source>
-        <translation type="unfinished"/>
+        <translation>Vyplniť polygón ak je uzavretý</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="137"/>
@@ -11282,7 +11284,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="537"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
-        <translation type="unfinished"/>
+        <translation>(stačením %1 sa zakáže prichytenie, %2 sa ukončí akcia)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="539"/>
@@ -11939,7 +11941,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="387"/>
         <source>You can add multiple commands to make the same settings working on multiple computers. LibrePCB will iterate through the list of commands until one of them succeeds. If none succeeds, the system&apos;s default application will be used.</source>
-        <translation type="unfinished"/>
+        <translation>Môžete pridať viacero príkazov, aby rovnaké nastavenia fungovali na viacerých počítačoch. LibrePCB bude iterovať zoznam príkazov, kým jeden z nich neuspeje. Ak sa nič nepodarí, použije sa predvolená aplikácia systému.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="209"/>
@@ -11949,7 +11951,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="403"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Klávesové skratky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="468"/>
