@@ -144,7 +144,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="91"/>
         <source>Print this message.</source>
-        <translation type="unfinished"/>
+        <translation>Vytlačiť túto správu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
@@ -224,12 +224,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="160"/>
         <source>Same as &apos;%1&apos;, but allows to specify boards by index instead of by name.</source>
-        <translation type="unfinished"/>
+        <translation>Rovnako ako &apos;%1&apos;, ale umožňuje špecifikovať dosku podľa indexu namiesto názvu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="163"/>
         <source>index</source>
-        <translation type="unfinished"/>
+        <translation>index</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="166"/>
@@ -818,7 +818,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="423"/>
         <source>Import DXF</source>
-        <translation>Import DXF</translation>
+        <translation>Importovať DXF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="424"/>
@@ -1013,22 +1013,22 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="598"/>
         <source>Rotate Counterclockwise</source>
-        <translation type="unfinished"/>
+        <translation>Otočiť proti smeru hodinových ručičiek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="599"/>
         <source>Rotate the selected object(s) counterclockwise</source>
-        <translation type="unfinished"/>
+        <translation>Otočí zvolený objekt (objekty) proti smeru hodinových ručičiek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="607"/>
         <source>Rotate Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Otočiť v smere hodinových ručičiek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="608"/>
         <source>Rotate the selected object(s) clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Otočí zvolený objekt (objekty) v smere hodinových ručičiek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="616"/>
@@ -1053,22 +1053,22 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="634"/>
         <source>Flip Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Prevrátiť vodorovne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="635"/>
         <source>Flip the selected object(s) horizontally to the other board side</source>
-        <translation type="unfinished"/>
+        <translation>Vodorovne prevráti zvolený objekt (objekty) a zmení stranu dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="644"/>
         <source>Flip Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Prevrátiť zvislo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="645"/>
         <source>Flip the selected object(s) vertically to the other board side</source>
-        <translation type="unfinished"/>
+        <translation>Zvislo prevráti zvolený objekt (objekty) a zmení stranu dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="654"/>
@@ -4994,7 +4994,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="112"/>
         <source>Filled:</source>
-        <translation>Vyplnené:</translation>
+        <translation>Vyplnenie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="192"/>
@@ -5486,12 +5486,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="44"/>
         <source>Filled</source>
-        <translation>Vyplnené</translation>
+        <translation>Vyplniť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="51"/>
         <source>Grab Area</source>
-        <translation>Obsadiť plochu</translation>
+        <translation>Oblasť uchopenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="60"/>
@@ -7018,7 +7018,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="109"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should &lt;a href=&quot;%1&quot;&gt;open the library manager&lt;/a&gt; to add some libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Tento pracovný priestor neobsahuje žiadne knižnice, ktoré sú potrebné pre tvorbu alebo úpravu projektov. Mali by ste &lt;a href=&quot;%1&quot;&gt;otvoriť správcu knižníc&lt;/a&gt; a pridať nejaké knižnice.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="399"/>
@@ -8614,7 +8614,8 @@ Naozaj si želáte zatvoriť toto okno?</translation>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="29"/>
         <source>&lt;p&gt;LibrePCB stores settings, libraries and (optionally) projects in a directory called &lt;i&gt;workspace&lt;/i&gt;.&lt;/p&gt;
 &lt;p&gt;Workspaces are platform independent, so they can be used across different operating systems.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;LibrePCB ukladá nastavenia, knižnice a projekty (voliteľne) v adresári s názvom pracovný priestor -&lt;i&gt;workspace&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;Pracovné priestory nie sú závislé od použitej platformy, takže môžu byť využité naprieč viacerými rôznymi operačnými systémami.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="53"/>
@@ -10054,7 +10055,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="110"/>
         <source>Grab Area</source>
-        <translation>Obsadiť plochu</translation>
+        <translation>Oblasť uchopenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="181"/>
@@ -10099,7 +10100,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="137"/>
         <source>Grab Area</source>
-        <translation>Obsadiť plochu</translation>
+        <translation>Oblasť uchopenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="141"/>
@@ -10415,12 +10416,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="44"/>
         <source>Filled</source>
-        <translation>Vyplnené</translation>
+        <translation>Vyplniť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="51"/>
         <source>Grab Area</source>
-        <translation>Obsadiť plochu</translation>
+        <translation>Oblasť uchopenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="60"/>
@@ -10970,7 +10971,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="110"/>
         <source>Filled:</source>
-        <translation>Vyplnené:</translation>
+        <translation>Vyplnenie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="193"/>
@@ -11213,7 +11214,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="110"/>
         <source>Grab Area</source>
-        <translation>Obsadiť plochu</translation>
+        <translation>Oblasť uchopenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="181"/>
@@ -11258,7 +11259,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="137"/>
         <source>Grab Area</source>
-        <translation>Obsadiť plochu</translation>
+        <translation>Oblasť uchopenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="141"/>
