@@ -159,7 +159,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="108"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportovať schematické listy do príslušných súborov. Ak súbory už existujú, budú prepísané. Podporované prípony súborov: %1</translation>
+        <translation>Exportovať schematické výkresy do príslušných súborov. Ak súbory už existujú, budú prepísané. Podporované prípony súborov: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="111"/>
@@ -713,12 +713,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="330"/>
         <source>New Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Nový výkres</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="331"/>
         <source>Add a new schematic sheet to the project</source>
-        <translation type="unfinished"/>
+        <translation>Pridá nový výkres schémy do projektu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="339"/>
@@ -728,17 +728,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="340"/>
         <source>Rename the current schematic sheet</source>
-        <translation type="unfinished"/>
+        <translation>Odstráni aktuálny schematický výkres</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="348"/>
         <source>Remove Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť výkres</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="349"/>
         <source>Remove the current schematic sheet from the project</source>
-        <translation type="unfinished"/>
+        <translation>Odstráni aktuálny schematický výkres z projektu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="357"/>
@@ -1143,7 +1143,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="712"/>
         <source>Increase the zoom level</source>
-        <translation type="unfinished"/>
+        <translation>Zvýši úroveň priblíženia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="720"/>
@@ -1158,12 +1158,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="729"/>
         <source>Increase Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>Zväčšiť interval rastra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="730"/>
         <source>Increase the grid interval</source>
-        <translation type="unfinished"/>
+        <translation>Zväčší interval rastra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="738"/>
@@ -1428,7 +1428,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="970"/>
         <source>Increase Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Zväčšiť šírku čiary</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="971"/>
@@ -1448,7 +1448,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="988"/>
         <source>Increase Size</source>
-        <translation type="unfinished"/>
+        <translation>Zväčšiť veľkosť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="989"/>
@@ -1724,7 +1724,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1239"/>
         <source>Pages</source>
-        <translation>Schematické listy</translation>
+        <translation>Schematické výkresy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1240"/>
@@ -1819,12 +1819,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1324"/>
         <source>Close Window</source>
-        <translation type="unfinished"/>
+        <translation>Zavrieť okno</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1325"/>
         <source>Close this window</source>
-        <translation type="unfinished"/>
+        <translation>Zavrieť toto okno</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1333"/>
@@ -2171,7 +2171,7 @@
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="123"/>
         <source>&amp;Schematic</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Schéma</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="127"/>
@@ -2181,7 +2181,7 @@
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="131"/>
         <source>&amp;Project</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Projekt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="135"/>
@@ -2221,7 +2221,7 @@
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="166"/>
         <source>Production &amp;Data</source>
-        <translation type="unfinished"/>
+        <translation>Výrobné &amp;dáta</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="171"/>
@@ -3221,7 +3221,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="181"/>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="199"/>
         <source>Sheet Frames</source>
-        <translation>Sheet Frames</translation>
+        <translation>Rámiky výkresu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="182"/>
@@ -8338,7 +8338,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="513"/>
         <source>Pages</source>
-        <translation>Schematické listy</translation>
+        <translation>Schematické výkresy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="522"/>
@@ -9796,7 +9796,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="68"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. Just click on the upload button below to get started. This will export the project directory to a *.lppz archive and upload it to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser.</source>
-        <translation>Tento nástroj Vám pomôže rýchlejšie a jednoduchšie vyrobiť navrhnutú dosku plošných spojov. Začnite kliknutím na tlačidlo nižšie. Týmto sa vyexportuje adresár projektu do archívu *.lppz a nahrá ho na API server, nakonfigurovaný v nastaveniach Vášho pracovného priestoru. Potom môžete pokračovať v procese objednávky vo webovom prehliadači.</translation>
+        <translation>Tento nástroj Vám pomôže rýchlejšie a jednoduchšie vyrobiť navrhnutú dosku plošných spojov. Začnite kliknutím na tlačidlo nižšie. Týmto sa exportuje adresár projektu do archívu *.lppz a nahrá sa na API server, nakonfigurovaný v nastaveniach Vášho pracovného priestoru. Potom môžete pokračovať v procese objednávky vo webovom prehliadači.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="81"/>
@@ -10856,7 +10856,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="924"/>
         <source>New Page</source>
-        <translation>Nový list</translation>
+        <translation>Nový výkres</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="957"/>
@@ -11044,7 +11044,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematicpagesdock.ui" line="20"/>
         <source>Pages</source>
-        <translation>Schematické listy</translation>
+        <translation>Schematické výkresy</translation>
     </message>
 </context>
 <context>
