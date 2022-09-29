@@ -174,17 +174,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="114"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportovať všeobecný kusovník do príslušného súboru. Ak súbor už existuje, bude prepísaný. Podporované prípony súborov: %1</translation>
+        <translation>Exportovať všeobecný zoznam súčiastok do príslušného súboru. Ak súbor už existuje, bude prepísaný. Podporované prípony súborov: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="120"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportovať kusovník pre konkrétnu dosku do príslušného súboru. Ak súbory už existujú, budú prepísané. Podporované prípony súborov: %1</translation>
+        <translation>Exportovať zoznam súčiastok pre konkrétnu dosku do príslušného súboru. Ak súbory už existujú, budú prepísané. Podporované prípony súborov: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="126"/>
         <source>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</source>
-        <translation>Zoznam dodatočných atríbútov oddelených čiarkami, ktoré budú exportované do kusovníka. Napríklad &quot;%1&quot;</translation>
+        <translation>Zoznam dodatočných atribútov oddelených čiarkami, ktoré budú exportované do zoznamu súčiastok. Napríklad &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="129"/>
@@ -334,12 +334,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
         <source>(stable)</source>
-        <translation type="unfinished"/>
+        <translation>(stabilná)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
         <source>(unstable)</source>
-        <translation type="unfinished"/>
+        <translation>(nestabilná)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
@@ -673,12 +673,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="293"/>
         <source>Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Návrhové pravidlá</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="294"/>
         <source>View/modify the board design rules</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazenie/úprava návrhových pravidiel dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="302"/>
@@ -688,7 +688,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="303"/>
         <source>Run the design rule check (DRC)</source>
-        <translation type="unfinished"/>
+        <translation>Spustenie kontroly návrhových pravidiel (DRC)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="311"/>
@@ -753,7 +753,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="366"/>
         <source>New Board</source>
-        <translation type="unfinished"/>
+        <translation>Nová doska</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="367"/>
@@ -773,7 +773,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="384"/>
         <source>Remove Board</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť dosku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="385"/>
@@ -803,7 +803,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="411"/>
         <source>Rebuild All Planes</source>
-        <translation type="unfinished"/>
+        <translation>Obnovenie všetkých plôch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="412"/>
@@ -878,12 +878,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="477"/>
         <source>Generate Bill Of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Generovať zoznam súčiastok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="478"/>
         <source>Generate bill of materials (BOM) file</source>
-        <translation type="unfinished"/>
+        <translation>Generovanie súboru so zoznamom súčiastok (BOM)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="486"/>
@@ -963,12 +963,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="553"/>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Vložiť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="554"/>
         <source>Paste object(s) from the clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Vloženie objektu (objektov) zo schránky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="562"/>
@@ -1083,12 +1083,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="663"/>
         <source>Reset All Texts</source>
-        <translation type="unfinished"/>
+        <translation>Resetnúť texty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="664"/>
         <source>Reset all texts of the footprint to their initial state</source>
-        <translation type="unfinished"/>
+        <translation>Obnoviť nastavenia textov púzdier do ich predvoleného nastavenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="672"/>
@@ -1128,32 +1128,32 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="702"/>
         <source>Zoom to Fit Contents</source>
-        <translation type="unfinished"/>
+        <translation>Pohľad na všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="703"/>
         <source>Set the zoom level to fit the whole content</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenie priblíženia tak, aby bolo zobrazené všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="711"/>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>Priblížiť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="712"/>
         <source>Increase the zoom level</source>
-        <translation>Zvýši úroveň priblíženia</translation>
+        <translation>Zvýšenie úrovne priblíženia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="720"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>Oddialiť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="721"/>
         <source>Decrease the zoom level</source>
-        <translation type="unfinished"/>
+        <translation>Zníženie úrovne priblíženia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="729"/>
@@ -1323,7 +1323,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="877"/>
         <source>Add Net Label</source>
-        <translation type="unfinished"/>
+        <translation>Pridať označenie spoja</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="878"/>
@@ -1353,12 +1353,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="904"/>
         <source>Add Via</source>
-        <translation type="unfinished"/>
+        <translation>Pridať prechod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="905"/>
         <source>Add plated through-hole vias</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie pokovených prechodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="913"/>
@@ -1368,17 +1368,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="914"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
-        <translation>Kreslenie automaticky vyplnenej vodivej plochy pre prepojenie vývodov a prechodov</translation>
+        <translation>Kreslenie automaticky vyplnených vodivých oblastí pre prepojenie vývodov a prechodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="922"/>
         <source>Measure Distance</source>
-        <translation type="unfinished"/>
+        <translation>Meranie vzdialenosti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="923"/>
         <source>Measure the distance between two points</source>
-        <translation type="unfinished"/>
+        <translation>Meranie vzdialenosti medzi dvoma bodmi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="931"/>
@@ -1744,7 +1744,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1257"/>
         <source>Design Rule Check (DRC)</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola návrhových pravidiel (DRC)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1258"/>
@@ -3231,12 +3231,12 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="183"/>
         <source>Netlabels</source>
-        <translation>Názvy spojov</translation>
+        <translation>Označenia spojov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="184"/>
         <source>Netlabel Anchors</source>
-        <translation>Prichytenie názvu spoja</translation>
+        <translation>Prichytenie označenia spoja</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="185"/>
@@ -3891,12 +3891,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="538"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
-        <translation>Exportujem kusovník dosky do &apos;%1&apos;...</translation>
+        <translation>Exportujem zoznam súčiastok dosky do &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="541"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
-        <translation>Exportujem všeobecný kusovník do &apos;%1&apos;...</translation>
+        <translation>Exportujem všeobecný zoznam súčiastok do &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="580"/>
@@ -4952,7 +4952,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="81"/>
         <source>Your circuit doesn&apos;t contain any net, please add one in the schematic editor first.</source>
-        <translation type="unfinished"/>
+        <translation>Váš obvod zatiaľ neobsahuje žiadny spoj. Prosím pridajte ho v editore schémy.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="89"/>
@@ -5092,7 +5092,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1243"/>
         <source>Paste board elements</source>
-        <translation>Prilepiť elementy dosky</translation>
+        <translation>Vložiť elementy dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1375"/>
@@ -5353,7 +5353,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="14"/>
         <source>Generate BOM</source>
-        <translation>Generovanie kusovníka</translation>
+        <translation>Generovanie zoznamu súč.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="20"/>
@@ -6127,7 +6127,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdpasteboarditems.cpp" line="75"/>
         <source>Paste Board Elements</source>
-        <translation>Prilepiť elementy dosky</translation>
+        <translation>Vložiť elementy dosky</translation>
     </message>
 </context>
 <context>
@@ -6135,7 +6135,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpastefootprintitems.cpp" line="58"/>
         <source>Paste Footprint Elements</source>
-        <translation>Prilepiť elementy púzdra</translation>
+        <translation>Vložiť elementy púzdra</translation>
     </message>
 </context>
 <context>
@@ -6143,7 +6143,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdpasteschematicitems.cpp" line="74"/>
         <source>Paste Schematic Elements</source>
-        <translation>Prilepiť elementy schémy</translation>
+        <translation>Vložiť elementy schémy</translation>
     </message>
 </context>
 <context>
@@ -6151,7 +6151,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpastesymbolitems.cpp" line="56"/>
         <source>Paste Symbol Elements</source>
-        <translation>Prilepiť elementy symbolu</translation>
+        <translation>Vložiť elementy symbolu</translation>
     </message>
 </context>
 <context>
@@ -6263,7 +6263,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeladd.cpp" line="45"/>
         <source>Add netlabel</source>
-        <translation>Pridať názov spoja</translation>
+        <translation>Pridať označenie spoja</translation>
     </message>
 </context>
 <context>
@@ -6271,7 +6271,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabelanchorsupdate.cpp" line="41"/>
         <source>Update netlabel anchors</source>
-        <translation>Aktualizovať uchytenie menovky</translation>
+        <translation>Aktualizovať uchytenie označenia spoja</translation>
     </message>
 </context>
 <context>
@@ -6279,7 +6279,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeledit.cpp" line="41"/>
         <source>Edit netlabel</source>
-        <translation>Upraviť názov spoja</translation>
+        <translation>Upraviť označenie spoja</translation>
     </message>
 </context>
 <context>
@@ -6287,7 +6287,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabelremove.cpp" line="43"/>
         <source>Remove netlabel</source>
-        <translation>Odstrániť názov spoja</translation>
+        <translation>Odstrániť označenie spoja</translation>
     </message>
 </context>
 <context>
@@ -8012,13 +8012,13 @@ Naozaj si želáte zatvoriť toto okno?</translation>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="315"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="354"/>
         <source>Names</source>
-        <translation>Names</translation>
+        <translation>Názvy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="325"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="364"/>
         <source>Values</source>
-        <translation>Values</translation>
+        <translation>Hodnoty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="335"/>
@@ -9246,7 +9246,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="67"/>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Viac nezobrazovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="70"/>
@@ -10226,7 +10226,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="891"/>
         <source>Paste Footprint Elements</source>
-        <translation>Prilepiť elementy púzdra</translation>
+        <translation>Vložiť elementy púzdra</translation>
     </message>
 </context>
 <context>
@@ -10848,7 +10848,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="137"/>
         <source>This schematic doesn&apos;t contain any components yet. Use the &lt;a href=&apos;%1&apos;&gt;Add Component&lt;/a&gt; dialog to populate it. A good idea is to &lt;a href=&apos;%2&apos;&gt;add a schematic frame&lt;/a&gt; first.</source>
-        <translation type="unfinished"/>
+        <translation>Táto schéma zatiaľ neobsahuje žiadne komponenty. Použite dialóg &lt;a href=&apos;%1&apos;&gt;Pridať komponent&lt;/a&gt; pre pridanie. Dobrý nápad bude pridanie &lt;a href=&apos;%2&apos;&gt; rámika schémy&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="923"/>
@@ -10925,7 +10925,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="182"/>
         <source>Add net label to schematic</source>
-        <translation>Pridať názov spoja do schémy</translation>
+        <translation>Pridať označenie spoja do schémy</translation>
     </message>
 </context>
 <context>
@@ -11038,7 +11038,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="792"/>
         <source>Paste Schematic Elements</source>
-        <translation>Prilepiť elementy schémy</translation>
+        <translation>Vložiť elementy schémy</translation>
     </message>
 </context>
 <context>
@@ -11380,7 +11380,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="804"/>
         <source>Paste Symbol Elements</source>
-        <translation>Prilepiť elementy symbolu</translation>
+        <translation>Vložiť elementy symbolu</translation>
     </message>
 </context>
 <context>
