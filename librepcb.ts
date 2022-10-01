@@ -1121,32 +1121,32 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="420"/>
         <source>Text Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Text Input</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="423"/>
         <source>Browse</source>
-        <translation type="unfinished">Browse</translation>
+        <translation>Browse</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="424"/>
         <source>Open file or directory browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Open file or directory browser</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="432"/>
         <source>Change Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Change Unit</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="433"/>
         <source>Change the measurement unit of the text input</source>
-        <translation type="unfinished"></translation>
+        <translation>Change the measurement unit of the text input</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="442"/>
         <source>Remove this item</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove this item</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="721"/>
@@ -5406,7 +5406,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="85"/>
         <source>Browse Output Directory</source>
-        <translation type="unfinished">Browse Output Directory</translation>
+        <translation>Browse Output Directory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="131"/>
@@ -7556,7 +7556,7 @@ Do you really want to close it?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="39"/>
         <source>Select file to import</source>
-        <translation type="unfinished"></translation>
+        <translation>Select file to import</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.cpp" line="67"/>
@@ -9698,7 +9698,7 @@ This can be reverted in the workspace settings dialog.</translation>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="46"/>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="92"/>
         <source>Directory:</source>
-        <translation type="unfinished">Directory:</translation>
+        <translation>Directory:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="69"/>
