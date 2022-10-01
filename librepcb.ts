@@ -813,1198 +813,1229 @@
         <translation>Re-calculate the filled areas of all planes</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="420"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="450"/>
         <source>Import/Export</source>
         <translation>Import/Export</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="423"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="453"/>
         <source>Import DXF</source>
         <translation>Import DXF</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="424"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="454"/>
         <source>Import a 2D mechanical drawing</source>
         <translation>Import a 2D mechanical drawing</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="432"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="462"/>
         <source>Import EAGLE Library</source>
         <translation>Import EAGLE Library</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="433"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="463"/>
         <source>Import library elements from an EAGLE *.lbr file</source>
         <translation>Import library elements from an EAGLE *.lbr file</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="441"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="471"/>
         <source>Export *.lppz Archive</source>
         <translation>Export *.lppz Archive</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="442"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="472"/>
         <source>Export the project as a self-contained *.lppz archive</source>
         <translation>Export the project as a self-contained *.lppz archive</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="450"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="480"/>
         <source>Export Image</source>
         <translation>Export Image</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="451"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="481"/>
         <source>Export graphics as a pixmap</source>
         <translation>Export graphics as a pixmap</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="459"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="489"/>
         <source>Export PDF</source>
         <translation>Export PDF</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="460"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="490"/>
         <source>Export graphics as a PDF</source>
         <translation>Export graphics as a PDF</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="468"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="498"/>
         <source>Print</source>
         <translation>Print</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="469"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="499"/>
         <source>Send graphics to a printer</source>
         <translation>Send graphics to a printer</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="477"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="507"/>
         <source>Generate Bill Of Materials</source>
         <translation>Generate Bill Of Materials</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="478"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="508"/>
         <source>Generate bill of materials (BOM) file</source>
         <translation>Generate bill of materials (BOM) file</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="486"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="516"/>
         <source>Generate Fabrication Data</source>
         <translation>Generate Fabrication Data</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="487"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="517"/>
         <source>Generate Gerber/Excellon files for PCB fabrication</source>
         <translation>Generate Gerber/Excellon files for PCB fabrication</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="495"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="525"/>
         <source>Generate Pick&amp;&amp;Place Files</source>
         <translation>Generate Pick&amp;&amp;Place Files</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="496"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="526"/>
         <source>Generate pick&amp;place files for automated PCB assembly</source>
         <translation>Generate pick&amp;place files for automated PCB assembly</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="504"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="534"/>
         <source>Order PCB</source>
         <translation>Order PCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="505"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="535"/>
         <source>Start ordering the PCB online</source>
         <translation>Start ordering the PCB online</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="512"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="542"/>
         <source>Modify</source>
         <translation>Modify</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="516"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="546"/>
         <source>Undo</source>
         <translation>Undo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="517"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="547"/>
         <source>Revert the last modification</source>
         <translation>Revert the last modification</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="525"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="555"/>
         <source>Redo</source>
         <translation>Redo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="526"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="556"/>
         <source>Re-apply the last reverted modification</source>
         <translation>Re-apply the last reverted modification</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="535"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="565"/>
         <source>Cut</source>
         <translation>Cut</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="536"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="566"/>
         <source>Cut the selected object(s) to clipboard</source>
         <translation>Cut the selected object(s) to clipboard</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="544"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="574"/>
         <source>Copy</source>
         <translation>Copy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="545"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="575"/>
         <source>Copy the selected object(s) to clipboard</source>
         <translation>Copy the selected object(s) to clipboard</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="553"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="583"/>
         <source>Paste</source>
         <translation>Paste</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="554"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="584"/>
         <source>Paste object(s) from the clipboard</source>
         <translation>Paste object(s) from the clipboard</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="562"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="592"/>
         <source>Move Left</source>
         <translation>Move Left</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="563"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="593"/>
         <source>Move the selected object(s) to the left</source>
         <translation>Move the selected object(s) to the left</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="571"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="601"/>
         <source>Move Right</source>
         <translation>Move Right</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="572"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="602"/>
         <source>Move the selected object(s) to the right</source>
         <translation>Move the selected object(s) to the right</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="580"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="610"/>
         <source>Move Up</source>
         <translation>Move Up</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="581"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="611"/>
         <source>Move the selected object(s) up</source>
         <translation>Move the selected object(s) up</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="589"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="619"/>
         <source>Move Down</source>
         <translation>Move Down</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="590"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="620"/>
         <source>Move the selected object(s) down</source>
         <translation>Move the selected object(s) down</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="598"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="628"/>
         <source>Rotate Counterclockwise</source>
         <translation>Rotate Counterclockwise</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="599"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="629"/>
         <source>Rotate the selected object(s) counterclockwise</source>
         <translation>Rotate the selected object(s) counterclockwise</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="607"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="637"/>
         <source>Rotate Clockwise</source>
         <translation>Rotate Clockwise</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="608"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="638"/>
         <source>Rotate the selected object(s) clockwise</source>
         <translation>Rotate the selected object(s) clockwise</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="616"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="646"/>
         <source>Mirror Horizontally</source>
         <translation>Mirror Horizontally</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="617"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="647"/>
         <source>Mirror the selected object(s) horizontally</source>
         <translation>Mirror the selected object(s) horizontally</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="625"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="655"/>
         <source>Mirror Vertically</source>
         <translation>Mirror Vertically</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="626"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="656"/>
         <source>Mirror the selected object(s) vertically</source>
         <translation>Mirror the selected object(s) vertically</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="634"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="664"/>
         <source>Flip Horizontally</source>
         <translation>Flip Horizontally</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="635"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="665"/>
         <source>Flip the selected object(s) horizontally to the other board side</source>
         <translation>Flip the selected object(s) horizontally to the other board side</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="644"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="674"/>
         <source>Flip Vertically</source>
         <translation>Flip Vertically</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="645"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="675"/>
         <source>Flip the selected object(s) vertically to the other board side</source>
         <translation>Flip the selected object(s) vertically to the other board side</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="654"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="684"/>
         <source>Snap to Grid</source>
         <translation>Snap to Grid</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="655"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="685"/>
         <source>Move the selected object(s) to snap the grid</source>
         <translation>Move the selected object(s) to snap the grid</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="663"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="693"/>
         <source>Reset All Texts</source>
         <translation>Reset All Texts</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="664"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="694"/>
         <source>Reset all texts of the footprint to their initial state</source>
         <translation>Reset all texts of the footprint to their initial state</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="672"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="702"/>
         <source>Properties</source>
         <translation>Properties</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="673"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="703"/>
         <source>View/modify the object properties</source>
         <translation>View/modify the object properties</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="681"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="711"/>
         <source>Rename</source>
         <translation>Rename</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="682"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="712"/>
         <source>Rename the selected object</source>
         <translation>Rename the selected object</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="690"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="441"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="720"/>
         <source>Remove</source>
         <translation>Remove</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="691"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="420"/>
+        <source>Text Input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="423"/>
+        <source>Browse</source>
+        <translation type="unfinished">Browse</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="424"/>
+        <source>Open file or directory browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="432"/>
+        <source>Change Unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="433"/>
+        <source>Change the measurement unit of the text input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="442"/>
+        <source>Remove this item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="721"/>
         <source>Delete the selected object(s)</source>
         <translation>Delete the selected object(s)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="698"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="728"/>
         <source>View</source>
         <translation>View</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="702"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="732"/>
         <source>Zoom to Fit Contents</source>
         <translation>Zoom to Fit Contents</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="703"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="733"/>
         <source>Set the zoom level to fit the whole content</source>
         <translation>Set the zoom level to fit the whole content</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="711"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="741"/>
         <source>Zoom In</source>
         <translation>Zoom In</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="712"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="742"/>
         <source>Increase the zoom level</source>
         <translation>Increase the zoom level</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="720"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="750"/>
         <source>Zoom Out</source>
         <translation>Zoom Out</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="721"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="751"/>
         <source>Decrease the zoom level</source>
         <translation>Decrease the zoom level</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="729"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="759"/>
         <source>Increase Grid Interval</source>
         <translation>Increase Grid Interval</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="730"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="760"/>
         <source>Increase the grid interval</source>
         <translation>Increase the grid interval</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="738"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="768"/>
         <source>Decrease Grid Interval</source>
         <translation>Decrease Grid Interval</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="739"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="769"/>
         <source>Decrease the grid interval</source>
         <translation>Decrease the grid interval</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="746"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="776"/>
         <source>Tools</source>
         <translation>Tools</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="750"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="780"/>
         <source>Select</source>
         <translation>Select</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="751"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="781"/>
         <source>Select &amp; modify existing objects</source>
         <translation>Select &amp; modify existing objects</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="759"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="789"/>
         <source>Draw Line</source>
         <translation>Draw Line</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="760"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="790"/>
         <source>Draw graphical lines</source>
         <translation>Draw graphical lines</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="768"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="798"/>
         <source>Draw Rectangle</source>
         <translation>Draw Rectangle</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="769"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="799"/>
         <source>Draw graphical rectangles</source>
         <translation>Draw graphical rectangles</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="777"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="807"/>
         <source>Draw Polygon</source>
         <translation>Draw Polygon</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="778"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="808"/>
         <source>Draw graphical polygons</source>
         <translation>Draw graphical polygons</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="786"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="816"/>
         <source>Draw Circle</source>
         <translation>Draw Circle</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="787"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="817"/>
         <source>Draw graphical circles</source>
         <translation>Draw graphical circles</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="795"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="825"/>
         <source>Draw Arc</source>
         <translation>Draw Arc</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="796"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="826"/>
         <source>Draw graphical arcs</source>
         <translation>Draw graphical arcs</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="804"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="834"/>
         <source>Add Text</source>
         <translation>Add Text</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="805"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="835"/>
         <source>Add graphical text objects</source>
         <translation>Add graphical text objects</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="813"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="843"/>
         <source>Add Name</source>
         <translation>Add Name</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="814"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="844"/>
         <source>Add graphical text objects for &apos;{{NAME}}&apos;</source>
         <translation>Add graphical text objects for &apos;{{NAME}}&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="822"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="852"/>
         <source>Add Value</source>
         <translation>Add Value</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="823"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="853"/>
         <source>Add graphical text objects for &apos;{{VALUE}}&apos;</source>
         <translation>Add graphical text objects for &apos;{{VALUE}}&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="831"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="861"/>
         <source>Add Pin</source>
         <translation>Add Pin</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="832"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="862"/>
         <source>Add symbol pins (electrical connections for schematics)</source>
         <translation>Add symbol pins (electrical connections for schematics)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="840"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="870"/>
         <source>Add SMT Pad</source>
         <translation>Add SMT Pad</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="841"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="871"/>
         <source>Add surface mounted (single layer) copper pads</source>
         <translation>Add surface mounted (single layer) copper pads</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="849"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="879"/>
         <source>Add THT Pad</source>
         <translation>Add THT Pad</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="850"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="880"/>
         <source>Add plated through-hole copper pads</source>
         <translation>Add plated through-hole copper pads</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="858"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="888"/>
         <source>Add Hole</source>
         <translation>Add Hole</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="859"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="889"/>
         <source>Add non-plated holes (NPTH drills)</source>
         <translation>Add non-plated holes (NPTH drills)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="867"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="897"/>
         <source>Draw Wire</source>
         <translation>Draw Wire</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="868"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="898"/>
         <source>Draw wires to create electrical connections between symbol pins</source>
         <translation>Draw wires to create electrical connections between symbol pins</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="877"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="907"/>
         <source>Add Net Label</source>
         <translation>Add Net Label</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="878"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="908"/>
         <source>Add net labels to explicitly specify the net of wires</source>
         <translation>Add net labels to explicitly specify the net of wires</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="886"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="916"/>
         <source>Add Component</source>
         <translation>Add Component</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="887"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="917"/>
         <source>Insert components from the workspace libraries</source>
         <translation>Insert components from the workspace libraries</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="895"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="925"/>
         <source>Draw Trace</source>
         <translation>Draw Trace</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="896"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="926"/>
         <source>Draw copper traces to interconnect devices</source>
         <translation>Draw copper traces to interconnect devices</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="904"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="934"/>
         <source>Add Via</source>
         <translation>Add Via</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="905"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="935"/>
         <source>Add plated through-hole vias</source>
         <translation>Add plated through-hole vias</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="913"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="943"/>
         <source>Draw Plane</source>
         <translation>Draw Plane</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="914"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="944"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
         <translation>Draw auto-filled copper areas to interconnect pads and vias</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="922"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="952"/>
         <source>Measure Distance</source>
         <translation>Measure Distance</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="923"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="953"/>
         <source>Measure the distance between two points</source>
         <translation>Measure the distance between two points</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="931"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="961"/>
         <source>Commands</source>
         <translation>Commands</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="934"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="964"/>
         <source>Go To Command Toolbar</source>
         <translation>Go To Command Toolbar</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="935"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="965"/>
         <source>Move the focus into the command toolbar</source>
         <translation>Move the focus into the command toolbar</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="943"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="973"/>
         <source>Abort Command</source>
         <translation>Abort Command</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="944"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="974"/>
         <source>Abort the currently active command</source>
         <translation>Abort the currently active command</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="952"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="982"/>
         <source>Layer Up</source>
         <translation>Layer Up</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="953"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="983"/>
         <source>Switch to the next higher layer (bottom-&gt;top)</source>
         <translation>Switch to the next higher layer (bottom-&gt;top)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="961"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="991"/>
         <source>Layer Down</source>
         <translation>Layer Down</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="962"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="992"/>
         <source>Switch to the next lower layer (top-&gt;bottom)</source>
         <translation>Switch to the next lower layer (top-&gt;bottom)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="970"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1000"/>
         <source>Increase Line Width</source>
         <translation>Increase Line Width</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="971"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1001"/>
         <source>Increase the line/trace/stroke/pad width</source>
         <translation>Increase the line/trace/stroke/pad width</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="979"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1009"/>
         <source>Decrease Line Width</source>
         <translation>Decrease Line Width</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="980"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1010"/>
         <source>Decrease the line/trace/stroke/pad width</source>
         <translation>Decrease the line/trace/stroke/pad width</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="988"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1018"/>
         <source>Increase Size</source>
         <translation>Increase Size</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="989"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1019"/>
         <source>Increase the via/pad/pin/text size</source>
         <translation>Increase the via/pad/pin/text size</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="997"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1027"/>
         <source>Decrease Size</source>
         <translation>Decrease Size</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="998"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1028"/>
         <source>Decrease the via/pad/pin/text size</source>
         <translation>Decrease the via/pad/pin/text size</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1006"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1036"/>
         <source>Increase Drill</source>
         <translation>Increase Drill</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1007"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1037"/>
         <source>Increase the via/pad/hole drill diameter</source>
         <translation>Increase the via/pad/hole drill diameter</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1015"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1045"/>
         <source>Decrease Drill</source>
         <translation>Decrease Drill</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1016"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1046"/>
         <source>Decrease the via/pad/hole drill diameter</source>
         <translation>Decrease the via/pad/hole drill diameter</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1024"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1054"/>
         <source>Toggle Auto-Width</source>
         <translation>Toggle Auto-Width</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1025"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1055"/>
         <source>Toggle the auto-width property state</source>
         <translation>Toggle the auto-width property state</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1033"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1063"/>
         <source>Toggle Fill</source>
         <translation>Toggle Fill</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1034"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1064"/>
         <source>Toggle the fill property state</source>
         <translation>Toggle the fill property state</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1042"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1072"/>
         <source>Toggle Grab Area</source>
         <translation>Toggle Grab Area</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1043"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1073"/>
         <source>Toggle the grab area property state</source>
         <translation>Toggle the grab area property state</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1051"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1081"/>
         <source>Align Left</source>
         <translation>Align Left</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1052"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1082"/>
         <source>Horizontal alignment: Left</source>
         <translation>Horizontal alignment: Left</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1060"/>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1087"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1090"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1117"/>
         <source>Align Center</source>
         <translation>Align Center</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1061"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1091"/>
         <source>Horizontal alignment: Center</source>
         <translation>Horizontal alignment: Center</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1069"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1099"/>
         <source>Align Right</source>
         <translation>Align Right</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1070"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1100"/>
         <source>Horizontal alignment: Right</source>
         <translation>Horizontal alignment: Right</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1078"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1108"/>
         <source>Align Bottom</source>
         <translation>Align Bottom</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1079"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1109"/>
         <source>Vertical alignment: Bottom</source>
         <translation>Vertical alignment: Bottom</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1088"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1118"/>
         <source>Vertical alignment: Center</source>
         <translation>Vertical alignment: Center</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1096"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1126"/>
         <source>Align Top</source>
         <translation>Align Top</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1097"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1127"/>
         <source>Vertical alignment: Top</source>
         <translation>Vertical alignment: Top</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1105"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1135"/>
         <source>Horizontal - Vertical</source>
         <translation>Horizontal - Vertical</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1106"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1136"/>
         <source>Wire mode: First segment horizontal, second segment vertical</source>
         <translation>Wire mode: First segment horizontal, second segment vertical</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1115"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1145"/>
         <source>Vertical - Horizontal</source>
         <translation>Vertical - Horizontal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1116"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1146"/>
         <source>Wire mode: First segment vertical, second segment horizontal</source>
         <translation>Wire mode: First segment vertical, second segment horizontal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1125"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1155"/>
         <source>90° - 45°</source>
         <translation>90° - 45°</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1126"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1156"/>
         <source>Wire mode: First segment 90°, second segment 45°</source>
         <translation>Wire mode: First segment 90°, second segment 45°</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1134"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1164"/>
         <source>45° - 90°</source>
         <translation>45° - 90°</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1135"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1165"/>
         <source>Wire mode: First segment 45°, second segment 90°</source>
         <translation>Wire mode: First segment 45°, second segment 90°</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1143"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1173"/>
         <source>Straight</source>
         <translation>Straight</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1144"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1174"/>
         <source>Wire mode: Straight line</source>
         <translation>Wire mode: Straight line</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1152"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1182"/>
         <source>Round</source>
         <translation>Round</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1153"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1183"/>
         <source>Shape: Round</source>
         <translation>Shape: Round</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1161"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1191"/>
         <source>Rectangular</source>
         <translation>Rectangular</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1162"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1192"/>
         <source>Shape: Rectangular</source>
         <translation>Shape: Rectangular</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1170"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1200"/>
         <source>Octagonal</source>
         <translation>Octagonal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1171"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1201"/>
         <source>Shape: Octagonal</source>
         <translation>Shape: Octagonal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1179"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1209"/>
         <source>Components</source>
         <translation>Components</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1182"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1212"/>
         <source>Resistor</source>
         <translation>Resistor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1183"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1213"/>
         <source>Add standard component: Resistor</source>
         <translation>Add standard component: Resistor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1191"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1221"/>
         <source>Inductor</source>
         <translation>Inductor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1192"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1222"/>
         <source>Add standard component: Inductor</source>
         <translation>Add standard component: Inductor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1200"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1230"/>
         <source>Bipolar Capacitor</source>
         <translation>Bipolar Capacitor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1201"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1231"/>
         <source>Add standard component: Bipolar capacitor</source>
         <translation>Add standard component: Bipolar capacitor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1209"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1239"/>
         <source>Unipolar Capacitor</source>
         <translation>Unipolar Capacitor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1210"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1240"/>
         <source>Add standard component: Unipolar capacitor</source>
         <translation>Add standard component: Unipolar capacitor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1218"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1248"/>
         <source>GND Supply</source>
         <translation>GND Supply</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1219"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1249"/>
         <source>Add standard component: GND supply</source>
         <translation>Add standard component: GND supply</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1227"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1257"/>
         <source>VCC Supply</source>
         <translation>VCC Supply</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1228"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1258"/>
         <source>Add standard component: VCC supply</source>
         <translation>Add standard component: VCC supply</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1235"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1265"/>
         <source>Docks</source>
         <translation>Docks</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1239"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1269"/>
         <source>Pages</source>
         <translation>Pages</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1240"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1270"/>
         <source>Go to the pages dock</source>
         <translation>Go to the pages dock</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1248"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1278"/>
         <source>Electrical Rule Check (ERC)</source>
         <translation>Electrical Rule Check (ERC)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1249"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1279"/>
         <source>Go to the ERC messages dock</source>
         <translation>Go to the ERC messages dock</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1257"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1287"/>
         <source>Design Rule Check (DRC)</source>
         <translation>Design Rule Check (DRC)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1258"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1288"/>
         <source>Go to the DRC messages dock</source>
         <translation>Go to the DRC messages dock</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1266"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1296"/>
         <source>Layers</source>
         <translation>Layers</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1267"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1297"/>
         <source>Go to the layers dock</source>
         <translation>Go to the layers dock</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1275"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1305"/>
         <source>Place Devices</source>
         <translation>Place Devices</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1276"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1306"/>
         <source>Go to the dock for placing devices</source>
         <translation>Go to the dock for placing devices</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1284"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1314"/>
         <source>Window Management</source>
         <translation>Window Management</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1288"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1318"/>
         <source>Next Tab/Page</source>
         <translation>Next Tab/Page</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1289"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1319"/>
         <source>Navigate to the next tab or page</source>
         <translation>Navigate to the next tab or page</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1297"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1327"/>
         <source>Previous Tab/Page</source>
         <translation>Previous Tab/Page</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1298"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1328"/>
         <source>Navigate to the previous tab or page</source>
         <translation>Navigate to the previous tab or page</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1306"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1336"/>
         <source>Close Tab</source>
         <translation>Close Tab</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1307"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1337"/>
         <source>Close the currently opened tab</source>
         <translation>Close the currently opened tab</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1315"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1345"/>
         <source>Close All Tabs</source>
         <translation>Close All Tabs</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1316"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1346"/>
         <source>Close all currently opened tabs</source>
         <translation>Close all currently opened tabs</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1324"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1354"/>
         <source>Close Window</source>
         <translation>Close Window</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1325"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1355"/>
         <source>Close this window</source>
         <translation>Close this window</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1333"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1363"/>
         <source>Close Project</source>
         <translation>Close Project</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1334"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1364"/>
         <source>Close the currently opened project</source>
         <translation>Close the currently opened project</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1342"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1372"/>
         <source>Close All Projects</source>
         <translation>Close All Projects</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1343"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1373"/>
         <source>Close all currently opened projects</source>
         <translation>Close all currently opened projects</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1351"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1381"/>
         <source>Quit</source>
         <translation>Quit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1352"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1382"/>
         <source>Close the whole application</source>
         <translation>Close the whole application</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1359"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1389"/>
         <source>Help</source>
         <translation>Help</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1363"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1393"/>
         <source>About LibrePCB</source>
         <translation>About LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1364"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1394"/>
         <source>Show information about the application</source>
         <translation>Show information about the application</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1372"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1402"/>
         <source>About Qt</source>
         <translation>About Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1373"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1403"/>
         <source>Show information about Qt</source>
         <translation>Show information about Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1381"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1411"/>
         <source>LibrePCB Website</source>
         <translation>LibrePCB Website</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1382"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1412"/>
         <source>Open the LibrePCB website in the web browser</source>
         <translation>Open the LibrePCB website in the web browser</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1390"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1420"/>
         <source>Online Documentation</source>
         <translation>Online Documentation</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1391"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1421"/>
         <source>Open the documentation in the web browser</source>
         <translation>Open the documentation in the web browser</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1399"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1429"/>
         <source>Keyboard Shortcuts Reference</source>
         <translation>Keyboard Shortcuts Reference</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1400"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1430"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
         <translation>Open a quick reference about the keyboard shortcuts</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1408"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1438"/>
         <source>Context Menu</source>
         <translation>Context Menu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1411"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1441"/>
         <source>New Folder</source>
         <translation>New Folder</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1412"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1442"/>
         <source>Create a new folder</source>
         <translation>Create a new folder</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1420"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1450"/>
         <source>Add To Favorites</source>
         <translation>Add To Favorites</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1421"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1451"/>
         <source>Add project to favorites</source>
         <translation>Add project to favorites</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1429"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1459"/>
         <source>Remove From Favorites</source>
         <translation>Remove From Favorites</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1430"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1460"/>
         <source>Remove project from favorites</source>
         <translation>Remove project from favorites</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1438"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1468"/>
         <source>Add Vertex</source>
         <translation>Add Vertex</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1439"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1469"/>
         <source>Insert a new vertex into the selected polygon edge</source>
         <translation>Insert a new vertex into the selected polygon edge</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1447"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1477"/>
         <source>Remove Vertex</source>
         <translation>Remove Vertex</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1448"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1478"/>
         <source>Remove the selected vertex from the polygon</source>
         <translation>Remove the selected vertex from the polygon</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1456"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1486"/>
         <source>Select Whole Trace</source>
         <translation>Select Whole Trace</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1457"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1487"/>
         <source>Select the whole trace</source>
         <translation>Select the whole trace</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1465"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1495"/>
         <source>Measure Selected Segments Length</source>
         <translation>Measure Selected Segments Length</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1466"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1496"/>
         <source>Measure the total length of all selected trace segments</source>
         <translation>Measure the total length of all selected trace segments</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1474"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1504"/>
         <source>Remove Whole Trace</source>
         <translation>Remove Whole Trace</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1475"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1505"/>
         <source>Remove the whole trace</source>
         <translation>Remove the whole trace</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1483"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1513"/>
         <source>Visible</source>
         <translation>Visible</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1484"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1514"/>
         <source>Toggle visibility</source>
         <translation>Toggle visibility</translation>
     </message>
@@ -4298,92 +4329,92 @@ You need at least LibrePCB %1 to open it.
         <translation>Create local library</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="80"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="83"/>
         <source>&lt;p&gt;Creates a new local library in the currently opened workspace.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Please specify all attributes in the english language (locale &apos;en_US&apos;). Support for other languages will be added in a later release of LibrePCB.&lt;/span&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Creates a new local library in the currently opened workspace.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Please specify all attributes in the english language (locale &apos;en_US&apos;). Support for other languages will be added in a later release of LibrePCB.&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="97"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="100"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="111"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="114"/>
         <source>Description:</source>
         <translation>Description:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="125"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="128"/>
         <source>Author:</source>
         <translation>Author:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="139"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="142"/>
         <source>Version:</source>
         <translation>Version:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="153"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="156"/>
         <source>Directory:</source>
         <translation>Directory:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="170"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="173"/>
         <source>Create Library</source>
         <translation>Create Library</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="177"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="180"/>
         <source>License:</source>
         <translation>License:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="198"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="204"/>
         <source>Put library under the Public Domain License CC0-1.0 (mandatory to publish it on librepcb.org).</source>
         <translation>Put library under the Public Domain License CC0-1.0 (mandatory to publish it on librepcb.org).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="220"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="226"/>
         <source>https://en.wikipedia.org/wiki/Creative_Commons_license</source>
         <translation>https://en.wikipedia.org/wiki/Creative_Commons_license</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="235"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="241"/>
         <source>URL:</source>
         <translation>URL:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="250"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="256"/>
         <source>Download manually</source>
         <translation>Download manually</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="256"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="265"/>
         <source>&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically. It&apos;s highly recommended to use &amp;quot;Download from repository&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically. It&apos;s highly recommended to use &amp;quot;Download from repository&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="273"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="282"/>
         <source>URL to ZIP file:</source>
         <translation>URL to ZIP file:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="290"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="299"/>
         <source>Local directory:</source>
         <translation>Local directory:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="307"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="316"/>
         <source>Download Library</source>
         <translation>Download Library</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="326"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="335"/>
         <source>Abort</source>
         <translation>Abort</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="341"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="350"/>
         <source>No error.</source>
         <translation>No error.</translation>
     </message>
@@ -4478,7 +4509,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::AlignmentSelector</name>
     <message>
-        <location filename="../libs/librepcb/editor/widgets/alignmentselector.ui" line="14"/>
+        <location filename="../libs/librepcb/editor/widgets/alignmentselector.ui" line="20"/>
         <source>Form</source>
         <translation>Form</translation>
     </message>
@@ -4548,67 +4579,67 @@ You need at least LibrePCB %1 to open it.
         <translation>Options</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="33"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="39"/>
         <source>Note: These values are not (yet) stored permanently in the project files, so they will be reset when closing the project.</source>
         <translation>Note: These values are not (yet) stored permanently in the project files, so they will be reset when closing the project.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="46"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="52"/>
         <source>Clearance Copper to Copper:</source>
         <translation>Clearance Copper to Copper:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="59"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="65"/>
         <source>Clearance Copper to Board Edge:</source>
         <translation>Clearance Copper to Board Edge:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="72"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="78"/>
         <source>Clearance Copper to NPTH Drills:</source>
         <translation>Clearance Copper to NPTH Drills:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="85"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="91"/>
         <source>Minimum Copper Width:</source>
         <translation>Minimum Copper Width:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="98"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="104"/>
         <source>Minimum PTH Restring:</source>
         <translation>Minimum PTH Restring:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="111"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="117"/>
         <source>Minimum PTH Drill Diameter:</source>
         <translation>Minimum PTH Drill Diameter:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="124"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="130"/>
         <source>Minimum NPTH Drill Diameter:</source>
         <translation>Minimum NPTH Drill Diameter:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="137"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="143"/>
         <source>Additional Courtyard Offset:</source>
         <translation>Additional Courtyard Offset:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="150"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="156"/>
         <source>Check for missing connections</source>
         <translation>Check for missing connections</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="173"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="179"/>
         <source>Rebuild planes before running checks</source>
         <translation>Rebuild planes before running checks</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="196"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="202"/>
         <source>Select All/None</source>
         <translation>Select All/None</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="212"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="221"/>
         <source>Messages</source>
         <translation>Messages</translation>
     </message>
@@ -4618,7 +4649,7 @@ You need at least LibrePCB %1 to open it.
         <translation>Run DRC</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.cpp" line="190"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.cpp" line="192"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -5166,57 +5197,57 @@ You need at least LibrePCB %1 to open it.
         <translation>Generate Pick&amp;Place Data</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="20"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="23"/>
         <source>Board:</source>
         <translation>Board:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="27"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="30"/>
         <source>TextLabel</source>
         <translation>TextLabel</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="34"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="37"/>
         <source>Format:</source>
         <translation>Format:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="43"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="46"/>
         <source>CSV with metadata*</source>
         <translation>CSV with metadata*</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="53"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="56"/>
         <source>CSV without metadata</source>
         <translation>CSV without metadata</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="60"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="63"/>
         <source>Gerber X3</source>
         <translation>Gerber X3</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="87"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="90"/>
         <source>*) Adds additional information to the files, but might cause issues with some CSV readers.</source>
         <translation>*) Adds additional information to the files, but might cause issues with some CSV readers.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="94"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="97"/>
         <source>Top Devices:</source>
         <translation>Top Devices:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="107"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="110"/>
         <source>Bottom Devices:</source>
         <translation>Bottom Devices:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="132"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="135"/>
         <source>Browse Output Directory</source>
         <translation>Browse Output Directory</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="150"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="153"/>
         <source>Success!</source>
         <translation>Success!</translation>
     </message>
@@ -5226,7 +5257,7 @@ You need at least LibrePCB %1 to open it.
         <translation>&amp;Generate</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="161"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="164"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -5315,27 +5346,27 @@ You need at least LibrePCB %1 to open it.
         <translation>Via Properties</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="22"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="25"/>
         <source>Net Signal:</source>
         <translation>Net Signal:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="36"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="39"/>
         <source>Shape:</source>
         <translation>Shape:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="46"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="49"/>
         <source>Position:</source>
         <translation>Position:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="63"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="66"/>
         <source>Outer Size:</source>
         <translation>Outer Size:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="70"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="73"/>
         <source>Drill Diameter:</source>
         <translation>Drill Diameter:</translation>
     </message>
@@ -5368,63 +5399,58 @@ You need at least LibrePCB %1 to open it.
         <translation>Generate BOM</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="20"/>
+        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="23"/>
         <source>Board:</source>
         <translation>Board:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="40"/>
+        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="85"/>
+        <source>Browse Output Directory</source>
+        <translation type="unfinished">Browse Output Directory</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="131"/>
         <source>Success!</source>
         <translation>Success!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="60"/>
+        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="50"/>
         <source>Output File:</source>
         <translation>Output File:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="81"/>
-        <source>Choose output file</source>
-        <translation>Choose output file</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="100"/>
-        <source>Open output directory</source>
-        <translation>Open output directory</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="116"/>
+        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="33"/>
         <source>Attributes:</source>
         <translation>Attributes:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="126"/>
+        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="43"/>
         <source>Comma-separated list of additional attributes, e.g. &quot;MANUFACTURER, MPN&quot;</source>
         <extracomment>Don&apos;t translate the attributes MANUFACTURER and MPN, they must be in English.</extracomment>
         <translation>Comma-separated list of additional attributes, e.g. &quot;MANUFACTURER, MPN&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="71"/>
+        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="70"/>
         <source>&amp;Generate</source>
         <translation>&amp;Generate</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="73"/>
+        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="82"/>
         <source>None</source>
         <translation>None</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="105"/>
+        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="114"/>
         <source>Save to</source>
         <translation>Save to</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="125"/>
+        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="142"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="171"/>
+        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="188"/>
         <source>Warning: %n device(s) from the selected board differ from their pre-selected devices in the schematic: %1</source>
         <translation>
             <numerusform>Warning: %n device(s) from the selected board differ from their pre-selected devices in the schematic: %1</numerusform>
@@ -5432,12 +5458,12 @@ You need at least LibrePCB %1 to open it.
         </translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="180"/>
+        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="197"/>
         <source>All devices of the selected board are in sync with their pre-selected devices in the schematic.</source>
         <translation>All devices of the selected board are in sync with their pre-selected devices in the schematic.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="188"/>
+        <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="205"/>
         <source>Devices are not exported because no board is selected.</source>
         <translation>Devices are not exported because no board is selected.</translation>
     </message>
@@ -6458,57 +6484,57 @@ You need at least LibrePCB %1 to open it.
         <translation>Form</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="32"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="35"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="46"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="49"/>
         <source>Description:</source>
         <translation>Description:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="63"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="66"/>
         <source>Keywords:</source>
         <translation>Keywords:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="77"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="80"/>
         <source>Author:</source>
         <translation>Author:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="91"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="94"/>
         <source>Version:</source>
         <translation>Version:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="105"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="108"/>
         <source>Deprecated:</source>
         <translation>Deprecated:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="112"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="115"/>
         <source>Category should no longer be used.</source>
         <translation>Category should no longer be used.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="119"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="122"/>
         <source>Parent:</source>
         <translation>Parent:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="159"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="162"/>
         <source>Choose category</source>
         <translation>Choose category</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="187"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="190"/>
         <source>Reset</source>
         <translation>Reset</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="210"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="213"/>
         <source>Messages:</source>
         <translation>Messages:</translation>
     </message>
@@ -6589,67 +6615,67 @@ You need at least LibrePCB %1 to open it.
         <translation>Attributes</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="184"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="187"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="198"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="201"/>
         <source>Description:</source>
         <translation>Description:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="215"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="218"/>
         <source>Keywords:</source>
         <translation>Keywords:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="229"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="232"/>
         <source>Author:</source>
         <translation>Author:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="243"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="246"/>
         <source>Version:</source>
         <translation>Version:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="257"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="260"/>
         <source>Deprecated:</source>
         <translation>Deprecated:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="264"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="267"/>
         <source>Component should no longer be used.</source>
         <translation>Component should no longer be used.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="271"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="274"/>
         <source>Categories:</source>
         <translation>Categories:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="288"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="291"/>
         <source>Schematic-Only:</source>
         <translation>Schematic-Only:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="295"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="298"/>
         <source>Component cannot be used in devices.</source>
         <translation>Component cannot be used in devices.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="302"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="305"/>
         <source>Prefix:</source>
         <translation>Prefix:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="316"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="319"/>
         <source>Default Value:</source>
         <translation>Default Value:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="333"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="336"/>
         <source>Messages:</source>
         <translation>Messages:</translation>
     </message>
@@ -6985,33 +7011,33 @@ You need at least LibrePCB %1 to open it.
         <translation>This workspace was already used with a newer version of LibrePCB. All changes in libraries and workspace settings will not be available in newer versions of LibrePCB.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="118"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="115"/>
         <source>New Project</source>
         <translation>New Project</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="135"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="132"/>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="440"/>
         <source>Open Project</source>
         <translation>Open Project</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="152"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="149"/>
         <source>Library Manager</source>
         <translation>Library Manager</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="204"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="201"/>
         <source>Recent Projects</source>
         <translation>Recent Projects</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="277"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="274"/>
         <source>Favorite Projects</source>
         <translation>Favorite Projects</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="351"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="348"/>
         <source>Project description</source>
         <translation>Project description</translation>
     </message>
@@ -7129,47 +7155,47 @@ Warning: This cannot be undone!</translation>
         <translation>Pad-Signal-Map</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="300"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="303"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="314"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="317"/>
         <source>Description:</source>
         <translation>Description:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="331"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="334"/>
         <source>Keywords:</source>
         <translation>Keywords:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="345"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="348"/>
         <source>Author:</source>
         <translation>Author:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="359"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="362"/>
         <source>Version:</source>
         <translation>Version:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="373"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="376"/>
         <source>Deprecated:</source>
         <translation>Deprecated:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="380"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="383"/>
         <source>Device should no longer be used.</source>
         <translation>Device should no longer be used.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="387"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="390"/>
         <source>Categories:</source>
         <translation>Categories:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="397"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="400"/>
         <source>Messages:</source>
         <translation>Messages:</translation>
     </message>
@@ -7374,88 +7400,88 @@ Warning: This cannot be undone!</translation>
         <translation>DXF Import</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="22"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="25"/>
         <source>Layer:</source>
         <translation>Layer:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="29"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="32"/>
         <source>The layer to set on the imported objects.</source>
         <translation>The layer to set on the imported objects.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="113"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="116"/>
         <source>Options:</source>
         <translation>Options:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="120"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="123"/>
         <source>If checked, tangent polylines of the DXF will be joined together.
 Helps for example to avoid invalid board outline polygons.</source>
         <translation>If checked, tangent polylines of the DXF will be joined together.
 Helps for example to avoid invalid board outline polygons.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="124"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="127"/>
         <source>Join tangent polylines</source>
         <translation>Join tangent polylines</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="131"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="134"/>
         <source>If checked, circles will be imported as drills.
 If unchecked (the default), circles will be imported as polygons.</source>
         <translation>If checked, circles will be imported as drills.
 If unchecked (the default), circles will be imported as polygons.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="135"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="138"/>
         <source>Import circles as drills</source>
         <translation>Import circles as drills</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="36"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="39"/>
         <source>Line width:</source>
         <translation>Line width:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="43"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="46"/>
         <source>The line width to set on the imported objects.</source>
         <translation>The line width to set on the imported objects.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="50"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="53"/>
         <source>Scale factor:</source>
         <translation>Scale factor:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="77"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="80"/>
         <source>Position:</source>
         <translation>Position:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="84"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="87"/>
         <source>If checked (the default), you can interactively place the imported objects by cursor.
 If unchecked, you need to specify exact coordinates where the point (0,0) of the DXF will be located.</source>
         <translation>If checked (the default), you can interactively place the imported objects by cursor.
 If unchecked, you need to specify exact coordinates where the point (0,0) of the DXF will be located.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="88"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="91"/>
         <source>Interactive</source>
         <translation>Interactive</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="97"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="100"/>
         <source>X-coordinate.</source>
         <translation>X-coordinate.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="104"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="107"/>
         <source>Y-coordinate.</source>
         <translation>Y-coordinate.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="57"/>
+        <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="60"/>
         <source>Additional scale factor, in case the DXF is not scaled properly.
 Note: If you have issues with scaling, make sure to configure the measuring unit of the DXF in your MCAD.</source>
         <translation>Additional scale factor, in case the DXF is not scaled properly.
@@ -7528,12 +7554,12 @@ Do you really want to close it?</translation>
         <translation>Note: Only EAGLE 6 (or later) *.lbr files are supported (XML based file format).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="44"/>
-        <source>Select file with the button to the right</source>
-        <translation>Select file with the button to the right</translation>
+        <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="39"/>
+        <source>Select file to import</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.cpp" line="58"/>
+        <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.cpp" line="67"/>
         <source>Choose file</source>
         <translation>Choose file</translation>
     </message>
@@ -7863,7 +7889,7 @@ Do you really want to close it?</translation>
         <translation>ERC</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.ui" line="81"/>
+        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.ui" line="78"/>
         <source>Approve Selected Messages</source>
         <translation>Approve Selected Messages</translation>
     </message>
@@ -7993,57 +8019,57 @@ Do you really want to close it?</translation>
         <translation>Default (layer encoded in file name)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="253"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="256"/>
         <source>Protel naming (layer encoded in file extension)</source>
         <translation>Protel naming (layer encoded in file extension)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="262"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="268"/>
         <source>Top Paste Mask
 (Top Stencil):</source>
         <translation>Top Paste Mask
 (Top Stencil):</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="277"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="283"/>
         <source>Bottom Silkscreen:</source>
         <translation>Bottom Silkscreen:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="284"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="290"/>
         <source>Inner Copper:</source>
         <translation>Inner Copper:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="296"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="302"/>
         <source>Top Silkscreen Layers</source>
         <translation>Top Silkscreen Layers</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="305"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="344"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="311"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="350"/>
         <source>Placement</source>
         <translation>Placement</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="315"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="354"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="321"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="360"/>
         <source>Names</source>
         <translation>Names</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="325"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="364"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="331"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="370"/>
         <source>Values</source>
         <translation>Values</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="335"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="341"/>
         <source>Bottom Silkscreen Layers</source>
         <translation>Bottom Silkscreen Layers</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="391"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="397"/>
         <source>Browse Output Directory</source>
         <translation>Browse Output Directory</translation>
     </message>
@@ -8053,42 +8079,42 @@ Do you really want to close it?</translation>
         <translation>&amp;Generate</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="79"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="82"/>
         <source>This dialog allows to generate Gerber X2 (RS-274X) / Excellon files for PCB fabrication.</source>
         <translation>This dialog allows to generate Gerber X2 (RS-274X) / Excellon files for PCB fabrication.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="83"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="86"/>
         <source>Note that it&apos;s highly recommended to review the generated files before ordering PCBs.</source>
         <translation>Note that it&apos;s highly recommended to review the generated files before ordering PCBs.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="86"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="89"/>
         <source>This could be done with the free application &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; or the &lt;a href=&quot;%2&quot;&gt;official reference viewer from Ucamco&lt;/a&gt;.</source>
         <translation>This could be done with the free application &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; or the &lt;a href=&quot;%2&quot;&gt;official reference viewer from Ucamco&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="93"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="96"/>
         <source>As a simpler and faster alternative, you could use the &lt;a href=&quot;%1&quot;&gt;Order PCB&lt;/a&gt; feature instead.</source>
         <translation>As a simpler and faster alternative, you could use the &lt;a href=&quot;%1&quot;&gt;Order PCB&lt;/a&gt; feature instead.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="234"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="237"/>
         <source>Success!</source>
         <translation>Success!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="245"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="248"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="257"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="260"/>
         <source>Warning</source>
         <translation>Warning</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="257"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="260"/>
         <source>Directory does not exist.</source>
         <translation>Directory does not exist.</translation>
     </message>
@@ -8139,67 +8165,67 @@ Do you really want to close it?</translation>
         <translation>Pad Properties</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="22"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="25"/>
         <source>Package Pad:</source>
         <translation>Package Pad:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="32"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="35"/>
         <source>Board Side:</source>
         <translation>Board Side:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="54"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="57"/>
         <source>THT</source>
         <translation>THT</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="61"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="64"/>
         <source>Top</source>
         <translation>Top</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="68"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="71"/>
         <source>Bottom</source>
         <translation>Bottom</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="78"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="81"/>
         <source>Shape:</source>
         <translation>Shape:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="100"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="103"/>
         <source>Round</source>
         <translation>Round</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="107"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="110"/>
         <source>Rect</source>
         <translation>Rect</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="114"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="117"/>
         <source>Octagon</source>
         <translation>Octagon</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="124"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="127"/>
         <source>Drill Diameter:</source>
         <translation>Drill Diameter:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="131"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="134"/>
         <source>Size:</source>
         <translation>Size:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="148"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="151"/>
         <source>Position:</source>
         <translation>Position:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="165"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="168"/>
         <source>Rotation:</source>
         <translation>Rotation:</translation>
     </message>
@@ -8539,12 +8565,12 @@ Do you really want to close it?</translation>
         <translation>Hole Properties</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="22"/>
+        <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="25"/>
         <source>Diameter:</source>
         <translation>Diameter:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="29"/>
+        <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="32"/>
         <source>Position:</source>
         <translation>Position:</translation>
     </message>
@@ -8590,12 +8616,12 @@ Do you really want to close it?</translation>
         <translation>User Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="63"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="75"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
         <translation>This name will be used as author when creating new projects or libraries.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="78"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="90"/>
         <source>Preferred Norm:</source>
         <translation>Preferred Norm:</translation>
     </message>
@@ -8640,27 +8666,27 @@ Do you really want to close it?</translation>
         <translation>Choose the workspace directory to open or create:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="51"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="57"/>
         <source>Select Workspace Directory</source>
         <translation>Select Workspace Directory</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="114"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="120"/>
         <source>Please select a directory.</source>
         <translation>Please select a directory.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="116"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="122"/>
         <source>Directory contains a valid workspace.</source>
         <translation>Directory contains a valid workspace.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="118"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="124"/>
         <source>New workspace will be created.</source>
         <translation>New workspace will be created.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="120"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="126"/>
         <source>Directory is not empty!</source>
         <translation>Directory is not empty!</translation>
     </message>
@@ -8774,22 +8800,22 @@ Do you really want to close it?</translation>
 <context>
     <name>librepcb::editor::LengthEditBase</name>
     <message>
-        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="65"/>
+        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="74"/>
         <source>Enter numeric expression</source>
         <translation>Enter numeric expression</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="96"/>
+        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="103"/>
         <source>Default value:</source>
         <translation>Default value:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="322"/>
+        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="329"/>
         <source>internal</source>
         <translation>internal</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="325"/>
+        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="332"/>
         <source>default</source>
         <translation>default</translation>
     </message>
@@ -8906,17 +8932,17 @@ Do you want to save them before closing it?</translation>
         <translation>Form</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="66"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="69"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="89"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="92"/>
         <source>Description:</source>
         <translation>Description:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="106"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="109"/>
         <source>Version:</source>
         <translation>Version:</translation>
     </message>
@@ -8936,32 +8962,32 @@ Do you want to save them before closing it?</translation>
         <translation>Created:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="177"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="174"/>
         <source>Deprecated:</source>
         <translation>Deprecated:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="201"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="195"/>
         <source>Library Type:</source>
         <translation>Library Type:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="218"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="209"/>
         <source>Dependencies:</source>
         <translation>Dependencies:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="238"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="229"/>
         <source>Directory:</source>
         <translation>Directory:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="265"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="256"/>
         <source>Open Library Editor</source>
         <translation>Open Library Editor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="272"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="263"/>
         <source>Remove this Library</source>
         <translation>Remove this Library</translation>
     </message>
@@ -9101,57 +9127,57 @@ Are you really sure to remove &quot;%2&quot;?</translation>
         <translation>Devices</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="322"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="325"/>
         <source>Click here to choose an icon (PNG, 256x256px).</source>
         <translation>Click here to choose an icon (PNG, 256x256px).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="348"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="351"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="362"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="365"/>
         <source>Description:</source>
         <translation>Description:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="379"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="382"/>
         <source>Keywords:</source>
         <translation>Keywords:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="393"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="396"/>
         <source>Author:</source>
         <translation>Author:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="407"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="410"/>
         <source>Version:</source>
         <translation>Version:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="421"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="424"/>
         <source>Deprecated:</source>
         <translation>Deprecated:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="428"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="431"/>
         <source>Library should no longer be used.</source>
         <translation>Library should no longer be used.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="442"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="445"/>
         <source>URL:</source>
         <translation>URL:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="456"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="459"/>
         <source>Dependencies:</source>
         <translation>Dependencies:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="473"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="476"/>
         <source>Messages:</source>
         <translation>Messages:</translation>
     </message>
@@ -9426,27 +9452,27 @@ This can be reverted in the workspace settings dialog.</translation>
         <translation>Set the component and the package of the new component.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="26"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="29"/>
         <source>Schematic-Only:</source>
         <translation>Schematic-Only:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="33"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="36"/>
         <source>Component cannot be used in devices and boards.</source>
         <translation>Component cannot be used in devices and boards.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="40"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="43"/>
         <source>Default Value:</source>
         <translation>Default Value:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="57"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="60"/>
         <source>Prefix:</source>
         <translation>Prefix:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="67"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="70"/>
         <source>e.g. &quot;D&quot; for Diodes (optional)</source>
         <translation>e.g. &quot;D&quot; for Diodes (optional)</translation>
     </message>
@@ -9553,62 +9579,62 @@ This can be reverted in the workspace settings dialog.</translation>
         <translation>Please specify some metadata about the new element.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="26"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="29"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="33"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="36"/>
         <source>Description:</source>
         <translation>Description:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="40"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="43"/>
         <source>Keywords:</source>
         <translation>Keywords:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="47"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="50"/>
         <source>Author:</source>
         <translation>Author:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="54"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="57"/>
         <source>Version:</source>
         <translation>Version:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="61"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="64"/>
         <source>Category:</source>
         <translation>Category:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="71"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="74"/>
         <source>Short, expressive name (en_US)</source>
         <translation>Short, expressive name (en_US)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="91"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="94"/>
         <source>Comma separated list of keywords (en_US, optional)</source>
         <translation>Comma separated list of keywords (en_US, optional)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="101"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="104"/>
         <source>Real name, nickname or email (optional)</source>
         <translation>Real name, nickname or email (optional)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="111"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="114"/>
         <source>Version number according to semantic versioning</source>
         <translation>Version number according to semantic versioning</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="158"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="161"/>
         <source>Choose category</source>
         <translation>Choose category</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="180"/>
+        <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="183"/>
         <source>Reset</source>
         <translation>Reset</translation>
     </message>
@@ -9664,18 +9690,18 @@ This can be reverted in the workspace settings dialog.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="32"/>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="72"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="78"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="46"/>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="86"/>
-        <source>Filename:</source>
-        <translation>Filename:</translation>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="92"/>
+        <source>Directory:</source>
+        <translation type="unfinished">Directory:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="63"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="69"/>
         <source>Add B&amp;oard</source>
         <translation>Add B&amp;oard</translation>
     </message>
@@ -9693,87 +9719,87 @@ This can be reverted in the workspace settings dialog.</translation>
         <translation>Specify some metadata of the project to be created.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="29"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="32"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="46"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="49"/>
         <source>Author:</source>
         <translation>Author:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="63"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="66"/>
         <source>License:</source>
         <translation>License:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="70"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="73"/>
         <source>Location:</source>
         <translation>Location:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="106"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="80"/>
         <source>Full Path:</source>
         <translation>Full Path:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="163"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="137"/>
         <source>A LibrePCB project consists of a whole directory, not only of a single file. Just select the new project&apos;s parent directory, and the subdirectory and filename will be set automatically.</source>
         <translation>A LibrePCB project consists of a whole directory, not only of a single file. Just select the new project&apos;s parent directory, and the subdirectory and filename will be set automatically.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="197"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="171"/>
         <source>https://en.wikipedia.org/wiki/Creative_Commons_license</source>
         <translation>https://en.wikipedia.org/wiki/Creative_Commons_license</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="70"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="78"/>
         <source>None</source>
         <translation>None</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="71"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="79"/>
         <source>CC0-1.0 (no restrictions)</source>
         <translation>CC0-1.0 (no restrictions)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="73"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="81"/>
         <source>CC-BY-4.0 (requires attribution)</source>
         <translation>CC-BY-4.0 (requires attribution)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="76"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="84"/>
         <source>CC-BY-SA-4.0 (requires attribution + share alike)</source>
         <translation>CC-BY-SA-4.0 (requires attribution + share alike)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="145"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="153"/>
         <source>Project&apos;s parent directory</source>
         <translation>Project&apos;s parent directory</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="165"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="173"/>
         <source>Please enter a valid project name.</source>
         <translation>Please enter a valid project name.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="173"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="181"/>
         <source>The location must be an existing directory.</source>
         <translation>The location must be an existing directory.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="182"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="190"/>
         <source>Oops, could not determine a valid filepath.</source>
         <translation>Oops, could not determine a valid filepath.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="210"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="218"/>
         <source>Invalid filepath</source>
         <translation>Invalid filepath</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="211"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="219"/>
         <source>The project&apos;s directory exists already and is not empty.</source>
         <translation>The project&apos;s directory exists already and is not empty.</translation>
     </message>
@@ -9885,57 +9911,57 @@ This can be reverted in the workspace settings dialog.</translation>
         <translation>Form</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="32"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="35"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="46"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="49"/>
         <source>Description:</source>
         <translation>Description:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="63"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="66"/>
         <source>Keywords:</source>
         <translation>Keywords:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="77"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="80"/>
         <source>Author:</source>
         <translation>Author:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="91"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="94"/>
         <source>Version:</source>
         <translation>Version:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="105"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="108"/>
         <source>Deprecated:</source>
         <translation>Deprecated:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="112"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="115"/>
         <source>Category should no longer be used.</source>
         <translation>Category should no longer be used.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="126"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="129"/>
         <source>Parent:</source>
         <translation>Parent:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="166"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="169"/>
         <source>Choose category</source>
         <translation>Choose category</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="194"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="197"/>
         <source>Reset</source>
         <translation>Reset</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="210"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="213"/>
         <source>Messages:</source>
         <translation>Messages:</translation>
     </message>
@@ -10266,47 +10292,47 @@ This can be reverted in the workspace settings dialog.</translation>
         <translation>Pads</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="164"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="167"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="178"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="181"/>
         <source>Description:</source>
         <translation>Description:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="195"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="198"/>
         <source>Keywords:</source>
         <translation>Keywords:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="209"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="212"/>
         <source>Author:</source>
         <translation>Author:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="223"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="226"/>
         <source>Version:</source>
         <translation>Version:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="237"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="240"/>
         <source>Deprecated:</source>
         <translation>Deprecated:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="244"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="247"/>
         <source>Package should no longer be used.</source>
         <translation>Package should no longer be used.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="251"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="254"/>
         <source>Categories:</source>
         <translation>Categories:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="261"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="264"/>
         <source>Messages:</source>
         <translation>Messages:</translation>
     </message>
@@ -10744,22 +10770,22 @@ p, li { white-space: pre-wrap; }
         <translation>Icon</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.ui" line="89"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.ui" line="87"/>
         <source>Name + Version</source>
         <translation>Name + Version</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.ui" line="123"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.ui" line="116"/>
         <source>Installed Version</source>
         <translation>Installed Version</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.ui" line="146"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.ui" line="139"/>
         <source>Description</source>
         <translation>Description</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.ui" line="205"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.ui" line="198"/>
         <source>Author</source>
         <translation>Author</translation>
     </message>
@@ -11076,68 +11102,68 @@ p, li { white-space: pre-wrap; }
         <translation>Stroke Text Properties</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="28"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="31"/>
         <source>Text:</source>
         <translation>Text:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="42"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="45"/>
         <source>Layer:</source>
         <translation>Layer:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="52"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="55"/>
         <source>Alignment:</source>
         <translation>Alignment:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="62"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="65"/>
         <source>Height:</source>
         <translation>Height:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="72"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="75"/>
         <source>Stroke Width:</source>
         <translation>Stroke Width:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="82"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="85"/>
         <source>Letter Spacing:</source>
         <translation>Letter Spacing:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="94"/>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="115"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="97"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="118"/>
         <source>Auto</source>
         <translation>Auto</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="103"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="106"/>
         <source>Line Spacing:</source>
         <translation>Line Spacing:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="124"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="127"/>
         <source>Position:</source>
         <translation>Position:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="141"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="144"/>
         <source>Rotation:</source>
         <translation>Rotation:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="151"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="154"/>
         <source>Options:</source>
         <translation>Options:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="160"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="163"/>
         <source>Mirror</source>
         <translation>Mirror</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="167"/>
+        <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="170"/>
         <source>Auto-Rotate</source>
         <translation>Auto-Rotate</translation>
     </message>
@@ -11410,47 +11436,47 @@ p, li { white-space: pre-wrap; }
         <translation>Form</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="94"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="97"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="108"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="111"/>
         <source>Description:</source>
         <translation>Description:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="125"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="128"/>
         <source>Keywords:</source>
         <translation>Keywords:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="139"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="142"/>
         <source>Author:</source>
         <translation>Author:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="153"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="156"/>
         <source>Version:</source>
         <translation>Version:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="167"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="170"/>
         <source>Deprecated:</source>
         <translation>Deprecated:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="174"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="177"/>
         <source>Symbol should no longer be used.</source>
         <translation>Symbol should no longer be used.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="181"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="184"/>
         <source>Categories:</source>
         <translation>Categories:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="198"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="201"/>
         <source>Messages:</source>
         <translation>Messages:</translation>
     </message>
@@ -11489,7 +11515,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="37"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="224"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="242"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
@@ -11519,37 +11545,37 @@ p, li { white-space: pre-wrap; }
         <translation>Boards</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="110"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="116"/>
         <source>Pre-selected device:</source>
         <translation>Pre-selected device:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="136"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="148"/>
         <source>Library Elements</source>
         <translation>Library Elements</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="148"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="166"/>
         <source>Component:</source>
         <translation>Component:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="180"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="198"/>
         <source>Symbol:</source>
         <translation>Symbol:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="215"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="233"/>
         <source>Component</source>
         <translation>Component</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="234"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="252"/>
         <source>Value:</source>
         <translation>Value:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="263"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="281"/>
         <source>Attributes</source>
         <translation>Attributes</translation>
     </message>
@@ -11582,52 +11608,52 @@ p, li { white-space: pre-wrap; }
         <translation>Pin Properties</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="22"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="25"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="36"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="39"/>
         <source>Length:</source>
         <translation>Length:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="48"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="51"/>
         <source>Move text automatically when changing the pin length.</source>
         <translation>Move text automatically when changing the pin length.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="51"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="54"/>
         <source>Move Text</source>
         <translation>Move Text</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="60"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="63"/>
         <source>Position:</source>
         <translation>Position:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="77"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="80"/>
         <source>Rotation:</source>
         <translation>Rotation:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="94"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="97"/>
         <source>Text Position:</source>
         <translation>Text Position:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="111"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="114"/>
         <source>Text Rotation:</source>
         <translation>Text Rotation:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="121"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="124"/>
         <source>Text Height:</source>
         <translation>Text Height:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="131"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="134"/>
         <source>Text Alignment:</source>
         <translation>Text Alignment:</translation>
     </message>
@@ -11650,32 +11676,32 @@ p, li { white-space: pre-wrap; }
         <translation>Text Properties</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="28"/>
+        <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="31"/>
         <source>Text:</source>
         <translation>Text:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="42"/>
+        <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="45"/>
         <source>Layer:</source>
         <translation>Layer:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="52"/>
+        <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="55"/>
         <source>Alignment:</source>
         <translation>Alignment:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="62"/>
+        <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="65"/>
         <source>Height:</source>
         <translation>Height:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="72"/>
+        <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="75"/>
         <source>Position:</source>
         <translation>Position:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="89"/>
+        <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="92"/>
         <source>Rotation:</source>
         <translation>Rotation:</translation>
     </message>
@@ -11739,62 +11765,62 @@ p, li { white-space: pre-wrap; }
         <translation>Place Devices</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="40"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="43"/>
         <source>Device:</source>
         <translation>Device:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="47"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="50"/>
         <source>Footprint:</source>
         <translation>Footprint:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="68"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="71"/>
         <source>Set/unset as default device for the component in schematic.</source>
         <translation>Set/unset as default device for the component in schematic.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="97"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="100"/>
         <source>No device or package for the selected component found in the library! Please add a suitable device and package to your workspace library.</source>
         <translation>No device or package for the selected component found in the library! Please add a suitable device and package to your workspace library.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="125"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="128"/>
         <source>Add the selected device to the board.</source>
         <translation>Add the selected device to the board.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="128"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="131"/>
         <source>Add</source>
         <translation>Add</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="138"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="141"/>
         <source>Use the selected device for all identical components and add them to the board.</source>
         <translation>Use the selected device for all identical components and add them to the board.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="141"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="144"/>
         <source>Add Similar</source>
         <translation>Add Similar</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="148"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="151"/>
         <source>Add all components with pre-selected device to the board.</source>
         <translation>Add all components with pre-selected device to the board.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="151"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="154"/>
         <source>Add Pre-Selected</source>
         <translation>Add Pre-Selected</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="158"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="161"/>
         <source>Add all components to the board, using automatically determined devices.</source>
         <translation>Add all components to the board, using automatically determined devices.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="161"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="164"/>
         <source>Auto-Add All</source>
         <translation>Auto-Add All</translation>
     </message>
@@ -11858,107 +11884,107 @@ p, li { white-space: pre-wrap; }
         <translation>Application Language:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="64"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="67"/>
         <source>Changing the language requires to restart the application.</source>
         <translation>Changing the language requires to restart the application.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="76"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="79"/>
         <source>Default Length Unit:</source>
         <translation>Default Length Unit:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="90"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="93"/>
         <source>User Name:</source>
         <translation>User Name:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="108"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="114"/>
         <source>e.g. &quot;John Doe&quot;</source>
         <extracomment>Example for a user name.</extracomment>
         <translation>e.g. &quot;John Doe&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="124"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="130"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
         <translation>This name will be used as author when creating new projects or libraries.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="136"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="142"/>
         <source>Autosave Interval:</source>
         <translation>Autosave Interval:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="155"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="161"/>
         <source>Seconds (0 = disable autosave)</source>
         <translation>Seconds (0 = disable autosave)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="165"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="171"/>
         <source>Appearance</source>
         <translation>Appearance</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="171"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="177"/>
         <source>Rendering Method:</source>
         <translation>Rendering Method:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="180"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="192"/>
         <source>Use OpenGL Hardware Acceleration</source>
         <translation>Use OpenGL Hardware Acceleration</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="193"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="205"/>
         <source>This setting will be applied only to newly opened windows.</source>
         <translation>This setting will be applied only to newly opened windows.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="205"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="217"/>
         <source>Dismissed Messages:</source>
         <translation>Dismissed Messages:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="226"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="238"/>
         <source>Library</source>
         <translation>Library</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="232"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="247"/>
         <source>Preferred Languages:
 (Highest priority at top)</source>
         <translation>Preferred Languages:
 (Highest priority at top)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="240"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="255"/>
         <source>Preferred Norms:
 (Highest priority at top)</source>
         <translation>Preferred Norms:
 (Highest priority at top)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="275"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="290"/>
         <source>Repositories</source>
         <translation>Repositories</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="281"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="296"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Repositories are used to browse, download and update libraries.&lt;br/&gt;You can add any server to this list which implements the LibrePCB API.&lt;br/&gt;The official LibrePCB server is &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Repositories are used to browse, download and update libraries.&lt;br/&gt;You can add any server to this list which implements the LibrePCB API.&lt;br/&gt;The official LibrePCB server is &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="302"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="317"/>
         <source>External Applications</source>
         <translation>External Applications</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="355"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="370"/>
         <source>Custom command(s):</source>
         <translation>Custom command(s):</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="387"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="402"/>
         <source>You can add multiple commands to make the same settings working on multiple computers. LibrePCB will iterate through the list of commands until one of them succeeds. If none succeeds, the system&apos;s default application will be used.</source>
         <translation>You can add multiple commands to make the same settings working on multiple computers. LibrePCB will iterate through the list of commands until one of them succeeds. If none succeeds, the system&apos;s default application will be used.</translation>
     </message>
@@ -11968,12 +11994,12 @@ p, li { white-space: pre-wrap; }
         <translation>PDF Reader</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="403"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="418"/>
         <source>Keyboard Shortcuts</source>
         <translation>Keyboard Shortcuts</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="468"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="483"/>
         <source>Type to filter...</source>
         <translation>Type to filter...</translation>
     </message>
@@ -12040,42 +12066,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
 Attention: This will be applied immediately and cannot be undone!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="359"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="356"/>
         <source>Example:</source>
         <translation>Example:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="381"/>
-        <source>Select executable...</source>
-        <translation>Select executable...</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="384"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="382"/>
         <source>Select executable</source>
         <translation>Select executable</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="395"/>
-        <source>Remove this command</source>
-        <translation>Remove this command</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="410"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="407"/>
         <source>Available placeholders:</source>
         <translation>Available placeholders:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="420"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="417"/>
         <source>Reset</source>
         <translation>Reset</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="423"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="420"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
         <translation>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="426"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="423"/>
         <source>Currently there are %1 dismissed message(s).</source>
         <translation>
             <numerusform>Currently there are %1 dismissed message(s).</numerusform>
@@ -12084,7 +12100,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="91"/>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="524"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="521"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
