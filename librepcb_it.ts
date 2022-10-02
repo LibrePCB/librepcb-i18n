@@ -6532,32 +6532,32 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="110"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="111"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="187"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="191"/>
         <source>Could not load components</source>
         <translation>Impossibile caricare i componenti</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="194"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="198"/>
         <source>No component selected</source>
         <translation>Nessun componente selezionato</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="204"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="208"/>
         <source>Could not load component metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="261"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="265"/>
         <source>Invalid Selection</source>
         <translation>Selezione non valida</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="262"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="266"/>
         <source>Please select a component.</source>
         <translation>Si prega di selezionare un componente.</translation>
     </message>
@@ -9917,32 +9917,32 @@ This can be reverted in the workspace settings dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="111"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="112"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="188"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="191"/>
         <source>Could not load packages</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="195"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="198"/>
         <source>No package selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="205"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="208"/>
         <source>Could not load package metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="240"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="243"/>
         <source>Invalid Selection</source>
         <translation>Selezione non valida</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="241"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="244"/>
         <source>Please select a package.</source>
         <translation type="unfinished"/>
     </message>
@@ -11100,32 +11100,32 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="129"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="130"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="204"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="207"/>
         <source>Could not load symbols</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="212"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="215"/>
         <source>No symbol selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="231"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="234"/>
         <source>Could not load symbol</source>
         <translation>Non posso caricare il simbolo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="238"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="241"/>
         <source>Invalid Selection</source>
         <translation>Selezione non valida</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="239"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="242"/>
         <source>Please select a symbol.</source>
         <translation type="unfinished"/>
     </message>
