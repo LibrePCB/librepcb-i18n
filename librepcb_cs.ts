@@ -101,7 +101,7 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="103"/>
         <source>Symbol pin name</source>
-        <translation type="unfinished"/>
+        <translation>Název vývodu schematické značky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="109"/>
@@ -1304,12 +1304,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="870"/>
         <source>Add Pin</source>
-        <translation type="unfinished"/>
+        <translation>Přidat vývod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="871"/>
         <source>Add symbol pins (electrical connections for schematics)</source>
-        <translation type="unfinished"/>
+        <translation>Přidat vývody schematických značek (elektrická připojení pro schémata)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="879"/>
@@ -1349,7 +1349,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="907"/>
         <source>Draw wires to create electrical connections between symbol pins</source>
-        <translation type="unfinished"/>
+        <translation>Nakreslit vodiče a vytvořit elektrická spojení mezi vývody schematických značek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="916"/>
@@ -1384,7 +1384,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="943"/>
         <source>Add Via</source>
-        <translation type="unfinished"/>
+        <translation>Přidat přechod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="944"/>
@@ -1484,7 +1484,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1028"/>
         <source>Increase the via/pad/pin/text size</source>
-        <translation type="unfinished"/>
+        <translation>Zvětšit velikost průchodky/podložky/vývodu/textu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1036"/>
@@ -1494,7 +1494,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1037"/>
         <source>Decrease the via/pad/pin/text size</source>
-        <translation type="unfinished"/>
+        <translation>Zmenšit velikost průchodky/podložky/vývodu/textu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1045"/>
@@ -1504,7 +1504,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1046"/>
         <source>Increase the via/pad/hole drill diameter</source>
-        <translation type="unfinished"/>
+        <translation>Zvětšit velikost vrtání průchodky/podložky/otvoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1054"/>
@@ -1514,7 +1514,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1055"/>
         <source>Decrease the via/pad/hole drill diameter</source>
-        <translation type="unfinished"/>
+        <translation>Zmenšit velikost vrtání průchodky/podložky/otvoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1063"/>
@@ -2312,7 +2312,7 @@ Pro všeobecná pouzdra (např. SOT23) platí, že plošky vývodů by měly bý
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgduplicatepinname.cpp" line="39"/>
         <source>All symbol pins must have unique names, otherwise they cannot be distinguished later in the component editor. If your part has several pins with same functionality (e.g. multiple GND pins), you should add only one of these pins to the symbol. The assignment to multiple leads should be done in the device editor instead.</source>
-        <translation>Všechny vývody sch. značky musí mít jedinečné názvy, jinak nebudou správně rozpoznány v editoru součástek. Pokud součástka obsahuje více vývodů se stejným významem (např. více GND vývodů), měli byste vytvořit jen jeden takový vývod ve sch. značce. Přiřazení více plošek vývodů pouzdra k tomuto jednomu vývodu sch. značky bude následně možné v editoru součástek.</translation>
+        <translation>Všechny vývody schematické značky musí mít jedinečné názvy, jinak nebudou správně rozpoznány v editoru součástek. Pokud součástka obsahuje více vývodů se stejným významem (např. více GND vývodů), měli byste vytvořit jen jeden takový vývod ve sch. značce. Přiřazení více plošek vývodů pouzdra k tomuto jednomu vývodu sch. značky bude následně možné v editoru součástek.</translation>
     </message>
 </context>
 <context>
@@ -2790,7 +2790,7 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
     <message>
         <location filename="../libs/librepcb/core/geometry/via.h" line="152"/>
         <source>Unknown via shape: &quot;%1&quot;</source>
-        <translation>Neznámý tvar plošky přechodu: &quot;%1&quot;</translation>
+        <translation>Neznámý tvar průchodky: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -3076,7 +3076,7 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="403"/>
         <source>Min. via restring (&apos;%1&apos;): %2</source>
         <comment>Placeholders are net name + restring width</comment>
-        <translation>Min. šířka mezikruží přechodu (&apos;%1&apos;): %2</translation>
+        <translation>Min. šířka průchodky (&apos;%1&apos;): %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="426"/>
@@ -3093,7 +3093,7 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="451"/>
         <source>Min. via drill diameter (&apos;%1&apos;): %2</source>
         <comment>Placeholders are net name + drill diameter</comment>
-        <translation>Min. průměr vrtání přechodu (&apos;%1&apos;): %2</translation>
+        <translation>Min. průměr vrtání průchodky (&apos;%1&apos;): %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="471"/>
@@ -3355,7 +3355,7 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="204"/>
         <source>Vias</source>
-        <translation>Vias</translation>
+        <translation>Přechody</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="205"/>
