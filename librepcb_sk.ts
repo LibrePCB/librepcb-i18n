@@ -7533,7 +7533,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="26"/>
         <source>Note: Only EAGLE 6 (or later) *.lbr files are supported (XML based file format).</source>
-        <translation>Poznámka: Iba súbory *.lbr knižnice EAGLE verzie 6 (a vyššie) sú podporované (používajú súborový formát XML).</translation>
+        <translation>Poznámka: Podporované sú iba knižnice EAGLE verzie 6 (a vyššie) - súbory *.lbr (používajúce formát XML).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="39"/>
