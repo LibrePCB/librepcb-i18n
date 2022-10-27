@@ -144,7 +144,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="91"/>
         <source>Print this message.</source>
-        <translation type="unfinished"/>
+        <translation>打印此消息。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
@@ -204,7 +204,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="143"/>
         <source>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>导出用于自动组装顶层电路板的拾取和放置文件。 现有文件将被覆盖。 支持的文件扩展名: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
@@ -229,12 +229,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="163"/>
         <source>index</source>
-        <translation type="unfinished"/>
+        <translation>索引</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="166"/>
         <source>Remove all boards not specified with &apos;%1&apos; from the project before executing all the other actions. If &apos;%1&apos; is not passed, all boards will be removed. Pass &apos;%2&apos; to save the modified project to disk.</source>
-        <translation type="unfinished"/>
+        <translation>在执行所有其他操作之前，从项目中删除所有未使用 &apos;%1&apos; 指定的电路板。 如果 &apos;%1&apos; 未通过，所有电路板将被删除。 传递&apos;%2&apos;以将修改后的项目保存到磁盘。</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="173"/>
@@ -269,7 +269,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="204"/>
         <source>Help:</source>
-        <translation type="unfinished"/>
+        <translation>帮助：</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="238"/>
@@ -289,7 +289,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="293"/>
         <source>Missing arguments:</source>
-        <translation type="unfinished"/>
+        <translation>缺少参数：</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="299"/>
@@ -334,7 +334,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
         <source>(stable)</source>
-        <translation type="unfinished"/>
+        <translation>（稳定的）</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
@@ -428,7 +428,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="82"/>
         <source>Editor</source>
-        <translation type="unfinished"/>
+        <translation>编辑器</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="86"/>
@@ -438,7 +438,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="87"/>
         <source>Add a new item</source>
-        <translation type="unfinished"/>
+        <translation>添加一个新项</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="95"/>
@@ -453,7 +453,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="104"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="105"/>
@@ -11916,7 +11916,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="402"/>
         <source>You can add multiple commands to make the same settings working on multiple computers. LibrePCB will iterate through the list of commands until one of them succeeds. If none succeeds, the system&apos;s default application will be used.</source>
-        <translation type="unfinished"/>
+        <translation>你可以添加多个命令以使相同的设置在多台计算机上运行。 LibrePCB 将遍历命令列表，直到其中一个成功。 如果没有成功，将使用系统的默认应用程序。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="209"/>
@@ -11926,7 +11926,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="418"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>键盘快捷键</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="483"/>
@@ -11998,7 +11998,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="356"/>
         <source>Example:</source>
-        <translation type="unfinished"/>
+        <translation>示例：</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="382"/>
@@ -12023,7 +12023,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="423"/>
         <source>Currently there are %1 dismissed message(s).</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>当前有 %1 条已关闭的消息。</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="91"/>
