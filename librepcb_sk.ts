@@ -8616,7 +8616,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="71"/>
         <source>None</source>
-        <translation>Žiadne</translation>
+        <translation>Žiadna</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="109"/>
@@ -10788,12 +10788,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="214"/>
         <source>Installed</source>
-        <translation>Inštalované</translation>
+        <translation>Inštalovaná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="221"/>
         <source>Recommended</source>
-        <translation>Odporúčané</translation>
+        <translation>Odporúčaná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/repositorylibrarylistwidgetitem.cpp" line="227"/>
