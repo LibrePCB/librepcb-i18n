@@ -144,7 +144,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="91"/>
         <source>Print this message.</source>
-        <translation type="unfinished"/>
+        <translation>Stampa questo messaggio</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
@@ -230,7 +230,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="163"/>
         <source>index</source>
-        <translation type="unfinished"/>
+        <translation>Indice</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="166"/>
@@ -270,7 +270,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="204"/>
         <source>Help:</source>
-        <translation type="unfinished"/>
+        <translation>Aiuto</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="238"/>
@@ -290,12 +290,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="293"/>
         <source>Missing arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Argomenti mancanti:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="299"/>
         <source>Unknown arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Argomenti sconosciuti:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="838"/>
@@ -330,17 +330,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="280"/>
         <source>File Format %1</source>
-        <translation type="unfinished"/>
+        <translation>Formato del file %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
         <source>(stable)</source>
-        <translation type="unfinished"/>
+        <translation>(stabile)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
         <source>(unstable)</source>
-        <translation type="unfinished"/>
+        <translation>(instabile)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
@@ -373,7 +373,7 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentprefix.h" line="50"/>
         <source>Invalid component prefix: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Prefisso del componente non valido: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -408,12 +408,12 @@
     <message>
         <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="188"/>
         <source>File does not exist or is not readable.</source>
-        <translation type="unfinished"/>
+        <translation>Il file non esiste o non è leggibile.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="194"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Errore nella lettura del file DXF &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -429,7 +429,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="82"/>
         <source>Editor</source>
-        <translation type="unfinished"/>
+        <translation>Editor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="86"/>
@@ -439,7 +439,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="87"/>
         <source>Add a new item</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi un elemento</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="95"/>
@@ -449,12 +449,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="96"/>
         <source>Open the selected item(s)</source>
-        <translation type="unfinished"/>
+        <translation>Apri l&apos;elemento(i) selezionato(i)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="104"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Salva</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="105"/>
@@ -484,7 +484,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="131"/>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Cerca</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="132"/>
@@ -494,7 +494,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="140"/>
         <source>Find Next</source>
-        <translation type="unfinished"/>
+        <translation>Trova il prossimo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="141"/>
@@ -504,12 +504,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="149"/>
         <source>Find Previous</source>
-        <translation type="unfinished"/>
+        <translation>Trova il precedente</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="150"/>
         <source>Go to the previous found object</source>
-        <translation type="unfinished"/>
+        <translation>Vai all&apos;elemento trovato in precedenza</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="158"/>
@@ -524,7 +524,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="167"/>
         <source>Control Panel</source>
-        <translation type="unfinished"/>
+        <translation>Pannello di controllo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="168"/>
@@ -599,7 +599,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="231"/>
         <source>Create a new project</source>
-        <translation type="unfinished"/>
+        <translation>Crea un nuovo progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="239"/>
@@ -609,17 +609,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="240"/>
         <source>Open an existing project</source>
-        <translation type="unfinished"/>
+        <translation>Apri un progetto esistente</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="248"/>
         <source>Save Project</source>
-        <translation type="unfinished"/>
+        <translation>Salva il progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="249"/>
         <source>Save the currently opened project</source>
-        <translation type="unfinished"/>
+        <translation>Salva il progetto attualmente aperto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="257"/>
@@ -634,7 +634,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="266"/>
         <source>Project Properties</source>
-        <translation type="unfinished"/>
+        <translation>Proprietà progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="267"/>
@@ -714,7 +714,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="339"/>
         <source>New Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Nuovo foglio</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="340"/>
@@ -734,7 +734,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="357"/>
         <source>Remove Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Elimina foglio</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="358"/>
@@ -819,7 +819,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="462"/>
         <source>Import DXF</source>
-        <translation type="unfinished"/>
+        <translation>Importa DXF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="463"/>
@@ -829,7 +829,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="471"/>
         <source>Import EAGLE Library</source>
-        <translation type="unfinished"/>
+        <translation>Importa libreria EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="472"/>
@@ -859,7 +859,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="498"/>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>Esporta PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="499"/>
@@ -869,7 +869,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="507"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Stampa</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="508"/>
@@ -879,7 +879,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="516"/>
         <source>Generate Bill Of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Genera Bill Of Material</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="517"/>
@@ -919,7 +919,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="551"/>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Modifica</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="555"/>
@@ -964,7 +964,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="592"/>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Incolla</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="593"/>
@@ -6496,7 +6496,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="162"/>
         <source>Choose category</source>
-        <translation type="unfinished"/>
+        <translation>Scegli una categoria</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="190"/>
@@ -7602,7 +7602,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="26"/>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>Prefisso</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="47"/>
@@ -7623,7 +7623,7 @@ Do you really want to close it?</source>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="88"/>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="147"/>
         <source>Choose category</source>
-        <translation type="unfinished"/>
+        <translation>Scegli una categoria</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="102"/>
@@ -8376,12 +8376,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="95"/>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>Esporta PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="98"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Stampa</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="160"/>
@@ -8849,7 +8849,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="98"/>
         <source>Fix</source>
-        <translation>Fissa</translation>
+        <translation>Correggi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="107"/>
@@ -9559,7 +9559,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="161"/>
         <source>Choose category</source>
-        <translation type="unfinished"/>
+        <translation>Scegli una categoria</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="183"/>
@@ -9881,7 +9881,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="169"/>
         <source>Choose category</source>
-        <translation type="unfinished"/>
+        <translation>Scegli una categoria</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="197"/>
@@ -10523,7 +10523,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/projectpropertieseditordialog.ui" line="14"/>
         <source>Project Properties</source>
-        <translation type="unfinished"/>
+        <translation>Proprietà progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectpropertieseditordialog.ui" line="20"/>
