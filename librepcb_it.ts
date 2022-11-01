@@ -479,7 +479,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="123"/>
         <source>Select all visible objects</source>
-        <translation type="unfinished"/>
+        <translation>Seleziona tutti gli oggetti visibili</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="131"/>
@@ -849,7 +849,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="489"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>Esporta immagine</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="490"/>
@@ -909,7 +909,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="543"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>Ordina PCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="544"/>
@@ -1014,7 +1014,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="637"/>
         <source>Rotate Counterclockwise</source>
-        <translation type="unfinished"/>
+        <translation>Ruota in senso antiorario</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="638"/>
@@ -1024,37 +1024,37 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="646"/>
         <source>Rotate Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Ruota in senso orario</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="647"/>
         <source>Rotate the selected object(s) clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Ruota l&apos;oggetto(i) selezionato in senso orario</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="655"/>
         <source>Mirror Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Specchia orizzontalmente</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="656"/>
         <source>Mirror the selected object(s) horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Specchia l&apos;oggetto(i) selezionato orizzontalmente</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="664"/>
         <source>Mirror Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Specchia verticalmente</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="665"/>
         <source>Mirror the selected object(s) vertically</source>
-        <translation type="unfinished"/>
+        <translation>Specchia l&apos;oggetto(i) selezionato verticalmente</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="673"/>
         <source>Flip Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Capovolgi orizzontalmente</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="674"/>
@@ -1064,7 +1064,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="683"/>
         <source>Flip Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Capovolgi verticalmente</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="684"/>
@@ -1074,7 +1074,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="693"/>
         <source>Snap to Grid</source>
-        <translation type="unfinished"/>
+        <translation>Aggancia alla griglia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="694"/>
@@ -1104,12 +1104,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="720"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Rinomina</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="721"/>
         <source>Rename the selected object</source>
-        <translation type="unfinished"/>
+        <translation>Rinomina l&apos;oggetto selezionato</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="450"/>
@@ -1135,7 +1135,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="441"/>
         <source>Change Unit</source>
-        <translation type="unfinished"/>
+        <translation>Cambia unità</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="442"/>
@@ -1145,12 +1145,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="451"/>
         <source>Remove this item</source>
-        <translation type="unfinished"/>
+        <translation>Rimuovi questo oggetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="730"/>
         <source>Delete the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>Cancella l&apos;oggetto(i) selezionato</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="737"/>
@@ -1215,37 +1215,37 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="789"/>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Seleziona</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="790"/>
         <source>Select &amp; modify existing objects</source>
-        <translation type="unfinished"/>
+        <translation>Seleziona e modifica gli oggetti selezionati</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="798"/>
         <source>Draw Line</source>
-        <translation type="unfinished"/>
+        <translation>Disegna linea</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="799"/>
         <source>Draw graphical lines</source>
-        <translation type="unfinished"/>
+        <translation>Disegna linea grafica</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="807"/>
         <source>Draw Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Disegna rettangolo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="808"/>
         <source>Draw graphical rectangles</source>
-        <translation type="unfinished"/>
+        <translation>Disegna rettangolo grafico</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="816"/>
         <source>Draw Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Disegna poligono</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="817"/>
@@ -1260,22 +1260,22 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="826"/>
         <source>Draw graphical circles</source>
-        <translation type="unfinished"/>
+        <translation>Disegna cerchio grafico</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="834"/>
         <source>Draw Arc</source>
-        <translation type="unfinished"/>
+        <translation>Disegna arco</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="835"/>
         <source>Draw graphical arcs</source>
-        <translation type="unfinished"/>
+        <translation>Disegna arco grafico</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="843"/>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi testo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="844"/>
@@ -1305,7 +1305,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="870"/>
         <source>Add Pin</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi Pin</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="871"/>
@@ -1335,12 +1335,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="897"/>
         <source>Add Hole</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi foro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="898"/>
         <source>Add non-plated holes (NPTH drills)</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi foro non metallizzato (NPTH drills)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="906"/>
@@ -1385,7 +1385,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="943"/>
         <source>Add Via</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi Via</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="944"/>
@@ -1395,7 +1395,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="952"/>
         <source>Draw Plane</source>
-        <translation type="unfinished"/>
+        <translation>Disegna Piano</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="953"/>
@@ -1405,12 +1405,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="961"/>
         <source>Measure Distance</source>
-        <translation type="unfinished"/>
+        <translation>Misura distanza</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="962"/>
         <source>Measure the distance between two points</source>
-        <translation type="unfinished"/>
+        <translation>Misura distanza tra due punti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="970"/>
@@ -1460,7 +1460,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1009"/>
         <source>Increase Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Aumenta larghezza linea</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1010"/>
@@ -1470,7 +1470,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1018"/>
         <source>Decrease Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Diminuisci larghezza linea</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1019"/>
@@ -1480,7 +1480,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1027"/>
         <source>Increase Size</source>
-        <translation type="unfinished"/>
+        <translation>Aumenta Dimensione</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1028"/>
@@ -1490,7 +1490,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1036"/>
         <source>Decrease Size</source>
-        <translation type="unfinished"/>
+        <translation>Diminuisci Dimensione</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1037"/>
@@ -1550,7 +1550,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1090"/>
         <source>Align Left</source>
-        <translation type="unfinished"/>
+        <translation>Allinea a sinista</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1091"/>
@@ -1561,7 +1561,7 @@
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1099"/>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1126"/>
         <source>Align Center</source>
-        <translation type="unfinished"/>
+        <translation>Allinea al centro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1100"/>
@@ -1571,7 +1571,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1108"/>
         <source>Align Right</source>
-        <translation type="unfinished"/>
+        <translation>Allinea a destra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1109"/>
@@ -1596,7 +1596,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1135"/>
         <source>Align Top</source>
-        <translation type="unfinished"/>
+        <translation>Allinea in altro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1136"/>
@@ -1626,7 +1626,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1164"/>
         <source>90° - 45°</source>
-        <translation type="unfinished"/>
+        <translation>45° - 90°</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1165"/>
@@ -1636,7 +1636,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1173"/>
         <source>45° - 90°</source>
-        <translation type="unfinished"/>
+        <translation>45° - 90°</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1174"/>
@@ -1676,7 +1676,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1209"/>
         <source>Octagonal</source>
-        <translation type="unfinished"/>
+        <translation>Ottagonale</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1210"/>
@@ -1691,7 +1691,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1221"/>
         <source>Resistor</source>
-        <translation type="unfinished"/>
+        <translation>Resistenza</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1222"/>
@@ -1701,7 +1701,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1230"/>
         <source>Inductor</source>
-        <translation type="unfinished"/>
+        <translation>Induttanza</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1231"/>
@@ -1731,7 +1731,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1257"/>
         <source>GND Supply</source>
-        <translation type="unfinished"/>
+        <translation>Alimentazione GND</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1258"/>
@@ -1741,7 +1741,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1266"/>
         <source>VCC Supply</source>
-        <translation type="unfinished"/>
+        <translation>Alimentazione VCC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1267"/>
@@ -1851,12 +1851,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1363"/>
         <source>Close Window</source>
-        <translation type="unfinished"/>
+        <translation>Chiudi Finestra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1364"/>
         <source>Close this window</source>
-        <translation type="unfinished"/>
+        <translation>Chiudi questa finestra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1372"/>
@@ -1871,7 +1871,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1381"/>
         <source>Close All Projects</source>
-        <translation type="unfinished"/>
+        <translation>Chiudi tutti i progetti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1382"/>
@@ -1886,7 +1886,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1391"/>
         <source>Close the whole application</source>
-        <translation type="unfinished"/>
+        <translation>Chiudi tutta l&apos;applicazione</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1398"/>
@@ -1931,7 +1931,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1430"/>
         <source>Open the documentation in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Apri la documentazione nel browser WEB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1438"/>
@@ -1956,27 +1956,27 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1451"/>
         <source>Create a new folder</source>
-        <translation type="unfinished"/>
+        <translation>Crea una nuova cartella</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1459"/>
         <source>Add To Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi ai favoriti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1460"/>
         <source>Add project to favorites</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi progetto ai favoriti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1468"/>
         <source>Remove From Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Rimuovi dai favoriti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1469"/>
         <source>Remove project from favorites</source>
-        <translation type="unfinished"/>
+        <translation>Rimuovi progetto dai favoriti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1477"/>
@@ -4072,7 +4072,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.cpp" line="164"/>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Seleziona file</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="94"/>
@@ -5265,7 +5265,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="59"/>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Priorità:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="69"/>
@@ -5394,7 +5394,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="33"/>
         <source>Attributes:</source>
-        <translation type="unfinished"/>
+        <translation>Attributi:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="43"/>
@@ -6900,7 +6900,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="382"/>
         <source>Add a new symbol</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi nuovo simbolo</translation>
     </message>
 </context>
 <context>
@@ -7460,7 +7460,7 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizard.ui" line="14"/>
         <source>EAGLE Library Import</source>
-        <translation type="unfinished"/>
+        <translation>Importa libreria EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizard.cpp" line="69"/>
@@ -7498,7 +7498,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="17"/>
         <source>Select Library</source>
-        <translation type="unfinished"/>
+        <translation>Seleziona libreria</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="20"/>
@@ -7518,7 +7518,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.cpp" line="67"/>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Seleziona file</translation>
     </message>
 </context>
 <context>
@@ -7652,7 +7652,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_start.ui" line="17"/>
         <source>EAGLE Library Import</source>
-        <translation type="unfinished"/>
+        <translation>Importa libreria EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_start.ui" line="20"/>
@@ -8371,7 +8371,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="92"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>Esporta immagine</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="95"/>
@@ -9760,7 +9760,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="14"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>Ordina PCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="43"/>
