@@ -4,7 +4,7 @@
     <message>
         <location filename="../libs/librepcb/core/attribute/attributekey.h" line="55"/>
         <source>Invalid attribute key: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Chiave dell&apos;attributo non valida: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -58,7 +58,7 @@
     <message>
         <location filename="../libs/librepcb/core/types/circuitidentifier.h" line="60"/>
         <source>Invalid identifier: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Identificativo non valido:&apos; %1&apos;</translation>
     </message>
 </context>
 <context>
@@ -499,7 +499,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="141"/>
         <source>Go to the next found object</source>
-        <translation type="unfinished"/>
+        <translation>Vai al prossimo oggetto trovato</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="149"/>
@@ -589,7 +589,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="222"/>
         <source>Create a new element by duplicating this one</source>
-        <translation type="unfinished"/>
+        <translation>Crea nuovo elemento duplicando quello attuale</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="230"/>
@@ -629,7 +629,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="258"/>
         <source>View/modify the project settings</source>
-        <translation type="unfinished"/>
+        <translation>Visualizza/modifica le impostazioni del progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="266"/>
@@ -639,7 +639,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="267"/>
         <source>View/modify the project properties</source>
-        <translation type="unfinished"/>
+        <translation>Visualizza/modifica le proprietà del progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="275"/>
@@ -654,7 +654,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="284"/>
         <source>Grid Properties</source>
-        <translation type="unfinished"/>
+        <translation>Proprietà della griglia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="285"/>
@@ -674,7 +674,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="302"/>
         <source>Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Design Rules</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="303"/>
@@ -689,12 +689,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="312"/>
         <source>Run the design rule check (DRC)</source>
-        <translation type="unfinished"/>
+        <translation>Esegui il design rule check (DRC)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="320"/>
         <source>Update Project Library</source>
-        <translation type="unfinished"/>
+        <translation>Aggiorna la libreria di progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="321"/>
@@ -704,7 +704,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="330"/>
         <source>Schematic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Editor dello schema</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="331"/>
@@ -814,7 +814,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="459"/>
         <source>Import/Export</source>
-        <translation type="unfinished"/>
+        <translation>Importa/Esporta</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="462"/>
@@ -854,7 +854,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="490"/>
         <source>Export graphics as a pixmap</source>
-        <translation type="unfinished"/>
+        <translation>Importa grafica come pixmap</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="498"/>
@@ -864,7 +864,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="499"/>
         <source>Export graphics as a PDF</source>
-        <translation type="unfinished"/>
+        <translation>Esporta grafica come PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="507"/>
@@ -874,7 +874,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="508"/>
         <source>Send graphics to a printer</source>
-        <translation type="unfinished"/>
+        <translation>Invia grafica alla stampante</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="516"/>
@@ -884,17 +884,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="517"/>
         <source>Generate bill of materials (BOM) file</source>
-        <translation type="unfinished"/>
+        <translation>Genera il file della lista pezzi (BOM)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="525"/>
         <source>Generate Fabrication Data</source>
-        <translation type="unfinished"/>
+        <translation>Genera di dati di fabbricazione</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="526"/>
         <source>Generate Gerber/Excellon files for PCB fabrication</source>
-        <translation type="unfinished"/>
+        <translation>Genera i files Gerber/Excellon per la produzione del PCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="534"/>
@@ -974,7 +974,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="601"/>
         <source>Move Left</source>
-        <translation type="unfinished"/>
+        <translation>Sposta a sinistra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="602"/>
@@ -984,7 +984,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="610"/>
         <source>Move Right</source>
-        <translation type="unfinished"/>
+        <translation>Sposta a destra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="611"/>
@@ -10744,7 +10744,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.ui" line="14"/>
         <source>Schematic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Editor dello schematico</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="562"/>
