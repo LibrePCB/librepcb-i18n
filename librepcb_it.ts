@@ -1581,7 +1581,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1117"/>
         <source>Align Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Allinea in basso</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1118"/>
