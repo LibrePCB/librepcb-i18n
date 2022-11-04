@@ -4,7 +4,7 @@
     <message>
         <location filename="../libs/librepcb/core/attribute/attributekey.h" line="55"/>
         <source>Invalid attribute key: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>잘못된 속성 키: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -12,12 +12,12 @@
     <message>
         <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="75"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>알 수 없는 속성 단위 &quot;%1&quot;: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="122"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>잘못된 속성 유형: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -25,32 +25,32 @@
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="38"/>
         <source>LibrePCB Default Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB 기본 설계 규칙</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="136"/>
         <source>Invalid design rules: %1</source>
-        <translation type="unfinished"/>
+        <translation>잘못된 설계 규칙: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="154"/>
         <source>Stop mask clearance: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>스톱 마스크 간격 : MAX는 &gt;= MIN이어야 합니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="165"/>
         <source>Cream mask clearance: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>크림 마스크 간격: MAX는 &gt;= MIN이어야 합니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="176"/>
         <source>Restring pads: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>Restring pads: MAX는 &gt;= MIN이어야 합니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="187"/>
         <source>Restring vias: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>Restring vias: MAX는 &gt;= MIN이어야 합니다.</translation>
     </message>
 </context>
 <context>
@@ -58,7 +58,7 @@
     <message>
         <location filename="../libs/librepcb/core/types/circuitidentifier.h" line="60"/>
         <source>Invalid identifier: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>잘못된 식별자: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -68,27 +68,27 @@
         <location filename="../libs/librepcb/core/utils/clipperhelpers.cpp" line="58"/>
         <location filename="../libs/librepcb/core/utils/clipperhelpers.cpp" line="72"/>
         <source>Failed to unite paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>경로 결합 실패: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/utils/clipperhelpers.cpp" line="90"/>
         <source>Failed to intersect paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>경로 교차 실패: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/utils/clipperhelpers.cpp" line="104"/>
         <source>Failed to subtract paths: %1</source>
-        <translation type="unfinished"/>
+        <translation>경로 빼기 실패: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/utils/clipperhelpers.cpp" line="116"/>
         <source>Failed to offset a path: %1</source>
-        <translation type="unfinished"/>
+        <translation>경로 간격띄우기 실패: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/utils/clipperhelpers.cpp" line="290"/>
         <source>Failed to calculate the connection point of a cut-in to an outline!</source>
-        <translation type="unfinished"/>
+        <translation>컷인과 아웃라인의 연결점 계산 실패!</translation>
     </message>
 </context>
 <context>
@@ -119,27 +119,27 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="79"/>
         <source>Open a project to execute project-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 관련 작업을 실행할 프로젝트를 엽니다.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="80"/>
         <source>open-project [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 열기 [command_options]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="82"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>라이브러리 관련 작업을 실행하기 위해 라이브러리 열기.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="83"/>
         <source>open-library [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>라이브러리 열기 [command_options]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="88"/>
         <source>LibrePCB Command Line Interface</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB 명령줄 인터페이스</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="91"/>
@@ -149,17 +149,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
         <source>Verbose output.</source>
-        <translation type="unfinished"/>
+        <translation>자세한 출력.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="103"/>
         <source>Run the electrical rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>전기 규칙 검사를 실행하고 승인되지 않은 모든 경고/오류를 인쇄하고 승인되지 않은 메시지가 있는 경우 실패(종료 코드 = 1)를 보고합니다.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="108"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>주어진 파일로 회로도를 내보냅니다. 기존 파일을 덮어씁니다. 지원되는 파일 확장자: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="111"/>
@@ -169,17 +169,17 @@
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="153"/>
         <source>file</source>
-        <translation type="unfinished"/>
+        <translation>파일</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="114"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>일반 BOM을 지정된 파일로 내보냅니다. 기존 파일을 덮어씁니다. 지원되는 파일 확장자: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="120"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>보드사양별 BOM을 지정된 파일로 내보냅니다. 기존 파일을 덮어씁니다. 지원되는 파일 확장자: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="126"/>
