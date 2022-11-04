@@ -184,37 +184,38 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="126"/>
         <source>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>BOM으로 내보낼 쉼표로 구분된 추가 속성의 목록입니다. 예: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="129"/>
         <source>attributes</source>
-        <translation type="unfinished"/>
+        <translation>속성</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="132"/>
         <source>Export PCB fabrication data (Gerber/Excellon) according the fabrication output settings of boards. Existing files will be overwritten.</source>
-        <translation type="unfinished"/>
+        <translation>기판의 제작 출력 설정에 따라 PCB 제작 데이터(Gerber/Excellon) 내보내기.
+기존 파일을 덮어씁니다.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="137"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>사용자 지정 설정이 포함된 *.lp 파일을 제공하여 PCB 제작 출력 설정을 재정의합니다. 설정하지 않으면 보드의 설정이 대신 사용됩니다.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="143"/>
         <source>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>상단 보드 측면의 자동화된 조립을 위해 pick&amp;place 파일을 내보냅니다. 기존 파일을 덮어씁니다. 지원되는 파일 확장자: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
         <source>Export pick&amp;place file for automated assembly of the bottom board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>하단 보드 측면의 자동화된 조립을 위해 pick&amp;place 파일을 내보냅니다. 기존 파일을 덮어씁니다. 지원되는 파일 확장자: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="155"/>
         <source>The name of the board(s) to export. Can be given multiple times. If not set, all boards are exported.</source>
-        <translation type="unfinished"/>
+        <translation>내보낼 보드의 이름입니다. 여러 번 주어질 수 있습니다. 설정하지 않으면 모든 보드를 내보냅니다.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="158"/>
@@ -224,7 +225,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="160"/>
         <source>Same as &apos;%1&apos;, but allows to specify boards by index instead of by name.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos;과(와) 동일하지만 이름 대신 인덱스로 보드를 지정할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="163"/>
@@ -234,37 +235,37 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="166"/>
         <source>Remove all boards not specified with &apos;%1&apos; from the project before executing all the other actions. If &apos;%1&apos; is not passed, all boards will be removed. Pass &apos;%2&apos; to save the modified project to disk.</source>
-        <translation type="unfinished"/>
+        <translation>다른 모든 작업을 실행하기 전에 프로젝트에서 &apos;%1&apos;으로 지정되지 않은 모든 보드를 제거하십시오. &apos;%1&apos;이(가) 통과되지 않으면 모든 보드가 제거됩니다. 수정된 프로젝트를 디스크에 저장하려면 &apos;%2&apos;을(를) 전달하십시오.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="173"/>
         <source>Save project before closing it (useful to upgrade file format).</source>
-        <translation type="unfinished"/>
+        <translation>닫기 전에 프로젝트를 저장하십시오(파일 형식을 업그레이드하는 데 유용).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="176"/>
         <source>Fail if the project files are not strictly canonical, i.e. there would be changes when saving the project. Note that this option is not available for *.lppz files.</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 파일이 엄격한 표준이 아닌 경우 실패합니다. 즉, 프로젝트를 저장할 때 변경 사항이 있을 수 있습니다. *.lppz 파일에는 이 옵션을 사용할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="183"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
-        <translation type="unfinished"/>
+        <translation>열려 있는 라이브러리에 포함된 모든 요소에 대해 선택한 작업을 수행합니다.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="187"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
-        <translation type="unfinished"/>
+        <translation>라이브러리를 닫기 전에 라이브러리를 저장하십시오 (포함 된 요소에 &apos;-all&apos;이 주어지면) (파일 형식을 업그레이드하는 데 유용합니다).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="191"/>
         <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
-        <translation type="unfinished"/>
+        <translation>열린 파일이 엄격하게 표준이 아닌 경우 실패, 즉 라이브러리 요소를 저장할 때 변경 사항이 있을 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="201"/>
         <source>List command-specific options:</source>
-        <translation type="unfinished"/>
+        <translation>명령별 옵션 목록:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="204"/>
@@ -274,42 +275,42 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="238"/>
         <source>Path to library directory (*.lplib).</source>
-        <translation type="unfinished"/>
+        <translation>라이브러리 디렉토리 경로(*.lplib).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="244"/>
         <source>Unknown command &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>알 수 없는 명령 &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="197"/>
         <source>Commands:</source>
-        <translation type="unfinished"/>
+        <translation>명령:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="293"/>
         <source>Missing arguments:</source>
-        <translation type="unfinished"/>
+        <translation>누락된 인수:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="299"/>
         <source>Unknown arguments:</source>
-        <translation type="unfinished"/>
+        <translation>알 수 없는 인수:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="838"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
-        <translation type="unfinished"/>
+        <translation>비표준 파일에 대해 &apos;%1&apos; 확인...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="855"/>
         <source>Save &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>저장 &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="884"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
-        <translation type="unfinished"/>
+        <translation>이 애플리케이션 버전은 불안정합니다! 프로젝트 또는 라이브러리 중단을 방지하기 위해 &apos;%1&apos; 옵션을 사용할 수 없습니다. 대신 안정 버전을 사용하십시오.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="279"/>
@@ -319,12 +320,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="97"/>
         <source>The command to execute (see list below).</source>
-        <translation type="unfinished"/>
+        <translation>실행 명령어 (아래 목록 참조).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="218"/>
         <source>Path to project file (*.lpp[z]).</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 파일 경로(*.lpp[z]).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="280"/>
@@ -359,7 +360,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="335"/>
         <source>SUCCESS</source>
-        <translation type="unfinished"/>
+        <translation>성공</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="338"/>
@@ -372,7 +373,7 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentprefix.h" line="50"/>
         <source>Invalid component prefix: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>잘못된 컴포넌트 접두사: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -380,7 +381,7 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentsymbolvariantitemsuffix.h" line="57"/>
         <source>Invalid component symbol suffix: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>잘못된 컴포넌트 기호 접미사: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -399,7 +400,7 @@
     <message>
         <location filename="../libs/librepcb/core/fileio/directorylock.cpp" line="170"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
-        <translation type="unfinished"/>
+        <translation>디렉터리 &quot;%1&quot;은(는) 이미 &quot;%2&quot;에 의해 잠겨 있기 때문에 잠글 수 없습니다. 이 디렉토리에 액세스하는 모든 응용 프로그램을 닫고 다시 시도하십시오.</translation>
     </message>
 </context>
 <context>
@@ -407,12 +408,12 @@
     <message>
         <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="188"/>
         <source>File does not exist or is not readable.</source>
-        <translation type="unfinished"/>
+        <translation>파일이 존재하지 않거나 읽을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="194"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>DXF 파일 &quot;%1&quot; 읽기 실패: %2</translation>
     </message>
 </context>
 <context>
@@ -420,7 +421,7 @@
     <message>
         <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="226"/>
         <source>Layer %1 is not supported.</source>
-        <translation type="unfinished"/>
+        <translation>레이어 %1은(는) 지원되지 않습니다.</translation>
     </message>
 </context>
 <context>
