@@ -330,7 +330,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="280"/>
         <source>File Format %1</source>
-        <translation type="unfinished"/>
+        <translation>파일 형식 %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
@@ -390,12 +390,12 @@
         <location filename="../libs/librepcb/core/fileio/directorylock.cpp" line="79"/>
         <location filename="../libs/librepcb/core/fileio/directorylock.cpp" line="191"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; 디렉토리가 존재하지 않습니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/directorylock.cpp" line="97"/>
         <source>The lock file &quot;%1&quot; has too few lines.</source>
-        <translation type="unfinished"/>
+        <translation>%1 잠금 파일에 줄이 너무 적습니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/directorylock.cpp" line="170"/>
@@ -519,7 +519,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="159"/>
         <source>Open the directory in the file manager</source>
-        <translation type="unfinished"/>
+        <translation>파일 관리자에서 디렉토리 열기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="167"/>
@@ -529,7 +529,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="168"/>
         <source>Bring the control panel window to front</source>
-        <translation type="unfinished"/>
+        <translation>컨트롤 패널 창을 앞으로 가져옵니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="176"/>
@@ -554,32 +554,32 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="194"/>
         <source>Rescan Libraries</source>
-        <translation type="unfinished"/>
+        <translation>라이브러리 재검색</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="195"/>
         <source>Scan all workspace libraries to update the cache</source>
-        <translation type="unfinished"/>
+        <translation>모든 작업 공간 라이브러리를 스캔하여 캐시 업데이트</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="203"/>
         <source>Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>라이브러리 관리자</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="204"/>
         <source>Open the library manager window</source>
-        <translation type="unfinished"/>
+        <translation>라이브러리 관리자 창 열기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="212"/>
         <source>New Library Element</source>
-        <translation type="unfinished"/>
+        <translation>새 라이브러리 요소</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="213"/>
         <source>Create a new library element</source>
-        <translation type="unfinished"/>
+        <translation>새 라이브러리 요소 만들기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="221"/>
@@ -589,57 +589,57 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="222"/>
         <source>Create a new element by duplicating this one</source>
-        <translation type="unfinished"/>
+        <translation>이 요소를 복제하여 새 요소를 만듭니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="230"/>
         <source>New Project</source>
-        <translation type="unfinished"/>
+        <translation>새 프로젝트</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="231"/>
         <source>Create a new project</source>
-        <translation type="unfinished"/>
+        <translation>새 프로젝트 만들기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="239"/>
         <source>Open Project</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 열기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="240"/>
         <source>Open an existing project</source>
-        <translation type="unfinished"/>
+        <translation>기존 프로젝트 열기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="248"/>
         <source>Save Project</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 저장</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="249"/>
         <source>Save the currently opened project</source>
-        <translation type="unfinished"/>
+        <translation>현재 열려 있는 프로젝트 저장</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="257"/>
         <source>Project Settings</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 설정</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="258"/>
         <source>View/modify the project settings</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 설정 보기/수정</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="266"/>
         <source>Project Properties</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 속성</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="267"/>
         <source>View/modify the project properties</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 속성 보기/수정</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="275"/>
@@ -649,7 +649,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="276"/>
         <source>View/modify the net classes</source>
-        <translation type="unfinished"/>
+        <translation>Net Classes 보기/수정</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="284"/>
@@ -659,7 +659,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="285"/>
         <source>View/modify the grid properties</source>
-        <translation type="unfinished"/>
+        <translation>Grid Properties 보기/수정</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="293"/>
@@ -669,7 +669,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="294"/>
         <source>View/modify the board layer stack setup</source>
-        <translation type="unfinished"/>
+        <translation>Board Layer Stack setup 보기/수정</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="302"/>
@@ -679,7 +679,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="303"/>
         <source>View/modify the board design rules</source>
-        <translation type="unfinished"/>
+        <translation>Board Design Rules 보기/수정</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="311"/>
@@ -699,7 +699,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="321"/>
         <source>Update the project&apos;s library elements from workspace libraries</source>
-        <translation type="unfinished"/>
+        <translation>워크스페이스 라이브러리에서 프로젝트의 라이브러리 요소 업데이트</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="330"/>
@@ -779,7 +779,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="394"/>
         <source>Remove the current board from the project</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트에서 현재 보드 제거</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="402"/>
@@ -1140,7 +1140,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="442"/>
         <source>Change the measurement unit of the text input</source>
-        <translation type="unfinished"/>
+        <translation>텍스트 입력의 측정 단위 변경</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="451"/>
@@ -1160,22 +1160,22 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="741"/>
         <source>Zoom to Fit Contents</source>
-        <translation type="unfinished"/>
+        <translation>내용에 맞게 확대</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="742"/>
         <source>Set the zoom level to fit the whole content</source>
-        <translation type="unfinished"/>
+        <translation>전체 콘텐츠에 맞게 확대/축소 수준 설정</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="750"/>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>확대</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="751"/>
         <source>Increase the zoom level</source>
-        <translation type="unfinished"/>
+        <translation>확대/축소 레벨 증가</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="759"/>
@@ -1185,27 +1185,27 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="760"/>
         <source>Decrease the zoom level</source>
-        <translation type="unfinished"/>
+        <translation>확대/축소 레벨 낮추기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="768"/>
         <source>Increase Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>그리드 간격 늘리기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="769"/>
         <source>Increase the grid interval</source>
-        <translation type="unfinished"/>
+        <translation>그리드 간격 늘리기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="777"/>
         <source>Decrease Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>그리드 간격 줄이기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="778"/>
         <source>Decrease the grid interval</source>
-        <translation type="unfinished"/>
+        <translation>그리드 간격 줄이기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="785"/>
@@ -1350,7 +1350,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="907"/>
         <source>Draw wires to create electrical connections between symbol pins</source>
-        <translation type="unfinished"/>
+        <translation>심볼 핀 사이에 전기 연결을 만들기 위해 와이어를 그립니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="916"/>
@@ -1360,7 +1360,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="917"/>
         <source>Add net labels to explicitly specify the net of wires</source>
-        <translation type="unfinished"/>
+        <translation>네트 레이블을 추가하여 와이어 네트를 명시적으로 지정</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="925"/>
@@ -1380,7 +1380,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="935"/>
         <source>Draw copper traces to interconnect devices</source>
-        <translation type="unfinished"/>
+        <translation>장치를 상호 연결할 구리 트레이스 그리기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="943"/>
@@ -1400,17 +1400,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="953"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
-        <translation type="unfinished"/>
+        <translation>패드와 비아를 상호 연결하는 자동 충전 구리 영역 그리기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="961"/>
         <source>Measure Distance</source>
-        <translation type="unfinished"/>
+        <translation>거리 측정</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="962"/>
         <source>Measure the distance between two points</source>
-        <translation type="unfinished"/>
+        <translation>두 점 사이의 거리 측정</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="970"/>
@@ -1606,22 +1606,22 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1144"/>
         <source>Horizontal - Vertical</source>
-        <translation type="unfinished"/>
+        <translation>수평 - 수직</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1145"/>
         <source>Wire mode: First segment horizontal, second segment vertical</source>
-        <translation type="unfinished"/>
+        <translation>Wire mode: 첫 번째 세그먼트 수평, 두 번째 세그먼트 수직</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1154"/>
         <source>Vertical - Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>수직 - 수평</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1155"/>
         <source>Wire mode: First segment vertical, second segment horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Wire mode: 첫 번째 세그먼트 수직, 두 번째 세그먼트 수평</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1164"/>
@@ -1651,7 +1651,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1183"/>
         <source>Wire mode: Straight line</source>
-        <translation type="unfinished"/>
+        <translation>Wire mode: 직선</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1191"/>
@@ -2087,7 +2087,7 @@
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="101"/>
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="170"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; 디렉토리가 존재하지 않습니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="123"/>
@@ -2298,7 +2298,9 @@
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
-        <translation type="unfinished"/>
+        <translation>모든 패키지 패드는 고유한 이름을 가져야 합니다. 그렇지 않으면 나중에 장치 편집기에서 구분할 수 없습니다. 부품에 동일한 기능을 가진 여러 개의 리드(예: 여러 개의 GND 리드)가 있는 경우 나중에 장치 편집기에서 이 모든 패드를 동일한 구성 요소 신호에 할당할 수 있습니다.
+
+중립 패키지(예: SOT23)의 경우 패드의 이름은 기능성이 아닌 숫자로만 지정해야 합니다(예: &apos;D&apos;, &apos;G&apos;, &apos;S&apos; 대신 &apos;1&apos;, &apos;2&apos;, &apos;3&apos;).</translation>
     </message>
 </context>
 <context>
@@ -2311,7 +2313,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgduplicatepinname.cpp" line="39"/>
         <source>All symbol pins must have unique names, otherwise they cannot be distinguished later in the component editor. If your part has several pins with same functionality (e.g. multiple GND pins), you should add only one of these pins to the symbol. The assignment to multiple leads should be done in the device editor instead.</source>
-        <translation type="unfinished"/>
+        <translation>모든 기호 핀은 고유한 이름을 가져야 합니다. 그렇지 않으면 나중에 구성 요소 편집기에서 구분할 수 없습니다. 부품에 동일한 기능을 가진 핀이 여러 개 있는 경우(예: 여러 GND 핀) 이러한 핀 중 하나만 기호에 추가해야 합니다. 대신 장치 편집기에서 여러 리드에 할당해야 합니다.</translation>
     </message>
 </context>
 <context>
@@ -2324,7 +2326,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/cmp/msg/msgduplicatesignalname.cpp" line="41"/>
         <source>All component signals must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several pins which are electrically exactly equal (e.g. multiple GND pins), you should add only one of these pins as a component signal. The assignment to multiple pins should be done in the device editor instead.</source>
-        <translation type="unfinished"/>
+        <translation>모든 구성 요소 신호는 고유한 이름을 가져야 하며, 그렇지 않으면 나중에 장치 편집기에서 구분할 수 없습니다. 부품에 전기적으로 정확히 동일한 핀이 여러 개 있는 경우(예: 여러 GND 핀) 이러한 핀 중 하나만 구성 요소 신호로 추가해야 합니다. 대신 장치 편집기에서 여러 핀을 할당해야 합니다.</translation>
     </message>
 </context>
 <context>
@@ -2332,12 +2334,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/msg/msgmissingauthor.cpp" line="36"/>
         <source>Author not set</source>
-        <translation type="unfinished"/>
+        <translation>작성자가 설정되지 않음</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/msg/msgmissingauthor.cpp" line="37"/>
         <source>It is recommended to set an author (e.g. full name or nickname), although it&apos;s not required.</source>
-        <translation type="unfinished"/>
+        <translation>필수는 아니지만 작성자(예: 전체 이름 또는 닉네임)를 설정하는 것이 좋습니다.</translation>
     </message>
 </context>
 <context>
@@ -2350,7 +2352,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/msg/msgmissingcategories.cpp" line="37"/>
         <source>It&apos;s very important to assign every library element to at least one category. Otherwise it will be very hard to find the element in the workspace library, so it&apos;s highly recommended to fix this.</source>
-        <translation type="unfinished"/>
+        <translation>모든 라이브러리 요소를 하나 이상의 카테고리에 할당하는 것이 매우 중요합니다. 그렇지 않으면 작업 영역 라이브러리에서 요소를 찾기 매우 어렵기 때문에 이 문제를 해결하는 것이 좋습니다.</translation>
     </message>
 </context>
 <context>
@@ -2367,7 +2369,11 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
 Generic parts (e.g. a diode): %1
 Specific parts (e.g. a microcontroller): %2
 Passive parts: Using an attribute, e.g. %3</source>
-        <translation type="unfinished"/>
+        <translation>대부분의 구성 요소에는 기본값 집합이 있어야 합니다. 구성 요소를 도식에 추가할 때 기본값은 구성 요소의 값이 됩니다. 또한 도식 뒷부분에서 대체되는 자리 표시자를 포함할 수 있습니다. 일반적으로 사용되는 기본값은 다음과 같습니다.
+
+일반 부품(예: 다이오드): %1
+특정 부품(예: 마이크로 컨트롤러): %2
+패시브 부품: 특성 사용(예: %3)</translation>
     </message>
 </context>
 <context>
@@ -2380,7 +2386,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/msg/msgmissingcomponentprefix.cpp" line="37"/>
         <source>Most components should have a prefix defined. The prefix is used to generate the component&apos;s name when adding it to a schematic. For example the prefix &apos;R&apos; (resistor) leads to component names &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos; etc.</source>
-        <translation type="unfinished"/>
+        <translation>대부분의 구성 요소에는 접두사가 정의되어 있어야 합니다. 접두사는 구성 요소를 도식에 추가할 때 구성 요소의 이름을 생성하는 데 사용됩니다. 예를 들어 접두사 &apos;R&apos;(저항)은 구성 요소 이름 &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos; 등으로 이어집니다.</translation>
     </message>
 </context>
 <context>
@@ -2393,7 +2399,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgmissingfootprint.cpp" line="37"/>
         <source>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</source>
-        <translation type="unfinished"/>
+        <translation>모든 패키지에는 최소 하나의 풋프린트가 있어야 합니다. 그렇지 않으면 보드에 추가할 수 없습니다.</translation>
     </message>
 </context>
 <context>
@@ -2406,7 +2412,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgmissingfootprintname.cpp" line="42"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>대부분의 풋프린트에는 구성 요소 이름에 대한 텍스트 요소가 있어야 합니다. 그렇지 않으면 PCB에 해당 이름이 표시되지 않습니다(예: 실크 스크린). 이 메시지를 무시할 수 있는 경우 이름이 필요 없는 예외(예: 풋프린트가 그림일 경우)는 몇 가지뿐입니다.</translation>
     </message>
 </context>
 <context>
@@ -2419,7 +2425,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgmissingfootprintvalue.cpp" line="42"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>대부분의 풋프린트에는 구성 요소 값에 대한 텍스트 요소가 있어야 합니다. 그렇지 않으면 PCB에서 해당 값을 볼 수 없습니다(예: 실크 스크린). 이 메시지를 무시할 수 있는 예외에는 값이 필요하지 않은 몇 가지 예외(예: 풋프린트가 그림일 경우)만 있습니다.</translation>
     </message>
 </context>
 <context>
@@ -2432,7 +2438,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgmissingsymbolname.cpp" line="37"/>
         <source>Most symbols should have a text element for the component&apos;s name, otherwise you won&apos;t see that name in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a name, for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>대부분의 기호에는 구성 요소 이름에 대한 텍스트 요소가 있어야 합니다. 그렇지 않으면 해당 이름이 스키마에 표시되지 않습니다. 이 메시지를 무시할 수 있는 몇 가지 예외(예: 도식 프레임)는 이름이 필요하지 않습니다.</translation>
     </message>
 </context>
 <context>
@@ -2445,7 +2451,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgmissingsymbolvalue.cpp" line="37"/>
         <source>Most symbols should have a text element for the component&apos;s value, otherwise you won&apos;t see that value in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a value, for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>대부분의 기호에는 성분 값에 대한 텍스트 요소가 있어야 합니다. 그렇지 않으면 해당 값이 스키마에 표시되지 않습니다. 이 메시지를 무시할 수 있는 몇 가지 예외(예: 도식 프레임)는 값이 필요하지 않습니다.</translation>
     </message>
 </context>
 <context>
@@ -2484,7 +2490,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/msg/msgnamenottitlecase.cpp" line="37"/>
         <source>Generally the library element name should be written in title case (for consistency). As the current name has words starting with a lowercase character, it seems that it is not title cases. If this assumption is wrong, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>일반적으로 라이브러리 요소 이름은 (일관성을 위해) 제목 대문자로 작성해야 합니다. 현재 이름에 소문자로 시작하는 단어가 있기 때문에 제목 대문자가 아닌 것 같습니다. 만약 이 가정이 틀렸다면, 이 메시지를 무시하세요.</translation>
     </message>
 </context>
 <context>
@@ -2501,7 +2507,11 @@ Passive parts: Using an attribute, e.g. %3</source>
 To fix this issue, connect the package pads to their corresponding component signals in the table widget.
 
 If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
-        <translation type="unfinished"/>
+        <translation>선택한 패키지에 패드가 포함되어 있지만 구성 요소 신호에 연결된 패드는 없습니다. 따라서 이러한 패드에는 전기적 기능이 없으며 장치를 PCB에 추가할 때 트레이스를 연결할 수 없습니다.
+
+이 문제를 해결하려면 패키지 패드를 테이블 위젯의 해당 구성 요소 신호에 연결하십시오.
+
+모든 패드가 기계적 용도로만 사용되어 구성 요소 신호에 연결할 필요가 없는 경우 이 메시지를 무시할 수 있습니다.</translation>
     </message>
 </context>
 <context>
@@ -2509,7 +2519,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgoverlappingsymbolpins.cpp" line="42"/>
         <source>There are multiple pins at the same position. This is not allowed because you cannot connect wires to these pins in the schematic editor.</source>
-        <translation type="unfinished"/>
+        <translation>동일한 위치에 여러 개의 핀이 있습니다. 도식 편집기에서 이러한 핀에 와이어를 연결할 수 없으므로 허용되지 않습니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgoverlappingsymbolpins.cpp" line="62"/>
@@ -2527,7 +2537,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgpadclearanceviolation.cpp" line="46"/>
         <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
-        <translation type="unfinished"/>
+        <translation>패드의 간격은 %1 이상이어야 합니다. 어떤 상황에서는 더 작은 간격을 사용해야 할 수도 있지만 모든 PCB 제조업체가 그러한 작은 간격을 안정적으로 생산할 수 있는 것은 아니기 때문에 일반적으로 이러한 일은 피해야 한다.</translation>
     </message>
 </context>
 <context>
@@ -2540,7 +2550,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgpadoverlapswithplacement.cpp" line="44"/>
         <source>Pads should have at least %1 clearance to the outlines layer because outlines are drawn on silkscreen which will be cropped for Gerber export.</source>
-        <translation type="unfinished"/>
+        <translation>거버 내보내기를 위해 잘라질 실크 스크린에 윤곽선이 그려지므로 패드는 윤곽선 레이어에 %1 이상의 간격을 두어야 합니다.</translation>
     </message>
 </context>
 <context>
@@ -2553,7 +2563,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgsymbolpinnotongrid.cpp" line="43"/>
         <source>Every pin must be placed exactly on the %1mm grid, otherwise it cannot be connected in the schematic editor.</source>
-        <translation type="unfinished"/>
+        <translation>모든 핀은 %1mm 그리드에 정확히 배치해야 합니다. 그렇지 않으면 스키마 편집기에서 연결할 수 없습니다.</translation>
     </message>
 </context>
 <context>
@@ -2834,7 +2844,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <location filename="../libs/librepcb/core/network/orderpcbapirequest.cpp" line="85"/>
         <source>The project is too large (%1). If you manually added files to the project directory, you might need to move them out of the project directory.</source>
         <comment>Placeholder is the file size.</comment>
-        <translation type="unfinished"/>
+        <translation>프로젝트가 너무 큽니다(% 1). 수동으로 파일을 프로젝트 디렉터리에 추가한 경우 파일을 프로젝트 디렉터리 밖으로 이동해야 할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_netsegment.cpp" line="183"/>
@@ -3530,7 +3540,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="108"/>
         <source>The library element %1 was created with a newer application version. You need at least LibrePCB version %2 to open it.</source>
-        <translation type="unfinished"/>
+        <translation>%1 라이브러리 요소가 새 응용 프로그램 버전으로 생성되었습니다. 파일을 열려면 LibrePCB 버전 %2 이상이 필요합니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="143"/>
@@ -6981,18 +6991,18 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="115"/>
         <source>New Project</source>
-        <translation type="unfinished"/>
+        <translation>새 프로젝트</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="132"/>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="440"/>
         <source>Open Project</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 열기</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="149"/>
         <source>Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>라이브러리 관리자</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="201"/>
@@ -9242,7 +9252,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizard.ui" line="17"/>
         <source>New Library Element</source>
-        <translation type="unfinished"/>
+        <translation>새 라이브러리 요소</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizard.cpp" line="100"/>
@@ -10521,7 +10531,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/projectpropertieseditordialog.ui" line="14"/>
         <source>Project Properties</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 속성</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectpropertieseditordialog.ui" line="20"/>
@@ -10569,7 +10579,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/projectsettingsdialog.ui" line="17"/>
         <source>Project Settings</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 설정</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsettingsdialog.ui" line="33"/>
