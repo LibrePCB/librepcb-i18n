@@ -3678,7 +3678,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/network/orderpcbapirequest.cpp" line="138"/>
         <source>This service is currently not available. Please try again later or order the PCB manually either with the Gerber export or the *.lppz export.</source>
-        <translation type="unfinished"/>
+        <translation>이 서비스는 현재 사용할 수 없습니다. 나중에 다시 시도하거나 Gerber 내보내기 또는 *.lppz 내보내기를 사용하여 PCB를 수동으로 주문하십시오.</translation>
     </message>
 </context>
 <context>
@@ -3977,7 +3977,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="691"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
-        <translation type="unfinished"/>
+        <translation>참고: 파일을 여러 번 쓰는 것을 방지하려면 고유한 파일 경로를 모든 내보내기 기능에 전달해야 합니다. 보드 출력 파일의 경우 경로에 자리 표시자 &apos;%1&apos;을 추가하거나 &apos;%2&apos; 인수로 내보낼 보드를 지정할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="702"/>
@@ -4199,7 +4199,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="276"/>
         <source>Speak about LibrePCB with your friends and colleagues, or write about it in the internet! Write a blogpost, or create a video tutorial. We&apos;re happy if more people can get to know LibrePCB.</source>
-        <translation type="unfinished"/>
+        <translation>친구들과 동료들과 LibrePCB에 대해 이야기하거나 인터넷에 글을 써보세요! 블로그 게시물을 작성하거나 비디오 튜토리얼을 만듭니다. 우리는 더 많은 사람들이 LibrePCB에 대해 알 수 있다면 행복합니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="302"/>
@@ -4252,7 +4252,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.ui" line="180"/>
         <source>If checked, this dialog will automatically be opened again after finishing placement of the current component.</source>
-        <translation type="unfinished"/>
+        <translation>이 옵션을 선택하면 현재 구성 요소의 배치를 완료한 후 이 대화 상자가 자동으로 다시 열립니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="229"/>
@@ -4567,7 +4567,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="39"/>
         <source>Note: These values are not (yet) stored permanently in the project files, so they will be reset when closing the project.</source>
-        <translation type="unfinished"/>
+        <translation>참고: 이러한 값은 프로젝트 파일에 영구적으로 저장되지 않으므로 프로젝트를 닫을 때 재설정됩니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="52"/>
@@ -4976,7 +4976,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="81"/>
         <source>Your circuit doesn&apos;t contain any net, please add one in the schematic editor first.</source>
-        <translation type="unfinished"/>
+        <translation>회로에 네트가 없습니다. 먼저 도식 편집기에 네트를 추가하십시오.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="89"/>
@@ -5131,7 +5131,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1385"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
-        <translation type="unfinished"/>
+        <translation>경고: %1개의 추적 세그먼트가 선택되었지만 일부 추적 세그먼트가 연결되어 있지는 않습니다!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1412"/>
@@ -5154,7 +5154,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardlayerstacksetupdialog.ui" line="52"/>
         <source>Disabling some inner copper layers just hides them, even if there are traces located on them. As we cannot yet avoid that situation, you need to be careful when reducing the number of inner copper layers.</source>
-        <translation type="unfinished"/>
+        <translation>일부 내부 구리 레이어를 비활성화하면 트레이스가 있더라도 구리 레이어를 숨깁니다. 우리는 아직 그 상황을 피할 수 없기 때문에, 당신은 내부 구리층의 수를 줄일 때 주의할 필요가 있습니다.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardlayerstacksetupdialog.cpp" line="94"/>
