@@ -334,12 +334,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
         <source>(stable)</source>
-        <translation type="unfinished"/>
+        <translation>(穩定的)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
         <source>(unstable)</source>
-        <translation type="unfinished"/>
+        <translation>(不穩定的)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
@@ -438,7 +438,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="87"/>
         <source>Add a new item</source>
-        <translation type="unfinished"/>
+        <translation>新增一個項目</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="95"/>
@@ -448,27 +448,27 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="96"/>
         <source>Open the selected item(s)</source>
-        <translation type="unfinished"/>
+        <translation>開啟選取的項目</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="104"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>儲存</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="105"/>
         <source>Save changes to filesystem</source>
-        <translation type="unfinished"/>
+        <translation>儲存所有變更至檔案系統</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="113"/>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>全部儲存</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="114"/>
         <source>Save all elements to filesystem</source>
-        <translation type="unfinished"/>
+        <translation>儲存所有元素至檔案系統</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="122"/>
@@ -478,12 +478,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="123"/>
         <source>Select all visible objects</source>
-        <translation type="unfinished"/>
+        <translation>選取所有可視範圍中的物件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="131"/>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>尋找</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="132"/>
@@ -493,37 +493,37 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="140"/>
         <source>Find Next</source>
-        <translation type="unfinished"/>
+        <translation>尋找下一個</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="141"/>
         <source>Go to the next found object</source>
-        <translation type="unfinished"/>
+        <translation>前往下一個目標</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="149"/>
         <source>Find Previous</source>
-        <translation type="unfinished"/>
+        <translation>尋找前一個</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="150"/>
         <source>Go to the previous found object</source>
-        <translation type="unfinished"/>
+        <translation>前往上一個目標</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="158"/>
         <source>Show in File Manager</source>
-        <translation type="unfinished"/>
+        <translation>在檔案管理員中顯示</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="159"/>
         <source>Open the directory in the file manager</source>
-        <translation type="unfinished"/>
+        <translation>在檔案管理員中開啟此目錄</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="167"/>
         <source>Control Panel</source>
-        <translation type="unfinished"/>
+        <translation>控制台</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="168"/>
@@ -613,12 +613,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="248"/>
         <source>Save Project</source>
-        <translation type="unfinished"/>
+        <translation>儲存專案</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="249"/>
         <source>Save the currently opened project</source>
-        <translation type="unfinished"/>
+        <translation>儲存目前已開啟的專案</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="257"/>
@@ -718,7 +718,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="340"/>
         <source>Add a new schematic sheet to the project</source>
-        <translation>新增一張線路圖稿紙到專案中</translation>
+        <translation>新增一頁線路圖稿到專案中</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="348"/>
@@ -728,7 +728,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="349"/>
         <source>Rename the current schematic sheet</source>
-        <translation>重新命名目前的線路圖稿紙</translation>
+        <translation>重新命名目前的線路圖稿</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="357"/>
@@ -738,7 +738,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="358"/>
         <source>Remove the current schematic sheet from the project</source>
-        <translation type="unfinished"/>
+        <translation>將目前的線路圖稿從專案中移除</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="366"/>
@@ -753,12 +753,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="375"/>
         <source>New Board</source>
-        <translation type="unfinished"/>
+        <translation>新增電路板</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="376"/>
         <source>Add a new board to the project</source>
-        <translation type="unfinished"/>
+        <translation>新增一塊電路板到專案中</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="384"/>
@@ -818,17 +818,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="462"/>
         <source>Import DXF</source>
-        <translation type="unfinished"/>
+        <translation>匯入 DXF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="463"/>
         <source>Import a 2D mechanical drawing</source>
-        <translation type="unfinished"/>
+        <translation>匯入一個 2D 工程製圖</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="471"/>
         <source>Import EAGLE Library</source>
-        <translation type="unfinished"/>
+        <translation>匯入 Eagle Library</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="472"/>
@@ -838,7 +838,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="480"/>
         <source>Export *.lppz Archive</source>
-        <translation type="unfinished"/>
+        <translation>匯出 *.lppz 封裝檔</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="481"/>
@@ -848,27 +848,27 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="489"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>匯出圖片</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="490"/>
         <source>Export graphics as a pixmap</source>
-        <translation type="unfinished"/>
+        <translation>輸出影像成 pixmap 格式</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="498"/>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>輸出 PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="499"/>
         <source>Export graphics as a PDF</source>
-        <translation type="unfinished"/>
+        <translation>輸出影像成 PDF 格式</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="507"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>列印</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="508"/>
@@ -878,12 +878,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="516"/>
         <source>Generate Bill Of Materials</source>
-        <translation type="unfinished"/>
+        <translation>產生物料清單 (BOM)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="517"/>
         <source>Generate bill of materials (BOM) file</source>
-        <translation type="unfinished"/>
+        <translation>產生物料清單 (BOM)檔</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="525"/>
@@ -918,7 +918,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="551"/>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>修改</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="555"/>
@@ -928,7 +928,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="556"/>
         <source>Revert the last modification</source>
-        <translation type="unfinished"/>
+        <translation>復原上一個編輯</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="564"/>
@@ -948,7 +948,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="575"/>
         <source>Cut the selected object(s) to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>剪下選取的物件至剪貼簿</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="583"/>
@@ -958,112 +958,112 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="584"/>
         <source>Copy the selected object(s) to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>複製選取的物件至剪貼簿</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="592"/>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>貼上</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="593"/>
         <source>Paste object(s) from the clipboard</source>
-        <translation type="unfinished"/>
+        <translation>貼上選取的物件至剪貼簿</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="601"/>
         <source>Move Left</source>
-        <translation type="unfinished"/>
+        <translation>向左移動</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="602"/>
         <source>Move the selected object(s) to the left</source>
-        <translation type="unfinished"/>
+        <translation>向左移動選取的物件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="610"/>
         <source>Move Right</source>
-        <translation type="unfinished"/>
+        <translation>向右移動</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="611"/>
         <source>Move the selected object(s) to the right</source>
-        <translation type="unfinished"/>
+        <translation>向右移動選取的物件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="619"/>
         <source>Move Up</source>
-        <translation type="unfinished"/>
+        <translation>向上移動</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="620"/>
         <source>Move the selected object(s) up</source>
-        <translation type="unfinished"/>
+        <translation>向上移動選取的物件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="628"/>
         <source>Move Down</source>
-        <translation type="unfinished"/>
+        <translation>向下移動</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="629"/>
         <source>Move the selected object(s) down</source>
-        <translation type="unfinished"/>
+        <translation>向下移動選取的物件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="637"/>
         <source>Rotate Counterclockwise</source>
-        <translation type="unfinished"/>
+        <translation>逆時針旋轉</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="638"/>
         <source>Rotate the selected object(s) counterclockwise</source>
-        <translation type="unfinished"/>
+        <translation>逆時針旋轉選取的物件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="646"/>
         <source>Rotate Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>順時針旋轉</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="647"/>
         <source>Rotate the selected object(s) clockwise</source>
-        <translation type="unfinished"/>
+        <translation>順時針旋轉選取的物件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="655"/>
         <source>Mirror Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>水平鏡像</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="656"/>
         <source>Mirror the selected object(s) horizontally</source>
-        <translation type="unfinished"/>
+        <translation>水平鏡像選取的物件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="664"/>
         <source>Mirror Vertically</source>
-        <translation type="unfinished"/>
+        <translation>垂直鏡像</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="665"/>
         <source>Mirror the selected object(s) vertically</source>
-        <translation type="unfinished"/>
+        <translation>垂直鏡像選取的物件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="673"/>
         <source>Flip Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>水平翻轉</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="674"/>
         <source>Flip the selected object(s) horizontally to the other board side</source>
-        <translation type="unfinished"/>
+        <translation>水平翻轉物件到板子的另一面</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="683"/>
         <source>Flip Vertically</source>
-        <translation type="unfinished"/>
+        <translation>垂直翻轉</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="684"/>
@@ -1103,7 +1103,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="720"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>重新命名</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="721"/>
@@ -1139,7 +1139,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="442"/>
         <source>Change the measurement unit of the text input</source>
-        <translation type="unfinished"/>
+        <translation>變更測量單位文字</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="451"/>
@@ -1169,22 +1169,22 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="750"/>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>放大</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="751"/>
         <source>Increase the zoom level</source>
-        <translation type="unfinished"/>
+        <translation>增加縮放等級</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="759"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="760"/>
         <source>Decrease the zoom level</source>
-        <translation type="unfinished"/>
+        <translation>減少縮放等級</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="768"/>
@@ -1214,12 +1214,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="789"/>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>選取</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="790"/>
         <source>Select &amp; modify existing objects</source>
-        <translation type="unfinished"/>
+        <translation>選取並編輯物件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="798"/>
@@ -1404,12 +1404,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="961"/>
         <source>Measure Distance</source>
-        <translation type="unfinished"/>
+        <translation>測量距離</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="962"/>
         <source>Measure the distance between two points</source>
-        <translation type="unfinished"/>
+        <translation>測量兩點之間的距離</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="970"/>
@@ -1830,32 +1830,32 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1345"/>
         <source>Close Tab</source>
-        <translation type="unfinished"/>
+        <translation>關閉分頁</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1346"/>
         <source>Close the currently opened tab</source>
-        <translation type="unfinished"/>
+        <translation>關閉目前開啟的分頁</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1354"/>
         <source>Close All Tabs</source>
-        <translation type="unfinished"/>
+        <translation>關閉所有分頁</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1355"/>
         <source>Close all currently opened tabs</source>
-        <translation type="unfinished"/>
+        <translation>關閉所有已開啟的分頁</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1363"/>
         <source>Close Window</source>
-        <translation type="unfinished"/>
+        <translation>關閉視窗</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1364"/>
         <source>Close this window</source>
-        <translation type="unfinished"/>
+        <translation>關閉此視窗</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1372"/>
@@ -1865,17 +1865,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1373"/>
         <source>Close the currently opened project</source>
-        <translation type="unfinished"/>
+        <translation>關閉目前已開啟的專案</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1381"/>
         <source>Close All Projects</source>
-        <translation type="unfinished"/>
+        <translation>關閉所有專案</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1382"/>
         <source>Close all currently opened projects</source>
-        <translation type="unfinished"/>
+        <translation>關閉所有已開啟的專案</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1390"/>
@@ -1885,7 +1885,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1391"/>
         <source>Close the whole application</source>
-        <translation type="unfinished"/>
+        <translation>關閉整個程式</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1398"/>
@@ -1935,12 +1935,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1438"/>
         <source>Keyboard Shortcuts Reference</source>
-        <translation type="unfinished"/>
+        <translation>鍵盤快速鍵參考</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1439"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>開啟鍵盤快速鍵的參考文件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1447"/>
@@ -2015,7 +2015,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1505"/>
         <source>Measure the total length of all selected trace segments</source>
-        <translation type="unfinished"/>
+        <translation>測量所選擇線段的總長度</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1513"/>
@@ -8391,17 +8391,17 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="92"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>匯入圖片</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="95"/>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>輸出 PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="98"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>列印</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="160"/>
@@ -8733,12 +8733,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="123"/>
         <source>Remove this shortcut</source>
-        <translation type="unfinished"/>
+        <translation>移除此快速鍵</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="135"/>
         <source>Restore default shortcut(s)</source>
-        <translation type="unfinished"/>
+        <translation>還原預設快速鍵</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="154"/>
@@ -9233,7 +9233,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="462"/>
         <source>Press %1 to copy the value to clipboard or %2 to clear the measurement</source>
-        <translation type="unfinished"/>
+        <translation>按下 %1 來將值複製到剪貼簿或是按 %2 清除量測</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="467"/>
@@ -11957,7 +11957,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="418"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>鍵盤快速鍵</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="483"/>
