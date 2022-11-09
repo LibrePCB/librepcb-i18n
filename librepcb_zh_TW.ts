@@ -713,12 +713,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="339"/>
         <source>New Sheet</source>
-        <translation type="unfinished"/>
+        <translation>新增稿紙</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="340"/>
         <source>Add a new schematic sheet to the project</source>
-        <translation type="unfinished"/>
+        <translation>新增一張線路圖稿紙到專案中</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="348"/>
@@ -728,12 +728,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="349"/>
         <source>Rename the current schematic sheet</source>
-        <translation type="unfinished"/>
+        <translation>重新命名目前的線路圖稿紙</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="357"/>
         <source>Remove Sheet</source>
-        <translation type="unfinished"/>
+        <translation>移除稿紙</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="358"/>
@@ -2202,7 +2202,7 @@
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="123"/>
         <source>&amp;Schematic</source>
-        <translation type="unfinished"/>
+        <translation>線路圖 (&amp;S)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="127"/>
@@ -2212,7 +2212,7 @@
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="131"/>
         <source>&amp;Project</source>
-        <translation type="unfinished"/>
+        <translation>專案 (&amp;P)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="135"/>
