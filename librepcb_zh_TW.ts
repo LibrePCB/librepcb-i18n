@@ -329,7 +329,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="280"/>
         <source>File Format %1</source>
-        <translation type="unfinished"/>
+        <translation>檔案格式 %1 </translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
@@ -428,7 +428,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="82"/>
         <source>Editor</source>
-        <translation type="unfinished"/>
+        <translation>編輯器</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="86"/>
@@ -1068,7 +1068,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="684"/>
         <source>Flip the selected object(s) vertically to the other board side</source>
-        <translation type="unfinished"/>
+        <translation>垂直翻轉物件到板子的另一面</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="693"/>
@@ -1078,7 +1078,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="694"/>
         <source>Move the selected object(s) to snap the grid</source>
-        <translation type="unfinished"/>
+        <translation>移動選取的物件以吸附網格</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="702"/>
@@ -1108,7 +1108,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="721"/>
         <source>Rename the selected object</source>
-        <translation type="unfinished"/>
+        <translation>重新命名選取的物件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="450"/>
@@ -1149,7 +1149,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="730"/>
         <source>Delete the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>刪除選取的物件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="737"/>
@@ -1920,7 +1920,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1421"/>
         <source>Open the LibrePCB website in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>在網頁瀏覽器中開啟 LibrePCB 網站</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1429"/>
@@ -1930,7 +1930,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1430"/>
         <source>Open the documentation in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>在網頁瀏覽器中開啟說明文件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1438"/>
@@ -1985,7 +1985,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1478"/>
         <source>Insert a new vertex into the selected polygon edge</source>
-        <translation type="unfinished"/>
+        <translation>插入一個新頂點至選取多邊形的一個邊上</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1486"/>
@@ -2005,7 +2005,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1496"/>
         <source>Select the whole trace</source>
-        <translation type="unfinished"/>
+        <translation>選取一整條走線</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1504"/>
@@ -4089,7 +4089,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="94"/>
         <source>ERROR: %1 not found</source>
-        <translation type="unfinished"/>
+        <translation>錯誤：找不到 %1 </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="98"/>
@@ -4626,7 +4626,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="202"/>
         <source>Select All/None</source>
-        <translation type="unfinished"/>
+        <translation>全選/取消全選</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="221"/>
@@ -7503,12 +7503,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="96"/>
         <source>No file selected.</source>
-        <translation type="unfinished"/>
+        <translation>未選擇任何檔案</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="102"/>
         <source>Found %1 element(s) in the selected library.</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>在選擇的資料夾中找到找到 %1 元素。</numerusform></translation>
     </message>
 </context>
 <context>
@@ -7531,7 +7531,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="39"/>
         <source>Select file to import</source>
-        <translation type="unfinished"/>
+        <translation>選取檔案來匯入</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.cpp" line="67"/>
@@ -7577,7 +7577,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.ui" line="17"/>
         <source>Select Elements To Import</source>
-        <translation type="unfinished"/>
+        <translation>選取元素來匯入</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.ui" line="20"/>
@@ -8461,7 +8461,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="918"/>
         <source>No printer found</source>
-        <translation type="unfinished"/>
+        <translation>找不到任何印表機</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="969"/>
@@ -8702,7 +8702,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="87"/>
         <source>If the error persists, you could try to copy the mentioned directory manually (e.g. with your file manager).</source>
-        <translation type="unfinished"/>
+        <translation>如果錯誤持續發生，您可以試著手動複製提及的目錄（比如透過您的檔案管理員來複製）。</translation>
     </message>
 </context>
 <context>
@@ -9804,7 +9804,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="68"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. Just click on the upload button below to get started. This will export the project directory to a *.lppz archive and upload it to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser.</source>
-        <translation type="unfinished"/>
+        <translation>這個工具能簡單快速的協助您將設計的 PCB 生產出來。按下底下的上傳按鈕來開始。這會輸出整個專案目錄至一個 *.lppz 封裝並且上傳至您預先設定的 API 伺服器。接下來您即可在瀏覽器中繼續接下來的下單流程。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="81"/>
@@ -9815,7 +9815,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="94"/>
         <source>After upload, open web browser and close this dialog</source>
-        <translation type="unfinished"/>
+        <translation>上傳後打開網頁瀏覽器並且關閉此對話方塊</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="104"/>
@@ -11743,7 +11743,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="100"/>
         <source>No device or package for the selected component found in the library! Please add a suitable device and package to your workspace library.</source>
-        <translation type="unfinished"/>
+        <translation>在元件庫中找不選擇的元件所包含的裝置與封裝！請新增一個合適的裝置與封裝至您的工作區元件庫。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="128"/>
@@ -11999,18 +11999,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="187"/>
         <source>Web Browser</source>
-        <translation type="unfinished"/>
+        <translation>網路瀏覽器</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="194"/>
         <source>Website URL to open</source>
         <comment>Decription for '{{URL}}' placeholder</comment>
-        <translation type="unfinished"/>
+        <translation>要前往的網站 URL</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="199"/>
         <source>File Manager</source>
-        <translation type="unfinished"/>
+        <translation>檔案管理員</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="309"/>
