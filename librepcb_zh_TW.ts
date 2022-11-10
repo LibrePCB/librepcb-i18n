@@ -58,7 +58,7 @@
     <message>
         <location filename="../libs/librepcb/core/types/circuitidentifier.h" line="60"/>
         <source>Invalid identifier: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>無效的識別字： &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -269,7 +269,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="204"/>
         <source>Help:</source>
-        <translation type="unfinished"/>
+        <translation>求助：</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="238"/>
@@ -289,12 +289,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="293"/>
         <source>Missing arguments:</source>
-        <translation type="unfinished"/>
+        <translation>遺漏參數：</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="299"/>
         <source>Unknown arguments:</source>
-        <translation type="unfinished"/>
+        <translation>未知參數：</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="838"/>
@@ -488,7 +488,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="132"/>
         <source>Find or filter objects</source>
-        <translation type="unfinished"/>
+        <translation>尋找或過濾物件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="140"/>
@@ -7495,7 +7495,9 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
         <source>The import is currently in progress. Closing this window will abort it.
 
 Do you really want to close it?</source>
-        <translation type="unfinished"/>
+        <translation>匯入工作正在進行中，若關閉此視窗將終止匯入
+
+確定要關閉嗎？</translation>
     </message>
 </context>
 <context>
@@ -10103,7 +10105,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="123"/>
         <source>Fill polygon, if closed</source>
-        <translation type="unfinished"/>
+        <translation>填充封閉的多邊形</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="137"/>
@@ -11262,7 +11264,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="123"/>
         <source>Fill polygon, if closed</source>
-        <translation type="unfinished"/>
+        <translation>填充封閉的多邊形</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="137"/>
