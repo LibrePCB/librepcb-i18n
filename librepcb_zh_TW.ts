@@ -8046,7 +8046,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="82"/>
         <source>This dialog allows to generate Gerber X2 (RS-274X) / Excellon files for PCB fabrication.</source>
-        <translation type="unfinished"/>
+        <translation>這個對話方塊協助您產生 Gerber X2 (RS-274X) / Excellon 格式的 Gerber 檔，用來送給板廠洗出 PCB 。</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="86"/>
