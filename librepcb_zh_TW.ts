@@ -548,7 +548,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="186"/>
         <source>Open the workspace settings dialog</source>
-        <translation type="unfinished"/>
+        <translation>開啟工作區設定對話方塊</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="194"/>
