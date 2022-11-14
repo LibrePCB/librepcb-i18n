@@ -4848,7 +4848,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1290"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -8353,17 +8353,17 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="522"/>
         <source>All pages</source>
-        <translation type="unfinished"/>
+        <translation>所有頁面</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="551"/>
         <source>Current page</source>
-        <translation type="unfinished"/>
+        <translation>目前頁面</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="566"/>
         <source>Custom:</source>
-        <translation type="unfinished"/>
+        <translation>自訂頁面：</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="593"/>
@@ -8388,7 +8388,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="70"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="92"/>
@@ -8662,12 +8662,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="14"/>
         <source>Upgrade Workspace</source>
-        <translation type="unfinished"/>
+        <translation>更新工作區</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="17"/>
         <source>Upgrade the workspace to the latest file format.</source>
-        <translation type="unfinished"/>
+        <translation>將工作區更新至最新的檔案格式</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="55"/>
@@ -8689,17 +8689,17 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="47"/>
         <source>Upgrade to LibrePCB %1</source>
-        <translation type="unfinished"/>
+        <translation>更新至 LibrePCB %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="51"/>
         <source>Upgrade</source>
-        <translation type="unfinished"/>
+        <translation>更新</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="85"/>
         <source>Error:</source>
-        <translation type="unfinished"/>
+        <translation>錯誤：</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="87"/>
@@ -8745,12 +8745,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="154"/>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>套用</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="161"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -9832,7 +9832,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="75"/>
         <source>discussion forum</source>
-        <translation type="unfinished"/>
+        <translation>論壇</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="106"/>
@@ -10886,7 +10886,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1084"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
