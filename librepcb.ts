@@ -5984,7 +5984,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddevicestroketextadd.cpp" line="41"/>
         <source>Add footprint text</source>
-        <translation type="unfinished">Add footprint text</translation>
+        <translation>Add footprint text</translation>
     </message>
 </context>
 <context>
@@ -5992,7 +5992,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddevicestroketextremove.cpp" line="41"/>
         <source>Remove footprint text</source>
-        <translation type="unfinished">Remove footprint text</translation>
+        <translation>Remove footprint text</translation>
     </message>
 </context>
 <context>
@@ -6000,7 +6000,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddevicestroketextsreset.cpp" line="43"/>
         <source>Reset footprint texts</source>
-        <translation type="unfinished">Reset footprint texts</translation>
+        <translation>Reset footprint texts</translation>
     </message>
 </context>
 <context>
@@ -6208,7 +6208,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdprojectedit.cpp" line="40"/>
         <source>Edit Project Metadata</source>
-        <translation type="unfinished">Edit Project Metadata</translation>
+        <translation>Edit Project Metadata</translation>
     </message>
 </context>
 <context>
