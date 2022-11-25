@@ -2616,32 +2616,32 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
 <context>
     <name>SExpression</name>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="283"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="280"/>
         <source>Not a valid boolean.</source>
         <translation>Neplatná logická hodnota.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="295"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="292"/>
         <source>Not a valid integer.</source>
         <translation>Neplatná číselná hodnota typu integer.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="307"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="304"/>
         <source>Not a valid unsigned integer.</source>
         <translation>Neplatná číselná hodnota typu unsigned integer.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="320"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="317"/>
         <source>Not a valid datetime.</source>
         <translation>Neplatná hodnota typu datetime.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="331"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="328"/>
         <source>Not a valid color.</source>
         <translation>Neplatná hodnota typu color.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="341"/>
+        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="338"/>
         <source>Not a valid URL.</source>
         <translation>Neplatná URL adresa.</translation>
     </message>
