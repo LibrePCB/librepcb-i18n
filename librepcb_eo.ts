@@ -10,12 +10,12 @@
 <context>
     <name>AttributeType</name>
     <message>
-        <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="75"/>
+        <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="77"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="122"/>
+        <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="124"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
@@ -28,27 +28,27 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="136"/>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="105"/>
         <source>Invalid design rules: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="154"/>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="123"/>
         <source>Stop mask clearance: MAX must be &gt;= MIN</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="165"/>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="134"/>
         <source>Cream mask clearance: MAX must be &gt;= MIN</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="176"/>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="145"/>
         <source>Restring pads: MAX must be &gt;= MIN</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="187"/>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="156"/>
         <source>Restring vias: MAX must be &gt;= MIN</source>
         <translation type="unfinished"/>
     </message>
@@ -94,22 +94,22 @@
 <context>
     <name>CmpSigPinDisplayType</name>
     <message>
-        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="97"/>
+        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="95"/>
         <source>None (no text)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="103"/>
+        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="101"/>
         <source>Symbol pin name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="109"/>
+        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="107"/>
         <source>Component signal name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="115"/>
+        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="113"/>
         <source>Schematic net name</source>
         <translation type="unfinished"/>
     </message>
@@ -117,257 +117,257 @@
 <context>
     <name>CommandLineInterface</name>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="78"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="79"/>
         <source>Open a project to execute project-related tasks.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="79"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="80"/>
         <source>open-project [command_options]</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="81"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="82"/>
         <source>Open a library to execute library-related tasks.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="82"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="83"/>
         <source>open-library [command_options]</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="87"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="88"/>
         <source>LibrePCB Command Line Interface</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="90"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="91"/>
         <source>Print this message.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="93"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
         <source>Displays version information.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="95"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="96"/>
         <source>Verbose output.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="104"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="105"/>
         <source>Run the electrical rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="109"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="110"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="112"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="118"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="124"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="141"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="147"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="154"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="113"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="119"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="125"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="142"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="148"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="155"/>
         <source>file</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="115"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="116"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="121"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="122"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="127"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="128"/>
         <source>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="130"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="131"/>
         <source>attributes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="133"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="134"/>
         <source>Export PCB fabrication data (Gerber/Excellon) according the fabrication output settings of boards. Existing files will be overwritten.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="138"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="139"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="144"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="145"/>
         <source>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="150"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="151"/>
         <source>Export pick&amp;place file for automated assembly of the bottom board side. Existing files will be overwritten. Supported file extensions: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="156"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="157"/>
         <source>The name of the board(s) to export. Can be given multiple times. If not set, all boards are exported.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="159"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="160"/>
         <source>name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="161"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="162"/>
         <source>Same as &apos;%1&apos;, but allows to specify boards by index instead of by name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="164"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="165"/>
         <source>index</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="167"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="168"/>
         <source>Remove all boards not specified with &apos;%1&apos; from the project before executing all the other actions. If &apos;%1&apos; is not passed, all boards will be removed. Pass &apos;%2&apos; to save the modified project to disk.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="174"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="175"/>
         <source>Save project before closing it (useful to upgrade file format).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="177"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="178"/>
         <source>Fail if the project files are not strictly canonical, i.e. there would be changes when saving the project. Note that this option is not available for *.lppz files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="184"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="185"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="188"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="189"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="192"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="193"/>
         <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="203"/>
         <source>List command-specific options:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="205"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="206"/>
         <source>Help:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="239"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="240"/>
         <source>Path to library directory (*.lplib).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="245"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="246"/>
         <source>Unknown command &apos;%1&apos;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="198"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="199"/>
         <source>Commands:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="294"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="295"/>
         <source>Missing arguments:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="300"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="301"/>
         <source>Unknown arguments:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="839"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="850"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="856"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="867"/>
         <source>Save &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="885"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="896"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="280"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
         <source>LibrePCB CLI Version %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="98"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="99"/>
         <source>The command to execute (see list below).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="219"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="220"/>
         <source>Path to project file (*.lpp[z]).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
         <source>File Format %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="283"/>
         <source>(stable)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="283"/>
         <source>(unstable)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="283"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="284"/>
         <source>Git Revision %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="284"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="285"/>
         <source>Qt Version %1 (compiled against %2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="286"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="287"/>
         <source>Built at %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="336"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="337"/>
         <source>SUCCESS</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="339"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="340"/>
         <source>Finished with errors!</source>
         <translation type="unfinished"/>
     </message>
@@ -410,12 +410,12 @@
 <context>
     <name>DxfReader</name>
     <message>
-        <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="188"/>
+        <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="190"/>
         <source>File does not exist or is not readable.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="194"/>
+        <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="196"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -2128,30 +2128,14 @@
     </message>
 </context>
 <context>
-    <name>GridProperties</name>
-    <message>
-        <location filename="../libs/librepcb/core/types/gridproperties.h" line="118"/>
-        <source>Unknown grid type: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>HAlign</name>
-    <message>
-        <location filename="../libs/librepcb/core/types/alignment.h" line="103"/>
-        <source>Invalid horizontal alignment: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>Length</name>
     <message>
-        <location filename="../libs/librepcb/core/types/length.h" line="655"/>
+        <location filename="../libs/librepcb/core/types/length.h" line="643"/>
         <source>Value must be &gt;= 0!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/length.h" line="775"/>
+        <location filename="../libs/librepcb/core/types/length.h" line="752"/>
         <source>Value must be &gt; 0!</source>
         <translation type="unfinished"/>
     </message>
@@ -2159,7 +2143,7 @@
 <context>
     <name>LengthUnit</name>
     <message>
-        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="233"/>
+        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="234"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
@@ -2599,53 +2583,20 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>Ratio</name>
     <message>
-        <location filename="../libs/librepcb/core/types/ratio.h" line="312"/>
+        <location filename="../libs/librepcb/core/types/ratio.h" line="300"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>SExpression</name>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="280"/>
-        <source>Not a valid boolean.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="292"/>
-        <source>Not a valid integer.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="304"/>
-        <source>Not a valid unsigned integer.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="317"/>
-        <source>Not a valid datetime.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="328"/>
-        <source>Not a valid color.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="338"/>
-        <source>Not a valid URL.</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>SerializableKeyValueMap</name>
     <message>
-        <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="92"/>
+        <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="91"/>
         <source>Key &quot;%1&quot; defined multiple times.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="100"/>
+        <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="98"/>
         <source>No default %1 defined.</source>
         <translation type="unfinished"/>
     </message>
@@ -2653,12 +2604,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>SerializableObjectList</name>
     <message>
-        <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="462"/>
+        <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="469"/>
         <source>There is no element of type &quot;%1&quot; with the UUID &quot;%2&quot; in the list.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="471"/>
+        <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="478"/>
         <source>There is no element of type &quot;%1&quot; with the name &quot;%2&quot; in the list.</source>
         <translation type="unfinished"/>
     </message>
@@ -2666,38 +2617,33 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>SignalRole</name>
     <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="88"/>
+        <location filename="../libs/librepcb/core/types/signalrole.h" line="87"/>
         <source>Passive</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="94"/>
+        <location filename="../libs/librepcb/core/types/signalrole.h" line="93"/>
         <source>Power</source>
         <translation>Povumo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="100"/>
+        <location filename="../libs/librepcb/core/types/signalrole.h" line="99"/>
         <source>Input</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="106"/>
+        <location filename="../libs/librepcb/core/types/signalrole.h" line="105"/>
         <source>Output</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="112"/>
+        <location filename="../libs/librepcb/core/types/signalrole.h" line="111"/>
         <source>I/O</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="118"/>
+        <location filename="../libs/librepcb/core/types/signalrole.h" line="117"/>
         <source>Open Drain</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="150"/>
-        <source>Invalid signal role: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2760,32 +2706,16 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>Uuid</name>
     <message>
-        <location filename="../libs/librepcb/core/types/uuid.cpp" line="112"/>
+        <location filename="../libs/librepcb/core/types/uuid.cpp" line="115"/>
         <source>String is not a valid UUID: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>VAlign</name>
-    <message>
-        <location filename="../libs/librepcb/core/types/alignment.h" line="174"/>
-        <source>Invalid vertical alignment: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Version</name>
     <message>
-        <location filename="../libs/librepcb/core/types/version.cpp" line="94"/>
+        <location filename="../libs/librepcb/core/types/version.cpp" line="97"/>
         <source>Invalid version number: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Via</name>
-    <message>
-        <location filename="../libs/librepcb/core/geometry/via.h" line="152"/>
-        <source>Unknown via shape: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2805,27 +2735,27 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb</name>
     <message>
-        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="64"/>
+        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="65"/>
         <source>Millimeters</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="66"/>
+        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="67"/>
         <source>Micrometers</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="68"/>
+        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="69"/>
         <source>Nanometers</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="70"/>
+        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="71"/>
         <source>Inches</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="72"/>
+        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="73"/>
         <source>Mils</source>
         <translation type="unfinished"/>
     </message>
@@ -2841,7 +2771,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_netsegment.cpp" line="182"/>
+        <location filename="../libs/librepcb/core/project/board/items/bi_netsegment.cpp" line="68"/>
         <source>(no net)</source>
         <translation type="unfinished"/>
     </message>
@@ -2951,12 +2881,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::BI_Device</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="140"/>
+        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="68"/>
         <source>No device with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="160"/>
+        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="88"/>
         <source>No package with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation type="unfinished"/>
     </message>
@@ -2964,21 +2894,8 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::BI_NetPoint</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_netpoint.cpp" line="64"/>
+        <location filename="../libs/librepcb/core/project/board/items/bi_netpoint.cpp" line="53"/>
         <source>Dead net point in board &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>librepcb::BI_Plane</name>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_plane.cpp" line="90"/>
-        <source>Invalid net signal UUID: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_plane.h" line="178"/>
-        <source>Unknown plane connect style: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3112,20 +3029,20 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::Circuit</name>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="164"/>
-        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="193"/>
+        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="103"/>
+        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="129"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="251"/>
-        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="281"/>
+        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="182"/>
+        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="209"/>
         <source>There is already a net signal with the name &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="336"/>
-        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="366"/>
+        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="264"/>
+        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="294"/>
         <source>There is already a component with the name &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
@@ -3133,27 +3050,22 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::ComponentInstance</name>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="69"/>
-        <source>The component with the UUID &quot;%1&quot; does not exist in the project&apos;s library!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="280"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="211"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="319"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="250"/>
         <source>All symbols of a component must be placed in the same schematic.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="425"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="358"/>
         <source>Unplaced required symbols of component &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="429"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="362"/>
         <source>Unplaced optional symbols of component &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -3161,22 +3073,22 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::ComponentSignalInstance</name>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="176"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="140"/>
         <source>The net signal of the component signal &quot;%1:%2&quot; cannot be changed because it is still in use!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="229"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="193"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="300"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="253"/>
         <source>Unconnected component signal: &quot;%1&quot; from &quot;%2&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="304"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="257"/>
         <source>Signal name conflict: &quot;%1&quot; != &quot;%2&quot; (&quot;%3&quot; from &quot;%4&quot;)</source>
         <translation type="unfinished"/>
     </message>
@@ -3507,13 +3419,6 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::Library</name>
     <message>
-        <location filename="../libs/librepcb/core/library/library.cpp" line="61"/>
-        <source>The library directory does not have the suffix '.lplib':
-
-%1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../libs/librepcb/core/library/library.cpp" line="136"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
         <translation type="unfinished"/>
@@ -3522,35 +3427,23 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::LibraryBaseElement</name>
     <message>
-        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="88"/>
-        <source>Directory is not a library element of type %1: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="96"/>
-        <source>Directory name is not a valid UUID: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="108"/>
-        <source>The library element %1 was created with a newer application version. You need at least LibrePCB version %2 to open it.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="143"/>
-        <source>UUID mismatch between element directory and main file: &quot;%1&quot;</source>
+        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="171"/>
+        <source>This library element was created with a newer application version.
+You need at least LibrePCB %1 to open it.
+
+%2</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>librepcb::NetClass</name>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netclass.cpp" line="93"/>
+        <location filename="../libs/librepcb/core/project/circuit/netclass.cpp" line="84"/>
         <source>The net class &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netclass.cpp" line="136"/>
+        <location filename="../libs/librepcb/core/project/circuit/netclass.cpp" line="127"/>
         <source>Unused net class: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
@@ -3558,17 +3451,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::NetSignal</name>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="154"/>
+        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="131"/>
         <source>The net signal &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="267"/>
+        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="237"/>
         <source>Unused net signal: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="290"/>
+        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="260"/>
         <source>Net signal connected to less than two pins: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
@@ -3678,68 +3571,59 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::Project</name>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="69"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="68"/>
         <source>The suffix of the project file must be &quot;lpp&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="80"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="209"/>
+        <source>There is already a schematic with the directory name &quot;%1&quot;!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="296"/>
+        <source>There is already a board with the directory name &quot;%1&quot;!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="483"/>
         <source>The directory &quot;%1&quot; already contains a LibrePCB project.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="89"/>
-        <source>The directory &quot;%1&quot; does not contain a LibrePCB project.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="95"/>
-        <source>The file &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="105"/>
-        <source>This project was created with a newer application version.
-You need at least LibrePCB %1 to open it.
-
-%2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="326"/>
-        <source>Invalid schematic name: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="332"/>
-        <source>The schematic exists already: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="350"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="202"/>
         <source>There is already a schematic with the name &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="376"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="236"/>
         <source>There are still elements in the schematic &quot;%1&quot;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="423"/>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="440"/>
-        <source>Invalid board name: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="429"/>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="446"/>
-        <source>The board exists already: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="463"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="289"/>
         <source>There is already a board with the name &quot;%1&quot;!</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::ProjectLoader</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="101"/>
+        <source>File does not exist: &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="107"/>
+        <source>Directory does not contain a LibrePCB project: &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="119"/>
+        <source>This project was created with a newer application version.
+You need at least LibrePCB %1 to open it.
+
+%2</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3759,7 +3643,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::SI_NetPoint</name>
     <message>
-        <location filename="../libs/librepcb/core/project/schematic/items/si_netpoint.cpp" line="64"/>
+        <location filename="../libs/librepcb/core/project/schematic/items/si_netpoint.cpp" line="53"/>
         <source>Dead net point in schematic page &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -3767,7 +3651,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::SI_Symbol</name>
     <message>
-        <location filename="../libs/librepcb/core/project/schematic/items/si_symbol.cpp" line="94"/>
+        <location filename="../libs/librepcb/core/project/schematic/items/si_symbol.cpp" line="66"/>
         <source>No symbol with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation type="unfinished"/>
     </message>
@@ -3834,12 +3718,12 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::Workspace</name>
     <message>
-        <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="153"/>
+        <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="154"/>
         <source>The directory &quot;%1&quot; is not a valid LibrePCB workspace.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="165"/>
+        <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="166"/>
         <source>The workspace &quot;%1&quot; requires LibrePCB %2 or later.</source>
         <translation type="unfinished"/>
     </message>
@@ -3847,175 +3731,175 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::cli</name>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="363"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="364"/>
         <source>Open project &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="429"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="432"/>
         <source>Check for non-canonical files...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="432"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="435"/>
         <source>ERROR: The option &apos;--strict&apos; is not available for *.lppz files!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="455"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="458"/>
         <source>Run ERC...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="468"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="471"/>
         <source>WARNING</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="471"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="515"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="474"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="518"/>
         <source>ERROR</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="478"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="481"/>
         <source>Approved messages: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="479"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="482"/>
         <source>Non-approved messages: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="490"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="493"/>
         <source>Export schematics to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="572"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="658"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="575"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="662"/>
         <source>ERROR: Unknown extension &apos;%1&apos;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="687"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="691"/>
         <source>ERROR: The file &apos;%1&apos; was written multiple times!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="539"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="542"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="542"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="545"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="581"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="584"/>
         <source>Export PCB fabrication data...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="392"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="395"/>
         <source>ERROR: No board with the name &apos;%1&apos; found.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="405"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="408"/>
         <source>ERROR: Board index &apos;%1&apos; is invalid.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="413"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="416"/>
         <source>Remove other boards...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="594"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="598"/>
         <source>ERROR: Failed to load custom settings: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="600"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="604"/>
         <source>Board &apos;%1&apos;:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="623"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="627"/>
         <source>top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="627"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="631"/>
         <source>bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="631"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="635"/>
         <source>Export %1 assembly data to &apos;%2&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="667"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="671"/>
         <source>Save project...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="692"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="696"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="703"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="822"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="707"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="833"/>
         <source>ERROR: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="715"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="719"/>
         <source>Open library &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="727"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="732"/>
         <source>Process %1 component categories...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="730"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="746"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="762"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="778"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="794"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="810"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="735"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="752"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="769"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="786"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="803"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="820"/>
         <source>Open &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="743"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="749"/>
         <source>Process %1 package categories...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="759"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="766"/>
         <source>Process %1 symbols...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="775"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="783"/>
         <source>Process %1 packages...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="791"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="800"/>
         <source>Process %1 components...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="807"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="817"/>
         <source>Process %1 devices...</source>
         <translation type="unfinished"/>
     </message>
@@ -4127,7 +4011,7 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/utils/standardeditorcommandhandler.cpp" line="94"/>
+        <location filename="../libs/librepcb/editor/utils/standardeditorcommandhandler.cpp" line="96"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
@@ -4201,17 +4085,17 @@ You need at least LibrePCB %1 to open it.
         <translation>Kopiu al poŝo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="65"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="67"/>
         <source>For more information, please check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="70"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="72"/>
         <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal or Bitcoin. Check out &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; for details.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="75"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="77"/>
         <source>Check out our &lt;a href=&apos;%1&apos;&gt;Contribution Guidelines&lt;/a&gt; if you&apos;re interested in development of LibrePCB!</source>
         <translation type="unfinished"/>
     </message>
@@ -4246,27 +4130,27 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="229"/>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="242"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="277"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="281"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="467"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="471"/>
         <source>No component selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="529"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="535"/>
         <source>No device selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="563"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="568"/>
         <source>Invalid Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="564"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="569"/>
         <source>Please select a component and a symbol variant.</source>
         <translation type="unfinished"/>
     </message>
@@ -4734,27 +4618,27 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="633"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="632"/>
         <source>File</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="651"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="650"/>
         <source>Edit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="664"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="663"/>
         <source>View</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="698"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="697"/>
         <source>Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="689"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="688"/>
         <source>Command</source>
         <translation type="unfinished"/>
     </message>
@@ -4764,7 +4648,7 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="675"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="674"/>
         <source>Find device...</source>
         <translation type="unfinished"/>
     </message>
@@ -4774,64 +4658,70 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1147"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1146"/>
         <source>Add New Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1147"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1168"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1146"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1174"/>
         <source>Choose a name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1148"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1147"/>
         <source>new_board</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="379"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1047"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1158"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1179"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1197"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1249"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1313"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1046"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1164"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1192"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1210"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1262"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1326"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="850"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="849"/>
         <source>Boards</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1168"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1155"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1183"/>
+        <source>Invalid name: &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1174"/>
         <source>Copy Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1169"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1175"/>
         <source>copy_of_%1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1188"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1201"/>
         <source>Remove board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1189"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1202"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1286"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1299"/>
         <source>Preparing board...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1286"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1299"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
@@ -5548,12 +5438,12 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="110"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="112"/>
         <source>The package with the UUID &quot;%1&quot; does not exist in the workspace library!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="129"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="133"/>
         <source>Package does not have any footprints: %1</source>
         <translation type="unfinished"/>
     </message>
@@ -5582,13 +5472,8 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdBoardAdd</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdboardadd.cpp" line="41"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdboardadd.cpp" line="43"/>
         <source>Add board</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdboardadd.cpp" line="51"/>
-        <source>Copy board</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6269,7 +6154,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdSchematicNetLabelAdd</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeladd.cpp" line="45"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeladd.cpp" line="41"/>
         <source>Add netlabel</source>
         <translation type="unfinished"/>
     </message>
@@ -6549,12 +6434,12 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="265"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="268"/>
         <source>Invalid Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="266"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="269"/>
         <source>Please select a component.</source>
         <translation type="unfinished"/>
     </message>
@@ -6647,22 +6532,22 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="156"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="157"/>
         <source>Invalid metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="167"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="168"/>
         <source>Save failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="306"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="307"/>
         <source>Determine default value</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="308"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="309"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
         <translation type="unfinished"/>
     </message>
@@ -6973,7 +6858,7 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="98"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="99"/>
         <source>This workspace was already used with a newer version of LibrePCB. All changes in libraries and workspace settings will not be available in newer versions of LibrePCB.</source>
         <translation type="unfinished"/>
     </message>
@@ -6984,7 +6869,7 @@ You need at least LibrePCB %1 to open it.
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="132"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="440"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="441"/>
         <source>Open Project</source>
         <translation type="unfinished"/>
     </message>
@@ -7009,84 +6894,84 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="75"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="76"/>
         <source>Control Panel - LibrePCB %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="80"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="81"/>
         <source>Workspace: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="81"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="82"/>
         <source>Scanning libraries (%p%)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="109"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="110"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should &lt;a href=&quot;%1&quot;&gt;open the library manager&lt;/a&gt; to add some libraries.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="399"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="400"/>
         <source>Could not create project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="426"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="483"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="427"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="486"/>
         <source>Could not open project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="530"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="533"/>
         <source>Restore autosave backup?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="531"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="534"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="561"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="730"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="564"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="733"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="441"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="442"/>
         <source>LibrePCB project files (%1)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="365"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="366"/>
         <source>Workspace changed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="366"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="367"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="707"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="710"/>
         <source>New Folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="717"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="720"/>
         <source>Remove</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="707"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="710"/>
         <source>Name:</source>
         <translation>Nomo:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="718"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="721"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -7195,7 +7080,7 @@ Warning: This cannot be undone!</source>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="298"/>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="395"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="399"/>
         <source>Package not found!</source>
         <translation type="unfinished"/>
     </message>
@@ -7480,12 +7365,12 @@ Do you really want to close it?</source>
 <context>
     <name>librepcb::editor::EagleLibraryImportWizardContext</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="96"/>
+        <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="97"/>
         <source>No file selected.</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="102"/>
+        <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="103"/>
         <source>Found %1 element(s) in the selected library.</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
@@ -8607,27 +8492,27 @@ Do you really want to close it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="57"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="58"/>
         <source>Select Workspace Directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="120"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="121"/>
         <source>Please select a directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="122"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="123"/>
         <source>Directory contains a valid workspace.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="124"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="125"/>
         <source>New workspace will be created.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="127"/>
         <source>Directory is not empty!</source>
         <translation type="unfinished"/>
     </message>
@@ -9630,6 +9515,12 @@ This can be reverted in the workspace settings dialog.</source>
         <source>Add B&amp;oard</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.cpp" line="99"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.cpp" line="112"/>
+        <source>Invalid name!</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>librepcb::editor::NewProjectWizardPage_Metadata</name>
@@ -9792,38 +9683,38 @@ This can be reverted in the workspace settings dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="75"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="73"/>
         <source>discussion forum</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="106"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="104"/>
         <source>This feature is not available because there is no API server configured in your workspace settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="157"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="155"/>
         <source>Exporting project...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="177"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="175"/>
         <source>Uploading project...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="204"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="202"/>
         <source>Success! Open %1 to continue.</source>
         <comment>Placeholder is an URL with hyperlink.</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="214"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="212"/>
         <source>Success! Opening %1...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="216"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="214"/>
         <source>Failed to open %1</source>
         <translation type="unfinished"/>
     </message>
@@ -10419,17 +10310,17 @@ This can be reverted in the workspace settings dialog.</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="265"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="263"/>
         <source>Error while saving the project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="312"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="310"/>
         <source>Save Project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="313"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="311"/>
         <source>You have unsaved changes in the project.
 Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
@@ -10464,53 +10355,53 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="83"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="84"/>
         <source>Ask to close project (confirm message box!)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="90"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="91"/>
         <source>Abort.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="97"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="98"/>
         <source>Open project file system...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="111"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="112"/>
         <source>Open project %1...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="115"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="118"/>
         <source>Save project %1...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="120"/>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="128"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="123"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="131"/>
         <source>[ERROR] %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="122"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="125"/>
         <source>Failed to update library elements! Probably there were breaking changes in some library elements.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="129"/>
         <source>[SUCCESS] All library elements updated.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="165"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="168"/>
         <source>Update %1...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="172"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="175"/>
         <source>Skip %1...</source>
         <translation type="unfinished"/>
     </message>
@@ -10744,32 +10635,32 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="561"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="560"/>
         <source>File</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="579"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="578"/>
         <source>Edit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="592"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="591"/>
         <source>View</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="626"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="625"/>
         <source>Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="617"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="616"/>
         <source>Command</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="639"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="638"/>
         <source>Components</source>
         <translation type="unfinished"/>
     </message>
@@ -10779,7 +10670,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="603"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="602"/>
         <source>Find symbol...</source>
         <translation type="unfinished"/>
     </message>
@@ -10789,15 +10680,15 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="933"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="946"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="966"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1109"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="939"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="952"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="972"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1115"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="921"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="920"/>
         <source>Add schematic page</source>
         <translation type="unfinished"/>
     </message>
@@ -10807,32 +10698,37 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="922"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="921"/>
         <source>Choose a name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="923"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="922"/>
         <source>New Page</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="956"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="930"/>
+        <source>Invalid name: &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="962"/>
         <source>Rename sheet</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="956"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="962"/>
         <source>Choose new name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1081"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1087"/>
         <source>Preparing schematics...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1081"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1087"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
@@ -10873,8 +10769,8 @@ p, li { white-space: pre-wrap; }
     <name>librepcb::editor::SchematicEditorState_AddNetLabel</name>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="76"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="198"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="229"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="201"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="232"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
@@ -11761,18 +11657,18 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="383"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="385"/>
         <source>Default footprint.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="438"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="529"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="440"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="531"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="493"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="495"/>
         <source>Add devices to board</source>
         <translation type="unfinished"/>
     </message>

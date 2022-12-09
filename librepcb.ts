@@ -3447,7 +3447,10 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 You need at least LibrePCB %1 to open it.
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>This library element was created with a newer application version.
+You need at least LibrePCB %1 to open it.
+
+%2</translation>
     </message>
 </context>
 <context>
@@ -3595,12 +3598,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="209"/>
         <source>There is already a schematic with the directory name &quot;%1&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>There is already a schematic with the directory name &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="296"/>
         <source>There is already a board with the directory name &quot;%1&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>There is already a board with the directory name &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="483"/>
@@ -3628,12 +3631,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="101"/>
         <source>File does not exist: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>File does not exist: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="107"/>
         <source>Directory does not contain a LibrePCB project: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Directory does not contain a LibrePCB project: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="119"/>
@@ -3641,7 +3644,7 @@ You need at least LibrePCB %1 to open it.
 You need at least LibrePCB %1 to open it.
 
 %2</source>
-        <translation type="unfinished">This project was created with a newer application version.
+        <translation>This project was created with a newer application version.
 You need at least LibrePCB %1 to open it.
 
 %2</translation>
@@ -4716,7 +4719,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1155"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1183"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished">Invalid name: &apos;%1&apos;</translation>
+        <translation>Invalid name: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1174"/>
@@ -9592,7 +9595,7 @@ This can be reverted in the workspace settings dialog.</translation>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.cpp" line="99"/>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.cpp" line="112"/>
         <source>Invalid name!</source>
-        <translation type="unfinished">Invalid name!</translation>
+        <translation>Invalid name!</translation>
     </message>
 </context>
 <context>
@@ -10797,7 +10800,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="930"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished">Invalid name: &apos;%1&apos;</translation>
+        <translation>Invalid name: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="962"/>

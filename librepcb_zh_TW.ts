@@ -10,12 +10,12 @@
 <context>
     <name>AttributeType</name>
     <message>
-        <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="75"/>
+        <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="77"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
         <translation>屬性類型 &quot;%1&quot; 有未知的單位：&quot;%2&quot; </translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="122"/>
+        <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="124"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
         <translation>無效的屬性類型：&quot;%1&quot;</translation>
     </message>
@@ -28,27 +28,27 @@
         <translation>LibrePCB 預設的設計規範</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="136"/>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="105"/>
         <source>Invalid design rules: %1</source>
         <translation>無效的設計規範：%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="154"/>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="123"/>
         <source>Stop mask clearance: MAX must be &gt;= MIN</source>
         <translation>阻焊遮罩間隙：最大值必須 &gt;= 最小值</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="165"/>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="134"/>
         <source>Cream mask clearance: MAX must be &gt;= MIN</source>
         <translation>錫膏遮罩間隙：最大值必須 &gt;= 最小值</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="176"/>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="145"/>
         <source>Restring pads: MAX must be &gt;= MIN</source>
         <translation>Restring 焊墊：最大值必須 &gt;= 最小值</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="187"/>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="156"/>
         <source>Restring vias: MAX must be &gt;= MIN</source>
         <translation>Restring 導通孔：最大值必須 &gt;= 最小值</translation>
     </message>
@@ -94,22 +94,22 @@
 <context>
     <name>CmpSigPinDisplayType</name>
     <message>
-        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="97"/>
+        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="95"/>
         <source>None (no text)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="103"/>
+        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="101"/>
         <source>Symbol pin name</source>
         <translation>符號引腳名稱</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="109"/>
+        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="107"/>
         <source>Component signal name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="115"/>
+        <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="113"/>
         <source>Schematic net name</source>
         <translation>線路圖連接線名稱</translation>
     </message>
@@ -117,257 +117,257 @@
 <context>
     <name>CommandLineInterface</name>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="78"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="79"/>
         <source>Open a project to execute project-related tasks.</source>
         <translation>開啟一個專案來進行專案相關工作。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="79"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="80"/>
         <source>open-project [command_options]</source>
         <translation>open-project [指令選項]</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="81"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="82"/>
         <source>Open a library to execute library-related tasks.</source>
         <translation>開啟一個元件庫來進行元件庫相關工作。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="82"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="83"/>
         <source>open-library [command_options]</source>
         <translation>open-library [指令選項]</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="87"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="88"/>
         <source>LibrePCB Command Line Interface</source>
         <translation>LibrePCB 指令介面</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="90"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="91"/>
         <source>Print this message.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="93"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
         <source>Displays version information.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="95"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="96"/>
         <source>Verbose output.</source>
         <translation>詳細的輸出。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="104"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="105"/>
         <source>Run the electrical rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
         <translation>執行電氣規範檢查(ERC)，列出所有不符合規範的錯誤與警告，若有任何不符規範則回報失敗(錯誤碼=1)。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="109"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="110"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
         <translation>匯出線路圖至（一個或多個）檔案，覆寫存在的檔案，支援的檔案類型有：%1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="112"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="118"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="124"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="141"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="147"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="154"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="113"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="119"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="125"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="142"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="148"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="155"/>
         <source>file</source>
         <translation>檔案</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="115"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="116"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
         <translation>匯出通用的原物料清單(BOM)至（一個或多個）檔案，覆寫存在的檔案，支援的檔案類型有：%1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="121"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="122"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
         <translation>匯出 board-specific BOM 至（一個或多個）檔案，覆寫存在的檔案，支援的檔案類型有：%1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="127"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="128"/>
         <source>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</source>
         <translation>以逗點分隔，要被匯出至原物料清單(BOM)的附加屬性列表。例如：&quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="130"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="131"/>
         <source>attributes</source>
         <translation>屬性</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="133"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="134"/>
         <source>Export PCB fabrication data (Gerber/Excellon) according the fabrication output settings of boards. Existing files will be overwritten.</source>
         <translation>根據電路板的加工資料設定值匯出 PCB 加工資料 (Gerber/Excellon)。存在的檔案將被覆寫。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="138"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="139"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
         <translation>提供一個包含自訂設定檔的 *.lp 檔來覆寫 PCB 加工資料設定。未設定則會使用專案中電路板的設定。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="144"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="145"/>
         <source>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="150"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="151"/>
         <source>Export pick&amp;place file for automated assembly of the bottom board side. Existing files will be overwritten. Supported file extensions: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="156"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="157"/>
         <source>The name of the board(s) to export. Can be given multiple times. If not set, all boards are exported.</source>
         <translation>需要匯出的（一張或多張）電路板名稱，可以多次提及。未設定則匯出全部電路板。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="159"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="160"/>
         <source>name</source>
         <translation>名稱</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="161"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="162"/>
         <source>Same as &apos;%1&apos;, but allows to specify boards by index instead of by name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="164"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="165"/>
         <source>index</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="167"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="168"/>
         <source>Remove all boards not specified with &apos;%1&apos; from the project before executing all the other actions. If &apos;%1&apos; is not passed, all boards will be removed. Pass &apos;%2&apos; to save the modified project to disk.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="174"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="175"/>
         <source>Save project before closing it (useful to upgrade file format).</source>
         <translation>在關閉專案之前儲存（更新檔案格式時很實用）。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="177"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="178"/>
         <source>Fail if the project files are not strictly canonical, i.e. there would be changes when saving the project. Note that this option is not available for *.lppz files.</source>
         <translation>當專案檔不是嚴格的正規寫法，即在儲存專案時會有所變更。此選項不適用於 *.lppz 檔案。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="184"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="185"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
         <translation>在開啟的元件庫中全部元素執行所選擇的動作。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="188"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="189"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
         <translation>在關閉之前儲存元件庫，若指定 &apos;--all&apos; 則包括所有包含的元素（更新檔案格式時很實用）。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="192"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="193"/>
         <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
         <translation>當開啟的檔案不是嚴格的正規寫法時導致失敗，即在儲存元件庫元素時會有所變更。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="203"/>
         <source>List command-specific options:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="205"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="206"/>
         <source>Help:</source>
         <translation>求助：</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="239"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="240"/>
         <source>Path to library directory (*.lplib).</source>
         <translation>元件庫目錄的路徑 (*.lplib)。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="245"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="246"/>
         <source>Unknown command &apos;%1&apos;.</source>
         <translation>未知的指令&apos;%1&apos;。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="198"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="199"/>
         <source>Commands:</source>
         <translation>指令：</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="294"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="295"/>
         <source>Missing arguments:</source>
         <translation>遺漏參數：</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="300"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="301"/>
         <source>Unknown arguments:</source>
         <translation>未知參數：</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="839"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="850"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
         <translation>檢查 &apos;%1&apos; 是否為非正規檔案...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="856"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="867"/>
         <source>Save &apos;%1&apos;...</source>
         <translation>儲存 &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="885"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="896"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
         <translation>此應用程式版本為　非　穩　定　版　！&apos;%1&apos; 選項已關閉來避免破壞到專案或是元件庫。請改用穩定釋出的版本。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="280"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
         <source>LibrePCB CLI Version %1</source>
         <translation>LibrePCB 指令版 %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="98"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="99"/>
         <source>The command to execute (see list below).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="219"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="220"/>
         <source>Path to project file (*.lpp[z]).</source>
         <translation>專案檔的路徑 (*.lpp[z])。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="281"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
         <source>File Format %1</source>
         <translation>檔案格式 %1 </translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="283"/>
         <source>(stable)</source>
         <translation>(穩定的)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="283"/>
         <source>(unstable)</source>
         <translation>(不穩定的)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="283"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="284"/>
         <source>Git Revision %1</source>
         <translation>Git Revision %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="284"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="285"/>
         <source>Qt Version %1 (compiled against %2)</source>
         <translation>QT版本 %1 （針對%2進行編譯）</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="286"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="287"/>
         <source>Built at %1</source>
         <translation>建置於 %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="336"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="337"/>
         <source>SUCCESS</source>
         <translation>成功</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="339"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="340"/>
         <source>Finished with errors!</source>
         <translation>帶錯誤的完成！</translation>
     </message>
@@ -410,12 +410,12 @@
 <context>
     <name>DxfReader</name>
     <message>
-        <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="188"/>
+        <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="190"/>
         <source>File does not exist or is not readable.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="194"/>
+        <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="196"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -2128,30 +2128,14 @@
     </message>
 </context>
 <context>
-    <name>GridProperties</name>
-    <message>
-        <location filename="../libs/librepcb/core/types/gridproperties.h" line="118"/>
-        <source>Unknown grid type: &quot;%1&quot;</source>
-        <translation>未知的格點類型：&quot;%1&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>HAlign</name>
-    <message>
-        <location filename="../libs/librepcb/core/types/alignment.h" line="103"/>
-        <source>Invalid horizontal alignment: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>Length</name>
     <message>
-        <location filename="../libs/librepcb/core/types/length.h" line="655"/>
+        <location filename="../libs/librepcb/core/types/length.h" line="643"/>
         <source>Value must be &gt;= 0!</source>
         <translation>值必須 &gt;= 0！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/length.h" line="775"/>
+        <location filename="../libs/librepcb/core/types/length.h" line="752"/>
         <source>Value must be &gt; 0!</source>
         <translation>值必須 &gt; 0！</translation>
     </message>
@@ -2159,7 +2143,7 @@
 <context>
     <name>LengthUnit</name>
     <message>
-        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="233"/>
+        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="234"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
         <translation>無效的長度單位：&quot;%1&quot;</translation>
     </message>
@@ -2609,53 +2593,20 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>Ratio</name>
     <message>
-        <location filename="../libs/librepcb/core/types/ratio.h" line="312"/>
+        <location filename="../libs/librepcb/core/types/ratio.h" line="300"/>
         <source>Value must be &gt;= 0!</source>
         <translation>值必須 &gt;= 0！</translation>
     </message>
 </context>
 <context>
-    <name>SExpression</name>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="280"/>
-        <source>Not a valid boolean.</source>
-        <translation>不是一個有效的布林值</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="292"/>
-        <source>Not a valid integer.</source>
-        <translation>不是一個有效的整數</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="304"/>
-        <source>Not a valid unsigned integer.</source>
-        <translation>不是一個有效的無號整數</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="317"/>
-        <source>Not a valid datetime.</source>
-        <translation>不是一個有效的時間</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="328"/>
-        <source>Not a valid color.</source>
-        <translation>不是一個有效的顏色</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/serialization/sexpression.h" line="338"/>
-        <source>Not a valid URL.</source>
-        <translation>不是一個有效的 URL</translation>
-    </message>
-</context>
-<context>
     <name>SerializableKeyValueMap</name>
     <message>
-        <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="92"/>
+        <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="91"/>
         <source>Key &quot;%1&quot; defined multiple times.</source>
         <translation>鍵值&quot;%1&quot;已多次被定義。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="100"/>
+        <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="98"/>
         <source>No default %1 defined.</source>
         <translation type="unfinished"/>
     </message>
@@ -2663,12 +2614,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>SerializableObjectList</name>
     <message>
-        <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="462"/>
+        <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="469"/>
         <source>There is no element of type &quot;%1&quot; with the UUID &quot;%2&quot; in the list.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="471"/>
+        <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="478"/>
         <source>There is no element of type &quot;%1&quot; with the name &quot;%2&quot; in the list.</source>
         <translation type="unfinished"/>
     </message>
@@ -2676,38 +2627,33 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>SignalRole</name>
     <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="88"/>
+        <location filename="../libs/librepcb/core/types/signalrole.h" line="87"/>
         <source>Passive</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="94"/>
+        <location filename="../libs/librepcb/core/types/signalrole.h" line="93"/>
         <source>Power</source>
         <translation>電源</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="100"/>
+        <location filename="../libs/librepcb/core/types/signalrole.h" line="99"/>
         <source>Input</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="106"/>
+        <location filename="../libs/librepcb/core/types/signalrole.h" line="105"/>
         <source>Output</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="112"/>
+        <location filename="../libs/librepcb/core/types/signalrole.h" line="111"/>
         <source>I/O</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="118"/>
+        <location filename="../libs/librepcb/core/types/signalrole.h" line="117"/>
         <source>Open Drain</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/types/signalrole.h" line="150"/>
-        <source>Invalid signal role: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2770,33 +2716,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>Uuid</name>
     <message>
-        <location filename="../libs/librepcb/core/types/uuid.cpp" line="112"/>
+        <location filename="../libs/librepcb/core/types/uuid.cpp" line="115"/>
         <source>String is not a valid UUID: &quot;%1&quot;</source>
         <translation>&quot;%1&quot;字串不是一個有效的 UUID</translation>
     </message>
 </context>
 <context>
-    <name>VAlign</name>
-    <message>
-        <location filename="../libs/librepcb/core/types/alignment.h" line="174"/>
-        <source>Invalid vertical alignment: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>Version</name>
     <message>
-        <location filename="../libs/librepcb/core/types/version.cpp" line="94"/>
+        <location filename="../libs/librepcb/core/types/version.cpp" line="97"/>
         <source>Invalid version number: &quot;%1&quot;</source>
         <translation>&quot;%1&quot;不是一個有效的版號</translation>
-    </message>
-</context>
-<context>
-    <name>Via</name>
-    <message>
-        <location filename="../libs/librepcb/core/geometry/via.h" line="152"/>
-        <source>Unknown via shape: &quot;%1&quot;</source>
-        <translation>未知的導通孔形狀：&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -2815,27 +2745,27 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb</name>
     <message>
-        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="64"/>
+        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="65"/>
         <source>Millimeters</source>
         <translation>毫米</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="66"/>
+        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="67"/>
         <source>Micrometers</source>
         <translation>微米</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="68"/>
+        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="69"/>
         <source>Nanometers</source>
         <translation>奈米</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="70"/>
+        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="71"/>
         <source>Inches</source>
         <translation>英吋</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="72"/>
+        <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="73"/>
         <source>Mils</source>
         <translation>密耳</translation>
     </message>
@@ -2851,7 +2781,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_netsegment.cpp" line="182"/>
+        <location filename="../libs/librepcb/core/project/board/items/bi_netsegment.cpp" line="68"/>
         <source>(no net)</source>
         <translation>( 沒有連接線 )</translation>
     </message>
@@ -2961,12 +2891,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::BI_Device</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="140"/>
+        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="68"/>
         <source>No device with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation>在專案元件庫中找不到 UUID 為&quot;%1&quot;的裝置。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="160"/>
+        <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="88"/>
         <source>No package with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation>在專案元件庫中找不到 UUID 為&quot;%1&quot;的封裝。</translation>
     </message>
@@ -2974,22 +2904,9 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::BI_NetPoint</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_netpoint.cpp" line="64"/>
+        <location filename="../libs/librepcb/core/project/board/items/bi_netpoint.cpp" line="53"/>
         <source>Dead net point in board &quot;%1&quot;: %2</source>
         <translation>在電路板&quot;%1&quot;中有死去的連接線點%2</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::BI_Plane</name>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_plane.cpp" line="90"/>
-        <source>Invalid net signal UUID: &quot;%1&quot;</source>
-        <translation>無效的連接線訊號 UUID：&quot;%1&quot;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_plane.h" line="178"/>
-        <source>Unknown plane connect style: &quot;%1&quot;</source>
-        <translation>未知的平面連接樣式：&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -3122,20 +3039,20 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::Circuit</name>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="164"/>
-        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="193"/>
+        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="103"/>
+        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="129"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
         <translation>已經有一個相同名稱&quot;%1&quot;的連接線類別！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="251"/>
-        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="281"/>
+        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="182"/>
+        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="209"/>
         <source>There is already a net signal with the name &quot;%1&quot;!</source>
         <translation>已經有一個相同名稱&quot;%1&quot;的連接線訊號！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="336"/>
-        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="366"/>
+        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="264"/>
+        <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="294"/>
         <source>There is already a component with the name &quot;%1&quot;!</source>
         <translation>已經有一個相同名稱&quot;%1&quot;的元件！</translation>
     </message>
@@ -3143,27 +3060,22 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::ComponentInstance</name>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="69"/>
-        <source>The component with the UUID &quot;%1&quot; does not exist in the project&apos;s library!</source>
-        <translation>UUID為&quot;%1&quot;的元件不存在於專案的元件庫中！</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="280"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="211"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation>無法移除元件&quot;%1&quot;因為它正在被使用中！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="319"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="250"/>
         <source>All symbols of a component must be placed in the same schematic.</source>
         <translation>所有元件的符號必須放置在同一張線路圖中。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="425"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="358"/>
         <source>Unplaced required symbols of component &quot;%1&quot;: %2</source>
         <translation>元件&quot;%1&quot;有必要卻沒被放入的符號：%2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="429"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="362"/>
         <source>Unplaced optional symbols of component &quot;%1&quot;: %2</source>
         <translation>元件&quot;%1&quot;有選擇性卻沒被放入的符號：%2</translation>
     </message>
@@ -3171,22 +3083,22 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::ComponentSignalInstance</name>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="176"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="140"/>
         <source>The net signal of the component signal &quot;%1:%2&quot; cannot be changed because it is still in use!</source>
         <translation>無法變更的元件連接線訊號&quot;%1:%2&quot;因為它正在被使用中！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="229"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="193"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation>無法移除元件&quot;%1&quot;因為它正在被使用中！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="300"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="253"/>
         <source>Unconnected component signal: &quot;%1&quot; from &quot;%2&quot;</source>
         <translation>元件&quot;%2&quot;的訊號&quot;%1&quot;未連接</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="304"/>
+        <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="257"/>
         <source>Signal name conflict: &quot;%1&quot; != &quot;%2&quot; (&quot;%3&quot; from &quot;%4&quot;)</source>
         <translation>訊號名稱衝突：&quot;%1&quot;!=&quot;%2&quot;（&quot;%3&quot;到&quot;%4&quot;）</translation>
     </message>
@@ -3517,15 +3429,6 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::Library</name>
     <message>
-        <location filename="../libs/librepcb/core/library/library.cpp" line="61"/>
-        <source>The library directory does not have the suffix '.lplib':
-
-%1</source>
-        <translation>元件庫的目錄沒有以&apos;.lplib&apos;作為結尾：
-
-%1</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/core/library/library.cpp" line="136"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
         <translation>元件庫目錄名稱必須是以&apos;.lplib&apos;作為結尾。</translation>
@@ -3534,35 +3437,23 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::LibraryBaseElement</name>
     <message>
-        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="88"/>
-        <source>Directory is not a library element of type %1: &quot;%2&quot;</source>
-        <translation>目錄不是一個%1型態的元件庫元素：&quot;%2&quot;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="96"/>
-        <source>Directory name is not a valid UUID: &quot;%1&quot;</source>
-        <translation>目錄 name is not a valid UUID: &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="108"/>
-        <source>The library element %1 was created with a newer application version. You need at least LibrePCB version %2 to open it.</source>
-        <translation>此元件庫元素 %1 是被較新版的應用程式建立的。你至少需要使用 LibrePCB %2 來開啟它。</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="143"/>
-        <source>UUID mismatch between element directory and main file: &quot;%1&quot;</source>
-        <translation>元素目錄和 main 檔之間的 UUID 不相符合：&quot;%1&quot;</translation>
+        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="171"/>
+        <source>This library element was created with a newer application version.
+You need at least LibrePCB %1 to open it.
+
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>librepcb::NetClass</name>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netclass.cpp" line="93"/>
+        <location filename="../libs/librepcb/core/project/circuit/netclass.cpp" line="84"/>
         <source>The net class &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation>無法移除連接線類別&quot;%1&quot;因為它正在被使用中！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netclass.cpp" line="136"/>
+        <location filename="../libs/librepcb/core/project/circuit/netclass.cpp" line="127"/>
         <source>Unused net class: &quot;%1&quot;</source>
         <translation>未使用的連接線類別：&quot;%1&quot;</translation>
     </message>
@@ -3570,17 +3461,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::NetSignal</name>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="154"/>
+        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="131"/>
         <source>The net signal &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation>無法移除連接線訊號&quot;%1&quot;因為它正在被使用中！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="267"/>
+        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="237"/>
         <source>Unused net signal: &quot;%1&quot;</source>
         <translation>未使用的連接線訊號：&quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="290"/>
+        <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="260"/>
         <source>Net signal connected to less than two pins: &quot;%1&quot;</source>
         <translation>元件訊號&quot;%1&quot;已連接的引腳數少於 2 支</translation>
     </message>
@@ -3690,27 +3581,55 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::Project</name>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="69"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="68"/>
         <source>The suffix of the project file must be &quot;lpp&quot;!</source>
         <translation>專案檔名稱必須是以&quot;.lpp&quot;作為結尾！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="80"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="209"/>
+        <source>There is already a schematic with the directory name &quot;%1&quot;!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="296"/>
+        <source>There is already a board with the directory name &quot;%1&quot;!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="483"/>
         <source>The directory &quot;%1&quot; already contains a LibrePCB project.</source>
         <translation>目錄&quot;%1&quot;已經包含一個 LibrePCB 專案。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="89"/>
-        <source>The directory &quot;%1&quot; does not contain a LibrePCB project.</source>
-        <translation>目錄&quot;%1&quot;尚未包含一個 LibrePCB 專案。</translation>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="202"/>
+        <source>There is already a schematic with the name &quot;%1&quot;!</source>
+        <translation>已經有一個相同名稱&quot;%1&quot;的線路圖！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="95"/>
-        <source>The file &quot;%1&quot; does not exist.</source>
-        <translation>檔案 &quot;%1&quot; 不存在。</translation>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="236"/>
+        <source>There are still elements in the schematic &quot;%1&quot;!</source>
+        <translation>線路圖&quot;%1&quot;中依然存在元素！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="105"/>
+        <location filename="../libs/librepcb/core/project/project.cpp" line="289"/>
+        <source>There is already a board with the name &quot;%1&quot;!</source>
+        <translation>已經有一個相同名稱&quot;%1&quot;的電路板！</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::ProjectLoader</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="101"/>
+        <source>File does not exist: &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="107"/>
+        <source>Directory does not contain a LibrePCB project: &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="119"/>
         <source>This project was created with a newer application version.
 You need at least LibrePCB %1 to open it.
 
@@ -3719,43 +3638,6 @@ You need at least LibrePCB %1 to open it.
 你至少需要使用 LibrePCB %1 來開啟它。
 
 %2</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="326"/>
-        <source>Invalid schematic name: &quot;%1&quot;</source>
-        <translation>無效的線路圖名稱：&quot;%1&quot;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="332"/>
-        <source>The schematic exists already: &quot;%1&quot;</source>
-        <translation>線路圖 &quot;%1&quot; 已經存在</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="350"/>
-        <source>There is already a schematic with the name &quot;%1&quot;!</source>
-        <translation>已經有一個相同名稱&quot;%1&quot;的線路圖！</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="376"/>
-        <source>There are still elements in the schematic &quot;%1&quot;!</source>
-        <translation>線路圖&quot;%1&quot;中依然存在元素！</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="423"/>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="440"/>
-        <source>Invalid board name: &quot;%1&quot;</source>
-        <translation>無效的電路板名稱：&quot;%1&quot;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="429"/>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="446"/>
-        <source>The board exists already: &quot;%1&quot;</source>
-        <translation>電路板 &quot;%1&quot; 已經存在</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/project.cpp" line="463"/>
-        <source>There is already a board with the name &quot;%1&quot;!</source>
-        <translation>已經有一個相同名稱&quot;%1&quot;的電路板！</translation>
     </message>
 </context>
 <context>
@@ -3774,7 +3656,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::SI_NetPoint</name>
     <message>
-        <location filename="../libs/librepcb/core/project/schematic/items/si_netpoint.cpp" line="64"/>
+        <location filename="../libs/librepcb/core/project/schematic/items/si_netpoint.cpp" line="53"/>
         <source>Dead net point in schematic page &quot;%1&quot;: %2</source>
         <translation>在線路圖頁面&quot;%1&quot;中有死去的連接線點%2</translation>
     </message>
@@ -3782,7 +3664,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::SI_Symbol</name>
     <message>
-        <location filename="../libs/librepcb/core/project/schematic/items/si_symbol.cpp" line="94"/>
+        <location filename="../libs/librepcb/core/project/schematic/items/si_symbol.cpp" line="66"/>
         <source>No symbol with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
         <translation>UUID為&quot;%1&quot;的符號不存在於專案的元件庫中。</translation>
     </message>
@@ -3849,12 +3731,12 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::Workspace</name>
     <message>
-        <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="153"/>
+        <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="154"/>
         <source>The directory &quot;%1&quot; is not a valid LibrePCB workspace.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="165"/>
+        <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="166"/>
         <source>The workspace &quot;%1&quot; requires LibrePCB %2 or later.</source>
         <translation type="unfinished"/>
     </message>
@@ -3862,175 +3744,175 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::cli</name>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="363"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="364"/>
         <source>Open project &apos;%1&apos;...</source>
         <translation>開啟專案 &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="429"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="432"/>
         <source>Check for non-canonical files...</source>
         <translation>檢查非正規的檔案...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="432"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="435"/>
         <source>ERROR: The option &apos;--strict&apos; is not available for *.lppz files!</source>
         <translation>錯誤：選項&apos;--strict&apos;不適用於*.lppz檔案！</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="455"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="458"/>
         <source>Run ERC...</source>
         <translation>執行 ERC...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="468"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="471"/>
         <source>WARNING</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="471"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="515"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="474"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="518"/>
         <source>ERROR</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="478"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="481"/>
         <source>Approved messages: %1</source>
         <translation>批准的訊息：%1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="479"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="482"/>
         <source>Non-approved messages: %1</source>
         <translation>未批准的訊息：&apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="490"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="493"/>
         <source>Export schematics to &apos;%1&apos;...</source>
         <translation>匯出線路圖到&apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="572"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="658"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="575"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="662"/>
         <source>ERROR: Unknown extension &apos;%1&apos;.</source>
         <translation>錯誤：未知的檔案關聯 &apos;%1&apos;。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="687"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="691"/>
         <source>ERROR: The file &apos;%1&apos; was written multiple times!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="539"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="542"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
         <translation>匯出電路板用的原物料清單(BOM)到&apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="542"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="545"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
         <translation>匯出通用的原物料清單(BOM)到&apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="581"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="584"/>
         <source>Export PCB fabrication data...</source>
         <translation>匯出加工資料...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="392"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="395"/>
         <source>ERROR: No board with the name &apos;%1&apos; found.</source>
         <translation>錯誤：找不到包含名稱 %1 的電路板。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="405"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="408"/>
         <source>ERROR: Board index &apos;%1&apos; is invalid.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="413"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="416"/>
         <source>Remove other boards...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="594"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="598"/>
         <source>ERROR: Failed to load custom settings: %1</source>
         <translation>錯誤：載入自訂設定檔失敗：%1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="600"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="604"/>
         <source>Board &apos;%1&apos;:</source>
         <translation>電路板&apos;%1&apos;：</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="623"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="627"/>
         <source>top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="627"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="631"/>
         <source>bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="631"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="635"/>
         <source>Export %1 assembly data to &apos;%2&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="667"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="671"/>
         <source>Save project...</source>
         <translation>儲存專案...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="692"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="696"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
         <translation>註：為了避免檔案被多次覆寫，再次確認所有的輸出功能都是唯一的檔案路徑。對於電路板輸出檔，您可以在路徑中加入置換符號 &apos;%1&apos; 或者在指定電路板輸出時使用 &apos;%2&apos; 參數。</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="703"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="822"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="707"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="833"/>
         <source>ERROR: %1</source>
         <translation>錯誤：%1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="715"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="719"/>
         <source>Open library &apos;%1&apos;...</source>
         <translation>開啟元件庫 &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="727"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="732"/>
         <source>Process %1 component categories...</source>
         <translation>處理 %1 個元件分類...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="730"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="746"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="762"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="778"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="794"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="810"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="735"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="752"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="769"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="786"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="803"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="820"/>
         <source>Open &apos;%1&apos;...</source>
         <translation>開啟 &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="743"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="749"/>
         <source>Process %1 package categories...</source>
         <translation>處理 %1 個封裝分類...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="759"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="766"/>
         <source>Process %1 symbols...</source>
         <translation>處理 %1 個符號...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="775"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="783"/>
         <source>Process %1 packages...</source>
         <translation>處理 %1 個封裝...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="791"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="800"/>
         <source>Process %1 components...</source>
         <translation>處理 %1 個元件...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="807"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="817"/>
         <source>Process %1 devices...</source>
         <translation>處理 %1 個裝置...</translation>
     </message>
@@ -4142,7 +4024,7 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/utils/standardeditorcommandhandler.cpp" line="94"/>
+        <location filename="../libs/librepcb/editor/utils/standardeditorcommandhandler.cpp" line="96"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -4216,17 +4098,17 @@ You need at least LibrePCB %1 to open it.
         <translation>複製到剪貼簿</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="65"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="67"/>
         <source>For more information, please check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
         <translation>更多資訊請前往 &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; 或是我們的 &lt;a href=&apos;%2&apos;&gt;GitHub 版本庫&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="70"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="72"/>
         <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal or Bitcoin. Check out &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; for details.</source>
         <translation>透過 Patreon, PayPal or Bitcoin 來支援 LibrePCB 的永續開發，詳細資訊請前往&lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="75"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="77"/>
         <source>Check out our &lt;a href=&apos;%1&apos;&gt;Contribution Guidelines&lt;/a&gt; if you&apos;re interested in development of LibrePCB!</source>
         <translation>如果您對於 LibrePCB 的開發有興趣請前往&lt;a href=&apos;%1&apos;&gt;Contribution Guidelines&lt;/a&gt;！</translation>
     </message>
@@ -4261,27 +4143,27 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="229"/>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="242"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="277"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="281"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="467"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="471"/>
         <source>No component selected</source>
         <translation>沒有選擇的元件</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="529"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="535"/>
         <source>No device selected</source>
         <translation>沒有選擇的裝置</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="563"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="568"/>
         <source>Invalid Selection</source>
         <translation>無效的選擇</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="564"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="569"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>請選取一個裝置和一個符號變體。</translation>
     </message>
@@ -4749,27 +4631,27 @@ You need at least LibrePCB %1 to open it.
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;此線路圖中包含了尚未置入電路板中的原件。你可以透過 &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;放置裝置&lt;/span&gt;&lt;/a&gt; 視窗來將它們加入&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="633"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="632"/>
         <source>File</source>
         <translation>檔案</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="651"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="650"/>
         <source>Edit</source>
         <translation>編輯</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="664"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="663"/>
         <source>View</source>
         <translation>檢視</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="698"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="697"/>
         <source>Tools</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="689"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="688"/>
         <source>Command</source>
         <translation>指令</translation>
     </message>
@@ -4779,7 +4661,7 @@ You need at least LibrePCB %1 to open it.
         <translation>%1 - LibrePCB 電路板編輯器</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="675"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="674"/>
         <source>Find device...</source>
         <translation>尋找裝置...</translation>
     </message>
@@ -4789,64 +4671,70 @@ You need at least LibrePCB %1 to open it.
         <translation>掃描元件庫中(%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1147"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1146"/>
         <source>Add New Board</source>
         <translation>新增電路板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1147"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1168"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1146"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1174"/>
         <source>Choose a name:</source>
         <translation>選取一個名稱：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1148"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1147"/>
         <source>new_board</source>
         <translation>new_board</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="379"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1047"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1158"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1179"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1197"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1249"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1313"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1046"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1164"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1192"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1210"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1262"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1326"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="850"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="849"/>
         <source>Boards</source>
         <translation>電路板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1168"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1155"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1183"/>
+        <source>Invalid name: &apos;%1&apos;</source>
+        <translation>無效的名稱：&apos;%1&apos;</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1174"/>
         <source>Copy Board</source>
         <translation>複製電路板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1169"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1175"/>
         <source>copy_of_%1</source>
         <translation>copy_of_%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1188"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1201"/>
         <source>Remove board</source>
         <translation>移除電路板</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1189"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1202"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>您確定要移除電路板&quot;%1&quot;嗎？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1286"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1299"/>
         <source>Preparing board...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1286"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1299"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -5565,12 +5453,12 @@ You need at least LibrePCB %1 to open it.
         <translation>UUID 為&quot;%1&quot;的裝置不存在於工作區元件庫中！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="110"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="112"/>
         <source>The package with the UUID &quot;%1&quot; does not exist in the workspace library!</source>
         <translation>UUID 為&quot;%1&quot;的封裝不存在於工作區元件庫中！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="129"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="133"/>
         <source>Package does not have any footprints: %1</source>
         <translation>封裝中沒有任何腳位圖：%1</translation>
     </message>
@@ -5599,14 +5487,9 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdBoardAdd</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdboardadd.cpp" line="41"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdboardadd.cpp" line="43"/>
         <source>Add board</source>
         <translation>加入電路板</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdboardadd.cpp" line="51"/>
-        <source>Copy board</source>
-        <translation>複製電路板</translation>
     </message>
 </context>
 <context>
@@ -6286,7 +6169,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdSchematicNetLabelAdd</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeladd.cpp" line="45"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeladd.cpp" line="41"/>
         <source>Add netlabel</source>
         <translation>加入連接線標籤</translation>
     </message>
@@ -6566,12 +6449,12 @@ You need at least LibrePCB %1 to open it.
         <translation>無法載入元件的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="265"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="268"/>
         <source>Invalid Selection</source>
         <translation>無效的選擇</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="266"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="269"/>
         <source>Please select a component.</source>
         <translation>請選取一個元件。</translation>
     </message>
@@ -6664,22 +6547,22 @@ You need at least LibrePCB %1 to open it.
         <translation>訊息：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="156"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="157"/>
         <source>Invalid metadata</source>
         <translation>無效的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="167"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="168"/>
         <source>Save failed</source>
         <translation>復原失敗</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="306"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="307"/>
         <source>Determine default value</source>
         <translation>決定預設值</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="308"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="309"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
         <translation>這是一個特規而非通用型的元件嗎？</translation>
     </message>
@@ -6990,7 +6873,7 @@ You need at least LibrePCB %1 to open it.
         <translation>LibrePCB 控制台</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="98"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="99"/>
         <source>This workspace was already used with a newer version of LibrePCB. All changes in libraries and workspace settings will not be available in newer versions of LibrePCB.</source>
         <translation>此工作區已被較新版本的 LibrePCB 使用過。所有在元件庫和工作區上的變更將無法被更新版本的 LibrePCB 使用。</translation>
     </message>
@@ -7001,7 +6884,7 @@ You need at least LibrePCB %1 to open it.
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="132"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="440"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="441"/>
         <source>Open Project</source>
         <translation>開啟專案</translation>
     </message>
@@ -7026,84 +6909,84 @@ You need at least LibrePCB %1 to open it.
         <translation>專案說明</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="75"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="76"/>
         <source>Control Panel - LibrePCB %1</source>
         <translation>控制台 - LibrePCB %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="80"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="81"/>
         <source>Workspace: %1</source>
         <translation>工作區： %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="81"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="82"/>
         <source>Scanning libraries (%p%)</source>
         <translation>掃描元件庫中(%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="109"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="110"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should &lt;a href=&quot;%1&quot;&gt;open the library manager&lt;/a&gt; to add some libraries.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="399"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="400"/>
         <source>Could not create project</source>
         <translation>無法建立專案</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="426"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="483"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="427"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="486"/>
         <source>Could not open project</source>
         <translation>無法開啟專案</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="530"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="533"/>
         <source>Restore autosave backup?</source>
         <translation>還原自動儲存的備份？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="531"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="534"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>噢，看起來上次這個程式在開啟你的專案時GG了，想要還原上次自動儲存的備份嗎？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="561"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="730"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="564"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="733"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="441"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="442"/>
         <source>LibrePCB project files (%1)</source>
         <translation>LibrePCB 專案檔 (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="365"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="366"/>
         <source>Workspace changed</source>
         <translation>工作區已變更</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="366"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="367"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation>重新開啟應用程式之後將使用已選擇的工作區。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="707"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="710"/>
         <source>New Folder</source>
         <translation>新增資料夾</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="717"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="720"/>
         <source>Remove</source>
         <translation>移除</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="707"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="710"/>
         <source>Name:</source>
         <translation>名稱：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="718"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="721"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -7216,7 +7099,7 @@ Warning: This cannot be undone!</source>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="298"/>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="395"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="399"/>
         <source>Package not found!</source>
         <translation>找不到封裝！</translation>
     </message>
@@ -7503,12 +7386,12 @@ Do you really want to close it?</source>
 <context>
     <name>librepcb::editor::EagleLibraryImportWizardContext</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="96"/>
+        <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="97"/>
         <source>No file selected.</source>
         <translation>未選擇任何檔案</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="102"/>
+        <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="103"/>
         <source>Found %1 element(s) in the selected library.</source>
         <translation><numerusform>在選擇的資料夾中找到找到 %1 元素。</numerusform></translation>
     </message>
@@ -8632,27 +8515,27 @@ Do you really want to close it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="57"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="58"/>
         <source>Select Workspace Directory</source>
         <translation>選取工作區目錄</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="120"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="121"/>
         <source>Please select a directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="122"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="123"/>
         <source>Directory contains a valid workspace.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="124"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="125"/>
         <source>New workspace will be created.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="127"/>
         <source>Directory is not empty!</source>
         <translation type="unfinished"/>
     </message>
@@ -9668,6 +9551,12 @@ This can be reverted in the workspace settings dialog.</source>
         <source>Add B&amp;oard</source>
         <translation>加入電路板 (&amp;o)</translation>
     </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.cpp" line="99"/>
+        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.cpp" line="112"/>
+        <source>Invalid name!</source>
+        <translation>無效的名稱！</translation>
+    </message>
 </context>
 <context>
     <name>librepcb::editor::NewProjectWizardPage_Metadata</name>
@@ -9830,38 +9719,38 @@ This can be reverted in the workspace settings dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="75"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="73"/>
         <source>discussion forum</source>
         <translation>論壇</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="106"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="104"/>
         <source>This feature is not available because there is no API server configured in your workspace settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="157"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="155"/>
         <source>Exporting project...</source>
         <translation>正在匯出專案...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="177"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="175"/>
         <source>Uploading project...</source>
         <translation>正在上傳專案...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="204"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="202"/>
         <source>Success! Open %1 to continue.</source>
         <comment>Placeholder is an URL with hyperlink.</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="214"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="212"/>
         <source>Success! Opening %1...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="216"/>
+        <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="214"/>
         <source>Failed to open %1</source>
         <translation type="unfinished"/>
     </message>
@@ -10457,17 +10346,17 @@ This can be reverted in the workspace settings dialog.</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="265"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="263"/>
         <source>Error while saving the project</source>
         <translation>儲存專案時出現錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="312"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="310"/>
         <source>Save Project?</source>
         <translation>儲存專案？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="313"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="311"/>
         <source>You have unsaved changes in the project.
 Do you want to save them before closing the project?</source>
         <translation>在專案中有未儲存的變更。
@@ -10514,53 +10403,53 @@ p, li { white-space: pre-wrap; }
         <translation>更新&quot;%1&quot;的元件庫！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="83"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="84"/>
         <source>Ask to close project (confirm message box!)</source>
         <translation>詢問是否關閉專案（確定訊息視窗！）</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="90"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="91"/>
         <source>Abort.</source>
         <translation>放棄。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="97"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="98"/>
         <source>Open project file system...</source>
         <translation>開啟專案檔系統...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="111"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="112"/>
         <source>Open project %1...</source>
         <translation>開啟專案 %1...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="115"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="118"/>
         <source>Save project %1...</source>
         <translation>儲存專案 %1...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="120"/>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="128"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="123"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="131"/>
         <source>[ERROR] %1</source>
         <translation>[錯誤] %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="122"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="125"/>
         <source>Failed to update library elements! Probably there were breaking changes in some library elements.</source>
         <translation>更新元件庫元素失敗！可能因為一些元件庫元素被改壞了。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="129"/>
         <source>[SUCCESS] All library elements updated.</source>
         <translation>[成功] 所有的元件庫元素都已更新。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="165"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="168"/>
         <source>Update %1...</source>
         <translation>更新 %1...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="172"/>
+        <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="175"/>
         <source>Skip %1...</source>
         <translation>跳過 %1...</translation>
     </message>
@@ -10796,32 +10685,32 @@ p, li { white-space: pre-wrap; }
         <translation>線路圖編輯器</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="561"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="560"/>
         <source>File</source>
         <translation>檔案</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="579"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="578"/>
         <source>Edit</source>
         <translation>編輯</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="592"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="591"/>
         <source>View</source>
         <translation>檢視</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="626"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="625"/>
         <source>Tools</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="617"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="616"/>
         <source>Command</source>
         <translation>指令</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="639"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="638"/>
         <source>Components</source>
         <translation>元件</translation>
     </message>
@@ -10831,7 +10720,7 @@ p, li { white-space: pre-wrap; }
         <translation>%1 - LibrePCB 線路圖編輯器</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="603"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="602"/>
         <source>Find symbol...</source>
         <translation>尋找符號...</translation>
     </message>
@@ -10841,15 +10730,15 @@ p, li { white-space: pre-wrap; }
         <translation>掃描元件庫中(%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="933"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="946"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="966"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1109"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="939"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="952"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="972"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1115"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="921"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="920"/>
         <source>Add schematic page</source>
         <translation>加入線路圖頁面</translation>
     </message>
@@ -10859,32 +10748,37 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="922"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="921"/>
         <source>Choose a name:</source>
         <translation>選取一個名稱：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="923"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="922"/>
         <source>New Page</source>
         <translation>新增頁面</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="956"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="930"/>
+        <source>Invalid name: &apos;%1&apos;</source>
+        <translation>無效的名稱：&apos;%1&apos;</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="962"/>
         <source>Rename sheet</source>
         <translation>重新命名稿紙</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="956"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="962"/>
         <source>Choose new name:</source>
         <translation>取一個新名稱：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1081"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1087"/>
         <source>Preparing schematics...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1081"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1087"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -10925,8 +10819,8 @@ p, li { white-space: pre-wrap; }
     <name>librepcb::editor::SchematicEditorState_AddNetLabel</name>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="76"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="198"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="229"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="201"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="232"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -11813,18 +11707,18 @@ p, li { white-space: pre-wrap; }
         <translation>放置裝置 [%1]</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="383"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="385"/>
         <source>Default footprint.</source>
         <translation>預設腳位圖</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="438"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="529"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="440"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="531"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="493"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="495"/>
         <source>Add devices to board</source>
         <translation>加入裝置至電路板</translation>
     </message>
