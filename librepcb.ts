@@ -2058,7 +2058,7 @@
     <message>
         <location filename="../libs/librepcb/core/export/excellongenerator.cpp" line="184"/>
         <source>Using the G85 slot command is not possible for curved slots. Either remove curved slots or disable the G85 export option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Using the G85 slot command is not possible for curved slots. Either remove curved slots or disable the G85 export option.</translation>
     </message>
 </context>
 <context>
@@ -2595,7 +2595,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/geometry/path.h" line="192"/>
         <source>Path doesn&apos;t contain vertices!</source>
-        <translation type="unfinished"></translation>
+        <translation>Path doesn&apos;t contain vertices!</translation>
     </message>
 </context>
 <context>
@@ -3032,18 +3032,18 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="451"/>
         <source>Min. hole diameter: %1 &lt; %2</source>
         <comment>The &apos;&lt;&apos; means &apos;smaller than&apos;.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Min. hole diameter: %1 &lt; %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="484"/>
         <source>Check minimum NPTH slot width...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check minimum NPTH slot width...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="487"/>
         <source>Min. NPTH slot width: %1 &lt; %2</source>
         <comment>The &apos;&lt;&apos; means &apos;smaller than&apos;.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Min. NPTH slot width: %1 &lt; %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="520"/>
@@ -3065,52 +3065,52 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="563"/>
         <source>Check NPTH slots...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check NPTH slots...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="567"/>
         <source>Either avoid them or check if your PCB manufacturer supports them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Either avoid them or check if your PCB manufacturer supports them.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="570"/>
         <source>Choose the desired Excellon slot mode when generating the production data (G85 vs. G00..G03).</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose the desired Excellon slot mode when generating the production data (G85 vs. G00..G03).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="573"/>
         <source>The drilled slot mode (G85) will not be available when generating production data.</source>
-        <translation type="unfinished"></translation>
+        <translation>The drilled slot mode (G85) will not be available when generating production data.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="578"/>
         <source>Hole is a slot with curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Hole is a slot with curves</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="579"/>
         <source>Curved slots are a very unusual thing and may cause troubles with many PCB manufacturers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Curved slots are a very unusual thing and may cause troubles with many PCB manufacturers.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="585"/>
         <source>Hole is a multi-segment slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Hole is a multi-segment slot</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="586"/>
         <source>Multi-segment slots are a rather unusual thing and may cause troubles with some PCB manufacturers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Multi-segment slots are a rather unusual thing and may cause troubles with some PCB manufacturers.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="592"/>
         <source>Hole is a slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Hole is a slot</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="593"/>
         <source>Slots may cause troubles with some PCB manufacturers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Slots may cause troubles with some PCB manufacturers.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="448"/>
@@ -4583,7 +4583,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="153"/>
         <source>Warn About NPTH Slots:</source>
-        <translation type="unfinished"></translation>
+        <translation>Warn About NPTH Slots:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="170"/>
@@ -4608,7 +4608,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="235"/>
         <source>Minimum NPTH Slot Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum NPTH Slot Width:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="248"/>
@@ -4618,17 +4618,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.cpp" line="78"/>
         <source>Only Curved</source>
-        <translation type="unfinished"></translation>
+        <translation>Only Curved</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.cpp" line="80"/>
         <source>Multi-Segment or Curved</source>
-        <translation type="unfinished"></translation>
+        <translation>Multi-Segment or Curved</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.cpp" line="84"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>All</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.cpp" line="88"/>
@@ -8033,12 +8033,14 @@ Do you really want to close it?</translation>
         <source>Export slots as drilled (G85) instead of routed (G00..G03).
 Not recommended unless the G00..G03 are causing troubles with the PCB manufacturer.
 Attention: Curved slots are not supported in G85 mode (will raise an error).</source>
-        <translation type="unfinished"></translation>
+        <translation>Export slots as drilled (G85) instead of routed (G00..G03).
+Not recommended unless the G00..G03 are causing troubles with the PCB manufacturer.
+Attention: Curved slots are not supported in G85 mode (will raise an error).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="302"/>
         <source>Use drilled slot command in Excellon files (G85)</source>
-        <translation type="unfinished"></translation>
+        <translation>Use drilled slot command in Excellon files (G85)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="314"/>
@@ -8572,7 +8574,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="41"/>
         <source>Circular Drill</source>
-        <translation type="unfinished"></translation>
+        <translation>Circular Drill</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="47"/>
@@ -8582,32 +8584,32 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="65"/>
         <source>Linear Slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linear Slot</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="81"/>
         <source>Rotation:</source>
-        <translation type="unfinished">Rotation:</translation>
+        <translation>Rotation:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="88"/>
         <source>Center:</source>
-        <translation type="unfinished"></translation>
+        <translation>Center:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="118"/>
         <source>Length:</source>
-        <translation type="unfinished">Length:</translation>
+        <translation>Length:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="126"/>
         <source>Arbitrary Slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbitrary Slot</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.cpp" line="222"/>
         <source>Outer Size:</source>
-        <translation type="unfinished">Outer Size:</translation>
+        <translation>Outer Size:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.cpp" line="256"/>
