@@ -144,12 +144,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="91"/>
         <source>Print this message.</source>
-        <translation type="unfinished"/>
+        <translation>顯示此訊息</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
         <source>Displays version information.</source>
-        <translation type="unfinished"/>
+        <translation>顯示版本資訊</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="96"/>
