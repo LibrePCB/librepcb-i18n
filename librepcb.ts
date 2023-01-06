@@ -2526,12 +2526,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgpadrestringviolation.cpp" line="42"/>
         <source>Restring of pad &apos;%1&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Restring of pad &apos;%1&apos; in &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgpadrestringviolation.cpp" line="44"/>
         <source>Pads should have at least %1 restring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pads should have at least %1 restring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</translation>
     </message>
 </context>
 <context>
@@ -3003,13 +3003,13 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="439"/>
         <source>Restring of via &apos;%1&apos; &lt; %2</source>
         <comment>Placeholders are net name + restring width</comment>
-        <translation type="unfinished"></translation>
+        <translation>Restring of via &apos;%1&apos; &lt; %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="475"/>
         <source>Restring of pad &apos;%1&apos; &lt; %2</source>
         <comment>Placeholders are pad name + restring width</comment>
-        <translation type="unfinished"></translation>
+        <translation>Restring of pad &apos;%1&apos; &lt; %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="494"/>
@@ -3048,13 +3048,13 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="603"/>
         <source>Check minimum PTH slot width...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check minimum PTH slot width...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="606"/>
         <source>Min. PTH slot width: %1 &lt; %2</source>
         <comment>The &apos;&lt;&apos; means &apos;smaller than&apos;.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Min. PTH slot width: %1 &lt; %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="632"/>
@@ -3064,7 +3064,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="653"/>
         <source>Check PTH slots...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check PTH slots...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="676"/>
@@ -4612,12 +4612,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="245"/>
         <source>Minimum PTH Slot Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum PTH Slot Width:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="258"/>
         <source>Warn About PTH Slots:</source>
-        <translation type="unfinished"></translation>
+        <translation>Warn About PTH Slots:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="278"/>
@@ -8178,7 +8178,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="24"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="30"/>
@@ -8188,7 +8188,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="40"/>
         <source>Component Side:</source>
-        <translation type="unfinished"></translation>
+        <translation>Component Side:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="62"/>
@@ -8223,42 +8223,42 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="125"/>
         <source>Hole Diameter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hole Diameter:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="137"/>
         <source>Multiple holes, see &lt;a href=&quot;tab&quot;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiple holes, see &lt;a href=&quot;tab&quot;&gt;here&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="150"/>
         <source>Convert to SMT</source>
-        <translation type="unfinished"></translation>
+        <translation>Convert to SMT</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="217"/>
         <source>Plated Holes</source>
-        <translation type="unfinished"></translation>
+        <translation>Plated Holes</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="235"/>
         <source>Select previous hole</source>
-        <translation type="unfinished"></translation>
+        <translation>Select previous hole</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="248"/>
         <source>Select next hole</source>
-        <translation type="unfinished"></translation>
+        <translation>Select next hole</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="261"/>
         <source>Remove current hole</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove current hole</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="272"/>
         <source>Add new hole</source>
-        <translation type="unfinished"></translation>
+        <translation>Add new hole</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="172"/>
@@ -8283,12 +8283,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="243"/>
         <source>Hole %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Hole %1 of %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="246"/>
         <source>Pad has no holes</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad has no holes</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="305"/>
@@ -8618,47 +8618,47 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="37"/>
         <source>Diameter:</source>
-        <translation type="unfinished">Diameter:</translation>
+        <translation>Diameter:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="53"/>
         <source>Circular Drill</source>
-        <translation type="unfinished">Circular Drill</translation>
+        <translation>Circular Drill</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="59"/>
         <source>Position:</source>
-        <translation type="unfinished">Position:</translation>
+        <translation>Position:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="77"/>
         <source>Linear Slot</source>
-        <translation type="unfinished">Linear Slot</translation>
+        <translation>Linear Slot</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="93"/>
         <source>Rotation:</source>
-        <translation type="unfinished">Rotation:</translation>
+        <translation>Rotation:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="100"/>
         <source>Center:</source>
-        <translation type="unfinished">Center:</translation>
+        <translation>Center:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="130"/>
         <source>Length:</source>
-        <translation type="unfinished">Length:</translation>
+        <translation>Length:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="138"/>
         <source>Arbitrary Slot</source>
-        <translation type="unfinished">Arbitrary Slot</translation>
+        <translation>Arbitrary Slot</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.cpp" line="237"/>
         <source>Outer Size:</source>
-        <translation type="unfinished">Outer Size:</translation>
+        <translation>Outer Size:</translation>
     </message>
 </context>
 <context>
