@@ -2576,7 +2576,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>Path</name>
     <message>
-        <location filename="../libs/librepcb/core/geometry/path.h" line="192"/>
+        <location filename="../libs/librepcb/core/geometry/path.h" line="194"/>
         <source>Path doesn&apos;t contain vertices!</source>
         <translation>Path doesn&apos;t contain vertices!</translation>
     </message>
@@ -5949,7 +5949,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddeviceinstanceedit.cpp" line="40"/>
         <source>Edit Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit Device</translation>
     </message>
 </context>
 <context>
@@ -6438,7 +6438,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstanceedit.cpp" line="40"/>
         <source>Edit Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit Symbol</translation>
     </message>
 </context>
 <context>
@@ -6446,7 +6446,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstanceeditall.cpp" line="44"/>
         <source>Drag Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Drag Symbol</translation>
     </message>
 </context>
 <context>
@@ -6462,7 +6462,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstancetextadd.cpp" line="41"/>
         <source>Add symbol text</source>
-        <translation type="unfinished">Add symbol text</translation>
+        <translation>Add symbol text</translation>
     </message>
 </context>
 <context>
@@ -6470,7 +6470,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstancetextremove.cpp" line="41"/>
         <source>Remove symbol text</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove symbol text</translation>
     </message>
 </context>
 <context>
@@ -6478,7 +6478,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstancetextsreset.cpp" line="44"/>
         <source>Reset symbol texts</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset symbol texts</translation>
     </message>
 </context>
 <context>
