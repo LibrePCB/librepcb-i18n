@@ -2573,7 +2573,7 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
 <context>
     <name>Path</name>
     <message>
-        <location filename="../libs/librepcb/core/geometry/path.h" line="192"/>
+        <location filename="../libs/librepcb/core/geometry/path.h" line="194"/>
         <source>Path doesn&apos;t contain vertices!</source>
         <translation type="unfinished"/>
     </message>
