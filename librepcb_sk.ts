@@ -119,7 +119,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
         <source>Displays version information.</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť informácie o verzii.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="96"/>
@@ -209,7 +209,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="168"/>
         <source>Remove all boards not specified with &apos;%1&apos; from the project before executing all the other actions. If &apos;%1&apos; is not passed, all boards will be removed. Pass &apos;%2&apos; to save the modified project to disk.</source>
-        <translation type="unfinished"/>
+        <translation>Pred vykonaním ostatných akcií, odstráňte z projektu všetky nešpecifkované dosky pomocou &apos;%1&apos;. Ak &apos;%1&apos; nebolo zadané, budú odstránené všetky dosky. Zadaním &apos;%2&apos; bude projekt uložený na disk.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="175"/>
@@ -239,12 +239,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="203"/>
         <source>List command-specific options:</source>
-        <translation type="unfinished"/>
+        <translation>Vypísať špecifické možnosti pre príkazy:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="206"/>
         <source>Help:</source>
-        <translation type="unfinished"/>
+        <translation>Pomocník:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="240"/>
@@ -264,12 +264,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="295"/>
         <source>Missing arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Chýbajúce argumenty:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="301"/>
         <source>Unknown arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Neznáme argumenty:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="850"/>
@@ -294,7 +294,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="99"/>
         <source>The command to execute (see list below).</source>
-        <translation type="unfinished"/>
+        <translation>Príkaz na vykonanie (pozri zoznam nižšie).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="220"/>
@@ -304,7 +304,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
         <source>File Format %1</source>
-        <translation type="unfinished"/>
+        <translation>Formát súboru %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="283"/>
@@ -513,7 +513,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="177"/>
         <source>Choose another workspace to open</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte iný pracovný priestor, ktorý chcete otvoriť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="185"/>
@@ -523,7 +523,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="186"/>
         <source>Open the workspace settings dialog</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť dialógové okno nastavenia pracovnej plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="194"/>
@@ -533,7 +533,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="195"/>
         <source>Scan all workspace libraries to update the cache</source>
-        <translation type="unfinished"/>
+        <translation>Skenovať všetky knižnice pracovného priestoru pre aktualizovanie cache</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="203"/>
@@ -543,7 +543,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="204"/>
         <source>Open the library manager window</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť okno správcu knižníc</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="212"/>
@@ -563,7 +563,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="222"/>
         <source>Create a new element by duplicating this one</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť nový element duplikovaním tohto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="230"/>
@@ -593,7 +593,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="249"/>
         <source>Save the currently opened project</source>
-        <translation type="unfinished"/>
+        <translation>Uložiť aktuálne otvorený projekt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="257"/>
@@ -603,7 +603,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="258"/>
         <source>View/modify the project settings</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť/upraviť nastavenie projektu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="266"/>
@@ -613,7 +613,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="267"/>
         <source>View/modify the project properties</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť/upraviť vlastnosti projektu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="275"/>
@@ -623,7 +623,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="276"/>
         <source>View/modify the net classes</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť/upraviť triedy spojov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="284"/>
@@ -633,7 +633,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="285"/>
         <source>View/modify the grid properties</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť/upraviť vlastnosti rastra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="293"/>
@@ -653,7 +653,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="303"/>
         <source>View/modify the board design rules</source>
-        <translation>Zobrazenie/úprava návrhových pravidiel dosky</translation>
+        <translation>Zobraziť/upraviť návrhové pravidlá dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="311"/>
@@ -663,7 +663,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="312"/>
         <source>Run the design rule check (DRC)</source>
-        <translation>Spustenie kontroly návrhových pravidiel (DRC)</translation>
+        <translation>Spustiť kontrolu podľa návrhových pravidiel (DRC)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="320"/>
@@ -673,7 +673,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="321"/>
         <source>Update the project&apos;s library elements from workspace libraries</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizovať elementy projektovej knižnice z knižníc pracovného priestoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="330"/>
