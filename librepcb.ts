@@ -3122,17 +3122,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="45"/>
         <source>NOTE</source>
-        <translation type="unfinished"></translation>
+        <translation>NOTE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="47"/>
         <source>WARNING</source>
-        <translation type="unfinished">WARNING</translation>
+        <translation>WARNING</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="49"/>
         <source>CRITICAL</source>
-        <translation type="unfinished"></translation>
+        <translation>CRITICAL</translation>
     </message>
 </context>
 <context>
@@ -3570,7 +3570,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="391"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</translation>
     </message>
 </context>
 <context>
@@ -4270,7 +4270,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="386"/>
         <source>Attention: Project has been upgraded to a newer file format!</source>
-        <translation type="unfinished"></translation>
+        <translation>Attention: Project has been upgraded to a newer file format!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="427"/>
@@ -11390,14 +11390,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="152"/>
         <source>ATTENTION: This project has been upgraded to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION: This project has been upgraded to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="157"/>
         <source>The upgrade produced &lt;a href=&apos;%1&apos;&gt;%2 message(s)&lt;/a&gt;, please review before proceeding.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>The upgrade produced &lt;a href=&apos;%1&apos;&gt;%2 message(s)&lt;/a&gt;, please review before proceeding.</numerusform>
+            <numerusform>The upgrade produced &lt;a href=&apos;%1&apos;&gt;%2 message(s)&lt;/a&gt;, please review before proceeding.</numerusform>
         </translation>
     </message>
     <message>
@@ -11443,27 +11443,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1202"/>
         <source>File Format Upgrade Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>File Format Upgrade Messages</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1207"/>
         <source>Severity</source>
-        <translation type="unfinished"></translation>
+        <translation>Severity</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1207"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1207"/>
         <source>Occurrences</source>
-        <translation type="unfinished"></translation>
+        <translation>Occurrences</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1207"/>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Message</translation>
     </message>
 </context>
 <context>
