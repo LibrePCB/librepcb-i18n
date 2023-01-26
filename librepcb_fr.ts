@@ -2556,7 +2556,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/sym/msg/msgwrongsymboltextlayer.cpp" line="43"/>
+        <location filename="../libs/librepcb/core/library/sym/msg/msgwrongsymboltextlayer.cpp" line="44"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
         <translation type="unfinished"/>
     </message>
@@ -2572,9 +2572,9 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>QShortcut</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="539"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="538"/>
-        <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="465"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="538"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="537"/>
+        <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="463"/>
         <source>Shift</source>
         <translation type="unfinished"/>
     </message>
@@ -2691,6 +2691,339 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/systeminfo.cpp" line="330"/>
         <source>Could not determine the process name of another process.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Theme</name>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="80"/>
+        <source>Schematic Background/Grid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="81"/>
+        <source>Schematic Overlays</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="82"/>
+        <source>Schematic Info Box</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="83"/>
+        <source>Schematic Selection</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="84"/>
+        <source>Schematic References</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="85"/>
+        <source>Schematic Frames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="86"/>
+        <source>Schematic Wires</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="87"/>
+        <source>Schematic Net Labels</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="88"/>
+        <source>Schematic Net Label Anchors</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="89"/>
+        <source>Schematic Documentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="90"/>
+        <source>Schematic Comments</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="91"/>
+        <source>Schematic Guide</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="92"/>
+        <source>Schematic Outlines</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="93"/>
+        <source>Schematic Grab Areas</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="94"/>
+        <source>Schematic Hidden Grab Areas</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="95"/>
+        <source>Schematic Names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="96"/>
+        <source>Schematic Values</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="97"/>
+        <source>Schematic Optional Pins</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="98"/>
+        <source>Schematic Required Pins</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="99"/>
+        <source>Schematic Pin Lines</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="100"/>
+        <source>Schematic Pin Names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="101"/>
+        <source>Schematic Pin Numbers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="102"/>
+        <source>Board Background/Grid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="103"/>
+        <source>Board Overlays</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="104"/>
+        <source>Board Info Box</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="105"/>
+        <source>Board DRC Marker</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="106"/>
+        <source>Board Selection</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="107"/>
+        <source>Board Frames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="108"/>
+        <source>Board Outlines</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="109"/>
+        <source>Board Milling</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="110"/>
+        <source>Board Holes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="111"/>
+        <source>Board Pads</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="112"/>
+        <source>Board Vias</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="113"/>
+        <source>Board Air Wires</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="114"/>
+        <source>Board Measures</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="115"/>
+        <source>Board Alignment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="116"/>
+        <source>Board Documentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="117"/>
+        <source>Board Comments</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="118"/>
+        <source>Board Guide</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="119"/>
+        <source>Board Placement Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="120"/>
+        <source>Board Placement Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="121"/>
+        <source>Board Documentation Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="122"/>
+        <source>Board Documentation Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="123"/>
+        <source>Board Grab Areas Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="124"/>
+        <source>Board Grab Areas Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="125"/>
+        <source>Board Hidden Grab Areas Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="126"/>
+        <source>Board Hidden Grab Areas Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="127"/>
+        <source>Board References Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="128"/>
+        <source>Board References Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="129"/>
+        <source>Board Names Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="130"/>
+        <source>Board Names Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="131"/>
+        <source>Board Values Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="132"/>
+        <source>Board Values Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="133"/>
+        <source>Board Courtyard Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="134"/>
+        <source>Board Courtyard Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="135"/>
+        <source>Board Stop Mask Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="136"/>
+        <source>Board Stop Mask Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="137"/>
+        <source>Board Solder Paste Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="138"/>
+        <source>Board Solder Paste Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="139"/>
+        <source>Board Finish Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="140"/>
+        <source>Board Finish Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="141"/>
+        <source>Board Glue Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="142"/>
+        <source>Board Glue Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="143"/>
+        <source>Board Copper Top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="179"/>
+        <source>Board Copper Inner %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="181"/>
+        <source>Board Copper Bottom</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3234,7 +3567,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     </message>
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="181"/>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="199"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="198"/>
         <source>Sheet Frames</source>
         <translation type="unfinished"/>
     </message>
@@ -3255,55 +3588,60 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     </message>
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="185"/>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="208"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="207"/>
         <source>Documentation</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="186"/>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="209"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="208"/>
         <source>Comments</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="187"/>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="210"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="209"/>
         <source>Guide</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="189"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="188"/>
         <source>Outlines</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="190"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="189"/>
         <source>Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="191"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="190"/>
         <source>Hidden Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="192"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="191"/>
         <source>Names</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="193"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="192"/>
         <source>Values</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="194"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="193"/>
         <source>Optional Pins</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="195"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="194"/>
         <source>Required Pins</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="195"/>
+        <source>Pin Lines</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3317,177 +3655,177 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="200"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="199"/>
         <source>Board Outlines</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="200"/>
+        <source>Milling (PTH</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="201"/>
-        <source>Milling (PTH)</source>
+        <source>Drills (NPTH</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="202"/>
-        <source>Drills (NPTH)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="203"/>
         <source>Pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="204"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="203"/>
         <source>Vias</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="205"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="204"/>
         <source>Air Wires</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="206"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="205"/>
         <source>Measures</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="207"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="206"/>
         <source>Alignment</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="212"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="210"/>
         <source>Top Placement</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="213"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="211"/>
         <source>Bot Placement</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="214"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="212"/>
         <source>Top Documentation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="215"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="213"/>
         <source>Bot Documentation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="216"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="214"/>
         <source>Top Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="217"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="215"/>
         <source>Bot Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="218"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="216"/>
         <source>Top Hidden Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="219"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="217"/>
         <source>Bot Hidden Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="220"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="218"/>
         <source>Top References</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="221"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="219"/>
         <source>Bot References</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="222"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="220"/>
         <source>Top Names</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="223"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="221"/>
         <source>Bot Names</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="224"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="222"/>
         <source>Top Values</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="225"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="223"/>
         <source>Bot Values</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="226"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="224"/>
         <source>Top Courtyard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="227"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="225"/>
         <source>Bot Courtyard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="228"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="226"/>
         <source>Top Stop Mask</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="229"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="227"/>
         <source>Bot Stop Mask</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="230"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="228"/>
         <source>Top Solder Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="231"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="229"/>
         <source>Bot Solder Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="232"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="230"/>
         <source>Top Finish</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="233"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="231"/>
         <source>Bot Finish</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="234"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="232"/>
         <source>Top Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="235"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="233"/>
         <source>Bot Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="237"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="234"/>
         <source>Top Copper</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="238"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="235"/>
         <source>Bot Copper</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="241"/>
+        <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="237"/>
         <source>Inner Copper %1</source>
         <translation type="unfinished"/>
     </message>
@@ -3685,17 +4023,17 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::ProjectLoader</name>
     <message>
-        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="101"/>
+        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="100"/>
         <source>File does not exist: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="107"/>
+        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="106"/>
         <source>Directory does not contain a LibrePCB project: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="119"/>
+        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="118"/>
         <source>This project was created with a newer application version.
 You need at least LibrePCB %1 to open it.
 
@@ -4204,29 +4542,29 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="229"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="242"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="281"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="238"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="251"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="290"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="471"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="480"/>
         <source>No component selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="535"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="544"/>
         <source>No device selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="568"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="577"/>
         <source>Invalid Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="569"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="578"/>
         <source>Please select a component and a symbol variant.</source>
         <translation type="unfinished"/>
     </message>
@@ -4729,110 +5067,110 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="632"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="640"/>
         <source>File</source>
         <translation>Fichiers</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="650"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="658"/>
         <source>Edit</source>
         <translation>Éditer</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="663"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="671"/>
         <source>View</source>
         <translation>Voir</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="697"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="705"/>
         <source>Tools</source>
         <translation>Outils</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="688"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="696"/>
         <source>Command</source>
         <translation>Commande</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="127"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="134"/>
         <source>%1 - LibrePCB Board Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="674"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="682"/>
         <source>Find device...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="115"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="122"/>
         <source>Scanning libraries (%p%)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1146"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1157"/>
         <source>Add New Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1146"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1174"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1157"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1185"/>
         <source>Choose a name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1147"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1158"/>
         <source>new_board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="379"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1046"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1164"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1192"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1210"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1262"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1326"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="391"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1054"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1175"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1203"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1221"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1281"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1345"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="849"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="857"/>
         <source>Boards</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1155"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1183"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1166"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1194"/>
         <source>Invalid name: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1174"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1185"/>
         <source>Copy Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1175"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1186"/>
         <source>copy_of_%1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1201"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1212"/>
         <source>Remove board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1202"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1213"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1299"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1318"/>
         <source>Preparing board...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1299"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1318"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
@@ -5969,7 +6307,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdDragSelectedBoardItems</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmddragselectedboarditems.cpp" line="59"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmddragselectedboarditems.cpp" line="58"/>
         <source>Drag Board Elements</source>
         <translation type="unfinished"/>
     </message>
@@ -5977,7 +6315,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdDragSelectedFootprintItems</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmd/cmddragselectedfootprintitems.cpp" line="54"/>
+        <location filename="../libs/librepcb/editor/library/cmd/cmddragselectedfootprintitems.cpp" line="53"/>
         <source>Drag Footprint Elements</source>
         <translation type="unfinished"/>
     </message>
@@ -5985,7 +6323,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdDragSelectedSchematicItems</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmddragselectedschematicitems.cpp" line="59"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmddragselectedschematicitems.cpp" line="58"/>
         <source>Drag Schematic Elements</source>
         <translation type="unfinished"/>
     </message>
@@ -5993,7 +6331,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdDragSelectedSymbolItems</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmd/cmddragselectedsymbolitems.cpp" line="52"/>
+        <location filename="../libs/librepcb/editor/library/cmd/cmddragselectedsymbolitems.cpp" line="51"/>
         <source>Drag Symbol Elements</source>
         <translation type="unfinished"/>
     </message>
@@ -6001,7 +6339,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdFlipSelectedBoardItems</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdflipselectedboarditems.cpp" line="69"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdflipselectedboarditems.cpp" line="68"/>
         <source>Flip Board Elements</source>
         <translation type="unfinished"/>
     </message>
@@ -6833,7 +7171,7 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.cpp" line="136"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.cpp" line="143"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
@@ -7191,49 +7529,49 @@ Warning: This cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="166"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="174"/>
         <source>Invalid metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="177"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="185"/>
         <source>Save failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="219"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="227"/>
         <source>Edit device metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="258"/>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="339"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="266"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="347"/>
         <source>Component not found!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="266"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="274"/>
         <source>Change component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="281"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="289"/>
         <source>Could not set component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="298"/>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="399"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="306"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="407"/>
         <source>Package not found!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="307"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="315"/>
         <source>Change package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="326"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="334"/>
         <source>Could not set package</source>
         <translation type="unfinished"/>
     </message>
@@ -8466,87 +8804,87 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="160"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="161"/>
         <source>Copy to clipboard</source>
         <translation>Copier</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="163"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="164"/>
         <source>Copy the image to the clipboard instead of saving it as a file.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="172"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="173"/>
         <source>Looking for printers...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="451"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="452"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="466"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="467"/>
         <source>Processing page %1 of %2...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="552"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="553"/>
         <source>All Layers</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="558"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="559"/>
         <source>Assembly Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="573"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="574"/>
         <source>Assembly Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="588"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="589"/>
         <source>Drills</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="598"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="599"/>
         <source>Copper Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="609"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="610"/>
         <source>Copper Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="918"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="919"/>
         <source>No printer found</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="969"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="970"/>
         <source>One Sided</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="972"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="973"/>
         <source>Long Edge</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="976"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="977"/>
         <source>Short Edge</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1006"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1007"/>
         <source>Custom (adjust to content)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1177"/>
+        <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1178"/>
         <source>Save as...</source>
         <translation type="unfinished"/>
     </message>
@@ -8903,37 +9241,37 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="691"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="696"/>
         <source>File</source>
         <translation>Fichiers</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="703"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="708"/>
         <source>Edit</source>
         <translation>Éditer</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="716"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="721"/>
         <source>View</source>
         <translation>Voir</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="742"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="747"/>
         <source>Command</source>
         <translation>Commande</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="750"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="755"/>
         <source>Tools</source>
         <translation>Outils</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="218"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="223"/>
         <source> [Read-Only]</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="219"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="224"/>
         <source>%1 - LibrePCB Library Editor</source>
         <translation type="unfinished"/>
     </message>
@@ -8943,23 +9281,23 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="392"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="397"/>
         <source>Failed to open category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="433"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="438"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="436"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="441"/>
         <source>Unsaved changes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="727"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="732"/>
         <source>Filter elements...</source>
         <translation type="unfinished"/>
     </message>
@@ -9320,22 +9658,22 @@ Are you still sure to delete the following library elements?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="464"/>
+        <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="462"/>
         <source>(press %1 to disable snap)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="469"/>
+        <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="467"/>
         <source>Press %1 to copy the value to clipboard or %2 to clear the measurement</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="474"/>
+        <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="472"/>
         <source>Click to specify the end point</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="477"/>
+        <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="475"/>
         <source>Click to specify the start point</source>
         <translation type="unfinished"/>
     </message>
@@ -10043,32 +10381,32 @@ This can be reverted in the workspace settings dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="112"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="115"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="191"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="194"/>
         <source>Could not load packages</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="198"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="201"/>
         <source>No package selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="208"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="211"/>
         <source>Could not load package metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="243"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="246"/>
         <source>Invalid Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="244"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="247"/>
         <source>Please select a package.</source>
         <translation type="unfinished"/>
     </message>
@@ -10149,24 +10487,24 @@ This can be reverted in the workspace settings dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="102"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="101"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="110"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="109"/>
         <source>Grab Area</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="181"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="180"/>
         <source>Add symbol circle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="194"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="227"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="241"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="193"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="226"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="240"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
@@ -10184,85 +10522,85 @@ This can be reverted in the workspace settings dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="109"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="108"/>
         <source>Arc Angle:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="119"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="118"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="123"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="122"/>
         <source>Fill polygon, if closed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="137"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="136"/>
         <source>Grab Area</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="141"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="140"/>
         <source>Use polygon as grab area</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="269"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="363"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="268"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="362"/>
         <source>Add footprint polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="285"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="308"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="373"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="284"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="307"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="372"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="538"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="537"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="540"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="539"/>
         <source>right click</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="544"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="543"/>
         <source>Click to specify the first edge</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="547"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="546"/>
         <source>Click to specify the second edge</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="552"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="551"/>
         <source>Click to specify the arc center</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="555"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="554"/>
         <source>Click to specify the start point</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="558"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="557"/>
         <source>Click to specify the end point</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="562"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="561"/>
         <source>Click to specify the first point</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="565"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="564"/>
         <source>Click to specify the next point</source>
         <translation type="unfinished"/>
     </message>
@@ -10285,19 +10623,19 @@ This can be reverted in the workspace settings dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="135"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="134"/>
         <source>Stroke Width:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="295"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="294"/>
         <source>Add footprint text</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="309"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="331"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="345"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="308"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="330"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="344"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
@@ -10312,18 +10650,18 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="432"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="602"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="627"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="875"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="935"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="958"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="970"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="979"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1006"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1027"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="873"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="933"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="956"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="968"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="977"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1004"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1025"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="892"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="890"/>
         <source>Paste Footprint Elements</source>
         <translation type="unfinished"/>
     </message>
@@ -10391,22 +10729,22 @@ This can be reverted in the workspace settings dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="256"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="270"/>
         <source>Invalid metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="267"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="281"/>
         <source>Save failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="382"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="397"/>
         <source>Edit package metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="641"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="656"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
@@ -10873,100 +11211,100 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="562"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="578"/>
         <source>File</source>
         <translation>Fichiers</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="580"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="596"/>
         <source>Edit</source>
         <translation>Éditer</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="593"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="609"/>
         <source>View</source>
         <translation>Voir</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="627"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="643"/>
         <source>Tools</source>
         <translation>Outils</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="618"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="634"/>
         <source>Command</source>
         <translation>Commande</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="640"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="656"/>
         <source>Components</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="108"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="122"/>
         <source>%1 - LibrePCB Schematic Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="604"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="620"/>
         <source>Find symbol...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="96"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="110"/>
         <source>Scanning libraries (%p%)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="942"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="955"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="975"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1118"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="965"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="978"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="998"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1150"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="923"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="946"/>
         <source>Add schematic page</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="136"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="150"/>
         <source>This schematic doesn&apos;t contain any components yet. Use the &lt;a href=&apos;%1&apos;&gt;Add Component&lt;/a&gt; dialog to populate it. A good idea is to &lt;a href=&apos;%2&apos;&gt;add a schematic frame&lt;/a&gt; first.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="924"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="947"/>
         <source>Choose a name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="925"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="948"/>
         <source>New Page</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="933"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="956"/>
         <source>Invalid name: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="965"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="988"/>
         <source>Rename sheet</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="965"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="988"/>
         <source>Choose new name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1090"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1122"/>
         <source>Preparing schematics...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1090"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1122"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
@@ -10974,31 +11312,31 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>librepcb::editor::SchematicEditorState_AddComponent</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="91"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="92"/>
         <source>Value:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="155"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="173"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="210"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="286"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="447"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="156"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="174"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="211"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="287"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="450"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="245"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="246"/>
         <source>Add Symbol to Schematic</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="336"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="337"/>
         <source>Add Component to Schematic</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="396"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="399"/>
         <source>The component with the UUID &quot;%1&quot; does not have any symbol.</source>
         <translation type="unfinished"/>
     </message>
@@ -11275,14 +11613,14 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="110"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="160"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="211"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="109"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="159"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="210"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="195"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="194"/>
         <source>Add symbol pin</source>
         <translation type="unfinished"/>
     </message>
@@ -11300,24 +11638,24 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="102"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="101"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="110"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="109"/>
         <source>Grab Area</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="181"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="180"/>
         <source>Add symbol circle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="194"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="227"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="241"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="193"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="226"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="240"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
@@ -11335,85 +11673,85 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="109"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="108"/>
         <source>Arc Angle:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="119"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="118"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="123"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="122"/>
         <source>Fill polygon, if closed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="137"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="136"/>
         <source>Grab Area</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="141"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="140"/>
         <source>Use polygon as grab area</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="268"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="362"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="267"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="361"/>
         <source>Add symbol polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="284"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="307"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="372"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="283"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="306"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="371"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="537"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="536"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="539"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="538"/>
         <source>right click</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="543"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="542"/>
         <source>Click to specify the first edge</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="546"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="545"/>
         <source>Click to specify the second edge</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="551"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="550"/>
         <source>Click to specify the arc center</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="554"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="553"/>
         <source>Click to specify the start point</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="557"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="556"/>
         <source>Click to specify the end point</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="561"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="560"/>
         <source>Click to specify the first point</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="564"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="563"/>
         <source>Click to specify the next point</source>
         <translation type="unfinished"/>
     </message>
@@ -11436,14 +11774,14 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="249"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="248"/>
         <source>Add symbol text</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="262"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="284"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="298"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="261"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="283"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="297"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
@@ -11527,22 +11865,22 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="241"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="258"/>
         <source>Invalid metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="252"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="269"/>
         <source>Save failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="363"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="381"/>
         <source>Edit symbol metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="590"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="608"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
@@ -11871,43 +12209,43 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="222"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="229"/>
         <source>Designator</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="223"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="230"/>
         <source>Value</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="224"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="231"/>
         <source>Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="226"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="233"/>
         <source>Device is already pre-selected in schematics.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="247"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="254"/>
         <source>Place Devices [%1]</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="385"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="392"/>
         <source>Default footprint.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="440"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="531"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="447"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="538"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="495"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="502"/>
         <source>Add devices to board</source>
         <translation type="unfinished"/>
     </message>
@@ -12033,6 +12371,56 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="494"/>
+        <source>Themes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="511"/>
+        <source>Current Theme:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="544"/>
+        <source>Remove theme</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="558"/>
+        <source>Rename theme</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="572"/>
+        <source>Reset theme to default values</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="586"/>
+        <source>Duplicate theme</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="600"/>
+        <source>Create new theme</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="660"/>
+        <source>Colors</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="670"/>
+        <source>Schematic Grid:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="680"/>
+        <source>Board Grid:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="209"/>
         <source>PDF Reader</source>
         <translation type="unfinished"/>
@@ -12096,50 +12484,98 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="309"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="264"/>
+        <source>None</source>
+        <comment>Grid style</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="266"/>
+        <source>Dots</source>
+        <comment>Grid style</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="268"/>
+        <source>Lines</source>
+        <comment>Grid style</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="272"/>
+        <source>Name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="307"/>
+        <source>Copy of %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="316"/>
+        <source>New Theme</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="418"/>
         <source>Restore default settings</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="310"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="419"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="356"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="465"/>
         <source>Example:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="382"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="491"/>
         <source>Select executable</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="407"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="516"/>
         <source>Available placeholders:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="417"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="571"/>
+        <source>N/A</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="575"/>
+        <source>Primary color: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="576"/>
+        <source>Secondary color: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="590"/>
         <source>Reset</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="420"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="593"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="423"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="596"/>
         <source>Currently there are %1 dismissed message(s).</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="91"/>
-        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="521"/>
+        <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="704"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
