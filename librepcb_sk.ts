@@ -798,7 +798,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="463"/>
         <source>Import a 2D mechanical drawing</source>
-        <translation>Importovať 2D mechanický nákres</translation>
+        <translation>Importovanie 2D mechanického nákresu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="471"/>
@@ -808,7 +808,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="472"/>
         <source>Import library elements from an EAGLE *.lbr file</source>
-        <translation>Importovať elementy zo súboru .lbr knižnice EAGLE</translation>
+        <translation>Importovanie elementov zo súboru .lbr knižnice EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="480"/>
@@ -903,7 +903,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="556"/>
         <source>Revert the last modification</source>
-        <translation>Vrátiť posledné zmeny</translation>
+        <translation>Vrátenie poslednej zmeny</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="564"/>
@@ -913,7 +913,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="565"/>
         <source>Re-apply the last reverted modification</source>
-        <translation>Znovu aplikovať posledné zmeny</translation>
+        <translation>Znovu aplikovanie poslednej zmeny</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="574"/>
@@ -923,7 +923,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="575"/>
         <source>Cut the selected object(s) to clipboard</source>
-        <translation>Vystrihnúť zvolený objekt/objekty do schránky</translation>
+        <translation>Vystrihnutie zvoleného objektu/objektov do schránky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="583"/>
@@ -933,7 +933,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="584"/>
         <source>Copy the selected object(s) to clipboard</source>
-        <translation>Kopírovať zvolený objekt/objekty do schránky</translation>
+        <translation>Kopírovanie zvoleného objektu/objektov do schránky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="592"/>
@@ -943,7 +943,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="593"/>
         <source>Paste object(s) from the clipboard</source>
-        <translation>Vložiť objekt/objekty zo schránky</translation>
+        <translation>Vloženie objektu/objektov zo schránky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="601"/>
@@ -953,7 +953,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="602"/>
         <source>Move the selected object(s) to the left</source>
-        <translation>Presunúť zvolený objekt/objekty vľavo</translation>
+        <translation>Presunutie zvoleného objektu/objektov vľavo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="610"/>
@@ -963,7 +963,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="611"/>
         <source>Move the selected object(s) to the right</source>
-        <translation>Presunúť zvolený objekt/objekty vpravo</translation>
+        <translation>Presunutie zvoleného objektu/objektov vpravo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="619"/>
@@ -973,7 +973,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="620"/>
         <source>Move the selected object(s) up</source>
-        <translation>Presunúť zvolený objekt/objekty nahor</translation>
+        <translation>Presunutie zvoleného objektu/objektov nahor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="628"/>
@@ -983,7 +983,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="629"/>
         <source>Move the selected object(s) down</source>
-        <translation>Presunúť zvolený objekt/objekty nadol</translation>
+        <translation>Presunutie zvoleného objektu/objektov nadol</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="637"/>
@@ -993,7 +993,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="638"/>
         <source>Rotate the selected object(s) counterclockwise</source>
-        <translation>Otočí zvolený objekt (objekty) proti smeru hodinových ručičiek.</translation>
+        <translation>Otočenie zvoleného objektu/objektov proti smeru hodinových ručičiek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="646"/>
@@ -1003,7 +1003,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="647"/>
         <source>Rotate the selected object(s) clockwise</source>
-        <translation>Otočí zvolený objekt (objekty) v smere hodinových ručičiek.</translation>
+        <translation>Otočenie zvoleného objektu/objektov v smere hodinových ručičiek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="655"/>
@@ -1013,7 +1013,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="656"/>
         <source>Mirror the selected object(s) horizontally</source>
-        <translation>Zrkadlí zvolený objekt/objekty podľa vodorovnej osi</translation>
+        <translation>Zrkadlenie zvoleného objektu/objektov podľa vodorovnej osi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="664"/>
@@ -1023,7 +1023,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="665"/>
         <source>Mirror the selected object(s) vertically</source>
-        <translation>Zrkadlí zvolený objekt/objekty podľa zvislej osi</translation>
+        <translation>Zrkadlenie zvoleného objektu/objektov podľa zvislej osi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="673"/>
@@ -1033,7 +1033,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="674"/>
         <source>Flip the selected object(s) horizontally to the other board side</source>
-        <translation>Prevráti zvolený objekt/objekty podľa vodorovnej osi a zmení stranu dosky</translation>
+        <translation>Prevrátenie zvoleného objektu/objektov podľa vodorovnej osi a presun na opačnú stranu dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="683"/>
@@ -1043,7 +1043,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="684"/>
         <source>Flip the selected object(s) vertically to the other board side</source>
-        <translation>Prevráti zvolený objekt/objekty podľa zvislej osi a zmení stranu dosky</translation>
+        <translation>Prevrátenie zvoleného objektu/objektov podľa zvislej osi a presun na opačnú stranu dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="693"/>
@@ -1053,7 +1053,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="694"/>
         <source>Move the selected object(s) to snap the grid</source>
-        <translation>Presunutie zvoleného objektu (objektov) na raster</translation>
+        <translation>Presunutie zvoleného objektu/objektov a prichytenie na raster</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="702"/>
@@ -1063,7 +1063,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="703"/>
         <source>Reset all texts of the footprint to their initial state</source>
-        <translation>Obnoviť nastavenia textov púzdier do ich predvoleného nastavenia</translation>
+        <translation>Obnovenie nastavenia textov púzdier do ich predvoleného nastavenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="711"/>
@@ -1073,17 +1073,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="712"/>
         <source>View/modify the object properties</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazenie/úprava vlastností objektu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="720"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Premenovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="721"/>
         <source>Rename the selected object</source>
-        <translation type="unfinished"/>
+        <translation>Premenovanie zvoleného objektu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="450"/>
@@ -1094,7 +1094,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="429"/>
         <source>Text Input</source>
-        <translation type="unfinished"/>
+        <translation>Textový vstup</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="432"/>
@@ -1104,27 +1104,27 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="433"/>
         <source>Open file or directory browser</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť prehliadač súborov a adresárov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="441"/>
         <source>Change Unit</source>
-        <translation type="unfinished"/>
+        <translation>Zmeniť jednotky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="442"/>
         <source>Change the measurement unit of the text input</source>
-        <translation type="unfinished"/>
+        <translation>Zmena mernej jednotky textového vstupu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="451"/>
         <source>Remove this item</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť túto položku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="730"/>
         <source>Delete the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>Odstránenie zvoleného objektu/objektov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="737"/>
@@ -1139,7 +1139,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="742"/>
         <source>Set the zoom level to fit the whole content</source>
-        <translation>Nastavenie priblíženia tak, aby bolo zobrazené všetko</translation>
+        <translation>Nastavenie priblíženia tak, aby bol zobrazený všetok obsah</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="750"/>
@@ -1159,7 +1159,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="760"/>
         <source>Decrease the zoom level</source>
-        <translation>Zníženie úrovne priblíženia</translation>
+        <translation>Zmenšenie úrovne priblíženia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="768"/>
@@ -1169,17 +1169,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="769"/>
         <source>Increase the grid interval</source>
-        <translation>Zväčší interval rastra</translation>
+        <translation>Zväčšenie intervalu rastra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="777"/>
         <source>Decrease Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>Zmenšiť interval rastra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="778"/>
         <source>Decrease the grid interval</source>
-        <translation type="unfinished"/>
+        <translation>Zmenšenie intervalu rastra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="785"/>
@@ -1189,12 +1189,12 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="789"/>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Vybrať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="790"/>
         <source>Select &amp; modify existing objects</source>
-        <translation type="unfinished"/>
+        <translation>Zvolenie a úprava jestvujúcich objektov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="798"/>
@@ -1254,7 +1254,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="844"/>
         <source>Add graphical text objects</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie grafických textových objektov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="852"/>
@@ -1264,7 +1264,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="853"/>
         <source>Add graphical text objects for &apos;{{NAME}}&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie grafických textových objektov pre &apos;{{NAME}}&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="861"/>
@@ -1274,27 +1274,27 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="862"/>
         <source>Add graphical text objects for &apos;{{VALUE}}&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie grafických textových objektov pre &apos;{{VALUE}}&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="870"/>
         <source>Add Pin</source>
-        <translation type="unfinished"/>
+        <translation>Pridať vývod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="871"/>
         <source>Add symbol pins (electrical connections for schematics)</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie vývodu schematickej značke (elektrický prípojný bod pre schému)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="879"/>
         <source>Add SMT Pad</source>
-        <translation type="unfinished"/>
+        <translation>Pridať SMT plôšku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="880"/>
         <source>Add surface mounted (single layer) copper pads</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie vodivej plôšky vývodu technológie povrchovej montáže (v jednej vrstve)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="888"/>
@@ -1304,17 +1304,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="889"/>
         <source>Add plated through-hole copper pads</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie plôšky vývodu s priechodzím pokoveným otvorom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="897"/>
         <source>Add Hole</source>
-        <translation type="unfinished"/>
+        <translation>Pridať otvor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="898"/>
         <source>Add non-plated holes (NPTH drills)</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie nepokoveného otvoru (NPTH)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="906"/>
@@ -1334,7 +1334,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="917"/>
         <source>Add net labels to explicitly specify the net of wires</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie označenie spojov pre jednoznačné pomenovanie spojov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="925"/>
@@ -1344,7 +1344,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="926"/>
         <source>Insert components from the workspace libraries</source>
-        <translation type="unfinished"/>
+        <translation>Vloženie komponentov z knižníc pracovného priestoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="934"/>
@@ -1364,7 +1364,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="944"/>
         <source>Add plated through-hole vias</source>
-        <translation>Pridanie pokovených prechodov</translation>
+        <translation>Pridanie priechodzích pokovených otvorov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="952"/>
@@ -1379,7 +1379,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="961"/>
         <source>Measure Distance</source>
-        <translation>Meranie vzdialenosti</translation>
+        <translation>Merať vzdialenosti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="962"/>
@@ -1389,17 +1389,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="970"/>
         <source>Commands</source>
-        <translation type="unfinished"/>
+        <translation>Príkazy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="973"/>
         <source>Go To Command Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Prejsť na panel s príkazmi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="974"/>
         <source>Move the focus into the command toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Presunúť aktivitu do panelu s príkazmi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="982"/>
@@ -1409,27 +1409,27 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="983"/>
         <source>Abort the currently active command</source>
-        <translation type="unfinished"/>
+        <translation>Ukončiť vykonávanie práve zvoleného príkazu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="991"/>
         <source>Layer Up</source>
-        <translation type="unfinished"/>
+        <translation>Zvýšiť vrstvu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="992"/>
         <source>Switch to the next higher layer (bottom-&gt;top)</source>
-        <translation type="unfinished"/>
+        <translation>Prepnutie na nasledujúcu vyššiu vrstvu (spodná-&gt;vrchná)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1000"/>
         <source>Layer Down</source>
-        <translation type="unfinished"/>
+        <translation>Znížiť vrstvu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1001"/>
         <source>Switch to the next lower layer (top-&gt;bottom)</source>
-        <translation type="unfinished"/>
+        <translation>Prepnutie na nasledujúcu nižšiu vrstvu (vrchná-&gt;spodná)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1009"/>
@@ -1439,17 +1439,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1010"/>
         <source>Increase the line/trace/stroke/pad width</source>
-        <translation type="unfinished"/>
+        <translation>Zväčšenie šírky čiary/spoja/medzery/plôšky vývodu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1018"/>
         <source>Decrease Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Zmenšiť šírku čiary</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1019"/>
         <source>Decrease the line/trace/stroke/pad width</source>
-        <translation type="unfinished"/>
+        <translation>Zmenšenie šírky čiary/spoja/medzery/plôšky vývodu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1027"/>
@@ -1459,37 +1459,37 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1028"/>
         <source>Increase the via/pad/pin/text size</source>
-        <translation type="unfinished"/>
+        <translation>Zväčšenie veľkosti prechodu/plôšky vývodu/textu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1036"/>
         <source>Decrease Size</source>
-        <translation type="unfinished"/>
+        <translation>Zmenšiť veľkosť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1037"/>
         <source>Decrease the via/pad/pin/text size</source>
-        <translation type="unfinished"/>
+        <translation>Zmenšenie veľkosti prechodu/plôšky vývodu/textu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1045"/>
         <source>Increase Drill</source>
-        <translation type="unfinished"/>
+        <translation>Zväčšiť priemer otvoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1046"/>
         <source>Increase the via/pad/hole drill diameter</source>
-        <translation type="unfinished"/>
+        <translation>Zväčšenie priemeru nástroja pre vytvorenie otvoru prechodu/vývodu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1054"/>
         <source>Decrease Drill</source>
-        <translation type="unfinished"/>
+        <translation>Zmenšiť priemer otvoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1055"/>
         <source>Decrease the via/pad/hole drill diameter</source>
-        <translation type="unfinished"/>
+        <translation>Zmenšenie priemeru nástroja pre vytvorenie otvoru prechodu/vývodu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1063"/>
