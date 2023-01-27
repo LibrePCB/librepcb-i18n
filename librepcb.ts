@@ -3570,7 +3570,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="394"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non-circular via shapes are no longer supported, all vias were changed to circular now.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="411"/>
@@ -5726,7 +5726,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="56"/>
         <source>Outer Diameter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Outer Diameter:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="39"/>
