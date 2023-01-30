@@ -3119,17 +3119,17 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="45"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="47"/>
         <source>NOTE</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="47"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="49"/>
         <source>WARNING</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="49"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="51"/>
         <source>CRITICAL</source>
         <translation type="unfinished"/>
     </message>
@@ -3564,12 +3564,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::FileFormatMigrationV01</name>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="394"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="436"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="411"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="453"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
         <translation type="unfinished"/>
     </message>
