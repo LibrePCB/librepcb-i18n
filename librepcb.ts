@@ -37,17 +37,17 @@
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="140"/>
         <source>Solder paste clearance: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"></translation>
+        <translation>Solder paste clearance: MAX must be &gt;= MIN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="153"/>
         <source>Pads annular ring: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"></translation>
+        <translation>Pads annular ring: MAX must be &gt;= MIN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="166"/>
         <source>Vias annular ring: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"></translation>
+        <translation>Vias annular ring: MAX must be &gt;= MIN</translation>
     </message>
 </context>
 <context>
@@ -2495,12 +2495,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgpadannularringviolation.cpp" line="42"/>
         <source>Annular ring of pad &apos;%1&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Annular ring of pad &apos;%1&apos; in &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgpadannularringviolation.cpp" line="44"/>
         <source>Pads should have at least %1 annular ring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pads should have at least %1 annular ring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</translation>
     </message>
 </context>
 <context>
@@ -3340,19 +3340,19 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="406"/>
         <source>Check minimum PTH annular rings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Check minimum PTH annular rings...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="439"/>
         <source>Annular ring of via &apos;%1&apos; &lt; %2</source>
         <comment>Placeholders are net name + annular ring width</comment>
-        <translation type="unfinished"></translation>
+        <translation>Annular ring of via &apos;%1&apos; &lt; %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="475"/>
         <source>Annular ring of pad &apos;%1&apos; &lt; %2</source>
         <comment>Placeholders are pad name + annular ring width</comment>
-        <translation type="unfinished"></translation>
+        <translation>Annular ring of pad &apos;%1&apos; &lt; %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="494"/>
@@ -4963,7 +4963,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="114"/>
         <source>Minimum PTH Annular Ring:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum PTH Annular Ring:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="193"/>
@@ -5065,12 +5065,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="30"/>
         <source>Solder Paste Clearance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Solder Paste Clearance:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="60"/>
         <source>Pads Annular Ring:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pads Annular Ring:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="86"/>
@@ -5080,7 +5080,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="93"/>
         <source>Vias Annular Ring:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vias Annular Ring:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="37"/>

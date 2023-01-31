@@ -23,33 +23,28 @@
 <context>
     <name>BoardDesignRules</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="38"/>
-        <source>LibrePCB Default Design Rules</source>
-        <translation>Regole LibrePCB di design predefinite </translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="105"/>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="107"/>
         <source>Invalid design rules: %1</source>
         <translation>Regole di design non valide: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="123"/>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="127"/>
         <source>Stop mask clearance: MAX must be &gt;= MIN</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="134"/>
-        <source>Cream mask clearance: MAX must be &gt;= MIN</source>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="140"/>
+        <source>Solder paste clearance: MAX must be &gt;= MIN</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="145"/>
-        <source>Restring pads: MAX must be &gt;= MIN</source>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="153"/>
+        <source>Pads annular ring: MAX must be &gt;= MIN</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="156"/>
-        <source>Restring vias: MAX must be &gt;= MIN</source>
+        <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="166"/>
+        <source>Vias annular ring: MAX must be &gt;= MIN</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2487,6 +2482,19 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     </message>
 </context>
 <context>
+    <name>MsgPadAnnularRingViolation</name>
+    <message>
+        <location filename="../libs/librepcb/core/library/pkg/msg/msgpadannularringviolation.cpp" line="42"/>
+        <source>Annular ring of pad &apos;%1&apos; in &apos;%3&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/library/pkg/msg/msgpadannularringviolation.cpp" line="44"/>
+        <source>Pads should have at least %1 annular ring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>MsgPadClearanceViolation</name>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgpadclearanceviolation.cpp" line="43"/>
@@ -2509,19 +2517,6 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgpadoverlapswithplacement.cpp" line="44"/>
         <source>Pads should have at least %1 clearance to the outlines layer because outlines are drawn on silkscreen which will be cropped for Gerber export.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>MsgPadRestringViolation</name>
-    <message>
-        <location filename="../libs/librepcb/core/library/pkg/msg/msgpadrestringviolation.cpp" line="42"/>
-        <source>Restring of pad &apos;%1&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/library/pkg/msg/msgpadrestringviolation.cpp" line="44"/>
-        <source>Pads should have at least %1 restring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3332,19 +3327,19 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="406"/>
-        <source>Check minimum PTH restrings...</source>
+        <source>Check minimum PTH annular rings...</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="439"/>
-        <source>Restring of via &apos;%1&apos; &lt; %2</source>
-        <comment>Placeholders are net name + restring width</comment>
+        <source>Annular ring of via &apos;%1&apos; &lt; %2</source>
+        <comment>Placeholders are net name + annular ring width</comment>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="475"/>
-        <source>Restring of pad &apos;%1&apos; &lt; %2</source>
-        <comment>Placeholders are pad name + restring width</comment>
+        <source>Annular ring of pad &apos;%1&apos; &lt; %2</source>
+        <comment>Placeholders are pad name + annular ring width</comment>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3556,12 +3551,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>librepcb::FileFormatMigrationV01</name>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="436"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="437"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="453"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="454"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
         <translation type="unfinished"/>
     </message>
@@ -4913,11 +4908,6 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="114"/>
-        <source>Minimum PTH Restring:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="140"/>
         <source>Minimum PTH Drill Diameter:</source>
         <translation type="unfinished"/>
@@ -4945,6 +4935,11 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="52"/>
         <source>Rebuild planes before running checks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckdialog.ui" line="114"/>
+        <source>Minimum PTH Annular Ring:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5035,57 +5030,47 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="20"/>
-        <source>Name:</source>
-        <translation>Nome:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="27"/>
-        <source>Description:</source>
-        <translation>Descrizione:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="34"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="103"/>
         <source>Minimum</source>
         <translation>Minimo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="41"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="44"/>
         <source>Ratio (% of diam.)</source>
         <translation>Rapporto (% del diametro)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="48"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="30"/>
+        <source>Solder Paste Clearance:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="60"/>
+        <source>Pads Annular Ring:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="86"/>
         <source>Maximum</source>
         <translation>Massimo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="55"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="93"/>
+        <source>Vias Annular Ring:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="37"/>
         <source>Stop Mask Max. Via Diam.:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="62"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="23"/>
         <source>Stop Mask Clearance:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="69"/>
-        <source>Cream Mask Clearance:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="76"/>
-        <source>Restring THT Pads:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.ui" line="83"/>
-        <source>Restring Vias:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.cpp" line="167"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulesdialog.cpp" line="156"/>
         <source>Could not apply settings</source>
         <translation>Impossibile applicare le impostazioni</translation>
     </message>
