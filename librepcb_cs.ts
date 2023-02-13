@@ -3598,8 +3598,13 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="454"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="458"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="465"/>
+        <source>Vias within planes with connect style &apos;None&apos; are now fully connected to the planes since the connect style is no longer respected for vias. You might want to remove traces now which are no longer needed to connect these vias.</source>
         <translation type="unfinished"/>
     </message>
 </context>
