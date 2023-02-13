@@ -4625,29 +4625,29 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="238"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="251"/>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="290"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="240"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="253"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="292"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="480"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="482"/>
         <source>No component selected</source>
         <translation>Není vybrána žádná komponenta</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="544"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="546"/>
         <source>No device selected</source>
         <translation>Není vybrána žádná součástka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="577"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="579"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výběr</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="578"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="580"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>Vyberte, prosím, komponentu a variantu schematické značky.</translation>
     </message>
@@ -12372,43 +12372,43 @@ p, li { white-space: pre-wrap; }
         <translation>Automaticky přidat vše</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="229"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="230"/>
         <source>Designator</source>
         <translation>Označení</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="230"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="231"/>
         <source>Value</source>
         <translation>Hodnota</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="231"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="232"/>
         <source>Component</source>
         <translation>Komponenta</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="233"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="234"/>
         <source>Device is already pre-selected in schematics.</source>
         <translation>Součástka je už předvolena ve schématu.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="254"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="255"/>
         <source>Place Devices [%1]</source>
         <translation>Neumístěné součástky [%1]</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="392"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="393"/>
         <source>Default footprint.</source>
         <translation>Výchozí pouzdro.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="447"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="538"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="448"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="539"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="502"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="503"/>
         <source>Add devices to board</source>
         <translation>Přidat součástky na desku</translation>
     </message>
