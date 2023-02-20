@@ -8402,6 +8402,18 @@ Do you really want to close it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="59"/>
+        <source>Top Solder Paste
+(Top Stencil):</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="67"/>
+        <source>Bottom Solder Paste
+(Bottom Stencil):</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="248"/>
         <source>Drills NPTH:</source>
         <translation type="unfinished"/>
@@ -8432,16 +8444,6 @@ Do you really want to close it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="255"/>
-        <source>Bottom Soldermask:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="241"/>
-        <source>Top Soldermask:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="175"/>
         <source>Bottom Copper:</source>
         <translation type="unfinished"/>
@@ -8454,12 +8456,6 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="158"/>
         <source>Base Path:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="67"/>
-        <source>Bottom Paste Mask
-(Bottom Stencil):</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -8478,14 +8474,18 @@ Do you really want to close it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="59"/>
-        <source>Top Paste Mask
-(Top Stencil):</source>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="89"/>
+        <source>Bottom Silkscreen:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="89"/>
-        <source>Bottom Silkscreen:</source>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="241"/>
+        <source>Top Stopmask:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="255"/>
+        <source>Bottom Stopmask:</source>
         <translation type="unfinished"/>
     </message>
     <message>

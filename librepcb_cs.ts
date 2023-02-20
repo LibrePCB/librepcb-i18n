@@ -8411,6 +8411,18 @@ Do you really want to close it?</source>
         <translation>Výstupní soubory</translation>
     </message>
     <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="59"/>
+        <source>Top Solder Paste
+(Top Stencil):</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="67"/>
+        <source>Bottom Solder Paste
+(Bottom Stencil):</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="248"/>
         <source>Drills NPTH:</source>
         <translation>Vrtání NPTH:</translation>
@@ -8441,16 +8453,6 @@ Do you really want to close it?</source>
         <translation>Vrtání spolu:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="255"/>
-        <source>Bottom Soldermask:</source>
-        <translation>Spodní pájecí maska:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="241"/>
-        <source>Top Soldermask:</source>
-        <translation>Vrchní pájecí maska:</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="175"/>
         <source>Bottom Copper:</source>
         <translation>Spodní spoje:</translation>
@@ -8464,13 +8466,6 @@ Do you really want to close it?</source>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="158"/>
         <source>Base Path:</source>
         <translation>Základní cesta:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="67"/>
-        <source>Bottom Paste Mask
-(Bottom Stencil):</source>
-        <translation>Spodní maska pasty
-(Spodní šablona):</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="234"/>
@@ -8488,16 +8483,19 @@ Do you really want to close it?</source>
         <translation>Pojmenování Protel (kódy vrstev budou jako přípony souborů)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="59"/>
-        <source>Top Paste Mask
-(Top Stencil):</source>
-        <translation>Vrchní maska pasty
-(Vrchní šablona):</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="89"/>
         <source>Bottom Silkscreen:</source>
         <translation>Spodní popis:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="241"/>
+        <source>Top Stopmask:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="255"/>
+        <source>Bottom Stopmask:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="283"/>

@@ -8412,6 +8412,18 @@ Do you really want to close it?</source>
         <translation>匯出檔案</translation>
     </message>
     <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="59"/>
+        <source>Top Solder Paste
+(Top Stencil):</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="67"/>
+        <source>Bottom Solder Paste
+(Bottom Stencil):</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="248"/>
         <source>Drills NPTH:</source>
         <translation>鑽孔 (NPTH)：</translation>
@@ -8442,16 +8454,6 @@ Do you really want to close it?</source>
         <translation>已合併的鑽孔：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="255"/>
-        <source>Bottom Soldermask:</source>
-        <translation>底面阻焊遮罩：</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="241"/>
-        <source>Top Soldermask:</source>
-        <translation>頂面阻焊遮罩：</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="175"/>
         <source>Bottom Copper:</source>
         <translation>底面銅箔：</translation>
@@ -8465,13 +8467,6 @@ Do you really want to close it?</source>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="158"/>
         <source>Base Path:</source>
         <translation>基本路徑：</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="67"/>
-        <source>Bottom Paste Mask
-(Bottom Stencil):</source>
-        <translation>底面錫膏遮罩
-（底面鋼網）：</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="234"/>
@@ -8489,16 +8484,19 @@ Do you really want to close it?</source>
         <translation>Protel 命名法（以副檔名區別各層）</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="59"/>
-        <source>Top Paste Mask
-(Top Stencil):</source>
-        <translation>頂面錫膏遮罩
-（頂面鋼網）：</translation>
-    </message>
-    <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="89"/>
         <source>Bottom Silkscreen:</source>
         <translation>底面網版印刷：</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="241"/>
+        <source>Top Stopmask:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="255"/>
+        <source>Bottom Stopmask:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="283"/>
