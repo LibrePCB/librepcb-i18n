@@ -2498,6 +2498,19 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     </message>
 </context>
 <context>
+    <name>MsgOverlappingPads</name>
+    <message>
+        <location filename="../libs/librepcb/core/library/pkg/msg/msgoverlappingpads.cpp" line="43"/>
+        <source>Overlapping pads &apos;%1&apos; and &apos;%2&apos; in &apos;%3&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/library/pkg/msg/msgoverlappingpads.cpp" line="46"/>
+        <source>The copper area of two pads overlap. This can lead to serious issues with the design rule check and probably leads to a short circuit in the board so this really needs to be fixed.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>MsgOverlappingSymbolPins</name>
     <message>
         <location filename="../libs/librepcb/core/library/sym/msg/msgoverlappingsymbolpins.cpp" line="41"/>
