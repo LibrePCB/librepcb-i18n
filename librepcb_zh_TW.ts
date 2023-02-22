@@ -2519,7 +2519,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <translation>有一些引腳在相同的位置上。由於您會無法在線路圖編輯器中將這些引腳連接至導線，所以此狀況不被允許。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/sym/msg/msgoverlappingsymbolpins.cpp" line="61"/>
+        <location filename="../libs/librepcb/core/library/sym/msg/msgoverlappingsymbolpins.cpp" line="73"/>
         <source>Overlapping pins: %1</source>
         <translation>重疊的引腳： %1</translation>
     </message>
@@ -3982,7 +3982,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>librepcb::LibraryBaseElement</name>
     <message>
-        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="171"/>
+        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="187"/>
         <source>This library element was created with a newer application version.
 You need at least LibrePCB %1 to open it.
 
@@ -7035,12 +7035,12 @@ You need at least LibrePCB %1 to open it.
         <translation>訊息：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.cpp" line="116"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.cpp" line="120"/>
         <source>Invalid metadata</source>
         <translation>無效的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.cpp" line="130"/>
         <source>Save failed</source>
         <translation>復原失敗</translation>
     </message>
@@ -7176,22 +7176,22 @@ You need at least LibrePCB %1 to open it.
         <translation>訊息：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="157"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="161"/>
         <source>Invalid metadata</source>
         <translation>無效的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="168"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="172"/>
         <source>Save failed</source>
         <translation>復原失敗</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="307"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="312"/>
         <source>Determine default value</source>
         <translation>決定預設值</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="309"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="314"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
         <translation>這是一個特規而非通用型的元件嗎？</translation>
     </message>
@@ -7695,49 +7695,49 @@ Warning: This cannot be undone!</source>
         <translation>訊息：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="174"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="178"/>
         <source>Invalid metadata</source>
         <translation>無效的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="185"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="189"/>
         <source>Save failed</source>
         <translation>復原失敗</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="227"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="232"/>
         <source>Edit device metadata</source>
         <translation>編輯裝置的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="266"/>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="347"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="271"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="352"/>
         <source>Component not found!</source>
         <translation>找不到元件！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="274"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="279"/>
         <source>Change component</source>
         <translation>變更元件</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="289"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="294"/>
         <source>Could not set component</source>
         <translation>無法設定元件</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="306"/>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="407"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="311"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="412"/>
         <source>Package not found!</source>
         <translation>找不到封裝！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="315"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="320"/>
         <source>Change package</source>
         <translation>變更封裝</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="334"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="339"/>
         <source>Could not set package</source>
         <translation>無法設定封裝</translation>
     </message>
@@ -8324,37 +8324,37 @@ Do you really want to close it?</source>
 <context>
     <name>librepcb::editor::EditorWidgetBase</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="155"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="160"/>
         <source>WARNING: You have changed some important properties of this library element. This breaks all other elements which depend on this one! Maybe you want to create a new library element instead of modifying this one?</source>
         <translation>警告：您已變更了此元件庫元素中一些重要的內容選項。這會破壞相依於此元素的其它元素！您可能是想要新增一個元件庫元素而非變更此項？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="176"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="181"/>
         <source>WARNING: This library element contains errors, see exact messages below. You should fix these errors before saving it, otherwise the library element may not work as expected.</source>
         <translation>警告：這個元件庫元素包含錯誤，詳見下方訊息！您應該在儲存之前修復這些錯誤，否則此元件庫元件將不會如預期運作。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="218"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="240"/>
         <source>User name not set</source>
         <translation>未設定使用者名稱</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="219"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="241"/>
         <source>No user name defined in workspace settings. Please open workspace settings to set the default user name.</source>
         <translation>工作區設定檔中沒有定義使用者名稱。請開啟功作區設定檔來設定使用者名稱預設值。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="232"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="254"/>
         <source>Restore autosave backup?</source>
         <translation>還原自動儲存的備份？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="233"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="255"/>
         <source>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</source>
         <translation>噢，看起來上次在你開啟元件庫元素時GG了，想要還原上次自動儲存的備份嗎？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="302"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="329"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -9514,20 +9514,45 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::LibraryElementCheckListItemWidget</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="98"/>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="110"/>
         <source>Fix</source>
         <translation>修改</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="107"/>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="111"/>
+        <source>Fix Problem</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="113"/>
+        <source>Automatically apply a modification to fix this message</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="122"/>
+        <source>Approve/Disapprove</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="123"/>
+        <source>Mark/unmark this message as approved</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="134"/>
         <source>Details</source>
         <translation>詳細</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="135"/>
+        <source>Show more information about this message</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>librepcb::editor::LibraryElementCheckListWidget</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.cpp" line="127"/>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.cpp" line="138"/>
         <source>Looks good so far :-)</source>
         <translation>到目前為止都好棒棒 :-)</translation>
     </message>
@@ -9789,17 +9814,17 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation>訊息：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="200"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="204"/>
         <source>Invalid metadata</source>
         <translation>無效的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="210"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="214"/>
         <source>Save failed</source>
         <translation>復原失敗</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="609"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="621"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -9808,58 +9833,58 @@ Are you still sure to delete the following library elements?</source>
 您依然確定要刪除以下元件庫元素嗎？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="622"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="634"/>
         <source>This cannot be undone!</source>
         <translation>此動作無法被復原！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="626"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="638"/>
         <source>Remove %1 elements</source>
         <translation>移除 %1 元素</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="638"/>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="693"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="650"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="705"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="652"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="664"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation>您確定要移動以下元素到元件庫 &apos;%1&apos; 內？</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="653"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="665"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="663"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="675"/>
         <source>Note: This cannot be easily undone!</source>
         <translation>註：此動作沒那麼容易被復原！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="667"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="679"/>
         <source>Move %1 elements</source>
         <translation>移動 %1 元素</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="667"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="679"/>
         <source>Copy %1 elements</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="738"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="750"/>
         <source>Choose library icon</source>
         <translation>選取元件庫圖示</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="740"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="752"/>
         <source>Portable Network Graphics (*.png)</source>
         <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="746"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="758"/>
         <source>Could not open file</source>
         <translation>無法開啟檔案</translation>
     </message>
@@ -10579,12 +10604,12 @@ This can be reverted in the workspace settings dialog.</source>
         <translation>訊息：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.cpp" line="116"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.cpp" line="120"/>
         <source>Invalid metadata</source>
         <translation>無效的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.cpp" line="130"/>
         <source>Save failed</source>
         <translation>復原失敗</translation>
     </message>
@@ -10955,22 +10980,22 @@ This can be reverted in the workspace settings dialog.</source>
         <translation>訊息：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="273"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="277"/>
         <source>Invalid metadata</source>
         <translation>無效的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="284"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="288"/>
         <source>Save failed</source>
         <translation>復原失敗</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="400"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="405"/>
         <source>Edit package metadata</source>
         <translation>編輯封裝的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="683"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="695"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -12140,22 +12165,22 @@ p, li { white-space: pre-wrap; }
         <translation>訊息：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="258"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="262"/>
         <source>Invalid metadata</source>
         <translation>無效的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="269"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="273"/>
         <source>Save failed</source>
         <translation>復原失敗</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="381"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="386"/>
         <source>Edit symbol metadata</source>
         <translation>編輯符號的後設資料</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="608"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="620"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>

@@ -2518,7 +2518,7 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
         <translation>Ve stejné poloze se nachází více vývodů. Toto není povoleno, protože v editoru schémat by se nedaly elektricky propojit.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/sym/msg/msgoverlappingsymbolpins.cpp" line="61"/>
+        <location filename="../libs/librepcb/core/library/sym/msg/msgoverlappingsymbolpins.cpp" line="73"/>
         <source>Overlapping pins: %1</source>
         <translation>Překrývající se plošky vývodů pouzdra: %1</translation>
     </message>
@@ -3981,7 +3981,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>librepcb::LibraryBaseElement</name>
     <message>
-        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="171"/>
+        <location filename="../libs/librepcb/core/library/librarybaseelement.cpp" line="187"/>
         <source>This library element was created with a newer application version.
 You need at least LibrePCB %1 to open it.
 
@@ -7036,12 +7036,12 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <translation>Zprávy:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.cpp" line="116"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.cpp" line="120"/>
         <source>Invalid metadata</source>
         <translation>Neplatná popisná data</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.cpp" line="130"/>
         <source>Save failed</source>
         <translation>Nepodařilo se uložit</translation>
     </message>
@@ -7177,22 +7177,22 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <translation>Zprávy:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="157"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="161"/>
         <source>Invalid metadata</source>
         <translation>Neplatná popisná data</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="168"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="172"/>
         <source>Save failed</source>
         <translation>Nepodařilo se uložit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="307"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="312"/>
         <source>Determine default value</source>
         <translation>Zadat výchozí hodnotu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="309"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="314"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
         <translation>Jedná se o (výrobcovu-)specifickou komponentu a ne o všeobecnou?</translation>
     </message>
@@ -7696,49 +7696,49 @@ Upozornění: Tento krok nelze vrátit zpět!</translation>
         <translation>Zprávy:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="174"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="178"/>
         <source>Invalid metadata</source>
         <translation>Neplatná popisná data</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="185"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="189"/>
         <source>Save failed</source>
         <translation>Nepodařilo se uložit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="227"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="232"/>
         <source>Edit device metadata</source>
         <translation>Upravit popisná data součástky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="266"/>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="347"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="271"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="352"/>
         <source>Component not found!</source>
         <translation>Komponenta nenalezena!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="274"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="279"/>
         <source>Change component</source>
         <translation>Změnit komponentu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="289"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="294"/>
         <source>Could not set component</source>
         <translation>Nepodařilo se nastavit komponentu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="306"/>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="407"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="311"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="412"/>
         <source>Package not found!</source>
         <translation>Pouzdro nenalezeno!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="315"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="320"/>
         <source>Change package</source>
         <translation>Změnit pouzdro</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="334"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="339"/>
         <source>Could not set package</source>
         <translation>Nepodařilo se nastavit pouzdro</translation>
     </message>
@@ -8323,37 +8323,37 @@ Do you really want to close it?</source>
 <context>
     <name>librepcb::editor::EditorWidgetBase</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="155"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="160"/>
         <source>WARNING: You have changed some important properties of this library element. This breaks all other elements which depend on this one! Maybe you want to create a new library element instead of modifying this one?</source>
         <translation>UPOZORNĚNÍ: Změnili jste některé důležité vlastnosti tohoto prvku knihovny. Může to poškodit jiné souvisící prvky. Nechcete radši vytvořit nový knihovní prvek?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="176"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="181"/>
         <source>WARNING: This library element contains errors, see exact messages below. You should fix these errors before saving it, otherwise the library element may not work as expected.</source>
         <translation>UPOZORNĚNÍ: Tento knihovní prvek obsahuje chyby - zobrazené jsou ve zprávách. Před uložením by jste je měl opravit, jinak prvek nemusí plnit očekávánou funkci.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="218"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="240"/>
         <source>User name not set</source>
         <translation>Jméno uživatele není nastaveno</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="219"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="241"/>
         <source>No user name defined in workspace settings. Please open workspace settings to set the default user name.</source>
         <translation>Uživatelské jméno není v nastavení pracovního prostoru zadáno. Otevřete, prosím, nastavení pracovního prostoru a zadejte jméno uživatele.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="232"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="254"/>
         <source>Restore autosave backup?</source>
         <translation>Obnovit z automatické zálohy?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="233"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="255"/>
         <source>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</source>
         <translation>Zdá se, že při posledním použití tohoto knihovního prvku selhala aplikace. Přejete si obnovit poslední automaticky uloženou zálohu?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="302"/>
+        <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="329"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -9513,20 +9513,45 @@ Chcete je před zavřením uložit?</translation>
 <context>
     <name>librepcb::editor::LibraryElementCheckListItemWidget</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="98"/>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="110"/>
         <source>Fix</source>
         <translation>Opravit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="107"/>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="111"/>
+        <source>Fix Problem</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="113"/>
+        <source>Automatically apply a modification to fix this message</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="122"/>
+        <source>Approve/Disapprove</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="123"/>
+        <source>Mark/unmark this message as approved</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="134"/>
         <source>Details</source>
         <translation>Podrobnosti</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.h" line="135"/>
+        <source>Show more information about this message</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>librepcb::editor::LibraryElementCheckListWidget</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.cpp" line="127"/>
+        <location filename="../libs/librepcb/editor/library/libraryelementchecklistwidget.cpp" line="138"/>
         <source>Looks good so far :-)</source>
         <translation>Vypadá to zatím dobře :-)</translation>
     </message>
@@ -9789,17 +9814,17 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
         <translation>Zprávy:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="200"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="204"/>
         <source>Invalid metadata</source>
         <translation>Neplatná popisná data</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="210"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="214"/>
         <source>Save failed</source>
         <translation>Nepodařilo se uložit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="609"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="621"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -9807,58 +9832,58 @@ Are you still sure to delete the following library elements?</source>
 Opravdu chcete odstranit následující prvky knihovny?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="622"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="634"/>
         <source>This cannot be undone!</source>
         <translation>Tuto změnu nelze vrátit zpět!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="626"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="638"/>
         <source>Remove %1 elements</source>
         <translation>Odstranit %1 prvků</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="638"/>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="693"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="650"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="705"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="652"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="664"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation>Opravdu chcete přesunout následující prvky do knihovny &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="653"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="665"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
         <translation>Opravdu chcete kopírovat následující prvky do knihovny &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="663"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="675"/>
         <source>Note: This cannot be easily undone!</source>
         <translation>Poznámka: Tato změna není jednoduše vratná!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="667"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="679"/>
         <source>Move %1 elements</source>
         <translation>Přesun %1 prvků</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="667"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="679"/>
         <source>Copy %1 elements</source>
         <translation>Kopírování %1 prvků</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="738"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="750"/>
         <source>Choose library icon</source>
         <translation>Vybrat ikonu knihovny</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="740"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="752"/>
         <source>Portable Network Graphics (*.png)</source>
         <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="746"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="758"/>
         <source>Could not open file</source>
         <translation>Nepodařilo se otevřít soubor</translation>
     </message>
@@ -10577,12 +10602,12 @@ This can be reverted in the workspace settings dialog.</source>
         <translation>Zprávy:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.cpp" line="116"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.cpp" line="120"/>
         <source>Invalid metadata</source>
         <translation>Neplatná popisná data</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.cpp" line="130"/>
         <source>Save failed</source>
         <translation>Nepodařilo se uložit</translation>
     </message>
@@ -10953,22 +10978,22 @@ This can be reverted in the workspace settings dialog.</source>
         <translation>Zprávy:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="273"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="277"/>
         <source>Invalid metadata</source>
         <translation>Neplatná popisná data</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="284"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="288"/>
         <source>Save failed</source>
         <translation>Nepodařilo se uložit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="400"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="405"/>
         <source>Edit package metadata</source>
         <translation>Upravit popisná data pouzdra</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="683"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="695"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -12138,22 +12163,22 @@ p, li { white-space: pre-wrap; }
         <translation>Zprávy:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="258"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="262"/>
         <source>Invalid metadata</source>
         <translation>Neplatná popisná data</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="269"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="273"/>
         <source>Save failed</source>
         <translation>Nepodařilo se uložit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="381"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="386"/>
         <source>Edit symbol metadata</source>
         <translation>Upravit popisná data schematické značky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="608"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="620"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
