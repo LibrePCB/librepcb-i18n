@@ -223,66 +223,101 @@
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="190"/>
+        <source>Run the library element check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="194"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
         <translation>Uložiť knižnicu (a obsahujúce položky ak &apos;--all&apos; bol zadaný) pred jej uzavretím (užitočné pre aktualizáciu formátu knižnice).</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="194"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="198"/>
         <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
         <translation>Ukončené s chybou, ak otvorené súbory nie sú striktne kanonické, t.j. pri ukladaní prvkov knižnice došlo k zmenám (napr. neboli uložené programom LibrePCB).</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="204"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="208"/>
         <source>List command-specific options:</source>
         <translation>Vypísať špecifické možnosti pre príkazy:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="207"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="211"/>
         <source>Help:</source>
         <translation>Pomocník:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="241"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="245"/>
         <source>Path to library directory (*.lplib).</source>
         <translation>Cesta do adresára s knižnicou (*.lplib).</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="247"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="252"/>
         <source>Unknown command &apos;%1&apos;.</source>
         <translation>Neznámy príkaz &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="200"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="204"/>
         <source>Commands:</source>
         <translation>Príkazy:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="296"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="301"/>
         <source>Missing arguments:</source>
         <translation>Chýbajúce argumenty:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="302"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="307"/>
         <source>Unknown arguments:</source>
         <translation>Neznáme argumenty:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="870"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="896"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
         <translation>Kontrola &apos;%1&apos; na ne-kanonické súbory...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="887"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="914"/>
+        <source>Check &apos;%1&apos; for non-approved messages...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="938"/>
+        <source>ERROR</source>
+        <translation>CHYBA</translation>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="941"/>
+        <source>HINT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="944"/>
+        <source>WARNING</source>
+        <translation>UPOZORNENIE</translation>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="958"/>
+        <source>Approved messages: %1</source>
+        <translation>Schválené oznámenia: %1</translation>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="960"/>
+        <source>Non-approved messages: %1</source>
+        <translation>Neschválené oznámenia: %1</translation>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="971"/>
         <source>Save &apos;%1&apos;...</source>
         <translation>Uložiť &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="916"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1000"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
         <translation>Táto verzia aplikácie je NESTABILNÁ! Možnosť &apos;%1&apos; je deaktivovaná, aby nedošlo k poškodeniu projektov alebo knižníc. Namiesto toho použite prosím stabilnú verziu.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="287"/>
         <source>LibrePCB CLI Version %1</source>
         <translation>Príkazový riadok LibrePCB - verzia %1</translation>
     </message>
@@ -292,47 +327,47 @@
         <translation>Príkaz na vykonanie (pozri zoznam nižšie).</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="221"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="225"/>
         <source>Path to project file (*.lpp[z]).</source>
         <translation>Cesta k súboru projektu (*.lpp[z]).</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="283"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="288"/>
         <source>File Format %1</source>
         <translation>Formát súboru %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="284"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="289"/>
         <source>(stable)</source>
         <translation>(stabilná)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="284"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="289"/>
         <source>(unstable)</source>
         <translation>(nestabilná)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="285"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="290"/>
         <source>Git Revision %1</source>
         <translation>Git revízia %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="286"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="291"/>
         <source>Qt Version %1 (compiled against %2)</source>
         <translation>Qt Verzia %1 (skompilované %2)</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="288"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="293"/>
         <source>Built at %1</source>
         <translation>Built at %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="338"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="344"/>
         <source>SUCCESS</source>
         <translation>ÚSPEŠNÉ</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="341"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="347"/>
         <source>Finished with errors!</source>
         <translation>Ukončené s chybami!</translation>
     </message>
@@ -4290,180 +4325,180 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::cli</name>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="365"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="371"/>
         <source>Open project &apos;%1&apos;...</source>
         <translation>Otváram projekt &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="452"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="458"/>
         <source>Check for non-canonical files...</source>
         <translation>Kontrola na ne-kanonické súbory...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="455"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="461"/>
         <source>ERROR: The option &apos;--strict&apos; is not available for *.lppz files!</source>
         <translation>CHYBA: Možnosť &apos;--strict&apos; nie je dostupná pre súbory typu *.lppz !</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="478"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="484"/>
         <source>Run ERC...</source>
         <translation>Spúšťam ERC...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="491"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="497"/>
         <source>WARNING</source>
         <translation>UPOZORNENIE</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="494"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="538"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="500"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="544"/>
         <source>ERROR</source>
         <translation>CHYBA</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="501"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="507"/>
         <source>Approved messages: %1</source>
         <translation>Schválené oznámenia: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="502"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="508"/>
         <source>Non-approved messages: %1</source>
         <translation>Neschválené oznámenia: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="513"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="519"/>
         <source>Export schematics to &apos;%1&apos;...</source>
         <translation>Exportujem listy schém do &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="595"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="682"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="601"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="688"/>
         <source>ERROR: Unknown extension &apos;%1&apos;.</source>
         <translation>Chyba: neznáma prípona &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="711"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="717"/>
         <source>ERROR: The file &apos;%1&apos; was written multiple times!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="562"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="568"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
         <translation>Exportujem zoznam súčiastok dosky do &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="565"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="571"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
         <translation>Exportujem všeobecný zoznam súčiastok do &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="604"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="610"/>
         <source>Export PCB fabrication data...</source>
         <translation>Exportujem výrobné dáta DPS...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="415"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="421"/>
         <source>ERROR: No board with the name &apos;%1&apos; found.</source>
         <translation>CHYBA: Doska s názvom &apos;%1&apos; neexistuje.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="387"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="393"/>
         <source>Attention: Project has been upgraded to a newer file format!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="428"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="434"/>
         <source>ERROR: Board index &apos;%1&apos; is invalid.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="436"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="442"/>
         <source>Remove other boards...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="618"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="624"/>
         <source>ERROR: Failed to load custom settings: %1</source>
         <translation>CHYBA: Nepodarilo sa načítať užívateľské nastavenie: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="624"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="630"/>
         <source>Board &apos;%1&apos;:</source>
         <translation>Doska &apos;%1&apos;:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="647"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="653"/>
         <source>top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="651"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="657"/>
         <source>bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="655"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="661"/>
         <source>Export %1 assembly data to &apos;%2&apos;...</source>
         <translation>Exportujem z %1 osadzovacie dáta do &apos;%2&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="691"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="697"/>
         <source>Save project...</source>
         <translation>Ukladám projekt....</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="716"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="722"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
         <translation>POZNÁMKA: Aby ste sa vyhli viacnásobnému zápisu do súboru, skontrolujte jedinečnosť cesty súborov pri exportovaní. Pre výstupy dosky, môžete použiť zástupný symbol &apos;%1&apos; ako cestu, alebo zadajte exportovanú dosku s &apos;%2&apos; argumentom.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="727"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="853"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="733"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="866"/>
         <source>ERROR: %1</source>
         <translation>CHYBA: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="739"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="746"/>
         <source>Open library &apos;%1&apos;...</source>
         <translation>Otváram knižnicu &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="752"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="760"/>
         <source>Process %1 component categories...</source>
         <translation>Spracovávam %1 kategórie komponentov...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="755"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="772"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="789"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="806"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="823"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="840"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="763"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="781"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="799"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="817"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="835"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="853"/>
         <source>Open &apos;%1&apos;...</source>
         <translation>Otvoriť &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="769"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="778"/>
         <source>Process %1 package categories...</source>
         <translation>Spracovávam %1 kategórie púzdier...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="786"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="796"/>
         <source>Process %1 symbols...</source>
         <translation>Spracovávam %1 sch. značky...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="803"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="814"/>
         <source>Process %1 packages...</source>
         <translation>Spracovávam %1 púzdra...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="820"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="832"/>
         <source>Process %1 components...</source>
         <translation>Spracovávam %1 komponenty...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="837"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="850"/>
         <source>Process %1 devices...</source>
         <translation>Spracovávam %1 súčiastky...</translation>
     </message>
