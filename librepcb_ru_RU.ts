@@ -4623,84 +4623,113 @@ You need at least LibrePCB %1 to open it.
     <name>librepcb::editor::AboutDialog</name>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="14"/>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="74"/>
         <source>About LibrePCB</source>
         <translation>О приложении LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="112"/>
-        <source>General</source>
-        <translation>Общие</translation>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="101"/>
+        <source>About</source>
+        <translation>О приложении</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="120"/>
-        <source>LibrePCB is a free &amp;amp; open source schematic/layout-editor. It is mainly developed by Urban Bruhin, with &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/graphs/contributors&quot;&gt;over a dozen other contributors&lt;/a&gt;!</source>
-        <translation>LibrePCB — свободный, с открытыми исходными кодами редактор схем и плат. Разработан в основном Урбаном Брухином (Urban Bruhin) при содействии &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/graphs/contributors&quot;&gt;более дюжины других участников&lt;/a&gt;!</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="163"/>
-        <source>LibrePCB is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/blob/master/LICENSE.txt&quot;&gt;in our source code&lt;/a&gt;.</source>
-        <translation>LibrePCB — свободное программное обеспечение, распространяемое по GNU General Public License (GPL) версии 3 и выше. Полный текст лицензии вы найдёте в &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/blob/master/LICENSE.txt&quot;&gt;исходном коде&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="173"/>
-        <source>Some of the icons used in LibrePCB are provided by &lt;a href=&quot;https://icons8.com&quot;&gt;icons8.com&lt;/a&gt;, thank you!</source>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="181"/>
+        <source>Click on the link to copy the text into the clipboard.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="199"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="184"/>
+        <source>When reporting an issue, please &lt;a href=&apos;copy&apos;&gt;copy this text&lt;/a&gt; into the report.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="124"/>
         <source>Contributing</source>
         <translation>Содействие</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="207"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;LibrePCB is a community project, and therefore it relies on contributions! There are different ways you can contribute:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;LibrePCB — общественный проект и, следовательно, зависит от активности сообщества! Есть различные способы поучаствовать в проекте:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="223"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="125"/>
         <source>Donate</source>
         <translation>Пожертвовать деньги</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="246"/>
-        <source>Contribute Code</source>
-        <translation>Помочь с кодом</translation>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="54"/>
+        <source>Copied!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="269"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="82"/>
+        <source>LibrePCB is a free &amp;amp; open source schematic/layout-editor. It is mainly developed by Urban Bruhin, with the support of &lt;a href=&apos;%1&apos;&gt;many other contributors&lt;/a&gt;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="87"/>
+        <source>Links</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="89"/>
+        <source>For more information, check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="95"/>
+        <source>Help</source>
+        <translation>Справка</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="97"/>
+        <source>If you need help, please check out the &lt;a href=&apos;%1&apos;&gt;documentation&lt;/a&gt; or &lt;a href=&apos;%2&apos;&gt;contact us&lt;/a&gt;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="101"/>
+        <source>License</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="103"/>
+        <source>LibrePCB is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text &lt;a href=&apos;%1&apos;&gt;in our source code&lt;/a&gt;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="111"/>
+        <source>Some of the icons used in LibrePCB are provided by &lt;a href=&apos;%1&apos;&gt;icons8.com&lt;/a&gt;, thank you!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="122"/>
+        <source>LibrePCB is a community project, and therefore it relies on contributions! There are different ways you can contribute:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="127"/>
+        <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal, Bitcoin or other ways. Check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; for details.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="132"/>
+        <source>Improve LibrePCB</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="134"/>
+        <source>If you&apos;re interested in helping us to develop LibrePCB, check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; to see how you can contribute!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="139"/>
         <source>Spread The Word</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="276"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="141"/>
         <source>Speak about LibrePCB with your friends and colleagues, or write about it in the internet! Write a blogpost, or create a video tutorial. We&apos;re happy if more people can get to know LibrePCB.</source>
         <translation>Расскажите о LibrePCB вашим друзьям и коллегам, напишите о нём в Интернет! Упомяните в блоге, запишите обучающий видеоролик. Нам будет приятно, если о LibrePCB узнает больше людей.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="302"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="147"/>
         <source>Details</source>
         <translation>Подробности</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="336"/>
-        <source>Copy to clipboard</source>
-        <translation>Скопировать в буфер обмена</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="67"/>
-        <source>For more information, please check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
-        <translation>Подробнее можно узнать на &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; или &lt;a href=&apos;%2&apos;&gt;в репозитории на GitHub&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="72"/>
-        <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal or Bitcoin. Check out &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; for details.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="77"/>
-        <source>Check out our &lt;a href=&apos;%1&apos;&gt;Contribution Guidelines&lt;/a&gt; if you&apos;re interested in development of LibrePCB!</source>
-        <translation>Если вы заинтересованы в разработке LibrePCB, изучите наше &lt;a href=&apos;%1&apos;&gt;Руководство участникам&lt;/a&gt;!</translation>
     </message>
 </context>
 <context>

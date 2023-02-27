@@ -4628,84 +4628,113 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <name>librepcb::editor::AboutDialog</name>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="14"/>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="74"/>
         <source>About LibrePCB</source>
         <translation>O programu LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="112"/>
-        <source>General</source>
-        <translation>Obecné</translation>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="101"/>
+        <source>About</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="120"/>
-        <source>LibrePCB is a free &amp;amp; open source schematic/layout-editor. It is mainly developed by Urban Bruhin, with &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/graphs/contributors&quot;&gt;over a dozen other contributors&lt;/a&gt;!</source>
-        <translation>LibrePCB je svobodný a otevřený editor schémat a plošných spojů. Hlavně vyvíjen Urbanem Bruhinem, s &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/graphs/contributors&quot;&gt;více jak tuctem dalších přispěvatelů&lt;/a&gt;!</translation>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="181"/>
+        <source>Click on the link to copy the text into the clipboard.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="163"/>
-        <source>LibrePCB is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/blob/master/LICENSE.txt&quot;&gt;in our source code&lt;/a&gt;.</source>
-        <translation>LibrePCB je svobodný program uvolněný pod licencí &quot;GNU General Public License (GPL) verze 3 nebo novější&quot;.  Plné znění licence je součástí &lt;a href=&quot;https://github.com/LibrePCB/LibrePCB/blob/master/LICENSE.txt&quot;&gt;zdrojového kódu&lt;/a&gt;.</translation>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="184"/>
+        <source>When reporting an issue, please &lt;a href=&apos;copy&apos;&gt;copy this text&lt;/a&gt; into the report.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="173"/>
-        <source>Some of the icons used in LibrePCB are provided by &lt;a href=&quot;https://icons8.com&quot;&gt;icons8.com&lt;/a&gt;, thank you!</source>
-        <translation>Některé ikony používané v LibrePCB jsou poskytnuty &lt;a href=&quot;https://icons8.com&quot;&gt;icons8.com&lt;/a&gt;. Děkujeme!</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="199"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="124"/>
         <source>Contributing</source>
         <translation>Přispění</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="207"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;LibrePCB is a community project, and therefore it relies on contributions! There are different ways you can contribute:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;LibrePCB je komunitní projekt, a proto se spoléhá na příspěvky! Je několik možností, jak můžete přispět:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="223"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="125"/>
         <source>Donate</source>
         <translation>Dary</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="246"/>
-        <source>Contribute Code</source>
-        <translation>Přispění kódem</translation>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="54"/>
+        <source>Copied!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="269"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="82"/>
+        <source>LibrePCB is a free &amp;amp; open source schematic/layout-editor. It is mainly developed by Urban Bruhin, with the support of &lt;a href=&apos;%1&apos;&gt;many other contributors&lt;/a&gt;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="87"/>
+        <source>Links</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="89"/>
+        <source>For more information, check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="95"/>
+        <source>Help</source>
+        <translation>Nápověda</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="97"/>
+        <source>If you need help, please check out the &lt;a href=&apos;%1&apos;&gt;documentation&lt;/a&gt; or &lt;a href=&apos;%2&apos;&gt;contact us&lt;/a&gt;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="101"/>
+        <source>License</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="103"/>
+        <source>LibrePCB is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text &lt;a href=&apos;%1&apos;&gt;in our source code&lt;/a&gt;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="111"/>
+        <source>Some of the icons used in LibrePCB are provided by &lt;a href=&apos;%1&apos;&gt;icons8.com&lt;/a&gt;, thank you!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="122"/>
+        <source>LibrePCB is a community project, and therefore it relies on contributions! There are different ways you can contribute:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="127"/>
+        <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal, Bitcoin or other ways. Check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; for details.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="132"/>
+        <source>Improve LibrePCB</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="134"/>
+        <source>If you&apos;re interested in helping us to develop LibrePCB, check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; to see how you can contribute!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="139"/>
         <source>Spread The Word</source>
         <translation>Šíření povědomí</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="276"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="141"/>
         <source>Speak about LibrePCB with your friends and colleagues, or write about it in the internet! Write a blogpost, or create a video tutorial. We&apos;re happy if more people can get to know LibrePCB.</source>
         <translation>Mluvte o LibrePCB se svými přáteli, nebo kolegy, anebo o něm pište na internetu! Napište příspěvek do blogu, nebo natočte návod. Budeme rádi, když víc a víc lidí pozná LibrePCB.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="302"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="147"/>
         <source>Details</source>
         <translation>Podrobnosti</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="336"/>
-        <source>Copy to clipboard</source>
-        <translation>Kopírovat do schránky</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="67"/>
-        <source>For more information, please check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
-        <translation>Další informace najdete na &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; , nebo v našem &lt;a href=&apos;%2&apos;&gt;úložišti na GitHub&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="72"/>
-        <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal or Bitcoin. Check out &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; for details.</source>
-        <translation>Podpořit vývoj LibrePCB pomocí finančního daru pomocí služby Patreon, PayPal nebo kryptoměnou Bitcoin. Navštivte &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; pro více informací.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="77"/>
-        <source>Check out our &lt;a href=&apos;%1&apos;&gt;Contribution Guidelines&lt;/a&gt; if you&apos;re interested in development of LibrePCB!</source>
-        <translation>Podívejte se na &lt;a href=&apos;%1&apos;&gt;pokyny pro přispěvatele&lt;/a&gt;, pokud máte zájem podílet se na vývoji LibrePCB!</translation>
     </message>
 </context>
 <context>
