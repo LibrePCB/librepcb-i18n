@@ -272,47 +272,47 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="896"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="895"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="914"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="913"/>
         <source>Check &apos;%1&apos; for non-approved messages...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="938"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="937"/>
         <source>ERROR</source>
         <translation>FEHLER</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="941"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="940"/>
         <source>HINT</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="944"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="943"/>
         <source>WARNING</source>
         <translation>WARNUNG</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="958"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="957"/>
         <source>Approved messages: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="960"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="959"/>
         <source>Non-approved messages: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="971"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="970"/>
         <source>Save &apos;%1&apos;...</source>
         <translation>Speichere &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1000"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="999"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
         <translation type="unfinished"/>
     </message>
@@ -3370,229 +3370,249 @@ For THT pads, the origin must be located within a drill hole since on some layer
     </message>
 </context>
 <context>
-    <name>librepcb::BI_NetPoint</name>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/items/bi_netpoint.cpp" line="53"/>
-        <source>Dead net point in board &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>librepcb::BoardDesignRuleCheck</name>
     <message numerus="yes">
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="110"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="114"/>
         <source>Finished with %1 message(s)!</source>
         <comment>Count of messages</comment>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="121"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="125"/>
         <source>Rebuild planes...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="577"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="581"/>
         <source>Check for disallowed NPTH slots...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="602"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="606"/>
         <source>Check for disallowed PTH slots...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="701"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="723"/>
         <source>Check for missing connections...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="707"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="729"/>
         <source>Missing connection: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
         <translation>Fehlende Verbindung: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="279"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="283"/>
         <source>Check board clearances...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="320"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="324"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; Board Outline</source>
         <comment>Placeholders are layer name + net name</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="229"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="233"/>
         <source>Check copper clearances...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="257"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="261"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
         <comment>Placeholders are layer name + net names</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="661"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="665"/>
         <source>Check courtyard clearances...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="687"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="691"/>
         <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
         <comment>Placeholders are layer name + component names</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="132"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="136"/>
         <source>Check minimum copper width...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="142"/>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="185"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="146"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="189"/>
         <source>Min. copper width (%1) of text: %2</source>
         <comment>Placeholders are layer name + width</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="165"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="169"/>
         <source>Min. copper width (%1) of plane: %2</source>
         <comment>Placeholders are layer name + width</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="208"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="212"/>
         <source>Min. copper width (%1) of trace: %2</source>
         <comment>Placeholders are layer name + width</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="340"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="344"/>
         <source>Check minimum PTH annular rings...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="372"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="376"/>
         <source>Annular ring of via &apos;%1&apos; &lt; %2</source>
         <comment>Placeholders are net name + annular ring width</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="407"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="411"/>
         <source>Annular ring of pad &apos;%1&apos; &lt; %2</source>
         <comment>Placeholders are pad name + annular ring width</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="429"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="433"/>
         <source>Min. hole diameter: %1 &lt; %2</source>
         <comment>The '&lt;' means 'smaller than'.</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="464"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="468"/>
         <source>Check minimum NPTH slot width...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="467"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="471"/>
         <source>Min. NPTH slot width: %1 &lt; %2</source>
         <comment>The '&lt;' means 'smaller than'.</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="502"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="506"/>
         <source>Check minimum PTH drill diameters...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="508"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="512"/>
         <source>Min. via drill diameter (&apos;%1&apos;): %2</source>
         <comment>Placeholders are net name + drill diameter</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="524"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="528"/>
         <source>Min. pad drill diameter (&apos;%1&apos;): %2</source>
         <comment>Placeholders are pad name + drill diameter</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="545"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="549"/>
         <source>Check minimum PTH slot width...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="548"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="552"/>
         <source>Min. PTH slot width: %1 &lt; %2</source>
         <comment>The '&lt;' means 'smaller than'.</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="620"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="624"/>
         <source>Check pad connections...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="622"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="626"/>
         <source>Invalid pad connection: %1:%2 on %3</source>
         <comment>Placeholders: Device name, pad name, layer name.</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="648"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="652"/>
         <source>The pad origin must be located within the pads copper area, or for THT pads within a hole. Otherwise traces might not be connected fully. This issue needs to be fixed in the library.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="722"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="705"/>
+        <source>Check for unplaced components...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="713"/>
+        <source>Unplaced component: &apos;%1&apos;</source>
+        <comment>Placeholder is component name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="740"/>
+        <source>Check for stale objects...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="746"/>
+        <source>Empty segment of net &apos;%1&apos;: %2</source>
+        <comment>Placeholders: Net name, UUID</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="755"/>
+        <source>Unused junction of net &apos;%1&apos;: %2</source>
+        <comment>Placeholders: Net name, UUID</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="774"/>
         <source>Either avoid them or check if your PCB manufacturer supports them.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="725"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="777"/>
         <source>Choose the desired Excellon slot mode when generating the production data (G85 vs. G00..G03).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="728"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="780"/>
         <source>The drilled slot mode (G85) will not be available when generating production data.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="733"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="785"/>
         <source>Hole is a slot with curves</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="735"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="787"/>
         <source>Curved slots are a very unusual thing and may cause troubles with many PCB manufacturers.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="742"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="794"/>
         <source>Hole is a multi-segment slot</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="744"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="796"/>
         <source>Multi-segment slots are a rather unusual thing and may cause troubles with some PCB manufacturers.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="751"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="803"/>
         <source>Hole is a slot</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="752"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="804"/>
         <source>Slots may cause troubles with some PCB manufacturers.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="426"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="430"/>
         <source>Check minimum NPTH drill diameters...</source>
         <translation type="unfinished"/>
     </message>
@@ -3700,22 +3720,22 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>librepcb::FileFormatMigrationV01</name>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="321"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="329"/>
         <source>All non-plated holes (NPTH) now have automatic stop mask added on both board sides. The expansion value is determined by the boards design rule settings but can be overridden in the hole properties dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="330"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="338"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="337"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="345"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="344"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="352"/>
         <source>Vias within planes with connect style &apos;None&apos; are now fully connected to the planes since the connect style is no longer respected for vias. You might want to remove traces now which are no longer needed to connect these vias.</source>
         <translation type="unfinished"/>
     </message>
@@ -4350,54 +4370,54 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="497"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="496"/>
         <source>WARNING</source>
         <translation>WARNUNG</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="500"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="544"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="499"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="543"/>
         <source>ERROR</source>
         <translation>FEHLER</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="507"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="506"/>
         <source>Approved messages: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="508"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="507"/>
         <source>Non-approved messages: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="519"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="518"/>
         <source>Export schematics to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="601"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="688"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="600"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="687"/>
         <source>ERROR: Unknown extension &apos;%1&apos;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="717"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="716"/>
         <source>ERROR: The file &apos;%1&apos; was written multiple times!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="568"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="567"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="571"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="570"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="610"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="609"/>
         <source>Export PCB fabrication data...</source>
         <translation type="unfinished"/>
     </message>
@@ -4422,88 +4442,88 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="624"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="623"/>
         <source>ERROR: Failed to load custom settings: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="630"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="629"/>
         <source>Board &apos;%1&apos;:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="653"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="652"/>
         <source>top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="657"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="656"/>
         <source>bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="661"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="660"/>
         <source>Export %1 assembly data to &apos;%2&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="697"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="696"/>
         <source>Save project...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="722"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="721"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="733"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="866"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="732"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="865"/>
         <source>ERROR: %1</source>
         <translation>FEHLER: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="746"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="745"/>
         <source>Open library &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="760"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="759"/>
         <source>Process %1 component categories...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="763"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="781"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="799"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="817"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="835"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="853"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="762"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="780"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="798"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="816"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="834"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="852"/>
         <source>Open &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="778"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="777"/>
         <source>Process %1 package categories...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="796"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="795"/>
         <source>Process %1 symbols...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="814"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="813"/>
         <source>Process %1 packages...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="832"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="831"/>
         <source>Process %1 components...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="850"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="849"/>
         <source>Process %1 devices...</source>
         <translation type="unfinished"/>
     </message>
@@ -5145,27 +5165,27 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1151"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1154"/>
         <source>Add New Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1151"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1179"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1154"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1182"/>
         <source>Choose a name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1152"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1155"/>
         <source>new_board</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1062"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1169"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1197"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1215"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1305"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1172"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1200"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1218"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1308"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
@@ -5175,38 +5195,38 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1160"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1188"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1163"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1191"/>
         <source>Invalid name: &apos;%1&apos;</source>
         <translation>Ungültiger name: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1179"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1182"/>
         <source>Copy Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1180"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1183"/>
         <source>copy_of_%1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1206"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1209"/>
         <source>Remove board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1207"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1210"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1278"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1281"/>
         <source>Preparing board...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1278"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1281"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
@@ -8403,42 +8423,32 @@ Do you really want to close it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="216"/>
+        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="204"/>
         <source>Circuit Errors (%1)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="220"/>
+        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="208"/>
         <source>Circuit Warnings (%1)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="224"/>
+        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="212"/>
         <source>Schematic Errors (%1)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="229"/>
+        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="217"/>
         <source>Schematic Warnings (%1)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="233"/>
-        <source>Board Errors (%1)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="237"/>
-        <source>Board Warnings (%1)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="241"/>
+        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="221"/>
         <source>Approved (%1)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="244"/>
+        <location filename="../libs/librepcb/editor/project/erc/ercmsgdock.cpp" line="224"/>
         <source>ERC [%1]</source>
         <translation type="unfinished"/>
     </message>
