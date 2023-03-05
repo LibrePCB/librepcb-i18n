@@ -2346,7 +2346,7 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgholewithoutstopmask.cpp" line="45"/>
         <source>Non-plated holes should have a stop mask opening to avoid solder resist flowing into the hole. An automatic stop mask opening can be enabled in the hole properties.</source>
-        <translation type="unfinished"/>
+        <translation>Neprekovené otvory by mali mať vynechanú oblasť v nespájkovateľnej maske, aby sa zabránilo zaplnenie otvoru materiálom masky. Automatické vynechávanie tejto oblasti, môže byť povolené vo vlastnostiach otvoru.</translation>
     </message>
 </context>
 <context>
@@ -3731,7 +3731,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="329"/>
         <source>All non-plated holes (NPTH) now have automatic stop mask added on both board sides. The expansion value is determined by the boards design rule settings but can be overridden in the hole properties dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Všetky neprekovené otvory (NPTH) majú automaticky pridanú vynechanú oblasť v nespájkovateľnej maske na oboch stranách dosky. Hodnota odstupu masky od otvoru je definovaná v návrhových pravidlách dosky, ale pre konkrétny otvor ju je možné zmeniť vo vlastnostiach otvoru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="338"/>
@@ -8823,7 +8823,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="378"/>
         <source>Plated Holes</source>
-        <translation type="unfinished"/>
+        <translation>Prekovené otvory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="396"/>
