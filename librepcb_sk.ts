@@ -224,7 +224,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="190"/>
         <source>Run the library element check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Spustenie kontroly knižničných prvkov, zobrazenie všetkých neschválených upozornení a oznámenie chýb (exit code = 1) ak jestvujú neschválené oznámenia.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="194"/>
@@ -279,7 +279,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="913"/>
         <source>Check &apos;%1&apos; for non-approved messages...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola &apos;%1&apos; na neschválené oznámenia...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="937"/>
@@ -289,7 +289,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="940"/>
         <source>HINT</source>
-        <translation type="unfinished"/>
+        <translation>TIP</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="943"/>
@@ -1093,22 +1093,22 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1200"/>
         <source>Rounded Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Zaoblený štvoruholník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1201"/>
         <source>Shape: Rounded Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Tvar: zaoblený štvoruholník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1209"/>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Štvoruholník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1210"/>
         <source>Shape: Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Tvar: štvoruholník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1218"/>
@@ -1118,7 +1118,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1219"/>
         <source>Shape: Octagon</source>
-        <translation type="unfinished"/>
+        <translation>Tvar: osemuholník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="450"/>
@@ -1129,27 +1129,27 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="293"/>
         <source>Board Setup</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenie dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="294"/>
         <source>View/modify the board setup</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť/upraviť nastavenie dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="302"/>
         <source>Run Quick Check</source>
-        <translation type="unfinished"/>
+        <translation>Spustiť rýchlu kontrolu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="303"/>
         <source>Run only the most important copper checks from the DRC</source>
-        <translation type="unfinished"/>
+        <translation>Spustenie kontroly iba najdôležitejších pravidiel DRC týkajúcich sa vodivých spojov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="311"/>
         <source>Run Design Rule Check</source>
-        <translation type="unfinished"/>
+        <translation>Spustenie kontroly návrhových pravidiel</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="429"/>
@@ -1554,103 +1554,103 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1063"/>
         <source>Toggle Auto-Width</source>
-        <translation type="unfinished"/>
+        <translation>Prepnutie automatickej šírky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1064"/>
         <source>Toggle the auto-width property state</source>
-        <translation type="unfinished"/>
+        <translation>Prepnutie vlastnosti automatickej šírky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1072"/>
         <source>Toggle Fill</source>
-        <translation type="unfinished"/>
+        <translation>Prepnutie výplne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1073"/>
         <source>Toggle the fill property state</source>
-        <translation type="unfinished"/>
+        <translation>Prepnutie vlastnosti vyplnenia oblasti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1081"/>
         <source>Toggle Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Prepnutie uchopovacej oblasti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1082"/>
         <source>Toggle the grab area property state</source>
-        <translation type="unfinished"/>
+        <translation>Prepnutie vlastnosti uchopovacej oblasti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1090"/>
         <source>Align Left</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnanie vľavo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1091"/>
         <source>Horizontal alignment: Left</source>
-        <translation type="unfinished"/>
+        <translation>Horizontálne zarovnanie: Vľavo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1099"/>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1126"/>
         <source>Align Center</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnanie na stred</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1100"/>
         <source>Horizontal alignment: Center</source>
-        <translation type="unfinished"/>
+        <translation>Horizontálne zarovnanie: Na stred</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1108"/>
         <source>Align Right</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnanie vpravo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1109"/>
         <source>Horizontal alignment: Right</source>
-        <translation type="unfinished"/>
+        <translation>Horizontálne zarovnanie: Vpravo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1117"/>
         <source>Align Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnanie nadol</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1118"/>
         <source>Vertical alignment: Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Vertikálne zarovnanie: Nadol</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1127"/>
         <source>Vertical alignment: Center</source>
-        <translation type="unfinished"/>
+        <translation>Vertikálne zarovnanie: Na stred</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1135"/>
         <source>Align Top</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnanie nahor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1136"/>
         <source>Vertical alignment: Top</source>
-        <translation type="unfinished"/>
+        <translation>Vertikálne zarovnanie: Nahor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1144"/>
         <source>Horizontal - Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Horizontálne - Vertikálne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1145"/>
         <source>Wire mode: First segment horizontal, second segment vertical</source>
-        <translation type="unfinished"/>
+        <translation>Režim spoja: Prvý segment horizontálne, nasledujúci segment vertikálne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1154"/>
         <source>Vertical - Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Vertikálne - Horizontálne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1155"/>
@@ -1660,7 +1660,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1164"/>
         <source>90° - 45°</source>
-        <translation type="unfinished"/>
+        <translation>90° - 45°</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1165"/>
@@ -1670,7 +1670,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1173"/>
         <source>45° - 90°</source>
-        <translation type="unfinished"/>
+        <translation>45° - 90°</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1174"/>
@@ -5107,7 +5107,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckmessagesdock.ui" line="103"/>
         <source>Run Quick Check</source>
-        <translation type="unfinished"/>
+        <translation>Spustiť rýchlu kontrolu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckmessagesdock.ui" line="155"/>
@@ -5688,7 +5688,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="14"/>
         <source>Board Setup</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenie dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="24"/>
@@ -8803,7 +8803,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="259"/>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Štvoruholník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="311"/>
