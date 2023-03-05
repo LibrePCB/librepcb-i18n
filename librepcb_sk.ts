@@ -1098,7 +1098,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1201"/>
         <source>Shape: Rounded Rectangle</source>
-        <translation>Tvar: zaoblený štvoruholník</translation>
+        <translation>Tvar: Zaoblený štvoruholník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1209"/>
@@ -1108,7 +1108,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1210"/>
         <source>Shape: Rectangle</source>
-        <translation>Tvar: štvoruholník</translation>
+        <translation>Tvar: Štvoruholník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1218"/>
@@ -1118,7 +1118,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1219"/>
         <source>Shape: Octagon</source>
-        <translation>Tvar: osemuholník</translation>
+        <translation>Tvar: Osemuholník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="450"/>
@@ -1364,7 +1364,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="889"/>
         <source>Add plated through-hole copper pads</source>
-        <translation>Pridanie plôšky vývodu s priechodzím pokoveným otvorom</translation>
+        <translation>Pridanie plôšky vývodu s prekoveným otvorom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="897"/>
@@ -1374,7 +1374,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="898"/>
         <source>Add non-plated holes (NPTH drills)</source>
-        <translation>Pridanie nepokoveného otvoru (NPTH)</translation>
+        <translation>Pridanie neprekoveného otvoru (NPTH)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="906"/>
@@ -1424,7 +1424,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="944"/>
         <source>Add plated through-hole vias</source>
-        <translation>Pridanie priechodzích pokovených otvorov</translation>
+        <translation>Pridanie prekovených otvorov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="952"/>
@@ -1655,7 +1655,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1155"/>
         <source>Wire mode: First segment vertical, second segment horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Režim spoja: Prvý segment vertikálne, nasledujúci segment horizontálne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1164"/>
@@ -1665,7 +1665,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1165"/>
         <source>Wire mode: First segment 90°, second segment 45°</source>
-        <translation type="unfinished"/>
+        <translation>Režim spoja: Prvý segment 90°, nasledujúci segment 45°</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1173"/>
@@ -1675,17 +1675,17 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1174"/>
         <source>Wire mode: First segment 45°, second segment 90°</source>
-        <translation type="unfinished"/>
+        <translation>Režim spoja: Prvý segment 45°, nasledujúci segment 90°</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1182"/>
         <source>Straight</source>
-        <translation type="unfinished"/>
+        <translation>Priame</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1183"/>
         <source>Wire mode: Straight line</source>
-        <translation type="unfinished"/>
+        <translation>Režim spoja: Priame línie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1191"/>
@@ -1695,7 +1695,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1192"/>
         <source>Shape: Round</source>
-        <translation type="unfinished"/>
+        <translation>Tvar: Kruh</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1227"/>
@@ -1705,62 +1705,62 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1230"/>
         <source>Resistor</source>
-        <translation type="unfinished"/>
+        <translation>Rezistor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1231"/>
         <source>Add standard component: Resistor</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie štandardného prvku typu: Rezistor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1239"/>
         <source>Inductor</source>
-        <translation type="unfinished"/>
+        <translation>Cievka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1240"/>
         <source>Add standard component: Inductor</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie štandardného prvku typu: Cievka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1248"/>
         <source>Bipolar Capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Bipolárny kondenzátor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1249"/>
         <source>Add standard component: Bipolar capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie štandardného prvku typu: Bipolárny kondenzátor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1257"/>
         <source>Unipolar Capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Unipolárny kondenzátor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1258"/>
         <source>Add standard component: Unipolar capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie štandardného prvku typu: Unipolárny kondenzátor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1266"/>
         <source>GND Supply</source>
-        <translation type="unfinished"/>
+        <translation>Napájací objekt GND</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1267"/>
         <source>Add standard component: GND supply</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie štandardného prvku typu: Napájací objekt GND</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1275"/>
         <source>VCC Supply</source>
-        <translation type="unfinished"/>
+        <translation>Napájací objekt VCC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1276"/>
         <source>Add standard component: VCC supply</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie štandardného prvku typu: Napájací objekt VCC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1283"/>
@@ -1820,27 +1820,27 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1332"/>
         <source>Window Management</source>
-        <translation type="unfinished"/>
+        <translation>Správca okien</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1336"/>
         <source>Next Tab/Page</source>
-        <translation type="unfinished"/>
+        <translation>Nasledujúca karta/stránka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1337"/>
         <source>Navigate to the next tab or page</source>
-        <translation type="unfinished"/>
+        <translation>Prejsť na nasledujúcu kartu alebo stránku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1345"/>
         <source>Previous Tab/Page</source>
-        <translation type="unfinished"/>
+        <translation>Predchádzajúca karta/stránka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1346"/>
         <source>Navigate to the previous tab or page</source>
-        <translation type="unfinished"/>
+        <translation>Prejsť na predchádzajúcu kartu alebo stránku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1354"/>
@@ -1915,7 +1915,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1412"/>
         <source>Show information about the application</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť informácie o aplikácii</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1420"/>
@@ -1925,7 +1925,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1421"/>
         <source>Show information about Qt</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť informácie o Qt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1429"/>
@@ -1935,7 +1935,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1430"/>
         <source>Open the LibrePCB website in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť webstránku LibrePCB v internetovom prehliadači</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1438"/>
@@ -1945,7 +1945,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1439"/>
         <source>Open the documentation in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť dokumentáciu v internetovom prehliadači</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1447"/>
@@ -1960,7 +1960,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1456"/>
         <source>Context Menu</source>
-        <translation type="unfinished"/>
+        <translation>Kontextová ponuka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1459"/>
@@ -1970,27 +1970,27 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1460"/>
         <source>Create a new folder</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť nový adresár</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1468"/>
         <source>Add To Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Pridať k obľúbeným</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1469"/>
         <source>Add project to favorites</source>
-        <translation type="unfinished"/>
+        <translation>Pridať projekt k obľúbeným</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1477"/>
         <source>Remove From Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť z obľúbených</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1478"/>
         <source>Remove project from favorites</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť projekt z obľúbených</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1486"/>
@@ -2000,7 +2000,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1487"/>
         <source>Insert a new vertex into the selected polygon edge</source>
-        <translation type="unfinished"/>
+        <translation>Vložiť nový vrchol na hranu zvoleného polygónu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1495"/>
@@ -2010,7 +2010,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1496"/>
         <source>Remove the selected vertex from the polygon</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť zvolený vrchol z polygónu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1504"/>
@@ -2020,7 +2020,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1505"/>
         <source>Select the whole trace</source>
-        <translation type="unfinished"/>
+        <translation>Vybrať celý spoj</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1513"/>
@@ -2030,7 +2030,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1514"/>
         <source>Measure the total length of all selected trace segments</source>
-        <translation type="unfinished"/>
+        <translation>Zmerať celkovú dĺžku všetkých zvolených segmentov spoja</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1522"/>
@@ -2040,7 +2040,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1523"/>
         <source>Remove the whole trace</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť celý spoj</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1531"/>
@@ -2050,7 +2050,7 @@
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1532"/>
         <source>Toggle visibility</source>
-        <translation type="unfinished"/>
+        <translation>Prepnutie viditeľnosti</translation>
     </message>
 </context>
 <context>
@@ -2066,7 +2066,7 @@
     <message>
         <location filename="../libs/librepcb/core/export/excellongenerator.cpp" line="184"/>
         <source>Using the G85 slot command is not possible for curved slots. Either remove curved slots or disable the G85 export option.</source>
-        <translation type="unfinished"/>
+        <translation>Použitie príkazu G85 nie je možné aplikovať pre zaoblené sloty. Najskôr odstráňte zaoblenie slotu, alebo zakážte použitie príkazu G85.</translation>
     </message>
 </context>
 <context>
@@ -2264,32 +2264,32 @@
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="171"/>
         <source>Change &amp;Device</source>
-        <translation type="unfinished"/>
+        <translation>Zmeniť súčiastku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="176"/>
         <source>Change &amp;Footprint</source>
-        <translation type="unfinished"/>
+        <translation>Zmeniť púzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="182"/>
         <source>Copy to Other Library</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovať do inej knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="184"/>
         <source>Create a copy of this element (preserving UUIDs) in another library</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť kópiu tohto prvku (so zachovaním UUID) v inej knižnici</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="191"/>
         <source>Move to Other Library</source>
-        <translation type="unfinished"/>
+        <translation>Presunúť do inej knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="193"/>
         <source>Move this element to another library</source>
-        <translation type="unfinished"/>
+        <translation>Presunutie tohto prvku do inej knižnice</translation>
     </message>
 </context>
 <context>
@@ -2341,7 +2341,7 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
         <location filename="../libs/librepcb/core/library/pkg/msg/msgholewithoutstopmask.cpp" line="41"/>
         <source>No stop mask on %1 hole in &apos;%2&apos;</source>
         <comment>First placeholder is the hole diameter.</comment>
-        <translation type="unfinished"/>
+        <translation>Bez nespájkovateľnej masky na %1 otvore v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/msg/msgholewithoutstopmask.cpp" line="45"/>
