@@ -21,6 +21,14 @@
     </message>
 </context>
 <context>
+    <name>BoardDesignRuleCheckMessages</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="50"/>
+        <source>Depending on the capabilities of the PCB manufacturer, this could cause higher costs or even serious troubles during production, leading to a possibly non-functional PCB.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>BoardDesignRules</name>
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="113"/>
@@ -389,6 +397,461 @@
     <message>
         <location filename="../libs/librepcb/core/fileio/directorylock.cpp" line="170"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgBoardCopperClearanceViolation</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="279"/>
+        <source>Clearance on %1: %2 ↔ %3 &lt; %4 %5</source>
+        <comment>Placeholders: Layer name, object name, object name, Clearance value, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="286"/>
+        <source>The clearance between two copper objects of different nets is smaller than the minimum copper clearance configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="290"/>
+        <source>Check the DRC settings and move the objects to increase their clearance if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="314"/>
+        <source>copper layers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="331"/>
+        <source>via</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="333"/>
+        <source>trace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="335"/>
+        <source>plane</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="337"/>
+        <source>polygon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="339"/>
+        <source>circle</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="341"/>
+        <source>text</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgBoardOutlineClearanceViolation</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="412"/>
+        <source>Clearance board outline ↔ via &lt; %1 %2</source>
+        <comment>Placeholders: Clearance value, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="415"/>
+        <source>The clearance between a via and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="419"/>
+        <source>Check the DRC settings and move the via away from the board outline if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="434"/>
+        <source>Clearance board outline ↔ trace &lt; %1 %2</source>
+        <comment>Placeholders: Clearance value, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="437"/>
+        <source>The clearance between a trace and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="441"/>
+        <source>Check the DRC settings and move the trace away from the board outline if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="456"/>
+        <source>Clearance board outline ↔ pad &lt; %1 %2</source>
+        <comment>Placeholders: Clearance value, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="459"/>
+        <source>The clearance between a footprint pad and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="463"/>
+        <source>Check the DRC settings and move the device away from the board outline if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="478"/>
+        <source>Clearance board outline ↔ plane &lt; %1 %2</source>
+        <comment>Placeholders: Clearance value, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="481"/>
+        <source>The clearance between a plane and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="485"/>
+        <source>Check the DRC settings and increase the configured plane clearance if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="498"/>
+        <source>Clearance board outline ↔ polygon &lt; %1 %2</source>
+        <comment>Placeholders: Clearance value, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="501"/>
+        <source>The clearance between a polygon and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="504"/>
+        <source>Check the DRC settings and move the polygon away from the board outline if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="521"/>
+        <source>Clearance board outline ↔ circle &lt; %1 %2</source>
+        <comment>Placeholders: Clearance value, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="524"/>
+        <source>The clearance between a circle and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="527"/>
+        <source>Check the DRC settings and move the circle away from the board outline if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="544"/>
+        <source>Clearance board outline ↔ text &lt; %1 %2</source>
+        <comment>Placeholders: Clearance value, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="547"/>
+        <source>The clearance between a stroke text and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="551"/>
+        <source>Check the DRC settings and move the stroke text away from the board outline if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgCopperHoleClearanceViolation</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="572"/>
+        <source>Clearance copper ↔ hole &lt; %1 %2</source>
+        <comment>Placeholders: Clearance value, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="575"/>
+        <source>The clearance between a non-plated hole and copper objects is smaller than the hole clearance configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="578"/>
+        <source>Check the DRC settings and move the copper objects away from the hole if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgCourtyardOverlap</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="599"/>
+        <source>Courtyard overlap: &apos;%1&apos; ↔ &apos;%2&apos;</source>
+        <comment>Placeholders: Device 1 name, device 2 name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="605"/>
+        <source>The courtyard of two devices overlap, which might cause troubles during assembly of these parts.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="608"/>
+        <source>Either move the devices to increase their distance or approve this message if you&apos;re sure they can be assembled without problems.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgEmptyNetSegment</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="156"/>
+        <source>Empty segment of net &apos;%1&apos;: &apos;%2&apos;</source>
+        <comment>Placeholders: Net name, segment UUID</comment>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgForbiddenSlot</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="871"/>
+        <source>Hole is a slot with curves</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="873"/>
+        <source>Hole is a multi-segment slot</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="875"/>
+        <source>Hole is a slot</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="882"/>
+        <source>Either avoid them or check if your PCB manufacturer supports them.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="884"/>
+        <source>Choose the desired Excellon slot mode when generating the production data (G85 vs. G00..G03).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="887"/>
+        <source>The drilled slot mode (G85) will not be available when generating production data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="891"/>
+        <source>Curved slots are a very unusual thing and may cause troubles with many PCB manufacturers.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="895"/>
+        <source>Multi-segment slots are a rather unusual thing and may cause troubles with some PCB manufacturers.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="899"/>
+        <source>Slots may cause troubles with some PCB manufacturers.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgInvalidPadConnection</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="809"/>
+        <source>Invalid connection of pad &apos;%1&apos; on &apos;%2&apos;</source>
+        <comment>Placeholders: Pad name, layer name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="812"/>
+        <source>The pad origin must be located within the pads copper area, or for THT pads within a hole. Otherwise traces might not beconnected fully. This issue needs to be fixed in the library.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgMinimumDrillDiameterViolation</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="680"/>
+        <source>NPTH drill diameter: %1 &lt; %2 %3</source>
+        <comment>Placeholders: Actual diameter, minimum diameter, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="684"/>
+        <source>The drill diameter of the non-plated hole is smaller than the minimum non-plated drill diameter configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="688"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="713"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="736"/>
+        <source>Check the DRC settings or increase the drill diameter if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="705"/>
+        <source>Via drill diameter of &apos;%1&apos;: %2 &lt; %3 %4</source>
+        <comment>Placeholders: Net name, actual diameter, minimum diameter</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="710"/>
+        <source>The drill diameter of the via is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="728"/>
+        <source>Pad drill diameter of &apos;%1&apos;: %2 &lt; %3 %4</source>
+        <comment>Placeholders: Net name, actual diameter, minimum diameter</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="733"/>
+        <source>The drill diameter of the through-hole pad is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgMinimumSlotWidthViolation</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="757"/>
+        <source>NPTH slot width: %1 &lt; %2 %3</source>
+        <comment>Placeholders: Actual width, minimum width, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="761"/>
+        <source>The width of the non-plated slot is smaller than the minimum non-plated slot width configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="764"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="789"/>
+        <source>Check the DRC settings or increase the slot width if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="781"/>
+        <source>Pad slot width of &apos;%1&apos;: %2 &lt; %3 %4</source>
+        <comment>Placeholders: Net name, actual width, minimum width, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="786"/>
+        <source>The width of the plated slot is smaller than the minimum plated slot width configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgMinimumWidthViolation</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="203"/>
+        <source>Trace width on &apos;%1&apos;: %2 &lt; %3 %4</source>
+        <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="208"/>
+        <source>The trace is thinner than the minimum copper width configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="211"/>
+        <source>Check the DRC settings and increase the trace width if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="226"/>
+        <source>Min. plane width on &apos;%1&apos;: %2 &lt; %3 %4</source>
+        <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="231"/>
+        <source>The configured minimum width of the plane is smaller than the minimum copper width configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="234"/>
+        <source>Check the DRC settings and increase the minimum plane width in its properties if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="247"/>
+        <source>Stroke width on &apos;%1&apos;: %2 &lt; %3 %4</source>
+        <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="252"/>
+        <source>The text stroke width is smaller than the minimum copper width configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="255"/>
+        <source>Check the DRC settings and increase the text stroke width if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgMissingConnection</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="86"/>
+        <source>Missing connection in &apos;%1&apos;: %2 ↔ %3</source>
+        <comment>Placeholders: Net name, connection count</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="89"/>
+        <source>There is a missing connection in the net, i.e. not all net items are connected together.
+
+Add traces and/or planes to create the missing connections.
+
+Note that traces need to be snapped to the origin of footprint pads to make the airwire and this message disappearing.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="114"/>
+        <source>Via</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="123"/>
+        <source>Trace</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgMissingDevice</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="65"/>
+        <source>Missing device: &apos;%1&apos;</source>
+        <comment>Placeholders: Device name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="67"/>
+        <source>There's a component in the schematics without a corresponding device in the board, so the circuit of the PCB is not complete.
+
+Use the &quot;Place Devices&quot; dock to add the device.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgUnconnectedJunction</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="178"/>
+        <source>Unconnected junction in net: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2092,11 +2555,6 @@
         <source>Unconnected junction in net: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="194"/>
-        <source>There&apos;s an invisible junction in the schematic without any wire attached. This should not happen, please report it as a bug. But no worries, this issue is not harmful at all so you can safely ignore this message.</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>ErcMsgUnconnectedRequiredSignal</name>
@@ -2378,6 +2836,41 @@
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="193"/>
         <source>Move this element to another library</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MsgBoardAnnularRingViolation</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="632"/>
+        <source>Via annular ring of &apos;%1&apos; &lt; %2 %3</source>
+        <comment>Placeholders: Net name, minimum annular width, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="636"/>
+        <source>The via annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="640"/>
+        <source>Check the DRC settings and increase the via size if needed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="654"/>
+        <source>Pad annular ring of &apos;%1&apos; &lt; %2 %3</source>
+        <comment>Placeholders: Net name, minimum annular width, unit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="658"/>
+        <source>The through-hole pad annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="662"/>
+        <source>Check the DRC settings and increase the pad size if needed.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3479,247 +3972,93 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>librepcb::BoardDesignRuleCheck</name>
     <message numerus="yes">
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="114"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="116"/>
         <source>Finished with %1 message(s)!</source>
         <comment>Count of messages</comment>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="125"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="127"/>
         <source>Rebuild planes...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="581"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="562"/>
+        <source>Check hole clearances...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="823"/>
         <source>Check for disallowed NPTH slots...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="606"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="854"/>
         <source>Check for disallowed PTH slots...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="723"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="960"/>
         <source>Check for missing connections...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="729"/>
-        <source>Missing connection: &apos;%1&apos;</source>
-        <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="283"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="389"/>
         <source>Check board clearances...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="324"/>
-        <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; Board Outline</source>
-        <comment>Placeholders are layer name + net name</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="233"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="223"/>
         <source>Check copper clearances...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="261"/>
-        <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
-        <comment>Placeholders are layer name + net names</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="665"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="909"/>
         <source>Check courtyard clearances...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="691"/>
-        <source>Clearance (%1): &apos;%2&apos; &lt;-&gt; &apos;%3&apos;</source>
-        <comment>Placeholders are layer name + component names</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="136"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="138"/>
         <source>Check minimum copper width...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="146"/>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="189"/>
-        <source>Min. copper width (%1) of text: %2</source>
-        <comment>Placeholders are layer name + width</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="169"/>
-        <source>Min. copper width (%1) of plane: %2</source>
-        <comment>Placeholders are layer name + width</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="212"/>
-        <source>Min. copper width (%1) of trace: %2</source>
-        <comment>Placeholders are layer name + width</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="344"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="613"/>
         <source>Check minimum PTH annular rings...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="376"/>
-        <source>Annular ring of via &apos;%1&apos; &lt; %2</source>
-        <comment>Placeholders are net name + annular ring width</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="411"/>
-        <source>Annular ring of pad &apos;%1&apos; &lt; %2</source>
-        <comment>Placeholders are pad name + annular ring width</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="433"/>
-        <source>Min. hole diameter: %1 &lt; %2</source>
-        <comment>The '&lt;' means 'smaller than'.</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="468"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="725"/>
         <source>Check minimum NPTH slot width...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="471"/>
-        <source>Min. NPTH slot width: %1 &lt; %2</source>
-        <comment>The '&lt;' means 'smaller than'.</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="506"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="757"/>
         <source>Check minimum PTH drill diameters...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="512"/>
-        <source>Min. via drill diameter (&apos;%1&apos;): %2</source>
-        <comment>Placeholders are net name + drill diameter</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="528"/>
-        <source>Min. pad drill diameter (&apos;%1&apos;): %2</source>
-        <comment>Placeholders are pad name + drill diameter</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="549"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="795"/>
         <source>Check minimum PTH slot width...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="552"/>
-        <source>Min. PTH slot width: %1 &lt; %2</source>
-        <comment>The '&lt;' means 'smaller than'.</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="624"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="875"/>
         <source>Check pad connections...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="626"/>
-        <source>Invalid pad connection: %1:%2 on %3</source>
-        <comment>Placeholders: Device name, pad name, layer name.</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="652"/>
-        <source>The pad origin must be located within the pads copper area, or for THT pads within a hole. Otherwise traces might not be connected fully. This issue needs to be fixed in the library.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="705"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="945"/>
         <source>Check for unplaced components...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="713"/>
-        <source>Unplaced component: &apos;%1&apos;</source>
-        <comment>Placeholder is component name</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="740"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="978"/>
         <source>Check for stale objects...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="746"/>
-        <source>Empty segment of net &apos;%1&apos;: %2</source>
-        <comment>Placeholders: Net name, UUID</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="755"/>
-        <source>Unused junction of net &apos;%1&apos;: %2</source>
-        <comment>Placeholders: Net name, UUID</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="774"/>
-        <source>Either avoid them or check if your PCB manufacturer supports them.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="777"/>
-        <source>Choose the desired Excellon slot mode when generating the production data (G85 vs. G00..G03).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="780"/>
-        <source>The drilled slot mode (G85) will not be available when generating production data.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="785"/>
-        <source>Hole is a slot with curves</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="787"/>
-        <source>Curved slots are a very unusual thing and may cause troubles with many PCB manufacturers.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="794"/>
-        <source>Hole is a multi-segment slot</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="796"/>
-        <source>Multi-segment slots are a rather unusual thing and may cause troubles with some PCB manufacturers.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="803"/>
-        <source>Hole is a slot</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="804"/>
-        <source>Slots may cause troubles with some PCB manufacturers.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="430"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="693"/>
         <source>Check minimum NPTH drill diameters...</source>
         <translation type="unfinished"/>
     </message>
@@ -5134,40 +5473,6 @@ You need at least LibrePCB %1 to open it.
     </message>
 </context>
 <context>
-    <name>librepcb::editor::BoardDesignRuleCheckMessagesDock</name>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckmessagesdock.ui" line="17"/>
-        <source>DRC</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckmessagesdock.ui" line="59"/>
-        <source>Zoom to location</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckmessagesdock.ui" line="103"/>
-        <source>Run Quick Check</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckmessagesdock.ui" line="155"/>
-        <source>Open DRC Settings</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckmessagesdock.ui" line="129"/>
-        <source>Run DRC</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boarddesignrulecheckmessagesdock.cpp" line="112"/>
-        <source>DRC [%1]</source>
-        <comment>Number of messages</comment>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>librepcb::editor::BoardEditor</name>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="17"/>
@@ -5180,108 +5485,108 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="630"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="631"/>
         <source>File</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="648"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="649"/>
         <source>Edit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="661"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="662"/>
         <source>View</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="695"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="696"/>
         <source>Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="686"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="687"/>
         <source>Command</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="134"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="133"/>
         <source>%1 - LibrePCB Board Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="672"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="673"/>
         <source>Find device...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="122"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="121"/>
         <source>Scanning libraries (%p%)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1164"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1190"/>
         <source>Add New Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1164"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1192"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1190"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1218"/>
         <source>Choose a name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1165"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1191"/>
         <source>new_board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1072"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1182"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1210"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1228"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1318"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1089"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1208"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1236"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1254"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1344"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="860"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="863"/>
         <source>Boards</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1173"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1201"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1199"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1227"/>
         <source>Invalid name: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1192"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1218"/>
         <source>Copy Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1193"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1219"/>
         <source>copy_of_%1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1219"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1245"/>
         <source>Remove board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1220"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1246"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1291"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1317"/>
         <source>Preparing board...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1291"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1317"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
