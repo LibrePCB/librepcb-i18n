@@ -25,7 +25,7 @@
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="50"/>
         <source>Depending on the capabilities of the PCB manufacturer, this could cause higher costs or even serious troubles during production, leading to a possibly non-functional PCB.</source>
-        <translation type="unfinished"/>
+        <translation>V závislosti od možností výrobcu DPS, môže toto spôsobiť vyššie náklady alebo dokonca vážne problémy pri výrobe, čo môže viesť aj k prípadnej nefunkčnosti DPS.</translation>
     </message>
 </context>
 <context>
@@ -53,7 +53,7 @@
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="180"/>
         <source>Vias annular ring: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>Šírka medzikružia prechodu: MAX musí byť &gt;= MIN</translation>
     </message>
 </context>
 <context>
@@ -406,113 +406,113 @@
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="515"/>
         <source>Clearance board outline ↔ via &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Odsadenie okraju dosky ↔ prechodu &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="518"/>
         <source>The clearance between a via and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi prechodom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="522"/>
         <source>Check the DRC settings and move the via away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a presuňte prechod ďalej od okraja dosky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="537"/>
         <source>Clearance trace ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Odsadenie spoja ↔ okraja dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="540"/>
         <source>The clearance between a trace and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi spojom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="544"/>
         <source>Check the DRC settings and move the trace away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a presuňte spoj ďalej od okraja dosky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="559"/>
         <source>Clearance pad ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Odsadenie plôšky vývodu ↔ okraja dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="562"/>
         <source>The clearance between a footprint pad and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi plôškou vývodu a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="566"/>
         <source>Check the DRC settings and move the device away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a presuňte súčiastku ďalej od okraja dosky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="581"/>
         <source>Clearance plane ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Odsadenie vyplnenej plochy ↔ okraja dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="584"/>
         <source>The clearance between a plane and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi vyplnenou plochou a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="588"/>
         <source>Check the DRC settings and increase the configured plane clearance if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a zväčšite odsadenie vyplnenej plochy.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="601"/>
         <source>Clearance copper polygon ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Odsadenie polygónu ↔ okraja dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="604"/>
         <source>The clearance between a polygon and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi polygónom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="607"/>
         <source>Check the DRC settings and move the polygon away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a presuňte polygón ďalej od okraja dosky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="624"/>
         <source>Clearance copper circle ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Odsadenie vodivého oblúka ↔ okraja dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="627"/>
         <source>The clearance between a circle and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi vodivým oblúkom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="630"/>
         <source>Check the DRC settings and move the circle away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a presuňte vodivý oblúk ďalej od okraja dosky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="647"/>
         <source>Clearance copper text ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Odsadenie textu ↔ okraja dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="650"/>
         <source>The clearance between a stroke text and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi textom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="654"/>
         <source>Check the DRC settings and move the stroke text away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a presuňte text ďalej od okraja dosky.</translation>
     </message>
 </context>
 <context>
@@ -521,52 +521,52 @@
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="382"/>
         <source>Clearance on %1: %2 ↔ %3 &lt; %4 %5</source>
         <comment>Placeholders: Layer name, object name, object name, Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť odsadenia na %1: %2 ↔ %3 &lt; %4 %5</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="389"/>
         <source>The clearance between two copper objects of different nets is smaller than the minimum copper clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi dvoma vodivým objektami rozdielnych spojov je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="393"/>
         <source>Check the DRC settings and move the objects to increase their clearance if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a presuňte objekty tak, aby sa zväčšila vzdialenosť medzi nimi.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="417"/>
         <source>copper layers</source>
-        <translation type="unfinished"/>
+        <translation>vodivé vrstvy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="434"/>
         <source>via</source>
-        <translation type="unfinished"/>
+        <translation>prechod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="436"/>
         <source>trace</source>
-        <translation type="unfinished"/>
+        <translation>spoj</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="438"/>
         <source>plane</source>
-        <translation type="unfinished"/>
+        <translation>vyplnená plocha</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="440"/>
         <source>polygon</source>
-        <translation type="unfinished"/>
+        <translation>polygón</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="442"/>
         <source>circle</source>
-        <translation type="unfinished"/>
+        <translation>oblúk</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="444"/>
         <source>text</source>
-        <translation type="unfinished"/>
+        <translation>text</translation>
     </message>
 </context>
 <context>
@@ -575,17 +575,17 @@
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="675"/>
         <source>Clearance copper ↔ hole &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Odsadenie vodivého prvku ↔ otvoru &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="678"/>
         <source>The clearance between a non-plated hole and copper objects is smaller than the hole clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi neprekoveným otvorom a vodivým prvkom je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="681"/>
         <source>Check the DRC settings and move the copper objects away from the hole if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a presuňte vodivý objekt ďalej od otvoru.</translation>
     </message>
 </context>
 <context>
@@ -594,17 +594,17 @@
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="827"/>
         <source>Courtyard overlap: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
-        <translation type="unfinished"/>
+        <translation>Prekrytie manipulačnej oblasti: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="833"/>
         <source>The courtyard of two devices overlap, which might cause troubles during assembly of these parts.</source>
-        <translation type="unfinished"/>
+        <translation>Manipulačná oblast (courtyard) dvoch súčiastok sa prekrýva, čo môže spôsobiť problémy pri osádzaní týchto súčiastok.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="836"/>
         <source>Either move the devices to increase their distance or approve this message if you&apos;re sure they can be assembled without problems.</source>
-        <translation type="unfinished"/>
+        <translation>Presuňte súčiastky pre zväčšenie odstupu medzi nimi, alebo schváľte túto správu ak ste si istý, že tieto súčiastky sa budú dať osadiť bez problémov.</translation>
     </message>
 </context>
 <context>
@@ -917,12 +917,12 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="137"/>
         <source>Via</source>
-        <translation type="unfinished"/>
+        <translation>Prechod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="146"/>
         <source>Trace</source>
-        <translation type="unfinished"/>
+        <translation>Spoj</translation>
     </message>
 </context>
 <context>
@@ -931,7 +931,7 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="65"/>
         <source>Missing device: &apos;%1&apos;</source>
         <comment>Placeholders: Device name</comment>
-        <translation type="unfinished"/>
+        <translation>Chýbajúca súčiastka: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="67"/>
@@ -946,7 +946,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="195"/>
         <source>Multiple board outlines</source>
-        <translation type="unfinished"/>
+        <translation>Viacnásobný obrys dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="196"/>
@@ -5012,12 +5012,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="633"/>
         <source>top</source>
-        <translation type="unfinished"/>
+        <translation>vrch</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="637"/>
         <source>bottom</source>
-        <translation type="unfinished"/>
+        <translation>spodok</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="641"/>
@@ -5208,7 +5208,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="101"/>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>O programe</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="181"/>
@@ -5233,7 +5233,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="54"/>
         <source>Copied!</source>
-        <translation type="unfinished"/>
+        <translation>Skopírované!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="82"/>
@@ -5243,7 +5243,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="87"/>
         <source>Links</source>
-        <translation type="unfinished"/>
+        <translation>Odkazy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="89"/>
@@ -5263,7 +5263,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="101"/>
         <source>License</source>
-        <translation type="unfinished"/>
+        <translation>Licencia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="103"/>
@@ -5881,7 +5881,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="81"/>
         <source>No net available</source>
-        <translation type="unfinished"/>
+        <translation>Spoj nie je k dispozícii</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="82"/>
@@ -6077,22 +6077,22 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="37"/>
         <source>Format:</source>
-        <translation type="unfinished"/>
+        <translation>Formát:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="46"/>
         <source>CSV with metadata*</source>
-        <translation type="unfinished"/>
+        <translation>CSV s metadátami*</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="56"/>
         <source>CSV without metadata</source>
-        <translation type="unfinished"/>
+        <translation>CSV bez metadát</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="63"/>
         <source>Gerber X3</source>
-        <translation type="unfinished"/>
+        <translation>Gerber X3</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="90"/>
@@ -6213,7 +6213,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="44"/>
         <source>Inner Copper Layers:</source>
-        <translation type="unfinished"/>
+        <translation>Vnútorné vodivé vrstvy:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="65"/>
@@ -6223,17 +6223,17 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="71"/>
         <source>Ratio (% of Diameter)</source>
-        <translation type="unfinished"/>
+        <translation>Pomer (% z priemeru)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="87"/>
         <source>Vias Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>Medzikružie prechodu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="94"/>
         <source>Inner Layer Pads:</source>
-        <translation type="unfinished"/>
+        <translation>Plôšky vývodu vo vnútornej vrstve:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="112"/>
@@ -6243,19 +6243,19 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="125"/>
         <source>Solder Paste Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Odsadenie spájkovacej pasty:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="137"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="217"/>
         <source>Full Shape</source>
-        <translation type="unfinished"/>
+        <translation>Kompletný tvar</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="150"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="227"/>
         <source>Automatic Annular Ring</source>
-        <translation type="unfinished"/>
+        <translation>Automatické medzikružie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="172"/>
@@ -6265,7 +6265,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="242"/>
         <source>Autom. Pads Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>Autom. medzikružie plôšky vývodu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="249"/>
@@ -6280,7 +6280,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="269"/>
         <source>Component Side Pads:</source>
-        <translation type="unfinished"/>
+        <translation>Plôšky vývodov na strane súčiastok:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="291"/>
@@ -6290,97 +6290,97 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="304"/>
         <source>Vias with a drill diameter up to this diameter will be covered with solder resist (if not manually overridden). For larger vias, a stop mask opening is added.</source>
-        <translation type="unfinished"/>
+        <translation>Prechody s priemerom otvoru menším ako tento parameter, budú automaticky prekryté nespájkovateľnou maskou (ak nebude manuálne nastavenie inak). Pre väčšie prechody bude automaticky pridané vynechanie masky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="307"/>
         <source>Tented Vias Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Priemer prekrytých prechodov:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="318"/>
         <source>DRC Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenia DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="405"/>
         <source>Clearances</source>
-        <translation type="unfinished"/>
+        <translation>Odsadenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="430"/>
         <source>NPTH Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Priemer vrtáku NPTH:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="440"/>
         <source>PTH Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Priemer vrtáku PTH:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="447"/>
         <source>NPTH Slot Width:</source>
-        <translation type="unfinished"/>
+        <translation>Šírka NPTH slotu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="474"/>
         <source>Minimum Sizes</source>
-        <translation type="unfinished"/>
+        <translation>Minimálne rozmery</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="499"/>
         <source>NPTH Slots:</source>
-        <translation type="unfinished"/>
+        <translation>NPTH Sloty:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="512"/>
         <source>Copper ↔ Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Vodivý prvok ↔ vodivý prvok:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="532"/>
         <source>Allowed Features</source>
-        <translation type="unfinished"/>
+        <translation>Povolené vlastnosti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="560"/>
         <source>Copper Width:</source>
-        <translation type="unfinished"/>
+        <translation>Šírka vodivého prvku:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="567"/>
         <source>PTH Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>Šírka PTH mdzikružia:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="574"/>
         <source>PTH Slot Width:</source>
-        <translation type="unfinished"/>
+        <translation>Šírka PTH slotu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="584"/>
         <source>Copper ↔ Board Edge:</source>
-        <translation type="unfinished"/>
+        <translation>Vodivý prvok ↔ hrana dosky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="591"/>
         <source>Copper ↔ Holes:</source>
-        <translation type="unfinished"/>
+        <translation>Vodivý prvok ↔ otvory:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="605"/>
         <source>PTH Slots:</source>
-        <translation type="unfinished"/>
+        <translation>PTH Sloty:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="625"/>
         <source>Drill ↔ Drill:</source>
-        <translation type="unfinished"/>
+        <translation>Otvor ↔ otvor:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="632"/>
         <source>Drill ↔ Board Edge:</source>
-        <translation type="unfinished"/>
+        <translation>Otvor ↔ hrana dosky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="645"/>
@@ -6415,12 +6415,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="181"/>
         <source>Any Without Curves</source>
-        <translation type="unfinished"/>
+        <translation>Hocijaký bez oblúkov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="185"/>
         <source>Any</source>
-        <translation type="unfinished"/>
+        <translation>Hocijaký</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="362"/>
@@ -6456,7 +6456,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="56"/>
         <source>Outer Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Vonkajší priemer:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="39"/>
@@ -6705,7 +6705,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardedit.cpp" line="41"/>
         <source>Modify Board Setup</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť nastavenie dosky</translation>
     </message>
 </context>
 <context>
@@ -7019,7 +7019,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddeviceinstanceedit.cpp" line="40"/>
         <source>Edit Device</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť súčiastku</translation>
     </message>
 </context>
 <context>
@@ -7091,7 +7091,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddragselectedschematicitems.cpp" line="58"/>
         <source>Drag Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Ťahať schematické elementy </translation>
     </message>
 </context>
 <context>
@@ -7508,7 +7508,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstanceedit.cpp" line="40"/>
         <source>Edit Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť schematickú značku</translation>
     </message>
 </context>
 <context>
@@ -7516,7 +7516,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstanceeditall.cpp" line="44"/>
         <source>Drag Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Ťahať schematickú značku</translation>
     </message>
 </context>
 <context>
@@ -7540,7 +7540,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstancetextremove.cpp" line="41"/>
         <source>Remove symbol text</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť text schematickej značky</translation>
     </message>
 </context>
 <context>
@@ -7548,7 +7548,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstancetextsreset.cpp" line="44"/>
         <source>Reset symbol texts</source>
-        <translation type="unfinished"/>
+        <translation>Obnoviť texty schematickej značky</translation>
     </message>
 </context>
 <context>
@@ -8651,7 +8651,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="39"/>
         <source>Select file to import</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť importovaný súbor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.cpp" line="67"/>
@@ -9255,27 +9255,27 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="314"/>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Užívateľský</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="54"/>
         <source>Hole Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Priemer otvoru:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="66"/>
         <source>Multiple holes, see &lt;a href=&quot;tab&quot;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Viacnásobné otvory, pozrite &lt;a href=&quot;tab&quot;&gt;sem&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="79"/>
         <source>Convert to SMT</source>
-        <translation type="unfinished"/>
+        <translation>Zmeniť na SMT</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="128"/>
         <source>Corner Radius:</source>
-        <translation type="unfinished"/>
+        <translation>Polomer oblúka rohu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="207"/>
@@ -9285,7 +9285,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="233"/>
         <source>Rounded rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Zaoblený štvoruholník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="259"/>
