@@ -43,12 +43,12 @@
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="146"/>
         <source>Solder paste clearance: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>Odsadenie spájkovacej pasty: MAX musí byť &gt;= MIN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="167"/>
         <source>Pads annular ring: MAX must be &gt;= MIN</source>
-        <translation type="unfinished"/>
+        <translation>Šírka medzikružia plôšky vývodu: MAX musí byť &gt;= MIN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/boarddesignrules.cpp" line="180"/>
@@ -3268,7 +3268,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="171"/>
         <source>The copper area of two pads overlap. This can lead to serious issues with the design rule check and probably leads to a short circuit in the board so this really needs to be fixed.</source>
-        <translation type="unfinished"/>
+        <translation>Vodivá plocha dvoch plôšok vývodov sa prekrýva. To môže viesť k vážnym problémom pri kontrole návrhových pravidiel a pravdepodobne aj spôsobuje skrat na doske, takže je naozaj potrebné to opraviť.</translation>
     </message>
 </context>
 <context>
@@ -3320,7 +3320,7 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="249"/>
         <source>All THT pad holes must be fully surrounded by copper, otherwise they could lead to serious issues during the design rule check or manufacturing process.</source>
-        <translation type="unfinished"/>
+        <translation>Všetky otvory THT otvory musia byť úplne obklopené meďou, inak by to mohlo zapríčiniť vážne problémy počas kontroly návrhových pravidiel alebo vo výrobnom procese.</translation>
     </message>
 </context>
 <context>
@@ -6238,7 +6238,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="112"/>
         <source>Note: These settings define the shape of board objects which are automatically generated (e.g. stop masks, where not manually overridden). They are not related to the design rule check (DRC) at all. In contrast to these settings, DRC parameters do not have any impact on the board.</source>
-        <translation type="unfinished"/>
+        <translation>Poznámka: Tieto nastavenia definujú tvar objektov dosky, ktoré sa generujú automaticky (napr. nespájkovacia maska, ktorá nemôže byť manuálne zmenená). Vôbec nesúvisia s kontrolou návrhových pravidiel (DRC). Na rozdiel od týchto nastavení nemajú parametre DRC žiadny vplyv na dosku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="125"/>
@@ -9773,7 +9773,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="56"/>
         <source>From Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Z návrhových pravidiel</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="63"/>
