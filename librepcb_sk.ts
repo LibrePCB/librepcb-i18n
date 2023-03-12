@@ -2704,7 +2704,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="149"/>
         <source>Unplaced gate: &apos;%1:%2&apos;</source>
-        <translation>Nepoužité hradlo: &apos;%1:%2&apos;</translation>
+        <translation>Neumiestnené hradlo: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="151"/>
@@ -2717,7 +2717,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="127"/>
         <source>Unplaced required gate: &apos;%1:%2&apos;</source>
-        <translation>Nepoužité vyžadované hradlo: &apos;%1:%2&apos;</translation>
+        <translation>Neumiestnené vyžadované hradlo: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="129"/>
@@ -4214,7 +4214,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1166"/>
         <source>Check for unplaced components...</source>
-        <translation>Kontrola nepoložených komponentov...</translation>
+        <translation>Kontrola neumiestnených komponentov...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1214"/>
