@@ -3007,14 +3007,27 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     </message>
 </context>
 <context>
-    <name>MsgDuplicatePadName</name>
+    <name>MsgDeprecatedAssemblyType</name>
+    <message>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="40"/>
+        <source>Non-recommended assembly type</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="41"/>
+        <source>The assembly type &apos;Auto-detect&apos; is not recommended as the detection might not be correct in every case. It&apos;s safer to specify the assembly type manually.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MsgDuplicatePadName</name>
+    <message>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="66"/>
         <source>Duplicate pad name: &apos;%1&apos;</source>
         <translation>Duplicate pad name: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="42"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="67"/>
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
@@ -3052,13 +3065,13 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
 <context>
     <name>MsgHoleWithoutStopMask</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="62"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="87"/>
         <source>No stop mask on %1 hole in &apos;%2&apos;</source>
         <comment>First placeholder is the hole diameter.</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="66"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="91"/>
         <source>Non-plated holes should have a stop mask opening to avoid solder resist flowing into the hole. An automatic stop mask opening can be enabled in the hole properties.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3066,12 +3079,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
 <context>
     <name>MsgInvalidCustomPadOutline</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="88"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="113"/>
         <source>Invalid custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="90"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="115"/>
         <source>The pad has set a custom outline which does not represent a valid area. Either choose a different pad shape or specify a valid custom outline.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3139,12 +3152,12 @@ Passive parts: Using an attribute, e.g. %3</translation>
 <context>
     <name>MsgMissingFootprint</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="109"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="134"/>
         <source>No footprint defined</source>
         <translation>No footprint defined</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="110"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="135"/>
         <source>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</source>
         <translation>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</translation>
     </message>
@@ -3152,12 +3165,12 @@ Passive parts: Using an attribute, e.g. %3</translation>
 <context>
     <name>MsgMissingFootprintName</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="123"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="148"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
         <translation>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="125"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="150"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
         <translation>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</translation>
     </message>
@@ -3165,12 +3178,12 @@ Passive parts: Using an attribute, e.g. %3</translation>
 <context>
     <name>MsgMissingFootprintValue</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="144"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="169"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
         <translation>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="146"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="171"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
         <translation>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</translation>
     </message>
@@ -3264,12 +3277,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>MsgOverlappingPads</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="168"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="193"/>
         <source>Overlapping pads &apos;%1&apos; and &apos;%2&apos; in &apos;%3&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="171"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="196"/>
         <source>The copper area of two pads overlap. This can lead to serious issues with the design rule check and probably leads to a short circuit in the board so this really needs to be fixed.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3290,12 +3303,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>MsgPadAnnularRingViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="190"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="215"/>
         <source>Annular ring of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished">Annular ring of pad &apos;%1&apos; in &apos;%3&apos; {1&apos;?} {2&apos;?}</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="192"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="217"/>
         <source>Pads should have at least %1 annular ring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</source>
         <translation>Pads should have at least %1 annular ring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</translation>
     </message>
@@ -3303,12 +3316,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>MsgPadClearanceViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="217"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="242"/>
         <source>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</source>
         <translation>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="220"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="245"/>
         <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
         <translation>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</translation>
     </message>
@@ -3316,12 +3329,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>MsgPadHoleOutsideCopper</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="247"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="272"/>
         <source>Hole outside copper of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="249"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="274"/>
         <source>All THT pad holes must be fully surrounded by copper, otherwise they could lead to serious issues during the design rule check or manufacturing process.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3329,12 +3342,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
 <context>
     <name>MsgPadOriginOutsideCopper</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="271"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="296"/>
         <source>Invalid origin of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="273"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="298"/>
         <source>The origin of each pad must be located within its copper area, otherwise traces won&apos;t be connected properly.
 
 For THT pads, the origin must be located within a drill hole since on some layers the pad might only have a small annular ring instead of the full pad shape.</source>
@@ -3344,14 +3357,27 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgPadOverlapsWithPlacement</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="298"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="323"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to placement layer</source>
         <translation>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to placement layer</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="300"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="325"/>
         <source>Pads should have at least %1 clearance to the outlines layer because outlines are drawn on silkscreen which will be cropped for Gerber export.</source>
         <translation>Pads should have at least %1 clearance to the outlines layer because outlines are drawn on silkscreen which will be cropped for Gerber export.</translation>
+    </message>
+</context>
+<context>
+    <name>MsgSuspiciousAssemblyType</name>
+    <message>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="53"/>
+        <source>Suspicious assembly type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="54"/>
+        <source>The specified assembly type differs from the assembly type which is auto-detected from the footprint contents. Double-check if the specified assembly type is really correct.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3370,12 +3396,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgUnusedCustomPadOutline</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="323"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="348"/>
         <source>Unused custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="325"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="350"/>
         <source>The pad has set a custom outline but it isn&apos;t used as the shape. So it has no effect and should be removed to avoid confusion.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3383,12 +3409,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgWrongFootprintTextLayer</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="347"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="372"/>
         <source>Layer of &apos;%1&apos; in &apos;%2&apos; is not &apos;%3&apos;</source>
         <translation>Layer of &apos;%1&apos; in &apos;%2&apos; is not &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="350"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="375"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
         <translation>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</translation>
     </message>
@@ -4311,27 +4337,27 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>librepcb::FileFormatMigrationV01</name>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="329"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="332"/>
         <source>Some particular ERC message approvals cannot be migrated and therefore have been removed. Please check the remaining ERC messages and approve them if desired.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="337"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="340"/>
         <source>All non-plated holes (NPTH) now have automatic stop mask added on both board sides. The expansion value is determined by the boards design rule settings but can be overridden in the hole properties dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="346"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="349"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
         <translation>Non-circular via shapes are no longer supported, all vias were changed to circular now.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="353"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="356"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
         <translation>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="360"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="363"/>
         <source>Vias within planes with connect style &apos;None&apos; are now fully connected to the planes since the connect style is no longer respected for vias. You might want to remove traces now which are no longer needed to connect these vias.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7238,6 +7264,14 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetsignalremove.cpp" line="42"/>
         <source>Remove netsignal</source>
         <translation>Remove netsignal</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::CmdPackageEdit</name>
+    <message>
+        <location filename="../libs/librepcb/editor/library/cmd/cmdpackageedit.cpp" line="38"/>
+        <source>Edit Package Metadata</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11555,22 +11589,52 @@ This can be reverted in the workspace settings dialog.</translation>
         <translation>Messages:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="272"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="291"/>
+        <source>Assembly:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="113"/>
+        <source>THT (all leads)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="115"/>
+        <source>SMT (all leads)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="117"/>
+        <source>THT+SMT (mixed leads)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="120"/>
+        <source>Other (included in BOM/PnP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="123"/>
+        <source>None (excluded from BOM/PnP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="126"/>
+        <source>Auto-detect (not recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="295"/>
         <source>Invalid metadata</source>
         <translation>Invalid metadata</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="283"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="306"/>
         <source>Save failed</source>
         <translation>Save failed</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="400"/>
-        <source>Edit package metadata</source>
-        <translation>Edit package metadata</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="699"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="745"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
