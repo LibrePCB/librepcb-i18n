@@ -3466,7 +3466,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="537"/>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="472"/>
         <source>Shift</source>
-        <translation type="unfinished"/>
+        <translation>Posun</translation>
     </message>
 </context>
 <context>
@@ -5048,7 +5048,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="526"/>
         <source>Run DRC...</source>
-        <translation type="unfinished"/>
+        <translation>Spustiť kontrolu DRC...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="538"/>
@@ -5080,7 +5080,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="747"/>
         <source>Export netlist to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Exportujem zoznam signálov do &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="771"/>
@@ -6324,7 +6324,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="172"/>
         <source>&lt;b&gt;Use with caution!&lt;/b&gt; If automatic annular rings are enabled for component-side pads, make sure all pads have set the &apos;component side&apos; property to the correct value. With a wrong configuration, soldering may not be possible due to too small pad area.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Používajte opatrne!&lt;/b&gt; Ak sú pre plôšky vývodov na strane súčiastok povolené automatické medzikružia, uistite sa, že všetky plôšky vývodov majú nastavenú vlastnosť &apos;strana súčiastok&apos; na správnu hodnotu. Pri nesprávnej konfigurácii nemusí byť možné spájkovanie, z dôvodu príliš malej plochy plôšky vývodu určenej pre spájkovanie.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="242"/>
