@@ -13513,27 +13513,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="491"/>
         <source>Select executable</source>
-        <translation type="unfinished"/>
+        <translation>Zvolenie spustiteľnej aplikácie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="516"/>
         <source>Available placeholders:</source>
-        <translation type="unfinished"/>
+        <translation>Možné zástupné symboly:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="571"/>
         <source>N/A</source>
-        <translation type="unfinished"/>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="575"/>
         <source>Primary color: %1</source>
-        <translation type="unfinished"/>
+        <translation>Primárna farba: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="576"/>
         <source>Secondary color: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sekundárna farba: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="590"/>
