@@ -234,7 +234,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="194"/>
         <source>Save project before closing it (useful to upgrade file format).</source>
-        <translation>Uložiť projekt pred jeho uzavretím (užitočné pre aktualizáciu formátu súboru).</translation>
+        <translation>Uložiť projekt pred jeho uzavretím (užitočné pre inováciu formátu súboru).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="197"/>
@@ -254,7 +254,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="212"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
-        <translation>Uložiť knižnicu (a obsahujúce položky ak &apos;--all&apos; bol zadaný) pred jej uzavretím (užitočné pre aktualizáciu formátu knižnice).</translation>
+        <translation>Uložiť knižnicu (a obsahujúce položky ak &apos;--all&apos; bol zadaný) pred jej uzavretím (užitočné pre inováciu formátu knižnice).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="216"/>
@@ -1694,7 +1694,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="257"/>
         <source>Project Setup</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenie projektu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="258"/>
@@ -2747,7 +2747,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="47"/>
         <source>Unused net class: &apos;%1&apos;</source>
-        <translation>Nepoužitá trieda spojov: &apos;%1&apos;</translation>
+        <translation>Nepoužitá trieda signálov: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="48"/>
@@ -4271,7 +4271,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="102"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="128"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
-        <translation>Už existuje trieda spojov s názvom &quot;%1&quot;!</translation>
+        <translation>Trieda signálov s názvom &quot;%1&quot; už existuje!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="181"/>
@@ -4692,7 +4692,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/circuit/netclass.cpp" line="81"/>
         <source>The net class &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation>Trieda spojov &quot;%1&quot; nemôže byť odstránená, pretože sa stále používa!</translation>
+        <translation>Trieda signálov &quot;%1&quot; nemôže byť odstránená, pretože sa stále používa!</translation>
     </message>
 </context>
 <context>
@@ -5394,7 +5394,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.ui" line="180"/>
         <source>If checked, this dialog will automatically be opened again after finishing placement of the current component.</source>
-        <translation>Označte, ak sa má toto dialógové okno automaticky zobrazovať po umiestnení súčiastky.</translation>
+        <translation>Zaškrtnite, ak sa má toto dialógové okno automaticky zobrazovať po umiestnení súčiastky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="240"/>
@@ -7243,7 +7243,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetclassadd.cpp" line="42"/>
         <source>Add netclass</source>
-        <translation>Pridať triedu spojov</translation>
+        <translation>Pridať triedu signálov</translation>
     </message>
 </context>
 <context>
@@ -7251,7 +7251,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetclassedit.cpp" line="41"/>
         <source>Edit netclass</source>
-        <translation>Upraviť triedu spojov</translation>
+        <translation>Upraviť triedu signálov</translation>
     </message>
 </context>
 <context>
@@ -7259,7 +7259,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetclassremove.cpp" line="41"/>
         <source>Remove netclass</source>
-        <translation>Odstrániť triedu spojov</translation>
+        <translation>Odstrániť triedu signálov</translation>
     </message>
 </context>
 <context>
@@ -8580,7 +8580,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="123"/>
         <source>If checked, tangent polylines of the DXF will be joined together.
 Helps for example to avoid invalid board outline polygons.</source>
-        <translation>Ak je označené, dotýkajúce sa čiary DXF budú spojené.
+        <translation>Ak je zaškrtnuté, dotýkajúce sa čiary DXF budú spojené.
 Pomáha napríklad vyhnúť sa neuzavretým polygónom podľa obrysu dosky. </translation>
     </message>
     <message>
@@ -9774,7 +9774,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="40"/>
         <source>Stop Mask:</source>
-        <translation type="unfinished"/>
+        <translation>Nespájkovacia maska:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="49"/>
@@ -9880,7 +9880,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="53"/>
         <source>Choose the workspace directory to open or create:</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte adresár pracovného priestoru, ktorý chcete otvoriť alebo vytvoriť:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="58"/>
@@ -9918,14 +9918,14 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="17"/>
         <source>Upgrade the workspace to the latest file format.</source>
-        <translation>Aktualizovať súbor pracovnej plochy na najnovšiu verziu.</translation>
+        <translation>Inovovať formát súboru pracovnej plochy na najnovšiu verziu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="55"/>
         <source>&lt;p&gt;Your workspace was created with an older LibrePCB version and needs to be upgraded.&lt;/p&gt;
 &lt;p&gt;To still keep the workspace compatible with older versions of LibrePCB, a snapshot of the currently installed libraries and settings will be created.&lt;/p&gt;
 &lt;p&gt;No worries, this operation is not harmful at all, it may just take a few seconds ;-)&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Váš pracovný priestor bol naposledy uložený v staršej verzii  LibrePCB a je potrebné ho aktualizovať.&lt;/p&gt;
+        <translation>&lt;p&gt;Váš pracovný priestor bol naposledy uložený v staršej verzii  LibrePCB a je potrebné ho inovovať.&lt;/p&gt;
 &lt;p&gt;Pre uchovanie spätnej kompatibility so staršími verziami  LibrePCB, bude vytvorený archív momentálne nainštalovaných knižníc a nastavení.&lt;/p&gt;
 &lt;p&gt;Neobávajte sa, táto operácia nič nepoškodí  a bude trvať len pár sekúnd ;-)&lt;/p&gt;</translation>
     </message>
@@ -9957,7 +9957,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="87"/>
         <source>If the error persists, you could try to copy the mentioned directory manually (e.g. with your file manager).</source>
-        <translation type="unfinished"/>
+        <translation>Ak chyba pretrváva, môžete skúsiť skopírovať uvedený adresár manuálne (napríklad pomocou správcu súborov).</translation>
     </message>
 </context>
 <context>
@@ -9988,7 +9988,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="123"/>
         <source>Remove this shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť túto klávesovú skratku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="135"/>
@@ -10117,7 +10117,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="732"/>
         <source>Filter elements...</source>
-        <translation type="unfinished"/>
+        <translation>Filter elementov...</translation>
     </message>
 </context>
 <context>
@@ -10467,7 +10467,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="476"/>
         <source>Press %1 to copy the value to clipboard or %2 to clear the measurement</source>
-        <translation type="unfinished"/>
+        <translation>Stlačte %1 pre skopírovanie hodnoty do schránky, alebo %2 pre zrušenie merania</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="481"/>
@@ -10491,12 +10491,13 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="70"/>
         <source>Permanently hide this message.
 This can be reverted in the workspace settings dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Trvale skryť toto oznámenie.
+Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="90"/>
         <source>Temporarily hide this message.</source>
-        <translation type="unfinished"/>
+        <translation>Dočasne skryť toto oznámenie.</translation>
     </message>
 </context>
 <context>
@@ -11100,7 +11101,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="214"/>
         <source>Failed to open %1</source>
-        <translation type="unfinished"/>
+        <translation>Chyba pri otváraní %1</translation>
     </message>
 </context>
 <context>
@@ -11574,7 +11575,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="126"/>
         <source>Auto-detect (not recommended)</source>
-        <translation type="unfinished"/>
+        <translation>Automatické zisťovanie (neodporúčané)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="295"/>
@@ -11842,7 +11843,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="14"/>
         <source>Project Setup</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenie projektu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="24"/>
@@ -11901,27 +11902,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="264"/>
         <source>Net Classes</source>
-        <translation>Triedy spojov</translation>
+        <translation>Triedy signálov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="285"/>
         <source>Add Net Class:</source>
-        <translation type="unfinished"/>
+        <translation>Pridať triedu signálov:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="295"/>
         <source>Type name...</source>
-        <translation type="unfinished"/>
+        <translation>Zadať názov...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="312"/>
         <source>Note: Checked net classes are in use and thus cannot be removed.</source>
-        <translation type="unfinished"/>
+        <translation>Poznámka: Označené triedy signálov sú použité a preto ich nemožno odstrániť.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.cpp" line="244"/>
         <source>Modify Project Setup</source>
-        <translation type="unfinished"/>
+        <translation>Úprava nastavenia projektu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.cpp" line="323"/>
@@ -12110,7 +12111,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/widgets/rulechecklistwidget.h" line="115"/>
         <source>Automatically apply a modification to fix this message</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky aplikovať úpravu pre odstránenie tohto oznámenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/rulechecklistwidget.h" line="124"/>
@@ -12209,12 +12210,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="152"/>
         <source>ATTENTION: This project has been upgraded to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</source>
-        <translation type="unfinished"/>
+        <translation>UPOZORNENIE: Tomuto projektu bol inovovaný formát súboru. Po uložení, ho už nebude možné otvoriť v staršej verzii LibrePCB!</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="157"/>
         <source>The upgrade produced &lt;a href=&apos;%1&apos;&gt;%2 message(s)&lt;/a&gt;, please review before proceeding.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Aktualizácia vyprodukovala &lt;a href=&apos;%1&apos;&gt;%2 správu&lt;/a&gt;, prosím skontrolujte ju skôr, ako budete pokračovať.</numerusform><numerusform>Aktualizácia vyprodukovala &lt;a href=&apos;%1&apos;&gt;%2 správy&lt;/a&gt;, prosím skontrolujte ich skôr, ako budete pokračovať.</numerusform><numerusform>Aktualizácia vyprodukovala &lt;a href=&apos;%1&apos;&gt;%2 správ&lt;/a&gt;, prosím skontrolujte ich skôr, ako budete pokračovať.</numerusform><numerusform>Aktualizácia vyprodukovala &lt;a href=&apos;%1&apos;&gt;%2 správy&lt;/a&gt;, prosím skontrolujte ich skôr, ako budete pokračovať.</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="175"/>
@@ -12259,7 +12260,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1197"/>
         <source>File Format Upgrade Messages</source>
-        <translation type="unfinished"/>
+        <translation>Správy o aktualizácii formátu súboru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1202"/>
@@ -12977,7 +12978,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="51"/>
         <source>Move text automatically when changing the pin length.</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky posunúť text keď sa zmení dĺžka vývodu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="54"/>
@@ -13299,7 +13300,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="217"/>
         <source>Dismissed Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Zrušené oznámenia:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="238"/>
@@ -13434,13 +13435,13 @@ p, li { white-space: pre-wrap; }
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="176"/>
         <source>Absolute path to the file to open</source>
         <comment>Decription for '{{FILEPATH}}' placeholder</comment>
-        <translation type="unfinished"/>
+        <translation>Absolútna cesta k súboru na otvorenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="180"/>
         <source>URL to the file to open (file://)</source>
         <comment>Decription for '{{URL}}' placeholder</comment>
-        <translation type="unfinished"/>
+        <translation>URL k súboru na otvorenie (file://)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="187"/>
@@ -13543,12 +13544,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="593"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
-        <translation type="unfinished"/>
+        <translation>Resetnúť všetky permanentne zrušené oznámenia (niečo ako „nezobrazovať znova“) aby sa znova zobrazovali.</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="596"/>
         <source>Currently there are %1 dismissed message(s).</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Momentálne tu je %1 zrušené oznámenie.</numerusform><numerusform>Momentálne tu sú %1 zrušené oznámenia.</numerusform><numerusform>Momentálne je tu %1 zrušených oznámení.</numerusform><numerusform>Momentálne tu sú %1 zrušené oznámenia.</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="91"/>
