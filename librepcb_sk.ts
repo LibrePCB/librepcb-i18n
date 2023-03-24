@@ -3897,12 +3897,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="137"/>
         <source>Board Solder Paste Top</source>
-        <translation type="unfinished"/>
+        <translation>Vrchná strana spájk. pasty dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="138"/>
         <source>Board Solder Paste Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Spodná strana spájk. pasty dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="139"/>
@@ -4625,12 +4625,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="228"/>
         <source>Top Solder Paste</source>
-        <translation>Top Solder Paste</translation>
+        <translation>Vrchná strana spájk. pasty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="229"/>
         <source>Bot Solder Paste</source>
-        <translation>Bot Solder Paste</translation>
+        <translation>Spodná strana spájk. pasty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/graphics/graphicslayer.cpp" line="230"/>
@@ -6307,7 +6307,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="125"/>
         <source>Solder Paste Clearance:</source>
-        <translation>Odsadenie spájkovacej pasty:</translation>
+        <translation>Odsadenie masky spájkovacej pasty:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="137"/>
@@ -6449,7 +6449,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="645"/>
         <source>Minimum board outline milling tool diameter. Restricts the radius of inner board edges.</source>
-        <translation type="unfinished"/>
+        <translation>Minimálny priemer frézovacieho nástroja pre obrys dosky. Určuje polomer vnútorných frézovaných hrán dosky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="648"/>
@@ -6459,12 +6459,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="99"/>
         <source>&lt;p&gt;Always use the full pad shape as defined in the footprint from the library.&lt;/p&gt;&lt;p&gt;This is the safer and thus preferred option, but requires more space for the pads.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Vždy používajte úplný tvar plôšky vývodu, ako je definovaný v púzdre z knižnice.&lt;/p&gt;&lt;p&gt;Toto je bezpečnejšia, a preto aj odporúčaná možnosť, ale zaberá viac miesta pre plôšky vývodov.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="106"/>
         <source>&lt;p&gt;Don&apos;t use the defined pad shape, but automatic annular rings calculated by the parameters below. The annular ring of unconnected pads is reduced to the specified mimimum value.&lt;/p&gt;&lt;p&gt;This option is more space-efficient, but works only reliable if the entered parameters comply with the PCB manufacturers capabilities.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Nepoužívajte definovaný tvar plôšky vývodu, ale automatické medzikružie vypočítané podľa parametrov nižšie. Šírka medzikružia nepripojených plôšok je znížená na špecifikovanú minimálnu hodnotu.&lt;/p&gt;&lt;p&gt;Táto možnosť je viac priestorovo efektívna, ale funguje spoľahlivo iba vtedy, ak zadané parametre zodpovedajú možnostiam výrobcu plošných spojov.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="174"/>
@@ -6474,7 +6474,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="177"/>
         <source>Only Simple Oblongs</source>
-        <translation type="unfinished"/>
+        <translation>Len jednoduché obdĺžniky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="181"/>
@@ -7291,7 +7291,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpackageedit.cpp" line="38"/>
         <source>Edit Package Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť metadáta púzdra</translation>
     </message>
 </context>
 <context>
@@ -9004,13 +9004,15 @@ Naozaj si želáte zatvoriť toto okno?</translation>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="59"/>
         <source>Top Solder Paste
 (Top Stencil):</source>
-        <translation type="unfinished"/>
+        <translation>Vrchná maska spájk. pasty
+(Vrchná šablóna):</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="67"/>
         <source>Bottom Solder Paste
 (Bottom Stencil):</source>
-        <translation type="unfinished"/>
+        <translation>Spodná maska spájk. pasty
+(Spodná šablóna):</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="248"/>
@@ -9080,12 +9082,12 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="241"/>
         <source>Top Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Vrchná nespájk. maska:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="255"/>
         <source>Bottom Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Spodná nespájk. maska:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="283"/>
@@ -9097,12 +9099,14 @@ Naozaj si želáte zatvoriť toto okno?</translation>
         <source>Export slots as drilled (G85) instead of routed (G00..G03).
 Not recommended unless the G00..G03 are causing troubles with the PCB manufacturer.
 Attention: Curved slots are not supported in G85 mode (will raise an error).</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať sloty ako vŕtané (G85) namiesto frézovaných (G00..G03).
+Neodporúča sa, pokiaľ G00..G03 nespôsobuje problémy u výrobcu DPS.
+Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="302"/>
         <source>Use drilled slot command in Excellon files (G85)</source>
-        <translation type="unfinished"/>
+        <translation>Použiť príkaz vŕtaný slot (G85) v súboroch Excellon.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="314"/>
@@ -9145,22 +9149,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="81"/>
         <source>This dialog allows to generate Gerber X2 (RS-274X) / Excellon files for PCB fabrication.</source>
-        <translation type="unfinished"/>
+        <translation>Pomocou tohto dialógového okna je možné vygenerovať Gerber X2 (RS-274X) / Excellon súbory pre výrobu DPS.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="85"/>
         <source>Note that it&apos;s highly recommended to review the generated files before ordering PCBs.</source>
-        <translation type="unfinished"/>
+        <translation>Upozorňujeme, že pred objednaním DPS je odporúčané skontrolovať vygenerované súbory.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="88"/>
         <source>This could be done with the free application &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; or the &lt;a href=&quot;%2&quot;&gt;official reference viewer from Ucamco&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Na toto môžete použiť bezplatnú aplikáciu &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; alebo &lt;a href=&quot;%2&quot;&gt;ofciálny referenčný prehliadač od Ucamco&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="95"/>
         <source>As a simpler and faster alternative, you could use the &lt;a href=&quot;%1&quot;&gt;Order PCB&lt;/a&gt; feature instead.</source>
-        <translation type="unfinished"/>
+        <translation>Ako jednoduchšiu a rýchlejšiu alternatíva, môžete použiť funkciu &lt;a href=&quot;%1&quot;&gt;Objednať DPS&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="238"/>
@@ -9241,7 +9245,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="40"/>
         <source>Component Side:</source>
-        <translation type="unfinished"/>
+        <translation>Strana súčiastok:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="153"/>
@@ -9291,7 +9295,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="207"/>
         <source>Obround</source>
-        <translation type="unfinished"/>
+        <translation>Plochoovál</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="233"/>
@@ -9306,7 +9310,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="311"/>
         <source>Custom shape outline as defined on next tab</source>
-        <translation type="unfinished"/>
+        <translation>Obrys užívateľsky definovanej plôšky vývodu ako je definovaná v nasledujúcej karte</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="353"/>
@@ -9316,7 +9320,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="367"/>
         <source>Coordinates are relative to the pad origin and before rotation.</source>
-        <translation type="unfinished"/>
+        <translation>Súradnice sú relatívne k počiatku súradníc plôšky vývodu a pred otočením.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="378"/>
@@ -9381,7 +9385,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="395"/>
         <source>The custom pad outline does not represent a valid area.</source>
-        <translation type="unfinished"/>
+        <translation>Obrys užívateľsky definovanej plôšky vývody nepredstavuje platnú oblasť.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="429"/>
@@ -9746,7 +9750,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="138"/>
         <source>Arbitrary Slot</source>
-        <translation type="unfinished"/>
+        <translation>Ľubovoľný tvar sloty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.cpp" line="240"/>
