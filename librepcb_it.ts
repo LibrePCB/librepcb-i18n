@@ -5543,7 +5543,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="122"/>
         <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="138"/>
         <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="154"/>
-        <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="390"/>
+        <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="381"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -5583,7 +5583,7 @@ You need at least LibrePCB %1 to open it.
         <translation>Aggiungi un nuovo attributo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="438"/>
+        <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="429"/>
         <source>There is already an attribute with the key &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
@@ -7759,13 +7759,13 @@ You need at least LibrePCB %1 to open it.
     <name>librepcb::editor::ComponentPinSignalMapModel</name>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="131"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="321"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="310"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="221"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="395"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="384"/>
         <source>unconnected</source>
         <translation>non connesso</translation>
     </message>
@@ -7800,7 +7800,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="106"/>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="120"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="315"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="309"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -7845,7 +7845,7 @@ You need at least LibrePCB %1 to open it.
         <translation>Aggiungere un nuovo segnale</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="364"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="358"/>
         <source>There is already a signal with the name &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
@@ -7907,7 +7907,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="156"/>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="174"/>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="206"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="470"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="454"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -7923,67 +7923,67 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="256"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="248"/>
         <source>Choose symbol...</source>
         <translation>Scegliere il simbolo...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="287"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="279"/>
         <source>Required</source>
         <translation>necessario</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="287"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="279"/>
         <source>Optional</source>
         <translation>facoltativo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="292"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="284"/>
         <source>Placing this symbol in schematics is mandatory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="293"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="285"/>
         <source>Placing this symbol in schematics is optional</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="359"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="349"/>
         <source>Symbol</source>
         <translation>Simbolo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="361"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="351"/>
         <source>Suffix</source>
         <translation>Suffisso</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="363"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="353"/>
         <source>Placement</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="365"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="355"/>
         <source>Position X</source>
         <translation>Posizione X</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="367"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="357"/>
         <source>Position Y</source>
         <translation>Posizione Y</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="369"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="359"/>
         <source>Rotation</source>
         <translation>Rotazione</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="378"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="368"/>
         <source>New:</source>
         <translation>Nuovo:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="382"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="372"/>
         <source>Add a new symbol</source>
         <translation>Aggiungi nuovo simbolo</translation>
     </message>
@@ -7995,7 +7995,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="116"/>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="134"/>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="152"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="355"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="349"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -8040,7 +8040,7 @@ You need at least LibrePCB %1 to open it.
         <translation>Aggiungere una nuova variante del simbolo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="405"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="399"/>
         <source>There is already a symbol variant with the name &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
@@ -8403,12 +8403,12 @@ Warning: This cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="223"/>
+        <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="205"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="276"/>
+        <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="258"/>
         <source>unconnected</source>
         <translation>non connesso</translation>
     </message>
@@ -9062,7 +9062,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="129"/>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="145"/>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="161"/>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="300"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="294"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -9087,7 +9087,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="350"/>
+        <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="344"/>
         <source>There is already a footprint with the name &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
@@ -11504,7 +11504,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="103"/>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="117"/>
-        <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="262"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="256"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -11529,7 +11529,7 @@ This can be reverted in the workspace settings dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="310"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="304"/>
         <source>There is already a pad with the name &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
@@ -11567,7 +11567,7 @@ This can be reverted in the workspace settings dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/modelview/pathmodel.cpp" line="283"/>
+        <location filename="../libs/librepcb/editor/modelview/pathmodel.cpp" line="274"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
