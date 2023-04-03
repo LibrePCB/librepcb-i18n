@@ -3011,7 +3011,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <translation>Hodnota musí byť &gt;= 0!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/length.h" line="761"/>
+        <location filename="../libs/librepcb/core/types/length.h" line="767"/>
         <source>Value must be &gt; 0!</source>
         <translation>Hodnota musí byť &gt; 0!</translation>
     </message>

@@ -3011,7 +3011,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <translation>值必须 &gt;= 0！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/length.h" line="761"/>
+        <location filename="../libs/librepcb/core/types/length.h" line="767"/>
         <source>Value must be &gt; 0!</source>
         <translation>值必须 &gt; 0！</translation>
     </message>
