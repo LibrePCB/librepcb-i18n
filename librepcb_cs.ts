@@ -13816,4 +13816,12 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
         <translation>&lt;p&gt;&lt;b&gt;UPOZORNĚNÍ: Toto není stálá verze programu!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Práce s ní může poškodit váš pracovní prostor, knihovny anebo projekty! Soubory uložené touto verzí, nebudou čitelné stabilními verzemi LibrePCB. Před pokračováním doporučujeme, vytvořit si jejich kopie. Pokud si nejste jisti postupem, prosím raději použijte oficiálni stabilní verzi.&lt;/p&gt;&lt;p&gt;Pro více podrobností, si prosím podívejte &lt;a href=&quot;%1&quot;&gt;koncept verzování&lt;/a&gt; LibrePCB.&lt;/p&gt;&lt;p&gt;Opravdu chcete pokračovať i když může dojít k poškození Vašich souborů?!&lt;/p&gt;</translation>
     </message>
 </context>
+<context>
+    <name>org::librepcb::LibrePCB::desktop</name>
+    <message>
+        <location filename="../share/applications/org.librepcb.LibrePCB.desktop" line="1"/>
+        <source>Design Schematics and PCBs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
 </TS>

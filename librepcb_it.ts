@@ -13772,4 +13772,12 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
  </translation>
     </message>
 </context>
+<context>
+    <name>org::librepcb::LibrePCB::desktop</name>
+    <message>
+        <location filename="../share/applications/org.librepcb.LibrePCB.desktop" line="1"/>
+        <source>Design Schematics and PCBs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
 </TS>

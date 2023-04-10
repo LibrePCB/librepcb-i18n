@@ -13819,4 +13819,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>&lt;p&gt;&lt;b&gt;注意：此應用程式版本為　非　穩　定　版！&lt;/b&gt;&lt;/p&gt;&lt;p&gt;您所有的變更將有機會導致工作區、元件庫或是專案被破壞！儲存的檔案將無法被將來穩定釋出的 LibrePCB 存取。我們強烈建議您在繼續之前先備份。若您有任何疑慮，請另行下載穩定發行的版本。&lt;/p&gt;&lt;p&gt;詳細資訊請參閱 LibrePCB 的&lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;您確定要冒著檔案被破壞的風險繼續嗎？&lt;/p&gt;</translation>
     </message>
 </context>
+<context>
+    <name>org::librepcb::LibrePCB::desktop</name>
+    <message>
+        <location filename="../share/applications/org.librepcb.LibrePCB.desktop" line="1"/>
+        <source>Design Schematics and PCBs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
 </TS>
