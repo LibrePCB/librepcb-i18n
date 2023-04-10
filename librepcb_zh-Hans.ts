@@ -13770,7 +13770,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>org.librepcb.LibrePCB.desktop</name>
     <message>
-        <location filename="../share/applications/org.librepcb.LibrePCB.desktop.cpp" line="1"/>
+        <location filename="../share/applications/org.librepcb.LibrePCB.desktop" line="1"/>
         <source>Design Schematics and PCBs</source>
         <translation type="unfinished"/>
     </message>

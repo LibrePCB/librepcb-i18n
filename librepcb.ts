@@ -13867,12 +13867,4 @@ Attention: This will be applied immediately and cannot be undone!</translation>
         <translation>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</translation>
     </message>
 </context>
-<context>
-    <name>org.librepcb.LibrePCB.desktop</name>
-    <message>
-        <location filename="../share/applications/org.librepcb.LibrePCB.desktop" line="1"/>
-        <source>Design Schematics and PCBs</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
 </TS>
