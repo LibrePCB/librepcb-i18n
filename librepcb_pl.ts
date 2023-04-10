@@ -13772,7 +13772,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     </message>
 </context>
 <context>
-    <name>org::librepcb::LibrePCB::desktop</name>
+    <name>org.librepcb.LibrePCB.desktop</name>
     <message>
         <location filename="../share/applications/org.librepcb.LibrePCB.desktop" line="1"/>
         <source>Design Schematics and PCBs</source>

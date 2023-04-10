@@ -13817,7 +13817,7 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
     </message>
 </context>
 <context>
-    <name>org::librepcb::LibrePCB::desktop</name>
+    <name>org.librepcb.LibrePCB.desktop</name>
     <message>
         <location filename="../share/applications/org.librepcb.LibrePCB.desktop" line="1"/>
         <source>Design Schematics and PCBs</source>
