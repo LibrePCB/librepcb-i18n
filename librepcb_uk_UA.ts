@@ -25,7 +25,7 @@
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="51"/>
         <source>Depending on the capabilities of the PCB manufacturer, this could cause higher costs or even serious troubles during production, leading to a possibly non-functional PCB.</source>
-        <translation type="unfinished"/>
+        <translation>Залежно від можливостей виробника плати, це може призвести до збільшення витрат або навіть серйозних проблем під час виробництва, що може призвести до неробочої плати.</translation>
     </message>
 </context>
 <context>
@@ -33,7 +33,7 @@
     <message>
         <location filename="../libs/librepcb/core/types/boundedunsignedratio.cpp" line="101"/>
         <source>Minimum value must not be greater than maximum value.</source>
-        <translation type="unfinished"/>
+        <translation>Мінімальне значення не повинно перевищувати максимальне значення.</translation>
     </message>
 </context>
 <context>
@@ -49,22 +49,22 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="95"/>
         <source>None (no text)</source>
-        <translation type="unfinished"/>
+        <translation>Немає (без тексту)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="101"/>
         <source>Symbol pin name</source>
-        <translation type="unfinished"/>
+        <translation>Назва контакту символу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="107"/>
         <source>Component signal name</source>
-        <translation type="unfinished"/>
+        <translation>Назва сигналу компонента</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="113"/>
         <source>Schematic net name</source>
-        <translation type="unfinished"/>
+        <translation>Назва мережі на схемі</translation>
     </message>
 </context>
 <context>
@@ -72,22 +72,22 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="80"/>
         <source>Open a project to execute project-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Відкрийте проект, щоб виконати завдання, пов&apos;язані з проектом.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="81"/>
         <source>open-project [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>open-project [параметри_команди]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="83"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Відкрийте бібліотеку, щоб виконати завдання, пов&apos;язані з бібліотекою.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="84"/>
         <source>open-library [command_options]</source>
-        <translation type="unfinished"/>
+        <translation>open-library [параметри_команди]</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="89"/>
@@ -97,12 +97,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="92"/>
         <source>Print this message.</source>
-        <translation type="unfinished"/>
+        <translation>Надрукувати це повідомлення.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="95"/>
         <source>Displays version information.</source>
-        <translation type="unfinished"/>
+        <translation>Відобразити інформацію про версію.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="97"/>
@@ -112,7 +112,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="100"/>
         <source>The command to execute (see list below).</source>
-        <translation type="unfinished"/>
+        <translation>Команда для виконання (див. список нижче).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="106"/>
@@ -122,12 +122,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="111"/>
         <source>Run the design rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Виконати перевірку правил дизайну, надрукувати всі непідтверджені попередження/помилки і повідомити про невдачу (код виходу = 1), якщо є непідтверджені повідомлення.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="116"/>
         <source>Override DRC settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>Перевизначити налаштування DRC, надавши файл *.lp зі спеціальними налаштуваннями. Якщо не задано, будуть використовуватись налаштування з плат.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="119"/>
@@ -149,22 +149,22 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="128"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Експортувати загальний BOM до вказаних файлів. Існуючі файли будуть перезаписані. Підтримувані розширення файлів: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="134"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Експортувати BOM, специфічний для плати, до вказаних файлів. Існуючі файли будуть перезаписані. Підтримувані розширення файлів: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="140"/>
         <source>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Розділений комами список додаткових атрибутів, які будуть експортовані до BOM. Приклад: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="143"/>
         <source>attributes</source>
-        <translation type="unfinished"/>
+        <translation>атрибути</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
