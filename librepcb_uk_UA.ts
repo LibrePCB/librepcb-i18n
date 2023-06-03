@@ -302,12 +302,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="247"/>
         <source>Path to project file (*.lpp[z]).</source>
-        <translation type="unfinished"/>
+        <translation>Шлях до файлу проекту (*.lpp[z]).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="270"/>
         <source>Path to library directory (*.lplib).</source>
-        <translation type="unfinished"/>
+        <translation>Шлях до директорії бібліотеки (*.lplib).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="278"/>
@@ -322,17 +322,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="315"/>
         <source>File Format %1</source>
-        <translation type="unfinished"/>
+        <translation>Формат Файлу %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="317"/>
         <source>(stable)</source>
-        <translation type="unfinished"/>
+        <translation>(стабільний)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="318"/>
         <source>(unstable)</source>
-        <translation type="unfinished"/>
+        <translation>(нестабільний)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="319"/>
@@ -347,17 +347,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="322"/>
         <source>Built at %1</source>
-        <translation type="unfinished"/>
+        <translation>Зібрано %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="331"/>
         <source>Missing arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Відсутні аргументи:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="337"/>
         <source>Unknown arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Невідомі аргументи:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="378"/>
