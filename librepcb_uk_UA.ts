@@ -3224,122 +3224,122 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="194"/>
         <source>Top Placement</source>
-        <translation type="unfinished"/>
+        <translation>Верх Розміщення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="200"/>
         <source>Bottom Placement</source>
-        <translation type="unfinished"/>
+        <translation>Низ Розміщення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="207"/>
         <source>Top Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Верх Документація</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="214"/>
         <source>Bottom Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Низ Документація</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="221"/>
         <source>Top Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Верх Приховані Зони Захоплення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="228"/>
         <source>Bottom Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Низ Приховані Зони Захоплення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="235"/>
         <source>Top Names</source>
-        <translation type="unfinished"/>
+        <translation>Верх Назви</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="241"/>
         <source>Bottom Names</source>
-        <translation type="unfinished"/>
+        <translation>Низ Назви</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="247"/>
         <source>Top Values</source>
-        <translation type="unfinished"/>
+        <translation>Верх Значення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="253"/>
         <source>Bottom Values</source>
-        <translation type="unfinished"/>
+        <translation>Низ Значення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="259"/>
         <source>Top Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Верх Прилегла Територія</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="265"/>
         <source>Bottom Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Низ Прилегла Територія</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="272"/>
         <source>Top Stop Mask</source>
-        <translation type="unfinished"/>
+        <translation>Верх Cтоп Маска</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="279"/>
         <source>Bottom Stop Mask</source>
-        <translation type="unfinished"/>
+        <translation>Низ Cтоп Маска</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="286"/>
         <source>Top Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Верх Паяльна Паста</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="293"/>
         <source>Bottom Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Низ Паяльна Паста</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="300"/>
         <source>Top Finish</source>
-        <translation type="unfinished"/>
+        <translation>Верх Фініш</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="306"/>
         <source>Bottom Finish</source>
-        <translation type="unfinished"/>
+        <translation>Низ Фініш</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="312"/>
         <source>Top Glue</source>
-        <translation type="unfinished"/>
+        <translation>Верх Клей</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="318"/>
         <source>Bottom Glue</source>
-        <translation type="unfinished"/>
+        <translation>Низ Клей</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="324"/>
         <source>Top Copper</source>
-        <translation type="unfinished"/>
+        <translation>Верх Мідь</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="331"/>
         <source>Bottom Copper</source>
-        <translation type="unfinished"/>
+        <translation>Низ Мідь</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="341"/>
         <source>Inner Copper %1</source>
-        <translation type="unfinished"/>
+        <translation>Внутрішня Мідь %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="424"/>
         <source>Unknown layer: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Невідомий шар: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -3347,12 +3347,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/length.h" line="652"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"/>
+        <translation>Значення повинно бути &gt;= 0!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/length.h" line="767"/>
         <source>Value must be &gt; 0!</source>
-        <translation type="unfinished"/>
+        <translation>Значення повинно бути &gt; 0!</translation>
     </message>
 </context>
 <context>
@@ -3360,7 +3360,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="234"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Невірна одиниця довжини: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -3373,12 +3373,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="115"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Редагувати</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="119"/>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Вид</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="123"/>
@@ -3403,7 +3403,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="139"/>
         <source>&amp;Extras</source>
-        <translation type="unfinished"/>
+        <translation>Додатково</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="143"/>
@@ -3423,17 +3423,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="156"/>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Імпорт</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="161"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Експорт</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="166"/>
         <source>Production &amp;Data</source>
-        <translation type="unfinished"/>
+        <translation>Дані для виробництва</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="171"/>
@@ -4138,7 +4138,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/ratio.h" line="303"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"/>
+        <translation>Значення повинно бути &gt;= 0!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/ratio.h" line="348"/>
@@ -9722,42 +9722,42 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="233"/>
         <source>Top Silkscreen:</source>
-        <translation type="unfinished"/>
+        <translation>Верх шовкографія:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="252"/>
         <source>Default (layer encoded in file name)</source>
-        <translation type="unfinished"/>
+        <translation>За замовчуванням (шар закодований в назві файлу)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="262"/>
         <source>Protel naming (layer encoded in file extension)</source>
-        <translation type="unfinished"/>
+        <translation>Protel назва (шар закодований в розширенні файлу)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="274"/>
         <source>Top Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Верх мідь:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="281"/>
         <source>Top Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Верх стоп-маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="295"/>
         <source>Predefined configs:</source>
-        <translation type="unfinished"/>
+        <translation>Попередньо визначені конфігурації:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="302"/>
         <source>Inner Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Внутрішня мідь:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="309"/>
         <source>Drills Blind/Buried:</source>
-        <translation type="unfinished"/>
+        <translation>Отвори глухі/сховані:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="337"/>
@@ -9772,22 +9772,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="81"/>
         <source>This dialog allows to generate Gerber X2 (RS-274X) / Excellon files for PCB fabrication.</source>
-        <translation type="unfinished"/>
+        <translation>Цей діалог дозволяє створювати файли Gerber X2 (RS-274X) / Excellon для виготовлення плат.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="85"/>
         <source>Note that it&apos;s highly recommended to review the generated files before ordering PCBs.</source>
-        <translation type="unfinished"/>
+        <translation>Зверніть увагу, що настійно рекомендується переглянути створені файли перед замовленням плат.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="88"/>
         <source>This could be done with the free application &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; or the &lt;a href=&quot;%2&quot;&gt;official reference viewer from Ucamco&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Це можна зробити за допомогою безкоштовної програми &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; або &lt;a href=&quot;%2&quot;&gt;офіційного переглядача від Ucamco&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="95"/>
         <source>As a simpler and faster alternative, you could use the &lt;a href=&quot;%1&quot;&gt;Order PCB&lt;/a&gt; feature instead.</source>
-        <translation type="unfinished"/>
+        <translation>Як альтернативу, ви можете використовувати функцію &lt;a href=&quot;%1&quot;&gt;Замовити плату&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="226"/>
@@ -9825,12 +9825,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="204"/>
         <source>Footprint name</source>
-        <translation type="unfinished"/>
+        <translation>Назва відбитку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="312"/>
         <source>Footprint Variants</source>
-        <translation type="unfinished"/>
+        <translation>Варіанти відбитку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="340"/>
@@ -9840,12 +9840,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="344"/>
         <source>Add a new footprint</source>
-        <translation type="unfinished"/>
+        <translation>Додати новий відбиток</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="462"/>
         <source>There is already a footprint with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Вже існує відбиток з іменем &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -9853,7 +9853,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="14"/>
         <source>Pad Properties</source>
-        <translation type="unfinished"/>
+        <translation>Властивості паду</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="24"/>
@@ -9863,12 +9863,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="30"/>
         <source>Package Pad:</source>
-        <translation>Пакунковий пад:</translation>
+        <translation>Пад пакування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="40"/>
         <source>Component Side:</source>
-        <translation type="unfinished"/>
+        <translation>Сторона компонента:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="47"/>
@@ -9883,7 +9883,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="66"/>
         <source>Multiple holes, see &lt;a href=&quot;tab&quot;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Декілька отворів, див. &lt;a href=&quot;tab&quot;&gt;тут&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="79"/>
@@ -9918,7 +9918,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="207"/>
         <source>Obround</source>
-        <translation type="unfinished"/>
+        <translation>Овальний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="233"/>
@@ -9958,7 +9958,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="363"/>
         <source>Plated Holes</source>
-        <translation type="unfinished"/>
+        <translation>Металізовані отвори</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="381"/>
@@ -9988,7 +9988,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="464"/>
         <source>Stop Mask:</source>
-        <translation type="unfinished"/>
+        <translation>Стоп-маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="479"/>
@@ -10016,7 +10016,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="601"/>
         <source>Note: For THT pads the solder paste should usually be set to &apos;Off&apos;. But if enabled anyway, the solder paste is added only to the solder side of the pad.</source>
-        <translation type="unfinished"/>
+        <translation>Примітка: Для THT площинок паяльної пасти зазвичай слід встановити значення &quot;Вимкнено&quot;. Але якщо ввімкнено, паяльна паста додається лише до паяльної сторони площинки.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="614"/>
@@ -10036,7 +10036,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="657"/>
         <source>Coordinates are relative to the pad origin and before rotation.</source>
-        <translation type="unfinished"/>
+        <translation>Координати є відносними до нуля паду (до обертання).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="196"/>
@@ -10416,7 +10416,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="85"/>
         <source>Circular Drill</source>
-        <translation type="unfinished"/>
+        <translation>Кругле свердло</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="91"/>
@@ -10474,7 +10474,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="40"/>
         <source>Stop Mask:</source>
-        <translation type="unfinished"/>
+        <translation>Cтоп-маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="49"/>
@@ -10540,7 +10540,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="90"/>
         <source>Preferred Norm:</source>
-        <translation type="unfinished"/>
+        <translation>Бажана норма:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="53"/>
@@ -10574,7 +10574,8 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="29"/>
         <source>&lt;p&gt;LibrePCB stores settings, libraries and (optionally) projects in a directory called &lt;i&gt;workspace&lt;/i&gt;.&lt;/p&gt;
 &lt;p&gt;Workspaces are platform independent, so they can be used across different operating systems.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;LibrePCB зберігає налаштування, бібліотеки та (за бажанням) проекти в каталозі, який називається &lt;i&gt;workspace&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;Робочі області не залежать від платформи, тому їх можна використовувати на різних операційних системах.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="53"/>
@@ -10624,7 +10625,9 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <source>&lt;p&gt;Your workspace was created with an older LibrePCB version and needs to be upgraded.&lt;/p&gt;
 &lt;p&gt;To still keep the workspace compatible with older versions of LibrePCB, a snapshot of the currently installed libraries and settings will be created.&lt;/p&gt;
 &lt;p&gt;No worries, this operation is not harmful at all, it may just take a few seconds ;-)&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Ваш робочий простір був створений за допомогою старішої версії LibrePCB і потребує оновлення.&lt;/p&gt;
+&lt;p&gt;Щоб все ще зберігати сумісність робочого простору зі старішими версіями LibrePCB, буде створено знімок поточно встановлених бібліотек і налаштувань.&lt;/p&gt;
+&lt;p&gt;Не хвилюйтеся, ця операція не є шкідливою, це може зайняти всього кілька секунд ;-)&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="106"/>
@@ -10778,7 +10781,8 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="434"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>У вас є незбережені зміни в елементі бібліотеки.
+Ви хочете зберегти їх перед закриттям?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="437"/>
@@ -10915,7 +10919,11 @@ Do you want to save them before closing it?</source>
 %1
 
 Are you really sure to remove &quot;%2&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Увага! Це призведе до видалення всієї директорії бібліотеки:
+
+%1
+
+Ви дійсно хочете видалити &quot;%2&quot;?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="145"/>
@@ -11084,7 +11092,9 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
-        <translation type="unfinished"/>
+        <translation>ПОПЕРЕДЖЕННЯ: Елементи бібліотеки зазвичай НЕ повинні видалятися, оскільки це зіпсує інші елементи, які залежать від цього! Замість цього їх слід позначити як застарілі.
+
+Ви все ще впевнені, що хочете видалити наступні елементи бібліотеки?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="631"/>
@@ -11105,12 +11115,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="661"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Ви впевнені, що хочете перемістити наступні елементи в бібліотеку &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="662"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Ви впевнені, що хочете скопіювати наступні елементи в бібліотеку &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="672"/>
@@ -11182,7 +11192,8 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="70"/>
         <source>Permanently hide this message.
 This can be reverted in the workspace settings dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Назавжди приховати це повідомлення.
+Це можна відновити в діалоговому вікні налаштувань робочого простору.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="90"/>
@@ -11200,12 +11211,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizard.cpp" line="100"/>
         <source>Could not copy element</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося скопіювати елемент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizard.cpp" line="114"/>
         <source>Failed to create element</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося створити елемент</translation>
     </message>
 </context>
 <context>
@@ -11219,67 +11230,72 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="20"/>
         <source>First of all, you need to choose what type of library element you want to create.</source>
-        <translation type="unfinished"/>
+        <translation>По-перше, вам потрібно вибрати, який тип елемента бібліотеки ви хочете створити.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="32"/>
         <source>Used to categorize symbols, components and devices</source>
-        <translation type="unfinished"/>
+        <translation>Використовується для категоризації символів, компонентів та пристроїв</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="35"/>
         <source>Component Category
 (e.g. OpAmps)</source>
-        <translation type="unfinished"/>
+        <translation>Категорія компонентів
+(наприклад, OpAmps)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="62"/>
         <source>Used to categorize packages</source>
-        <translation type="unfinished"/>
+        <translation>Використовується для категоризації пакування</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="65"/>
         <source>Package Category
 (e.g. DIP)</source>
-        <translation type="unfinished"/>
+        <translation>Категорія пакування
+(наприклад, DIP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="92"/>
         <source>Contains the graphical elements which are added to schematics</source>
-        <translation type="unfinished"/>
+        <translation>Містить графічні елементи, які додаються до схем</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="95"/>
         <source>Symbol
 (e.g. OpAmpChannel)</source>
-        <translation type="unfinished"/>
+        <translation>Символ
+(наприклад, OpAmpChannel)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="122"/>
         <source>Contains the footprints and 3D models which are added to boards</source>
-        <translation type="unfinished"/>
+        <translation>Містить відбитки та 3D-моделі, які додаються до плат</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="125"/>
         <source>Package
 (e.g. DIP8)</source>
-        <translation type="unfinished"/>
+        <translation>Пакування
+(наприклад, DIP8)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="152"/>
         <source>Represents the generic parts which are added to schematics</source>
-        <translation type="unfinished"/>
+        <translation>Представляє загальні частини, які додаються до схем</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="155"/>
         <source>Component
 (e.g. SingleOpAmp)</source>
-        <translation type="unfinished"/>
+        <translation>Компонент
+(наприклад, SingleOpAmp)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="182"/>
         <source>Represents the concrete parts which are added to boards and are exported to the BOM</source>
-        <translation type="unfinished"/>
+        <translation>Представляє конкретні частини, які додаються до плат і експортуються в BOM</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="185"/>
@@ -11530,7 +11546,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="14"/>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="17"/>
         <source>Package Pads</source>
-        <translation>Пади Пакунка</translation>
+        <translation>Пади пакування</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="20"/>
