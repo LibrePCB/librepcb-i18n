@@ -9,3 +9,4 @@ Icon=org.librepcb.LibrePCB
 Exec=librepcb %U
 MimeType=application/x-librepcb-project;
 Comment[de]=Entwerfen eines Schaltplans oder einer Platine
+Comment[uk_UA]=Проектування схем та плат
