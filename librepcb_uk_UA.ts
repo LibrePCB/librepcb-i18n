@@ -1985,7 +1985,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="813"/>
         <source>Show Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Показати номери контактів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="814"/>
@@ -2541,7 +2541,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1317"/>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Прямокутник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1318"/>
@@ -2551,7 +2551,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1326"/>
         <source>Octagon</source>
-        <translation type="unfinished"/>
+        <translation>Октагон</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1327"/>
@@ -2561,7 +2561,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1335"/>
         <source>Components</source>
-        <translation type="unfinished"/>
+        <translation>Компоненти</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1338"/>
@@ -2631,7 +2631,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1395"/>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Сторінки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1396"/>
@@ -2826,7 +2826,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1567"/>
         <source>New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Нова Папка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1568"/>
@@ -4058,7 +4058,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="82"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Чорний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="89"/>
@@ -4098,7 +4098,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="131"/>
         <source>White</source>
-        <translation type="unfinished"/>
+        <translation>Білий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="138"/>
@@ -4144,7 +4144,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/rulecheck/rulecheckmessage.cpp" line="74"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Попередження</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/rulecheck/rulecheckmessage.cpp" line="76"/>
@@ -4576,7 +4576,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="145"/>
         <source>Copper Top</source>
-        <translation type="unfinished"/>
+        <translation>Мідь верх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="181"/>
@@ -4586,7 +4586,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="183"/>
         <source>Copper Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Мідь низ</translation>
     </message>
 </context>
 <context>
@@ -5636,7 +5636,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.cpp" line="163"/>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Обрати файл</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="94"/>
@@ -6147,7 +6147,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="54"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The schematic contains components which are not placed yet on this board. You can add them with the &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Place Devices&lt;/span&gt;&lt;/a&gt; dock.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Схема містить компоненти, які ще не розташовані на цій дошці. Ви можете додати їх з допомогою дока &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Розмістити пристрої&lt;/span&gt;&lt;/a&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="159"/>
@@ -6767,7 +6767,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="24"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Загальний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="30"/>
@@ -6924,7 +6924,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="651"/>
         <source>Clearances</source>
-        <translation type="unfinished"/>
+        <translation>Кліренси</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="689"/>
@@ -7019,7 +7019,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="71"/>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>стандартний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="135"/>
@@ -7062,12 +7062,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/boardsideselectorwidget.cpp" line="50"/>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Верх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/boardsideselectorwidget.cpp" line="51"/>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Низ</translation>
     </message>
 </context>
 <context>
@@ -7085,7 +7085,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="39"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Розташування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="56"/>
@@ -7120,7 +7120,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="108"/>
         <source>Off</source>
-        <translation type="unfinished"/>
+        <translation>Вимкнено</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="115"/>
@@ -7130,7 +7130,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="118"/>
         <source>From Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>З правил проектування</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="125"/>
@@ -7140,7 +7140,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="128"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Інструкція:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.cpp" line="183"/>
@@ -7301,7 +7301,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="71"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Розташування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.cpp" line="138"/>
@@ -8309,7 +8309,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="66"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Ключові слова:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="80"/>
@@ -8324,7 +8324,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="108"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Застарілий:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="115"/>
@@ -8339,27 +8339,27 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="162"/>
         <source>Choose category</source>
-        <translation type="unfinished"/>
+        <translation>Оберіть категорію</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="190"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Скинути</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="213"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Повідомлення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.cpp" line="119"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Невірні метадані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.cpp" line="129"/>
         <source>Save failed</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося зберегти</translation>
     </message>
 </context>
 <context>
@@ -8425,7 +8425,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="128"/>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Атрибути</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="187"/>
@@ -8440,7 +8440,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="218"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Ключові слова:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="232"/>
@@ -8455,7 +8455,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="260"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Застарілий:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="267"/>
@@ -8465,7 +8465,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="274"/>
         <source>Categories:</source>
-        <translation type="unfinished"/>
+        <translation>Категорії:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="291"/>
@@ -8490,17 +8490,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="336"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Повідомлення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="159"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Невірні метадані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="170"/>
         <source>Save failed</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося зберегти</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="309"/>
@@ -8525,7 +8525,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="221"/>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="384"/>
         <source>unconnected</source>
-        <translation type="unfinished"/>
+        <translation>непідключений</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="258"/>
@@ -8540,7 +8540,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="262"/>
         <source>Component Signal</source>
-        <translation type="unfinished"/>
+        <translation>Сигнал компоненту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="264"/>
@@ -8638,7 +8638,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.ui" line="101"/>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Символи</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.ui" line="127"/>
@@ -8718,7 +8718,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="354"/>
         <source>Placement</source>
-        <translation type="unfinished"/>
+        <translation>Розташування</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="356"/>
@@ -8765,7 +8765,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="192"/>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>стандартний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="262"/>
@@ -8785,7 +8785,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="268"/>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Символи</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="277"/>
@@ -8902,17 +8902,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="504"/>
         <source>Could not open project</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося відкрити проект</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="551"/>
         <source>Restore autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Відновити резервну копію автозбереження?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="552"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Здається, що програма впала останній раз, коли ви відкривали цей проект. Чи хочете ви відновити останню автозбережену резервну копію?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="582"/>
@@ -8923,7 +8923,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="734"/>
         <source>New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Нова Папка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="734"/>
@@ -8942,7 +8942,11 @@ You need at least LibrePCB %1 to open it.
 %1
 
 Warning: This cannot be undone!</source>
-        <translation type="unfinished"/>
+        <translation>Ви дійсно впевнені, що хочете видалити наступний файл або директорію?
+
+%1
+
+Попередження: це не можна скасувати!</translation>
     </message>
 </context>
 <context>
@@ -8955,17 +8959,17 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="76"/>
         <source>Package</source>
-        <translation type="unfinished"/>
+        <translation>Упаковка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="159"/>
         <source>Component</source>
-        <translation type="unfinished"/>
+        <translation>Компонент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="244"/>
         <source>Pad-Signal-Map</source>
-        <translation type="unfinished"/>
+        <translation>Карта сигнал-подушка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="303"/>
@@ -8980,7 +8984,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="334"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Ключові слова:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="348"/>
@@ -8995,69 +8999,69 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="376"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Застарілий:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="383"/>
         <source>Device should no longer be used.</source>
-        <translation type="unfinished"/>
+        <translation>Пристрій більше не слід використовувати.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="390"/>
         <source>Categories:</source>
-        <translation type="unfinished"/>
+        <translation>Категорії:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="400"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Повідомлення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="176"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Невірні метадані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="187"/>
         <source>Save failed</source>
-        <translation type="unfinished"/>
+        <translation>Збереження не вдалося</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="230"/>
         <source>Edit device metadata</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати метадані пристрою</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="269"/>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="350"/>
         <source>Component not found!</source>
-        <translation type="unfinished"/>
+        <translation>Компонент не знайдено!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="277"/>
         <source>Change component</source>
-        <translation type="unfinished"/>
+        <translation>Змінити компонент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="292"/>
         <source>Could not set component</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалось встановити компонент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="309"/>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="410"/>
         <source>Package not found!</source>
-        <translation type="unfinished"/>
+        <translation>Пакет не знайдено!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="318"/>
         <source>Change package</source>
-        <translation type="unfinished"/>
+        <translation>Змінити пакет</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="337"/>
         <source>Could not set package</source>
-        <translation type="unfinished"/>
+        <translation>Не вдається встановити пакунок</translation>
     </message>
 </context>
 <context>
@@ -9065,27 +9069,27 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="14"/>
         <source>Device Properties</source>
-        <translation type="unfinished"/>
+        <translation>Властивості пристрою</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="28"/>
         <source>Placement</source>
-        <translation type="unfinished"/>
+        <translation>Розташування</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="37"/>
         <source>Pos. X:</source>
-        <translation type="unfinished"/>
+        <translation>Поз. X:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="47"/>
         <source>Pos. Y:</source>
-        <translation type="unfinished"/>
+        <translation>Поз. Y:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="57"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Обертання:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="85"/>
@@ -9095,27 +9099,27 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="101"/>
         <source>Library Elements</source>
-        <translation type="unfinished"/>
+        <translation>Бібліотечні елементи</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="119"/>
         <source>Device:</source>
-        <translation type="unfinished"/>
+        <translation>Пристрій:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="151"/>
         <source>Package:</source>
-        <translation type="unfinished"/>
+        <translation>Пакет:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="183"/>
         <source>Footprint:</source>
-        <translation type="unfinished"/>
+        <translation>Футпрінт</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="218"/>
         <source>Component</source>
-        <translation type="unfinished"/>
+        <translation>Компонент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="227"/>
@@ -9125,22 +9129,22 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="237"/>
         <source>Value:</source>
-        <translation type="unfinished"/>
+        <translation>Значення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="266"/>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Атрибути</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="71"/>
         <source>Properties of %1</source>
-        <translation type="unfinished"/>
+        <translation>Властивості %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="174"/>
         <source>Change properties of %1</source>
-        <translation type="unfinished"/>
+        <translation>Змінити властивості %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="205"/>
@@ -9153,7 +9157,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="144"/>
         <source>(unconnected)</source>
-        <translation type="unfinished"/>
+        <translation>(нез&apos;єднана)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="169"/>
@@ -9163,7 +9167,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="171"/>
         <source>Component Signal</source>
-        <translation type="unfinished"/>
+        <translation>Сигнал компоненту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="205"/>
@@ -9173,7 +9177,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="258"/>
         <source>unconnected</source>
-        <translation type="unfinished"/>
+        <translation>непідключений</translation>
     </message>
 </context>
 <context>
@@ -9181,7 +9185,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/directorylockhandlerdialog.ui" line="14"/>
         <source>Directory is locked</source>
-        <translation type="unfinished"/>
+        <translation>Каталог заблоковано</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/directorylockhandlerdialog.ui" line="35"/>
@@ -9197,12 +9201,12 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/directorylockhandlerdialog.cpp" line="53"/>
         <source>I accept the risk.</source>
-        <translation type="unfinished"/>
+        <translation>Я приймаю ризик.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/directorylockhandlerdialog.cpp" line="58"/>
         <source>Open anyway</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити все одно</translation>
     </message>
 </context>
 <context>
@@ -9210,7 +9214,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="14"/>
         <source>DXF Import</source>
-        <translation type="unfinished"/>
+        <translation>Імпорт DXF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="25"/>
@@ -9220,22 +9224,22 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="32"/>
         <source>The layer to set on the imported objects.</source>
-        <translation type="unfinished"/>
+        <translation>Встановити шар для імпортованих об&apos;єктів.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="39"/>
         <source>Line width:</source>
-        <translation type="unfinished"/>
+        <translation>Ширина лінії:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="46"/>
         <source>The line width to set on the imported objects.</source>
-        <translation type="unfinished"/>
+        <translation>Встановити ширину лінії на імпортованих об&apos;єктах.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="53"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"/>
+        <translation>Множник масштабу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="60"/>
@@ -9246,7 +9250,7 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="80"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Позиція:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="87"/>
@@ -9257,17 +9261,17 @@ If unchecked, you need to specify exact coordinates where the point (0,0) of the
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="91"/>
         <source>Interactive</source>
-        <translation type="unfinished"/>
+        <translation>Інтерактивний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="100"/>
         <source>X-coordinate.</source>
-        <translation type="unfinished"/>
+        <translation>Координата X</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="107"/>
         <source>Y-coordinate.</source>
-        <translation type="unfinished"/>
+        <translation>Координата Y</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="116"/>
@@ -9283,7 +9287,7 @@ Helps for example to avoid invalid board outline polygons.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="127"/>
         <source>Join tangent polylines</source>
-        <translation type="unfinished"/>
+        <translation>З&apos;єднати тангенційні полілінії</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="134"/>
@@ -9294,12 +9298,12 @@ If unchecked (the default), circles will be imported as polygons.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="138"/>
         <source>Import circles as drills</source>
-        <translation type="unfinished"/>
+        <translation>Імпортувати кола як отвори</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.cpp" line="174"/>
         <source>The selected file does not contain any objects to import.</source>
-        <translation type="unfinished"/>
+        <translation>Обраний файл не містить жодних об&apos;єктів для імпорту.</translation>
     </message>
 </context>
 <context>
@@ -9307,12 +9311,12 @@ If unchecked (the default), circles will be imported as polygons.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizard.ui" line="14"/>
         <source>EAGLE Library Import</source>
-        <translation type="unfinished"/>
+        <translation>Імпорт бібліотеки EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizard.cpp" line="69"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Перезапустити</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizard.cpp" line="100"/>
@@ -9345,27 +9349,27 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="17"/>
         <source>Select Library</source>
-        <translation type="unfinished"/>
+        <translation>Обрати бібліотеку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="20"/>
         <source>Choose the EAGLE library file to import.</source>
-        <translation type="unfinished"/>
+        <translation>Обрати файл бібліотеки EAGLE для імпорту.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="26"/>
         <source>Note: Only EAGLE 6 (or later) *.lbr files are supported (XML based file format).</source>
-        <translation type="unfinished"/>
+        <translation>Примітка: Підтримуються тільки файли *.lbr версії EAGLE 6 (або пізніше) (формат файлу на основі XML).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="39"/>
         <source>Select file to import</source>
-        <translation type="unfinished"/>
+        <translation>Обрати файл для імпорту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.cpp" line="67"/>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Обрати файл</translation>
     </message>
 </context>
 <context>
@@ -9373,12 +9377,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.ui" line="17"/>
         <source>Import Progress</source>
-        <translation type="unfinished"/>
+        <translation>Прогрес імпорту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.ui" line="20"/>
         <source>The selected elements will be imported now. For large or complex libraries this can take a few minutes.</source>
-        <translation type="unfinished"/>
+        <translation>Обрані елементи будуть імпортовані зараз. Для великих або складних бібліотек це може зайняти кілька хвилин.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.ui" line="26"/>
@@ -9393,12 +9397,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.ui" line="47"/>
         <source>Import Errors</source>
-        <translation type="unfinished"/>
+        <translation>Помилки імпорту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.cpp" line="113"/>
         <source>Scanning libraries</source>
-        <translation type="unfinished"/>
+        <translation>Сканування бібліотек</translation>
     </message>
 </context>
 <context>
@@ -9406,32 +9410,32 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.ui" line="17"/>
         <source>Select Elements To Import</source>
-        <translation type="unfinished"/>
+        <translation>Вибрати елементи для імпорту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.ui" line="20"/>
         <source>Select the library elements to import. Dependent elements of devices and components will be selected automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Оберіть бібліотечні елементи для імпорту. Залежні елементи пристроїв та компонентів будуть автоматично вибрані.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="251"/>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Пристрої</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="254"/>
         <source>Components</source>
-        <translation type="unfinished"/>
+        <translation>Компоненти</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="257"/>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Символи</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="260"/>
         <source>Packages</source>
-        <translation type="unfinished"/>
+        <translation>Пакети</translation>
     </message>
 </context>
 <context>
@@ -9439,22 +9443,22 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="17"/>
         <source>Set Options</source>
-        <translation type="unfinished"/>
+        <translation>Встановити налаштування</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="20"/>
         <source>Choose the import options and click on the import button below to continue. If you are unsure about the options, just keep the default values.</source>
-        <translation type="unfinished"/>
+        <translation>Виберіть параметри імпорту та клацніть на кнопці імпортувати нижче, щоб продовжити. Якщо ви невпевнені щодо параметрів, просто залиште значення за замовчуванням.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="26"/>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>Префікс</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="47"/>
         <source>Helps to distinguish between manually created elements and imported elements.</source>
-        <translation type="unfinished"/>
+        <translation>Допомагає розрізняти між елементами, створеними вручну та імпортованими елементами.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="50"/>
@@ -9470,28 +9474,28 @@ Do you really want to close it?</source>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="88"/>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="147"/>
         <source>Choose category</source>
-        <translation type="unfinished"/>
+        <translation>Оберіть категорію</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="102"/>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="161"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Скинути</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="119"/>
         <source>Package Category</source>
-        <translation type="unfinished"/>
+        <translation>Категорія пакету</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="183"/>
         <source>&lt;b&gt;Attention:&lt;/b&gt; The import cannot be undone (except my manually removing the imported elements)!</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Attention:&lt;/b&gt; Імпорт не можна скасувати (крім випадків, коли елементи, що імпортуються, видалені вручну)!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.cpp" line="58"/>
         <source>&amp;Import!</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Імпортувати!</translation>
     </message>
 </context>
 <context>
@@ -9499,12 +9503,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_start.ui" line="17"/>
         <source>EAGLE Library Import</source>
-        <translation type="unfinished"/>
+        <translation>Імпорт бібліотеки EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_start.ui" line="20"/>
         <source>Kick-start the migration from EAGLE to LibrePCB by importing your EAGLE library elements into the currently opened LibrePCB library.</source>
-        <translation type="unfinished"/>
+        <translation>Розпочніть міграцію з EAGLE до LibrePCB, імпортувавши елементи вашої бібліотеки EAGLE до відкритої наразі бібліотеки LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_start.ui" line="26"/>
@@ -9528,17 +9532,17 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/modelview/editablelistmodel.h" line="136"/>
         <source>Invalid value.</source>
-        <translation type="unfinished"/>
+        <translation>Недійсне значення.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/editablelistmodel.h" line="142"/>
         <source>Value already contained in list.</source>
-        <translation type="unfinished"/>
+        <translation>Значення вже міститься в списку.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/editablelistmodel.h" line="253"/>
         <source>Item</source>
-        <translation type="unfinished"/>
+        <translation>Елемент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/editablelistmodel.h" line="261"/>
@@ -9566,12 +9570,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/editabletablewidget.cpp" line="196"/>
         <source>Move up</source>
-        <translation type="unfinished"/>
+        <translation>Догори</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/editabletablewidget.cpp" line="199"/>
         <source>Move down</source>
-        <translation type="unfinished"/>
+        <translation>Вниз</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/editabletablewidget.cpp" line="204"/>
@@ -9589,32 +9593,32 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="160"/>
         <source>WARNING: You have changed some important properties of this library element. This breaks all other elements which depend on this one! Maybe you want to create a new library element instead of modifying this one?</source>
-        <translation type="unfinished"/>
+        <translation>УВАГА: Ви змінили деякі важливі властивості цього елементу бібліотеки. Це руйнує всі інші елементи, які залежать від цього! Можливо, ви хочете створити новий елемент бібліотеки замість того, щоб змінювати цей?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="181"/>
         <source>WARNING: This library element contains errors, see exact messages below. You should fix these errors before saving it, otherwise the library element may not work as expected.</source>
-        <translation type="unfinished"/>
+        <translation>ПОПЕРЕДЖЕННЯ: Цей елемент бібліотеки містить помилки, дивіться точні повідомлення нижче. Ви повинні виправити ці помилки перед збереженням, інакше елемент бібліотеки може не працювати як очікувалося.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="239"/>
         <source>User name not set</source>
-        <translation type="unfinished"/>
+        <translation>Ім&apos;я користувача не встановлено</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="240"/>
         <source>No user name defined in workspace settings. Please open workspace settings to set the default user name.</source>
-        <translation type="unfinished"/>
+        <translation>Ім&apos;я користувача не визначено в налаштуваннях робочого простору. Будь ласка, відкрийте налаштування робочого простору, щоб встановити ім&apos;я користувача за замовчуванням.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="253"/>
         <source>Restore autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Відновити резервну копію автозбереження?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="254"/>
         <source>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Здається, що програма зазнала збою під час останнього відкриття цього елемента бібліотеки. Хочете відновити останнє автоматичне резервне копіювання?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="328"/>
@@ -9632,7 +9636,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="46"/>
         <source>Output Files</source>
-        <translation type="unfinished"/>
+        <translation>Вихідні файли</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="52"/>
@@ -9786,12 +9790,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="249"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Попередження</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="249"/>
         <source>Directory does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Директорія не існує.</translation>
     </message>
 </context>
 <context>
@@ -9842,7 +9846,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="24"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Загальний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="30"/>
@@ -9857,12 +9861,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="47"/>
         <source>Shape:</source>
-        <translation type="unfinished"/>
+        <translation>Форма:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="54"/>
         <source>Hole Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Діаметр отвору:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="66"/>
@@ -9872,32 +9876,32 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="79"/>
         <source>Convert to SMT</source>
-        <translation type="unfinished"/>
+        <translation>Конвертувати до SMT</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="101"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Розташування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="118"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Обертання:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="128"/>
         <source>Corner Radius:</source>
-        <translation type="unfinished"/>
+        <translation>Радіус кута:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="153"/>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Верх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="178"/>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Низ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="207"/>
@@ -9907,27 +9911,27 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="233"/>
         <source>Rounded rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Округлений прямокутник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="259"/>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Прямокутник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="285"/>
         <source>Octagon</source>
-        <translation type="unfinished"/>
+        <translation>Октагон</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="311"/>
         <source>Custom shape outline as defined on next tab</source>
-        <translation type="unfinished"/>
+        <translation>Індивідуальний контур форми, визначений на наступній вкладці</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="314"/>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Кастомний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="335"/>
@@ -9937,7 +9941,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="352"/>
         <source>Function:</source>
-        <translation type="unfinished"/>
+        <translation>Функція:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="363"/>
@@ -9947,27 +9951,27 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="381"/>
         <source>Select previous hole</source>
-        <translation type="unfinished"/>
+        <translation>Вибрати попередню отвір</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="394"/>
         <source>Select next hole</source>
-        <translation type="unfinished"/>
+        <translation>Обрати наступний отвір</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="407"/>
         <source>Remove current hole</source>
-        <translation type="unfinished"/>
+        <translation>Видалити поточний отвір</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="418"/>
         <source>Add new hole</source>
-        <translation type="unfinished"/>
+        <translation>Додати новий отвір</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="458"/>
         <source>Clearances</source>
-        <translation type="unfinished"/>
+        <translation>Кліренси</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="464"/>
@@ -9978,24 +9982,24 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="479"/>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="545"/>
         <source>Off</source>
-        <translation type="unfinished"/>
+        <translation>Вимкнено</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="495"/>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="561"/>
         <source>From Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>З правил проектування</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="511"/>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="577"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Інструкція:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="530"/>
         <source>Solder Paste:</source>
-        <translation type="unfinished"/>
+        <translation>Паяльна паста:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="601"/>
@@ -10005,17 +10009,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="614"/>
         <source>Copper Keepout:</source>
-        <translation type="unfinished"/>
+        <translation>Зона відсутності міді:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="629"/>
         <source>Note: Intended to keep copper away from fiducials.</source>
-        <translation type="unfinished"/>
+        <translation>Примітка: Призначено для того, щоб утримувати мідь від фідуціалів.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="643"/>
         <source>Custom Shape</source>
-        <translation type="unfinished"/>
+        <translation>Індивідуальна форма</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="657"/>
@@ -10025,27 +10029,27 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="196"/>
         <source>(not connected)</source>
-        <translation type="unfinished"/>
+        <translation>(не з&apos;єднано)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="421"/>
         <source>Hole %1 of %2</source>
-        <translation type="unfinished"/>
+        <translation>Отвір %1 з %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="425"/>
         <source>Pad has no holes</source>
-        <translation type="unfinished"/>
+        <translation>Підошва не має отворів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="469"/>
         <source>Invalid outline</source>
-        <translation type="unfinished"/>
+        <translation>Неприпустимий контур</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="470"/>
         <source>The custom pad outline does not represent a valid area.</source>
-        <translation type="unfinished"/>
+        <translation>Нестандартний контур пада не представляє дійсну область.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="525"/>
@@ -10058,32 +10062,32 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="26"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Загальний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="32"/>
         <source>Printer:</source>
-        <translation type="unfinished"/>
+        <translation>Принтер:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="42"/>
         <source>Page size:</source>
-        <translation type="unfinished"/>
+        <translation>Розмір сторінки:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="58"/>
         <source>Duplex:</source>
-        <translation type="unfinished"/>
+        <translation>Дуплекс:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="78"/>
         <source>Resolution:</source>
-        <translation type="unfinished"/>
+        <translation>Роздільна здатність:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="104"/>
         <source>Orientation:</source>
-        <translation type="unfinished"/>
+        <translation>Орієнтація:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="119"/>
@@ -10093,27 +10097,27 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="138"/>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Ландшафт</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="154"/>
         <source>Portrait</source>
-        <translation type="unfinished"/>
+        <translation>Портрет</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="166"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"/>
+        <translation>Коефіцієнт масштабування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="175"/>
         <source>Fit to page size</source>
-        <translation type="unfinished"/>
+        <translation>Підігнати до розміру сторінки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="206"/>
         <source>Background:</source>
-        <translation type="unfinished"/>
+        <translation>Фон:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="221"/>
@@ -10123,123 +10127,123 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="240"/>
         <source>White</source>
-        <translation type="unfinished"/>
+        <translation>Білий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="256"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Чорний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="268"/>
         <source>Margins:</source>
-        <translation type="unfinished"/>
+        <translation>Поля:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="327"/>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Розширений</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="333"/>
         <source>Transformation:</source>
-        <translation type="unfinished"/>
+        <translation>Трансформація:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="342"/>
         <source>Rotate</source>
-        <translation type="unfinished"/>
+        <translation>Обертати</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="349"/>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="518"/>
         <source>Mirror</source>
-        <translation type="unfinished"/>
+        <translation>Віддзеркалити</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="358"/>
         <source>Minimum line width:</source>
-        <translation type="unfinished"/>
+        <translation>Мінімальна ширина лінії:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="368"/>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Кольори:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="375"/>
         <source>Black/White</source>
-        <translation type="unfinished"/>
+        <translation>Чорний/білий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="388"/>
         <source>Copies:</source>
-        <translation type="unfinished"/>
+        <translation>Копії:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="414"/>
         <source>Content:</source>
-        <translation type="unfinished"/>
+        <translation>Зміст:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="421"/>
         <source>Show Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Показати номери контактів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="429"/>
         <source>Colors</source>
-        <translation type="unfinished"/>
+        <translation>Кольори</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="464"/>
         <source>Content</source>
-        <translation type="unfinished"/>
+        <translation>Зміст</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="513"/>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Сторінка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="527"/>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Сторінки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="536"/>
         <source>All pages</source>
-        <translation type="unfinished"/>
+        <translation>Усі сторінки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="565"/>
         <source>Current page</source>
-        <translation type="unfinished"/>
+        <translation>Поточна сторінка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="580"/>
         <source>Custom:</source>
-        <translation type="unfinished"/>
+        <translation>Індивідуальний:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="607"/>
         <source>The page number will be appended to the filename.</source>
-        <translation type="unfinished"/>
+        <translation>Номер сторінки буде додано до назви файлу.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="674"/>
         <source>Open the exported file or their parent directory if multiple files were exported.</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити експортований файл або його батьківський каталог, якщо було експортовано кілька файлів.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="677"/>
         <source>Open exported file(s)</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити експортований файл(и)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="71"/>
         <source>Operation in progress...</source>
-        <translation type="unfinished"/>
+        <translation>Операція у процесі...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="72"/>
@@ -10264,17 +10268,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="118"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Копіювати в буфер обміну</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="121"/>
         <source>Copy the image to the clipboard instead of saving it as a file.</source>
-        <translation type="unfinished"/>
+        <translation>Скопіювати зображення в буфер обміну замість того, щоб зберігати його як файл.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="130"/>
         <source>Looking for printers...</source>
-        <translation type="unfinished"/>
+        <translation>Шукаю принтери...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="417"/>
@@ -10284,67 +10288,67 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="432"/>
         <source>Processing page %1 of %2...</source>
-        <translation type="unfinished"/>
+        <translation>Обробка сторінки %1 з %2...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="509"/>
         <source>All Layers</source>
-        <translation type="unfinished"/>
+        <translation>Усі шари</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="515"/>
         <source>Assembly Top</source>
-        <translation type="unfinished"/>
+        <translation>Збірка верхньої сторони</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="530"/>
         <source>Assembly Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Збірка нижньої сторони</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="545"/>
         <source>Drills</source>
-        <translation type="unfinished"/>
+        <translation>Свердла</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="555"/>
         <source>Copper Top</source>
-        <translation type="unfinished"/>
+        <translation>Мідь верх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="566"/>
         <source>Copper Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Мідь низ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="885"/>
         <source>No printer found</source>
-        <translation type="unfinished"/>
+        <translation>Принтер не знайдено</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="936"/>
         <source>One Sided</source>
-        <translation type="unfinished"/>
+        <translation>Одностороння</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="939"/>
         <source>Long Edge</source>
-        <translation type="unfinished"/>
+        <translation>Довга кромка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="943"/>
         <source>Short Edge</source>
-        <translation type="unfinished"/>
+        <translation>Коротка кромка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="972"/>
         <source>Custom (adjust to content)</source>
-        <translation type="unfinished"/>
+        <translation>Кастомна (підлаштувати до вмісту)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1149"/>
         <source>Save as...</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти як...</translation>
     </message>
 </context>
 <context>
@@ -10352,32 +10356,32 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/gridsettingsdialog.ui" line="23"/>
         <source>Grid Settings</source>
-        <translation type="unfinished"/>
+        <translation>Налаштування сітки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/gridsettingsdialog.ui" line="29"/>
         <source>Interval:</source>
-        <translation type="unfinished"/>
+        <translation>Інтервал:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/gridsettingsdialog.ui" line="39"/>
         <source>Appearance:</source>
-        <translation type="unfinished"/>
+        <translation>Зовнішній вигляд:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/gridsettingsdialog.ui" line="48"/>
         <source>No Grid</source>
-        <translation type="unfinished"/>
+        <translation>Без сітки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/gridsettingsdialog.ui" line="58"/>
         <source>Dots</source>
-        <translation type="unfinished"/>
+        <translation>Точки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/gridsettingsdialog.ui" line="68"/>
         <source>Lines</source>
-        <translation type="unfinished"/>
+        <translation>Лінії</translation>
     </message>
 </context>
 <context>
@@ -10405,37 +10409,37 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="91"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Розташування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="109"/>
         <source>Linear Slot</source>
-        <translation type="unfinished"/>
+        <translation>Лінійний слот</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="125"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Поворот:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="132"/>
         <source>Center:</source>
-        <translation type="unfinished"/>
+        <translation>Центр:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="162"/>
         <source>Length:</source>
-        <translation type="unfinished"/>
+        <translation>Довжина:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="170"/>
         <source>Arbitrary Slot</source>
-        <translation type="unfinished"/>
+        <translation>Довільний слот</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.cpp" line="256"/>
         <source>Outer Size:</source>
-        <translation type="unfinished"/>
+        <translation>Зовнішні розміри:</translation>
     </message>
 </context>
 <context>
@@ -10443,17 +10447,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="14"/>
         <source>Hole Properties</source>
-        <translation type="unfinished"/>
+        <translation>Властивості отвору</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="24"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Загальний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="34"/>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Розширений</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="40"/>
@@ -10463,17 +10467,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="49"/>
         <source>Off</source>
-        <translation type="unfinished"/>
+        <translation>Вимкнути</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="56"/>
         <source>From Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>З правил проектування</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="63"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Ручне:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.cpp" line="159"/>
@@ -10486,7 +10490,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard.ui" line="14"/>
         <source>LibrePCB Workspace Setup</source>
-        <translation type="unfinished"/>
+        <translation>Налаштування робочого простору LibrePCB</translation>
     </message>
 </context>
 <context>
@@ -10494,32 +10498,32 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="14"/>
         <source>Choose Settings</source>
-        <translation type="unfinished"/>
+        <translation>Обрати налаштування</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="17"/>
         <source>Set the most important workspace settings.</source>
-        <translation type="unfinished"/>
+        <translation>Встановити найважливіші налаштування робочого простору.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="23"/>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Мова:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="37"/>
         <source>Length Unit:</source>
-        <translation type="unfinished"/>
+        <translation>Одиниця довжини:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="51"/>
         <source>User Name:</source>
-        <translation type="unfinished"/>
+        <translation>Ім&apos;я користувача:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="75"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Це ім&apos;я буде використовуватись як автор при створенні нових проектів або бібліотек.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="90"/>
@@ -10529,7 +10533,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="53"/>
         <source>System Language</source>
-        <translation type="unfinished"/>
+        <translation>Мова системи</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="71"/>
@@ -10547,12 +10551,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="14"/>
         <source>Select Workspace Path</source>
-        <translation type="unfinished"/>
+        <translation>Оберіть шлях до робочого простору</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="17"/>
         <source>Please select a directory to open or create a LibrePCB workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Будь ласка, виберіть директорію для відкриття або створення робочої області LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="29"/>
@@ -10563,32 +10567,32 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="53"/>
         <source>Choose the workspace directory to open or create:</source>
-        <translation type="unfinished"/>
+        <translation>Оберіть директорію робочого простору для відкриття чи створення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="58"/>
         <source>Select Workspace Directory</source>
-        <translation type="unfinished"/>
+        <translation>Обрати директорію робочого простору</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="121"/>
         <source>Please select a directory.</source>
-        <translation type="unfinished"/>
+        <translation>Будь ласка, виберіть каталог.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="123"/>
         <source>Directory contains a valid workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Директорія містить дійсне робоче середовище.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="125"/>
         <source>New workspace will be created.</source>
-        <translation type="unfinished"/>
+        <translation>Буде створено новий робочий простір.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="127"/>
         <source>Directory is not empty!</source>
-        <translation type="unfinished"/>
+        <translation>Директорія не є порожньою!</translation>
     </message>
 </context>
 <context>
@@ -10596,12 +10600,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="14"/>
         <source>Upgrade Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Оновити робочий простір</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="17"/>
         <source>Upgrade the workspace to the latest file format.</source>
-        <translation type="unfinished"/>
+        <translation>Оновити робочий простір до останнього формату файлу.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="55"/>
@@ -10613,32 +10617,32 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="106"/>
         <source>Source:</source>
-        <translation type="unfinished"/>
+        <translation>Джерело:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="144"/>
         <source>Destination:</source>
-        <translation type="unfinished"/>
+        <translation>Призначення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="48"/>
         <source>Upgrade to LibrePCB %1</source>
-        <translation type="unfinished"/>
+        <translation>Оновити до LibrePCB %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="52"/>
         <source>Upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Оновити</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="86"/>
         <source>Error:</source>
-        <translation type="unfinished"/>
+        <translation>Помилка:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="88"/>
         <source>If the error persists, you could try to copy the mentioned directory manually (e.g. with your file manager).</source>
-        <translation type="unfinished"/>
+        <translation>Якщо помилка продовжується, ви можете спробувати скопіювати згаданий каталог вручну (наприклад, за допомогою файлового менеджера).</translation>
     </message>
 </context>
 <context>
@@ -10646,17 +10650,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="14"/>
         <source>Welcome to LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>Ласкаво просимо до LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="17"/>
         <source>This wizard will help you to open or create a LibrePCB workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Цей майстер допоможе вам відкрити або створити робочий простір LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="23"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600;&quot;&gt;Welcome To LibrePCB&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Ласкаво просимо в LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="62"/>
@@ -10669,17 +10673,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="123"/>
         <source>Remove this shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Видалити цей ярлик</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="135"/>
         <source>Restore default shortcut(s)</source>
-        <translation type="unfinished"/>
+        <translation>Відновити стандартний ярлик(и)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="154"/>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Застосувати</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="161"/>
@@ -10700,22 +10704,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="74"/>
         <source>Enter numeric expression</source>
-        <translation type="unfinished"/>
+        <translation>Введіть числовий вираз</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="103"/>
         <source>Default value:</source>
-        <translation type="unfinished"/>
+        <translation>Значення за замовчуванням:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="329"/>
         <source>internal</source>
-        <translation type="unfinished"/>
+        <translation>внутрішній</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="332"/>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>стандартний</translation>
     </message>
 </context>
 <context>
@@ -10723,7 +10727,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/librarydownload.cpp" line="155"/>
         <source>The downloaded ZIP file does not contain a LibrePCB library.</source>
-        <translation type="unfinished"/>
+        <translation>Завантажений ZIP файл не містить бібліотеку LibrePCB.</translation>
     </message>
 </context>
 <context>
@@ -10731,12 +10735,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="14"/>
         <source>Library Editor</source>
-        <translation type="unfinished"/>
+        <translation>Редактор бібліотеки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.ui" line="48"/>
         <source>This is a remote library and thus opened in read-only mode. Use a local library to manage your own library elements. To override remote library elements, copy them to a local library and set a higher version number.</source>
-        <translation type="unfinished"/>
+        <translation>Це віддалена бібліотека, тому вона відкрита у режимі тільки для читання. Використовуйте локальну бібліотеку для керування власними елементами бібліотеки. Щоб перевизначити елементи віддаленої бібліотеки, скопіюйте їх до локальної бібліотеки і встановіть вищий номер версії.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="89"/>
@@ -10746,17 +10750,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="221"/>
         <source> [Read-Only]</source>
-        <translation type="unfinished"/>
+        <translation> [Тільки для читання]</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="222"/>
         <source>%1 - LibrePCB Library Editor</source>
-        <translation type="unfinished"/>
+        <translation>%1 - Редактор бібліотек LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="393"/>
         <source>Failed to open category</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося відкрити категорію</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="434"/>
@@ -10767,7 +10771,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="437"/>
         <source>Unsaved changes</source>
-        <translation type="unfinished"/>
+        <translation>Незбережені зміни</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="727"/>
@@ -10787,7 +10791,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="763"/>
         <source>Filter elements...</source>
-        <translation type="unfinished"/>
+        <translation>Фільтруючі елементи...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="778"/>
@@ -10835,22 +10839,22 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="160"/>
         <source>Created:</source>
-        <translation type="unfinished"/>
+        <translation>Створено:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="174"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Застарілий:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="195"/>
         <source>Library Type:</source>
-        <translation type="unfinished"/>
+        <translation>Тип бібліотеки:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="209"/>
         <source>Dependencies:</source>
-        <translation type="unfinished"/>
+        <translation>Залежності:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="229"/>
@@ -10860,37 +10864,37 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="256"/>
         <source>Open Library Editor</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити Редактор Бібліотек</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="263"/>
         <source>Remove this Library</source>
-        <translation type="unfinished"/>
+        <translation>Видалити цю бібліотеку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="90"/>
         <source>Yes - Consider switching to another library.</source>
-        <translation type="unfinished"/>
+        <translation>Так - Розглянути перехід на іншу бібліотеку.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="91"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Ні</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="94"/>
         <source>Remote</source>
-        <translation type="unfinished"/>
+        <translation>Віддалений</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="94"/>
         <source>Local</source>
-        <translation type="unfinished"/>
+        <translation>Локальний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="133"/>
         <source>Remove Library</source>
-        <translation type="unfinished"/>
+        <translation>Видалити бібліотеку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="134"/>
@@ -10917,7 +10921,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/librarylisteditorwidget.cpp" line="55"/>
         <source>Click here a add a new dependency</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть тут, щоб додати нову залежність</translation>
     </message>
 </context>
 <context>
@@ -10930,12 +10934,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/librarylistwidgetitem.cpp" line="67"/>
         <source>Add a new library</source>
-        <translation type="unfinished"/>
+        <translation>Додати нову бібліотеку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/librarylistwidgetitem.cpp" line="68"/>
         <source>Click here to add a new library.</source>
-        <translation type="unfinished"/>
+        <translation>Клацніть тут, щоб додати нову бібліотеку.</translation>
     </message>
 </context>
 <context>
@@ -10953,7 +10957,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.cpp" line="155"/>
         <source>Could not load library list</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося завантажити список бібліотек</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.cpp" line="206"/>
@@ -10971,37 +10975,37 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="45"/>
         <source>Component Categories</source>
-        <translation type="unfinished"/>
+        <translation>Категорії компонентів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="85"/>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Символи</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="125"/>
         <source>Package Categories</source>
-        <translation type="unfinished"/>
+        <translation>Категорії упаковок</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="165"/>
         <source>Packages</source>
-        <translation type="unfinished"/>
+        <translation>Пакети</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="205"/>
         <source>Components</source>
-        <translation type="unfinished"/>
+        <translation>Компоненти</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="245"/>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Пристрої</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="325"/>
         <source>Click here to choose an icon (PNG, 256x256px).</source>
-        <translation type="unfinished"/>
+        <translation>Клацніть тут, щоб вибрати іконку (PNG, 256x256px).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="351"/>
@@ -11016,7 +11020,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="382"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Ключові слова:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="396"/>
@@ -11031,12 +11035,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="424"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Застарілий:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="431"/>
         <source>Library should no longer be used.</source>
-        <translation type="unfinished"/>
+        <translation>Бібліотеку більше не слід використовувати.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="445"/>
@@ -11046,22 +11050,22 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="459"/>
         <source>Dependencies:</source>
-        <translation type="unfinished"/>
+        <translation>Залежності:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="476"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Повідомлення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="203"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Некоректні метадані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="213"/>
         <source>Save failed</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося зберегти</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="618"/>
@@ -11073,12 +11077,12 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="631"/>
         <source>This cannot be undone!</source>
-        <translation type="unfinished"/>
+        <translation>Це неможливо скасувати!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="635"/>
         <source>Remove %1 elements</source>
-        <translation type="unfinished"/>
+        <translation>Вилучити елементи %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="647"/>
@@ -11099,32 +11103,32 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="672"/>
         <source>Note: This cannot be easily undone!</source>
-        <translation type="unfinished"/>
+        <translation>Примітка: Це не можливо легко відмінити!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="676"/>
         <source>Move %1 elements</source>
-        <translation type="unfinished"/>
+        <translation>Перемістити %1 елементів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="676"/>
         <source>Copy %1 elements</source>
-        <translation type="unfinished"/>
+        <translation>Копіювати %1 елементів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="747"/>
         <source>Choose library icon</source>
-        <translation type="unfinished"/>
+        <translation>Вибрати піктограму бібліотеки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="749"/>
         <source>Portable Network Graphics (*.png)</source>
-        <translation type="unfinished"/>
+        <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="755"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося відкрити файл</translation>
     </message>
 </context>
 <context>
@@ -11132,27 +11136,27 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="253"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"/>
+        <translation>Скопійовано до буферу обміну: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="470"/>
         <source>(press %1 to disable snap)</source>
-        <translation type="unfinished"/>
+        <translation>(натисніть %1, щоб вимкнути прив&apos;язку)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="475"/>
         <source>Press %1 to copy the value to clipboard or %2 to clear the measurement</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть %1, щоб скопіювати значення до буферу обміну, або %2, щоб очистити вимірювання</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="480"/>
         <source>Click to specify the end point</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть, щоб вказати кінцеву точку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="483"/>
         <source>Click to specify the start point</source>
-        <translation type="unfinished"/>
+        <translation>Клацніть, щоб вказати початкову точку</translation>
     </message>
 </context>
 <context>
@@ -11160,7 +11164,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="67"/>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Не показувати знову</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="70"/>
@@ -11388,7 +11392,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="14"/>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="17"/>
         <source>Device Properties</source>
-        <translation type="unfinished"/>
+        <translation>Властивості пристрою</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="20"/>
@@ -11398,7 +11402,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="26"/>
         <source>Component</source>
-        <translation type="unfinished"/>
+        <translation>Компонент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="60"/>
@@ -11409,7 +11413,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="95"/>
         <source>Package</source>
-        <translation type="unfinished"/>
+        <translation>Упаковка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="110"/>
@@ -11454,7 +11458,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="43"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Ключові слова:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="50"/>
@@ -11494,12 +11498,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="161"/>
         <source>Choose category</source>
-        <translation type="unfinished"/>
+        <translation>Оберіть категорію</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="183"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Скинути</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.cpp" line="215"/>
@@ -11860,7 +11864,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="66"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Ключові слова:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="80"/>
@@ -11875,7 +11879,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="108"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Застарілий:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="115"/>
@@ -11890,27 +11894,27 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="169"/>
         <source>Choose category</source>
-        <translation type="unfinished"/>
+        <translation>Оберіть категорію</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="197"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Скинути</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="213"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Повідомлення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.cpp" line="119"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Невірні метадані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.cpp" line="129"/>
         <source>Save failed</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося зберегти</translation>
     </message>
 </context>
 <context>
@@ -12152,12 +12156,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="551"/>
         <source>Click to specify the start point</source>
-        <translation type="unfinished"/>
+        <translation>Клацніть, щоб вказати початкову точку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="554"/>
         <source>Click to specify the end point</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть, щоб вказати кінцеву точку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="558"/>
@@ -12256,7 +12260,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="212"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Ключові слова:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="226"/>
@@ -12271,7 +12275,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="254"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Застарілий:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="261"/>
@@ -12281,12 +12285,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="268"/>
         <source>Categories:</source>
-        <translation type="unfinished"/>
+        <translation>Категорії:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="278"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Повідомлення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="305"/>
@@ -12326,12 +12330,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="326"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Невірні метадані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="337"/>
         <source>Save failed</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося зберегти</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="677"/>
@@ -12419,7 +12423,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="486"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Попередження</translation>
     </message>
 </context>
 <context>
@@ -12427,7 +12431,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadcombobox.cpp" line="71"/>
         <source>(unconnected)</source>
-        <translation type="unfinished"/>
+        <translation>(нез&apos;єднана)</translation>
     </message>
 </context>
 <context>
@@ -12697,12 +12701,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="64"/>
         <source>Created:</source>
-        <translation type="unfinished"/>
+        <translation>Створено:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="79"/>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Атрибути</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="104"/>
@@ -12961,7 +12965,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="741"/>
         <source>Components</source>
-        <translation type="unfinished"/>
+        <translation>Компоненти</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1034"/>
@@ -13042,7 +13046,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="91"/>
         <source>Value:</source>
-        <translation type="unfinished"/>
+        <translation>Значення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="155"/>
@@ -13203,7 +13207,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematicpagesdock.ui" line="20"/>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Сторінки</translation>
     </message>
 </context>
 <context>
@@ -13257,12 +13261,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="127"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Розташування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="144"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Обертання:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="156"/>
@@ -13277,7 +13281,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="174"/>
         <source>Mirror</source>
-        <translation type="unfinished"/>
+        <translation>Віддзеркалити</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="181"/>
@@ -13343,7 +13347,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="79"/>
         <source>Length:</source>
-        <translation type="unfinished"/>
+        <translation>Довжина:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="109"/>
@@ -13471,12 +13475,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="550"/>
         <source>Click to specify the start point</source>
-        <translation type="unfinished"/>
+        <translation>Клацніть, щоб вказати початкову точку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="553"/>
         <source>Click to specify the end point</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть, щоб вказати кінцеву точку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="557"/>
@@ -13565,7 +13569,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="128"/>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Ключові слова:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="142"/>
@@ -13580,7 +13584,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="170"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Застарілий:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="177"/>
@@ -13590,22 +13594,22 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="184"/>
         <source>Categories:</source>
-        <translation type="unfinished"/>
+        <translation>Категорії:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.ui" line="201"/>
         <source>Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Повідомлення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="257"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"/>
+        <translation>Невірні метадані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="268"/>
         <source>Save failed</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося зберегти</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="381"/>
@@ -13639,17 +13643,17 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="57"/>
         <source>Pos. X:</source>
-        <translation type="unfinished"/>
+        <translation>Поз. X:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="64"/>
         <source>Pos. Y:</source>
-        <translation type="unfinished"/>
+        <translation>Поз. Y:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="71"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Обертання:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="78"/>
@@ -13669,7 +13673,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="148"/>
         <source>Library Elements</source>
-        <translation type="unfinished"/>
+        <translation>Бібліотечні елементи</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="166"/>
@@ -13684,22 +13688,22 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="233"/>
         <source>Component</source>
-        <translation type="unfinished"/>
+        <translation>Компонент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="252"/>
         <source>Value:</source>
-        <translation type="unfinished"/>
+        <translation>Значення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="281"/>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Атрибути</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="76"/>
         <source>Properties of %1</source>
-        <translation type="unfinished"/>
+        <translation>Властивості %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="97"/>
@@ -13709,7 +13713,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="220"/>
         <source>Change properties of %1</source>
-        <translation type="unfinished"/>
+        <translation>Змінити властивості %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="250"/>
@@ -13732,7 +13736,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="39"/>
         <source>Length:</source>
-        <translation type="unfinished"/>
+        <translation>Довжина:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="51"/>
@@ -13747,12 +13751,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="63"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Розташування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="80"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Обертання:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="97"/>
@@ -13815,12 +13819,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="72"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Розташування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="89"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Обертання:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.cpp" line="139"/>
@@ -13884,12 +13888,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="43"/>
         <source>Device:</source>
-        <translation type="unfinished"/>
+        <translation>Пристрій:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="50"/>
         <source>Footprint:</source>
-        <translation type="unfinished"/>
+        <translation>Футпрінт</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="71"/>
@@ -13954,7 +13958,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="228"/>
         <source>Component</source>
-        <translation type="unfinished"/>
+        <translation>Компонент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="230"/>
@@ -13993,7 +13997,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="33"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Загальний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="39"/>
@@ -14013,7 +14017,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="93"/>
         <source>User Name:</source>
-        <translation type="unfinished"/>
+        <translation>Ім&apos;я користувача:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="114"/>
@@ -14024,7 +14028,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="130"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Це ім&apos;я буде використовуватись як автор при створенні нових проектів або бібліотек.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="142"/>
@@ -14195,7 +14199,7 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="72"/>
         <source>System Language</source>
-        <translation type="unfinished"/>
+        <translation>Мова системи</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="92"/>
@@ -14261,13 +14265,13 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="284"/>
         <source>Dots</source>
         <comment>Grid style</comment>
-        <translation type="unfinished"/>
+        <translation>Точки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="286"/>
         <source>Lines</source>
         <comment>Grid style</comment>
-        <translation type="unfinished"/>
+        <translation>Лінії</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="290"/>
@@ -14329,7 +14333,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="611"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Скинути</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="614"/>
