@@ -1910,7 +1910,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="739"/>
         <source>View/modify the object properties</source>
-        <translation type="unfinished"/>
+        <translation>Переглянути/змінити властивості об&apos;єкту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="747"/>
@@ -1920,12 +1920,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="748"/>
         <source>Rename the selected object</source>
-        <translation type="unfinished"/>
+        <translation>Перейменуйте вибраний об&apos;єкт</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="757"/>
         <source>Delete the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>Видалити вибраний об&apos;єкт(и)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="764"/>
@@ -2285,7 +2285,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1081"/>
         <source>Go To Command Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Перейти До Панелі Команд</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1082"/>
@@ -2516,7 +2516,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1291"/>
         <source>Wire mode: Straight line</source>
-        <translation type="unfinished"/>
+        <translation>Режим проводу: пряма лінія</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1299"/>
@@ -2571,7 +2571,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1339"/>
         <source>Add standard component: Resistor</source>
-        <translation type="unfinished"/>
+        <translation>Додати стандартний компонент: Резистор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1347"/>
@@ -2581,7 +2581,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1348"/>
         <source>Add standard component: Inductor</source>
-        <translation type="unfinished"/>
+        <translation>Додати стандартний елемент: Індуктивність</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1356"/>
@@ -2641,7 +2641,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1404"/>
         <source>Electrical Rule Check (ERC)</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка електричних правил (ERC)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1405"/>
@@ -2651,7 +2651,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1413"/>
         <source>Design Rule Check (DRC)</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка правил проектування (DRC)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1414"/>
@@ -2761,7 +2761,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1508"/>
         <source>Close the whole application</source>
-        <translation type="unfinished"/>
+        <translation>Закрити всю програму</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1515"/>
@@ -2786,7 +2786,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1529"/>
         <source>Show information about Qt</source>
-        <translation type="unfinished"/>
+        <translation>Показати інформацію про Qt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1537"/>
@@ -2831,7 +2831,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1568"/>
         <source>Create a new folder</source>
-        <translation type="unfinished"/>
+        <translation>Створити нову папку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1576"/>
@@ -2841,7 +2841,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1577"/>
         <source>Add project to favorites</source>
-        <translation type="unfinished"/>
+        <translation>Додати проект до обраного</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1585"/>
@@ -2851,7 +2851,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1586"/>
         <source>Remove project from favorites</source>
-        <translation type="unfinished"/>
+        <translation>Видалити проект зі списку обраних</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1594"/>
@@ -3018,7 +3018,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="48"/>
         <source>Unused net class: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Невикористаний клас мережі: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="49"/>
@@ -3453,7 +3453,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="187"/>
         <source>Copy to Other Library</source>
-        <translation type="unfinished"/>
+        <translation>Скопіювати до Іншої Бібліотеки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="189"/>
@@ -3463,7 +3463,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="196"/>
         <source>Move to Other Library</source>
-        <translation type="unfinished"/>
+        <translation>Перемістити до Іншої Бібліотеки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="198"/>
@@ -3489,7 +3489,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="66"/>
         <source>Duplicate pad name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Дублювання імені паду: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="67"/>
@@ -3626,7 +3626,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="78"/>
         <source>No component prefix set</source>
-        <translation type="unfinished"/>
+        <translation>Префікс компонента не задано</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="79"/>
@@ -3717,7 +3717,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="92"/>
         <source>No symbol variant defined</source>
-        <translation type="unfinished"/>
+        <translation>Варіант символу не задано</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="93"/>
@@ -4682,7 +4682,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/utils/mathparser.cpp" line="67"/>
         <source>Failed to parse expression:</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалось проаналізувати вираз:</translation>
     </message>
 </context>
 <context>
@@ -4733,7 +4733,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="121"/>
         <source>Failed to copy files:</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалось скопіювати файли:</translation>
     </message>
 </context>
 <context>
@@ -8392,7 +8392,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="208"/>
         <source>Could not load component metadata</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося завантажити метадані компонента</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="268"/>
@@ -8795,7 +8795,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="281"/>
         <source>Add a new symbol variant</source>
-        <translation type="unfinished"/>
+        <translation>Додати новий варіант символу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="400"/>
@@ -8808,7 +8808,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistwidget.cpp" line="147"/>
         <source>Could not edit symbol variant</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося змінити варіант символу</translation>
     </message>
 </context>
 <context>
@@ -8852,7 +8852,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="77"/>
         <source>Control Panel - LibrePCB %1</source>
-        <translation type="unfinished"/>
+        <translation>Панель керування - LibrePCB %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="82"/>
@@ -11831,7 +11831,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="202"/>
         <source>Success! Open %1 to continue.</source>
         <comment>Placeholder is an URL with hyperlink.</comment>
-        <translation type="unfinished"/>
+        <translation>Успіх! Відкрийте %1, щоб продовжити.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="212"/>
@@ -11947,7 +11947,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="211"/>
         <source>Could not load package metadata</source>
-        <translation type="unfinished"/>
+        <translation>Неможливо завантажити метадані пакета</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="246"/>
@@ -12393,7 +12393,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="309"/>
         <source>Add a new 3D model</source>
-        <translation type="unfinished"/>
+        <translation>Додати нову 3D-модель</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="443"/>
@@ -12570,7 +12570,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="263"/>
         <source>Error while saving the project</source>
-        <translation type="unfinished"/>
+        <translation>Помилка під час збереження проекту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="311"/>
@@ -12881,7 +12881,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/rulechecklistwidget.h" line="125"/>
         <source>Mark/unmark this message as approved</source>
-        <translation type="unfinished"/>
+        <translation>Позначити/відзначити це повідомлення як затверджене</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/rulechecklistwidget.h" line="136"/>
@@ -12899,7 +12899,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/rulechecklistwidget.cpp" line="135"/>
         <source>Looks good so far :-)</source>
-        <translation type="unfinished"/>
+        <translation>Виглядає добре наразі :-)</translation>
     </message>
 </context>
 <context>
@@ -12917,7 +12917,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="127"/>
         <source>%1 - LibrePCB Schematic Editor</source>
-        <translation type="unfinished"/>
+        <translation>%1 - Редактор схем LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="159"/>
