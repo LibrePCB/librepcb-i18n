@@ -3438,17 +3438,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="171"/>
         <source>Change &amp;Device</source>
-        <translation type="unfinished"/>
+        <translation>Змінити &amp;Пристрій</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="176"/>
         <source>Change &amp;Footprint</source>
-        <translation type="unfinished"/>
+        <translation>Змінити &amp;Відбиток</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="181"/>
         <source>Change 3D &amp;Model</source>
-        <translation type="unfinished"/>
+        <translation>Змінити 3D &amp;Модель</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="187"/>
@@ -3458,7 +3458,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="189"/>
         <source>Create a copy of this element (preserving UUIDs) in another library</source>
-        <translation type="unfinished"/>
+        <translation>Створити копію цього елемента (зберігаючи UUID) в іншій бібліотеці</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="196"/>
@@ -3468,7 +3468,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="198"/>
         <source>Move this element to another library</source>
-        <translation type="unfinished"/>
+        <translation>Перемістити цей елемент в іншу бібліотеку</translation>
     </message>
 </context>
 <context>
@@ -3481,7 +3481,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="41"/>
         <source>The assembly type &apos;Auto-detect&apos; is not recommended as the detection might not be correct in every case. It&apos;s safer to specify the assembly type manually.</source>
-        <translation type="unfinished"/>
+        <translation>Тип монтажу &apos;Автоматичне визначення&apos; не рекомендується, оскільки визначення може бути неправильним у кожному випадку. Безпечніше вказати тип монтажу вручну.</translation>
     </message>
 </context>
 <context>
@@ -3496,7 +3496,9 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
-        <translation type="unfinished"/>
+        <translation>Усі пакетні пади повинні мати унікальні імена, інакше їх не можна буде відрізнити пізніше в редакторі пристроїв. Якщо ваша частина має кілька виводів з однаковою функціональністю (наприклад, кілька виводів GND), ви можете призначити всі ці пади для тієї ж сигналу компонента пізніше в редакторі пристроїв.
+
+Для нейтральних пакунків (наприклад, SOT23) пади повинні мати імена тільки за номерами, а не за функціональністю (наприклад, назвіть їх &apos;1&apos;, &apos;2&apos;, &apos;3&apos; замість &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</translation>
     </message>
 </context>
 <context>
@@ -3504,12 +3506,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="41"/>
         <source>Duplicate pin name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Дублювання імені піна: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="42"/>
         <source>All symbol pins must have unique names, otherwise they cannot be distinguished later in the component editor. If your part has several pins with same functionality (e.g. multiple GND pins), you should add only one of these pins to the symbol. The assignment to multiple leads should be done in the device editor instead.</source>
-        <translation type="unfinished"/>
+        <translation>Усі піни символу повинні мати унікальні імена, інакше їх не можна буде відрізнити пізніше в редакторі компонентів. Якщо ваша частина має кілька виводів з однаковою функціональністю (наприклад, кілька виводів GND), ви повинні додати лише один з цих пінів до символу. Призначення для кількох виводів повинно бути зроблено в редакторі пристроїв.</translation>
     </message>
 </context>
 <context>
@@ -3517,12 +3519,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="41"/>
         <source>Duplicate signal name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Дублювання імені сигналу: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="42"/>
         <source>All component signals must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several pins which are electrically exactly equal (e.g. multiple GND pins), you should add only one of these pins as a component signal. The assignment to multiple pins should be done in the device editor instead.</source>
-        <translation type="unfinished"/>
+        <translation>Усі сигнали компонента повинні мати унікальні імена, інакше їх не можна буде відрізнити пізніше в редакторі пристроїв. Якщо ваша частина має кілька виводів, які електрично точно рівні (наприклад, кілька виводів GND), ви повинні додати лише один з цих пінів як сигнал компонента. Призначення для кількох виводів повинно бути зроблено в редакторі пристроїв.</translation>
     </message>
 </context>
 <context>
@@ -3557,12 +3559,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="136"/>
         <source>No stop mask on %1 hole in &apos;%2&apos;</source>
         <comment>First placeholder is the hole diameter.</comment>
-        <translation type="unfinished"/>
+        <translation>Немає маски зупинки на отворі %1 в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="140"/>
         <source>Non-plated holes should have a stop mask opening to avoid solder resist flowing into the hole. An automatic stop mask opening can be enabled in the hole properties.</source>
-        <translation type="unfinished"/>
+        <translation>Неметалізовані отвори повинні мати відкриття маски зупинки, щоб уникнути потоку захисного лаку в отвір. Автоматичне відкриття маски зупинки можна ввімкнути в властивостях отвору.</translation>
     </message>
 </context>
 <context>
@@ -3570,12 +3572,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="162"/>
         <source>Invalid custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Недійсний користувальницький контур площадки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="164"/>
         <source>The pad has set a custom outline which does not represent a valid area. Either choose a different pad shape or specify a valid custom outline.</source>
-        <translation type="unfinished"/>
+        <translation>Площадка має встановлений користувальницький контур, який не представляє собою дійсну область. Виберіть іншу форму площадки або вкажіть дійсний користувальницький контур.</translation>
     </message>
 </context>
 <context>
@@ -3618,7 +3620,11 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
 Generic parts (e.g. a diode): %1
 Specific parts (e.g. a microcontroller): %2
 Passive parts: Using an attribute, e.g. %3</source>
-        <translation type="unfinished"/>
+        <translation>Більшість компонентів повинні мати встановлене значення за замовчуванням. Значення за замовчуванням стає значенням компонента при додаванні його до схеми. Воно також може містити заповнювачі, які пізніше замінюються в схемі. Значення за замовчуванням, які часто використовуються:
+
+Загальні частини (наприклад, діод): %1
+Конкретні частини (наприклад, мікроконтролер): %2
+Пасивні частини: Використання атрибута, наприклад, %3</translation>
     </message>
 </context>
 <context>
@@ -3631,7 +3637,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="79"/>
         <source>Most components should have a prefix defined. The prefix is used to generate the component&apos;s name when adding it to a schematic. For example the prefix &apos;R&apos; (resistor) leads to component names &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos; etc.</source>
-        <translation type="unfinished"/>
+        <translation>Більшість компонентів повинні мати визначений префікс. Префікс використовується для генерації імені компонента при додаванні його до схеми. Наприклад, префікс &apos;R&apos; (резистор) призводить до імен компонентів &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos; тощо.</translation>
     </message>
 </context>
 <context>
@@ -3639,12 +3645,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="183"/>
         <source>No footprint defined</source>
-        <translation type="unfinished"/>
+        <translation>Відсутній відбиток</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="184"/>
         <source>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</source>
-        <translation type="unfinished"/>
+        <translation>Кожний пакет повинен мати принаймні один відбиток, інакше його не можна додати до плати.</translation>
     </message>
 </context>
 <context>
@@ -3652,12 +3658,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="197"/>
         <source>No 3D model defined for &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Не визначено 3D-моделі для &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="199"/>
         <source>The footprint has no 3D model specified, so the package will be missing in the 3D viewer and in 3D data exports. However, this has no impact on the PCB production data.</source>
-        <translation type="unfinished"/>
+        <translation>Відбиток не має вказаної 3D-моделі, тому пакет буде відсутній у 3D-переглядачі та у 3D-експортах даних. Однак це не впливає на виробничі дані плати.</translation>
     </message>
 </context>
 <context>
@@ -3665,12 +3671,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="216"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Відсутній текст &apos;%1&apos; в відбитку &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="218"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Більшість відбитків повинні мати текстовий елемент для імені компонента, інакше ви не побачите це ім&apos;я на платі (наприклад, на шовкографії). Є лише кілька винятків, які не потребують імені (наприклад, якщо відбиток є лише малюнком), для них ви можете ігнорувати це повідомлення.</translation>
     </message>
 </context>
 <context>
@@ -3678,12 +3684,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="237"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Відсутній текст &apos;%1&apos; в відбитку &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="239"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Більшість відбитків повинні мати текстовий елемент для значення компонента, інакше ви не побачите це значення на платі (наприклад, на шовкографії). Є лише кілька винятків, які не потребують значення (наприклад, якщо відбиток є лише малюнком), для них ви можете ігнорувати це повідомлення.</translation>
     </message>
 </context>
 <context>
@@ -3691,12 +3697,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="57"/>
         <source>Missing text: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Відсутній текст: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="58"/>
         <source>Most symbols should have a text element for the component&apos;s name, otherwise you won&apos;t see that name in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a name, for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Більшість символів повинні мати текстовий елемент для імені компонента, інакше ви не побачите це ім&apos;я в схемі. Є лише кілька винятків (наприклад, рамка схеми), які не потребують імені, для них ви можете ігнорувати це повідомлення.</translation>
     </message>
 </context>
 <context>
@@ -3704,12 +3710,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="71"/>
         <source>Missing text: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Відсутній текст: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="72"/>
         <source>Most symbols should have a text element for the component&apos;s value, otherwise you won&apos;t see that value in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a value, for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Більшість символів повинні мати текстовий елемент для значення компонента, інакше ви не побачите це значення в схемі. Є лише кілька винятків (наприклад, рамка схеми), які не потребують значення, для них ви можете ігнорувати це повідомлення.</translation>
     </message>
 </context>
 <context>
@@ -3722,7 +3728,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="93"/>
         <source>Every component requires at least one symbol variant, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Кожен компонент повинен мати принаймні один варіант символу, інакше його не можна додати до схеми.</translation>
     </message>
 </context>
 <context>
@@ -3730,12 +3736,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="106"/>
         <source>Symbol variant &apos;%1&apos; has no items</source>
-        <translation type="unfinished"/>
+        <translation>Варіант символу &apos;%1&apos; не має елементів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="108"/>
         <source>Every symbol variant requires at least one symbol item, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Кожен варіант символу повинен мати принаймні один елемент символу, інакше його не можна додати до схеми.</translation>
     </message>
 </context>
 <context>
@@ -3743,12 +3749,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/librarybaseelementcheckmessages.cpp" line="48"/>
         <source>Name not title case: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Ім&apos;я не великими літерами: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/librarybaseelementcheckmessages.cpp" line="49"/>
         <source>Generally the library element name should be written in title case (for consistency). As the current name has words starting with a lowercase character, it seems that it is not title cases. If this assumption is wrong, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Зазвичай ім&apos;я елемента бібліотеки повинно бути написано великими літерами (для послідовності). Оскільки поточне ім&apos;я має слова, що починаються з малої літери, здається, що це не великі літери. Якщо це припущення неправильне, просто ігноруйте це повідомлення.</translation>
     </message>
 </context>
 <context>
@@ -3756,7 +3762,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="37"/>
         <source>No pads connected</source>
-        <translation type="unfinished"/>
+        <translation>Немає підключених падів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="38"/>
@@ -3765,7 +3771,11 @@ Passive parts: Using an attribute, e.g. %3</source>
 To fix this issue, connect the package pads to their corresponding component signals in the table widget.
 
 If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
-        <translation type="unfinished"/>
+        <translation>Обраний пакунок містить пади, але жоден з них не підключений до сигналів компонента. Таким чином, ці пади не мають електричної функції, і при додаванні пристрою до плати не можна підключити до них жодних слідів. 
+
+Щоб виправити цю проблему, підключіть пади пакунка до відповідних сигналів компонента в таблиці.
+
+Якщо всі пади мають лише механічну мету і, таким чином, не потребують підключення до сигналів компонента, це повідомлення можна ігнорувати.</translation>
     </message>
 </context>
 <context>
@@ -3773,12 +3783,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="261"/>
         <source>Overlapping pads &apos;%1&apos; and &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Перекриття падів &apos;%1&apos; і &apos;%2&apos; в &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="264"/>
         <source>The copper area of two pads overlap. This can lead to serious issues with the design rule check and probably leads to a short circuit in the board so this really needs to be fixed.</source>
-        <translation type="unfinished"/>
+        <translation>Мідна область двох падів перекривається. Це може призвести до серйозних проблем з перевіркою правил проектування і, ймовірно, призведе до короткого замикання на платі, тому це дійсно потрібно виправити.</translation>
     </message>
 </context>
 <context>
@@ -3786,12 +3796,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="87"/>
         <source>There are multiple pins at the same position. This is not allowed because you cannot connect wires to these pins in the schematic editor.</source>
-        <translation type="unfinished"/>
+        <translation>Є кілька контактів в одній позиції. Це не дозволяється, оскільки ви не можете підключити дроти до цих контактів в редакторі схем.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="112"/>
         <source>Overlapping pins: %1</source>
-        <translation type="unfinished"/>
+        <translation>Перекриття контактів: %1</translation>
     </message>
 </context>
 <context>
@@ -3799,12 +3809,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="283"/>
         <source>Annular ring of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Кільце паду &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="285"/>
         <source>Pads should have at least %1 annular ring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</source>
-        <translation type="unfinished"/>
+        <translation>Пади повинні мати принаймні %1 кільце (мідь навколо кожного отвору паду). Зверніть увагу, що це значення є лише загальною рекомендацією, точне значення залежить від можливостей виробника плат.</translation>
     </message>
 </context>
 <context>
@@ -3812,12 +3822,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="310"/>
         <source>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Проміжок паду &apos;%1&apos; до паду &apos;%2&apos; в &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="313"/>
         <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
-        <translation type="unfinished"/>
+        <translation>Пади повинні мати принаймні %1 проміжок між собою. У деяких ситуаціях може знадобитися використання менших проміжків, але не всі виробники плат можуть надійно виробляти такі малі проміжки, тому зазвичай це слід уникати.</translation>
     </message>
 </context>
 <context>
@@ -3825,12 +3835,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="340"/>
         <source>Hole outside copper of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Отвір поза міддю паду &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="342"/>
         <source>All THT pad holes must be fully surrounded by copper, otherwise they could lead to serious issues during the design rule check or manufacturing process.</source>
-        <translation type="unfinished"/>
+        <translation>Всі отвори падів THT повинні повністю оточуватися міддю, інакше вони можуть призвести до серйозних проблем під час перевірки правил проектування або процесу виготовлення.</translation>
     </message>
 </context>
 <context>
@@ -3838,14 +3848,16 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="364"/>
         <source>Invalid origin of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Недійсний початок паду &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="366"/>
         <source>The origin of each pad must be located within its copper area, otherwise traces won't be connected properly.
 
 For THT pads, the origin must be located within a drill hole since on some layers the pad might only have a small annular ring instead of the full pad shape.</source>
-        <translation type="unfinished"/>
+        <translation>Початок кожного паду повинен розташовуватися всередині його мідної області, інакше сліди не будуть правильно з&apos;єднані.
+
+Для падів THT початок повинен розташовуватися всередині отвору для свердління, оскільки на деяких шарах пад може мати лише невелике кільце замість повної форми паду.</translation>
     </message>
 </context>
 <context>
@@ -3853,12 +3865,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="391"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to placement layer</source>
-        <translation type="unfinished"/>
+        <translation>Кліренс паду &apos;%1&apos; в &apos;%2&apos; до шару розміщення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="393"/>
         <source>Pads should have at least %1 clearance to the outlines layer because outlines are drawn on silkscreen which will be cropped for Gerber export.</source>
-        <translation type="unfinished"/>
+        <translation>Пади повинні мати принаймні %1 проміжок до шару контурів, оскільки контури намальовані на шовкографії, яка буде обрізана для експорту Gerber.</translation>
     </message>
 </context>
 <context>
@@ -3866,12 +3878,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="416"/>
         <source>Solder resist on pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Паяльна маска на паді &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="418"/>
         <source>There&apos;s no stop mask opening enabled on the pad, so the copper pad will be covered by solder resist and is thus not functional. This is very unusual, you should double-check if this is really what you want.</source>
-        <translation type="unfinished"/>
+        <translation>На паді не включено відкриття маски зупинки, тому мідний пад буде покритий паяльною маскою і, отже, не функціональний. Це дуже незвичайно, вам слід перевірити, чи саме це ви хочете.</translation>
     </message>
 </context>
 <context>
@@ -3879,12 +3891,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="441"/>
         <source>Copper clearance &gt;0 on pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Кліренс міді &gt;0 на паді &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="443"/>
         <source>There is a custom copper clearance enabled on the pad, which is unusual for pads which do not represent a fiducial. Note that the clearance value from the board design rules is applied to all pads anyway, thus manual clearance values are usually not needed. If this pad is a fiducial, make sure to set its function to the corresponding value.</source>
-        <translation type="unfinished"/>
+        <translation>На паді включено власний кліренс міді, що незвичайно для падів, які не є фідуціалами. Зверніть увагу, що значення кліренсу з правил проекту плати все одно застосовується до всіх падів, тому звичайно не потрібні вручну встановлені значення кліренсу. Якщо цей пад є фідуціалом, переконайтеся, що встановлено відповідне значення його функції.</translation>
     </message>
 </context>
 <context>
@@ -3892,12 +3904,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="468"/>
         <source>Solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Паяльна паста на SMT паді &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="470"/>
         <source>The SMT pad has solder paste enabled, but its function indicates that there&apos;s no lead to be soldered on it (e.g. a fiducial). Usually solder paste is not desired on such special pads which won&apos;t be soldered.</source>
-        <translation type="unfinished"/>
+        <translation>На SMT паді включена паяльна паста, але його функція вказує на те, що на ньому немає свинцю для паяння (наприклад, фідуціал). Зазвичай паяльна паста не потрібна на таких спеціальних падах, які не будуть паяні.</translation>
     </message>
 </context>
 <context>
@@ -3905,12 +3917,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="493"/>
         <source>No solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Немає паяльної пасти на SMT паді &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="495"/>
         <source>The SMT pad has no solder paste enabled, which is unusual since without solder paste the pad cannot be reflow soldered. Only use this if there&apos;s no lead to be soldered on that pad, or if you have drawn a manual solder paste area.</source>
-        <translation type="unfinished"/>
+        <translation>На SMT паді немає включеної паяльної пасти, що незвичайно, оскільки без паяльної пасти пад не може бути паяним методом рефлоу. Використовуйте це лише тоді, коли на цьому паді немає свинцю для паяння, або якщо ви намалювали власну область паяльної пасти.</translation>
     </message>
 </context>
 <context>
@@ -11630,7 +11642,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="78"/>
         <source>None</source>
-        <translation>Нічого</translation>
+        <translation>Немає</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="79"/>
@@ -11761,7 +11773,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="227"/>
         <source>Install</source>
-        <translation>Встановлювати</translation>
+        <translation>Встановити</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="231"/>
