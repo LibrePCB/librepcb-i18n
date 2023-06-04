@@ -1875,7 +1875,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="711"/>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1639"/>
         <source>Lock Placement</source>
-        <translation type="unfinished"/>
+        <translation>Блокувати розташування</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="712"/>
@@ -1885,7 +1885,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="720"/>
         <source>Unlock Placement</source>
-        <translation type="unfinished"/>
+        <translation>Розблокувати розташування</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="721"/>
@@ -1895,7 +1895,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="729"/>
         <source>Reset All Texts</source>
-        <translation type="unfinished"/>
+        <translation>Скинути Всі Тексти</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="730"/>
@@ -1915,7 +1915,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="747"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Перейменувати</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="748"/>
@@ -2030,57 +2030,57 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="852"/>
         <source>Draw Line</source>
-        <translation type="unfinished"/>
+        <translation>Малювати лінію</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="853"/>
         <source>Draw graphical lines</source>
-        <translation type="unfinished"/>
+        <translation>Малювати графічні лінії</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="861"/>
         <source>Draw Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Намалювати прямокутник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="862"/>
         <source>Draw graphical rectangles</source>
-        <translation type="unfinished"/>
+        <translation>Малювати графічні прямокутники</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="870"/>
         <source>Draw Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Малювати багатокутник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="871"/>
         <source>Draw graphical polygons</source>
-        <translation type="unfinished"/>
+        <translation>Малювати графічні полігони</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="879"/>
         <source>Draw Circle</source>
-        <translation type="unfinished"/>
+        <translation>Намалювати коло</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="880"/>
         <source>Draw graphical circles</source>
-        <translation type="unfinished"/>
+        <translation>Малювати графічні кола</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="888"/>
         <source>Draw Arc</source>
-        <translation type="unfinished"/>
+        <translation>Намалювати дугу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="889"/>
         <source>Draw graphical arcs</source>
-        <translation type="unfinished"/>
+        <translation>Малювати графічні дуги</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="897"/>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>Додати текст</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="898"/>
@@ -2090,7 +2090,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="906"/>
         <source>Add Name</source>
-        <translation type="unfinished"/>
+        <translation>Додати ім&apos;я</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="907"/>
@@ -2100,7 +2100,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="915"/>
         <source>Add Value</source>
-        <translation type="unfinished"/>
+        <translation>Додати значення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="916"/>
@@ -2110,7 +2110,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="924"/>
         <source>Add Pin</source>
-        <translation type="unfinished"/>
+        <translation>Додати вивід</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="925"/>
@@ -2120,7 +2120,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="933"/>
         <source>Add THT Pad</source>
-        <translation type="unfinished"/>
+        <translation>Додати THT підошву</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="934"/>
@@ -2130,7 +2130,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="942"/>
         <source>Add SMT Pad</source>
-        <translation type="unfinished"/>
+        <translation>Додати SMT підошву</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="943"/>
@@ -2140,7 +2140,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="951"/>
         <source>Add Thermal Pad</source>
-        <translation type="unfinished"/>
+        <translation>Додати термоплідошву</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="952"/>
@@ -2150,7 +2150,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="960"/>
         <source>Add BGA Pad</source>
-        <translation type="unfinished"/>
+        <translation>Добавити BGA підошву</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="961"/>
@@ -2170,7 +2170,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="978"/>
         <source>Add Test Pad</source>
-        <translation type="unfinished"/>
+        <translation>Додати тест-підошву</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="979"/>
@@ -2200,7 +2200,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1005"/>
         <source>Add Hole</source>
-        <translation type="unfinished"/>
+        <translation>Додати Отвір</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1006"/>
@@ -2210,7 +2210,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1014"/>
         <source>Draw Wire</source>
-        <translation type="unfinished"/>
+        <translation>Малювати Дріт</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1015"/>
@@ -2220,7 +2220,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1024"/>
         <source>Add Net Label</source>
-        <translation type="unfinished"/>
+        <translation>Додати Позначку Мережі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1025"/>
@@ -2230,7 +2230,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1033"/>
         <source>Add Component</source>
-        <translation type="unfinished"/>
+        <translation>Додати Компонент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1034"/>
@@ -2240,7 +2240,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1042"/>
         <source>Draw Trace</source>
-        <translation type="unfinished"/>
+        <translation>Малювати Доріжку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1043"/>
@@ -2250,7 +2250,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1051"/>
         <source>Add Via</source>
-        <translation type="unfinished"/>
+        <translation>Додати Перехідний Отвір</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1052"/>
@@ -2260,7 +2260,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1060"/>
         <source>Draw Plane</source>
-        <translation type="unfinished"/>
+        <translation>Малювати Площину</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1061"/>
@@ -2270,7 +2270,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1069"/>
         <source>Measure Distance</source>
-        <translation type="unfinished"/>
+        <translation>Виміряти Відстань</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1070"/>
@@ -2280,7 +2280,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1078"/>
         <source>Commands</source>
-        <translation type="unfinished"/>
+        <translation>Команди</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1081"/>
@@ -2295,7 +2295,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1090"/>
         <source>Abort Command</source>
-        <translation type="unfinished"/>
+        <translation>Скасувати Команду</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1091"/>
@@ -2305,7 +2305,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1099"/>
         <source>Layer Up</source>
-        <translation type="unfinished"/>
+        <translation>Шар Вище</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1100"/>
@@ -2315,7 +2315,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1108"/>
         <source>Layer Down</source>
-        <translation type="unfinished"/>
+        <translation>Шар Нижче</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1109"/>
@@ -2325,7 +2325,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1117"/>
         <source>Increase Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Збільшити Ширину Лінії</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1118"/>
@@ -2335,7 +2335,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1126"/>
         <source>Decrease Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Зменшити Ширину Лінії</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1127"/>
@@ -2345,7 +2345,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1135"/>
         <source>Increase Size</source>
-        <translation type="unfinished"/>
+        <translation>Збільшити Розмір</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1136"/>
@@ -2355,7 +2355,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1144"/>
         <source>Decrease Size</source>
-        <translation type="unfinished"/>
+        <translation>Зменшити Розмір</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1145"/>
@@ -2365,7 +2365,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1153"/>
         <source>Increase Drill</source>
-        <translation type="unfinished"/>
+        <translation>Збільшити Свердло</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1154"/>
@@ -2375,7 +2375,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1162"/>
         <source>Decrease Drill</source>
-        <translation type="unfinished"/>
+        <translation>Зменшити Свердло</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1163"/>
@@ -2385,7 +2385,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1171"/>
         <source>Toggle Auto-Width</source>
-        <translation type="unfinished"/>
+        <translation>Перемикнути Авто-Ширину</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1172"/>
@@ -2395,7 +2395,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1180"/>
         <source>Toggle Fill</source>
-        <translation type="unfinished"/>
+        <translation>Перемикнути заповнення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1181"/>
@@ -2405,7 +2405,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1189"/>
         <source>Toggle Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Перемикнути Зону Захоплення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1190"/>
@@ -2415,63 +2415,63 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1198"/>
         <source>Align Left</source>
-        <translation type="unfinished"/>
+        <translation>Вирівняти Ліворуч</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1199"/>
         <source>Horizontal alignment: Left</source>
-        <translation type="unfinished"/>
+        <translation>Горизонтальне вирівнювання: ліворуч</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1207"/>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1234"/>
         <source>Align Center</source>
-        <translation type="unfinished"/>
+        <translation>Вирівняти по центру</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1208"/>
         <source>Horizontal alignment: Center</source>
-        <translation type="unfinished"/>
+        <translation>Горизонтальне вирівнювання: по центру</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1216"/>
         <source>Align Right</source>
-        <translation type="unfinished"/>
+        <translation>Вирівняти праворуч</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1217"/>
         <source>Horizontal alignment: Right</source>
-        <translation type="unfinished"/>
+        <translation>Горизонтальне вирівнювання: праворуч</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1225"/>
         <source>Align Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Вирівняти по низу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1226"/>
         <source>Vertical alignment: Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Вертикальне вирівнювання: низ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1235"/>
         <source>Vertical alignment: Center</source>
-        <translation type="unfinished"/>
+        <translation>Вертикальне вирівнювання: Центр</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1243"/>
         <source>Align Top</source>
-        <translation type="unfinished"/>
+        <translation>Вирівняти по верху</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1244"/>
         <source>Vertical alignment: Top</source>
-        <translation type="unfinished"/>
+        <translation>Вертикальне вирівнювання: Верхнє</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1252"/>
         <source>Horizontal - Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Горизонтальний - Вертикальний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1253"/>
@@ -2481,7 +2481,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1262"/>
         <source>Vertical - Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Вертикальний - Горизонтальний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1263"/>
@@ -2491,7 +2491,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1272"/>
         <source>90° - 45°</source>
-        <translation type="unfinished"/>
+        <translation>90° - 45°</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1273"/>
@@ -2511,7 +2511,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1290"/>
         <source>Straight</source>
-        <translation type="unfinished"/>
+        <translation>Прямий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1291"/>
@@ -2521,22 +2521,22 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1299"/>
         <source>Round</source>
-        <translation type="unfinished"/>
+        <translation>Округлити</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1300"/>
         <source>Shape: Round</source>
-        <translation type="unfinished"/>
+        <translation>Форма: Кругла</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1308"/>
         <source>Rounded Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Закруглений прямокутник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1309"/>
         <source>Shape: Rounded Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Форма: закруглений прямокутник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1317"/>
@@ -2546,7 +2546,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1318"/>
         <source>Shape: Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Форма: прямокутник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1326"/>
@@ -2556,7 +2556,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1327"/>
         <source>Shape: Octagon</source>
-        <translation type="unfinished"/>
+        <translation>Форма: Октагон</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1335"/>
@@ -2566,7 +2566,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1338"/>
         <source>Resistor</source>
-        <translation type="unfinished"/>
+        <translation>Резистор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1339"/>
@@ -2576,7 +2576,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1347"/>
         <source>Inductor</source>
-        <translation type="unfinished"/>
+        <translation>Індуктивний елемент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1348"/>
@@ -2586,7 +2586,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1356"/>
         <source>Bipolar Capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Біполярний конденсатор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1357"/>
@@ -2596,7 +2596,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1365"/>
         <source>Unipolar Capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Уніполярний конденсатор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1366"/>
@@ -2606,7 +2606,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1374"/>
         <source>GND Supply</source>
-        <translation type="unfinished"/>
+        <translation>Живлення GND</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1375"/>
@@ -2616,7 +2616,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1383"/>
         <source>VCC Supply</source>
-        <translation type="unfinished"/>
+        <translation>Живлення VCC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1384"/>
@@ -2661,7 +2661,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1422"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>Шари</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1423"/>
@@ -2681,12 +2681,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1440"/>
         <source>Window Management</source>
-        <translation type="unfinished"/>
+        <translation>Управління Вікнами</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1444"/>
         <source>Next Tab/Page</source>
-        <translation type="unfinished"/>
+        <translation>Наступна Вкладка/Сторінка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1445"/>
@@ -2696,7 +2696,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1453"/>
         <source>Previous Tab/Page</source>
-        <translation type="unfinished"/>
+        <translation>Попередня Вкладка/Сторінка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1454"/>
@@ -2706,7 +2706,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1462"/>
         <source>Close Tab</source>
-        <translation type="unfinished"/>
+        <translation>Закрити Вкладку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1463"/>
@@ -2716,7 +2716,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1471"/>
         <source>Close All Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Закрити Всі Вкладки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1472"/>
@@ -2726,7 +2726,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1480"/>
         <source>Close Window</source>
-        <translation type="unfinished"/>
+        <translation>Закрити Вікно</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1481"/>
@@ -3168,7 +3168,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="104"/>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="182"/>
         <source>Comments</source>
-        <translation type="unfinished"/>
+        <translation>Коментарі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="110"/>
@@ -3179,7 +3179,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="116"/>
         <source>Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Контури</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="122"/>
@@ -3189,12 +3189,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="128"/>
         <source>Names</source>
-        <translation type="unfinished"/>
+        <translation>Назви</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="134"/>
         <source>Values</source>
-        <translation type="unfinished"/>
+        <translation>Значення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="140"/>
@@ -4063,12 +4063,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="89"/>
         <source>Black Matte</source>
-        <translation type="unfinished"/>
+        <translation>Чорний Матовий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="95"/>
         <source>Blue</source>
-        <translation type="unfinished"/>
+        <translation>Синій</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="101"/>
@@ -4078,22 +4078,22 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="107"/>
         <source>Green</source>
-        <translation type="unfinished"/>
+        <translation>Зелений</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="113"/>
         <source>Green Matte</source>
-        <translation type="unfinished"/>
+        <translation>Зелений Матовий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="119"/>
         <source>Purple</source>
-        <translation type="unfinished"/>
+        <translation>Фіолетовий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="125"/>
         <source>Red</source>
-        <translation type="unfinished"/>
+        <translation>Червоний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="131"/>
@@ -4103,12 +4103,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="138"/>
         <source>Yellow</source>
-        <translation type="unfinished"/>
+        <translation>Жовтий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="145"/>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Інші</translation>
     </message>
 </context>
 <context>
@@ -4118,7 +4118,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="534"/>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="471"/>
         <source>Shift</source>
-        <translation type="unfinished"/>
+        <translation>Зміщувати</translation>
     </message>
 </context>
 <context>
@@ -4139,7 +4139,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/rulecheck/rulecheckmessage.cpp" line="72"/>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Порада</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/rulecheck/rulecheckmessage.cpp" line="74"/>
@@ -4157,7 +4157,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="271"/>
         <source>Signal:</source>
-        <translation type="unfinished"/>
+        <translation>Сигнал:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="277"/>
@@ -4206,12 +4206,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="87"/>
         <source>Passive</source>
-        <translation type="unfinished"/>
+        <translation>Пасивний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="93"/>
         <source>Power</source>
-        <translation type="unfinished"/>
+        <translation>Потужність</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="99"/>
@@ -4287,41 +4287,41 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="80"/>
         <source>Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Схема</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="81"/>
         <source>Board</source>
-        <translation type="unfinished"/>
+        <translation>Плата</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="82"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="104"/>
         <source>Background/Grid</source>
-        <translation type="unfinished"/>
+        <translation>Фон/Сітка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="83"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="105"/>
         <source>Overlays</source>
-        <translation type="unfinished"/>
+        <translation>Накладки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="84"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="106"/>
         <source>Info Box</source>
-        <translation type="unfinished"/>
+        <translation>Інформаційний Блок</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="85"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="108"/>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Вибір</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="86"/>
         <source>References</source>
-        <translation type="unfinished"/>
+        <translation>Довідкові Матеріали</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="87"/>
@@ -4332,7 +4332,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="88"/>
         <source>Wires</source>
-        <translation type="unfinished"/>
+        <translation>Дроти</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="89"/>
@@ -4354,7 +4354,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="92"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="119"/>
         <source>Comments</source>
-        <translation type="unfinished"/>
+        <translation>Коментарі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="93"/>
@@ -4366,7 +4366,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="94"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="110"/>
         <source>Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Контури</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="95"/>
@@ -4381,12 +4381,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="97"/>
         <source>Names</source>
-        <translation type="unfinished"/>
+        <translation>Назви</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="98"/>
         <source>Values</source>
-        <translation type="unfinished"/>
+        <translation>Значення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="99"/>
@@ -4637,7 +4637,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_netsegment.cpp" line="68"/>
         <source>(no net)</source>
-        <translation type="unfinished"/>
+        <translation>(немає мережі)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="47"/>
@@ -4647,37 +4647,37 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="49"/>
         <source>WARNING</source>
-        <translation type="unfinished"/>
+        <translation>ПОПЕРЕДЖЕННЯ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="51"/>
         <source>CRITICAL</source>
-        <translation type="unfinished"/>
+        <translation>КРИТИЧНИЙ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="65"/>
         <source>Millimeters</source>
-        <translation type="unfinished"/>
+        <translation>Міліметри</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="67"/>
         <source>Micrometers</source>
-        <translation type="unfinished"/>
+        <translation>Мікрометри</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="69"/>
         <source>Nanometers</source>
-        <translation type="unfinished"/>
+        <translation>Нанометри</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="71"/>
         <source>Inches</source>
-        <translation type="unfinished"/>
+        <translation>Дюйми</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="73"/>
         <source>Mils</source>
-        <translation type="unfinished"/>
+        <translation>Mils</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/utils/mathparser.cpp" line="67"/>
@@ -4708,7 +4708,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="80"/>
         <source>Removing temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>Видалення тимчасової директорії...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="86"/>
@@ -4723,12 +4723,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="107"/>
         <source>Renaming temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>Перейменування тимчасової директорії...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="111"/>
         <source>Successfully finished!</source>
-        <translation type="unfinished"/>
+        <translation>Успішно завершено!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/asynccopyoperation.cpp" line="121"/>
@@ -4741,7 +4741,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/attribute/attrtypecapacitance.cpp" line="39"/>
         <source>Capacitance</source>
-        <translation type="unfinished"/>
+        <translation>Ємність</translation>
     </message>
 </context>
 <context>
@@ -4749,7 +4749,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/attribute/attrtypecurrent.cpp" line="39"/>
         <source>Current</source>
-        <translation type="unfinished"/>
+        <translation>Струм</translation>
     </message>
 </context>
 <context>
@@ -4757,7 +4757,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/attribute/attrtypefrequency.cpp" line="39"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота</translation>
     </message>
 </context>
 <context>
@@ -4765,7 +4765,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/attribute/attrtypeinductance.cpp" line="39"/>
         <source>Inductance</source>
-        <translation type="unfinished"/>
+        <translation>Індуктивність</translation>
     </message>
 </context>
 <context>
@@ -4773,7 +4773,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/attribute/attrtypepower.cpp" line="39"/>
         <source>Power</source>
-        <translation type="unfinished"/>
+        <translation>Потужність</translation>
     </message>
 </context>
 <context>
@@ -4781,7 +4781,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/attribute/attrtyperesistance.cpp" line="39"/>
         <source>Resistance</source>
-        <translation type="unfinished"/>
+        <translation>Опір</translation>
     </message>
 </context>
 <context>
@@ -4797,7 +4797,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/attribute/attrtypevoltage.cpp" line="39"/>
         <source>Voltage</source>
-        <translation type="unfinished"/>
+        <translation>Напруга</translation>
     </message>
 </context>
 <context>
@@ -5002,7 +5002,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/network/filedownload.cpp" line="117"/>
         <source>Verify checksum...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка контрольної суми...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/filedownload.cpp" line="121"/>
@@ -5124,7 +5124,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="100"/>
         <source>Start request...</source>
-        <translation type="unfinished"/>
+        <translation>Розпочати запит...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="103"/>
@@ -5134,12 +5134,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="110"/>
         <source>Abort request...</source>
-        <translation type="unfinished"/>
+        <translation>Скасувати запит...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="123"/>
         <source>Request started...</source>
-        <translation type="unfinished"/>
+        <translation>Запит почався...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="128"/>
@@ -5149,18 +5149,18 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="186"/>
         <source>Send data: %1</source>
-        <translation type="unfinished"/>
+        <translation>Надіслати дані: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="204"/>
         <source>Receive data: %1</source>
-        <translation type="unfinished"/>
+        <translation>Отримати дані: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="218"/>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="270"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="227"/>
@@ -5172,37 +5172,37 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="240"/>
         <source>Network request aborted.</source>
-        <translation type="unfinished"/>
+        <translation>Мережевий запит скасовано.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="250"/>
         <source>Redirection loop detected.</source>
-        <translation type="unfinished"/>
+        <translation>Виявлено петлю перенаправлення.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="253"/>
         <source>Too many redirects.</source>
-        <translation type="unfinished"/>
+        <translation>Занадто багато перенаправлень.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="259"/>
         <source>Redirect to %1...</source>
-        <translation type="unfinished"/>
+        <translation>Перенаправлення на %1...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="291"/>
         <source>Request successfully finished.</source>
-        <translation type="unfinished"/>
+        <translation>Запит успішно виконано.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="297"/>
         <source>Request aborted.</source>
-        <translation type="unfinished"/>
+        <translation>Запит перервано.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="303"/>
         <source>Request failed: %1</source>
-        <translation type="unfinished"/>
+        <translation>Запит не вдалося: %1</translation>
     </message>
 </context>
 <context>
@@ -5285,7 +5285,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="72"/>
         <source>Invalid database: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Невірна база даних: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="80"/>
@@ -5298,22 +5298,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="98"/>
         <source>Preparing...</source>
-        <translation type="unfinished"/>
+        <translation>Підготовка...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="108"/>
         <source>Exporting PCB...</source>
-        <translation type="unfinished"/>
+        <translation>Експортування PCB...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="145"/>
         <source>Exporting device %1/%2...</source>
-        <translation type="unfinished"/>
+        <translation>Експорт пристрою %1/%2...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="171"/>
         <source>Saving...</source>
-        <translation type="unfinished"/>
+        <translation>Збереження...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="177"/>
@@ -5338,12 +5338,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="191"/>
         <source>Failed!</source>
-        <translation type="unfinished"/>
+        <translation>Не Вдалося!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="200"/>
         <source>Aborted!</source>
-        <translation type="unfinished"/>
+        <translation>Перервано!</translation>
     </message>
 </context>
 <context>
@@ -5402,7 +5402,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="407"/>
         <source>Open project &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити проект &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="429"/>
@@ -5422,7 +5422,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="478"/>
         <source>Remove other boards...</source>
-        <translation type="unfinished"/>
+        <translation>Вилучити інші плати...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="506"/>
@@ -5437,7 +5437,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="532"/>
         <source>Run ERC...</source>
-        <translation type="unfinished"/>
+        <translation>Виконати ERC...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="538"/>
@@ -5454,7 +5454,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="548"/>
         <source>Run DRC...</source>
-        <translation type="unfinished"/>
+        <translation>Виконати DRC...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="560"/>
@@ -5466,7 +5466,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="566"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="702"/>
         <source>Board &apos;%1&apos;:</source>
-        <translation type="unfinished"/>
+        <translation>Плата &apos;%1&apos;:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="586"/>
@@ -5476,7 +5476,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="611"/>
         <source>ERROR</source>
-        <translation type="unfinished"/>
+        <translation>ПОМИЛКА</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="640"/>
@@ -5523,7 +5523,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="793"/>
         <source>Save project...</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти проект...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="813"/>
@@ -5539,12 +5539,12 @@ You need at least LibrePCB %1 to open it.
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="829"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="969"/>
         <source>ERROR: %1</source>
-        <translation type="unfinished"/>
+        <translation>ПОМИЛКА: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="842"/>
         <source>Open library &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити бібліотеку &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="857"/>
@@ -5817,7 +5817,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.ui" line="14"/>
         <source>Add Component</source>
-        <translation type="unfinished"/>
+        <translation>Додати Компонент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.ui" line="22"/>
@@ -6693,7 +6693,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="66"/>
         <source>Connect Style:</source>
-        <translation type="unfinished"/>
+        <translation>Стиль Підключення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="76"/>
@@ -8093,7 +8093,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeladd.cpp" line="41"/>
         <source>Add Net Label</source>
-        <translation type="unfinished"/>
+        <translation>Додати Позначку Мережі</translation>
     </message>
 </context>
 <context>
@@ -13156,7 +13156,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="285"/>
         <source>Draw Wire</source>
-        <translation type="unfinished"/>
+        <translation>Малювати Дріт</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="317"/>
