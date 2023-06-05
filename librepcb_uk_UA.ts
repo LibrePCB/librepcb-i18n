@@ -4135,7 +4135,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="534"/>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="471"/>
         <source>Shift</source>
-        <translation>Зміщувати</translation>
+        <translation>Shift</translation>
     </message>
 </context>
 <context>
