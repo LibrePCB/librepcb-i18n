@@ -5693,7 +5693,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/undostack.cpp" line="103"/>
         <source>Redo: %1</source>
-        <translation type="unfinished"/>
+        <translation>Переробити: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/undostack.cpp" line="105"/>
@@ -5721,12 +5721,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="101"/>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Про програму</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="124"/>
         <source>Contributing</source>
-        <translation type="unfinished"/>
+        <translation>Співпраця</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="147"/>
@@ -5736,12 +5736,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="181"/>
         <source>Click on the link to copy the text into the clipboard.</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть на посилання, щоб скопіювати текст у буфер обміну.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="184"/>
         <source>When reporting an issue, please &lt;a href=&apos;copy&apos;&gt;copy this text&lt;/a&gt; into the report.</source>
-        <translation type="unfinished"/>
+        <translation>При повідомленні про проблему, будь ласка, &lt;a href=&apos;copy&apos;&gt;скопіюйте цей текст&lt;/a&gt; в звіт.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="55"/>
@@ -5751,7 +5751,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="83"/>
         <source>LibrePCB is a free &amp;amp; open source schematic/layout-editor. It is mainly developed by Urban Bruhin, with the support of &lt;a href=&apos;%1&apos;&gt;many other contributors&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB - це безкоштовний &amp;amp; вільний редактор схеми / макету. Він розробляється в основному Urban Bruhin, з підтримкою &lt;a href=&apos;%1&apos;&gt;багатьох інших учасників&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="88"/>
@@ -5761,7 +5761,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="90"/>
         <source>For more information, check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Для отримання додаткової інформації, перегляньте &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; або наш &lt;a href=&apos;%2&apos;&gt;репозиторій GitHub&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="96"/>
@@ -5771,7 +5771,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="98"/>
         <source>If you need help, please check out the &lt;a href=&apos;%1&apos;&gt;documentation&lt;/a&gt; or &lt;a href=&apos;%2&apos;&gt;contact us&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Якщо вам потрібна допомога, будь ласка, перегляньте &lt;a href=&apos;%1&apos;&gt;документацію&lt;/a&gt; або &lt;a href=&apos;%2&apos;&gt;зв&apos;яжіться з нами&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="102"/>
@@ -5781,17 +5781,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="104"/>
         <source>LibrePCB is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text &lt;a href=&apos;%1&apos;&gt;in our source code&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB - це вільне програмне забезпечення, що розповсюджується за ліцензією GNU General Public License (GPL) версії 3 або пізніше. Ви можете знайти повний текст ліцензії &lt;a href=&apos;%1&apos;&gt;в нашому вихідному коді&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="112"/>
         <source>Some of the icons used in LibrePCB are provided by &lt;a href=&apos;%1&apos;&gt;icons8.com&lt;/a&gt;, thank you!</source>
-        <translation type="unfinished"/>
+        <translation>Деякі з іконок, що використовуються в LibrePCB, надані &lt;a href=&apos;%1&apos;&gt;icons8.com&lt;/a&gt;, дякую!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="123"/>
         <source>LibrePCB is a community project, and therefore it relies on contributions! There are different ways you can contribute:</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB - це спільнотний проект, тому він залежить від внесків! Є різні способи, якими ви можете допомогти:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="126"/>
@@ -5801,7 +5801,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="128"/>
         <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal, Bitcoin or other ways. Check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; for details.</source>
-        <translation type="unfinished"/>
+        <translation>Підтримайте сталу розробку LibrePCB, пожертвувавши фінансово через Patreon, PayPal, Bitcoin або іншими способами. Деталі див. &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="133"/>
@@ -5811,7 +5811,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="135"/>
         <source>If you&apos;re interested in helping us to develop LibrePCB, check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; to see how you can contribute!</source>
-        <translation type="unfinished"/>
+        <translation>Якщо ви зацікавлені у допомозі нам у розробці LibrePCB, перегляньте &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, щоб дізнатися, як ви можете допомогти!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="140"/>
@@ -5821,7 +5821,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="142"/>
         <source>Speak about LibrePCB with your friends and colleagues, or write about it in the internet! Write a blogpost, or create a video tutorial. We&apos;re happy if more people can get to know LibrePCB.</source>
-        <translation type="unfinished"/>
+        <translation>Розкажіть про LibrePCB своїм друзям та колегам, або напишіть про це в Інтернеті! Напишіть блог, або створіть відео-посібник. Ми раді, якщо більше людей дізнається про LibrePCB.</translation>
     </message>
 </context>
 <context>
@@ -5844,7 +5844,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.ui" line="180"/>
         <source>If checked, this dialog will automatically be opened again after finishing placement of the current component.</source>
-        <translation type="unfinished"/>
+        <translation>Якщо відмічено, цей діалог буде автоматично відкрито знову після завершення розміщення поточного компоненту.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.ui" line="183"/>
@@ -6159,7 +6159,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="54"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The schematic contains components which are not placed yet on this board. You can add them with the &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Place Devices&lt;/span&gt;&lt;/a&gt; dock.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Схема містить компоненти, які ще не розміщені на цій платі. Ви можете додати їх за допомогою док-станції &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Розмістити пристрої&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="159"/>
@@ -6715,12 +6715,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="91"/>
         <source>Do not delete unconnected copper areas (islands)</source>
-        <translation type="unfinished"/>
+        <translation>Не видаляти непідключені мідні області (острови)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="94"/>
         <source>Keep Islands</source>
-        <translation type="unfinished"/>
+        <translation>Залишити Острови</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="101"/>
@@ -6740,12 +6740,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="120"/>
         <source>Width of the thermal pad spokes</source>
-        <translation type="unfinished"/>
+        <translation>Ширина Термічних Спиць</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="123"/>
         <source>Thermal Spokes:</source>
-        <translation type="unfinished"/>
+        <translation>Термічні Cпиці:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="89"/>
@@ -6756,12 +6756,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="110"/>
         <source>Thermal Relief</source>
-        <translation type="unfinished"/>
+        <translation>Термічний Бар&apos;єр</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="113"/>
         <source>Solid</source>
-        <translation type="unfinished"/>
+        <translation>Твердий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="219"/>
@@ -6789,149 +6789,149 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="44"/>
         <source>Inner Copper Layers:</source>
-        <translation type="unfinished"/>
+        <translation>Внутрішні Провідні Шари:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="64"/>
         <source>Total PCB Thickness:</source>
-        <translation type="unfinished"/>
+        <translation>Загальна товщина плати:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="87"/>
         <source>Solder Resist:</source>
-        <translation type="unfinished"/>
+        <translation>Паяльна маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="94"/>
         <source>Silkscreen:</source>
-        <translation type="unfinished"/>
+        <translation>Шовкографія:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="190"/>
         <source>Silkscreen Content:</source>
-        <translation type="unfinished"/>
+        <translation>Вміст шовкографії:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="208"/>
         <source>These settings might not be supported and/or automatically taken into account by the PCB manufacturer. Always check/specify these manufacturing properties manually when ordering the PCB.</source>
-        <translation type="unfinished"/>
+        <translation>Ці налаштування можуть не підтримуватися та / або автоматично братися до уваги виробником плат. Завжди перевіряйте / вказуйте ці властивості виробництва вручну при замовленні плати.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="222"/>
         <source>Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Правила проектування</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="228"/>
         <source>Ratio (% of Diameter)</source>
-        <translation type="unfinished"/>
+        <translation>Відношення (% діаметра)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="244"/>
         <source>Vias Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>Спідниця Перехідного Отвору:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="251"/>
         <source>Inner Layer Pads:</source>
-        <translation type="unfinished"/>
+        <translation>Пади Внутрішнього Шару:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="269"/>
         <source>Note: These settings define the shape of board objects which are automatically generated (e.g. stop masks, where not manually overridden). They are not related to the design rule check (DRC) at all. In contrast to these settings, DRC parameters do not have any impact on the board.</source>
-        <translation type="unfinished"/>
+        <translation>Примітка: Ці налаштування визначають форму об&apos;єктів плати, які генеруються автоматично (наприклад, маски зупинки, де не вручну перевизначені). Вони не пов&apos;язані з перевіркою правил проектування (DRC) взагалі. На відміну від цих налаштувань, параметри DRC не мають жодного впливу на плату.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="282"/>
         <source>Solder Paste Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Кліренс Паяльної Пасти:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="294"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="374"/>
         <source>Full Shape</source>
-        <translation type="unfinished"/>
+        <translation>Повна Форма</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="307"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="384"/>
         <source>Automatic Annular Ring</source>
-        <translation type="unfinished"/>
+        <translation>Автоматична Спідниця</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="329"/>
         <source>&lt;b&gt;Use with caution!&lt;/b&gt; If automatic annular rings are enabled for component-side pads, make sure all pads have set the &apos;component side&apos; property to the correct value. With a wrong configuration, soldering may not be possible due to too small pad area.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Використовуйте з обережністю!&lt;/b&gt; Якщо автоматичні кільця включені для площин, переконайтеся, що всі площини встановили властивість &apos;сторона компонента&apos; в правильне значення. З неправильною конфігурацією паяння може бути неможливим через занадто малу площу площини.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="399"/>
         <source>Autom. Pads Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>Автоматична Спідниця Паду:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="406"/>
         <source>Stop Mask Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Кліренс Стоп-маски:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="413"/>
         <source>Maximum</source>
-        <translation type="unfinished"/>
+        <translation>Максимальний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="426"/>
         <source>Component Side Pads:</source>
-        <translation type="unfinished"/>
+        <translation>Компонентні площадки зі сторони компонентів:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="448"/>
         <source>Minimum</source>
-        <translation type="unfinished"/>
+        <translation>Мінімальний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="461"/>
         <source>Vias with a drill diameter up to this diameter will be covered with solder resist (if not manually overridden). For larger vias, a stop mask opening is added.</source>
-        <translation type="unfinished"/>
+        <translation>Отвори з діаметром свердла до цього діаметру будуть покриті припойною маскою (якщо не перевизначено вручну). Для більших отворів буде додано відкриття маски зупинки.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="464"/>
         <source>Tented Vias Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Діаметр затамованих отворів:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="475"/>
         <source>DRC Settings</source>
-        <translation type="unfinished"/>
+        <translation>Налаштування DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="546"/>
         <source>Copper ↔ Board Edge:</source>
-        <translation type="unfinished"/>
+        <translation>Мідь ↔ Край плати:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="560"/>
         <source>Copper Width:</source>
-        <translation type="unfinished"/>
+        <translation>Ширина міді:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="570"/>
         <source>Drill ↔ Drill:</source>
-        <translation type="unfinished"/>
+        <translation>Отвір ↔ Отвір:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="584"/>
         <source>NPTH Slot Width:</source>
-        <translation type="unfinished"/>
+        <translation>Ширина NPTH слоту:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="608"/>
         <source>Minimum Sizes</source>
-        <translation type="unfinished"/>
+        <translation>Мінімальні розміри</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="630"/>
         <source>Drill ↔ Board Edge:</source>
-        <translation type="unfinished"/>
+        <translation>Отвір ↔ Край плати:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="651"/>
@@ -6941,62 +6941,62 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="689"/>
         <source>PTH Slot Width:</source>
-        <translation type="unfinished"/>
+        <translation>Ширина PTH слоту:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="696"/>
         <source>PTH Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Діаметр PTH отвору:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="706"/>
         <source>Copper ↔ Holes:</source>
-        <translation type="unfinished"/>
+        <translation>Мідь ↔ Отвори:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="713"/>
         <source>Copper ↔ Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Мідь ↔ Мідь:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="737"/>
         <source>Allowed Features</source>
-        <translation type="unfinished"/>
+        <translation>Дозволені особливості</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="762"/>
         <source>Minimum board outline milling tool diameter. Restricts the radius of inner board edges.</source>
-        <translation type="unfinished"/>
+        <translation>Мінімальний діаметр фрези для контуру плати. Обмежує радіус внутрішніх країв плати.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="765"/>
         <source>Outline Tool Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Діаметр фрези для контуру плати:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="775"/>
         <source>PTH Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>PTH Кільце Отвору:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="791"/>
         <source>PTH Slots:</source>
-        <translation type="unfinished"/>
+        <translation>PTH Cлоти:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="798"/>
         <source>NPTH Slots:</source>
-        <translation type="unfinished"/>
+        <translation>NPTH Cлоти:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="808"/>
         <source>NPTH Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Діаметр NPTH отворів:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="818"/>
         <source>Allow vias which start and end on inner copper layers.</source>
-        <translation type="unfinished"/>
+        <translation>Дозволити переходні отвори, які починаються і закінчуються на внутрішніх мідних шарах.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="821"/>
@@ -7036,12 +7036,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="135"/>
         <source>&lt;p&gt;Always use the full pad shape as defined in the footprint from the library.&lt;/p&gt;&lt;p&gt;This is the safer and thus preferred option, but requires more space for the pads.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Завжди використовуйте повну форму пластини, визначену в сліді з бібліотеки.&lt;/p&gt;&lt;p&gt;Це безпечніший і тому бажаний варіант, але вимагає більше місця для пластин.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="142"/>
         <source>&lt;p&gt;Don&apos;t use the defined pad shape, but automatic annular rings calculated by the parameters below. The annular ring of unconnected pads is reduced to the specified mimimum value.&lt;/p&gt;&lt;p&gt;This option is more space-efficient, but works only reliable if the entered parameters comply with the PCB manufacturers capabilities.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Не використовуйте визначену форму пластини, але автоматичні кільцеві кільця, розраховані за параметрами нижче. Кільцеве кільце непідключених пластин зменшується до вказаного мінімального значення.&lt;/p&gt;&lt;p&gt;Цей параметр ефективніший за простором, але працює надійно, якщо введені параметри відповідають можливостям виробника печатних плат.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="210"/>
@@ -7051,7 +7051,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="213"/>
         <source>Only Simple Oblongs</source>
-        <translation type="unfinished"/>
+        <translation>Тільки Прості Прямокутники</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="217"/>
@@ -7122,7 +7122,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="96"/>
         <source>Exposure:</source>
-        <translation type="unfinished"/>
+        <translation>Відкритість:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="105"/>
@@ -7137,7 +7137,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="115"/>
         <source>A solder resist opening is created to expose the via. The clearance is taken from the board design rules.</source>
-        <translation type="unfinished"/>
+        <translation>Створюється відкриття захисного лаку, щоб відкрити перехідний отвір. Дозвіл береться з правил проектування плати.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="118"/>
@@ -7147,7 +7147,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="125"/>
         <source>A solder resist opening with a custom clearance is created to expose the via.</source>
-        <translation type="unfinished"/>
+        <translation>Створюється відкриття захисного лаку з власним дозволом, щоб відкрити перехідний отвір.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="128"/>
@@ -7226,7 +7226,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="213"/>
         <source>All devices of the selected board are in sync with their pre-selected devices in the schematic.</source>
-        <translation type="unfinished"/>
+        <translation>Всі пристрої вибраної плати синхронізовані з попередньо вибраними пристроями в схемі.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="221"/>
@@ -7552,7 +7552,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardstroketextedit.cpp" line="41"/>
         <source>Modify Stroke Text</source>
-        <translation type="unfinished"/>
+        <translation>Змінити текст</translation>
     </message>
 </context>
 <context>
@@ -7597,13 +7597,13 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="135"/>
         <source>There are multiple different nets with forced names at this position.</source>
-        <translation type="unfinished"/>
+        <translation>У цій позиції є кілька різних мереж з примусовими іменами.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="198"/>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="202"/>
         <source>Sorry, not yet implemented...</source>
-        <translation type="unfinished"/>
+        <translation>На жаль, ще не реалізовано...</translation>
     </message>
 </context>
 <context>
@@ -7611,7 +7611,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombineboardnetsegments.cpp" line="49"/>
         <source>Combine Board Net Segments</source>
-        <translation type="unfinished"/>
+        <translation>Об&apos;єднати сегменти мережі плати</translation>
     </message>
 </context>
 <context>
@@ -7619,7 +7619,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombinenetsignals.cpp" line="59"/>
         <source>Combine Net Signals</source>
-        <translation type="unfinished"/>
+        <translation>Об&apos;єднати сигнали мережі</translation>
     </message>
 </context>
 <context>
@@ -7681,7 +7681,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdcomponentpinsignalmapitemedit.cpp" line="41"/>
         <source>Edit component pin-signal-map</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати мапу рін-сигналів компонента</translation>
     </message>
 </context>
 <context>
@@ -7753,7 +7753,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmddevicepadsignalmapitemedit.cpp" line="39"/>
         <source>Edit device pad-signal-map</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати мапу пін-сигнал пристрою</translation>
     </message>
 </context>
 <context>
@@ -7777,7 +7777,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddevicestroketextsreset.cpp" line="43"/>
         <source>Reset footprint texts</source>
-        <translation type="unfinished"/>
+        <translation>Скинути текст футпрінта</translation>
     </message>
 </context>
 <context>
@@ -7785,7 +7785,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddragselectedboarditems.cpp" line="60"/>
         <source>Drag Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>Перетягнути елементи плати</translation>
     </message>
 </context>
 <context>
@@ -7793,7 +7793,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmddragselectedfootprintitems.cpp" line="52"/>
         <source>Drag Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Перетягнути елементи відбитка</translation>
     </message>
 </context>
 <context>
@@ -7801,7 +7801,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddragselectedschematicitems.cpp" line="58"/>
         <source>Drag Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Перетягнути елементи схеми</translation>
     </message>
 </context>
 <context>
@@ -7809,7 +7809,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmddragselectedsymbolitems.cpp" line="50"/>
         <source>Drag Symbol Elements</source>
-        <translation type="unfinished"/>
+        <translation>Перетягнути елементи символу</translation>
     </message>
 </context>
 <context>
@@ -7817,7 +7817,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdflipselectedboarditems.cpp" line="70"/>
         <source>Flip Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>Перевернути елементи плати</translation>
     </message>
 </context>
 <context>
@@ -7825,7 +7825,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdfootprintedit.cpp" line="38"/>
         <source>Edit footprint</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати відбиток</translation>
     </message>
 </context>
 <context>
@@ -7833,7 +7833,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdfootprintpadedit.cpp" line="38"/>
         <source>Edit footprint pad</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати пад відбитка</translation>
     </message>
 </context>
 <context>
@@ -7849,7 +7849,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdlibrarycategoryedit.cpp" line="39"/>
         <source>Edit category metadata</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати метадані категорії</translation>
     </message>
 </context>
 <context>
@@ -7857,7 +7857,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdlibraryedit.cpp" line="38"/>
         <source>Edit library metadata</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати метадані бібліотеки</translation>
     </message>
 </context>
 <context>
@@ -7865,7 +7865,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/cmd/cmdlistelementinsert.h" line="54"/>
         <source>Add %1</source>
-        <translation type="unfinished"/>
+        <translation>Додати %1</translation>
     </message>
 </context>
 <context>
@@ -7873,7 +7873,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/cmd/cmdlistelementremove.h" line="53"/>
         <source>Remove %1</source>
-        <translation type="unfinished"/>
+        <translation>Видалити %1</translation>
     </message>
 </context>
 <context>
@@ -7881,7 +7881,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/cmd/cmdlistelementsswap.h" line="53"/>
         <source>Move %1</source>
-        <translation type="unfinished"/>
+        <translation>Перемістити %1</translation>
     </message>
 </context>
 <context>
@@ -7889,7 +7889,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetclassadd.cpp" line="42"/>
         <source>Add netclass</source>
-        <translation type="unfinished"/>
+        <translation>Додати клас мережі</translation>
     </message>
 </context>
 <context>
@@ -7897,7 +7897,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetclassedit.cpp" line="41"/>
         <source>Edit netclass</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати клас мережі</translation>
     </message>
 </context>
 <context>
@@ -7905,7 +7905,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetclassremove.cpp" line="41"/>
         <source>Remove netclass</source>
-        <translation type="unfinished"/>
+        <translation>Видалити клас мережі</translation>
     </message>
 </context>
 <context>
@@ -7913,7 +7913,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetsignaladd.cpp" line="43"/>
         <source>Add netsignal</source>
-        <translation type="unfinished"/>
+        <translation>Додати сигнал</translation>
     </message>
 </context>
 <context>
@@ -7921,7 +7921,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetsignaledit.cpp" line="42"/>
         <source>Edit netsignal</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати сигнал</translation>
     </message>
 </context>
 <context>
@@ -7929,7 +7929,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetsignalremove.cpp" line="42"/>
         <source>Remove netsignal</source>
-        <translation type="unfinished"/>
+        <translation>Видалити сигнал</translation>
     </message>
 </context>
 <context>
@@ -7937,7 +7937,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpackageedit.cpp" line="38"/>
         <source>Edit Package Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати метадані корпусу</translation>
     </message>
 </context>
 <context>
@@ -7945,7 +7945,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpackagemodeladd.cpp" line="44"/>
         <source>Add 3D model</source>
-        <translation type="unfinished"/>
+        <translation>Додати 3D модель</translation>
     </message>
 </context>
 <context>
@@ -7953,7 +7953,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpackagemodeledit.cpp" line="41"/>
         <source>Edit 3D Model</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати 3D модель</translation>
     </message>
 </context>
 <context>
@@ -7961,7 +7961,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpackagemodelremove.cpp" line="43"/>
         <source>Remove 3D model</source>
-        <translation type="unfinished"/>
+        <translation>Видалити 3D модель</translation>
     </message>
 </context>
 <context>
@@ -7969,7 +7969,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpackagepadedit.cpp" line="38"/>
         <source>Edit package pad</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати пад пакунку</translation>
     </message>
 </context>
 <context>
@@ -7977,7 +7977,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdpasteboarditems.cpp" line="83"/>
         <source>Paste Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>Вставити Елементи Плати</translation>
     </message>
 </context>
 <context>
@@ -8017,7 +8017,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdprojectedit.cpp" line="40"/>
         <source>Edit Project Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати Метадані Проекту</translation>
     </message>
 </context>
 <context>
@@ -8025,7 +8025,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdremoveboarditems.cpp" line="62"/>
         <source>Remove Board Items</source>
-        <translation type="unfinished"/>
+        <translation>Видалити Елементи Плати</translation>
     </message>
 </context>
 <context>
@@ -8033,7 +8033,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdremoveselectedboarditems.cpp" line="47"/>
         <source>Remove Board Items</source>
-        <translation type="unfinished"/>
+        <translation>Видалити Елементи Плати</translation>
     </message>
 </context>
 <context>
@@ -8041,7 +8041,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdremoveselectedfootprintitems.cpp" line="53"/>
         <source>Remove Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Видалити Елементи Відбитка</translation>
     </message>
 </context>
 <context>
@@ -8049,7 +8049,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdremoveselectedschematicitems.cpp" line="80"/>
         <source>Remove Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Видалити Схемні Елементи</translation>
     </message>
 </context>
 <context>
@@ -8057,7 +8057,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdremoveselectedsymbolitems.cpp" line="51"/>
         <source>Remove Symbol Elements</source>
-        <translation type="unfinished"/>
+        <translation>Видалити Символьні Елементи</translation>
     </message>
 </context>
 <context>
@@ -8065,7 +8065,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdremoveunusedlibraryelements.cpp" line="50"/>
         <source>Remove unused library elements</source>
-        <translation type="unfinished"/>
+        <translation>Видалити невикористані елементи бібліотеки</translation>
     </message>
 </context>
 <context>
@@ -8073,7 +8073,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdremoveunusednetsignals.cpp" line="45"/>
         <source>Remove Unused Net Signals</source>
-        <translation type="unfinished"/>
+        <translation>Видалити Невикористовувані Сигнали Мережі</translation>
     </message>
 </context>
 <context>
@@ -8081,7 +8081,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdreplacedevice.cpp" line="53"/>
         <source>Change Device</source>
-        <translation type="unfinished"/>
+        <translation>Змінити Пристрій</translation>
     </message>
 </context>
 <context>
@@ -8089,7 +8089,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicadd.cpp" line="42"/>
         <source>Add schematic</source>
-        <translation type="unfinished"/>
+        <translation>Додати схему</translation>
     </message>
 </context>
 <context>
@@ -8097,7 +8097,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicedit.cpp" line="40"/>
         <source>Edit sheet properties</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати властивості аркуша</translation>
     </message>
 </context>
 <context>
@@ -8113,7 +8113,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeledit.cpp" line="41"/>
         <source>Edit netlabel</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати позначку мережі</translation>
     </message>
 </context>
 <context>
@@ -8121,7 +8121,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabelremove.cpp" line="43"/>
         <source>Remove netlabel</source>
-        <translation type="unfinished"/>
+        <translation>Видалити позначку мережі</translation>
     </message>
 </context>
 <context>
@@ -8178,7 +8178,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicpolygonadd.cpp" line="41"/>
         <source>Add polygon to schematic</source>
-        <translation type="unfinished"/>
+        <translation>Додати полігон до схеми</translation>
     </message>
 </context>
 <context>
@@ -8186,7 +8186,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicpolygonremove.cpp" line="42"/>
         <source>Remove polygon from schematic</source>
-        <translation type="unfinished"/>
+        <translation>Видалити полігон з схеми</translation>
     </message>
 </context>
 <context>
@@ -8194,7 +8194,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicremove.cpp" line="42"/>
         <source>Remove schematic</source>
-        <translation type="unfinished"/>
+        <translation>Видалити схему</translation>
     </message>
 </context>
 <context>
@@ -8202,7 +8202,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematictextadd.cpp" line="41"/>
         <source>Add schematic text</source>
-        <translation type="unfinished"/>
+        <translation>Додати текст схеми</translation>
     </message>
 </context>
 <context>
@@ -8210,7 +8210,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematictextremove.cpp" line="41"/>
         <source>Remove schematic text</source>
-        <translation type="unfinished"/>
+        <translation>Видалити текст схеми</translation>
     </message>
 </context>
 <context>
@@ -8218,7 +8218,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/cmd/cmdstroketextedit.cpp" line="40"/>
         <source>Edit stroke text</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати текстовий штрих</translation>
     </message>
 </context>
 <context>
@@ -8226,7 +8226,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstanceadd.cpp" line="43"/>
         <source>Add symbol instance</source>
-        <translation type="unfinished"/>
+        <translation>Додати екземпляр символу</translation>
     </message>
 </context>
 <context>
@@ -8234,7 +8234,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstanceedit.cpp" line="40"/>
         <source>Edit Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати символ</translation>
     </message>
 </context>
 <context>
@@ -8242,7 +8242,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstanceeditall.cpp" line="44"/>
         <source>Drag Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Перетягнути символ</translation>
     </message>
 </context>
 <context>
@@ -8250,7 +8250,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstanceremove.cpp" line="42"/>
         <source>Remove symbol</source>
-        <translation type="unfinished"/>
+        <translation>Видалити символ</translation>
     </message>
 </context>
 <context>
@@ -8266,7 +8266,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstancetextremove.cpp" line="41"/>
         <source>Remove symbol text</source>
-        <translation type="unfinished"/>
+        <translation>Видалити текст символу</translation>
     </message>
 </context>
 <context>
@@ -8274,7 +8274,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstancetextsreset.cpp" line="45"/>
         <source>Reset symbol texts</source>
-        <translation type="unfinished"/>
+        <translation>Скинути текст символу</translation>
     </message>
 </context>
 <context>
@@ -8282,7 +8282,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdsymbolpinedit.cpp" line="38"/>
         <source>Edit pin</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати вивід</translation>
     </message>
 </context>
 <context>
@@ -8290,7 +8290,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/cmd/cmdtextedit.cpp" line="38"/>
         <source>Edit text</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати текст</translation>
     </message>
 </context>
 <context>
@@ -8298,7 +8298,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/compsymbvarpinsignalmapeditorwidget.cpp" line="49"/>
         <source>Automatically assign all signals by name</source>
-        <translation type="unfinished"/>
+        <translation>Автоматично призначити всі сигнали за назвою</translation>
     </message>
 </context>
 <context>
@@ -8379,7 +8379,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.ui" line="17"/>
         <source>Choose Component</source>
-        <translation type="unfinished"/>
+        <translation>Оберіть компонент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.ui" line="31"/>
@@ -8394,7 +8394,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="191"/>
         <source>Could not load components</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося завантажити компоненти</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="198"/>
@@ -8414,7 +8414,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="269"/>
         <source>Please select a component.</source>
-        <translation type="unfinished"/>
+        <translation>Будь ласка, виберіть компонент.</translation>
     </message>
 </context>
 <context>
@@ -8427,12 +8427,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="74"/>
         <source>Signals</source>
-        <translation type="unfinished"/>
+        <translation>Сигнали</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="101"/>
         <source>Symbol Variants</source>
-        <translation type="unfinished"/>
+        <translation>Варіанти символів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="128"/>
@@ -8472,7 +8472,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="267"/>
         <source>Component should no longer be used.</source>
-        <translation type="unfinished"/>
+        <translation>Компонент більше не повинен використовуватися.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="274"/>
@@ -8487,7 +8487,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="298"/>
         <source>Component cannot be used in devices.</source>
-        <translation type="unfinished"/>
+        <translation>Компонент не може бути використаний в пристроях.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="305"/>
@@ -8517,12 +8517,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="309"/>
         <source>Determine default value</source>
-        <translation type="unfinished"/>
+        <translation>Визначити значення за замовчуванням</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="311"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
-        <translation type="unfinished"/>
+        <translation>Чи є це скоріше (виробничо-)специфічний компонент, ніж загальний компонент?</translation>
     </message>
 </context>
 <context>
@@ -8547,7 +8547,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="260"/>
         <source>Pin</source>
-        <translation type="unfinished"/>
+        <translation>Вивід</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="262"/>
@@ -8557,7 +8557,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="264"/>
         <source>Designator in Schematics</source>
-        <translation type="unfinished"/>
+        <translation>Позначення на Схемі</translation>
     </message>
 </context>
 <context>
@@ -8565,7 +8565,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="94"/>
         <source>Add component signal(s)</source>
-        <translation type="unfinished"/>
+        <translation>Додати сигнал(и) компоненту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="107"/>
@@ -8577,32 +8577,32 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="155"/>
         <source>Signal name (may contain ranges like &quot;%1&quot;)</source>
-        <translation type="unfinished"/>
+        <translation>Назва сигналу (може містити діапазони, наприклад &quot;%1&quot;)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="184"/>
         <source>If checked, the signal needs to be connected in schematics, otherwise an ERC error is raised.</source>
-        <translation type="unfinished"/>
+        <translation>Якщо відмічено, то сигнал повинен бути підключений в схемі, інакше буде піднята помилка ERC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="187"/>
         <source>If unchecked, it&apos;s allowed to leave the signal unconnected in schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Якщо не відмічено, то дозволяється залишити сигнал непідключеним в схемі.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="224"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Назва</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="226"/>
         <source>Required</source>
-        <translation type="unfinished"/>
+        <translation>Обов&apos;язковий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="228"/>
         <source>Forced Net</source>
-        <translation type="unfinished"/>
+        <translation>Примусова мережа</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="236"/>
@@ -8612,12 +8612,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="239"/>
         <source>Add a new signal</source>
-        <translation type="unfinished"/>
+        <translation>Додати новий сигнал</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="359"/>
         <source>There is already a signal with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Вже існує сигнал з назвою &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -8625,7 +8625,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.ui" line="17"/>
         <source>Component Symbol Variant</source>
-        <translation type="unfinished"/>
+        <translation>Варіант символу компоненту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.ui" line="26"/>
@@ -8645,7 +8645,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.ui" line="75"/>
         <source>Norm:</source>
-        <translation type="unfinished"/>
+        <translation>Норма:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.ui" line="101"/>
@@ -8655,12 +8655,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.ui" line="127"/>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Попередній перегляд</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.ui" line="151"/>
         <source>Pin-Signal-Map</source>
-        <translation type="unfinished"/>
+        <translation>Мапа Вивод-Сигнал</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.cpp" line="142"/>
@@ -8684,38 +8684,38 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="104"/>
         <source>Please choose a symbol.</source>
-        <translation type="unfinished"/>
+        <translation>Будь ласка, виберіть символ.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="113"/>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="189"/>
         <source>Symbol &apos;%1&apos; not found in workspace library!</source>
-        <translation type="unfinished"/>
+        <translation>Символ &apos;%1&apos; не знайдено в бібліотеці робочого простору!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="249"/>
         <source>Choose symbol...</source>
-        <translation type="unfinished"/>
+        <translation>Виберіть символ...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="280"/>
         <source>Required</source>
-        <translation type="unfinished"/>
+        <translation>Обов&apos;язковий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="280"/>
         <source>Optional</source>
-        <translation type="unfinished"/>
+        <translation>Необов&apos;язковий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="285"/>
         <source>Placing this symbol in schematics is mandatory.</source>
-        <translation type="unfinished"/>
+        <translation>Розміщення цього символу в схемі є обов&apos;язковим.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="286"/>
         <source>Placing this symbol in schematics is optional</source>
-        <translation type="unfinished"/>
+        <translation>Розміщення цього символу в схемі є необов&apos;язковим</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="350"/>
@@ -8725,7 +8725,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="352"/>
         <source>Suffix</source>
-        <translation type="unfinished"/>
+        <translation>Суфікс</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="354"/>
@@ -8735,17 +8735,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="356"/>
         <source>Position X</source>
-        <translation type="unfinished"/>
+        <translation>Позиція X</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="358"/>
         <source>Position Y</source>
-        <translation type="unfinished"/>
+        <translation>Позиція Y</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="360"/>
         <source>Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Поворот</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="369"/>
@@ -8755,7 +8755,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="373"/>
         <source>Add a new symbol</source>
-        <translation type="unfinished"/>
+        <translation>Додати новий символ</translation>
     </message>
 </context>
 <context>
@@ -8772,7 +8772,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="188"/>
         <source>Symbol variant name</source>
-        <translation type="unfinished"/>
+        <translation>Назва варіанту символу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="192"/>
@@ -8782,7 +8782,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="262"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Назва</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="264"/>
@@ -8792,7 +8792,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="266"/>
         <source>Norm</source>
-        <translation type="unfinished"/>
+        <translation>Норма</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="268"/>
@@ -8812,7 +8812,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="400"/>
         <source>There is already a symbol variant with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Вже існує варіант символу з ім&apos;ям &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -8828,7 +8828,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="14"/>
         <source>LibrePCB ControlPanel</source>
-        <translation type="unfinished"/>
+        <translation>Панель керування LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="118"/>
@@ -8849,17 +8849,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="204"/>
         <source>Recent Projects</source>
-        <translation type="unfinished"/>
+        <translation>Нещодавні проекти</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="277"/>
         <source>Favorite Projects</source>
-        <translation type="unfinished"/>
+        <translation>Улюблені проекти</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="351"/>
         <source>Project description</source>
-        <translation type="unfinished"/>
+        <translation>Опис проекту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="77"/>
@@ -8869,7 +8869,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="82"/>
         <source>Workspace: %1</source>
-        <translation type="unfinished"/>
+        <translation>Робоче середовище: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="83"/>
@@ -8879,37 +8879,37 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="100"/>
         <source>This workspace was already used with a newer version of LibrePCB. All changes in libraries and workspace settings will not be available in newer versions of LibrePCB.</source>
-        <translation type="unfinished"/>
+        <translation>Це робоче середовище вже використовувалося з новішою версією LibrePCB. Усі зміни в бібліотеках та налаштуваннях робочого середовища не будуть доступні в новіших версіях LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="108"/>
         <source>This application executable does not seem to be integrated into your desktop environment. If desired, &lt;a href=&quot;%1&quot;&gt;install it now&lt;/a&gt; to allow opening LibrePCB projects through the file manager.</source>
-        <translation type="unfinished"/>
+        <translation>Цей виконуваний файл програми, схоже, не інтегровано в ваше середовище робочого столу. Якщо потрібно, &lt;a href=&quot;%1&quot;&gt;встановіть його зараз&lt;/a&gt;, щоб дозволити відкривати проекти LibrePCB через файловий менеджер.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="127"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should &lt;a href=&quot;%1&quot;&gt;open the library manager&lt;/a&gt; to add some libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Цей робочий простір не містить жодної бібліотеки, яка є необхідною для створення та зміни проектів. Ви повинні &lt;a href=&quot;%1&quot;&gt;відкрити менеджер бібліотек&lt;/a&gt;, щоб додати деякі бібліотеки.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="407"/>
         <source>Workspace changed</source>
-        <translation type="unfinished"/>
+        <translation>Робочий простір змінено</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="408"/>
         <source>The chosen workspace will be used after restarting the application.</source>
-        <translation type="unfinished"/>
+        <translation>Обраний робочий простір буде використовуватися після перезапуску програми.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="443"/>
         <source>Could not create project</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося створити проект</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="459"/>
         <source>LibrePCB project files (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Файли проектів LibrePCB (%1)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="504"/>
@@ -9174,7 +9174,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="169"/>
         <source>Package Pad</source>
-        <translation type="unfinished"/>
+        <translation>Пад пакунку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="171"/>
@@ -9203,12 +9203,12 @@ Warning: This cannot be undone!</source>
         <location filename="../libs/librepcb/editor/dialogs/directorylockhandlerdialog.ui" line="35"/>
         <source>Could not open the directory &quot;%1&quot; because it is already opened by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
         <extracomment>%2 is something like &quot;sername@computername&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Не вдалося відкрити каталог &quot;%1&quot;, оскільки він вже відкритий &quot;%2&quot;. Закрийте будь-яку програму, яка отримує доступ до цього каталогу, і повторіть спробу.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/directorylockhandlerdialog.ui" line="52"/>
         <source>If you&apos;re absolutely sure that the directory is not accessed by any other application instance anymore, you could discard the current lock and open this directory anyway. But if the directory is still accessed by another application instance, this could lead in corrupt files, so use this option very carefully!</source>
-        <translation type="unfinished"/>
+        <translation>Якщо ви абсолютно впевнені, що каталог більше не використовується жодним іншим екземпляром програми, ви можете відкинути поточне блокування і відкрити цей каталог все одно. Але якщо каталог все ще використовується іншим екземпляром програми, це може призвести до пошкодження файлів, тому використовуйте цю опцію дуже обережно!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/directorylockhandlerdialog.cpp" line="53"/>
@@ -9257,7 +9257,8 @@ Warning: This cannot be undone!</source>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="60"/>
         <source>Additional scale factor, in case the DXF is not scaled properly.
 Note: If you have issues with scaling, make sure to configure the measuring unit of the DXF in your MCAD.</source>
-        <translation type="unfinished"/>
+        <translation>Додатковий множник масштабу, у разі якщо DXF не масштабується належним чином.
+Примітка: Якщо у вас виникли проблеми з масштабуванням, переконайтеся, що ви налаштували одиницю вимірювання DXF у вашій MCAD.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="80"/>
@@ -9268,7 +9269,8 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="87"/>
         <source>If checked (the default), you can interactively place the imported objects by cursor.
 If unchecked, you need to specify exact coordinates where the point (0,0) of the DXF will be located.</source>
-        <translation type="unfinished"/>
+        <translation>Якщо встановлено (за замовчуванням), ви можете інтерактивно розмістити імпортовані об&apos;єкти курсором.
+Якщо не встановлено, вам потрібно вказати точні координати, де буде розташована точка (0,0) DXF.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="91"/>
@@ -9294,7 +9296,8 @@ If unchecked, you need to specify exact coordinates where the point (0,0) of the
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="123"/>
         <source>If checked, tangent polylines of the DXF will be joined together.
 Helps for example to avoid invalid board outline polygons.</source>
-        <translation type="unfinished"/>
+        <translation>Якщо встановлено, тангенційні полілінії DXF будуть з&apos;єднані разом.
+Допомагає, наприклад, уникнути недійсних полігонів контуру плати.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="127"/>
@@ -9305,7 +9308,8 @@ Helps for example to avoid invalid board outline polygons.</source>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="134"/>
         <source>If checked, circles will be imported as drills.
 If unchecked (the default), circles will be imported as polygons.</source>
-        <translation type="unfinished"/>
+        <translation>Якщо встановлено, кола будуть імпортовані як отвори.
+Якщо не встановлено (за замовчуванням), кола будуть імпортовані як полігони.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="138"/>
@@ -9340,7 +9344,9 @@ If unchecked (the default), circles will be imported as polygons.</source>
         <source>The import is currently in progress. Closing this window will abort it.
 
 Do you really want to close it?</source>
-        <translation type="unfinished"/>
+        <translation>Імпорт в даний момент виконується. Закриття цього вікна призведе до його скасування.
+
+Ви дійсно хочете його закрити?</translation>
     </message>
 </context>
 <context>
@@ -9348,7 +9354,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="97"/>
         <source>No file selected.</source>
-        <translation type="unfinished"/>
+        <translation>Файл не обрано.</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="103"/>
@@ -9404,7 +9410,12 @@ Do you really want to close it?</source>
   &lt;li&gt;Review and rework geometry of symbols and footprints&lt;/li&gt;
   &lt;li&gt;Fix any remaining warnings shown in the library editor&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Після імпорту настійно рекомендується виконати наступні завдання з кожним імпортованим елементом:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Назначити розумні категорії (якщо ще не зроблено)&lt;/li&gt;
+  &lt;li&gt;Переглянути та переробити геометрію символів та міток&lt;/li&gt;
+  &lt;li&gt;Виправити будь-які залишкові попередження, показані в редакторі бібліотек&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.ui" line="47"/>
@@ -9475,12 +9486,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="50"/>
         <source>Add prefix &quot;%1&quot; to all library element names</source>
-        <translation type="unfinished"/>
+        <translation>Додати префікс &quot;%1&quot; до всіх назв елементів бібліотеки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="60"/>
         <source>Component Category</source>
-        <translation type="unfinished"/>
+        <translation>Категорія компонента</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="88"/>
@@ -9530,7 +9541,12 @@ Do you really want to close it?</source>
   &lt;li&gt;If you import library elements multiple times, you will end up with duplicates. It is recommended to import each EAGLE library only once. So you should select all elements you might ever need, instead of importing a library step by step.&lt;/li&gt;
   &lt;li&gt;Especially if you plan to import a lot of elements, it might be a good idea to create a separate LibrePCB library for them. This will provide a clear separation between imported elements and manually created elements.&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Будь ласка, зверніть увагу на ці важливі примітки при використанні цього інструменту:
+&lt;ul&gt;
+  &lt;li&gt;Бібліотеки LibrePCB організовані по-іншому, ніж бібліотеки EAGLE, тому якість імпортованих елементів, ймовірно, не буде такою високою, як при створенні їх вручну з нуля. Після імпорту може знадобитися деяка ручна переробка.&lt;/li&gt;
+  &lt;li&gt;Якщо ви імпортуєте елементи бібліотеки кілька разів, ви отримаєте дублікати. Рекомендується імпортувати кожну бібліотеку EAGLE лише один раз. Тому ви повинні вибрати всі елементи, які вам можуть знадобитися, замість того, щоб імпортувати бібліотеку поетапно.&lt;/li&gt;
+  &lt;li&gt;Особливо, якщо ви плануєте імпортувати багато елементів, може бути доброю ідеєю створити окрему бібліотеку LibrePCB для них. Це забезпечить чітке розмежування між імпортованими елементами та елементами, створеними вручну.&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
 </context>
 <context>
@@ -9643,7 +9659,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="17"/>
         <source>Fabrication Output Generator</source>
-        <translation type="unfinished"/>
+        <translation>Генератор вихідних даних для виготовлення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="46"/>
@@ -9655,69 +9671,73 @@ Do you really want to close it?</source>
         <source>Export slots as drilled (G85) instead of routed (G00..G03).
 Not recommended unless the G00..G03 are causing troubles with the PCB manufacturer.
 Attention: Curved slots are not supported in G85 mode (will raise an error).</source>
-        <translation type="unfinished"/>
+        <translation>Експортувати слоти як свердловані (G85) замість фрезерованих (G00..G03).
+Не рекомендується, якщо G00..G03 створюють проблеми з виробником плат.
+Увага: криві слоти не підтримуються в режимі G85 (викличуть помилку).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="57"/>
         <source>Use drilled slot command in Excellon files (G85)</source>
-        <translation type="unfinished"/>
+        <translation>Використовувати свердловану команду слота в файлах Excellon (G85)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="74"/>
         <source>Bottom Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Нижня Мідь:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="88"/>
         <source>Drills PTH:</source>
-        <translation type="unfinished"/>
+        <translation>Отвори PTH:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="95"/>
         <source>Bottom Silkscreen:</source>
-        <translation type="unfinished"/>
+        <translation>Нижня Шовкографія:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="102"/>
         <source>Bottom Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Нижня Стоп-Маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="109"/>
         <source>Top Solder Paste
 (Top Stencil):</source>
-        <translation type="unfinished"/>
+        <translation>Верх Паяльна Паста
+(Верхній Трафарет):</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="138"/>
         <source>Base Path:</source>
-        <translation type="unfinished"/>
+        <translation>Базовий Шлях:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="159"/>
         <source>Outlines:</source>
-        <translation type="unfinished"/>
+        <translation>Контури:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="180"/>
         <source>Drills Merged:</source>
-        <translation type="unfinished"/>
+        <translation>Об&apos;єднані Свердла:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="194"/>
         <source>Merge PTH and NPTH drills into one file</source>
-        <translation type="unfinished"/>
+        <translation>Об&apos;єднати PTH та NPTH сверління в один файл</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="208"/>
         <source>Bottom Solder Paste
 (Bottom Stencil):</source>
-        <translation type="unfinished"/>
+        <translation>Нижня Паяльна Паста
+(Нижній Трафарет):</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="216"/>
         <source>Drills NPTH:</source>
-        <translation type="unfinished"/>
+        <translation>Отвори NPTH:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="233"/>
