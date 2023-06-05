@@ -272,7 +272,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="213"/>
         <source>Minify the STEP models of all packages. Only works in conjunction with &apos;--all&apos;. Pass &apos;--save&apos; to write the minified files to disk.</source>
-        <translation>Зменшити розмір STEP-моделей всіх пакунків. Працює лише в поєднанні з параметром &apos;--all&apos;. Використовуйте &apos;--save&apos;, щоб зберегти зменшені файли на диск.</translation>
+        <translation>Зменшити розмір STEP-моделей всіх корпусів. Працює лише в поєднанні з параметром &apos;--all&apos;. Використовуйте &apos;--save&apos;, щоб зберегти зменшені файли на диск.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="217"/>
@@ -3496,7 +3496,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
-        <translation>Усі пакетні пади повинні мати унікальні імена, інакше їх не можна буде відрізнити пізніше в редакторі пристроїв. Якщо ваша частина має кілька виводів з однаковою функціональністю (наприклад, кілька виводів GND), ви можете призначити всі ці пади для тієї ж сигналу компонента пізніше в редакторі пристроїв.
+        <translation>Усі пади корпусу повинні мати унікальні імена, інакше їх не можна буде відрізнити пізніше в редакторі пристроїв. Якщо ваша частина має кілька виводів з однаковою функціональністю (наприклад, кілька виводів GND), ви можете призначити всі ці пади для тієї ж сигналу компонента пізніше в редакторі пристроїв.
 
 Для нейтральних пакунків (наприклад, SOT23) пади повинні мати імена тільки за номерами, а не за функціональністю (наприклад, назвіть їх &apos;1&apos;, &apos;2&apos;, &apos;3&apos; замість &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</translation>
     </message>
@@ -3650,7 +3650,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="184"/>
         <source>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</source>
-        <translation>Кожний пакет повинен мати принаймні один відбиток, інакше його не можна додати до плати.</translation>
+        <translation>Кожний корпус повинен мати принаймні один відбиток, інакше його не можна додати до плати.</translation>
     </message>
 </context>
 <context>
@@ -3663,7 +3663,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="199"/>
         <source>The footprint has no 3D model specified, so the package will be missing in the 3D viewer and in 3D data exports. However, this has no impact on the PCB production data.</source>
-        <translation>Відбиток не має вказаної 3D-моделі, тому пакет буде відсутній у 3D-переглядачі та у 3D-експортах даних. Однак це не впливає на виробничі дані плати.</translation>
+        <translation>Відбиток не має вказаної 3D-моделі, тому корпус буде відсутній у 3D-переглядачі та у 3D-експортах даних. Однак це не впливає на виробничі дані плати.</translation>
     </message>
 </context>
 <context>
@@ -3773,7 +3773,7 @@ To fix this issue, connect the package pads to their corresponding component sig
 If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
         <translation>Обраний пакунок містить пади, але жоден з них не підключений до сигналів компонента. Таким чином, ці пади не мають електричної функції, і при додаванні пристрою до плати не можна підключити до них жодних слідів. 
 
-Щоб виправити цю проблему, підключіть пади пакунка до відповідних сигналів компонента в таблиці.
+Щоб виправити цю проблему, підключіть пади корпусу до відповідних сигналів компонента в таблиці.
 
 Якщо всі пади мають лише механічну мету і, таким чином, не потребують підключення до сигналів компонента, це повідомлення можна ігнорувати.</translation>
     </message>
@@ -4827,7 +4827,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="89"/>
         <source>No package with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
-        <translation>В бібліотеці проекту не знайдено пакунок з UUID &quot;%1&quot;.</translation>
+        <translation>В бібліотеці проекту не знайдено корпус з UUID &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -5622,7 +5622,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="512"/>
         <source>Skipped package due to error: %1</source>
-        <translation>Пропущено пакет через помилку: %1</translation>
+        <translation>Пропущено корпус через помилку: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="553"/>
@@ -5642,7 +5642,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="615"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
-        <translation>Залежний пакет &quot;%1&quot; не імпортовано.</translation>
+        <translation>Залежний корпус &quot;%1&quot; не імпортовано.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="647"/>
@@ -7362,12 +7362,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="114"/>
         <source>The package with the UUID &quot;%1&quot; does not exist in the workspace library!</source>
-        <translation>Пакунок з UUID &quot;%1&quot; не існує в бібліотеці робочого простору!</translation>
+        <translation>Корпус з UUID &quot;%1&quot; не існує в бібліотеці робочого простору!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="135"/>
         <source>Package does not have any footprints: %1</source>
-        <translation>Пакунок не має жодних футпрінтів: %1</translation>
+        <translation>Корпус не має жодних футпрінтів: %1</translation>
     </message>
 </context>
 <context>
@@ -7982,7 +7982,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpackagepadedit.cpp" line="38"/>
         <source>Edit package pad</source>
-        <translation>Редагувати пад пакунку</translation>
+        <translation>Редагувати пад корпусу</translation>
     </message>
 </context>
 <context>
@@ -8984,7 +8984,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="76"/>
         <source>Package</source>
-        <translation>Упаковка</translation>
+        <translation>Корпус</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="159"/>
@@ -9076,17 +9076,17 @@ Warning: This cannot be undone!</source>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="309"/>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="410"/>
         <source>Package not found!</source>
-        <translation>Пакунок не знайдено!</translation>
+        <translation>Корпус не знайдено!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="318"/>
         <source>Change package</source>
-        <translation>Змінити пакунок</translation>
+        <translation>Змінити корпус</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="337"/>
         <source>Could not set package</source>
-        <translation>Не вдається встановити пакунок</translation>
+        <translation>Не вдається встановити корпус</translation>
     </message>
 </context>
 <context>
@@ -9134,12 +9134,12 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="151"/>
         <source>Package:</source>
-        <translation>Пакунок:</translation>
+        <translation>Корпус:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="183"/>
         <source>Footprint:</source>
-        <translation>Футпрінт</translation>
+        <translation>Відбиток:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="218"/>
@@ -9187,7 +9187,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="169"/>
         <source>Package Pad</source>
-        <translation>Пад пакунку</translation>
+        <translation>Пад корпусу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="171"/>
@@ -9471,7 +9471,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="260"/>
         <source>Packages</source>
-        <translation>Пакунки</translation>
+        <translation>Корпуси</translation>
     </message>
 </context>
 <context>
@@ -9521,7 +9521,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="119"/>
         <source>Package Category</source>
-        <translation>Категорія пакунку</translation>
+        <translation>Категорія корпусу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="183"/>
@@ -9672,20 +9672,20 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="17"/>
         <source>Fabrication Output Generator</source>
-        <translation>Генератор вихідних даних для виготовлення</translation>
+        <translation>Генератор Вихідних Даних Для Виготовлення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="46"/>
         <source>Output Files</source>
-        <translation>Вихідні файли</translation>
+        <translation>Вихідні Файли</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="52"/>
         <source>Export slots as drilled (G85) instead of routed (G00..G03).
 Not recommended unless the G00..G03 are causing troubles with the PCB manufacturer.
 Attention: Curved slots are not supported in G85 mode (will raise an error).</source>
-        <translation>Експортувати слоти як свердловані (G85) замість фрезерованих (G00..G03).
-Не рекомендується, якщо G00..G03 створюють проблеми з виробником плат.
+        <translation>Експортувати слоти як цикли свердлінь (G85) замість переміщень (G00..G03).
+Не рекомендується, окрім випадків, коли у виробника плат виникають проблеми з G00..G03.
 Увага: криві слоти не підтримуються в режимі G85 (викличуть помилку).</translation>
     </message>
     <message>
@@ -9896,7 +9896,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="30"/>
         <source>Package Pad:</source>
-        <translation>Пад пакування:</translation>
+        <translation>Пад корпусу:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="40"/>
@@ -11038,12 +11038,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="125"/>
         <source>Package Categories</source>
-        <translation>Категорії упаковок</translation>
+        <translation>Категорії корпусу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="165"/>
         <source>Packages</source>
-        <translation>Пакунки</translation>
+        <translation>Корпуси</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="205"/>
@@ -11280,13 +11280,13 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="62"/>
         <source>Used to categorize packages</source>
-        <translation>Використовується для категоризації пакування</translation>
+        <translation>Використовується для категоризації корпусів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="65"/>
         <source>Package Category
 (e.g. DIP)</source>
-        <translation>Категорія пакування
+        <translation>Категорія корпусу
 (наприклад, DIP)</translation>
     </message>
     <message>
@@ -11310,7 +11310,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="125"/>
         <source>Package
 (e.g. DIP8)</source>
-        <translation>Пакування
+        <translation>Корпус
 (наприклад, DIP8)</translation>
     </message>
     <message>
@@ -11378,7 +11378,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="20"/>
         <source>Set the component and the package of the new component.</source>
-        <translation>Встановіть компонент та пакунок нового компонента.</translation>
+        <translation>Встановіть компонент та корпус нового компонента.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="29"/>
@@ -11459,7 +11459,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="20"/>
         <source>Set the component and the package of the new device.</source>
-        <translation>Встановіть компонент та упаковку нового пристрою.</translation>
+        <translation>Встановіть компонент та корпус нового пристрою.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="26"/>
@@ -11475,7 +11475,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="95"/>
         <source>Package</source>
-        <translation>Упаковка</translation>
+        <translation>Корпус</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="110"/>
@@ -11491,7 +11491,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="142"/>
         <source>No package selected</source>
-        <translation>Не вибрано жодного пакунку</translation>
+        <translation>Не вибрано жодного корпусу</translation>
     </message>
 </context>
 <context>
@@ -11579,12 +11579,12 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="14"/>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="17"/>
         <source>Package Pads</source>
-        <translation>Пади пакування</translation>
+        <translation>Пади корпусу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="20"/>
         <source>Define all available pads of the package.</source>
-        <translation>Задайте всі доступні пади пакунка.</translation>
+        <translation>Задайте всі доступні пади корпусу.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="53"/>
@@ -11984,7 +11984,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.ui" line="17"/>
         <source>Choose Package</source>
-        <translation>Обрати Пакунок</translation>
+        <translation>Обрати Корпус</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.ui" line="31"/>
@@ -12004,12 +12004,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="201"/>
         <source>No package selected</source>
-        <translation>Не вибрано жодного пакунку</translation>
+        <translation>Не вибрано жодного корпусу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="211"/>
         <source>Could not load package metadata</source>
-        <translation>Неможливо завантажити метадані пакунка</translation>
+        <translation>Неможливо завантажити метадані корпусу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="246"/>
@@ -12019,7 +12019,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="247"/>
         <source>Please select a package.</source>
-        <translation>Будь ласка, виберіть пакунок.</translation>
+        <translation>Будь ласка, виберіть корпус.</translation>
     </message>
 </context>
 <context>
@@ -12055,7 +12055,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="134"/>
         <source>Package Pad:</source>
-        <translation>Пакунковий пад:</translation>
+        <translation>Пад корпусу:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="216"/>
@@ -12342,7 +12342,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="261"/>
         <source>Package should no longer be used.</source>
-        <translation>Пакунок більше не повинен використовуватися.</translation>
+        <translation>Корпус більше не повинен використовуватися.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="268"/>
@@ -12501,7 +12501,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="91"/>
         <source>Add package pad(s)</source>
-        <translation>Додати пад(и) пакунка</translation>
+        <translation>Додати пад(и) корпусу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="104"/>
@@ -12518,7 +12518,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="193"/>
         <source>Package Pads</source>
-        <translation>Пади Пакунка</translation>
+        <translation>Пади Корпусу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="208"/>
@@ -13970,7 +13970,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="100"/>
         <source>No device or package for the selected component found in the library! Please add a suitable device and package to your workspace library.</source>
-        <translation>У бібліотеці не знайдено пристрій або пакунок для вибраного компонента! Будь ласка, додайте відповідний пристрій та пакунок до бібліотеки робочого простору.</translation>
+        <translation>У бібліотеці не знайдено пристрій або корпус для вибраного компонента! Будь ласка, додайте відповідний пристрій та корпус до бібліотеки робочого простору.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="128"/>
