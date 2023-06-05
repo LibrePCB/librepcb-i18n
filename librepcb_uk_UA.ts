@@ -2160,7 +2160,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="969"/>
         <source>Add Edge Connector Pad</source>
-        <translation>Додати підошву краївого з&apos;єднувача</translation>
+        <translation>Додати Пад Конектора</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="970"/>
@@ -2170,7 +2170,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="978"/>
         <source>Add Test Pad</source>
-        <translation>Додати тест-підошву</translation>
+        <translation>Додати Тест-пад</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="979"/>
@@ -2180,22 +2180,22 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="987"/>
         <source>Add Local Fiducial Pad</source>
-        <translation>Додати локальну підошву відліку</translation>
+        <translation>Додати Локальний Пад Фідуциала</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="988"/>
         <source>Add special SMT pads used as local fiducials</source>
-        <translation>Додати спеціальні SMT пади, що використовуються як локальні відліки</translation>
+        <translation>Додати спеціальні SMT пади, що використовуються як локальні фідуциали</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="996"/>
         <source>Add Global Fiducial Pad</source>
-        <translation type="unfinished"/>
+        <translation>Додати Глобальний Пад Фідуциала</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="997"/>
         <source>Add special SMT pads used as global fiducials</source>
-        <translation type="unfinished"/>
+        <translation>Додати спеціальні SMT пади, що використовуються як глобальні фідуциали</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1005"/>
@@ -2205,7 +2205,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1006"/>
         <source>Add non-plated holes (NPTH drills)</source>
-        <translation type="unfinished"/>
+        <translation>Додати неметалізовані отвори (NPTH свердла)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1014"/>
@@ -2626,7 +2626,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1391"/>
         <source>Docks</source>
-        <translation type="unfinished"/>
+        <translation>Доки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1395"/>
@@ -2636,7 +2636,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1396"/>
         <source>Go to the pages dock</source>
-        <translation type="unfinished"/>
+        <translation>Перейти до доку сторінок</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1404"/>
@@ -2646,7 +2646,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1405"/>
         <source>Go to the ERC messages dock</source>
-        <translation type="unfinished"/>
+        <translation>Перейти до доку повідомлень ERC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1413"/>
@@ -2656,7 +2656,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1414"/>
         <source>Go to the DRC messages dock</source>
-        <translation type="unfinished"/>
+        <translation>Перейти до доку повідомлень DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1422"/>
@@ -2666,7 +2666,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1423"/>
         <source>Go to the layers dock</source>
-        <translation type="unfinished"/>
+        <translation>Перейти до доку шарів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1431"/>
@@ -2676,7 +2676,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1432"/>
         <source>Go to the dock for placing devices</source>
-        <translation type="unfinished"/>
+        <translation>Перейти до доку для розміщення пристроїв</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1440"/>
@@ -2932,12 +2932,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="170"/>
         <source>Connected pin without wire: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Підключений контакт без дроту: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="172"/>
         <source>The pin is electrically connected to a net, but has no wire attached so this connection is not visible in the schematic. Add a wire to make the connection visible.</source>
-        <translation type="unfinished"/>
+        <translation>Контакт електрично підключений до мережі, але не має дроту, тому це підключення не видно на схемі. Додайте дріт, щоб зробити підключення видимим.</translation>
     </message>
 </context>
 <context>
@@ -2945,12 +2945,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="98"/>
         <source>Net name conflict: &apos;%1&apos; != &apos;%2&apos; (&apos;%3:%4&apos;)</source>
-        <translation type="unfinished"/>
+        <translation>Конфлікт імен мереж: &apos;%1&apos; != &apos;%2&apos; (&apos;%3:%4&apos;)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="102"/>
         <source>The component signal requires the attached net to be named &apos;%1&apos;, but it is named &apos;%2&apos;. Either rename the net manually or remove this connection.</source>
-        <translation type="unfinished"/>
+        <translation>Сигнал компонента вимагає, щоб приєднана мережа називалася &apos;%1&apos;, але вона називається &apos;%2&apos;. Перейменуйте мережу вручну або видаліть це з&apos;єднання.</translation>
     </message>
 </context>
 <context>
@@ -2958,12 +2958,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="61"/>
         <source>Less than two pins in net: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Менше ніж два контакти в мережі: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="62"/>
         <source>The net is connected to less than two pins, so it does not represent an electrical connection. Check if you missed to connect more pins.</source>
-        <translation type="unfinished"/>
+        <translation>Мережа підключена до менше ніж двох контактів, тому вона не представляє собою електричного з&apos;єднання. Перевірте, чи не пропустили ви підключення більшої кількості контактів.</translation>
     </message>
 </context>
 <context>
@@ -2979,12 +2979,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="76"/>
         <source>Unconnected component signal: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Непідключений сигнал компонента: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="79"/>
         <source>The component signal is marked as required, but is not connected to any net. Add a wire to the corresponding symbol pin to connect it to a net.</source>
-        <translation type="unfinished"/>
+        <translation>Сигнал компонента позначено як обов&apos;язковий, але не підключено до жодної мережі. Додайте дріт до відповідного контакту символу, щоб підключити його до мережі.</translation>
     </message>
 </context>
 <context>
@@ -2992,12 +2992,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="150"/>
         <source>Unplaced gate: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Не розміщений шлюз: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="152"/>
         <source>The optional gate &apos;%1&apos; of &apos;%2&apos; is not added to the schematic.</source>
-        <translation type="unfinished"/>
+        <translation>Необов&apos;язковий шлюз &apos;%1&apos; &apos;%2&apos; не додано до схеми.</translation>
     </message>
 </context>
 <context>
@@ -3005,12 +3005,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="128"/>
         <source>Unplaced required gate: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Не розміщений обов&apos;язковий шлюз: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="130"/>
         <source>The gate &apos;%1&apos; of &apos;%2&apos; is marked as required, but it is not added to the schematic.</source>
-        <translation type="unfinished"/>
+        <translation>Шлюз &apos;%1&apos; &apos;%2&apos; позначений як обов&apos;язковий, але не доданий до схеми.</translation>
     </message>
 </context>
 <context>
@@ -3023,7 +3023,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="49"/>
         <source>There are no nets assigned to the net class, so you could remove it.</source>
-        <translation type="unfinished"/>
+        <translation>Немає мереж, призначених для класу мережі, тому ви можете видалити його.</translation>
     </message>
 </context>
 <context>
@@ -3031,7 +3031,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/export/excellongenerator.cpp" line="185"/>
         <source>Using the G85 slot command is not possible for curved slots. Either remove curved slots or disable the G85 export option.</source>
-        <translation type="unfinished"/>
+        <translation>Використання команди G85 для слотів з кривими не можливе. Видаліть слоти з кривими або вимкніть опцію експорту G85.</translation>
     </message>
 </context>
 <context>
@@ -3112,42 +3112,42 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="574"/>
         <source>Standard Pad (soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Стандартні пади (паяні)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="576"/>
         <source>Press-Fit Pad (THT, soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Пади Press-Fit (THT, паяні)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="578"/>
         <source>Thermal Pad (SMT, soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Термопади (SMT, паяні)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="580"/>
         <source>BGA Pad (SMT, soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Пади BGA (SMT, паяні)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="582"/>
         <source>Edge Connector Pad (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Пади країв роз&apos;єму (SMT, без паяння)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="584"/>
         <source>Test Pad (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Тестові пади (SMT, без паяння)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="586"/>
         <source>Local Footprint Fiducial (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Локальний фідуціал відбитка (SMT, без паяння)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="588"/>
         <source>Global Board Fiducial (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Глобальний фідуціал плати (SMT, без паяння)</translation>
     </message>
 </context>
 <context>
@@ -3156,7 +3156,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="92"/>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="146"/>
         <source>Sheet Frames</source>
-        <translation type="unfinished"/>
+        <translation>Рамки аркушів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="98"/>
@@ -3413,12 +3413,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="147"/>
         <source>Go to &amp;Dock</source>
-        <translation type="unfinished"/>
+        <translation>Перейти до &amp;Доку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="151"/>
         <source>&amp;Show/Hide Docks</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Показати/Приховати Доки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="156"/>
@@ -3532,12 +3532,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="87"/>
         <source>Small copper clearance on fiducial in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Малий зазор між міддю паду фідуціала в &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="89"/>
         <source>The copper clearance of the fiducial pad is less than its stop mask expansion, which is unusual. Typically the copper clearance should be equal to or greater than the stop mask expansion to avoid copper located within the stop mask opening.</source>
-        <translation type="unfinished"/>
+        <translation>Зазор між міддю паду фідуціала менше, ніж його розширення стоп-маски, що є незвичайним. Зазвичай зазор між міддю повинен бути рівним або більшим за розширення стоп-маски, щоб уникнути міді, розташованої всередині відкриття стоп-маски.</translation>
     </message>
 </context>
 <context>
@@ -3545,12 +3545,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="112"/>
         <source>Stop mask not set on fiducial in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Стоп-маска не встановлена на фідуціалі в &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="114"/>
         <source>The stop mask expansion of the fiducial pad is set to automatic, which is unusual. Typically the stop mask expansion of fiducials need to be manually set to a much larger value.</source>
-        <translation type="unfinished"/>
+        <translation>Розширення стоп-маски паду фідуціала встановлено в автоматичний режим, що є незвичайним. Зазвичай розширення стоп-маски фідуціалів потрібно встановлювати вручну значно більшим значенням.</translation>
     </message>
 </context>
 <context>
@@ -3935,7 +3935,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="54"/>
         <source>The specified assembly type differs from the assembly type which is auto-detected from the footprint contents. Double-check if the specified assembly type is really correct.</source>
-        <translation type="unfinished"/>
+        <translation>Вказаний тип збірки відрізняється від типу збірки, який автоматично визначається з вмісту мітки. Перевірте, чи вказаний тип збірки дійсно правильний.</translation>
     </message>
 </context>
 <context>
@@ -3943,7 +3943,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="518"/>
         <source>Suspicious function of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Підозріла функція пада &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="520"/>
@@ -3953,7 +3953,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
  - Function is intended for SMT pads but pad is THT
  - Function is electrical but pad is not connected
  - Function is fiducial but pad is connected</source>
-        <translation type="unfinished"/>
+        <translation>Налаштована функція пада не відповідає іншим властивостям пада і, таким чином, виглядає підозрілою. Можливі причини:
+
+ - Функція призначена для THT падів, але пад є SMT
+ - Функція призначена для SMT падів, але пад є THT
+ - Функція є електричною, але пад не підключений
+ - Функція є фідуціалом, але пад підключений</translation>
     </message>
 </context>
 <context>
@@ -3961,12 +3966,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="124"/>
         <source>Pin not on %1mm grid: &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Пін не на сітці %1 мм: &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="126"/>
         <source>Every pin must be placed exactly on the %1mm grid, otherwise it cannot be connected in the schematic editor.</source>
-        <translation type="unfinished"/>
+        <translation>Кожний пін повинен бути розміщений точно на сітці %1 мм, інакше його не можна буде підключити в редакторі схем.</translation>
     </message>
 </context>
 <context>
@@ -3974,12 +3979,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="545"/>
         <source>Solder paste on THT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Паяльна паста на THT паді &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="547"/>
         <source>The THT pad has solder paste enabled, which is very unusual since through-hole components are usually not reflow soldered. Also the solder paste could flow into the pads hole, possibly causing troubles during THT assembly. Double-check if this is really what you want.</source>
-        <translation type="unfinished"/>
+        <translation>На THT паді включена паяльна паста, що дуже незвичайно, оскільки компоненти з отворами зазвичай не паяються методом рефлоу. Крім того, паяльна паста може потрапити в отвір паду, що може призвести до проблем під час збірки THT. Перевірте, чи це дійсно те, що ви хочете.</translation>
     </message>
 </context>
 <context>
@@ -3987,17 +3992,17 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="571"/>
         <source>Unspecified function of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Не вказана функція паду &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="573"/>
         <source>The function of the pad is not specified, which could lead to inaccurate or wrong data in exports (e.g. pick&amp;place files). Also the automatic checks can detect more potential issues if the function is specified. Thus it&apos;s recommended to explicitly specify the function of each pad.</source>
-        <translation type="unfinished"/>
+        <translation>Функція паду не вказана, що може призвести до неточних або неправильних даних у експортах (наприклад, у файлах pick&amp;place). Крім того, автоматичні перевірки можуть виявити більше потенційних проблем, якщо функція вказана. Тому рекомендується явно вказати функцію кожного паду.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="579"/>
         <source>However, the image data of a PCB is not affected by the pad function.</source>
-        <translation type="unfinished"/>
+        <translation>Однак, дані зображення плати не залежать від функції паду.</translation>
     </message>
 </context>
 <context>
@@ -4005,12 +4010,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="600"/>
         <source>Unused custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Невикористана власна форма паду &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="602"/>
         <source>The pad has set a custom outline but it isn&apos;t used as the shape. So it has no effect and should be removed to avoid confusion.</source>
-        <translation type="unfinished"/>
+        <translation>Пад має встановлену власну форму, але вона не використовується як форма. Тому вона не має ефекту і повинна бути видалена, щоб уникнути плутанини.</translation>
     </message>
 </context>
 <context>
@@ -4018,12 +4023,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="623"/>
         <source>Layer of &apos;%1&apos; in &apos;%2&apos; is not &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Шар &apos;%1&apos; в &apos;%2&apos; не є &apos;%3&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="626"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Елемент тексту &apos;%1&apos; зазвичай повинен бути на шарі &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -4031,12 +4036,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="145"/>
         <source>Layer of &apos;%1&apos; is not &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Шар &apos;%1&apos; не є &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="147"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Елемент тексту &apos;%1&apos; зазвичай повинен бути на шарі &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -4044,12 +4049,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="338"/>
         <source>Failed to write STEP file.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося записати STEP-файл.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="524"/>
         <source>Failed to read STEP file!</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося прочитати STEP-файл!</translation>
     </message>
 </context>
 <context>
@@ -4057,12 +4062,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/geometry/path.h" line="200"/>
         <source>Path doesn&apos;t contain vertices!</source>
-        <translation type="unfinished"/>
+        <translation>Шлях не містить вершин!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/geometry/path.h" line="240"/>
         <source>Path is not fillable or contains arcs!</source>
-        <translation type="unfinished"/>
+        <translation>Шлях не заповнюється або містить дуги!</translation>
     </message>
 </context>
 <context>
@@ -4085,7 +4090,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="101"/>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Прозорий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="107"/>
@@ -4143,7 +4148,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/ratio.h" line="348"/>
         <source>Value must be 0..1!</source>
-        <translation type="unfinished"/>
+        <translation>Значення повинно бути 0..1!</translation>
     </message>
 </context>
 <context>
@@ -4179,7 +4184,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="283"/>
         <source>Pin:</source>
-        <translation type="unfinished"/>
+        <translation>Вивід:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="284"/>
@@ -4849,112 +4854,112 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="133"/>
         <source>Rebuild planes...</source>
-        <translation type="unfinished"/>
+        <translation>Перебудова площин...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="145"/>
         <source>Check copper widths...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка ширин міді...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="223"/>
         <source>Check copper clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка кліренсів міді...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="505"/>
         <source>Check board clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка кліренсів плати...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="650"/>
         <source>Check hole clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка кліренсів отворів...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="705"/>
         <source>Check drill clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка кліренсів отворів...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="793"/>
         <source>Check drill to board edge clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка кліренсів від отворів до краю плати...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="867"/>
         <source>Check PTH annular rings...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка спідниць PTH отворів...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="934"/>
         <source>Check NPTH drill diameters...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка діаметрів NPTH отворів...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="965"/>
         <source>Check NPTH slot widths...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка ширини NPTH слотів...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="996"/>
         <source>Check PTH drill diameters...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка діаметрів PTH отворів...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1034"/>
         <source>Check PTH slot widths...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка ширини PTH слотів...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1053"/>
         <source>Check for useless or disallowed vias...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка на непотрібні або заборонені перехідні отвори...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1080"/>
         <source>Check for disallowed NPTH slots...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка заборонених NPTH слотів...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1111"/>
         <source>Check for disallowed PTH slots...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка на заборонені PTH слоти...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1130"/>
         <source>Check pad connections...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка підключень паду...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1164"/>
         <source>Check courtyard clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка відстаней між корпусами...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1199"/>
         <source>Check board outline...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка контуру плати...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1277"/>
         <source>Check for unplaced components...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка нерозміщених компонентів...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1292"/>
         <source>Check configured default devices...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка налаштованих пристроїв за замовчуванням...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1307"/>
         <source>Check for missing connections...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка відсутніх з&apos;єднань...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1325"/>
         <source>Check for stale objects...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка застарілих об&apos;єктів...</translation>
     </message>
 </context>
 <context>
@@ -4963,19 +4968,19 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="102"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="128"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Вже існує клас мережі з ім&apos;ям &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="181"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="208"/>
         <source>There is already a net signal with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Вже існує сигнал мережі з ім&apos;ям &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="257"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="287"/>
         <source>There is already a component with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Вже існує компонент з ім&apos;ям &quot;%1&quot;!</translation>
     </message>
 </context>
 <context>
@@ -4983,12 +4988,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="178"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>Компонент &quot;%1&quot; не може бути видалений, оскільки він все ще використовується!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="216"/>
         <source>All symbols of a component must be placed in the same schematic.</source>
-        <translation type="unfinished"/>
+        <translation>Всі символи компонента повинні бути розміщені в одній схемі.</translation>
     </message>
 </context>
 <context>
@@ -4996,12 +5001,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="115"/>
         <source>The net signal of the component signal &quot;%1:%2&quot; cannot be changed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>Сигнал мережі компонента &quot;%1:%2&quot; не може бути змінений, оскільки він все ще використовується!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="154"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>Компонент &quot;%1&quot; не може бути видалений, оскільки він все ще використовується!</translation>
     </message>
 </context>
 <context>
@@ -5009,7 +5014,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/network/filedownload.cpp" line="108"/>
         <source>Error while writing file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Помилка під час запису файлу &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/filedownload.cpp" line="117"/>
@@ -5019,22 +5024,22 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/network/filedownload.cpp" line="121"/>
         <source>Error while readback file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Помилка під час повторного читання файлу &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/filedownload.cpp" line="133"/>
         <source>Checksum verification of downloaded file failed!</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка контрольної суми завантаженого файлу не вдалася!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/filedownload.cpp" line="141"/>
         <source>Extract files...</source>
-        <translation type="unfinished"/>
+        <translation>Розпакування файлів...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/filedownload.cpp" line="146"/>
         <source>Error while extracting the ZIP file &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Помилка під час розпакування ZIP-файлу &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -5042,27 +5047,27 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="409"/>
         <source>Some particular ERC message approvals cannot be migrated and therefore have been removed. Please check the remaining ERC messages and approve them if desired.</source>
-        <translation type="unfinished"/>
+        <translation>Деякі певні повідомлення ERC не можуть бути перенесені, тому вони були видалені. Будь ласка, перевірте залишені повідомлення ERC та схваліть їх, якщо потрібно.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="417"/>
         <source>All non-plated holes (NPTH) now have automatic stop mask added on both board sides. The expansion value is determined by the boards design rule settings but can be overridden in the hole properties dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Всі непокриті отвори (NPTH) тепер мають автоматичну маску зупинки на обох сторонах плати. Значення розширення визначається налаштуваннями правил проекту плати, але може бути перевизначено в діалоговому вікні властивостей отвору.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="426"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
-        <translation type="unfinished"/>
+        <translation>Некруглі форми переходів більше не підтримуються, всі переходи були змінені на круглі.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="433"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
-        <translation type="unfinished"/>
+        <translation>Розрахунки площини площин були скориговані, рекомендується ручний перегляд та запуск DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="440"/>
         <source>Vias within planes with connect style &apos;None&apos; are now fully connected to the planes since the connect style is no longer respected for vias. You might want to remove traces now which are no longer needed to connect these vias.</source>
-        <translation type="unfinished"/>
+        <translation>Переходи всередині площин зі стилем підключення &quot;Немає&quot; тепер повністю підключені до площин, оскільки стиль підключення більше не враховується для переходів. Ви можете видалити сліди, які більше не потрібно підключати до цих переходів.</translation>
     </message>
 </context>
 <context>
@@ -5070,22 +5075,22 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="187"/>
         <source>No pages to export/print.</source>
-        <translation type="unfinished"/>
+        <translation>Немає сторінок для експорту/друку.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="361"/>
         <source>Failed to export image &quot;%1&quot;. Check file permissions and make sure to use a supported image file extension.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося експортувати зображення &quot;%1&quot;. Перевірте права доступу до файлу та переконайтеся, що використовуєте підтримуване розширення файлу зображення.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="382"/>
         <source>Failed to finish PDF export. Check permissions of output file.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося завершити експорт у форматі PDF. Перевірте права доступу до вихідного файлу.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="386"/>
         <source>Failed to finish printing with unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося завершити друк з невідомою помилкою.</translation>
     </message>
 </context>
 <context>
@@ -5093,7 +5098,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/library.cpp" line="133"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Ім&apos;я каталогу бібліотеки повинно мати суфікс &apos;.lplib&apos;.</translation>
     </message>
 </context>
 <context>
@@ -5104,7 +5109,10 @@ For THT pads, the origin must be located within a drill hole since on some layer
 You need at least LibrePCB %1 to open it.
 
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Цей елемент бібліотеки був створений з новішою версією програми.
+Вам потрібно щонайменше LibrePCB %1, щоб відкрити його.
+
+%2</translation>
     </message>
 </context>
 <context>
@@ -5112,7 +5120,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/circuit/netclass.cpp" line="81"/>
         <source>The net class &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>Клас мережі &quot;%1&quot; не може бути видалений, оскільки він все ще використовується!</translation>
     </message>
 </context>
 <context>
@@ -5120,7 +5128,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="120"/>
         <source>The net signal &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>Сигнал мережі &quot;%1&quot; не може бути видалений, оскільки він все ще використовується!</translation>
     </message>
 </context>
 <context>
@@ -5128,7 +5136,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/network/networkrequest.cpp" line="58"/>
         <source>The received content exceeds the 100MB size limit.</source>
-        <translation type="unfinished"/>
+        <translation>Отриманий вміст перевищує обмеження розміру 100 МБ.</translation>
     </message>
 </context>
 <context>
@@ -5141,7 +5149,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="103"/>
         <source>Fatal error: Download manager is not running.</source>
-        <translation type="unfinished"/>
+        <translation>Фатальна помилка: менеджер завантаження не запущено.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="110"/>
@@ -5156,7 +5164,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="128"/>
         <source>Network access manager is not running.</source>
-        <translation type="unfinished"/>
+        <translation>Менеджер мережевого доступу не запущено.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="186"/>
@@ -5179,7 +5187,9 @@ You need at least LibrePCB %1 to open it.
         <source>SSL errors occurred:
 
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Виникли помилки SSL:
+
+%1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="240"/>
@@ -5222,7 +5232,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/network/orderpcbapirequest.cpp" line="138"/>
         <source>This service is currently not available. Please try again later or order the PCB manually either with the Gerber export or the *.lppz export.</source>
-        <translation type="unfinished"/>
+        <translation>Ця служба в даний час недоступна. Будь ласка, спробуйте пізніше або замовте плату вручну за допомогою експорту Gerber або експорту *.lppz.</translation>
     </message>
 </context>
 <context>
@@ -5230,37 +5240,37 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="69"/>
         <source>The suffix of the project file must be &quot;lpp&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Суфікс файлу проекту повинен бути &quot;lpp&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="226"/>
         <source>There is already a schematic with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Вже є схема з іменем &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="233"/>
         <source>There is already a schematic with the directory name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Вже є схема з іменем &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="260"/>
         <source>There are still elements in the schematic &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>В схемі &quot;%1&quot; все ще є елементи!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="313"/>
         <source>There is already a board with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Вже є плата з іменем &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="320"/>
         <source>There is already a board with the directory name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Вже є плата з іменем каталогу &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="542"/>
         <source>The directory &quot;%1&quot; already contains a LibrePCB project.</source>
-        <translation type="unfinished"/>
+        <translation>Каталог &quot;%1&quot; вже містить проект LibrePCB.</translation>
     </message>
 </context>
 <context>
@@ -5268,12 +5278,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="101"/>
         <source>File does not exist: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Файл не існує: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="107"/>
         <source>Directory does not contain a LibrePCB project: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Каталог не містить проект LibrePCB: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="119"/>
@@ -5281,7 +5291,10 @@ You need at least LibrePCB %1 to open it.
 You need at least LibrePCB %1 to open it.
 
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Цей проект був створений за допомогою новішої версії програми.
+Вам потрібно щонайменше LibrePCB %1, щоб відкрити його.
+
+%2</translation>
     </message>
 </context>
 <context>
@@ -5289,7 +5302,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/schematic/items/si_symbol.cpp" line="68"/>
         <source>No symbol with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
-        <translation type="unfinished"/>
+        <translation>Не знайдено символу з UUID &quot;%1&quot; в бібліотеці проекту.</translation>
     </message>
 </context>
 <context>
@@ -5302,7 +5315,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="80"/>
         <source>Could not open database: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося відкрити базу даних: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -5330,12 +5343,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="177"/>
         <source>The export completed, but there were %1 errors!</source>
-        <translation type="unfinished"/>
+        <translation>Експорт завершено, але було %1 помилок!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="179"/>
         <source>The last error was:</source>
-        <translation type="unfinished"/>
+        <translation>Остання помилка була:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="181"/>
@@ -5363,37 +5376,37 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="174"/>
         <source>File &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Файл &apos;%1&apos; не існує.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="234"/>
         <source>Failed to open ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося відкрити ZIP-файл &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="254"/>
         <source>Failed to open the ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося відкрити ZIP-файл &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="274"/>
         <source>Failed to create ZIP file.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося створити ZIP-файл.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="296"/>
         <source>Failed to create the ZIP file &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося створити ZIP-файл &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="467"/>
         <source>Failed to write file &apos;%1&apos; to &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалося записати файл &apos;%1&apos; в &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="479"/>
         <source>File system is read-only.</source>
-        <translation type="unfinished"/>
+        <translation>Файлова система доступна тільки для читання.</translation>
     </message>
 </context>
 <context>
@@ -5401,12 +5414,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="154"/>
         <source>The directory &quot;%1&quot; is not a valid LibrePCB workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Каталог &quot;%1&quot; не є дійсним робочим середовищем LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="166"/>
         <source>The workspace &quot;%1&quot; requires LibrePCB %2 or later.</source>
-        <translation type="unfinished"/>
+        <translation>Робоче середовище &quot;%1&quot; вимагає LibrePCB %2 або пізнішої версії.</translation>
     </message>
 </context>
 <context>
@@ -5419,17 +5432,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="429"/>
         <source>Attention: Project has been upgraded to a newer file format!</source>
-        <translation type="unfinished"/>
+        <translation>Увага: Проект було оновлено до нового формату файлу!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="457"/>
         <source>ERROR: No board with the name &apos;%1&apos; found.</source>
-        <translation type="unfinished"/>
+        <translation>ПОМИЛКА: Плата з ім&apos;ям &apos;%1&apos; не знайдена.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="470"/>
         <source>ERROR: Board index &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>ПОМИЛКА: Індекс плати &apos;%1&apos; недійсний.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="478"/>
@@ -5439,12 +5452,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="506"/>
         <source>Check for non-canonical files...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірити на не-канонічні файли...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="509"/>
         <source>ERROR: The option &apos;--strict&apos; is not available for *.lppz files!</source>
-        <translation type="unfinished"/>
+        <translation>ПОМИЛКА: Параметр &apos;--strict&apos; недоступний для файлів *.lppz!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="532"/>
@@ -5472,7 +5485,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="560"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="696"/>
         <source>ERROR: Failed to load custom settings: %1</source>
-        <translation type="unfinished"/>
+        <translation>ПОМИЛКА: Не вдалося завантажити налаштування: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="566"/>
@@ -5483,7 +5496,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="586"/>
         <source>Export schematics to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Експорт схем до &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="611"/>
@@ -5493,44 +5506,44 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="640"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Експорт специфічного BOM до &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="643"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Експорт загального BOM до &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="673"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="760"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="785"/>
         <source>ERROR: Unknown extension &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>ПОМИЛКА: Невідоме розширення &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="682"/>
         <source>Export PCB fabrication data...</source>
-        <translation type="unfinished"/>
+        <translation>Експорт даних для виготовлення плати...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="725"/>
         <source>top</source>
-        <translation type="unfinished"/>
+        <translation>верх</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="729"/>
         <source>bottom</source>
-        <translation type="unfinished"/>
+        <translation>низ</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="733"/>
         <source>Export %1 assembly data to &apos;%2&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Експорт %1 даних збірки до &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="769"/>
         <source>Export netlist to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Експорт netlist до &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="793"/>
@@ -5540,12 +5553,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="813"/>
         <source>ERROR: The file &apos;%1&apos; was written multiple times!</source>
-        <translation type="unfinished"/>
+        <translation>ПОМИЛКА: Файл &apos;%1&apos; було записано кілька разів!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="818"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
-        <translation type="unfinished"/>
+        <translation>ПРИМІТКА: Щоб уникнути запису файлів кілька разів, переконайтеся, що всім функціям експорту передаються унікальні шляхи до файлів. Для файлів виводу плати ви можете додати заповнювач &apos;%1&apos; до шляху або вказати плати для експорту за допомогою аргументу &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="829"/>
@@ -5561,7 +5574,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="857"/>
         <source>Process %1 component categories...</source>
-        <translation type="unfinished"/>
+        <translation>Обробка %1 категорій компонентів...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="860"/>
@@ -5571,32 +5584,32 @@ You need at least LibrePCB %1 to open it.
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="936"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="955"/>
         <source>Open &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="876"/>
         <source>Process %1 package categories...</source>
-        <translation type="unfinished"/>
+        <translation>Обробка %1 категорій корпусів...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="895"/>
         <source>Process %1 symbols...</source>
-        <translation type="unfinished"/>
+        <translation>Обробка %1 символів...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="914"/>
         <source>Process %1 packages...</source>
-        <translation type="unfinished"/>
+        <translation>Обробка %1 корпусів...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="933"/>
         <source>Process %1 components...</source>
-        <translation type="unfinished"/>
+        <translation>Обробка %1 компонентів...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="952"/>
         <source>Process %1 devices...</source>
-        <translation type="unfinished"/>
+        <translation>Обробка %1 пристроїв...</translation>
     </message>
 </context>
 <context>
@@ -5604,37 +5617,37 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="426"/>
         <source>Skipped symbol due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Пропущено символ через помилку: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="512"/>
         <source>Skipped package due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Пропущено пакет через помилку: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="553"/>
         <source>Dependent symbol &quot;%1&quot; not imported.</source>
-        <translation type="unfinished"/>
+        <translation>Залежний символ &quot;%1&quot; не імпортовано.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="591"/>
         <source>Skipped component due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Пропущено компонент через помилку: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="609"/>
         <source>Dependent component &quot;%1&quot; not imported.</source>
-        <translation type="unfinished"/>
+        <translation>Залежний компонент &quot;%1&quot; не імпортовано.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="615"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
-        <translation type="unfinished"/>
+        <translation>Залежний пакет &quot;%1&quot; не імпортовано.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="647"/>
         <source>Skipped device due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Пропущено пристрій через помилку: %1</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="654"/>
@@ -5653,32 +5666,32 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="94"/>
         <source>ERROR: %1 not found</source>
-        <translation type="unfinished"/>
+        <translation>ПОМИЛКА: %1 не знайдено</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="98"/>
         <source>Root category</source>
-        <translation type="unfinished"/>
+        <translation>Коренева категорія</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreelabeltextbuilder.cpp" line="81"/>
         <source>Please choose a category.</source>
-        <translation type="unfinished"/>
+        <translation>Будь ласка, оберіть категорію.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/keyboardshortcutsmodel.cpp" line="183"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>За замовчуванням</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdprojectlibraryaddelement.cpp" line="46"/>
         <source>Add element to library</source>
-        <translation type="unfinished"/>
+        <translation>Додати елемент до бібліотеки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdprojectlibraryremoveelement.cpp" line="46"/>
         <source>Remove element from library</source>
-        <translation type="unfinished"/>
+        <translation>Видалити елемент з бібліотеки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/undostack.cpp" line="96"/>
@@ -10700,7 +10713,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="62"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Website: &lt;a href=&quot;https://librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://librepcb.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;GitHub Project: &lt;a href=&quot;https://github.com/LibrePCB&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://github.com/LibrePCB&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;LibrePCB is published under the &lt;a href=&quot;http://www.gnu.org/licenses/gpl-3.0.html&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;GNU GPLv3&lt;/span&gt;&lt;/a&gt; License.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Веб-сайт: &lt;a href=&quot;https://librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://librepcb.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Проект GitHub: &lt;a href=&quot;https://github.com/LibrePCB&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://github.com/LibrePCB&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;LibrePCB is published under the &lt;a href=&quot;http://www.gnu.org/licenses/gpl-3.0.html&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;GNU GPLv3&lt;/span&gt;&lt;/a&gt; License.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
