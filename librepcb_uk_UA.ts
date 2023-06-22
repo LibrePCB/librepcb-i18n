@@ -2030,7 +2030,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="852"/>
         <source>Draw Line</source>
-        <translation>Малювати лінію</translation>
+        <translation>Малювати Лінію</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="853"/>
@@ -2040,7 +2040,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="861"/>
         <source>Draw Rectangle</source>
-        <translation>Намалювати прямокутник</translation>
+        <translation>Малювати Прямокутник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="862"/>
@@ -2050,7 +2050,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="870"/>
         <source>Draw Polygon</source>
-        <translation>Малювати багатокутник</translation>
+        <translation>Малювати Багатокутник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="871"/>
@@ -2060,7 +2060,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="879"/>
         <source>Draw Circle</source>
-        <translation>Намалювати коло</translation>
+        <translation>Намалювати Коло</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="880"/>
@@ -2070,7 +2070,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="888"/>
         <source>Draw Arc</source>
-        <translation>Намалювати дугу</translation>
+        <translation>Намалювати Дугу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="889"/>
@@ -2080,7 +2080,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="897"/>
         <source>Add Text</source>
-        <translation>Додати текст</translation>
+        <translation>Додати Текст</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="898"/>
@@ -2090,7 +2090,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="906"/>
         <source>Add Name</source>
-        <translation>Додати ім&apos;я</translation>
+        <translation>Додати Ім&apos;я</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="907"/>
@@ -2100,7 +2100,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="915"/>
         <source>Add Value</source>
-        <translation>Додати значення</translation>
+        <translation>Додати Значення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="916"/>
@@ -2110,7 +2110,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="924"/>
         <source>Add Pin</source>
-        <translation>Додати вивід</translation>
+        <translation>Додати Вивід</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="925"/>
@@ -2120,7 +2120,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="933"/>
         <source>Add THT Pad</source>
-        <translation>Додати THT підошву</translation>
+        <translation>Додати THT Пад</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="934"/>
@@ -2130,7 +2130,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="942"/>
         <source>Add SMT Pad</source>
-        <translation>Додати SMT підошву</translation>
+        <translation>Додати SMT Пад</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="943"/>
@@ -2140,17 +2140,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="951"/>
         <source>Add Thermal Pad</source>
-        <translation>Додати термоплідошву</translation>
+        <translation>Додати Термальний Пад</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="952"/>
         <source>Add special SMT pads used as heat sink</source>
-        <translation>Додати спеціальні SMT підошви, що використовуються як тепловідвід</translation>
+        <translation>Додати спеціальні SMT пади, що використовуються як тепловідвід</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="960"/>
         <source>Add BGA Pad</source>
-        <translation>Добавити BGA підошву</translation>
+        <translation>Добавити BGA Пад</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="961"/>
@@ -6655,17 +6655,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="97"/>
         <source>Top Devices:</source>
-        <translation>Верхні пристрої:</translation>
+        <translation>Верхні Пристрої:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="110"/>
         <source>Bottom Devices:</source>
-        <translation>Нижні пристрої:</translation>
+        <translation>Нижні Пристрої:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="135"/>
         <source>Browse Output Directory</source>
-        <translation>Переглянути директорію виводу</translation>
+        <translation>Переглянути Директорію Виводу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="65"/>
@@ -6680,7 +6680,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="164"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -6688,12 +6688,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="14"/>
         <source>Plane Properties</source>
-        <translation>Властивості площини</translation>
+        <translation>Властивості Площини</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="25"/>
         <source>Net Signal:</source>
-        <translation>Сигнал мережі:</translation>
+        <translation>Сигнал Мережі:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="35"/>
@@ -6748,12 +6748,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="113"/>
         <source>Themal Gap:</source>
-        <translation>Термічний зазор</translation>
+        <translation>Термічний Зазор:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="120"/>
         <source>Width of the thermal pad spokes</source>
-        <translation>Ширина Термічних Спиць</translation>
+        <translation>Ширина термічних спиць</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="123"/>
@@ -6779,7 +6779,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="219"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -6807,12 +6807,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="64"/>
         <source>Total PCB Thickness:</source>
-        <translation>Загальна товщина плати:</translation>
+        <translation>Загальна Товщина Плати:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="87"/>
         <source>Solder Resist:</source>
-        <translation>Паяльна маска:</translation>
+        <translation>Паяльна Маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="94"/>
@@ -6822,7 +6822,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="190"/>
         <source>Silkscreen Content:</source>
-        <translation>Вміст шовкографії:</translation>
+        <translation>Вміст Шовкографії:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="208"/>
@@ -6832,7 +6832,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="222"/>
         <source>Design Rules</source>
-        <translation>Правила проектування</translation>
+        <translation>Правила Проектування</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="228"/>
@@ -6894,7 +6894,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="426"/>
         <source>Component Side Pads:</source>
-        <translation>Компонентні площадки зі сторони компонентів:</translation>
+        <translation>Пади Зі Сторони Компонентів:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="448"/>
@@ -6904,12 +6904,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="461"/>
         <source>Vias with a drill diameter up to this diameter will be covered with solder resist (if not manually overridden). For larger vias, a stop mask opening is added.</source>
-        <translation>Отвори з діаметром свердла до цього діаметру будуть покриті припойною маскою (якщо не перевизначено вручну). Для більших отворів буде додано відкриття маски зупинки.</translation>
+        <translation>Перехідні отвори до цього діаметру будуть покриті припойною маскою (якщо не перевизначено вручну). Для більших перехідних отворів буде додано стоп-маску.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="464"/>
         <source>Tented Vias Diameter:</source>
-        <translation>Діаметр затамованих отворів:</translation>
+        <translation>Діаметр Вкритих Отворів:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="475"/>
@@ -6924,7 +6924,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="560"/>
         <source>Copper Width:</source>
-        <translation>Ширина міді:</translation>
+        <translation>Ширина Міді:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="570"/>
@@ -6934,12 +6934,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="584"/>
         <source>NPTH Slot Width:</source>
-        <translation>Ширина NPTH слоту:</translation>
+        <translation>Ширина NPTH Слоту:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="608"/>
         <source>Minimum Sizes</source>
-        <translation>Мінімальні розміри</translation>
+        <translation>Мінімальні Розміри</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="630"/>
@@ -6954,12 +6954,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="689"/>
         <source>PTH Slot Width:</source>
-        <translation>Ширина PTH слоту:</translation>
+        <translation>Ширина PTH Слоту:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="696"/>
         <source>PTH Drill Diameter:</source>
-        <translation>Діаметр PTH отвору:</translation>
+        <translation>Діаметр PTH Отвору:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="706"/>
@@ -6974,7 +6974,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="737"/>
         <source>Allowed Features</source>
-        <translation>Дозволені особливості</translation>
+        <translation>Дозволені Особливості</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="762"/>
@@ -6984,7 +6984,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="765"/>
         <source>Outline Tool Diameter:</source>
-        <translation>Діаметр фрези для контуру плати:</translation>
+        <translation>Діаметр Інструменту Контуру Плати:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="775"/>
@@ -7024,12 +7024,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="831"/>
         <source>Blind Vias</source>
-        <translation>Глухі перехідні отвори</translation>
+        <translation>Глухі Перехідні Отвори</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="838"/>
         <source>Via Types:</source>
-        <translation>Типи перехідних отворів:</translation>
+        <translation>Типи Перехідних Отворів:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="63"/>
@@ -7069,7 +7069,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="217"/>
         <source>Any Without Curves</source>
-        <translation>Будь-яка без кривих</translation>
+        <translation>Будь-яка Без Кривих</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="221"/>
@@ -7100,12 +7100,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="14"/>
         <source>Via Properties</source>
-        <translation>Властивості перехідних отворів</translation>
+        <translation>Властивості Перехідних Отворів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="25"/>
         <source>Net Signal:</source>
-        <translation>Сигнал мережі:</translation>
+        <translation>Сигнал Мережі:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="39"/>
@@ -7115,22 +7115,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="56"/>
         <source>Outer Diameter:</source>
-        <translation>Зовнішній діаметр:</translation>
+        <translation>Зовнішній Діаметр:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="66"/>
         <source>Drill Diameter:</source>
-        <translation>Діаметр свердла:</translation>
+        <translation>Діаметр Свердла:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="76"/>
         <source>Start Layer:</source>
-        <translation>Початковий шар:</translation>
+        <translation>Початковий Шар:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="86"/>
         <source>End Layer:</source>
-        <translation>Кінцевий шар:</translation>
+        <translation>Кінцевий Шар:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="96"/>
@@ -7170,7 +7170,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.cpp" line="183"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -7229,7 +7229,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="146"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="204"/>
@@ -7311,12 +7311,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="48"/>
         <source>Grab Area</source>
-        <translation>Зона захоплення</translation>
+        <translation>Зона Захоплення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="57"/>
         <source>Line Width:</source>
-        <translation>Ширина лінії:</translation>
+        <translation>Ширина Лінії:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="64"/>
@@ -7331,7 +7331,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.cpp" line="138"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -10218,7 +10218,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="375"/>
         <source>Black/White</source>
-        <translation>Чорний/білий</translation>
+        <translation>Чорний/Білий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="388"/>
@@ -10298,7 +10298,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="94"/>
         <source>Export Image</source>
-        <translation>Експортувати зображення</translation>
+        <translation>Експортувати Зображення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="97"/>
@@ -10328,7 +10328,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="417"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="432"/>
@@ -13960,7 +13960,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="50"/>
         <source>Footprint:</source>
-        <translation>Футпрінт</translation>
+        <translation>Футпрінт:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="71"/>
@@ -14079,7 +14079,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="79"/>
         <source>Default Length Unit:</source>
-        <translation>Одиниця вимірювання за замовчуванням: </translation>
+        <translation>Одиниця вимірювання за замовчуванням:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="93"/>
@@ -14135,12 +14135,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="235"/>
         <source>Rendering Method:</source>
-        <translation>Метод рендерінгу:</translation>
+        <translation>Метод Рендерінгу:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="250"/>
         <source>Use OpenGL Hardware Acceleration</source>
-        <translation>Використовувати апаратне прискорення OpenGL</translation>
+        <translation>Використовувати Апаратне Прискорення OpenGL</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="263"/>
@@ -14150,7 +14150,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="275"/>
         <source>Dismissed Messages:</source>
-        <translation>Відхилені повідомлення:</translation>
+        <translation>Відхилені Повідомлення:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="296"/>
