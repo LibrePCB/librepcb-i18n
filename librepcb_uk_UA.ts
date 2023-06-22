@@ -682,46 +682,46 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="737"/>
         <source>Pad in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is pad name</comment>
-        <translation type="unfinished"/>
+        <translation>Пад в зоні заборони міді: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="754"/>
         <source>Via in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
+        <translation>Перехідний отвір в зоні заборони міді: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="771"/>
         <source>Trace in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
+        <translation>Доріжка в зоні заборони міді: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="786"/>
         <source>Polygon in copper keepout zone</source>
-        <translation type="unfinished"/>
+        <translation>Полігон в зоні заборони міді</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="800"/>
         <source>Polygon in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Полігон в зоні заборони міді: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="817"/>
         <source>Circle in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Коло в зоні заборони міді: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="847"/>
         <source>There is a copper object within a copper keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Мідний об&apos;єкт в зоні заборони міді.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="848"/>
         <source>Move the object to outside the keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Перемістіть об&apos;єкт за межі зони заборони.</translation>
     </message>
 </context>
 <context>
@@ -768,17 +768,17 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1028"/>
         <source>Device in keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Пристрій в зоні заборони: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1056"/>
         <source>There is a device within a keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Пристрій в забороненій зоні.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1057"/>
         <source>Move the device to outside the keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Перемістіть пристрій за межі забороненої зони.</translation>
     </message>
 </context>
 <context>
@@ -834,40 +834,40 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1070"/>
         <source>Pad in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is pad name</comment>
-        <translation type="unfinished"/>
+        <translation>Пад в зоні заборони експозиції: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1087"/>
         <source>Via in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
+        <translation>Перехідний отвір в зоні заборони експозиції: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1102"/>
         <source>Polygon in exposure keepout zone</source>
-        <translation type="unfinished"/>
+        <translation>Багатокутник в зоні заборони експозиції</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1115"/>
         <source>Polygon in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Багатокутник в зоні заборони експозиції: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1132"/>
         <source>Circle in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Коло в зоні заборони експозиції: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1163"/>
         <source>There is a solder resist opening within an exposure keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Є відкриття захисного покриття припою в зоні заборони експозиції.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1165"/>
         <source>Move the object to outside the keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Перемістіть об&apos;єкт за межі зони заборони.</translation>
     </message>
 </context>
 <context>
@@ -1261,12 +1261,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1536"/>
         <source>Useless zone</source>
-        <translation type="unfinished"/>
+        <translation>Не потрібна зона</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1537"/>
         <source>The zone has no layer or rule enabled so it is useless.</source>
-        <translation type="unfinished"/>
+        <translation>Зона не має активованих шарів або правил, тому вона не потрібна.</translation>
     </message>
 </context>
 <context>
@@ -2247,7 +2247,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="934"/>
         <source>Add plated through-hole copper pads</source>
-        <translation>Додати метализовані сквозні пади</translation>
+        <translation>Додати металізовані сквозні пади</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="942"/>
@@ -2322,12 +2322,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1005"/>
         <source>Draw Keepout Zone</source>
-        <translation type="unfinished"/>
+        <translation>Намалювати Зону Заборони</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1006"/>
         <source>Draw keep-out zones</source>
-        <translation type="unfinished"/>
+        <translation>Намалювати зони заборони</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1014"/>
@@ -3341,12 +3341,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="159"/>
         <source>Board Cutouts</source>
-        <translation type="unfinished"/>
+        <translation>Вирізи Плати</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="166"/>
         <source>Plated Board Cutouts</source>
-        <translation type="unfinished"/>
+        <translation>Металізовані Вирізи Плати</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="173"/>
@@ -3361,12 +3361,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="203"/>
         <source>Top Legend</source>
-        <translation type="unfinished"/>
+        <translation>Легенда Верх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="209"/>
         <source>Bottom Legend</source>
-        <translation type="unfinished"/>
+        <translation>Легенда Низ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="215"/>
@@ -4002,12 +4002,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="391"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to legend</source>
-        <translation type="unfinished"/>
+        <translation>Проміжок між падом &apos;%1&apos; в &apos;%2&apos; та легендою</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="393"/>
         <source>Pads should have at least %1 clearance to drawings on the legend because these drawings would be cropped during the Gerber export when used as silkscreen.</source>
-        <translation type="unfinished"/>
+        <translation>Пади повинні мати принаймні %1 проміжок до креслень на легенді, оскільки ці креслення будуть обрізані під час експорту Gerber при використанні як шовкографія.</translation>
     </message>
 </context>
 <context>
@@ -4160,12 +4160,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="622"/>
         <source>Useless keepout zone in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Непотрібна зона заборони в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="624"/>
         <source>The keepout zone has no layer or rule enabled so it has no effect. Either correct its properties or remove it from the footprint.</source>
-        <translation type="unfinished"/>
+        <translation>Зона заборони не має активного шару або правила, тому вона не має ефекту. Виправте її властивості або видаліть її з відбитка.</translation>
     </message>
 </context>
 <context>
@@ -4589,7 +4589,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="111"/>
         <source>Plated Cutouts</source>
-        <translation type="unfinished"/>
+        <translation>Металізовані Вирізи</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="112"/>
@@ -4609,7 +4609,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="115"/>
         <source>Zones</source>
-        <translation type="unfinished"/>
+        <translation>Зони</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="116"/>
@@ -4629,12 +4629,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="122"/>
         <source>Legend Top</source>
-        <translation type="unfinished"/>
+        <translation>Легенда Верх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="123"/>
         <source>Legend Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Легенда Низ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="124"/>
@@ -5070,7 +5070,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1055"/>
         <source>Check keepout zones...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка заборонених зон...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1309"/>
@@ -5233,7 +5233,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="463"/>
         <source>Board cutouts now have a dedicated layer, thus nested board outline polygons and circles have automatically been moved to the cutouts layer. As the auto-detection is not perfect, please check if each cutout has been converted correctly. The easiest way is to review the PCB in the 3D viewer.</source>
-        <translation type="unfinished"/>
+        <translation>Вирізи плати тепер мають окремий шар, тому вкладені полігони та кола контуру плати автоматично були переміщені на шар вирізів. Оскільки автоматичне виявлення не є ідеальним, перевірте, чи кожен виріз був перетворений правильно. Найпростіший спосіб - переглянути плату в 3D-переглядачі.</translation>
     </message>
 </context>
 <context>
@@ -6718,28 +6718,28 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="98"/>
         <source>No Copper</source>
-        <translation type="unfinished"/>
+        <translation>Немає Міді</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="109"/>
         <source>No Planes</source>
-        <translation type="unfinished"/>
+        <translation>Немає Площин</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="120"/>
         <source>No Exposure</source>
-        <translation type="unfinished"/>
+        <translation>Немає Відкриття</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="131"/>
         <source>No Devices</source>
-        <translation type="unfinished"/>
+        <translation>Немає Пристроїв</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="212"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="261"/>
         <source>Draw board zone</source>
-        <translation type="unfinished"/>
+        <translation>Малювати зону плати</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="229"/>
@@ -7027,12 +7027,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="94"/>
         <source>Silkscreen Color:</source>
-        <translation type="unfinished"/>
+        <translation>Колір Шовкографії:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="190"/>
         <source>Silkscreen Layers:</source>
-        <translation type="unfinished"/>
+        <translation>Шари Шовкографії:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="208"/>
@@ -7799,7 +7799,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardzoneadd.cpp" line="41"/>
         <source>Add zone to board</source>
-        <translation type="unfinished"/>
+        <translation>Додати зону на плату</translation>
     </message>
 </context>
 <context>
@@ -7807,7 +7807,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardzoneedit.cpp" line="41"/>
         <source>Edit zone</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати зону</translation>
     </message>
 </context>
 <context>
@@ -7815,7 +7815,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardzoneremove.cpp" line="41"/>
         <source>Remove zone from board</source>
-        <translation type="unfinished"/>
+        <translation>Видалити зону з плати</translation>
     </message>
 </context>
 <context>
@@ -8545,7 +8545,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/cmd/cmdzoneedit.cpp" line="38"/>
         <source>Edit zone</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати зону</translation>
     </message>
 </context>
 <context>
@@ -12077,7 +12077,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/3d/openglscenebuilder.cpp" line="121"/>
         <source>The board outline is invalid. Please add exactly one polygon on the &apos;%1&apos; layer and make sure it is closed. For more information, check out the documentation.</source>
-        <translation type="unfinished"/>
+        <translation>Контур плати недійсний. Будь ласка, додайте рівно один багатокутник на шарі &apos;%1&apos; і переконайтеся, що він закритий. Для отримання додаткової інформації перегляньте документацію.</translation>
     </message>
 </context>
 <context>
@@ -12531,7 +12531,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="77"/>
         <source>Inner</source>
-        <translation type="unfinished"/>
+        <translation>Внутрішній</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="87"/>
@@ -12541,22 +12541,22 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="98"/>
         <source>No Copper</source>
-        <translation type="unfinished"/>
+        <translation>Немає Міді</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="108"/>
         <source>No Planes</source>
-        <translation type="unfinished"/>
+        <translation>Немає Площин</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="118"/>
         <source>No Exposure</source>
-        <translation type="unfinished"/>
+        <translation>Немає Відкриття</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="128"/>
         <source>No Devices</source>
-        <translation type="unfinished"/>
+        <translation>Немає Пристроїв</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="139"/>
@@ -12567,7 +12567,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="247"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="319"/>
         <source>Add footprint zone</source>
-        <translation type="unfinished"/>
+        <translation>Додати зону футпрінта</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="262"/>
@@ -14770,57 +14770,57 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="14"/>
         <source>Zone Properties</source>
-        <translation type="unfinished"/>
+        <translation>Властивості Зони</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="27"/>
         <source>Rules</source>
-        <translation type="unfinished"/>
+        <translation>Правила</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="48"/>
         <source>Raise a DRC error if there are any copper objects (e.g. traces or vias) in this zone. Only planes are allowed to flood this zone without raising an error.</source>
-        <translation type="unfinished"/>
+        <translation>Підняти помилку DRC, якщо в цій зоні є будь-які мідні об&apos;єкти (наприклад, доріжки або отвори). Тільки площини можуть затоплювати цю зону без підняття помилки.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="51"/>
         <source>No copper (except planes)</source>
-        <translation type="unfinished"/>
+        <translation>Без міді (крім площин)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="58"/>
         <source>Prevent copper planes from flooding this zone.</source>
-        <translation type="unfinished"/>
+        <translation>Заборонити площинам затоплювати цю зону.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="61"/>
         <source>No planes</source>
-        <translation type="unfinished"/>
+        <translation>Без площин</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="68"/>
         <source>Raise a DRC error if there is any solder resist opening (possibly exposing copper) in this zone.</source>
-        <translation type="unfinished"/>
+        <translation>Видати помилку DRC, якщо в цій зоні є будь-які відкриття захисного лаку (можливо, відкриття міді).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="71"/>
         <source>No exposure</source>
-        <translation type="unfinished"/>
+        <translation>Без відкриття</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="78"/>
         <source>Raise a DRC error if there are any devices placed in this zone.</source>
-        <translation type="unfinished"/>
+        <translation>Видати помилку DRC, якщо в цій зоні є будь-які пристрої.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="81"/>
         <source>No devices</source>
-        <translation type="unfinished"/>
+        <translation>Без пристроїв</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="91"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Опції</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="109"/>
@@ -14835,17 +14835,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="68"/>
         <source>Inner Layers</source>
-        <translation type="unfinished"/>
+        <translation>Внутрішні Шари</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="70"/>
         <source>Top Side</source>
-        <translation type="unfinished"/>
+        <translation>Верхня Сторона</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="72"/>
         <source>Bottom Side</source>
-        <translation type="unfinished"/>
+        <translation>Нижня Сторона</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="230"/>
