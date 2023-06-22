@@ -56,7 +56,7 @@
 <context>
     <name>BoardDesignRuleCheckMessages</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="51"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="52"/>
         <source>Depending on the capabilities of the PCB manufacturer, this could cause higher costs or even serious troubles during production, leading to a possibly non-functional PCB.</source>
         <translation>V závislosti od možností výrobcu DPS, môže toto spôsobiť vyššie náklady alebo dokonca vážne problémy pri výrobe, čo môže viesť aj k prípadnej nefunkčnosti DPS.</translation>
     </message>
@@ -488,114 +488,114 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgCopperBoardClearanceViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="515"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="516"/>
         <source>Clearance board outline ↔ via &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Odsadenie okraju dosky ↔ prechodu &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="518"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="519"/>
         <source>The clearance between a via and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Vzdialenosť medzi prechodom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="522"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="523"/>
         <source>Check the DRC settings and move the via away from the board outline if needed.</source>
         <translation>Skontrolujte nastavenie DRC a presuňte prechod ďalej od okraja dosky.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="537"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="538"/>
         <source>Clearance trace ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Odsadenie spoja ↔ okraja dosky &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="540"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="541"/>
         <source>The clearance between a trace and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Vzdialenosť medzi spojom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="544"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="545"/>
         <source>Check the DRC settings and move the trace away from the board outline if needed.</source>
         <translation>Skontrolujte nastavenie DRC a presuňte spoj ďalej od okraja dosky.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="559"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="560"/>
         <source>Clearance pad ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Odsadenie plôšky vývodu ↔ okraja dosky &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="562"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="563"/>
         <source>The clearance between a footprint pad and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Vzdialenosť medzi plôškou vývodu a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="566"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="567"/>
         <source>Check the DRC settings and move the device away from the board outline if needed.</source>
         <translation>Skontrolujte nastavenie DRC a presuňte súčiastku ďalej od okraja dosky.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="581"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="582"/>
         <source>Clearance plane ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Odsadenie vyplnenej plochy ↔ okraja dosky &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="584"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="585"/>
         <source>The clearance between a plane and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Vzdialenosť medzi vyplnenou plochou a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="588"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="589"/>
         <source>Check the DRC settings and increase the configured plane clearance if needed.</source>
         <translation>Skontrolujte nastavenie DRC a zväčšite odsadenie vyplnenej plochy.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="625"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="626"/>
         <source>Clearance copper circle ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Odsadenie vodivého oblúka ↔ okraja dosky &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="628"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="629"/>
         <source>The clearance between a circle and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Vzdialenosť medzi vodivým oblúkom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="631"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="632"/>
         <source>Check the DRC settings and move the circle away from the board outline if needed.</source>
         <translation>Skontrolujte nastavenie DRC a presuňte vodivý oblúk ďalej od okraja dosky.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="648"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="649"/>
         <source>Clearance copper text ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Odsadenie textu ↔ okraja dosky &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="651"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="652"/>
         <source>The clearance between a stroke text and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Vzdialenosť medzi textom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="655"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="656"/>
         <source>Check the DRC settings and move the stroke text away from the board outline if needed.</source>
         <translation>Skontrolujte nastavenie DRC a presuňte text ďalej od okraja dosky.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="669"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="670"/>
         <source>Clearance copper polygon ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Odsadenie polygónu ↔ okraja dosky &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="675"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="676"/>
         <source>The clearance between a polygon and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Vzdialenosť medzi polygónom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="679"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="680"/>
         <source>Check the DRC settings and move the polygon away from the board outline if needed.</source>
         <translation>Skontrolujte nastavenie DRC a presuňte polygón ďalej od okraja dosky.</translation>
     </message>
@@ -603,54 +603,54 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgCopperCopperClearanceViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="382"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="383"/>
         <source>Clearance on %1: %2 ↔ %3 &lt; %4 %5</source>
         <comment>Placeholders: Layer name, object name, object name, Clearance value, unit</comment>
         <translation>Vzdialenosť odsadenia na %1: %2 ↔ %3 &lt; %4 %5</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="389"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="390"/>
         <source>The clearance between two copper objects of different nets is smaller than the minimum copper clearance configured in the DRC settings.</source>
         <translation>Vzdialenosť medzi dvoma vodivým objektami rozdielnych spojov je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="393"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="394"/>
         <source>Check the DRC settings and move the objects to increase their clearance if needed.</source>
         <translation>Skontrolujte nastavenie DRC a presuňte objekty tak, aby sa zväčšila vzdialenosť medzi nimi.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="415"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="416"/>
         <source>%1 layers</source>
         <comment>Placeholder is a number &gt; 1.</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="434"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="435"/>
         <source>via</source>
         <translation>prechod</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="436"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="437"/>
         <source>trace</source>
         <translation>spoj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="438"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="439"/>
         <source>plane</source>
         <translation>vyplnená plocha</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="440"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="441"/>
         <source>polygon</source>
         <translation>polygón</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="442"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="443"/>
         <source>circle</source>
         <translation>oblúk</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="444"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="445"/>
         <source>text</source>
         <translation>text</translation>
     </message>
@@ -658,37 +658,85 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgCopperHoleClearanceViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="713"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="714"/>
         <source>Clearance copper ↔ hole &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Odsadenie vodivého prvku ↔ otvoru &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="719"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="720"/>
         <source>The clearance between a non-plated hole and copper objects is smaller than the hole clearance configured in the DRC settings.</source>
         <translation>Vzdialenosť medzi neprekoveným otvorom a vodivým prvkom je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="722"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="723"/>
         <source>Check the DRC settings and move the copper objects away from the hole if needed.</source>
         <translation>Skontrolujte nastavenie DRC a presuňte vodivý objekt ďalej od otvoru.</translation>
     </message>
 </context>
 <context>
+    <name>DrcMsgCopperInKeepoutZone</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="737"/>
+        <source>Pad in copper keepout zone: &apos;%1&apos;</source>
+        <comment>Placeholder is pad name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="754"/>
+        <source>Via in copper keepout zone: &apos;%1&apos;</source>
+        <comment>Placeholder is net name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="771"/>
+        <source>Trace in copper keepout zone: &apos;%1&apos;</source>
+        <comment>Placeholder is net name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="786"/>
+        <source>Polygon in copper keepout zone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="800"/>
+        <source>Polygon in copper keepout zone: &apos;%1&apos;</source>
+        <comment>Placeholder is device name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="817"/>
+        <source>Circle in copper keepout zone: &apos;%1&apos;</source>
+        <comment>Placeholder is device name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="847"/>
+        <source>There is a copper object within a copper keepout zone.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="848"/>
+        <source>Move the object to outside the keepout zone.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>DrcMsgCourtyardOverlap</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="869"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="994"/>
         <source>Courtyard overlap: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
         <translation>Prekrytie manipulačnej oblasti: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="875"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1000"/>
         <source>The courtyard of two devices overlap, which might cause troubles during assembly of these parts.</source>
         <translation>Manipulačná oblast (courtyard) dvoch súčiastok sa prekrýva, čo môže spôsobiť problémy pri osádzaní týchto súčiastok.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="878"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1003"/>
         <source>Either move the devices to increase their distance or approve this message if you&apos;re sure they can be assembled without problems.</source>
         <translation>Presuňte súčiastky pre zväčšenie odstupu medzi nimi, alebo schváľte túto správu ak ste si istý, že tieto súčiastky sa budú dať osadiť bez problémov.</translation>
     </message>
@@ -696,37 +744,56 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgDefaultDeviceMismatch</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="85"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="86"/>
         <source>Device differs from schematic: &apos;%1&apos;</source>
         <comment>Placeholders: Device name</comment>
         <translation>Súčiastka je rozdielna voči schéme: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="87"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="88"/>
         <source>The placed device is not the one specified in the schematics. The component in the schematics has selected a different default device.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="91"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="92"/>
         <source>Check if the correct device was placed on the board or optionally change the selected default device in the schematics.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgDeviceInKeepoutZone</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1028"/>
+        <source>Device in keepout zone: &apos;%1&apos;</source>
+        <comment>Placeholder is device name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1056"/>
+        <source>There is a device within a keepout zone.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1057"/>
+        <source>Move the device to outside the keepout zone.</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>DrcMsgDrillBoardClearanceViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="847"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="972"/>
         <source>Clearance drill ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Odsadenie vŕtanie ↔ obrys dosky &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="853"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="978"/>
         <source>The clearance between a drill and the board outline is smaller than the drill clearance configured in the DRC settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="856"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="981"/>
         <source>Check the DRC settings and move the drill away from the board outline if needed.</source>
         <translation type="unfinished"/>
     </message>
@@ -734,18 +801,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgDrillDrillClearanceViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="735"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="860"/>
         <source>Clearance drill ↔ drill &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Odsadenie vŕtanie ↔ vŕtanie &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="738"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="863"/>
         <source>The clearance between two drills is smaller than the drill clearance configured in the DRC settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="741"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="866"/>
         <source>Check the DRC settings and move the drills to increase their distance if needed.</source>
         <translation type="unfinished"/>
     </message>
@@ -753,56 +820,98 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgEmptyNetSegment</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="259"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="260"/>
         <source>Empty segment of net &apos;%1&apos;: &apos;%2&apos;</source>
         <comment>Placeholders: Net name, segment UUID</comment>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
+    <name>DrcMsgExposureInKeepoutZone</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1070"/>
+        <source>Pad in exposure keepout zone: &apos;%1&apos;</source>
+        <comment>Placeholder is pad name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1087"/>
+        <source>Via in exposure keepout zone: &apos;%1&apos;</source>
+        <comment>Placeholder is net name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1102"/>
+        <source>Polygon in exposure keepout zone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1115"/>
+        <source>Polygon in exposure keepout zone: &apos;%1&apos;</source>
+        <comment>Placeholder is device name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1132"/>
+        <source>Circle in exposure keepout zone: &apos;%1&apos;</source>
+        <comment>Placeholder is device name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1163"/>
+        <source>There is a solder resist opening within an exposure keepout zone.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1165"/>
+        <source>Move the object to outside the keepout zone.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>DrcMsgForbiddenSlot</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1184"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1459"/>
         <source>Hole is a slot with curves</source>
         <translation>Otvor je slot s oblúkami</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1186"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1461"/>
         <source>Hole is a multi-segment slot</source>
         <translation>Otvor je viacsegmentový slot</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1188"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1463"/>
         <source>Hole is a slot</source>
         <translation>Otvor je slot</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1195"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1470"/>
         <source>Either avoid them or check if your PCB manufacturer supports them.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1197"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1472"/>
         <source>Choose the desired Excellon slot mode when generating the production data (G85 vs. G00..G03).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1200"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1475"/>
         <source>The drilled slot mode (G85) will not be available when generating production data.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1204"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1479"/>
         <source>Curved slots are a very unusual thing and may cause troubles with many PCB manufacturers.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1208"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1483"/>
         <source>Multi-segment slots are a rather unusual thing and may cause troubles with some PCB manufacturers.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1212"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1487"/>
         <source>Slots may cause troubles with some PCB manufacturers.</source>
         <translation type="unfinished"/>
     </message>
@@ -810,27 +919,27 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgForbiddenVia</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1233"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1508"/>
         <source>Blind via in net &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1235"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1510"/>
         <source>Buried via in net &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1241"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1516"/>
         <source>Either avoid them or check if your PCB manufacturer supports them and adjust the DRC settings accordingly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1244"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1519"/>
         <source>Blind vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1248"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1523"/>
         <source>Buried vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
         <translation type="unfinished"/>
     </message>
@@ -838,13 +947,13 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgInvalidPadConnection</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1122"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1397"/>
         <source>Invalid connection of pad &apos;%1&apos; on &apos;%2&apos;</source>
         <comment>Placeholders: Pad name, layer name</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1125"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1400"/>
         <source>The pad origin must be located within the pads copper area, or for THT pads within a hole. Otherwise traces might not beconnected fully. This issue needs to be fixed in the library.</source>
         <translation type="unfinished"/>
     </message>
@@ -852,34 +961,34 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumAnnularRingViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="902"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1177"/>
         <source>Via annular ring of &apos;%1&apos; &lt; %2 %3</source>
         <comment>Placeholders: Net name, minimum annular width, unit</comment>
         <translation>Medzikružie prechodu z &apos;%1&apos; &lt; %2 %3</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="906"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1181"/>
         <source>The via annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="910"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1185"/>
         <source>Check the DRC settings and increase the via size if needed.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="924"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1199"/>
         <source>Pad annular ring of &apos;%1&apos; &lt; %2 %3</source>
         <comment>Placeholders: Net name, minimum annular width, unit</comment>
         <translation>Medzikružie plôšky vývodu z &apos;%1&apos; &lt; %2 %3</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="927"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1202"/>
         <source>The through-hole pad annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="931"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1206"/>
         <source>Check the DRC settings and increase the pad size if needed.</source>
         <translation type="unfinished"/>
     </message>
@@ -887,18 +996,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumBoardOutlineInnerRadiusViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="238"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="239"/>
         <source>Board outline inner radius &lt; %1 %2</source>
         <comment>Placeholders: Minimum radius, unit</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="241"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="242"/>
         <source>The board outline polygon is not manufacturable with the minimum tool diameter configured in the DRC settings due to edges with a smaller radius. Thus the actually produced board outline might contain larger edge radii and too small cutouts might even be missing completely.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="247"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="248"/>
         <source>Check the DRC settings and add/increase the radius of inner board edges if needed.</source>
         <translation type="unfinished"/>
     </message>
@@ -906,40 +1015,40 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumDrillDiameterViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="976"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1251"/>
         <source>Via drill diameter of &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Net name, actual diameter, minimum diameter</comment>
         <translation>Priemer otvoru prechodu z &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="995"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1270"/>
         <source>Pad drill diameter of &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Net name, actual diameter, minimum diameter</comment>
         <translation>Priemer otvoru plôšky vývodu z &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1013"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1288"/>
         <source>NPTH drill diameter: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual diameter, minimum diameter, unit</comment>
         <translation>Priemer NPTH otvoru: %1 &lt; %2 %3</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1023"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1298"/>
         <source>The drill diameter of the via is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1027"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1302"/>
         <source>The drill diameter of the through-hole pad is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1031"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1306"/>
         <source>The drill diameter of the non-plated hole is smaller than the minimum non-plated drill diameter configured in the DRC settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1035"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1310"/>
         <source>Check the DRC settings and increase the drill diameter if needed.</source>
         <translation type="unfinished"/>
     </message>
@@ -947,29 +1056,29 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumSlotWidthViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1074"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1349"/>
         <source>Pad slot width of &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Net name, actual width, minimum width, unit</comment>
         <translation>Šírka slotu plôšky vývodu z &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1091"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1366"/>
         <source>NPTH slot width: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual width, minimum width, unit</comment>
         <translation>Šírka NPTH slotu: %1 &lt; %2 %3</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1101"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1376"/>
         <source>The width of the plated slot is smaller than the minimum plated slot width configured in the DRC settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1105"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1380"/>
         <source>The width of the non-plated slot is smaller than the minimum non-plated slot width configured in the DRC settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1109"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1384"/>
         <source>Check the DRC settings and increase the slot width if needed.</source>
         <translation type="unfinished"/>
     </message>
@@ -977,50 +1086,50 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumWidthViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="306"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="307"/>
         <source>Trace width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
         <translation>Šírka spoja na &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="311"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="312"/>
         <source>The trace is thinner than the minimum copper width configured in the DRC settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="314"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="315"/>
         <source>Check the DRC settings and increase the trace width if needed.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="329"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="330"/>
         <source>Min. plane width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
         <translation>Min. šírka vyplnenej plochy na &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="334"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="335"/>
         <source>The configured minimum width of the plane is smaller than the minimum copper width configured in the DRC settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="337"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="338"/>
         <source>Check the DRC settings and increase the minimum plane width in its properties if needed.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="350"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="351"/>
         <source>Stroke width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="355"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="356"/>
         <source>The text stroke width is smaller than the minimum copper width configured in the DRC settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="358"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="359"/>
         <source>Check the DRC settings and increase the text stroke width if needed.</source>
         <translation type="unfinished"/>
     </message>
@@ -1028,17 +1137,17 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMissingBoardOutline</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="178"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="179"/>
         <source>Missing board outline</source>
         <translation>Chýbajúci obrys dosky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="179"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="180"/>
         <source>There&apos;s no board outline defined at all, so the board cannot be manufactured.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="182"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="183"/>
         <source>Add a closed, zero-width polygon on the layer &apos;%1&apos; to draw the board outline.</source>
         <translation type="unfinished"/>
     </message>
@@ -1046,13 +1155,13 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMissingConnection</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="110"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="111"/>
         <source>Missing connection in &apos;%1&apos;: %2 ↔ %3</source>
         <comment>Placeholders: Net name, connection count</comment>
         <translation>Chýbajúce prepojenie v &apos;%1&apos;: %2 ↔ %3</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="113"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="114"/>
         <source>There is a missing connection in the net, i.e. not all net items are connected together.
 
 Add traces and/or planes to create the missing connections.
@@ -1061,12 +1170,12 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="138"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="139"/>
         <source>Via</source>
         <translation>Prechod</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="147"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="148"/>
         <source>Trace</source>
         <translation>Spoj</translation>
     </message>
@@ -1074,13 +1183,13 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
 <context>
     <name>DrcMsgMissingDevice</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="66"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="67"/>
         <source>Missing device: &apos;%1&apos;</source>
         <comment>Placeholders: Device name</comment>
         <translation>Chýbajúca súčiastka: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="68"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="69"/>
         <source>There's a component in the schematics without a corresponding device in the board, so the circuit of the PCB is not complete.
 
 Use the &quot;Place Devices&quot; dock to add the device.</source>
@@ -1090,17 +1199,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgMultipleBoardOutlines</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="195"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="196"/>
         <source>Multiple board outlines</source>
         <translation>Viacnásobný obrys dosky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="196"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="197"/>
         <source>There are multiple, independent board outlines defined.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="197"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="198"/>
         <source>Either add only a single board outline or make sure the PCB manufacturer can handle production data containing multiple PCBs.</source>
         <translation type="unfinished"/>
     </message>
@@ -1108,17 +1217,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgOpenBoardOutlinePolygon</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="211"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="212"/>
         <source>Non-closed board outline</source>
         <translation>Obrys dosky nie je uzavretý</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="212"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="213"/>
         <source>The board outline polygon is not closed, i.e. the last vertex is not at the same coordinate as the first vertex.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="215"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="216"/>
         <source>Replace multiple coincident polygons with a single, connected polygon and append an explicit last vertex to make the polygon closed.</source>
         <translation type="unfinished"/>
     </message>
@@ -1126,7 +1235,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgUnconnectedJunction</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="281"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="282"/>
         <source>Unconnected junction in net: &apos;%1&apos;</source>
         <translation>Nepripojený uzol na spoji: &apos;%1&apos;</translation>
     </message>
@@ -1134,14 +1243,27 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgUselessVia</name>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1261"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1551"/>
         <source>Useless via in net &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1263"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1553"/>
         <source>The via is connected on less than two layers, thus it seems to be useless.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgUselessZone</name>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1536"/>
+        <source>Useless zone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1537"/>
+        <source>The zone has no layer or rule enabled so it is useless.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1161,7 +1283,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>EagleTypeConverter</name>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="229"/>
+        <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="232"/>
         <source>Layer %1 is not supported.</source>
         <translation>Vrstva %1 nie je podporovaná.</translation>
     </message>
@@ -1871,7 +1993,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="711"/>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1639"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1648"/>
         <source>Lock Placement</source>
         <translation type="unfinished"/>
     </message>
@@ -2197,722 +2319,732 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1005"/>
+        <source>Draw Keepout Zone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1006"/>
+        <source>Draw keep-out zones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1014"/>
         <source>Add Hole</source>
         <translation>Pridať otvor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1006"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1015"/>
         <source>Add non-plated holes (NPTH drills)</source>
         <translation>Pridanie neprekoveného otvoru (NPTH)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1014"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1023"/>
         <source>Draw Wire</source>
         <translation>Kresliť spoj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1015"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1024"/>
         <source>Draw wires to create electrical connections between symbol pins</source>
         <translation>Kreslenie elektrických prepojení medzi vývodmi sch. značiek.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1024"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1033"/>
         <source>Add Net Label</source>
         <translation>Pridať označenie spoja</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1025"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1034"/>
         <source>Add net labels to explicitly specify the net of wires</source>
         <translation>Pridanie označenie spojov pre jednoznačné pomenovanie spojov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1033"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1042"/>
         <source>Add Component</source>
         <translation>Pridanie komponentu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1034"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1043"/>
         <source>Insert components from the workspace libraries</source>
         <translation>Vloženie komponentov z knižníc pracovného priestoru</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1042"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1051"/>
         <source>Draw Trace</source>
         <translation>Kresliť spoj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1043"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1052"/>
         <source>Draw copper traces to interconnect devices</source>
         <translation>Kreslenie vodivých spojov pre prepojenie súčiastok</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1051"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1060"/>
         <source>Add Via</source>
         <translation>Pridať prechod</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1052"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1061"/>
         <source>Add plated through-hole vias</source>
         <translation>Pridanie prekovených otvorov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1060"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1069"/>
         <source>Draw Plane</source>
         <translation>Kresliť vyplnenú plochu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1061"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1070"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
         <translation>Kreslenie automaticky vyplnených vodivých oblastí pre prepojenie vývodov a prechodov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1069"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1078"/>
         <source>Measure Distance</source>
         <translation>Merať vzdialenosti</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1070"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1079"/>
         <source>Measure the distance between two points</source>
         <translation>Meranie vzdialenosti medzi dvoma bodmi</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1078"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1087"/>
         <source>Commands</source>
         <translation>Príkazy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1081"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1090"/>
         <source>Go To Command Toolbar</source>
         <translation>Prejsť na panel s príkazmi</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1082"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1091"/>
         <source>Move the focus into the command toolbar</source>
         <translation>Presunúť aktivitu do panelu s príkazmi</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1090"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1099"/>
         <source>Abort Command</source>
         <translation>Ukončiť príkaz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1091"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1100"/>
         <source>Abort the currently active command</source>
         <translation>Ukončiť vykonávanie práve zvoleného príkazu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1099"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1108"/>
         <source>Layer Up</source>
         <translation>Zvýšiť vrstvu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1100"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1109"/>
         <source>Switch to the next higher layer (bottom-&gt;top)</source>
         <translation>Prepnutie na nasledujúcu vyššiu vrstvu (spodná-&gt;vrchná)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1108"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1117"/>
         <source>Layer Down</source>
         <translation>Znížiť vrstvu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1109"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1118"/>
         <source>Switch to the next lower layer (top-&gt;bottom)</source>
         <translation>Prepnutie na nasledujúcu nižšiu vrstvu (vrchná-&gt;spodná)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1117"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1126"/>
         <source>Increase Line Width</source>
         <translation>Zväčšiť šírku čiary</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1118"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1127"/>
         <source>Increase the line/trace/stroke/pad width</source>
         <translation>Zväčšenie šírky čiary/spoja/medzery/plôšky vývodu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1126"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1135"/>
         <source>Decrease Line Width</source>
         <translation>Zmenšiť šírku čiary</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1127"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1136"/>
         <source>Decrease the line/trace/stroke/pad width</source>
         <translation>Zmenšenie šírky čiary/spoja/medzery/plôšky vývodu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1135"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1144"/>
         <source>Increase Size</source>
         <translation>Zväčšiť veľkosť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1136"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1145"/>
         <source>Increase the via/pad/pin/text size</source>
         <translation>Zväčšenie veľkosti prechodu/plôšky vývodu/textu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1144"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1153"/>
         <source>Decrease Size</source>
         <translation>Zmenšiť veľkosť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1145"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1154"/>
         <source>Decrease the via/pad/pin/text size</source>
         <translation>Zmenšenie veľkosti prechodu/plôšky vývodu/textu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1153"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1162"/>
         <source>Increase Drill</source>
         <translation>Zväčšiť priemer otvoru</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1154"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1163"/>
         <source>Increase the via/pad/hole drill diameter</source>
         <translation>Zväčšenie priemeru nástroja pre vytvorenie otvoru prechodu/vývodu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1162"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1171"/>
         <source>Decrease Drill</source>
         <translation>Zmenšiť priemer otvoru</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1163"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1172"/>
         <source>Decrease the via/pad/hole drill diameter</source>
         <translation>Zmenšenie priemeru nástroja pre vytvorenie otvoru prechodu/vývodu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1171"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1180"/>
         <source>Toggle Auto-Width</source>
         <translation>Prepnutie automatickej šírky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1172"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1181"/>
         <source>Toggle the auto-width property state</source>
         <translation>Prepnutie vlastnosti automatickej šírky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1180"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1189"/>
         <source>Toggle Fill</source>
         <translation>Prepnutie výplne</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1181"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1190"/>
         <source>Toggle the fill property state</source>
         <translation>Prepnutie vlastnosti vyplnenia oblasti</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1189"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1198"/>
         <source>Toggle Grab Area</source>
         <translation>Prepnutie uchopovacej oblasti</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1190"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1199"/>
         <source>Toggle the grab area property state</source>
         <translation>Prepnutie vlastnosti uchopovacej oblasti</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1198"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1207"/>
         <source>Align Left</source>
         <translation>Zarovnanie vľavo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1199"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1208"/>
         <source>Horizontal alignment: Left</source>
         <translation>Horizontálne zarovnanie: Vľavo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1207"/>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1234"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1216"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1243"/>
         <source>Align Center</source>
         <translation>Zarovnanie na stred</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1208"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1217"/>
         <source>Horizontal alignment: Center</source>
         <translation>Horizontálne zarovnanie: Na stred</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1216"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1225"/>
         <source>Align Right</source>
         <translation>Zarovnanie vpravo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1217"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1226"/>
         <source>Horizontal alignment: Right</source>
         <translation>Horizontálne zarovnanie: Vpravo</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1225"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1234"/>
         <source>Align Bottom</source>
         <translation>Zarovnanie nadol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1226"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1235"/>
         <source>Vertical alignment: Bottom</source>
         <translation>Vertikálne zarovnanie: Nadol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1235"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1244"/>
         <source>Vertical alignment: Center</source>
         <translation>Vertikálne zarovnanie: Na stred</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1243"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1252"/>
         <source>Align Top</source>
         <translation>Zarovnanie nahor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1244"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1253"/>
         <source>Vertical alignment: Top</source>
         <translation>Vertikálne zarovnanie: Nahor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1252"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1261"/>
         <source>Horizontal - Vertical</source>
         <translation>Horizontálne - Vertikálne</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1253"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1262"/>
         <source>Wire mode: First segment horizontal, second segment vertical</source>
         <translation>Režim spoja: Prvý segment horizontálne, nasledujúci segment vertikálne</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1262"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1271"/>
         <source>Vertical - Horizontal</source>
         <translation>Vertikálne - Horizontálne</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1263"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1272"/>
         <source>Wire mode: First segment vertical, second segment horizontal</source>
         <translation>Režim spoja: Prvý segment vertikálne, nasledujúci segment horizontálne</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1272"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1281"/>
         <source>90° - 45°</source>
         <translation>90° - 45°</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1273"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1282"/>
         <source>Wire mode: First segment 90°, second segment 45°</source>
         <translation>Režim spoja: Prvý segment 90°, nasledujúci segment 45°</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1281"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1290"/>
         <source>45° - 90°</source>
         <translation>45° - 90°</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1282"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1291"/>
         <source>Wire mode: First segment 45°, second segment 90°</source>
         <translation>Režim spoja: Prvý segment 45°, nasledujúci segment 90°</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1290"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1299"/>
         <source>Straight</source>
         <translation>Priame</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1291"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1300"/>
         <source>Wire mode: Straight line</source>
         <translation>Režim spoja: Priame línie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1299"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1308"/>
         <source>Round</source>
         <translation>Kruhový</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1300"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1309"/>
         <source>Shape: Round</source>
         <translation>Tvar: Kruh</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1308"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1317"/>
         <source>Rounded Rectangle</source>
         <translation>Zaoblený štvoruholník</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1309"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1318"/>
         <source>Shape: Rounded Rectangle</source>
         <translation>Tvar: Zaoblený štvoruholník</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1317"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1326"/>
         <source>Rectangle</source>
         <translation>Štvoruholník</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1318"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1327"/>
         <source>Shape: Rectangle</source>
         <translation>Tvar: Štvoruholník</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1326"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1335"/>
         <source>Octagon</source>
         <translation>Osemuholníkový</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1327"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1336"/>
         <source>Shape: Octagon</source>
         <translation>Tvar: Osemuholník</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1335"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1344"/>
         <source>Components</source>
         <translation>Komponenty</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1338"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1347"/>
         <source>Resistor</source>
         <translation>Rezistor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1339"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1348"/>
         <source>Add standard component: Resistor</source>
         <translation>Pridanie štandardného prvku typu: Rezistor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1347"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1356"/>
         <source>Inductor</source>
         <translation>Cievka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1348"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1357"/>
         <source>Add standard component: Inductor</source>
         <translation>Pridanie štandardného prvku typu: Cievka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1356"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1365"/>
         <source>Bipolar Capacitor</source>
         <translation>Bipolárny kondenzátor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1357"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1366"/>
         <source>Add standard component: Bipolar capacitor</source>
         <translation>Pridanie štandardného prvku typu: Bipolárny kondenzátor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1365"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1374"/>
         <source>Unipolar Capacitor</source>
         <translation>Unipolárny kondenzátor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1366"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1375"/>
         <source>Add standard component: Unipolar capacitor</source>
         <translation>Pridanie štandardného prvku typu: Unipolárny kondenzátor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1374"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1383"/>
         <source>GND Supply</source>
         <translation>Napájací objekt GND</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1375"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1384"/>
         <source>Add standard component: GND supply</source>
         <translation>Pridanie štandardného prvku typu: Napájací objekt GND</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1383"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1392"/>
         <source>VCC Supply</source>
         <translation>Napájací objekt VCC</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1384"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1393"/>
         <source>Add standard component: VCC supply</source>
         <translation>Pridanie štandardného prvku typu: Napájací objekt VCC</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1391"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1400"/>
         <source>Docks</source>
         <translation>Dokovateľné dialógy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1395"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1404"/>
         <source>Pages</source>
         <translation>Schematické výkresy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1396"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1405"/>
         <source>Go to the pages dock</source>
         <translation>Prejsť na dokovateľný dialóg schematických listov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1404"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1413"/>
         <source>Electrical Rule Check (ERC)</source>
         <translation>Kontrola elektrických pravidiel (ERC)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1405"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1414"/>
         <source>Go to the ERC messages dock</source>
         <translation>Prejsť na dokovateľný dialóg ERC správ</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1413"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1422"/>
         <source>Design Rule Check (DRC)</source>
         <translation>Kontrola návrhových pravidiel (DRC)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1414"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1423"/>
         <source>Go to the DRC messages dock</source>
         <translation>Prejsť na dokovateľný dialóg DRC správ</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1422"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1431"/>
         <source>Layers</source>
         <translation>Vrstvy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1423"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1432"/>
         <source>Go to the layers dock</source>
         <translation>Prejsť na dokovateľný dialóg vrstiev</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1431"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1440"/>
         <source>Place Devices</source>
         <translation>Umiestniť súčiastky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1432"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1441"/>
         <source>Go to the dock for placing devices</source>
         <translation>Prejsť na dokovateľný dialóg pre umiestňovanie súčiastok</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1440"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1449"/>
         <source>Window Management</source>
         <translation>Správca okien</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1444"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1453"/>
         <source>Next Tab/Page</source>
         <translation>Nasledujúca karta/stránka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1445"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1454"/>
         <source>Navigate to the next tab or page</source>
         <translation>Prejsť na nasledujúcu kartu alebo stránku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1453"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1462"/>
         <source>Previous Tab/Page</source>
         <translation>Predchádzajúca karta/stránka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1454"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1463"/>
         <source>Navigate to the previous tab or page</source>
         <translation>Prejsť na predchádzajúcu kartu alebo stránku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1462"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1471"/>
         <source>Close Tab</source>
         <translation>Zavrieť kartu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1463"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1472"/>
         <source>Close the currently opened tab</source>
         <translation>Zavrieť aktuálne otvorenú kartu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1471"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1480"/>
         <source>Close All Tabs</source>
         <translation>Zavrieť všetky karty</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1472"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1481"/>
         <source>Close all currently opened tabs</source>
         <translation>Zavrieť všetky otvorené karty</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1480"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1489"/>
         <source>Close Window</source>
         <translation>Zavrieť okno</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1481"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1490"/>
         <source>Close this window</source>
         <translation>Zavrieť toto okno</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1489"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1498"/>
         <source>Close Project</source>
         <translation>Zatvoriť projekt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1490"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1499"/>
         <source>Close the currently opened project</source>
         <translation>Zavrieť aktuálne otvorený projekt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1498"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1507"/>
         <source>Close All Projects</source>
         <translation>Zavrieť všetky projekty</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1499"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1508"/>
         <source>Close all currently opened projects</source>
         <translation>Zavrieť všetky aktuálne otvorené projekty</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1507"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1516"/>
         <source>Quit</source>
         <translation>Ukončiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1508"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1517"/>
         <source>Close the whole application</source>
         <translation>Zavrieť celú aplikáciu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1515"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1524"/>
         <source>Help</source>
         <translation>Pomoc</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1519"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1528"/>
         <source>About LibrePCB</source>
         <translation>O LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1520"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1529"/>
         <source>Show information about the application</source>
         <translation>Zobraziť informácie o aplikácii</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1528"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1537"/>
         <source>About Qt</source>
         <translation>O Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1529"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1538"/>
         <source>Show information about Qt</source>
         <translation>Zobraziť informácie o Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1537"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1546"/>
         <source>LibrePCB Website</source>
         <translation>Prejsť na stránku LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1538"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1547"/>
         <source>Open the LibrePCB website in the web browser</source>
         <translation>Otvoriť webstránku LibrePCB v internetovom prehliadači</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1546"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1555"/>
         <source>Online Documentation</source>
         <translation>Online dokumentácia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1547"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1556"/>
         <source>Open the documentation in the web browser</source>
         <translation>Otvoriť dokumentáciu v internetovom prehliadači</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1555"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1564"/>
         <source>Keyboard Shortcuts Reference</source>
         <translation>Zoznam klávesových skratiek</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1556"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1565"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
         <translation>Otvorenie prehľadu nastavených klávesových skratiek</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1564"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1573"/>
         <source>Context Menu</source>
         <translation>Kontextová ponuka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1567"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1576"/>
         <source>New Folder</source>
         <translation>Nový adresár</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1568"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1577"/>
         <source>Create a new folder</source>
         <translation>Vytvoriť nový adresár</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1576"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1585"/>
         <source>Add To Favorites</source>
         <translation>Pridať k obľúbeným</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1577"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1586"/>
         <source>Add project to favorites</source>
         <translation>Pridať projekt k obľúbeným</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1585"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1594"/>
         <source>Remove From Favorites</source>
         <translation>Odstrániť z obľúbených</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1586"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1595"/>
         <source>Remove project from favorites</source>
         <translation>Odstrániť projekt z obľúbených</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1594"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1603"/>
         <source>Add Vertex</source>
         <translation>Pridať vrchol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1595"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1604"/>
         <source>Insert a new vertex into the selected polygon edge</source>
         <translation>Vložiť nový vrchol na hranu zvoleného polygónu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1603"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1612"/>
         <source>Remove Vertex</source>
         <translation>Odstrániť vrchol</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1604"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1613"/>
         <source>Remove the selected vertex from the polygon</source>
         <translation>Odstrániť zvolený vrchol z polygónu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1612"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1621"/>
         <source>Select Whole Trace</source>
         <translation>Vybrať celý spoj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1613"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1622"/>
         <source>Select the whole trace</source>
         <translation>Vybrať celý spoj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1621"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1630"/>
         <source>Measure Selected Segments Length</source>
         <translation>Zmerať zvolené segmenty spoja</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1622"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1631"/>
         <source>Measure the total length of all selected trace segments</source>
         <translation>Zmerať celkovú dĺžku všetkých zvolených segmentov spoja</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1630"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1639"/>
         <source>Remove Whole Trace</source>
         <translation>Odstrániť celý spoj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1631"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1640"/>
         <source>Remove the whole trace</source>
         <translation>Odstrániť celý spoj</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1640"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1649"/>
         <source>Toggle placement lock</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1648"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1657"/>
         <source>Visible</source>
         <translation>Viditeľnosť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1649"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1658"/>
         <source>Toggle visibility</source>
         <translation>Prepnutie viditeľnosti</translation>
     </message>
@@ -3158,19 +3290,19 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="98"/>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="176"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="185"/>
         <source>Documentation</source>
         <translation>Documentation</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="104"/>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="182"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="191"/>
         <source>Comments</source>
         <translation>Comments</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="110"/>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="188"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="197"/>
         <source>Guide</source>
         <translation>Guide</translation>
     </message>
@@ -3205,137 +3337,142 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <translation>Board Outlines</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="158"/>
-        <source>Milling (PTH)</source>
-        <translation>Milling (PTH)</translation>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="159"/>
+        <source>Board Cutouts</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="164"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="166"/>
+        <source>Plated Board Cutouts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="173"/>
         <source>Measures</source>
         <translation>Measures</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="170"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="179"/>
         <source>Alignment</source>
         <translation>Alignment</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="194"/>
-        <source>Top Placement</source>
-        <translation>Top Placement</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="200"/>
-        <source>Bottom Placement</source>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="203"/>
+        <source>Top Legend</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="207"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="209"/>
+        <source>Bottom Legend</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="215"/>
         <source>Top Documentation</source>
         <translation>Top Documentation</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="214"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="222"/>
         <source>Bottom Documentation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="221"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="229"/>
         <source>Top Hidden Grab Areas</source>
         <translation>Top Hidden Grab Areas</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="228"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="236"/>
         <source>Bottom Hidden Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="235"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="243"/>
         <source>Top Names</source>
         <translation>Top Names</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="241"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="249"/>
         <source>Bottom Names</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="247"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="255"/>
         <source>Top Values</source>
         <translation>Top Values</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="253"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="261"/>
         <source>Bottom Values</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="259"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="267"/>
         <source>Top Courtyard</source>
         <translation>Top Courtyard</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="265"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="273"/>
         <source>Bottom Courtyard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="272"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="280"/>
         <source>Top Stop Mask</source>
         <translation>Top Stop Mask</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="279"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="287"/>
         <source>Bottom Stop Mask</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="286"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="294"/>
         <source>Top Solder Paste</source>
         <translation>Vrchná strana spájk. pasty</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="293"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="301"/>
         <source>Bottom Solder Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="300"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="308"/>
         <source>Top Finish</source>
         <translation>Top Finish</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="306"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="314"/>
         <source>Bottom Finish</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="312"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="320"/>
         <source>Top Glue</source>
         <translation>Top Glue</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="318"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="326"/>
         <source>Bottom Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="324"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="332"/>
         <source>Top Copper</source>
         <translation>Top Copper</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="331"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="339"/>
         <source>Bottom Copper</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="341"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="349"/>
         <source>Inner Copper %1</source>
         <translation>Inner Copper %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/types/layer.cpp" line="424"/>
+        <location filename="../libs/librepcb/core/types/layer.cpp" line="433"/>
         <source>Unknown layer: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
@@ -3856,16 +3993,16 @@ For THT pads, the origin must be located within a drill hole since on some layer
     </message>
 </context>
 <context>
-    <name>MsgPadOverlapsWithPlacement</name>
+    <name>MsgPadOverlapsWithLegend</name>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="391"/>
-        <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to placement layer</source>
-        <translation>Plôška vývodu &apos;%1&apos; v &apos;%2&apos; a prvok vo vrstve &apos;top placement&apos; sú príliš blízko</translation>
+        <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to legend</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="393"/>
-        <source>Pads should have at least %1 clearance to the outlines layer because outlines are drawn on silkscreen which will be cropped for Gerber export.</source>
-        <translation>Plôška vývodu púzdra by mala byť minimálne %1 vzdialená od obrysu, pretože tento je vygenerovaný do popisnej vrstvy (silkscreen) a bude prerušený pri exportovaní Gerber dát.</translation>
+        <source>Pads should have at least %1 clearance to drawings on the legend because these drawings would be cropped during the Gerber export when used as silkscreen.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4009,14 +4146,27 @@ For THT pads, the origin must be located within a drill hole since on some layer
     </message>
 </context>
 <context>
+    <name>MsgUselessZone</name>
+    <message>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="622"/>
+        <source>Useless keepout zone in &apos;%2&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="624"/>
+        <source>The keepout zone has no layer or rule enabled so it has no effect. Either correct its properties or remove it from the footprint.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>MsgWrongFootprintTextLayer</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="623"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="645"/>
         <source>Layer of &apos;%1&apos; in &apos;%2&apos; is not &apos;%3&apos;</source>
         <translation>Vrstva &apos;%1&apos; v &apos;%2&apos; nie je &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="626"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="648"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
         <translation>Textový reťazec &apos;%1&apos; sa bežne umiestňuje vo vrstve &apos;%2&apos;.</translation>
     </message>
@@ -4122,6 +4272,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <name>QShortcut</name>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="535"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="398"/>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="534"/>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="471"/>
         <source>Shift</source>
@@ -4353,19 +4504,19 @@ For THT pads, the origin must be located within a drill hole since on some layer
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="91"/>
-        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="118"/>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="119"/>
         <source>Documentation</source>
         <translation>Documentation</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="92"/>
-        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="119"/>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="120"/>
         <source>Comments</source>
         <translation>Comments</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="93"/>
-        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="120"/>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="121"/>
         <source>Guide</source>
         <translation>Guide</translation>
     </message>
@@ -4427,7 +4578,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="111"/>
-        <source>Milling</source>
+        <source>Plated Cutouts</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4447,151 +4598,156 @@ For THT pads, the origin must be located within a drill hole since on some layer
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="115"/>
+        <source>Zones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="116"/>
         <source>Air Wires</source>
         <translation>Air Wires</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="116"/>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="117"/>
         <source>Measures</source>
         <translation>Measures</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="117"/>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="118"/>
         <source>Alignment</source>
         <translation>Alignment</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="121"/>
-        <source>Placement Top</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="122"/>
-        <source>Placement Bottom</source>
+        <source>Legend Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="123"/>
-        <source>Documentation Top</source>
+        <source>Legend Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="124"/>
-        <source>Documentation Bottom</source>
+        <source>Documentation Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="125"/>
-        <source>Grab Areas Top</source>
+        <source>Documentation Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="126"/>
-        <source>Grab Areas Bottom</source>
+        <source>Grab Areas Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="127"/>
-        <source>Hidden Grab Areas Top</source>
+        <source>Grab Areas Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="128"/>
-        <source>Hidden Grab Areas Bottom</source>
+        <source>Hidden Grab Areas Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="129"/>
-        <source>References Top</source>
+        <source>Hidden Grab Areas Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="130"/>
-        <source>References Bottom</source>
+        <source>References Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="131"/>
-        <source>Names Top</source>
+        <source>References Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="132"/>
-        <source>Names Bottom</source>
+        <source>Names Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="133"/>
-        <source>Values Top</source>
+        <source>Names Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="134"/>
-        <source>Values Bottom</source>
+        <source>Values Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="135"/>
-        <source>Courtyard Top</source>
+        <source>Values Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="136"/>
-        <source>Courtyard Bottom</source>
+        <source>Courtyard Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="137"/>
-        <source>Stop Mask Top</source>
+        <source>Courtyard Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="138"/>
-        <source>Stop Mask Bottom</source>
+        <source>Stop Mask Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="139"/>
-        <source>Solder Paste Top</source>
+        <source>Stop Mask Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="140"/>
-        <source>Solder Paste Bottom</source>
+        <source>Solder Paste Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="141"/>
-        <source>Finish Top</source>
+        <source>Solder Paste Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="142"/>
-        <source>Finish Bottom</source>
+        <source>Finish Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="143"/>
-        <source>Glue Top</source>
+        <source>Finish Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="144"/>
-        <source>Glue Bottom</source>
+        <source>Glue Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="145"/>
+        <source>Glue Bottom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="146"/>
         <source>Copper Top</source>
         <translation>Spoje vrchnej strany</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="181"/>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="182"/>
         <source>Copper Inner %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="183"/>
+        <location filename="../libs/librepcb/core/workspace/theme.cpp" line="184"/>
         <source>Copper Bottom</source>
         <translation>Spoje spodnej strany</translation>
     </message>
@@ -4599,7 +4755,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>Toolbox</name>
     <message>
-        <location filename="../libs/librepcb/core/utils/toolbox.h" line="620"/>
+        <location filename="../libs/librepcb/core/utils/toolbox.h" line="627"/>
         <source>Invalid fixed point number string: &quot;%1&quot;</source>
         <translation>Neplatný celočíselný reťazec: &quot;%1&quot;</translation>
     </message>
@@ -4836,118 +4992,123 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>librepcb::BoardDesignRuleCheck</name>
     <message numerus="yes">
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="122"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="124"/>
         <source>Finished with %1 message(s)!</source>
         <comment>Count of messages</comment>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform>Ukončené s %1 správami!</numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="133"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="135"/>
         <source>Rebuild planes...</source>
         <translation>Obnovovanie vyplnených plôch...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="145"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="147"/>
         <source>Check copper widths...</source>
         <translation>Kontrola šírky vodivých prvkov...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="223"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="225"/>
         <source>Check copper clearances...</source>
         <translation>Kontrola odsadení vodivých prvkov...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="505"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="507"/>
         <source>Check board clearances...</source>
         <translation>Kontrola odsadení na doske...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="650"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="652"/>
         <source>Check hole clearances...</source>
         <translation>Kontrola odsadení otvorov...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="705"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="707"/>
         <source>Check drill clearances...</source>
         <translation>Kontrola odsadenia vŕtania...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="793"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="795"/>
         <source>Check drill to board edge clearances...</source>
         <translation>Kontrola odsadenia vŕtania voči hrane dosky...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="867"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="869"/>
         <source>Check PTH annular rings...</source>
         <translation>Kontrola medzikružia PTH...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="934"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="936"/>
         <source>Check NPTH drill diameters...</source>
         <translation>Kontrola priemeru vŕtania NPTH...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="965"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="967"/>
         <source>Check NPTH slot widths...</source>
         <translation>Kontrola šírky NPTH slotu...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="996"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="998"/>
         <source>Check PTH drill diameters...</source>
         <translation>Kontrola priemeru vŕtania PTH...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1034"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1036"/>
         <source>Check PTH slot widths...</source>
         <translation>Kontrola šírky PTH slotu...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1053"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1055"/>
+        <source>Check keepout zones...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1309"/>
         <source>Check for useless or disallowed vias...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1080"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1336"/>
         <source>Check for disallowed NPTH slots...</source>
         <translation>Kontrola nepovolených NPTH slotov...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1111"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1367"/>
         <source>Check for disallowed PTH slots...</source>
         <translation>Kontrola nepovolených PTH slotov...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1130"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1386"/>
         <source>Check pad connections...</source>
         <translation>Kontrola pripojenia plôšok vývodov...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1164"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1420"/>
         <source>Check courtyard clearances...</source>
         <translation>Kontrola odsadení manipulačných oblastí...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1199"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1455"/>
         <source>Check board outline...</source>
         <translation>Kontrola obrysu dosky...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1277"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1530"/>
         <source>Check for unplaced components...</source>
         <translation>Kontrola neumiestnených komponentov...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1292"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1545"/>
         <source>Check configured default devices...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1307"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1560"/>
         <source>Check for missing connections...</source>
         <translation>Kontrola chýbajúcich spojení...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1325"/>
+        <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1578"/>
         <source>Check for stale objects...</source>
         <translation type="unfinished"/>
     </message>
@@ -5035,28 +5196,33 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>librepcb::FileFormatMigrationV01</name>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="409"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="422"/>
         <source>Some particular ERC message approvals cannot be migrated and therefore have been removed. Please check the remaining ERC messages and approve them if desired.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="417"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="430"/>
         <source>All non-plated holes (NPTH) now have automatic stop mask added on both board sides. The expansion value is determined by the boards design rule settings but can be overridden in the hole properties dialog.</source>
         <translation>Všetky neprekovené otvory (NPTH) majú automaticky pridanú vynechanú oblasť v nespájkovateľnej maske na oboch stranách dosky. Hodnota odstupu masky od otvoru je definovaná v návrhových pravidlách dosky, ale pre konkrétny otvor ju je možné zmeniť vo vlastnostiach otvoru.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="426"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="439"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="433"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="446"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="440"/>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="453"/>
         <source>Vias within planes with connect style &apos;None&apos; are now fully connected to the planes since the connect style is no longer respected for vias. You might want to remove traces now which are no longer needed to connect these vias.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="463"/>
+        <source>Board cutouts now have a dedicated layer, thus nested board outline polygons and circles have automatically been moved to the cutouts layer. As the auto-detection is not perfect, please check if each cutout has been converted correctly. The easiest way is to review the PCB in the 3D viewer.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5263,17 +5429,17 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::ProjectLoader</name>
     <message>
-        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="101"/>
+        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="102"/>
         <source>File does not exist: &apos;%1&apos;</source>
         <translation>Súbor neexistuje: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="107"/>
+        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="108"/>
         <source>Directory does not contain a LibrePCB project: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="119"/>
+        <location filename="../libs/librepcb/core/project/projectloader.cpp" line="120"/>
         <source>This project was created with a newer application version.
 You need at least LibrePCB %1 to open it.
 
@@ -5318,42 +5484,42 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="145"/>
+        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="148"/>
         <source>Exporting device %1/%2...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="171"/>
+        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="174"/>
         <source>Saving...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="177"/>
+        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="180"/>
         <source>The export completed, but there were %1 errors!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="179"/>
+        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="182"/>
         <source>The last error was:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="181"/>
+        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="184"/>
         <source>Finished with errors!</source>
         <translation>Ukončené s chybami!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="184"/>
+        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="187"/>
         <source>Success!</source>
         <translation>Úspešné!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="191"/>
+        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="194"/>
         <source>Failed!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="200"/>
+        <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="203"/>
         <source>Aborted!</source>
         <translation type="unfinished"/>
     </message>
@@ -6172,114 +6338,114 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>%1 - LibrePCB Editor dosky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="829"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="833"/>
         <source>File</source>
         <translation>Súbor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="847"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="851"/>
         <source>Edit</source>
         <translation>Upraviť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="860"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="864"/>
         <source>View</source>
         <translation>Zobrazenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="872"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="876"/>
         <source>Find device...</source>
         <translation>Vyhľadať prvok...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="886"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="890"/>
         <source>Command</source>
         <translation>Príkaz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="895"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="899"/>
         <source>Tools</source>
         <translation>Nástroje</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1069"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1074"/>
         <source>Boards</source>
         <translation>Dosky s plošnými spojmi</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1292"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1494"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1522"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1540"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1630"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1696"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1301"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1503"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1531"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1549"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1639"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1705"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1476"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1485"/>
         <source>Add New Board</source>
         <translation>Pridať novú dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1476"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1504"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1485"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1513"/>
         <source>Choose a name:</source>
         <translation>Zvoľte názov:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1477"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1486"/>
         <source>new_board</source>
         <translation>nová_doska</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1485"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1513"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1494"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1522"/>
         <source>Invalid name: &apos;%1&apos;</source>
         <translation>Neplatný názov: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1504"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1513"/>
         <source>Copy Board</source>
         <translation>Kopírovať dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1505"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1514"/>
         <source>copy_of_%1</source>
         <translation>kópia_z_%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1531"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1540"/>
         <source>Remove board</source>
         <translation>Odstrániť dosku</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1532"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1541"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>Naozaj chcete odstrániť dosku &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1603"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1612"/>
         <source>Preparing board...</source>
         <translation>Pripravujem dáta dosky...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1603"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1612"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1647"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1656"/>
         <source>Export STEP Model</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1663"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1672"/>
         <source>STEP Export Failure</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1684"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1693"/>
         <source>Export project to *.lppz</source>
         <translation>Exportovanie projekt do *.lppz</translation>
     </message>
@@ -6530,61 +6696,105 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     </message>
 </context>
 <context>
+    <name>librepcb::editor::BoardEditorState_DrawZone</name>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="76"/>
+        <source>Layer:</source>
+        <translation>Vrstva:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="98"/>
+        <source>No Copper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="109"/>
+        <source>No Planes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="120"/>
+        <source>No Exposure</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="131"/>
+        <source>No Devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="212"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="261"/>
+        <source>Draw board zone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="229"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="274"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="308"/>
+        <source>Error</source>
+        <translation>Chyba</translation>
+    </message>
+</context>
+<context>
     <name>librepcb::editor::BoardEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="216"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="314"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="517"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="596"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="605"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="614"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="742"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="769"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="799"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1109"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1129"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1145"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1161"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1177"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1193"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1208"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1237"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1263"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1281"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1299"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1314"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1381"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1448"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="224"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="322"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="542"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="625"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="634"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="643"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="652"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="781"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="808"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="838"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1202"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1222"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1238"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1254"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1270"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1286"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1301"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1330"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1356"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1378"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1396"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1414"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1432"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1447"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1519"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1607"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="786"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="825"/>
         <source>None</source>
         <translation>Žiadna</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1326"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1459"/>
         <source>Paste board elements</source>
         <translation>Vložiť elementy dosky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1459"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1618"/>
         <source>Measurement Result</source>
         <translation>Výsledok merania</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1461"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1620"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform>Celková dĺžka %n segmentov spoja: %2 mm / %3 in</numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1469"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1628"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
         <translation>UPOZORNENIE: Sú zvolené %1 segmenty spoja, ale niektoré nie sú pripojené!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1498"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1657"/>
         <source>Selected trace segments may not branch!</source>
         <translation>Zvolené segmenty spoja sa nemajú vetviť!</translation>
     </message>
@@ -6803,12 +7013,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="94"/>
-        <source>Silkscreen:</source>
+        <source>Silkscreen Color:</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="190"/>
-        <source>Silkscreen Content:</source>
+        <source>Silkscreen Layers:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7064,7 +7274,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Hocijaký</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="434"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="430"/>
         <source>Could not apply settings</source>
         <translation>Nastavenie sa nedá použiť</translation>
     </message>
@@ -7572,6 +7782,30 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     </message>
 </context>
 <context>
+    <name>librepcb::editor::CmdBoardZoneAdd</name>
+    <message>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdboardzoneadd.cpp" line="41"/>
+        <source>Add zone to board</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::CmdBoardZoneEdit</name>
+    <message>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdboardzoneedit.cpp" line="41"/>
+        <source>Edit zone</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::CmdBoardZoneRemove</name>
+    <message>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdboardzoneremove.cpp" line="41"/>
+        <source>Remove zone from board</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::editor::CmdChangeNetSignalOfSchematicNetSegment</name>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdchangenetsignalofschematicnetsegment.cpp" line="54"/>
@@ -7783,7 +8017,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::CmdDragSelectedBoardItems</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmddragselectedboarditems.cpp" line="60"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmddragselectedboarditems.cpp" line="62"/>
         <source>Drag Board Elements</source>
         <translation>Ťahať elementy dosky</translation>
     </message>
@@ -7791,7 +8025,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::CmdDragSelectedFootprintItems</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmd/cmddragselectedfootprintitems.cpp" line="52"/>
+        <location filename="../libs/librepcb/editor/library/cmd/cmddragselectedfootprintitems.cpp" line="54"/>
         <source>Drag Footprint Elements</source>
         <translation>Ťahať elementy púzdra</translation>
     </message>
@@ -7815,7 +8049,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::CmdFlipSelectedBoardItems</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdflipselectedboarditems.cpp" line="70"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdflipselectedboarditems.cpp" line="72"/>
         <source>Flip Board Elements</source>
         <translation>Prevrátiť elementy dosky</translation>
     </message>
@@ -7975,7 +8209,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::CmdPasteBoardItems</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdpasteboarditems.cpp" line="83"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdpasteboarditems.cpp" line="86"/>
         <source>Paste Board Elements</source>
         <translation>Vložiť elementy dosky</translation>
     </message>
@@ -7983,7 +8217,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::CmdPasteFootprintItems</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmd/cmdpastefootprintitems.cpp" line="58"/>
+        <location filename="../libs/librepcb/editor/library/cmd/cmdpastefootprintitems.cpp" line="60"/>
         <source>Paste Footprint Elements</source>
         <translation>Vložiť elementy púzdra</translation>
     </message>
@@ -8023,7 +8257,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::CmdRemoveBoardItems</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdremoveboarditems.cpp" line="62"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdremoveboarditems.cpp" line="64"/>
         <source>Remove Board Items</source>
         <translation>Odstrániť položky dosky</translation>
     </message>
@@ -8039,7 +8273,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::CmdRemoveSelectedFootprintItems</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmd/cmdremoveselectedfootprintitems.cpp" line="53"/>
+        <location filename="../libs/librepcb/editor/library/cmd/cmdremoveselectedfootprintitems.cpp" line="55"/>
         <source>Remove Footprint Elements</source>
         <translation>Odstrániť elementy púzdra</translation>
     </message>
@@ -8291,6 +8525,14 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../libs/librepcb/editor/cmd/cmdtextedit.cpp" line="38"/>
         <source>Edit text</source>
         <translation>Upraviť text</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::CmdZoneEdit</name>
+    <message>
+        <location filename="../libs/librepcb/editor/cmd/cmdzoneedit.cpp" line="38"/>
+        <source>Edit zone</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10784,59 +11026,59 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
         <translation>Skenovanie knižníc (%p%)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="221"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="222"/>
         <source> [Read-Only]</source>
         <translation> [iba na čítanie]</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="222"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="223"/>
         <source>%1 - LibrePCB Library Editor</source>
         <translation>%1 - LibrePCB Editor knižnice</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="393"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="394"/>
         <source>Failed to open category</source>
         <translation>Chyba pri otváraní kategórie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="434"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="435"/>
         <source>You have unsaved changes in the library element.
 Do you want to save them before closing it?</source>
         <translation>Posledné zmeny prvku knižnice neboli uložené.
 Želáte si ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="437"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="438"/>
         <source>Unsaved changes</source>
         <translation>Neuložené zmeny</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="727"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="731"/>
         <source>File</source>
         <translation>Súbor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="739"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="743"/>
         <source>Edit</source>
         <translation>Upraviť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="752"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="756"/>
         <source>View</source>
         <translation>Zobrazenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="763"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="767"/>
         <source>Filter elements...</source>
         <translation>Filter elementov...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="778"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="782"/>
         <source>Command</source>
         <translation>Príkaz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="786"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="790"/>
         <source>Tools</source>
         <translation>Nástroje</translation>
     </message>
@@ -11818,6 +12060,14 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     </message>
 </context>
 <context>
+    <name>librepcb::editor::OpenGlSceneBuilder</name>
+    <message>
+        <location filename="../libs/librepcb/editor/3d/openglscenebuilder.cpp" line="121"/>
+        <source>The board outline is invalid. Please add exactly one polygon on the &apos;%1&apos; layer and make sure it is closed. For more information, check out the documentation.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::editor::OrderPcbDialog</name>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="14"/>
@@ -12012,7 +12262,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
 <context>
     <name>librepcb::editor::PackageEditorFsm</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorfsm.cpp" line="220"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorfsm.cpp" line="224"/>
         <source>Please select a footprint.</source>
         <translation>Prosím, zvoľte púzdro.</translation>
     </message>
@@ -12259,27 +12509,106 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     </message>
 </context>
 <context>
-    <name>librepcb::editor::PackageEditorState_Select</name>
+    <name>librepcb::editor::PackageEditorState_DrawZone</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="256"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="278"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="290"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="382"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="432"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="601"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="626"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="872"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="932"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="955"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="967"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="976"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1003"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1024"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="67"/>
+        <source>Top</source>
+        <translation>Vrch</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="77"/>
+        <source>Inner</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="87"/>
+        <source>Bottom</source>
+        <translation>Spodok</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="98"/>
+        <source>No Copper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="108"/>
+        <source>No Planes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="118"/>
+        <source>No Exposure</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="128"/>
+        <source>No Devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="139"/>
+        <source>Arc Angle:</source>
+        <translation>Uhol oblúka:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="247"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="319"/>
+        <source>Add footprint zone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="262"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="285"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="329"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="889"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="397"/>
+        <source>(press %1 to disable snap, %2 to abort)</source>
+        <translation>(stačením %1 sa zakáže prichytenie, %2 sa ukončí akcia)</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="399"/>
+        <source>right click</source>
+        <translation>pravé kliknutie</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="402"/>
+        <source>Click to specify the first point</source>
+        <translation>Kliknutím zvolíte prvý bod</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="404"/>
+        <source>Click to specify the next point</source>
+        <translation>Kliknutím zvolíte nasledujúci bod</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::PackageEditorState_Select</name>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="279"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="301"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="313"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="325"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="417"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="467"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="639"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="669"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="961"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1021"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1044"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1056"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1065"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1092"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1113"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1134"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1155"/>
+        <source>Error</source>
+        <translation>Chyba</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="978"/>
         <source>Paste Footprint Elements</source>
         <translation>Vložiť elementy púzdra</translation>
     </message>
@@ -12377,32 +12706,32 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
         <translation>Automatické zisťovanie (neodporúčané)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="326"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="327"/>
         <source>Invalid metadata</source>
         <translation>Neplatné metadáta</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="337"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="338"/>
         <source>Save failed</source>
         <translation>Uloženie neúspešné</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="677"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="680"/>
         <source>Please select a footprint.</source>
         <translation>Prosím, zvoľte púzdro.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="891"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="894"/>
         <source>Apply to all unspecified pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="913"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="916"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1018"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1021"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -14426,6 +14755,94 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="637"/>
         <source>Not installed</source>
         <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::ZonePropertiesDialog</name>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="14"/>
+        <source>Zone Properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="27"/>
+        <source>Rules</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="48"/>
+        <source>Raise a DRC error if there are any copper objects (e.g. traces or vias) in this zone. Only planes are allowed to flood this zone without raising an error.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="51"/>
+        <source>No copper (except planes)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="58"/>
+        <source>Prevent copper planes from flooding this zone.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="61"/>
+        <source>No planes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="68"/>
+        <source>Raise a DRC error if there is any solder resist opening (possibly exposing copper) in this zone.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="71"/>
+        <source>No exposure</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="78"/>
+        <source>Raise a DRC error if there are any devices placed in this zone.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="81"/>
+        <source>No devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="91"/>
+        <source>Options</source>
+        <translation>Možnosti</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="109"/>
+        <source>Lock</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="121"/>
+        <source>Layers</source>
+        <translation>Vrstvy</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="68"/>
+        <source>Inner Layers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="70"/>
+        <source>Top Side</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="72"/>
+        <source>Bottom Side</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="230"/>
+        <source>Error</source>
+        <translation>Chyba</translation>
     </message>
 </context>
 <context>
