@@ -525,12 +525,12 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="560"/>
         <source>Clearance pad ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Кліренс пад ↔ контур плати &lt; %1 %2</translation>
+        <translation>Кліренс підкладка ↔ контур плати &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="563"/>
         <source>The clearance between a footprint pad and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Кліренс між падом відбитка і контуром плати менший, ніж у налаштуваннях DRC.</translation>
+        <translation>Проміжок між підкладкою відбитка і контуром плати менший, ніж у налаштуваннях DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="567"/>
@@ -682,7 +682,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="737"/>
         <source>Pad in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is pad name</comment>
-        <translation>Пад в зоні заборони міді: &apos;%1&apos;</translation>
+        <translation>Підкладка у зоні заборони міді: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="754"/>
@@ -834,7 +834,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1070"/>
         <source>Pad in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is pad name</comment>
-        <translation>Пад в зоні заборони експозиції: &apos;%1&apos;</translation>
+        <translation>Підкладка у зоні заборони експозиції: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1087"/>
@@ -952,12 +952,12 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1397"/>
         <source>Invalid connection of pad &apos;%1&apos; on &apos;%2&apos;</source>
         <comment>Placeholders: Pad name, layer name</comment>
-        <translation>Недійсне з&apos;єднання паду &apos;%1&apos; на платі &apos;%2&apos;</translation>
+        <translation>Недійсне з&apos;єднання підкладки &apos;%1&apos; на платі &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1400"/>
         <source>The pad origin must be located within the pads copper area, or for THT pads within a hole. Otherwise traces might not beconnected fully. This issue needs to be fixed in the library.</source>
-        <translation>Початкова точка доріжки повинна розташовуватися всередині мідної області паду, або для падів з ТВЧ всередині отвору. Інакше сліди можуть не бути повністю з&apos;єднані. Цю проблему потрібно виправити в бібліотеці.</translation>
+        <translation>Початкова точка доріжки повинна розташовуватися всередині мідної області підкладки, або для підкладок з ТВЧ всередині отвору. Інакше сліди можуть не бути повністю з&apos;єднані. Цю проблему потрібно виправити в бібліотеці.</translation>
     </message>
 </context>
 <context>
@@ -982,12 +982,12 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1199"/>
         <source>Pad annular ring of &apos;%1&apos; &lt; %2 %3</source>
         <comment>Placeholders: Net name, minimum annular width, unit</comment>
-        <translation>Кільцева область паду &apos;%1&apos; &lt; %2 %3.</translation>
+        <translation>Кільцева область підкладки &apos;%1&apos; &lt; %2 %3.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1202"/>
         <source>The through-hole pad annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
-        <translation>Кільцева область паду (тобто міді навколо отвору) менше за мінімальну налаштовану ширину кільця в налаштуваннях DRC.</translation>
+        <translation>Кільцева область підкладки (тобто міді навколо отвору) менше за мінімальну налаштовану ширину кільця в налаштуваннях DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1206"/>
@@ -1026,7 +1026,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1270"/>
         <source>Pad drill diameter of &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Net name, actual diameter, minimum diameter</comment>
-        <translation>Діаметр свердла для пада &apos;%1&apos;: %2 &lt; %3 %4.</translation>
+        <translation>Діаметр свердла для підкладок &apos;%1&apos;: %2 &lt; %3 %4.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1288"/>
@@ -2242,82 +2242,82 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="933"/>
         <source>Add THT Pad</source>
-        <translation>Додати THT Пад</translation>
+        <translation>Додати THT Підкладку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="934"/>
         <source>Add plated through-hole copper pads</source>
-        <translation>Додати металізовані сквозні пади</translation>
+        <translation>Додати металізовані сквозні мідні підкладки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="942"/>
         <source>Add SMT Pad</source>
-        <translation>Додати SMT Пад</translation>
+        <translation>Додати SMT Підкладку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="943"/>
         <source>Add surface mounted (single layer) copper pads</source>
-        <translation>Додати поверхнево монтувані (одношарові) пади</translation>
+        <translation>Додати поверхнево монтувані (одношарові) підкладки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="951"/>
         <source>Add Thermal Pad</source>
-        <translation>Додати Термальний Пад</translation>
+        <translation>Додати Термальну Підкладку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="952"/>
         <source>Add special SMT pads used as heat sink</source>
-        <translation>Додати спеціальні SMT пади, що використовуються як тепловідвід</translation>
+        <translation>Додати спеціальні SMT підкладки, що використовуються як тепловідвід</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="960"/>
         <source>Add BGA Pad</source>
-        <translation>Добавити BGA Пад</translation>
+        <translation>Додати BGA Підкладку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="961"/>
         <source>Add special SMT pads used for ball grid arrays</source>
-        <translation>Додати спеціальні SMT пади, що використовуються для масивів кульок</translation>
+        <translation>Додати спеціальні SMT підкладки, що використовуються для масивів кульок</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="969"/>
         <source>Add Edge Connector Pad</source>
-        <translation>Додати Пад Конектора</translation>
+        <translation>Додати Підкладку Краєвого Конектора</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="970"/>
         <source>Add special SMT pads used as edge connector</source>
-        <translation>Додати спеціальні SMT пади, що використовуються як краївий з&apos;єднувач</translation>
+        <translation>Додати спеціальні SMT підкладки, що використовуються як краївий з&apos;єднувач</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="978"/>
         <source>Add Test Pad</source>
-        <translation>Додати Тест-пад</translation>
+        <translation>Додати Тест-підкладка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="979"/>
         <source>Add special SMT pads used as test points</source>
-        <translation>Додати спеціальні SMT пади, що використовуються як тестові точки</translation>
+        <translation>Додати спеціальні SMT підкладки, що використовуються як тестові точки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="987"/>
         <source>Add Local Fiducial Pad</source>
-        <translation>Додати Локальний Пад Фідуциала</translation>
+        <translation>Додати Локальний Підкладку Фідуциала</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="988"/>
         <source>Add special SMT pads used as local fiducials</source>
-        <translation>Додати спеціальні SMT пади, що використовуються як локальні фідуциали</translation>
+        <translation>Додати спеціальні SMT підкладки, що використовуються як локальні фідуциали</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="996"/>
         <source>Add Global Fiducial Pad</source>
-        <translation>Додати Глобальний Пад Фідуциала</translation>
+        <translation>Додати Глобальну Підкладку Фідуциала</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="997"/>
         <source>Add special SMT pads used as global fiducials</source>
-        <translation>Додати спеціальні SMT пади, що використовуються як глобальні фідуциали</translation>
+        <translation>Додати спеціальні SMT підкладки, що використовуються як глобальні фідуциали</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1005"/>
@@ -2397,7 +2397,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1070"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
-        <translation>Малювати автоматично заповнені мідні області для з&apos;єднання падів та перехідних отворів</translation>
+        <translation>Малювати автоматично заповнені мідні області для з&apos;єднання підкладок та перехідних отворів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1078"/>
@@ -2462,7 +2462,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1127"/>
         <source>Increase the line/trace/stroke/pad width</source>
-        <translation>Збільшити ширину лінії/доріжки/контуру/паду</translation>
+        <translation>Збільшити ширину лінії/доріжки/контуру/підкладки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1135"/>
@@ -2472,7 +2472,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1136"/>
         <source>Decrease the line/trace/stroke/pad width</source>
-        <translation>Зменшити ширину лінії/доріжки/контуру/паду</translation>
+        <translation>Зменшити ширину лінії/доріжки/контуру/підкладки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1144"/>
@@ -2482,7 +2482,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1145"/>
         <source>Increase the via/pad/pin/text size</source>
-        <translation>Збільшити розмір переходу/паду/виводу/тексту</translation>
+        <translation>Збільшити розмір переходу/підкладки/виводу/тексту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1153"/>
@@ -2492,7 +2492,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1154"/>
         <source>Decrease the via/pad/pin/text size</source>
-        <translation>Зменшити розмір переходу/паду/виводу/тексту</translation>
+        <translation>Зменшити розмір переходу/підкладки/виводу/тексту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1162"/>
@@ -2502,7 +2502,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1163"/>
         <source>Increase the via/pad/hole drill diameter</source>
-        <translation>Збільшити діаметр свердла переходу/паду/отвору</translation>
+        <translation>Збільшити діаметр свердла переходу/підкладки/отвору</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1171"/>
@@ -2512,7 +2512,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1172"/>
         <source>Decrease the via/pad/hole drill diameter</source>
-        <translation>Зменшити діаметр свердла переходу/паду/отвору</translation>
+        <translation>Зменшити діаметр свердла переходу/підкладки/отвору</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1180"/>
@@ -3244,32 +3244,32 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="574"/>
         <source>Standard Pad (soldered)</source>
-        <translation>Стандартні пади (паяні)</translation>
+        <translation>Стандартні підкладки (паяні)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="576"/>
         <source>Press-Fit Pad (THT, soldered)</source>
-        <translation>Пади Press-Fit (THT, паяні)</translation>
+        <translation>Підкладка Press-Fit (THT, паяні)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="578"/>
         <source>Thermal Pad (SMT, soldered)</source>
-        <translation>Термопади (SMT, паяні)</translation>
+        <translation>Термопідкладки (SMT, паяні)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="580"/>
         <source>BGA Pad (SMT, soldered)</source>
-        <translation>Пади BGA (SMT, паяні)</translation>
+        <translation>Підкладка BGA (SMT, паяні)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="582"/>
         <source>Edge Connector Pad (SMT, no soldering)</source>
-        <translation>Пади країв роз&apos;єму (SMT, без паяння)</translation>
+        <translation>Підкладка Краєвого Роз&apos;єму (SMT, без паяння)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="584"/>
         <source>Test Pad (SMT, no soldering)</source>
-        <translation>Тестові пади (SMT, без паяння)</translation>
+        <translation>Тестові підкладки (SMT, без паяння)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="586"/>
@@ -3626,16 +3626,16 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="66"/>
         <source>Duplicate pad name: &apos;%1&apos;</source>
-        <translation>Дублювання імені паду: &apos;%1&apos;</translation>
+        <translation>Дублюване ім&apos;я підкладки: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="67"/>
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
-        <translation>Усі пади корпусу повинні мати унікальні імена, інакше їх не можна буде відрізнити пізніше в редакторі пристроїв. Якщо ваша частина має кілька виводів з однаковою функціональністю (наприклад, кілька виводів GND), ви можете призначити всі ці пади для тієї ж сигналу компонента пізніше в редакторі пристроїв.
+        <translation>Усі підкладки корпусу повинні мати унікальні імена, інакше їх не можна буде відрізнити пізніше в редакторі пристроїв. Якщо ваша частина має кілька виводів з однаковою функціональністю (наприклад, кілька виводів GND), ви можете призначити всі ці підкладки для тієї ж сигналу компонента пізніше в редакторі пристроїв.
 
-Для нейтральних пакунків (наприклад, SOT23) пади повинні мати імена тільки за номерами, а не за функціональністю (наприклад, назвіть їх &apos;1&apos;, &apos;2&apos;, &apos;3&apos; замість &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</translation>
+Для нейтральних пакунків (наприклад, SOT23) підкладки повинні мати імена тільки за номерами, а не за функціональністю (наприклад, назвіть їх &apos;1&apos;, &apos;2&apos;, &apos;3&apos; замість &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</translation>
     </message>
 </context>
 <context>
@@ -3669,12 +3669,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="87"/>
         <source>Small copper clearance on fiducial in &apos;%1&apos;</source>
-        <translation>Малий зазор між міддю паду фідуціала в &apos;%1&apos;</translation>
+        <translation>Малий мідний проміжок на фідуціалі у &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="89"/>
         <source>The copper clearance of the fiducial pad is less than its stop mask expansion, which is unusual. Typically the copper clearance should be equal to or greater than the stop mask expansion to avoid copper located within the stop mask opening.</source>
-        <translation>Зазор між міддю паду фідуціала менше, ніж його розширення стоп-маски, що є незвичайним. Зазвичай зазор між міддю повинен бути рівним або більшим за розширення стоп-маски, щоб уникнути міді, розташованої всередині відкриття стоп-маски.</translation>
+        <translation>Мідний проміжок підкладки фідуціала менше, ніж його розширення стоп-маски, що є незвичайним. Зазвичай зазор між міддю повинен бути рівним або більшим за розширення стоп-маски, щоб уникнути міді, розташованої всередині відкриття стоп-маски.</translation>
     </message>
 </context>
 <context>
@@ -3687,7 +3687,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="114"/>
         <source>The stop mask expansion of the fiducial pad is set to automatic, which is unusual. Typically the stop mask expansion of fiducials need to be manually set to a much larger value.</source>
-        <translation>Розширення стоп-маски паду фідуціала встановлено в автоматичний режим, що є незвичайним. Зазвичай розширення стоп-маски фідуціалів потрібно встановлювати вручну значно більшим значенням.</translation>
+        <translation>Розширення стоп-маски підкладки фідуціала встановлено в автоматичний режим, що є незвичайним. Зазвичай розширення стоп-маски фідуціалів потрібно встановлювати вручну значно більшим значенням.</translation>
     </message>
 </context>
 <context>
@@ -3899,7 +3899,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="37"/>
         <source>No pads connected</source>
-        <translation>Немає підключених падів</translation>
+        <translation>Немає підключених підкладок</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="38"/>
@@ -3908,11 +3908,11 @@ Passive parts: Using an attribute, e.g. %3</source>
 To fix this issue, connect the package pads to their corresponding component signals in the table widget.
 
 If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
-        <translation>Обраний пакунок містить пади, але жоден з них не підключений до сигналів компонента. Таким чином, ці пади не мають електричної функції, і при додаванні пристрою до плати не можна підключити до них жодних слідів. 
+        <translation>Обраний пакунок містить підкладки, але жоден з них не підключений до сигналів компонента. Таким чином, ці підкладки не мають електричної функції, і при додаванні пристрою до плати не можна підключити до них жодних слідів. 
 
-Щоб виправити цю проблему, підключіть пади корпусу до відповідних сигналів компонента в таблиці.
+Щоб виправити цю проблему, підключіть підкладку корпусу до відповідних сигналів компонента в таблиці.
 
-Якщо всі пади мають лише механічну мету і, таким чином, не потребують підключення до сигналів компонента, це повідомлення можна ігнорувати.</translation>
+Якщо всі підкладки мають лише механічну мету і, таким чином, не потребують підключення до сигналів компонента, це повідомлення можна ігнорувати.</translation>
     </message>
 </context>
 <context>
@@ -3920,12 +3920,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="261"/>
         <source>Overlapping pads &apos;%1&apos; and &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation>Перекриття падів &apos;%1&apos; і &apos;%2&apos; в &apos;%3&apos;</translation>
+        <translation>Перекриття підкладок &apos;%1&apos; і &apos;%2&apos; у &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="264"/>
         <source>The copper area of two pads overlap. This can lead to serious issues with the design rule check and probably leads to a short circuit in the board so this really needs to be fixed.</source>
-        <translation>Мідна область двох падів перекривається. Це може призвести до серйозних проблем з перевіркою правил проектування і, ймовірно, призведе до короткого замикання на платі, тому це дійсно потрібно виправити.</translation>
+        <translation>Мідна область двох підкладок перекривається. Це може призвести до серйозних проблем з перевіркою правил проектування і, ймовірно, призведе до короткого замикання на платі, тому це дійсно потрібно виправити.</translation>
     </message>
 </context>
 <context>
@@ -3946,12 +3946,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="283"/>
         <source>Annular ring of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Кільце паду &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Кільце підкладки &apos;%1&apos; у &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="285"/>
         <source>Pads should have at least %1 annular ring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</source>
-        <translation>Пади повинні мати принаймні %1 кільце (мідь навколо кожного отвору паду). Зверніть увагу, що це значення є лише загальною рекомендацією, точне значення залежить від можливостей виробника плат.</translation>
+        <translation>Підкладки повинні мати принаймні %1 кільце (мідь навколо кожного отвору підкладки). Зверніть увагу, що це значення є лише загальною рекомендацією, точне значення залежить від можливостей виробника плат.</translation>
     </message>
 </context>
 <context>
@@ -3959,12 +3959,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="310"/>
         <source>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation>Проміжок паду &apos;%1&apos; до паду &apos;%2&apos; в &apos;%3&apos;</translation>
+        <translation>Проміжок підкладки &apos;%1&apos; до підкладки &apos;%2&apos; у &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="313"/>
         <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
-        <translation>Пади повинні мати принаймні %1 проміжок між собою. У деяких ситуаціях може знадобитися використання менших проміжків, але не всі виробники плат можуть надійно виробляти такі малі проміжки, тому зазвичай це слід уникати.</translation>
+        <translation>Підкладки повинні мати принаймні %1 проміжок між собою. У деяких ситуаціях може знадобитися використання менших проміжків, але не всі виробники плат можуть надійно виробляти такі малі проміжки, тому зазвичай це слід уникати.</translation>
     </message>
 </context>
 <context>
@@ -3972,12 +3972,12 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="340"/>
         <source>Hole outside copper of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Отвір поза міддю паду &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Отвір поза міддю підкладки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="342"/>
         <source>All THT pad holes must be fully surrounded by copper, otherwise they could lead to serious issues during the design rule check or manufacturing process.</source>
-        <translation>Всі отвори падів THT повинні повністю оточуватися міддю, інакше вони можуть призвести до серйозних проблем під час перевірки правил проектування або процесу виготовлення.</translation>
+        <translation>Всі отвори підкладок THT повинні повністю оточуватися міддю, інакше вони можуть призвести до серйозних проблем під час перевірки правил проектування або процесу виготовлення.</translation>
     </message>
 </context>
 <context>
@@ -3985,16 +3985,16 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="364"/>
         <source>Invalid origin of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Недійсний початок паду &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Недійсний початок підкладки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="366"/>
         <source>The origin of each pad must be located within its copper area, otherwise traces won't be connected properly.
 
 For THT pads, the origin must be located within a drill hole since on some layers the pad might only have a small annular ring instead of the full pad shape.</source>
-        <translation>Початок кожного паду повинен розташовуватися всередині його мідної області, інакше сліди не будуть правильно з&apos;єднані.
+        <translation>Початок кожної підкладки повинен розташовуватися всередині його мідної області, інакше сліди не будуть правильно з&apos;єднані.
 
-Для падів THT початок повинен розташовуватися всередині отвору для свердління, оскільки на деяких шарах пад може мати лише невелике кільце замість повної форми паду.</translation>
+Для THT підкладок, початок повинен розташовуватися всередині отвору для свердління, оскільки на деяких шарах підкладка може мати лише невелике кільце замість повної форми підкладки.</translation>
     </message>
 </context>
 <context>
@@ -4002,12 +4002,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="391"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to legend</source>
-        <translation>Проміжок між падом &apos;%1&apos; в &apos;%2&apos; та легендою</translation>
+        <translation>Проміжок між підкладкою &apos;%1&apos; у &apos;%2&apos; та легендою</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="393"/>
         <source>Pads should have at least %1 clearance to drawings on the legend because these drawings would be cropped during the Gerber export when used as silkscreen.</source>
-        <translation>Пади повинні мати принаймні %1 проміжок до креслень на легенді, оскільки ці креслення будуть обрізані під час експорту Gerber при використанні як шовкографія.</translation>
+        <translation>Підкладки повинні мати принаймні %1 проміжок до креслень на легенді, оскільки ці креслення будуть обрізані під час експорту Gerber при використанні як шовкографія.</translation>
     </message>
 </context>
 <context>
@@ -4015,12 +4015,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="416"/>
         <source>Solder resist on pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Паяльна маска на паді &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Паяльна маска на підкладці &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="418"/>
         <source>There&apos;s no stop mask opening enabled on the pad, so the copper pad will be covered by solder resist and is thus not functional. This is very unusual, you should double-check if this is really what you want.</source>
-        <translation>На паді не включено відкриття маски зупинки, тому мідний пад буде покритий паяльною маскою і, отже, не функціональний. Це дуже незвичайно, вам слід перевірити, чи саме це ви хочете.</translation>
+        <translation>На підкладці не включено відкриття стоа-маски, тому мідна підкладка буде покрита паяльною маскою і, отже, не буде функціональною. Це дуже незвичайно, вам слід перевірити, чи саме це ви хочете.</translation>
     </message>
 </context>
 <context>
@@ -4028,12 +4028,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="441"/>
         <source>Copper clearance &gt;0 on pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Кліренс міді &gt;0 на паді &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Кліренс міді &gt;0 на підкладці &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="443"/>
         <source>There is a custom copper clearance enabled on the pad, which is unusual for pads which do not represent a fiducial. Note that the clearance value from the board design rules is applied to all pads anyway, thus manual clearance values are usually not needed. If this pad is a fiducial, make sure to set its function to the corresponding value.</source>
-        <translation>На паді включено власний кліренс міді, що незвичайно для падів, які не є фідуціалами. Зверніть увагу, що значення кліренсу з правил проекту плати все одно застосовується до всіх падів, тому звичайно не потрібні вручну встановлені значення кліренсу. Якщо цей пад є фідуціалом, переконайтеся, що встановлено відповідне значення його функції.</translation>
+        <translation>На підклвдці включено власний кліренс міді, що незвичайно для підкладки, які не є фідуціалами. Зверніть увагу, що значення кліренсу з правил проекту плати все одно застосовується до всіх підкладок, тому звичайно не потрібні вручну встановлені значення кліренсу. Якщо я підкладка є фідуціалом, переконайтеся, що встановлено відповідне значення його функції.</translation>
     </message>
 </context>
 <context>
@@ -4041,12 +4041,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="468"/>
         <source>Solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Паяльна паста на SMT паді &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Паяльна паста на SMT підкладці &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="470"/>
         <source>The SMT pad has solder paste enabled, but its function indicates that there&apos;s no lead to be soldered on it (e.g. a fiducial). Usually solder paste is not desired on such special pads which won&apos;t be soldered.</source>
-        <translation>На SMT паді включена паяльна паста, але його функція вказує на те, що на ньому немає свинцю для паяння (наприклад, фідуціал). Зазвичай паяльна паста не потрібна на таких спеціальних падах, які не будуть паяні.</translation>
+        <translation>На SMT підкладці включена паяльна паста, але його функція вказує на те, що на ньому немає свинцю для паяння (наприклад, фідуціал). Зазвичай паяльна паста не потрібна на таких спеціальних підкладках, які не будуть паяні.</translation>
     </message>
 </context>
 <context>
@@ -4054,12 +4054,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="493"/>
         <source>No solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Немає паяльної пасти на SMT паді &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Немає паяльної пасти на SMT підкладці &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="495"/>
         <source>The SMT pad has no solder paste enabled, which is unusual since without solder paste the pad cannot be reflow soldered. Only use this if there&apos;s no lead to be soldered on that pad, or if you have drawn a manual solder paste area.</source>
-        <translation>На SMT паді немає включеної паяльної пасти, що незвичайно, оскільки без паяльної пасти пад не може бути паяним методом рефлоу. Використовуйте це лише тоді, коли на цьому паді немає свинцю для паяння, або якщо ви намалювали власну область паяльної пасти.</translation>
+        <translation>На SMT підкладці немає включеної паяльної пасти, що незвичайно, оскільки без паяльної пасти підкладка не може бути паяним методом рефлоу. Використовуйте це лише тоді, коли на цієї підкладці немає свинцю для паяння, або якщо ви намалювали власну область паяльної пасти.</translation>
     </message>
 </context>
 <context>
@@ -4080,7 +4080,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="518"/>
         <source>Suspicious function of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Підозріла функція пада &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Підозріла функція підкладки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="520"/>
@@ -4090,12 +4090,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
  - Function is intended for SMT pads but pad is THT
  - Function is electrical but pad is not connected
  - Function is fiducial but pad is connected</source>
-        <translation>Налаштована функція пада не відповідає іншим властивостям пада і, таким чином, виглядає підозрілою. Можливі причини:
+        <translation>Налаштована функція підкладки не відповідає іншим властивостям підкладки і, таким чином, виглядає підозрілою. Можливі причини:
 
- - Функція призначена для THT падів, але пад є SMT
- - Функція призначена для SMT падів, але пад є THT
- - Функція є електричною, але пад не підключений
- - Функція є фідуціалом, але пад підключений</translation>
+ - Функція призначена для THT підклвдок, але підкладка є SMT
+ - Функція призначена для SMT підклвдок, але підкладка є THT
+ - Функція є електричною, але підкладка не підключена
+ - Функція є фідуціалом, але підкладка підключенв</translation>
     </message>
 </context>
 <context>
@@ -4116,12 +4116,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="545"/>
         <source>Solder paste on THT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Паяльна паста на THT паді &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Паяльна паста на THT підкладці &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="547"/>
         <source>The THT pad has solder paste enabled, which is very unusual since through-hole components are usually not reflow soldered. Also the solder paste could flow into the pads hole, possibly causing troubles during THT assembly. Double-check if this is really what you want.</source>
-        <translation>На THT паді включена паяльна паста, що дуже незвичайно, оскільки компоненти з отворами зазвичай не паяються методом рефлоу. Крім того, паяльна паста може потрапити в отвір паду, що може призвести до проблем під час збірки THT. Перевірте, чи це дійсно те, що ви хочете.</translation>
+        <translation>На THT підкладці включена паяльна паста, що дуже незвичайно, оскільки компоненти з отворами зазвичай не паяються методом рефлоу. Крім того, паяльна паста може потрапити в отвір підкладки, що може призвести до проблем під час збірки THT. Перевірте, чи це дійсно те, що ви хочете.</translation>
     </message>
 </context>
 <context>
@@ -4129,17 +4129,17 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="571"/>
         <source>Unspecified function of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Не вказана функція паду &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Не вказана функція підкладки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="573"/>
         <source>The function of the pad is not specified, which could lead to inaccurate or wrong data in exports (e.g. pick&amp;place files). Also the automatic checks can detect more potential issues if the function is specified. Thus it&apos;s recommended to explicitly specify the function of each pad.</source>
-        <translation>Функція паду не вказана, що може призвести до неточних або неправильних даних у експортах (наприклад, у файлах pick&amp;place). Крім того, автоматичні перевірки можуть виявити більше потенційних проблем, якщо функція вказана. Тому рекомендується явно вказати функцію кожного паду.</translation>
+        <translation>Функція підкладки не вказана, що може призвести до неточних або неправильних даних у експортах (наприклад, у файлах pick&amp;place). Крім того, автоматичні перевірки можуть виявити більше потенційних проблем, якщо функція вказана. Тому рекомендується явно вказати функцію кожної підкладки.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="579"/>
         <source>However, the image data of a PCB is not affected by the pad function.</source>
-        <translation>Однак, дані зображення плати не залежать від функції паду.</translation>
+        <translation>Однак, дані зображення плати не залежать від функції підкладки.</translation>
     </message>
 </context>
 <context>
@@ -4147,12 +4147,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="600"/>
         <source>Unused custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Невикористана власна форма паду &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Невикористана власна форма підкладки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="602"/>
         <source>The pad has set a custom outline but it isn&apos;t used as the shape. So it has no effect and should be removed to avoid confusion.</source>
-        <translation>Пад має встановлену власну форму, але вона не використовується як форма. Тому вона не має ефекту і повинна бути видалена, щоб уникнути плутанини.</translation>
+        <translation>Підкладка має встановлену власну форму, але вона не використовується як форма. Тому вона не має ефекту і повинна бути видалена, щоб уникнути плутанини.</translation>
     </message>
 </context>
 <context>
@@ -4340,7 +4340,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="284"/>
         <source>Pad(s):</source>
-        <translation>Пад(и):</translation>
+        <translation>Підкладка(и):</translation>
     </message>
 </context>
 <context>
@@ -4599,7 +4599,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="113"/>
         <source>Pads</source>
-        <translation>Пади</translation>
+        <translation>Підкладки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="114"/>
@@ -5045,7 +5045,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="869"/>
         <source>Check PTH annular rings...</source>
-        <translation>Перевірка спідниць PTH отворів...</translation>
+        <translation>Перевірка кілець PTH отворів...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="936"/>
@@ -5090,7 +5090,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1386"/>
         <source>Check pad connections...</source>
-        <translation>Перевірка підключень паду...</translation>
+        <translation>Перевірка підключень підкладок...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1420"/>
@@ -6696,7 +6696,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="403"/>
         <source>Pad is not connected to any signal.</source>
-        <translation>Подушка не підключено до жодного сигналу.</translation>
+        <translation>Підкладка не підключена до жодного сигналу.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="536"/>
@@ -6953,7 +6953,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="110"/>
         <source>Clearance around thermal pads</source>
-        <translation>Кліренс навколо термо-подушок</translation>
+        <translation>Кліренс навколо термо-підкладок</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="113"/>
@@ -7052,12 +7052,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="244"/>
         <source>Vias Annular Ring:</source>
-        <translation>Спідниця Перехідного Отвору:</translation>
+        <translation>Кільце Перехідного Отвору:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="251"/>
         <source>Inner Layer Pads:</source>
-        <translation>Пади Внутрішнього Шару:</translation>
+        <translation>Підкладки Внутрішнього Шару:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="269"/>
@@ -7079,7 +7079,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="307"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="384"/>
         <source>Automatic Annular Ring</source>
-        <translation>Автоматична Спідниця</translation>
+        <translation>Автоматиче Кільце</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="329"/>
@@ -7089,7 +7089,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="399"/>
         <source>Autom. Pads Annular Ring:</source>
-        <translation>Автоматична Спідниця Паду:</translation>
+        <translation>Автоматична Кільце Підкладки:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="406"/>
@@ -7104,7 +7104,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="426"/>
         <source>Component Side Pads:</source>
-        <translation>Пади Зі Сторони Компонентів:</translation>
+        <translation>Підкладки Зі Сторони Компоненту:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="448"/>
@@ -8080,7 +8080,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdfootprintpadedit.cpp" line="38"/>
         <source>Edit footprint pad</source>
-        <translation>Редагувати пад відбитка</translation>
+        <translation>Редагувати підкладку відбитка</translation>
     </message>
 </context>
 <context>
@@ -8216,7 +8216,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpackagepadedit.cpp" line="38"/>
         <source>Edit package pad</source>
-        <translation>Редагувати пад корпусу</translation>
+        <translation>Редагувати підкладку корпусу</translation>
     </message>
 </context>
 <context>
@@ -9236,7 +9236,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="244"/>
         <source>Pad-Signal-Map</source>
-        <translation>Карта сигнал-подушка</translation>
+        <translation>Карта сигнал-підкладка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="303"/>
@@ -9429,7 +9429,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="169"/>
         <source>Package Pad</source>
-        <translation>Пад корпусу</translation>
+        <translation>Підкладки корпусу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="171"/>
@@ -10128,7 +10128,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="14"/>
         <source>Pad Properties</source>
-        <translation>Властивості паду</translation>
+        <translation>Властивості підкладки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="24"/>
@@ -10138,7 +10138,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="30"/>
         <source>Package Pad:</source>
-        <translation>Пад корпусу:</translation>
+        <translation>Підкладка корпусу:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="40"/>
@@ -10311,7 +10311,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="657"/>
         <source>Coordinates are relative to the pad origin and before rotation.</source>
-        <translation>Координати є відносними до нуля паду (до обертання).</translation>
+        <translation>Координати є відносними до нуля підкладки (до обертання).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="196"/>
@@ -10336,7 +10336,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="470"/>
         <source>The custom pad outline does not represent a valid area.</source>
-        <translation>Нестандартний контур пада не представляє дійсну область.</translation>
+        <translation>Нестандартний контур підкладки не представляє дійсну область.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="525"/>
@@ -11821,12 +11821,12 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="14"/>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="17"/>
         <source>Package Pads</source>
-        <translation>Пади корпусу</translation>
+        <translation>Підкладка корпусу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="20"/>
         <source>Define all available pads of the package.</source>
-        <translation>Задайте всі доступні пади корпусу.</translation>
+        <translation>Задайте всі доступні підкладки корпусу.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="53"/>
@@ -12305,7 +12305,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="134"/>
         <source>Package Pad:</source>
-        <translation>Пад корпусу:</translation>
+        <translation>Підкладка корпусу:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="216"/>
@@ -12345,7 +12345,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="429"/>
         <source>Add footprint pad</source>
-        <translation>Додати пад відбитка</translation>
+        <translation>Додати підкладку відбитка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="451"/>
@@ -12736,12 +12736,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="894"/>
         <source>Apply to all unspecified pads</source>
-        <translation>Застосувати до всіх не визначених падів</translation>
+        <translation>Застосувати до всіх не визначених підкладок</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="916"/>
         <source>Fix Unspecified Pad Functions</source>
-        <translation>Виправити Функції Не Визначених Падів</translation>
+        <translation>Виправити Функції Не Визначених Підкладок</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1021"/>
@@ -12830,7 +12830,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="91"/>
         <source>Add package pad(s)</source>
-        <translation>Додати пад(и) корпусу</translation>
+        <translation>Додати підкладку(и) корпусу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="104"/>
@@ -12842,12 +12842,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="151"/>
         <source>Pad name (may contain ranges like &quot;%1&quot;)</source>
-        <translation>Назва паду (може містити діапазони, наприклад &quot;%1&quot;)</translation>
+        <translation>Назва підкладки (може містити діапазони, наприклад &quot;%1&quot;)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="193"/>
         <source>Package Pads</source>
-        <translation>Пади Корпусу</translation>
+        <translation>Підкладки Корпусу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="208"/>
@@ -12857,12 +12857,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="211"/>
         <source>Add a new pad</source>
-        <translation>Додати новий пад</translation>
+        <translation>Додати нову підкладку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="312"/>
         <source>There is already a pad with the name &quot;%1&quot;.</source>
-        <translation>Вже є пад з назвою &quot;%1&quot;.</translation>
+        <translation>Вже є підкладка з назвою &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
