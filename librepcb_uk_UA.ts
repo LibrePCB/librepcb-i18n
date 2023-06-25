@@ -456,7 +456,7 @@
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="181"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="264"/>
@@ -493,7 +493,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="516"/>
         <source>Clearance board outline ↔ via &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Кліренс контур плати ↔ перехідний отвір &lt; %1 %2</translation>
+        <translation>Відстань контур плати ↔ перехідний отвір &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="519"/>
@@ -509,12 +509,12 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="538"/>
         <source>Clearance trace ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Кліренс доріжка ↔ контур плати &lt; %1 %2</translation>
+        <translation>Відстань доріжка ↔ контур плати &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="541"/>
         <source>The clearance between a trace and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Кліренс між доріжкою та контуром плати менший, ніж у налаштуваннях DRC.</translation>
+        <translation>Відстань між доріжкою та контуром плати менший, ніж у налаштуваннях DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="545"/>
@@ -525,7 +525,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="560"/>
         <source>Clearance pad ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Кліренс підкладка ↔ контур плати &lt; %1 %2</translation>
+        <translation>Відстань підкладка ↔ контур плати &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="563"/>
@@ -541,17 +541,17 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="582"/>
         <source>Clearance plane ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Кліренс площина ↔ контур плати &lt; %1 %2</translation>
+        <translation>Відстань площина ↔ контур плати &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="585"/>
         <source>The clearance between a plane and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Кліренс між площиною та контуром плати менше, ніж кліренс контуру плати, налаштований у налаштуваннях DRC.</translation>
+        <translation>Відстань між площиною та контуром плати менше, ніж відстань контуру плати, що налаштована у налаштуваннях DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="589"/>
         <source>Check the DRC settings and increase the configured plane clearance if needed.</source>
-        <translation>Перевірте налаштування DRC та збільшіть налаштований кліренс площини, якщо потрібно.</translation>
+        <translation>Перевірте налаштування DRC та збільшіть налаштований відстань площини, якщо потрібно.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="626"/>
@@ -562,7 +562,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="629"/>
         <source>The clearance between a circle and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Кліренс між колом та контуром плати менший, ніж кліренс, налаштований в DRC.</translation>
+        <translation>Відстань між колом та контуром плати менший, ніж відстань, що налаштована в DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="632"/>
@@ -573,28 +573,28 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="649"/>
         <source>Clearance copper text ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Очистити місця для тексти з мідним покриттям, щоб вони не перетинали контур дошки на меншу величину %1 %2.</translation>
+        <translation>Відстань мідний текст ↔ контур плати &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="652"/>
         <source>The clearance between a stroke text and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Кліренс між текстом з контуром та контуром дошки менший, ніж кліренс контура дошки, налаштований у налаштуваннях DRC.</translation>
+        <translation>Відстань між текстом з контуром та контуром палвти менший, ніж відстань контуру плати, що налаштована у налаштуваннях DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="656"/>
         <source>Check the DRC settings and move the stroke text away from the board outline if needed.</source>
-        <translation>Перевірте налаштування DRC та перемістіть текст з контуром дошки, якщо потрібно.</translation>
+        <translation>Перевірте налаштування DRC та перемістіть обведення тексту від меж плати, якщо потрібно.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="670"/>
         <source>Clearance copper polygon ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Очистити мідний полігон ↔ контур дошки &lt; %1 %2</translation>
+        <translation>Відстань мідний полігон ↔ контур плати &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="676"/>
         <source>The clearance between a polygon and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Кліренс між полігоном та контуром плати менше, ніж кліренс контуру плати, налаштований в настройках DRC.</translation>
+        <translation>Відстань між полігоном та контуром плати менше, ніж відстань контуру плати, налаштований в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="680"/>
@@ -608,17 +608,17 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="383"/>
         <source>Clearance on %1: %2 ↔ %3 &lt; %4 %5</source>
         <comment>Placeholders: Layer name, object name, object name, Clearance value, unit</comment>
-        <translation>Кліренс на %1: %2 ↔ %3 &lt; %4 %5</translation>
+        <translation>Відстань між %1: %2 ↔ %3 &lt; %4 %5</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="390"/>
         <source>The clearance between two copper objects of different nets is smaller than the minimum copper clearance configured in the DRC settings.</source>
-        <translation>Кліренс між двома мідними предметами різних мереж менший, ніж мінімальний кліренс міді, налаштований в налаштуваннях DRC.</translation>
+        <translation>Кліренс між двома мідними предметами різних мереж менший, ніж мінімальна відстань міді, налаштований в налаштуваннях DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="394"/>
         <source>Check the DRC settings and move the objects to increase their clearance if needed.</source>
-        <translation>Перевірте налаштування DRC та перемістіть об&apos;єкти, щоб збільшити їх кліренс, якщо потрібно.</translation>
+        <translation>Перевірте налаштування DRC та перемістіть об&apos;єкти, щоб збільшити їх відстань, якщо потрібно.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="416"/>
@@ -792,12 +792,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="978"/>
         <source>The clearance between a drill and the board outline is smaller than the drill clearance configured in the DRC settings.</source>
-        <translation>Кліренс між свердлом та контуром плати менший, ніж кліренс свердловини, сконфігурованої в налаштуваннях DRC.</translation>
+        <translation>Кліренс між свердлом та контуром плати менший, ніж відстань свердленого отвору, що сконфігурована в налаштуваннях DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="981"/>
         <source>Check the DRC settings and move the drill away from the board outline if needed.</source>
-        <translation>Перевірте налаштування DRC і перемістіть свердло від контуру дошки, якщо потрібно.</translation>
+        <translation>Перевірте налаштування DRC і перемістіть свердлений отвір від контуру плати, якщо потрібно.</translation>
     </message>
 </context>
 <context>
@@ -806,12 +806,12 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="860"/>
         <source>Clearance drill ↔ drill &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Bур для кліренсу ↔ бурити &lt; %1 %2</translation>
+        <translation>Відстань свердлений отворір ↔ свердлений отвір &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="863"/>
         <source>The clearance between two drills is smaller than the drill clearance configured in the DRC settings.</source>
-        <translation>Кліренс між двома свердлами менший, ніж налаштований кліренс свердла в налаштуваннях DRC.</translation>
+        <translation>Відстань між двома свердленими отворами менша, ніж відстань свердленого отвору, що сконфігурована в налаштуваннях DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="866"/>
@@ -1146,7 +1146,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="180"/>
         <source>There&apos;s no board outline defined at all, so the board cannot be manufactured.</source>
-        <translation>Не визначено жодного контуру дошки, тому дошку не можна виготовити.</translation>
+        <translation>Не визначено жодного контуру плати, тому плату не можна виготовити.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="183"/>
@@ -1169,7 +1169,11 @@ Please make sure this tool is available in PATH.</source>
 Add traces and/or planes to create the missing connections.
 
 Note that traces need to be snapped to the origin of footprint pads to make the airwire and this message disappearing.</source>
-        <translation>Домен - PCB CAD. Словник: Board - плата. Via - перехідний отвір. Clearance - кліренс. Віддавайте перевагу інфінітиву. Перекладіть на українську мову:&quot;</translation>
+        <translation>В мережі відсутнє з&apos;єднання, тобто не всі елементи мережі з&apos;єднані між собою.
+
+Додайте доріжки та / або площини, щоб створити відсутні з&apos;єднання.
+
+Зверніть увагу, що доріжки повинні бути прикріплені до початку підкладок відбитків, щоб зробити повітряну проводку та це повідомлення зникло.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="139"/>
@@ -1195,7 +1199,9 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
         <source>There's a component in the schematics without a corresponding device in the board, so the circuit of the PCB is not complete.
 
 Use the &quot;Place Devices&quot; dock to add the device.</source>
-        <translation>Домен - PCB CAD. Словник: Board - плата. Via - перехідний отвір. Clearence - кліренс. Бажано використовувати форму дієслова наказового способу. Перекладіть на українську наступне:&quot;</translation>
+        <translation>У схемі є компонент без відповідного пристрою на платі, тому схема плати не повна.
+
+Використовуйте кнопку &quot;Розмістити пристрої&quot; для додавання пристрою.</translation>
     </message>
 </context>
 <context>
@@ -3813,7 +3819,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="218"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation>Більшість відбитків повинні мати текстовий елемент для імені компонента, інакше ви не побачите це ім&apos;я на платі (наприклад, на шовкографії). Є лише кілька винятків, які не потребують імені (наприклад, якщо відбиток є лише малюнком), для них ви можете ігнорувати це повідомлення.</translation>
+        <translation>Більшість відбитків повинні мати текстовий елемент для імені компонента, інакше ви не побачите це ім&apos;я на платі (наприклад, на маркуванні). Є лише кілька винятків, які не потребують імені (наприклад, якщо відбиток є лише малюнком), для них ви можете ігнорувати це повідомлення.</translation>
     </message>
 </context>
 <context>
@@ -3826,7 +3832,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="239"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation>Більшість відбитків повинні мати текстовий елемент для значення компонента, інакше ви не побачите це значення на платі (наприклад, на шовкографії). Є лише кілька винятків, які не потребують значення (наприклад, якщо відбиток є лише малюнком), для них ви можете ігнорувати це повідомлення.</translation>
+        <translation>Більшість відбитків повинні мати текстовий елемент для значення компонента, інакше ви не побачите це значення на платі (наприклад, на маркуванні). Є лише кілька винятків, які не потребують значення (наприклад, якщо відбиток є лише малюнком), для них ви можете ігнорувати це повідомлення.</translation>
     </message>
 </context>
 <context>
@@ -4007,7 +4013,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="393"/>
         <source>Pads should have at least %1 clearance to drawings on the legend because these drawings would be cropped during the Gerber export when used as silkscreen.</source>
-        <translation>Підкладки повинні мати принаймні %1 проміжок до креслень на легенді, оскільки ці креслення будуть обрізані під час експорту Gerber при використанні як шовкографія.</translation>
+        <translation>Підкладки повинні мати принаймні %1 проміжок до креслень на легенді, оскільки ці креслення будуть обрізані під час експорту Gerber при використанні як маркування.</translation>
     </message>
 </context>
 <context>
@@ -4033,7 +4039,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="443"/>
         <source>There is a custom copper clearance enabled on the pad, which is unusual for pads which do not represent a fiducial. Note that the clearance value from the board design rules is applied to all pads anyway, thus manual clearance values are usually not needed. If this pad is a fiducial, make sure to set its function to the corresponding value.</source>
-        <translation>На підклвдці включено власний кліренс міді, що незвичайно для підкладки, які не є фідуціалами. Зверніть увагу, що значення кліренсу з правил проекту плати все одно застосовується до всіх підкладок, тому звичайно не потрібні вручну встановлені значення кліренсу. Якщо я підкладка є фідуціалом, переконайтеся, що встановлено відповідне значення його функції.</translation>
+        <translation>На підклвдці активовано власну відстань міді, що незвичайно для підкладки, які не є фідуціалами. Зверніть увагу, що значення відстані з правил проекту плати все одно застосовується до всіх підкладок, тому зазвичай вручну встановлені значення відстані не потрібні. Якщо я підкладка є фідуціалом, переконайтеся, що встановлено відповідне значення його функції.</translation>
     </message>
 </context>
 <context>
@@ -4317,7 +4323,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/rulecheck/rulecheckmessage.cpp" line="76"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -4791,7 +4797,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../apps/librepcb/main.cpp" line="193"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="194"/>
@@ -5020,27 +5026,27 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="225"/>
         <source>Check copper clearances...</source>
-        <translation>Перевірка кліренсів міді...</translation>
+        <translation>Перевірка відстаней міді...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="507"/>
         <source>Check board clearances...</source>
-        <translation>Перевірка кліренсів плати...</translation>
+        <translation>Перевірка відстаней плати...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="652"/>
         <source>Check hole clearances...</source>
-        <translation>Перевірка кліренсів отворів...</translation>
+        <translation>Перевірка відстаней отворів...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="707"/>
         <source>Check drill clearances...</source>
-        <translation>Перевірка кліренсів отворів...</translation>
+        <translation>Перевірка відстаней свердлованих отворів...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="795"/>
         <source>Check drill to board edge clearances...</source>
-        <translation>Перевірка кліренсів від отворів до краю плати...</translation>
+        <translation>Перевірка відстаней від свердлованих отворів до краю плати...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="869"/>
@@ -5877,12 +5883,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/undostack.cpp" line="105"/>
         <source>Redo</source>
-        <translation>Переробити.</translation>
+        <translation>Переробити</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/standardeditorcommandhandler.cpp" line="96"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="106"/>
@@ -6035,7 +6041,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="252"/>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="291"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="481"/>
@@ -6235,7 +6241,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="296"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="302"/>
@@ -6285,7 +6291,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="154"/>
         <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="381"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/attributelistmodel.cpp" line="186"/>
@@ -6393,7 +6399,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1639"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1705"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1485"/>
@@ -6440,7 +6446,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1612"/>
         <source>Preparing board...</source>
-        <translation>Підготовка дошки...</translation>
+        <translation>Підготовка плати...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1612"/>
@@ -6471,7 +6477,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="212"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="234"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_adddevice.cpp" line="168"/>
@@ -6505,7 +6511,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addhole.cpp" line="179"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addhole.cpp" line="201"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -6540,7 +6546,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="282"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addstroketext.cpp" line="304"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -6581,7 +6587,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="396"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="440"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -6622,7 +6628,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="259"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="300"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -6653,7 +6659,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="243"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawpolygon.cpp" line="277"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -6705,7 +6711,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="750"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="855"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -6779,7 +6785,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1519"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1607"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="825"/>
@@ -6918,7 +6924,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="49"/>
         <source>Min. Clearance:</source>
-        <translation>Мінімальний кліренс:</translation>
+        <translation>Мін. Відстань:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="56"/>
@@ -7027,12 +7033,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="94"/>
         <source>Silkscreen Color:</source>
-        <translation>Колір Шовкографії:</translation>
+        <translation>Колір Маркування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="190"/>
         <source>Silkscreen Layers:</source>
-        <translation>Шари Шовкографії:</translation>
+        <translation>Шари Маркування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="208"/>
@@ -7084,7 +7090,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="329"/>
         <source>&lt;b&gt;Use with caution!&lt;/b&gt; If automatic annular rings are enabled for component-side pads, make sure all pads have set the &apos;component side&apos; property to the correct value. With a wrong configuration, soldering may not be possible due to too small pad area.</source>
-        <translation>&lt;b&gt;Використовуйте з обережністю!&lt;/b&gt; Якщо автоматичні кільця включені для площин, переконайтеся, що всі площини встановили властивість &apos;сторона компонента&apos; в правильне значення. З неправильною конфігурацією паяння може бути неможливим через занадто малу площу площини.</translation>
+        <translation>&lt;b&gt;Використовуйте з обережністю!&lt;/b&gt; Якщо автоматичні кільця включені для підкладок сторони компонениів, переконайтеся, що всім підкладкам встановили властивість &apos;сторона компонента&apos; в правильне значення. З неправильною конфігурацією паяння може бути неможливим через занадто малу площу підкладки.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="399"/>
@@ -8644,7 +8650,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="111"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="191"/>
@@ -8786,7 +8792,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="131"/>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="310"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="221"/>
@@ -8827,7 +8833,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="121"/>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="310"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="155"/>
@@ -8920,7 +8926,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.cpp" line="142"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -8934,7 +8940,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="207"/>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="455"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="104"/>
@@ -9022,7 +9028,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="153"/>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="350"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="188"/>
@@ -9185,7 +9191,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="582"/>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="757"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="734"/>
@@ -9416,7 +9422,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="205"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -9439,7 +9445,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="205"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="258"/>
@@ -9810,7 +9816,7 @@ Do you really want to close it?</source>
         <location filename="../libs/librepcb/editor/modelview/editablelistmodel.h" line="136"/>
         <location filename="../libs/librepcb/editor/modelview/editablelistmodel.h" line="141"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/editablelistmodel.h" line="136"/>
@@ -9906,7 +9912,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/editorwidgetbase.cpp" line="328"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -9948,7 +9954,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="95"/>
         <source>Bottom Silkscreen:</source>
-        <translation>Нижня Шовкографія:</translation>
+        <translation>Нижнє Маркування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="102"/>
@@ -9997,7 +10003,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="233"/>
         <source>Top Silkscreen:</source>
-        <translation>Верх шовкографія:</translation>
+        <translation>Верх Маркування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="252"/>
@@ -10012,12 +10018,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="274"/>
         <source>Top Copper:</source>
-        <translation>Верх мідь:</translation>
+        <translation>Верх Мідь:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="281"/>
         <source>Top Stopmask:</source>
-        <translation>Верх стоп-маска:</translation>
+        <translation>Верх Стоп-маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="295"/>
@@ -10027,12 +10033,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="302"/>
         <source>Inner Copper:</source>
-        <translation>Внутрішня мідь:</translation>
+        <translation>Внутрішня Мідь:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="309"/>
         <source>Drills Blind/Buried:</source>
-        <translation>Отвори глухі/сховані:</translation>
+        <translation>Отвори Глухі/Сховані:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="337"/>
@@ -10072,7 +10078,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="237"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="249"/>
@@ -10095,7 +10101,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="171"/>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="412"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="204"/>
@@ -10291,7 +10297,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="601"/>
         <source>Note: For THT pads the solder paste should usually be set to &apos;Off&apos;. But if enabled anyway, the solder paste is added only to the solder side of the pad.</source>
-        <translation>Примітка: Для THT площинок паяльної пасти зазвичай слід встановити значення &quot;Вимкнено&quot;. Але якщо ввімкнено, паяльна паста додається лише до паяльної сторони площинки.</translation>
+        <translation>Примітка: Для THT підкладок, паяльна паста зазвичай має бути встановлена у &quot;Вимкнено&quot;. Але якщо ввімкнено, паяльна паста додається лише до паяльної сторони підкладки.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="614"/>
@@ -10326,7 +10332,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="425"/>
         <source>Pad has no holes</source>
-        <translation>Підошва не має отворів</translation>
+        <translation>Підкладка не має отворів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="469"/>
@@ -10341,7 +10347,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="525"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -10769,7 +10775,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.cpp" line="159"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -10830,7 +10836,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="109"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -11203,7 +11209,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="145"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -11257,7 +11263,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.cpp" line="206"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -11385,7 +11391,7 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="647"/>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="702"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="661"/>
@@ -11831,7 +11837,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="53"/>
         <source>Note: You should also add pads which are not always required (e.g. thermal pads)!</source>
-        <translation>Примітка: Ви також повинні додати площини, які не завжди потрібні (наприклад, термічні площини)!</translation>
+        <translation>Примітка: Ви також повинні додати підкладки, які не завжди потрібні (наприклад, термічні підкладки)!</translation>
     </message>
 </context>
 <context>
@@ -12244,7 +12250,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="115"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="194"/>
@@ -12297,7 +12303,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="175"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="189"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -12352,7 +12358,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="471"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="486"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -12387,7 +12393,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="223"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="237"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -12438,7 +12444,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="304"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="369"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="534"/>
@@ -12518,7 +12524,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="328"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="342"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -12618,7 +12624,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1134"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1155"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="978"/>
@@ -12746,7 +12752,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1021"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -12759,7 +12765,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="200"/>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="385"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="239"/>
@@ -12837,7 +12843,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="118"/>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="264"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="151"/>
@@ -12900,7 +12906,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/modelview/pathmodel.cpp" line="275"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -12943,7 +12949,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/polygonpropertiesdialog.cpp" line="154"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -12956,7 +12962,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="225"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="263"/>
@@ -13183,7 +13189,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.cpp" line="154"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.cpp" line="171"/>
@@ -13389,7 +13395,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1086"/>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1241"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1076"/>
@@ -13451,7 +13457,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="286"/>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="446"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="245"/>
@@ -13481,7 +13487,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="224"/>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="241"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -13511,7 +13517,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="263"/>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addtext.cpp" line="285"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -13542,7 +13548,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="247"/>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawpolygon.cpp" line="282"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -13570,7 +13576,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="615"/>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="638"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -13590,7 +13596,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="792"/>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="836"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="816"/>
@@ -13687,7 +13693,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.cpp" line="203"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -13705,7 +13711,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="130"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="207"/>
@@ -13750,7 +13756,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="159"/>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="210"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="194"/>
@@ -13768,7 +13774,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="85"/>
         <source>Line Width:</source>
-        <translation>Ширина лінії:</translation>
+        <translation>Ширина Лінії:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="98"/>
@@ -13790,7 +13796,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="223"/>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="237"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -13841,7 +13847,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="303"/>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="368"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="533"/>
@@ -13916,7 +13922,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="281"/>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="295"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -13937,7 +13943,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="909"/>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="930"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="802"/>
@@ -14015,7 +14021,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="617"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -14114,7 +14120,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="250"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -14182,7 +14188,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.cpp" line="177"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -14225,7 +14231,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/textpropertiesdialog.cpp" line="139"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -14375,7 +14381,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="443"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="534"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="498"/>
@@ -14607,7 +14613,7 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="92"/>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="750"/>
         <source>Error</source>
-        <translation>Помилка.</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="120"/>
