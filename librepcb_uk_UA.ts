@@ -3632,14 +3632,16 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="36"/>
         <source>No part numbers added</source>
-        <translation type="unfinished"/>
+        <translation>Не додано жодного номера деталі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="37"/>
         <source>There are no orderable parts added to the device. It's recommended (but not mandatory) to add the concrete manufacturer part numbers this device is valid for. These MPNs are used by the BOM export to make BOMs of projects much more complete and accurate.
 
 If this device doesn&apos;t represent an orderable part, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>До пристрою не додано жодних деталей, які можна замовити. Рекомендується (але не обов&apos;язково) додати конкретні номери деталей виробника, для яких цей пристрій є дійсним. Ці MPN використовуються експортом BOM, щоб зробити BOM проектів набагато повнішими та точнішими.
+
+Якщо цей пристрій не представляє собою замовну деталь, просто ігноруйте це повідомлення.</translation>
     </message>
 </context>
 <context>
@@ -3929,7 +3931,7 @@ Passive parts: Using an attribute, e.g. %3</source>
 To fix this issue, connect the package pads to their corresponding component signals in the table widget.
 
 If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
-        <translation>Обраний пакунок містить підкладки, але жоден з них не підключений до сигналів компонента. Таким чином, ці підкладки не мають електричної функції, і при додаванні пристрою до плати не можна підключити до них жодних слідів. 
+        <translation>Обраний пакунок містить підкладки, але жоден з них не підключений до сигналів компонента. Таким чином, ці підкладки не мають електричної функції, і при додаванні пристрою до плати не можна підключити до них жодних слідів.
 
 Щоб виправити цю проблему, підключіть підкладку корпусу до відповідних сигналів компонента в таблиці.
 
@@ -3941,14 +3943,16 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="126"/>
         <source>Non-functional inversion sign: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Недійсний знак інверсії: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="127"/>
         <source>The signal name seems to start with an inversion sign, but LibrePCB uses a different sign to indicate inversion.
 
 It&apos;s recommended to prefix inverted signal names with &apos;%1&apos;, regardless of the inversion sign used in the parts datasheet.</source>
-        <translation type="unfinished"/>
+        <translation>Ім&apos;я сигналу, здається, починається зі знаку інверсії, але LibrePCB використовує інший знак для позначення інверсії.
+
+Для інвертованих сигналів, рекомендується додавати префікс &apos;%1&apos;, незалежно від знаку інверсії, використаного в даташиті</translation>
     </message>
 </context>
 <context>
@@ -3956,14 +3960,16 @@ It&apos;s recommended to prefix inverted signal names with &apos;%1&apos;, regar
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="87"/>
         <source>Non-functional inversion sign: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Недійсний знак інверсії: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="88"/>
         <source>The pin name seems to start with an inversion sign, but LibrePCB uses a different sign to indicate inversion.
 
 It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardless of the inversion sign used in the parts datasheet.</source>
-        <translation type="unfinished"/>
+        <translation>Ім&apos;я контакту, здається, починається зі знаку інверсії, але LibrePCB використовує інший знак для позначення інверсії.
+
+Для інвертованих контактів, рекомендується додавати префікс &apos;%1&apos;, незалежно від знаку інверсії, використаного в даташиті</translation>
     </message>
 </context>
 <context>
@@ -8283,7 +8289,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpartedit.cpp" line="38"/>
         <source>Edit part</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати компонент</translation>
     </message>
 </context>
 <context>
@@ -9303,12 +9309,12 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="298"/>
         <source>Pinout</source>
-        <translation type="unfinished"/>
+        <translation>Розпіновка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="329"/>
         <source>Part Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Номери деталей</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="356"/>
@@ -9410,12 +9416,12 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="463"/>
         <source>Attributes of Selected Part</source>
-        <translation type="unfinished"/>
+        <translation>Атрибути Вибраної Частини</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="467"/>
         <source>Device Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Атрибути Пристрою</translation>
     </message>
 </context>
 <context>
@@ -9516,12 +9522,12 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="169"/>
         <source>Pad</source>
-        <translation type="unfinished"/>
+        <translation>Підкладка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="171"/>
         <source>Signal</source>
-        <translation type="unfinished"/>
+        <translation>Сигнал</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="205"/>
@@ -11442,12 +11448,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="496"/>
         <source>Manufacturer:</source>
-        <translation type="unfinished"/>
+        <translation>Виробник:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="503"/>
         <source>Manufacturer name, in case the library refers to a single manufacturer.</source>
-        <translation type="unfinished"/>
+        <translation>Назва виробника, у разі, якщо бібліотека посилається на одного виробника.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="206"/>
@@ -12977,22 +12983,22 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="204"/>
         <source>Exact part number without placeholders (mandatory)</source>
-        <translation type="unfinished"/>
+        <translation>Точний номер деталі без заповнювачів (обов&apos;язково)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="216"/>
         <source>Name of the manufacturer (recommended)</source>
-        <translation type="unfinished"/>
+        <translation>Назва виробника (рекомендовано)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="248"/>
         <source>MPN</source>
-        <translation type="unfinished"/>
+        <translation>MPN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="250"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"/>
+        <translation>Виробник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="252"/>
@@ -13007,7 +13013,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="263"/>
         <source>Add a new part</source>
-        <translation type="unfinished"/>
+        <translation>Додати нову деталь</translation>
     </message>
 </context>
 <context>
