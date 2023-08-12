@@ -255,17 +255,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="198"/>
         <source>The name of the assembly variant(s) to export. Can be given multiple times. If not set, all assembly variants are exported.</source>
-        <translation type="unfinished"/>
+        <translation>Назва варіантів збірки для експорту. Можна вказати кілька разів. Якщо не вказано, то експортуються всі варіанти збірки.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="203"/>
         <source>Same as &apos;%1&apos;, but allows to specify assembly variants by index instead of by name.</source>
-        <translation type="unfinished"/>
+        <translation>Те саме, що &apos;%1&apos;, але дозволяє вказувати варіанти збірки за індексом замість назви.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="209"/>
         <source>Move the specified assembly variant to the top before executing all the other actions. Pass &apos;%1&apos; to save the modified project to disk.</source>
-        <translation type="unfinished"/>
+        <translation>Перемістити вказаний варіант збірки на верх перед виконанням інших дій. Використовуйте &apos;%1&apos;, щоб зберегти змінений проект на диск.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="215"/>
@@ -5196,7 +5196,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="95"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="124"/>
         <source>There is already an assembly variant with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Вже існує варіант збірки з ім&apos;ям &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="157"/>
@@ -5281,7 +5281,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="457"/>
         <source>Components were automatically populated with assembly information required for the new, built-in MPN management and assembly variant mechanism. If the BOM or PnP export is used, please review the output and correct MPNs and attributes manually in the component properties dialog where needed.</source>
-        <translation type="unfinished"/>
+        <translation>Компоненти автоматично заповнюються інформацією про збірку, необхідною для нового вбудованого механізму управління MPN та варіантами збірки. Якщо використовується експорт BOM або PnP, будь ласка, перегляньте вихідні дані та вручну виправте MPN та атрибути за потреби в діалозі властивостей компонента.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="467"/>
@@ -5681,18 +5681,18 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="477"/>
         <source>Set default assembly variant to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Встановити варіант збірки за замовчуванням на &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="482"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="496"/>
         <source>ERROR: No assembly variant with the name &apos;%1&apos; found.</source>
-        <translation type="unfinished"/>
+        <translation>ПОМИЛКА: Варіант збірки з ім&apos;ям &apos;%1&apos; не знайдено.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="511"/>
         <source>ERROR: Assembly variant index &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>ПОМИЛКА: Індекс варіанту збірки &apos;%1&apos; недійсний.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="533"/>
@@ -6941,7 +6941,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="20"/>
         <source>Assembly Variant:</source>
-        <translation type="unfinished"/>
+        <translation>Варіант Збірки:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="27"/>
@@ -6996,7 +6996,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="157"/>
         <source>Gray rows are not exported (do not mount).</source>
-        <translation type="unfinished"/>
+        <translation>Сірі рядки не експортуються (не монтувати).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="75"/>
@@ -7524,7 +7524,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="37"/>
         <source>Assembly Variant:</source>
-        <translation type="unfinished"/>
+        <translation>Варіант Збірки:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="44"/>
@@ -7534,7 +7534,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="57"/>
         <source>Comma-separated list of custom attributes (optional)</source>
-        <translation type="unfinished"/>
+        <translation>Список власних ознак, розділених комами (необов&apos;язково)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="79"/>
@@ -7544,7 +7544,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="94"/>
         <source>Gray rows are not exported (do not mount).</source>
-        <translation type="unfinished"/>
+        <translation>Сірі рядки не експортуються (не монтувати).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="81"/>
@@ -7697,7 +7697,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="163"/>
         <source>The component in the schematic does not specify the chosen device as compatible and is locked for modifications from the board editor. Either add a corresponding assembly option to the component in the schematic, or remove the lock from the component.</source>
-        <translation type="unfinished"/>
+        <translation>Компонент на схемі не вказує обраний пристрій як сумісний і заблокований для змін з редактора плати. Або додайте відповідний варіант збірки до компонента на схемі, або видаліть блокування з компонента.</translation>
     </message>
 </context>
 <context>
@@ -7718,7 +7718,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdassemblyvariantadd.cpp" line="44"/>
         <source>Add assembly variant</source>
-        <translation type="unfinished"/>
+        <translation>Додати варіант збірки</translation>
     </message>
 </context>
 <context>
@@ -7726,7 +7726,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdassemblyvariantedit.cpp" line="41"/>
         <source>Edit assembly variant</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати варіант збірки</translation>
     </message>
 </context>
 <context>
@@ -7734,7 +7734,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdassemblyvariantremove.cpp" line="43"/>
         <source>Remove assembly variant</source>
-        <translation type="unfinished"/>
+        <translation>Видалити варіант збірки</translation>
     </message>
 </context>
 <context>
@@ -8713,37 +8713,37 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="97"/>
         <source>Add a new device assembly option</source>
-        <translation type="unfinished"/>
+        <translation>Додати нову опцію монтажу пристрою</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="104"/>
         <source>Add a new (alternative) part by MPN</source>
-        <translation type="unfinished"/>
+        <translation>Додати нову (альтернативну) деталь за MPN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="111"/>
         <source>Choose a different device or part</source>
-        <translation type="unfinished"/>
+        <translation>Виберіть інший пристрій або деталь</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="118"/>
         <source>Remove selected part or assembly option</source>
-        <translation type="unfinished"/>
+        <translation>Видалити вибрану деталь або опцію монтажу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="129"/>
         <source>Mount</source>
-        <translation type="unfinished"/>
+        <translation>Кріплення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="130"/>
         <source>Board Device</source>
-        <translation type="unfinished"/>
+        <translation>Пристрій Плати</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="131"/>
         <source>Part Number</source>
-        <translation type="unfinished"/>
+        <translation>Номер Деталі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="132"/>
@@ -8758,36 +8758,40 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="230"/>
         <source>Device Compatibility Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Невідома Сумісність Пристрою</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="231"/>
         <source>The selected device is not related to the component placed in the schematic, thus LibrePCB cannot validate if it is compatible!
 
 Are you sure the footprint and pinout of the selected device are compatible with the component?</source>
-        <translation type="unfinished"/>
+        <translation>Вибраний пристрій не пов&apos;язаний з компонентом, розміщеним на схемі, тому LibrePCB не може перевірити, чи сумісний він!
+
+Чи впевнені ви, що відбиток і розпінування вибраного пристрою сумісні з компонентом?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="297"/>
         <source>Part Compatibility Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Невідома Сумісність Деталі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="298"/>
         <source>The selected part is taken from a different device than this assembly option is valid for, thus LibrePCB cannot validate if it is compatible!
 
 Are you sure the footprint and pinout of the selected part are compatible with the device?</source>
-        <translation type="unfinished"/>
+        <translation>Вибрана деталь взята з іншого пристрою, ніж той, для якого діє ця опція монтажу, тому LibrePCB не може перевірити, чи сумісна вона!
+
+Чи впевнені ви, що відбиток і розпінування вибраної деталі сумісні з пристроєм?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="474"/>
         <source>Package: %1</source>
-        <translation type="unfinished"/>
+        <translation>Корпус: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="510"/>
         <source>Alternative %1:</source>
-        <translation type="unfinished"/>
+        <translation>Альтернатива %1:</translation>
     </message>
 </context>
 <context>
@@ -9475,7 +9479,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="329"/>
         <source>Parts for Assembly (BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>Деталі для Збірки (BOM/PnP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="356"/>
@@ -9650,7 +9654,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="264"/>
         <source>Assembly Options (BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>Опції збірки (BOM/PnP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="75"/>
@@ -9660,7 +9664,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="108"/>
         <source>Footprint</source>
-        <translation type="unfinished"/>
+        <translation>Відбиток</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="145"/>
@@ -9670,7 +9674,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="148"/>
         <source>Attributes of Component</source>
-        <translation type="unfinished"/>
+        <translation>Атрибути Компонента</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="195"/>
@@ -13154,17 +13158,17 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="206"/>
         <source>Exact manufacturer part number (without placeholders)</source>
-        <translation type="unfinished"/>
+        <translation>Точний номер деталі виробника (без заповнювачів)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="221"/>
         <source>Name of the manufacturer</source>
-        <translation type="unfinished"/>
+        <translation>Назва виробника</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="253"/>
         <source>Part Number</source>
-        <translation type="unfinished"/>
+        <translation>Номер Деталі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="255"/>
@@ -13466,7 +13470,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="306"/>
         <source>Assembly Variants</source>
-        <translation type="unfinished"/>
+        <translation>Варіанти Збірки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.cpp" line="246"/>
@@ -14411,7 +14415,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="273"/>
         <source>Assembly Options (BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>Параметри Збірки (BOM/PnP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="83"/>
@@ -14431,7 +14435,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="169"/>
         <source>Attributes of Component</source>
-        <translation type="unfinished"/>
+        <translation>Атрибути Компонента</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="203"/>
