@@ -4,12 +4,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/archiveoutputjob.cpp" line="40"/>
         <source>Output Archive</source>
-        <translation type="unfinished"/>
+        <translation>Вихідний Архів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/archiveoutputjob.h" line="71"/>
         <source>Archive</source>
-        <translation type="unfinished"/>
+        <translation>Архів</translation>
     </message>
 </context>
 <context>
@@ -71,12 +71,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/board3doutputjob.cpp" line="39"/>
         <source>STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>STEP Модель</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/board3doutputjob.h" line="73"/>
         <source>3D Model</source>
-        <translation type="unfinished"/>
+        <translation>3D Модель</translation>
     </message>
 </context>
 <context>
@@ -92,12 +92,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.cpp" line="40"/>
         <source>Bill of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Перелік Елементів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.h" line="79"/>
         <source>Bill Of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Перелік Елементів</translation>
     </message>
 </context>
 <context>
@@ -217,7 +217,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="128"/>
         <source>Run a particular output job. Can be given multiple times to run multiple jobs.</source>
-        <translation type="unfinished"/>
+        <translation>Виконати окреме вихідне завдання. Можна вказати кілька разів, щоб виконати кілька завдань.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="130"/>
@@ -230,22 +230,22 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="132"/>
         <source>Run all existing output jobs.</source>
-        <translation type="unfinished"/>
+        <translation>Виконати всі існуючі вихідні завдання.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="135"/>
         <source>Override output jobs with a *.lp file containing custom jobs. If not set, the jobs from the project will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>Перевизначити вихідні завдання, надавши файл *.lp зі спеціальними завданнями. Якщо не задано, будуть використовуватися завдання з проекту.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="140"/>
         <source>Override the output base directory of jobs. If not set, the standard output directory from the project is used.</source>
-        <translation type="unfinished"/>
+        <translation>Перевизначити вихідний каталог завдань. Якщо не задано, буде використовуватися стандартний вихідний каталог з проекту.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="142"/>
         <source>path</source>
-        <translation type="unfinished"/>
+        <translation>шлях</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="145"/>
@@ -515,12 +515,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/copyoutputjob.cpp" line="39"/>
         <source>Custom File</source>
-        <translation type="unfinished"/>
+        <translation>Спеціальний файл</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/copyoutputjob.h" line="78"/>
         <source>File Copy</source>
-        <translation type="unfinished"/>
+        <translation>Копіювання файлу</translation>
     </message>
 </context>
 <context>
@@ -827,17 +827,17 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1073"/>
         <source>Device in courtyard: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
-        <translation type="unfinished"/>
+        <translation>Пристрій у подвір&apos;ї: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1079"/>
         <source>A device is placed within the courtyard of another device, which might cause troubles during assembly of these parts.</source>
-        <translation type="unfinished"/>
+        <translation>Пристрій розміщено у подвір&apos;ї іншого пристрою, що може призвести до проблем під час зборки цих частин.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1082"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems.</source>
-        <translation type="unfinished"/>
+        <translation>Перемістіть пристрої, щоб збільшити їх відстань або схваліть це повідомлення, якщо ви впевнені, що їх можна зібрати без проблем.</translation>
     </message>
 </context>
 <context>
@@ -1169,17 +1169,17 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="285"/>
         <source>Text height on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual height, minimum height, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Висота тексту на &apos;%1&apos;: %2 &lt; %3 %4.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="290"/>
         <source>The text height is smaller than the minimum height configured in the DRC settings. If the text is smaller than the minimum height specified by the PCB manufacturer, it may not be readable after production.</source>
-        <translation type="unfinished"/>
+        <translation>Висота тексту менша за мінімальну висоту, встановлену в налаштуваннях DRC. Якщо текст менший за мінімальну висоту, вказану виробником плат, після виробництва його може бути неможливо прочитати.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="295"/>
         <source>Check the DRC settings and increase the text height if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Перевірте налаштування DRC та, якщо потрібно, збільшіть висоту тексту.</translation>
     </message>
 </context>
 <context>
@@ -1220,19 +1220,19 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="360"/>
         <source>Polygon width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Ширина полігона на &apos;%1&apos;: %2 &lt; %3 %4.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="365"/>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="413"/>
         <source>The polygon line width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Ширина лінії полігона менша за мінімальну ширину, встановлену в налаштуваннях DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="368"/>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="417"/>
         <source>Check the DRC settings and increase the polygon line width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Перевірте налаштування DRC та збільшіть ширину лінії полігона, якщо потрібно.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="381"/>
@@ -1243,7 +1243,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="386"/>
         <source>The text stroke width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Ширина хода тексту менша за мінімальну ширину, встановлену в налаштуваннях DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="389"/>
@@ -1254,23 +1254,23 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="406"/>
         <source>Polygon width of &apos;%1&apos; on &apos;%2&apos;: %3 &lt; %4 %5</source>
         <comment>Placeholders: Device name, layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Ширина полігона &apos;%1&apos; на &apos;%2&apos;: %3 &lt; %4 %5.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="432"/>
         <source>Circle width of &apos;%1&apos; on &apos;%2&apos;: %3 &lt; %4 %5</source>
         <comment>Placeholders: Device name, layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Ширина кола &apos;%1&apos; на &apos;%2&apos;: %3 &lt; %4 %5.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="439"/>
         <source>The circle line width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Ширина лінії кола менша за мінімальну ширину, встановлену в налаштуваннях DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="442"/>
         <source>Check the DRC settings and increase the circle line width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Перевірте налаштування DRC та збільшіть ширину лінії кола, якщо потрібно.</translation>
     </message>
 </context>
 <context>
@@ -1383,17 +1383,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1106"/>
         <source>Device overlap: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
-        <translation type="unfinished"/>
+        <translation>Накладання пристроїв: &apos;%1&apos; ↔ &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1112"/>
         <source>Two devices are overlapping and thus probably cannot be assembled both at the same time.</source>
-        <translation type="unfinished"/>
+        <translation>Два пристрої накладаються один на одного і, ймовірно, не можуть бути зібрані одночасно.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1115"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems (or only one of them gets assembled).</source>
-        <translation type="unfinished"/>
+        <translation>Перемістіть пристрої, щоб збільшити проміжок між ними, або схваліть це повідомлення, якщо ви впевнені, що їх можна зібрати без проблем (або збирається лише один з них).</translation>
     </message>
 </context>
 <context>
@@ -1402,17 +1402,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1650"/>
         <source>Clearance silkscreen text ↔ stop mask &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Відстань між текстом шовкодруку та стоп-маскою &lt; %1 %2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1653"/>
         <source>The clearance between a silkscreen text and a solder resist opening is smaller than the minimum clearance configured in the DRC settings. This could lead to clipped silkscreen during production.</source>
-        <translation type="unfinished"/>
+        <translation>Відстань між текстом шовкодруку та відкриттям захисного лаку менша за мінімальну відстань, встановлену в налаштуваннях DRC. Це може призвести до обрізаного шовкодруку під час виробництва.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1659"/>
         <source>Check the DRC settings and move the text away from the solder resist opening if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Перевірте налаштування DRC та, якщо потрібно, віддаліть текст від відкриття захисного лаку.</translation>
     </message>
 </context>
 <context>
@@ -2002,12 +2002,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="552"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Вихідні Завдання</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="553"/>
         <source>Modify or run output jobs</source>
-        <translation type="unfinished"/>
+        <translation>Змінити або запустити вихідні завдання</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="561"/>
@@ -2208,12 +2208,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="738"/>
         <source>Set Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Встановити Ширину Лінії</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="739"/>
         <source>Change the line/trace/stroke width of the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>Змінити ширину лінії/доріжки/штриху вибраних об&apos;єктів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="748"/>
@@ -2603,22 +2603,22 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1097"/>
         <source>Generate Outline</source>
-        <translation type="unfinished"/>
+        <translation>Згенерувати Контур</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1098"/>
         <source>Automatically generate the outline polygon</source>
-        <translation type="unfinished"/>
+        <translation>Автоматично згенерувати контурний полігон</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1106"/>
         <source>Generate Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Згенерувати Подвір&apos;я</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1107"/>
         <source>Automatically generate the courtyard polygon</source>
-        <translation type="unfinished"/>
+        <translation>Автоматично згенерувати полігон подвір&apos;я</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1115"/>
@@ -3274,12 +3274,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1704"/>
         <source>Generate Content</source>
-        <translation type="unfinished"/>
+        <translation>Згенерувати Вміст</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1705"/>
         <source>Automatically generate some content</source>
-        <translation type="unfinished"/>
+        <translation>Автоматично згенерувати деякий вміст</translation>
     </message>
 </context>
 <context>
@@ -3334,12 +3334,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="77"/>
         <source>Open wire in net: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Відкритий дріт в мережі: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="78"/>
         <source>The wire has an open (unconnected) end with no net label attached, thus is looks like a mistake. Check if a connection to another wire or pin is missing (denoted by a cross mark).</source>
-        <translation type="unfinished"/>
+        <translation>Дріт має відкритий (непідключений) кінець без приєднаної мітки мережі, тому він виглядає як помилка. Перевірте, чи не втрачено з&apos;єднання з іншим дротом або контактом (позначено хрестиком).</translation>
     </message>
 </context>
 <context>
@@ -3540,7 +3540,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/job/gerberexcellonoutputjob.cpp" line="41"/>
         <location filename="../libs/librepcb/core/job/gerberexcellonoutputjob.h" line="134"/>
         <source>Gerber/Excellon</source>
-        <translation type="unfinished"/>
+        <translation>Gerber/Excellon</translation>
     </message>
 </context>
 <context>
@@ -3548,12 +3548,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/job/gerberx3outputjob.cpp" line="40"/>
         <source>Pick&amp;Place X3</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;Place X3</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/gerberx3outputjob.h" line="84"/>
         <source>Pick&amp;Place (Gerber X3)</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;Place (Gerber X3)</translation>
     </message>
 </context>
 <context>
@@ -3561,12 +3561,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.cpp" line="190"/>
         <source>Schematic PDF</source>
-        <translation type="unfinished"/>
+        <translation>Схема PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.cpp" line="200"/>
         <source>Board Assembly PDF</source>
-        <translation type="unfinished"/>
+        <translation>Збірка Плати PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="119"/>
@@ -3591,7 +3591,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="244"/>
         <source>PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>PDF/Зображення</translation>
     </message>
 </context>
 <context>
@@ -3713,22 +3713,22 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="254"/>
         <source>Top Package Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Верх Контур Пакета</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="262"/>
         <source>Bottom Package Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Низ Контур Пакета</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="270"/>
         <source>Top Courtyard</source>
-        <translation>Верх Прилегла Територія</translation>
+        <translation>Верх Подвір&apos;я</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="278"/>
         <source>Bottom Courtyard</source>
-        <translation>Низ Прилегла Територія</translation>
+        <translation>Низ Подвір&apos;я</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="286"/>
@@ -3828,7 +3828,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/job/lppzoutputjob.cpp" line="40"/>
         <location filename="../libs/librepcb/core/job/lppzoutputjob.h" line="66"/>
         <source>Project Archive</source>
-        <translation type="unfinished"/>
+        <translation>Архів Проекту</translation>
     </message>
 </context>
 <context>
@@ -3906,7 +3906,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="171"/>
         <source>Line &amp;Width</source>
-        <translation type="unfinished"/>
+        <translation>Ширина Лінії</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="175"/>
@@ -4135,17 +4135,17 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="185"/>
         <source>Missing courtyard in footprint &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Відсутнє подвір&apos;я в відбитку &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="187"/>
         <source>It is recommended to draw the package courtyard with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if another device is placed within the courtyard of this device (i.e. too close).</source>
-        <translation type="unfinished"/>
+        <translation>Рекомендується намалювати подвір&apos;я корпусу з одним, закритим, полігоном нульової ширини або колом на шарі &apos;%1&apos;. Це дозволяє DRC попереджати, якщо інший пристрій розташований всередині подвір&apos;я цього пристрою (тобто занадто близько).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="193"/>
         <source>Often this is identical to the package outline but with a small offset. If you&apos;re unsure, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Часто це ідентично зовнішньому контуру корпусу, але з невеликим зміщенням. Якщо ви не впевнені, просто ігноруйте це повідомлення.</translation>
     </message>
 </context>
 <context>
@@ -4205,12 +4205,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="285"/>
         <source>Missing outline in footprint &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Відсутній контур відбитку &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="287"/>
         <source>It is recommended to draw the package outline with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if this device is placed within the courtyard of another device (i.e. too close).</source>
-        <translation type="unfinished"/>
+        <translation>Рекомендується намалювати контур корпусу з одним, закритим, полігоном нульової ширини або колом на шарі &apos;%1&apos;. Це дозволяє DRC попереджати, якщо цей пристрій розташований всередині подвір&apos;я іншого пристрою (тобто занадто близько).</translation>
     </message>
 </context>
 <context>
@@ -4618,7 +4618,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/job/netlistoutputjob.cpp" line="39"/>
         <location filename="../libs/librepcb/core/job/netlistoutputjob.h" line="68"/>
         <source>Netlist</source>
-        <translation type="unfinished"/>
+        <translation>Netlist</translation>
     </message>
 </context>
 <context>
@@ -4710,12 +4710,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/job/pickplaceoutputjob.cpp" line="40"/>
         <source>Pick&amp;Place CSV</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;Place CSV</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/pickplaceoutputjob.h" line="102"/>
         <source>Pick&amp;Place</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;Place</translation>
     </message>
 </context>
 <context>
@@ -4724,7 +4724,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/job/projectjsonoutputjob.cpp" line="40"/>
         <location filename="../libs/librepcb/core/job/projectjsonoutputjob.h" line="64"/>
         <source>Project Data</source>
-        <translation type="unfinished"/>
+        <translation>Дані Проекту</translation>
     </message>
 </context>
 <context>
@@ -5126,22 +5126,22 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="130"/>
         <source>Package Outlines Top</source>
-        <translation type="unfinished"/>
+        <translation>Контури Корпусу Верх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="131"/>
         <source>Package Outlines Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Контури Корпусу Низ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="132"/>
         <source>Courtyard Top</source>
-        <translation>Кортир Верх</translation>
+        <translation>Подвір&apos;я Верх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="133"/>
         <source>Courtyard Bottom</source>
-        <translation>Кортир Низ</translation>
+        <translation>Подвір&apos;я Низ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="134"/>
@@ -5271,7 +5271,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/job/unknownoutputjob.cpp" line="53"/>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Невідомо</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/orderpcbapirequest.cpp" line="85"/>
@@ -5512,7 +5512,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="802"/>
         <source>Check silkscreen to stopmask clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка відстаней від шовкодруку до стоп-маски...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="887"/>
@@ -5547,12 +5547,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1093"/>
         <source>Check silkscreen widths...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка ширини шовкодруку...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1108"/>
         <source>Check silkscreen text heights...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка висоти тексту шовкодруку...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1128"/>
@@ -5582,7 +5582,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1502"/>
         <source>Check device clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка відстаней пристроїв...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1558"/>
@@ -13640,7 +13640,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.ui" line="37"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Вихідні Завдання</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="58"/>
@@ -13693,7 +13693,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="55"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Вихідні Завдання</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="97"/>
@@ -13716,7 +13716,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="14"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Вихідні Завдання</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="89"/>
@@ -14334,22 +14334,22 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1190"/>
         <source>Courtyard Excess</source>
-        <translation type="unfinished"/>
+        <translation>Перевищення Подвір&apos;я</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1215"/>
         <source>Generate courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Згенерувати подвір&apos;я</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1298"/>
         <source>No Outline</source>
-        <translation type="unfinished"/>
+        <translation>Немає Контурів</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1299"/>
         <source>The courtyard can only be generated if there&apos;s a package outline polygon or circle, so that needs to be added first.</source>
-        <translation type="unfinished"/>
+        <translation>Подвір&apos;я можна згенерувати лише тоді, коли є полігон або коло контуру корпусу, тому його потрібно спочатку додати.</translation>
     </message>
 </context>
 <context>
