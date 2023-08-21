@@ -5683,8 +5683,8 @@ For THT pads, the origin must be located within a drill hole since on some layer
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="504"/>
-        <source>All non-plated holes (NPTH) now have automatic stop mask added on both board sides. The expansion value is determined by the boards design rule settings but can be overridden in the hole properties dialog.</source>
-        <translation>Všetky neprekovené otvory (NPTH) majú automaticky pridanú vynechanú oblasť v nespájkovateľnej maske na oboch stranách dosky. Hodnota odstupu masky od otvoru je definovaná v návrhových pravidlách dosky, ale pre konkrétny otvor ju je možné zmeniť vo vlastnostiach otvoru.</translation>
+        <source>All non-plated holes (NPTH) now have automatic solder resist openings added on both board sides. The expansion value is configured in the board design rules but can be overridden in the hole properties dialog.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="513"/>
@@ -12377,12 +12377,12 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
         <translation>Predvolená hodnota:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="328"/>
+        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="330"/>
         <source>internal</source>
         <translation>Vnútorné</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="331"/>
+        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="333"/>
         <source>default</source>
         <translation>Predvolený</translation>
     </message>

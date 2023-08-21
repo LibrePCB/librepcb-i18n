@@ -5674,7 +5674,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="504"/>
-        <source>All non-plated holes (NPTH) now have automatic stop mask added on both board sides. The expansion value is determined by the boards design rule settings but can be overridden in the hole properties dialog.</source>
+        <source>All non-plated holes (NPTH) now have automatic solder resist openings added on both board sides. The expansion value is configured in the board design rules but can be overridden in the hole properties dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -12335,12 +12335,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="328"/>
+        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="330"/>
         <source>internal</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="331"/>
+        <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="333"/>
         <source>default</source>
         <translation type="unfinished"/>
     </message>
