@@ -5706,7 +5706,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="504"/>
         <source>All non-plated holes (NPTH) now have automatic solder resist openings added on both board sides. The expansion value is configured in the board design rules but can be overridden in the hole properties dialog.</source>
-        <translation type="unfinished"/>
+        <translation>У всіх не металізованих отворах (NPTH) тепер на обох сторонах плати додані автоматичні відкриття для захисного лаку. Значення розширення налаштовується в правилах проекту плати, але може бути перевизначено в вікні властивостей отвору.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="513"/>
@@ -5899,12 +5899,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="121"/>
         <source>Attempted to write the output file &apos;%1&apos; multiple times!</source>
-        <translation type="unfinished"/>
+        <translation>Спроба записати вихідний файл &apos;%1&apos; кілька разів!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="124"/>
         <source>Make sure to specify unique output file paths, e.g. by using placeholders like &apos;%1&apos; or &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Переконайтеся, що ви вказали унікальні шляхи до вихідних файлів, наприклад, використовуючи заповнювачі, такі як &apos;%1&apos; або &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -5912,37 +5912,37 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="236"/>
         <source>Unknown output job type &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Невідомий тип вихідного завдання &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="237"/>
         <source>You may need a more recent LibrePCB version to run this job.</source>
-        <translation type="unfinished"/>
+        <translation>Вам може знадобитися більш нова версія LibrePCB для запуску цього завдання.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="243"/>
         <source>No output files were generated, check the job configuration.</source>
-        <translation type="unfinished"/>
+        <translation>Вихідні файли не були згенеровані, перевірте конфігурацію завдання.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="378"/>
         <source>No technologies selected, thus the output files won&apos;t contain any entries.</source>
-        <translation type="unfinished"/>
+        <translation>Не вибрано жодної технології, тому вихідні файли не міститимуть жодних записів.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="623"/>
         <source>The input file must be located within the project directory, specified by a relative file path.</source>
-        <translation type="unfinished"/>
+        <translation>Вхідний файл повинен знаходитися в межах каталогу проекту, вказаного відносним шляхом до файлу.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="658"/>
         <source>The archive job depends on files from another job which was not run yet. Note that archive jobs can only depend on jobs further ahead in the list so you might need to reorder them.</source>
-        <translation type="unfinished"/>
+        <translation>Завдання архівації залежить від файлів з іншого завдання, яке ще не було запущено. Зверніть увагу, що завдання архівації може залежати лише від завдань, які йдуть далі в списку, тому вам може знадобитися переупорядкування.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="670"/>
         <source>No input jobs selected, thus the resulting archive will be empty.</source>
-        <translation type="unfinished"/>
+        <translation>Не вибрано жодного вхідного завдання, тому отриманий архів буде порожнім.</translation>
     </message>
 </context>
 <context>
@@ -6222,17 +6222,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="701"/>
         <source>ERROR: Failed to load custom output jobs: %1</source>
-        <translation type="unfinished"/>
+        <translation>ПОМИЛКА: Не вдалося завантажити власні вихідні завдання: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="717"/>
         <source>ERROR: No output job with the name &apos;%1&apos; found.</source>
-        <translation type="unfinished"/>
+        <translation>ПОМИЛКА: Вихідне завдання з ім&apos;ям &apos;%1&apos; не знайдено.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="728"/>
         <source>Run output job &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Виконати вихідне завдання &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="747"/>
@@ -6490,7 +6490,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="147"/>
         <source>Credits</source>
-        <translation type="unfinished"/>
+        <translation>Подяки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="291"/>
@@ -6585,27 +6585,27 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="152"/>
         <source>This project relies on &lt;a href=&apos;%1&apos;&gt;many contributors&lt;/a&gt;, sponsors and other open-source components like software libraries or icons. Many thanks to all the people and projects supporting LibrePCB!</source>
-        <translation type="unfinished"/>
+        <translation>Цей проект залежить від &lt;a href=&apos;%1&apos;&gt;багатьох учасників&lt;/a&gt;, спонсорів та інших відкритих компонентів, таких як програмні бібліотеки або іконки. Багато подяк вісім людям та проектам, що підтримують LibrePCB!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="158"/>
         <source>Sponsors</source>
-        <translation type="unfinished"/>
+        <translation>Спонсори</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="160"/>
         <source>For the list of current sponsors, see &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Для списку поточних спонсорів див. &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="164"/>
         <source>Icons</source>
-        <translation type="unfinished"/>
+        <translation>Іконки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="166"/>
         <source>Some of the icons used in LibrePCB are provided by &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, thank you!</source>
-        <translation type="unfinished"/>
+        <translation>Деякі з використаних у LibrePCB іконок надані &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, дякуємо!</translation>
     </message>
 </context>
 <context>
@@ -6691,7 +6691,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="87"/>
         <source>Creates a new local library in the currently opened workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Створює нову локальну бібліотеку в поточно відкритому робочому просторі.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="104"/>
@@ -6884,7 +6884,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="40"/>
         <source>Bundle the output of other jobs in a single archive file.</source>
-        <translation type="unfinished"/>
+        <translation>Згорнути вихід інших задач в один архівний файл.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="57"/>
@@ -6894,7 +6894,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вивід:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="77"/>
@@ -6904,12 +6904,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="126"/>
         <source>Output Job</source>
-        <translation type="unfinished"/>
+        <translation>Віхідне Завдання</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="131"/>
         <source>Archive Directory</source>
-        <translation type="unfinished"/>
+        <translation>Архівувати Директорію</translation>
     </message>
 </context>
 <context>
@@ -6991,18 +6991,18 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="40"/>
         <source>3D Model export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Експорт 3D-моделі для плат.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="60"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вивід:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="84"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="144"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="94"/>
@@ -7019,12 +7019,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="197"/>
         <source>Assembly Variants:</source>
-        <translation type="unfinished"/>
+        <translation>Варіанти Збірки:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="204"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Плати:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="211"/>
@@ -7034,7 +7034,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.cpp" line="123"/>
         <source>None (just the plain PCB)</source>
-        <translation type="unfinished"/>
+        <translation>Ні (лише проста плата)</translation>
     </message>
 </context>
 <context>
@@ -7169,7 +7169,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1744"/>
         <source>Export IPC D-356A Netlist</source>
-        <translation type="unfinished"/>
+        <translation>Експортувати IPC D-356A Netlist</translation>
     </message>
 </context>
 <context>
@@ -7499,7 +7499,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1358"/>
         <source>Set Width</source>
-        <translation type="unfinished"/>
+        <translation>Встановити Ширину</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1576"/>
@@ -7949,7 +7949,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="803"/>
         <source>Silkscreen ↔ Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Маркування ↔ Стоп-маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="810"/>
@@ -7964,7 +7964,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="824"/>
         <source>Silkscreen Width:</source>
-        <translation type="unfinished"/>
+        <translation>Ширина Маркування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="834"/>
@@ -7979,7 +7979,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="871"/>
         <source>SIlkscreen Text Height:</source>
-        <translation type="unfinished"/>
+        <translation>Висота Тексту Маркування:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="63"/>
@@ -8201,7 +8201,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="40"/>
         <source>Bill of materials (BOM) export to CSV files.</source>
-        <translation type="unfinished"/>
+        <translation>Експорт переліку матеріалів (BOM) до файлів CSV.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="57"/>
@@ -8211,28 +8211,28 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вивід:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="77"/>
         <source>Custom Attributes:</source>
-        <translation type="unfinished"/>
+        <translation>Індивідуальні Атрибути:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="84"/>
         <source>Comma-separated attributes (optional)</source>
-        <translation type="unfinished"/>
+        <translation>Атрибути, розділені комами (необов&apos;язково)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="98"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Плати:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="112"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="179"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="122"/>
@@ -8249,12 +8249,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="165"/>
         <source>Assembly Variants:</source>
-        <translation type="unfinished"/>
+        <translation>Варіанти Збірки:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.cpp" line="93"/>
         <source>None (generic)</source>
-        <translation type="unfinished"/>
+        <translation>Нічого (загальний)</translation>
     </message>
 </context>
 <context>
@@ -10149,7 +10149,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="40"/>
         <source>Copy an arbitrary file into the output folder, optionally with variable substitution.</source>
-        <translation type="unfinished"/>
+        <translation>Скопіюйте довільний файл у вихідну папку, за потреби з підстановкою змінних.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="57"/>
@@ -10159,12 +10159,12 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="67"/>
         <source>Input File:</source>
-        <translation type="unfinished"/>
+        <translation>Вхідний Файл:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="77"/>
         <source>Output File:</source>
-        <translation>Вихідний файл:</translation>
+        <translation>Вихідний Файл:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="87"/>
@@ -10174,18 +10174,18 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="94"/>
         <source>Substitute Variables</source>
-        <translation type="unfinished"/>
+        <translation>Замінити Змінні</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="108"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Плати:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="122"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="189"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="132"/>
@@ -10202,13 +10202,13 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="175"/>
         <source>Assembly Variants:</source>
-        <translation type="unfinished"/>
+        <translation>Варіанти Збірки:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.cpp" line="98"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.cpp" line="137"/>
         <source>None (generic)</source>
-        <translation type="unfinished"/>
+        <translation>Немає (загальний)</translation>
     </message>
 </context>
 <context>
@@ -11389,7 +11389,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="63"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Плати:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="73"/>
@@ -11465,7 +11465,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="252"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="259"/>
@@ -11485,7 +11485,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="310"/>
         <source>Merge PTH and NPTH drills into one file:</source>
-        <translation type="unfinished"/>
+        <translation>Об&apos;єднати отвори PTH і NPTH в один файл:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="317"/>
@@ -11497,7 +11497,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="371"/>
         <source>Gerber (RS-274X) / Excellon (XNC) PCB production data export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Експорт даних виробництва плати Gerber (RS-274X) / Excellon (XNC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.cpp" line="56"/>
@@ -11525,7 +11525,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="40"/>
         <source>Gerber X3 pick&amp;place position file export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Експорт файлу позицій Gerber X3 pick&amp;place для плат.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="57"/>
@@ -11535,23 +11535,23 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="67"/>
         <source>Output Top:</source>
-        <translation type="unfinished"/>
+        <translation>Вивід Верх:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="80"/>
         <source>Output Bottom:</source>
-        <translation type="unfinished"/>
+        <translation>Вивід Низ:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="100"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Плати:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="114"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="181"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="124"/>
@@ -11568,7 +11568,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="167"/>
         <source>Assembly Variants:</source>
-        <translation type="unfinished"/>
+        <translation>Варіанти Збірки:</translation>
     </message>
 </context>
 <context>
@@ -11875,7 +11875,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="37"/>
         <source>Customizable PDF/image export for schematics and boards.</source>
-        <translation type="unfinished"/>
+        <translation>Налаштовуємий експорт PDF/зображення для схем і плат.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="73"/>
@@ -11885,27 +11885,27 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="83"/>
         <source>Document Title:</source>
-        <translation type="unfinished"/>
+        <translation>Назва Документу:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="93"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вивід:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="144"/>
         <source>Add page(s) to document</source>
-        <translation type="unfinished"/>
+        <translation>Додати сторінку(и) до документу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="173"/>
         <source>Duplicate the selected page(s)</source>
-        <translation type="unfinished"/>
+        <translation>Дублювати вибрану сторінку(и)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="202"/>
         <source>Remove the selected page(s)</source>
-        <translation type="unfinished"/>
+        <translation>Видалити вибрану сторінку(и)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="230"/>
@@ -11950,7 +11950,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="364"/>
         <source>Fit to page</source>
-        <translation type="unfinished"/>
+        <translation>Підігнати до сторінки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="379"/>
@@ -12010,7 +12010,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="566"/>
         <source>Monochrome</source>
-        <translation type="unfinished"/>
+        <translation>Монохромний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="574"/>
@@ -12030,12 +12030,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="348"/>
         <source>Board Image</source>
-        <translation type="unfinished"/>
+        <translation>Зображення Плати</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="354"/>
         <source>Assembly Top/Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Збірка Верх/Низ</translation>
     </message>
 </context>
 <context>
@@ -12305,7 +12305,9 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <source>&lt;p&gt;Your workspace was created with an older LibrePCB version and needs to be upgraded.&lt;/p&gt;
 &lt;p&gt;To still keep the workspace compatible with older versions of LibrePCB, a snapshot of the currently installed libraries and settings will be created. This may take a moment.&lt;/p&gt;
 &lt;p&gt;Also the first background library scan after the upgrade takes longer than usual, but you can start working on projects without waiting for its completion.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Ваш робочий простір був створений за допомогою старішої версії LibrePCB і потребує оновлення.&lt;/p&gt;
+&lt;p&gt;Щоб все ж зберегти сумісність робочого простору зі старішими версіями LibrePCB, буде створено знімок поточно встановлених бібліотек та налаштувань. Це може зайняти деякий час.&lt;/p&gt;
+&lt;p&gt;Також перший фоновий сканування бібліотек після оновлення займає більше часу, ніж зазвичай, але ви можете почати працювати над проектами без очікування його завершення.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="106"/>
@@ -12851,7 +12853,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/lppzoutputjobwidget.ui" line="40"/>
         <source>Store a snapshot of the whole project as a *.lppz archive.</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти знімок усього проекту як архів *.lppz.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/lppzoutputjobwidget.ui" line="57"/>
@@ -12861,7 +12863,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/lppzoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вивід:</translation>
     </message>
 </context>
 <context>
@@ -12922,7 +12924,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="40"/>
         <source>IPC D-356A netlist export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Експорт netlist IPC D-356A для плат.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="57"/>
@@ -12932,17 +12934,17 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вивід:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="84"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Плати:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="98"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="105"/>
@@ -13645,37 +13647,37 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="58"/>
         <source>Output jobs allow you to generate any production data, documentation or other output files in a unified, reproducible way. Since their configuration is stored in the project, the complete output can even be generated headless with the &lt;a href=&quot;%1&quot;&gt;LibrePCB CLI&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Вихідні завдання дозволяють генерувати будь-які вихідні дані виробництва, документацію або інші вихідні файли у єдиної, відтворюваної формі. Оскільки їх конфігурація зберігається в проекті, повний вихід можна навіть генерувати без голови за допомогою &lt;a href=&quot;%1&quot;&gt;LibrePCB CLI&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="65"/>
         <source>For each project version, a separate output directory is created.</source>
-        <translation type="unfinished"/>
+        <translation>Для кожної версії проекту створюється окрема директорія виводу.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="67"/>
         <source>The current output directory is &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Поточний каталог виводу &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="72"/>
         <source>Previously generated files which are not generated anymore will automatically be deleted!</source>
-        <translation type="unfinished"/>
+        <translation>Раніше згенеровані файли, які більше не генеруються, будуть автоматично видалені!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="75"/>
         <source>To detect them, a file named &lt;tt&gt;%1&lt;/tt&gt; is created within the output directory.</source>
-        <translation type="unfinished"/>
+        <translation>Щоб виявити їх, в директорії виводу створюється файл з назвою &lt;tt&gt;%1&lt;/tt&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="88"/>
         <source>This is a brand-new feature and is still undergoing some polishing.</source>
-        <translation type="unfinished"/>
+        <translation>Це абсолютно нова функція і все ще проходить деяку доробку.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="91"/>
         <source>Any &lt;a href=&quot;%1&quot;&gt;bug reports, feature requests or general feedback&lt;/a&gt; is highly appreciated!</source>
-        <translation type="unfinished"/>
+        <translation>Будь-які &lt;a href=&quot;%1&quot;&gt;звіти про помилки, запити на функції або загальний відгук&lt;/a&gt; високо цінуються!</translation>
     </message>
 </context>
 <context>
@@ -13688,7 +13690,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.ui" line="135"/>
         <source>Open the output directory</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити каталог виводу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="55"/>
@@ -13698,17 +13700,17 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="97"/>
         <source>Run this job</source>
-        <translation type="unfinished"/>
+        <translation>Запустити це завдання</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="98"/>
         <source>Run all dependencies and this job</source>
-        <translation type="unfinished"/>
+        <translation>Запустити всі залежності та це завдання</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="100"/>
         <source>Run all jobs</source>
-        <translation type="unfinished"/>
+        <translation>Запустити всі завдання</translation>
     </message>
 </context>
 <context>
@@ -14697,13 +14699,13 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="77"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Плати:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="91"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="158"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="101"/>
@@ -14720,17 +14722,17 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="144"/>
         <source>Assembly Variants:</source>
-        <translation type="unfinished"/>
+        <translation>Варіанти Збірки:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="211"/>
         <source>Output Top:</source>
-        <translation type="unfinished"/>
+        <translation>Вивід Верх:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="221"/>
         <source>Output Bottom:</source>
-        <translation type="unfinished"/>
+        <translation>Вивід Низ:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="231"/>
@@ -14906,7 +14908,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/projectjsonoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вивід:</translation>
     </message>
 </context>
 <context>
