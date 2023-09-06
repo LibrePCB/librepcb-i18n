@@ -36,32 +36,32 @@
 <context>
     <name>BGI_Via</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="236"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="248"/>
         <source>Through-Hole Via</source>
         <translation>Сквозний перехідний отвір</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="238"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="250"/>
         <source>Blind Via</source>
         <translation>Глухий перехідний отвір</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="240"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="252"/>
         <source>Buried Via</source>
         <translation>Схований перехідний отвір</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="242"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="254"/>
         <source>Net: %1</source>
         <translation>Мережа: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="244"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="256"/>
         <source>Start Layer: %1</source>
         <translation>Початковий шар: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="245"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="257"/>
         <source>End Layer: %1</source>
         <translation>Кінцевий шар: %1</translation>
     </message>
@@ -147,349 +147,330 @@
         <translation>Відкрийте проект, щоб виконати завдання, пов&apos;язані з проектом.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="87"/>
-        <source>open-project [command_options]</source>
-        <translation>open-project [параметри_команди]</translation>
-    </message>
-    <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="89"/>
         <source>Open a library to execute library-related tasks.</source>
         <translation>Відкрийте бібліотеку, щоб виконати завдання, пов&apos;язані з бібліотекою.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="90"/>
-        <source>open-library [command_options]</source>
-        <translation>open-library [параметри_команди]</translation>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="92"/>
+        <source>Open a STEP model to execute STEP-related tasks outside of a library.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="95"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="99"/>
         <source>LibrePCB Command Line Interface</source>
         <translation>Інтерфейс командного рядка LibrePCB</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="98"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="102"/>
         <source>Print this message.</source>
         <translation>Надрукувати це повідомлення.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="101"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="105"/>
         <source>Displays version information.</source>
         <translation>Відобразити інформацію про версію.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="103"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="107"/>
         <source>Verbose output.</source>
         <translation>Детальний вивід</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="106"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="110"/>
         <source>The command to execute (see list below).</source>
         <translation>Команда для виконання (див. список нижче).</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="112"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="116"/>
         <source>Run the electrical rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
         <translation>Виконати перевірку електричних правил, вивести всі не затверджені попередження або помилки та повідомити про помилку (код завершення = 1) якщо є не затверджені повідомлення.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="117"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="121"/>
         <source>Run the design rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
         <translation>Виконати перевірку правил дизайну, надрукувати всі непідтверджені попередження/помилки і повідомити про невдачу (код виходу = 1), якщо є непідтверджені повідомлення.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="122"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="126"/>
         <source>Override DRC settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
         <translation>Перевизначити налаштування DRC, надавши файл *.lp зі спеціальними налаштуваннями. Якщо не задано, будуть використовуватись налаштування з плат.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="125"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="137"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="148"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="154"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="160"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="177"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="183"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="190"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="196"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="129"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="141"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="152"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="158"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="164"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="181"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="187"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="194"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="200"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
         <source>file</source>
         <translation>файл</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="128"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="132"/>
         <source>Run a particular output job. Can be given multiple times to run multiple jobs.</source>
         <translation>Виконати окреме вихідне завдання. Можна вказати кілька разів, щоб виконати кілька завдань.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="130"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="201"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="218"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="230"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="134"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="205"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="222"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="234"/>
         <source>name</source>
         <translation>ім&apos;я</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="132"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
         <source>Run all existing output jobs.</source>
         <translation>Виконати всі існуючі вихідні завдання.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="135"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="139"/>
         <source>Override output jobs with a *.lp file containing custom jobs. If not set, the jobs from the project will be used instead.</source>
         <translation>Перевизначити вихідні завдання, надавши файл *.lp зі спеціальними завданнями. Якщо не задано, будуть використовуватися завдання з проекту.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="140"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="144"/>
         <source>Override the output base directory of jobs. If not set, the standard output directory from the project is used.</source>
         <translation>Перевизначити вихідний каталог завдань. Якщо не задано, буде використовуватися стандартний вихідний каталог з проекту.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="142"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
         <source>path</source>
         <translation>шлях</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="145"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
         <translation>Експорт схеми до заданих файл(ів). Існуючі файли будуть перезаписані. Підтримувані розширення файлів: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="151"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="155"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
         <translation>Експортувати загальний BOM до вказаних файлів. Існуючі файли будуть перезаписані. Підтримувані розширення файлів: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="157"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="161"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
         <translation>Експортувати BOM, специфічний для плати, до вказаних файлів. Існуючі файли будуть перезаписані. Підтримувані розширення файлів: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="163"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="167"/>
         <source>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</source>
         <translation>Розділений комами список додаткових атрибутів, які будуть експортовані до BOM. Приклад: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="166"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="170"/>
         <source>attributes</source>
         <translation>атрибути</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="169"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="173"/>
         <source>Export PCB fabrication data (Gerber/Excellon) according the fabrication output settings of boards. Existing files will be overwritten.</source>
         <translation>Експорт PCB даних для виготовлення (Gerber/Excellon) відповідно до налаштувань виготовлення вихідних плат. Існуючі файли будуть перезаписані.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="174"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="178"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
         <translation>Перевизначте налаштування виводу виробництва плати, надавши файл *.lp зі спеціальними налаштуваннями. Якщо не задано, будуть використовуватися налаштування з плати.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="180"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="184"/>
         <source>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</source>
         <translation>Експортувати файл pick&amp;place для автоматизованої збірки верхньої сторони плати. Існуючі файли будуть перезаписані. Підтримувані розширення файлів: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="186"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="190"/>
         <source>Export pick&amp;place file for automated assembly of the bottom board side. Existing files will be overwritten. Supported file extensions: %1</source>
         <translation>Експортувати файл pick&amp;place для автоматизованої збірки нижньої сторони плати. Існуючі файли будуть перезаписані. Підтримувані розширення файлів: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="193"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="197"/>
         <source>Export netlist file for automated PCB testing. Existing files will be overwritten. Supported file extensions: %1</source>
         <translation>Експортувати файл мережі (netlist) для автоматизованого тестування плати. Існуючі файли будуть перезаписані. Підтримувані розширення файлів: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="198"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
         <source>The name of the board(s) to export. Can be given multiple times. If not set, all boards are exported.</source>
         <translation>Назва плат(и) для експорту. Можна вказати кілька разів. Якщо не вказано,  то експортуються всі плати.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="203"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="207"/>
         <source>Same as &apos;%1&apos;, but allows to specify boards by index instead of by name.</source>
         <translation>Те саме, що &apos;%1&apos;, але дозволяє вказувати плати за індексом замість назви.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="206"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="224"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="210"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="228"/>
         <source>index</source>
         <translation>Індекс</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="209"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="213"/>
         <source>Remove all boards not specified with &apos;%1&apos; from the project before executing all the other actions. If &apos;%1&apos; is not passed, all boards will be removed. Pass &apos;%2&apos; to save the modified project to disk.</source>
         <translation>Видалити всі плати, які не вказані з &apos;%1&apos;, з проекту перед виконанням інших дій. Якщо &apos;%1&apos; не вказано, будуть видалені всі плати. Використовуйте &apos;%2&apos;, щоб зберегти змінений проект на диск.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="216"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="220"/>
         <source>The name of the assembly variant(s) to export. Can be given multiple times. If not set, all assembly variants are exported.</source>
         <translation>Назва варіантів збірки для експорту. Можна вказати кілька разів. Якщо не вказано, то експортуються всі варіанти збірки.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="221"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="225"/>
         <source>Same as &apos;%1&apos;, but allows to specify assembly variants by index instead of by name.</source>
         <translation>Те саме, що &apos;%1&apos;, але дозволяє вказувати варіанти збірки за індексом замість назви.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="227"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="231"/>
         <source>Move the specified assembly variant to the top before executing all the other actions. Pass &apos;%1&apos; to save the modified project to disk.</source>
         <translation>Перемістити вказаний варіант збірки на верх перед виконанням інших дій. Використовуйте &apos;%1&apos;, щоб зберегти змінений проект на диск.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="233"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="237"/>
         <source>Save project before closing it (useful to upgrade file format).</source>
         <translation>Зберегти проект перед його закриттям (корисно для оновлення формату файлу).</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="236"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="240"/>
         <source>Fail if the project files are not strictly canonical, i.e. there would be changes when saving the project. Note that this option is not available for *.lppz files.</source>
         <translation>Перервати в разі, якщо файли проекту не є строго канонічними, тобто виникнуть зміни при збереженні проекту. Зверніть увагу, що ця опція недоступна для файлів *.lppz.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="243"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="247"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
         <translation>Виконати обрані дії для всіх елементів, що містяться в відкритій бібліотеці.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="247"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="251"/>
         <source>Run the library element check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
         <translation>Виконати перевірку елемента бібліотеки, надрукувати всі непідтверджені повідомлення і повідомити про невдачу (код виходу = 1), якщо є непідтверджені повідомлення.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="251"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="255"/>
         <source>Minify the STEP models of all packages. Only works in conjunction with &apos;--all&apos;. Pass &apos;--save&apos; to write the minified files to disk.</source>
         <translation>Зменшити розмір STEP-моделей всіх корпусів. Працює лише в поєднанні з параметром &apos;--all&apos;. Використовуйте &apos;--save&apos;, щоб зберегти зменшені файли на диск.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="255"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="259"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
         <translation>Зберегти бібліотеку (і містяться в ній елементи, якщо вказано &apos;--all&apos;) перед їх закриттям (це корисно для оновлення формату файлу).</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="259"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="263"/>
         <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
         <translation>Перервати, якщо відкриті файли не є строго канонічними, тобто виникнуть зміни при збереженні елементів бібліотеки.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="264"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="269"/>
+        <source>Minify the STEP model before validating it. Use in conjunction with &apos;%1&apos; to save the output of the operation.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="274"/>
+        <source>Tesselate the loaded STEP model to check if LibrePCB is able to render it. Reports failure (exit code = 1) if no content is detected.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="279"/>
+        <source>Write the (modified) STEP file to this output location (may be equal to the opened file path). Only makes sense in conjunction with &apos;%1&apos;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="286"/>
         <source>Commands:</source>
         <translation>Команди:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="268"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="290"/>
         <source>List command-specific options:</source>
         <translation>Список параметрів, специфічних для команди:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="271"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="293"/>
         <source>Help:</source>
         <translation>Допомога:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="285"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="307"/>
         <source>Path to project file (*.lpp[z]).</source>
         <translation>Шлях до файлу проекту (*.lpp[z]).</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="315"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="337"/>
         <source>Path to library directory (*.lplib).</source>
         <translation>Шлях до директорії бібліотеки (*.lplib).</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="323"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="348"/>
+        <source>Path to the STEP file (%1).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="354"/>
         <source>Unknown command &apos;%1&apos;.</source>
         <translation>Невідома команда &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="358"/>
-        <source>LibrePCB CLI Version %1</source>
-        <translation>Версія LibrePCB CLI: %1</translation>
-    </message>
-    <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="360"/>
-        <source>File Format %1</source>
-        <translation>Формат Файлу %1</translation>
-    </message>
-    <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="362"/>
-        <source>(stable)</source>
-        <translation>(стабільний)</translation>
-    </message>
-    <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="363"/>
-        <source>(unstable)</source>
-        <translation>(нестабільний)</translation>
-    </message>
-    <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="364"/>
-        <source>Git Revision %1</source>
-        <translation>Ревізія Git: %1</translation>
-    </message>
-    <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="365"/>
-        <source>Qt Version %1 (compiled against %2)</source>
-        <translation>Qt версія %1 (скомпільовано з %2)</translation>
-    </message>
-    <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="367"/>
-        <source>Built at %1</source>
-        <translation>Зібрано %1</translation>
-    </message>
-    <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="376"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="410"/>
         <source>Missing arguments:</source>
         <translation>Відсутні аргументи:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="382"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="416"/>
         <source>Unknown arguments:</source>
         <translation>Невідомі аргументи:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="430"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="470"/>
         <source>SUCCESS</source>
         <translation>УСПІШНО</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="433"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="473"/>
         <source>Finished with errors!</source>
         <translation>Закінчено з помилками!</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1175"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1215"/>
         <source>Minify STEP model &apos;%1&apos;...</source>
         <translation>Зменшити розмір моделі STEP &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1181"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1221"/>
         <source>  - Minified &apos;%1&apos; from %2 to %3 bytes</source>
         <translation>  - Зменшено розмір &apos;%1&apos; з %2 до %3 байтів</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1200"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1240"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
         <translation>Перевірте &apos;%1&apos; на наявність не-канонічних файлів...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1218"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1258"/>
         <source>Check &apos;%1&apos; for non-approved messages...</source>
         <translation>Перевірте &apos;%1&apos; на наявність незатверджених повідомлень...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1225"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1265"/>
         <source>Approved messages: %1</source>
         <translation>Схвалені повідомлення: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1227"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1267"/>
         <source>Non-approved messages: %1</source>
         <translation>Незатверджені повідомлення: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1238"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1278"/>
         <source>Save &apos;%1&apos;...</source>
         <translation>Зберегти &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1297"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1411"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
         <translation>Ця версія програми є НЕСТАБІЛЬНОЮ! Опція &apos;%1&apos; вимкнена, щоб уникнути пошкоджень проектів або бібліотек. Будь ласка, використовуйте стабільну версію замість цієї.</translation>
     </message>
@@ -4624,12 +4605,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>OccModel</name>
     <message>
-        <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="338"/>
+        <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="340"/>
         <source>Failed to write STEP file.</source>
         <translation>Не вдалося записати STEP-файл.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="532"/>
+        <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="556"/>
         <source>Failed to read STEP file!</source>
         <translation>Не вдалося прочитати STEP-файл!</translation>
     </message>
@@ -6135,225 +6116,226 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::cli</name>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="462"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="502"/>
         <source>Open project &apos;%1&apos;...</source>
         <translation>Відкрити проект &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="484"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="524"/>
         <source>Attention: Project has been upgraded to a newer file format!</source>
         <translation>Увага: Проект було оновлено до нового формату файлу!</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="505"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="545"/>
         <source>Set default assembly variant to &apos;%1&apos;...</source>
         <translation>Встановити варіант збірки за замовчуванням на &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="510"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="524"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="550"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="564"/>
         <source>ERROR: No assembly variant with the name &apos;%1&apos; found.</source>
         <translation>ПОМИЛКА: Варіант збірки з ім&apos;ям &apos;%1&apos; не знайдено.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="539"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="579"/>
         <source>ERROR: Assembly variant index &apos;%1&apos; is invalid.</source>
         <translation>ПОМИЛКА: Індекс варіанту збірки &apos;%1&apos; недійсний.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="561"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="601"/>
         <source>ERROR: No board with the name &apos;%1&apos; found.</source>
         <translation>ПОМИЛКА: Плата з ім&apos;ям &apos;%1&apos; не знайдена.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="574"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="614"/>
         <source>ERROR: Board index &apos;%1&apos; is invalid.</source>
         <translation>ПОМИЛКА: Індекс плати &apos;%1&apos; недійсний.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="582"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="622"/>
         <source>Remove other boards...</source>
         <translation>Вилучити інші плати...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="611"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="651"/>
         <source>Check for non-canonical files...</source>
         <translation>Перевірити на не-канонічні файли...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="614"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="654"/>
         <source>ERROR: The option &apos;--strict&apos; is not available for *.lppz files!</source>
         <translation>ПОМИЛКА: Параметр &apos;--strict&apos; недоступний для файлів *.lppz!</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="637"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="677"/>
         <source>Run ERC...</source>
         <translation>Виконати ERC...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="643"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="679"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="683"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="719"/>
         <source>Approved messages: %1</source>
         <translation>Схвалені повідомлення: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="644"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="681"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="684"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="721"/>
         <source>Non-approved messages: %1</source>
         <translation>Незатверджені повідомлення: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="653"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="693"/>
         <source>Run DRC...</source>
         <translation>Виконати DRC...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="665"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="865"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="705"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="905"/>
         <source>ERROR: Failed to load custom settings: %1</source>
         <translation>ПОМИЛКА: Не вдалося завантажити налаштування: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="671"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="871"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="711"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="911"/>
         <source>Board &apos;%1&apos;:</source>
         <translation>Плата &apos;%1&apos;:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="701"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="741"/>
         <source>ERROR: Failed to load custom output jobs: %1</source>
         <translation>ПОМИЛКА: Не вдалося завантажити власні вихідні завдання: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="717"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="757"/>
         <source>ERROR: No output job with the name &apos;%1&apos; found.</source>
         <translation>ПОМИЛКА: Вихідне завдання з ім&apos;ям &apos;%1&apos; не знайдено.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="728"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="768"/>
         <source>Run output job &apos;%1&apos;...</source>
         <translation>Виконати вихідне завдання &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="747"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="787"/>
         <source>ERROR:</source>
         <translation>ПОМИЛКА:</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="755"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="795"/>
         <source>Export schematics to &apos;%1&apos;...</source>
         <translation>Експорт схем до &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="779"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="819"/>
         <source>ERROR</source>
         <translation>ПОМИЛКА</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="808"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="848"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
         <translation>Експорт специфічного BOM до &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="811"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="851"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
         <translation>Експорт загального BOM до &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="841"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="932"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="959"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="881"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="972"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="999"/>
         <source>ERROR: Unknown extension &apos;%1&apos;.</source>
         <translation>ПОМИЛКА: Невідоме розширення &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="851"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="891"/>
         <source>Export PCB fabrication data...</source>
         <translation>Експорт даних для виготовлення плати...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="894"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="934"/>
         <source>top</source>
         <translation>верх</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="898"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="938"/>
         <source>bottom</source>
         <translation>низ</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="902"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="942"/>
         <source>Export %1 assembly data to &apos;%2&apos;...</source>
         <translation>Експорт %1 даних збірки до &apos;%2&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="942"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="982"/>
         <source>Export netlist to &apos;%1&apos;...</source>
         <translation>Експорт netlist до &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="967"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1007"/>
         <source>Save project...</source>
         <translation>Зберегти проект...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="988"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1028"/>
         <source>ERROR: The file &apos;%1&apos; was written multiple times!</source>
         <translation>ПОМИЛКА: Файл &apos;%1&apos; було записано кілька разів!</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="993"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1033"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
         <translation>ПРИМІТКА: Щоб уникнути запису файлів кілька разів, переконайтеся, що всім функціям експорту передаються унікальні шляхи до файлів. Для файлів виводу плати ви можете додати заповнювач &apos;%1&apos; до шляху або вказати плати для експорту за допомогою аргументу &apos;%2&apos;.</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1004"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1144"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1044"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1184"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1360"/>
         <source>ERROR: %1</source>
         <translation>ПОМИЛКА: %1</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1017"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1057"/>
         <source>Open library &apos;%1&apos;...</source>
         <translation>Відкрити бібліотеку &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1032"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1072"/>
         <source>Process %1 component categories...</source>
         <translation>Обробка %1 категорій компонентів...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1035"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1054"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1073"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1092"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1111"/>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1130"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1075"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1094"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1113"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1132"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1151"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1170"/>
         <source>Open &apos;%1&apos;...</source>
         <translation>Відкрити &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1051"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1091"/>
         <source>Process %1 package categories...</source>
         <translation>Обробка %1 категорій корпусів...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1070"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1110"/>
         <source>Process %1 symbols...</source>
         <translation>Обробка %1 символів...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1089"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1129"/>
         <source>Process %1 packages...</source>
         <translation>Обробка %1 корпусів...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1108"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1148"/>
         <source>Process %1 components...</source>
         <translation>Обробка %1 компонентів...</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1127"/>
+        <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1167"/>
         <source>Process %1 devices...</source>
         <translation>Обробка %1 пристроїв...</translation>
     </message>
@@ -6508,102 +6490,102 @@ You need at least LibrePCB %1 to open it.
         <translation>При повідомленні про проблему, будь ласка, &lt;a href=&apos;copy&apos;&gt;скопіюйте цей текст&lt;/a&gt; в звіт.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="59"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="60"/>
         <source>Copied!</source>
         <translation>Скопійовано!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="87"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="88"/>
         <source>LibrePCB is a free &amp;amp; open source schematic/layout-editor. It is mainly developed by Urban Bruhin, with the support of &lt;a href=&apos;%1&apos;&gt;many other contributors&lt;/a&gt;.</source>
         <translation>LibrePCB - це безкоштовний &amp;amp; вільний редактор схеми / макету. Він розробляється в основному Urban Bruhin, з підтримкою &lt;a href=&apos;%1&apos;&gt;багатьох інших учасників&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="92"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="93"/>
         <source>Links</source>
         <translation>Посилання</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="94"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="95"/>
         <source>For more information, check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
         <translation>Для отримання додаткової інформації, перегляньте &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; або наш &lt;a href=&apos;%2&apos;&gt;репозиторій GitHub&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="100"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="101"/>
         <source>Help</source>
         <translation>Допомога</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="102"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="103"/>
         <source>If you need help, please check out the &lt;a href=&apos;%1&apos;&gt;documentation&lt;/a&gt; or &lt;a href=&apos;%2&apos;&gt;contact us&lt;/a&gt;.</source>
         <translation>Якщо вам потрібна допомога, будь ласка, перегляньте &lt;a href=&apos;%1&apos;&gt;документацію&lt;/a&gt; або &lt;a href=&apos;%2&apos;&gt;зв&apos;яжіться з нами&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="106"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="107"/>
         <source>License</source>
         <translation>Ліцензія</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="108"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="109"/>
         <source>LibrePCB is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text &lt;a href=&apos;%1&apos;&gt;in our source code&lt;/a&gt;.</source>
         <translation>LibrePCB - це вільне програмне забезпечення, що розповсюджується за ліцензією GNU General Public License (GPL) версії 3 або пізніше. Ви можете знайти повний текст ліцензії &lt;a href=&apos;%1&apos;&gt;в нашому вихідному коді&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="122"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="123"/>
         <source>LibrePCB is a community project, and therefore it relies on contributions! There are different ways you can contribute:</source>
         <translation>LibrePCB - це спільнотний проект, тому він залежить від внесків! Є різні способи, якими ви можете допомогти:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="125"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="126"/>
         <source>Donate</source>
         <translation>Пожертвувати</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="127"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="128"/>
         <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal, Bitcoin or other ways. Check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; for details.</source>
         <translation>Підтримайте сталу розробку LibrePCB, пожертвувавши фінансово через Patreon, PayPal, Bitcoin або іншими способами. Деталі див. &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="132"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="133"/>
         <source>Improve LibrePCB</source>
         <translation>Покращити LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="134"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="135"/>
         <source>If you&apos;re interested in helping us to develop LibrePCB, check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; to see how you can contribute!</source>
         <translation>Якщо ви зацікавлені у допомозі нам у розробці LibrePCB, перегляньте &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, щоб дізнатися, як ви можете допомогти!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="139"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="140"/>
         <source>Spread The Word</source>
         <translation>Поширити Слово</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="141"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="142"/>
         <source>Speak about LibrePCB with your friends and colleagues, or write about it in the internet! Write a blogpost, or create a video tutorial. We&apos;re happy if more people can get to know LibrePCB.</source>
         <translation>Розкажіть про LibrePCB своїм друзям та колегам, або напишіть про це в Інтернеті! Напишіть блог, або створіть відео-посібник. Ми раді, якщо більше людей дізнається про LibrePCB.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="152"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="153"/>
         <source>This project relies on &lt;a href=&apos;%1&apos;&gt;many contributors&lt;/a&gt;, sponsors and other open-source components like software libraries or icons. Many thanks to all the people and projects supporting LibrePCB!</source>
         <translation>Цей проект залежить від &lt;a href=&apos;%1&apos;&gt;багатьох учасників&lt;/a&gt;, спонсорів та інших відкритих компонентів, таких як програмні бібліотеки або іконки. Багато подяк вісім людям та проектам, що підтримують LibrePCB!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="158"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="159"/>
         <source>Sponsors</source>
         <translation>Спонсори</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="160"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="161"/>
         <source>For the list of current sponsors, see &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</source>
         <translation>Для списку поточних спонсорів див. &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="164"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="165"/>
         <source>Icons</source>
         <translation>Іконки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="166"/>
+        <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="167"/>
         <source>Some of the icons used in LibrePCB are provided by &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, thank you!</source>
         <translation>Деякі з використаних у LibrePCB іконок надані &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, дякуємо!</translation>
     </message>
@@ -6636,22 +6618,22 @@ You need at least LibrePCB %1 to open it.
         <translation>&amp;Додати ще</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="594"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="608"/>
         <source>No component selected</source>
         <translation>Не вибрано жодного компоненту</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="658"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="672"/>
         <source>No device selected</source>
         <translation>Не вибрано жодного пристрою</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="718"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="732"/>
         <source>Invalid Selection</source>
         <translation>Неправильний вибір</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="719"/>
+        <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="733"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>Будь ласка, оберіть компонент та варіант символу.</translation>
     </message>
@@ -9469,12 +9451,12 @@ Are you sure the footprint and pinout of the selected part are compatible with t
 Чи впевнені ви, що відбиток і розпінування вибраної деталі сумісні з пристроєм?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="474"/>
+        <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="477"/>
         <source>Package: %1</source>
         <translation>Корпус: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="510"/>
+        <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="513"/>
         <source>Alternative %1:</source>
         <translation>Альтернатива %1:</translation>
     </message>
@@ -9570,27 +9552,27 @@ Are you sure the footprint and pinout of the selected part are compatible with t
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="197"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="205"/>
         <source>Could not load components</source>
         <translation>Не вдалося завантажити компоненти</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="204"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="212"/>
         <source>No component selected</source>
         <translation>Не вибрано компонентів</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="214"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="222"/>
         <source>Could not load component metadata</source>
         <translation>Не вдалося завантажити метадані компонента</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="274"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="282"/>
         <source>Invalid Selection</source>
         <translation>Неправильний вибір</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="275"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="283"/>
         <source>Please select a component.</source>
         <translation>Будь ласка, виберіть компонент.</translation>
     </message>
@@ -10106,27 +10088,27 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="623"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="800"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="804"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="777"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="781"/>
         <source>New Folder</source>
         <translation>Нова Папка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="777"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="781"/>
         <source>Name:</source>
         <translation>Назва:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="787"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="791"/>
         <source>Remove</source>
         <translation>Видалити</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="788"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="792"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -12632,12 +12614,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation>Форма</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarylistwidgetitem.cpp" line="67"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarylistwidgetitem.cpp" line="68"/>
         <source>Add a new library</source>
         <translation>Додати нову бібліотеку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarylistwidgetitem.cpp" line="68"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/librarylistwidgetitem.cpp" line="69"/>
         <source>Click here to add a new library.</source>
         <translation>Клацніть тут, щоб додати нову бібліотеку.</translation>
     </message>
@@ -12778,7 +12760,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation>Не вдалося зберегти</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="623"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="632"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -12787,58 +12769,58 @@ Are you still sure to delete the following library elements?</source>
 Ви все ще впевнені, що хочете видалити наступні елементи бібліотеки?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="636"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="645"/>
         <source>This cannot be undone!</source>
         <translation>Це неможливо скасувати!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="640"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="649"/>
         <source>Remove %1 elements</source>
         <translation>Вилучити елементи %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="652"/>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="707"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="661"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="716"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="666"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="675"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation>Ви впевнені, що хочете перемістити наступні елементи в бібліотеку &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="667"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="676"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
         <translation>Ви впевнені, що хочете скопіювати наступні елементи в бібліотеку &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="677"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="686"/>
         <source>Note: This cannot be easily undone!</source>
         <translation>Примітка: Це не можливо легко відмінити!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="681"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="690"/>
         <source>Move %1 elements</source>
         <translation>Перемістити %1 елементів</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="681"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="690"/>
         <source>Copy %1 elements</source>
         <translation>Копіювати %1 елементів</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="752"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="761"/>
         <source>Choose library icon</source>
         <translation>Вибрати піктограму бібліотеки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="754"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="763"/>
         <source>Portable Network Graphics (*.png)</source>
         <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="760"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="769"/>
         <source>Could not open file</source>
         <translation>Не вдалося відкрити файл</translation>
     </message>
@@ -13518,37 +13500,37 @@ This can be reverted in the workspace settings dialog.</source>
         <translation>Автор</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="165"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="166"/>
         <source>Download failed</source>
         <translation>Скачування не вдалося</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="213"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="214"/>
         <source>v%1</source>
         <translation>v%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="215"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="216"/>
         <source>Update</source>
         <translation>Оновити</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="218"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="219"/>
         <source>Installed</source>
         <translation>Встановлений</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="225"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="226"/>
         <source>Recommended</source>
         <translation>Рекомендовано</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="231"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="232"/>
         <source>Install</source>
         <translation>Встановити</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="239"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="240"/>
         <source>Error: Invalid UUID</source>
         <translation>Помилка: Невірний UUID</translation>
     </message>
@@ -13938,27 +13920,27 @@ This can be reverted in the workspace settings dialog.</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="194"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="202"/>
         <source>Could not load packages</source>
         <translation>Неможливо завантажити пакунки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="201"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="209"/>
         <source>No package selected</source>
         <translation>Не вибрано жодного корпусу</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="211"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="219"/>
         <source>Could not load package metadata</source>
         <translation>Неможливо завантажити метадані корпусу</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="246"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="254"/>
         <source>Invalid Selection</source>
         <translation>Неправильний вибір</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="247"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="255"/>
         <source>Please select a package.</source>
         <translation>Будь ласка, виберіть корпус.</translation>
     </message>
@@ -14480,67 +14462,67 @@ This can be reverted in the workspace settings dialog.</source>
 <context>
     <name>librepcb::editor::PackageModelListModel</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="130"/>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="145"/>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="169"/>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="187"/>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="205"/>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="390"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="134"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="149"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="173"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="191"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="209"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="394"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="244"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="248"/>
         <source>Enable/disable this model for the selected footprint.</source>
         <translation>Увімкнути/вимкнути цю модель для обраного відбитка.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="252"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="256"/>
         <source>3D model name</source>
         <translation>Назва 3D моделі</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="296"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="300"/>
         <source>3D Models</source>
         <translation>3D Моделі</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="311"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="315"/>
         <source>New:</source>
         <translation>Новий:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="314"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="318"/>
         <source>Add a new 3D model</source>
         <translation>Додати нову 3D-модель</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="448"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="452"/>
         <source>There is already a 3D model with the name &quot;%1&quot;.</source>
         <translation>Вже є 3D-модель з назвою &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="459"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="463"/>
         <source>Choose STEP Model</source>
         <translation>Вибрати STEP Модель</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="482"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="497"/>
         <source>Failed to minify the provided STEP file, will keep the original as-is.</source>
         <translation>Не вдалося зменшити наданий STEP файл, буде збережено оригінал без змін.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="485"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="500"/>
         <source>Reason:</source>
         <translation>Причина:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="487"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="502"/>
         <source>Please &lt;a href=&apos;%1&apos;&gt;report this issue&lt;/a&gt; to the LibrePCB developers with the STEP file attached.</source>
         <translation>Будь ласка, &lt;a href=&apos;%1&apos;&gt;повідомте про цю проблему&lt;/a&gt; розробникам LibrePCB з прикріпленим файлом STEP.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="491"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="506"/>
         <source>Warning</source>
         <translation>Попередження</translation>
     </message>
@@ -14601,42 +14583,42 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="132"/>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="147"/>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="162"/>
-        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="322"/>
+        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="323"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="206"/>
+        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="208"/>
         <source>Exact manufacturer part number (without placeholders)</source>
         <translation>Точний номер деталі виробника (без заповнювачів)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="221"/>
+        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="222"/>
         <source>Name of the manufacturer</source>
         <translation>Назва виробника</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="253"/>
+        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="254"/>
         <source>Part Number</source>
         <translation>Номер Деталі</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="255"/>
+        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="256"/>
         <source>Manufacturer</source>
         <translation>Виробник</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="257"/>
+        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="258"/>
         <source>Attributes</source>
         <translation>Атрибути</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="265"/>
+        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="266"/>
         <source>New:</source>
         <translation>Новий:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="268"/>
+        <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="269"/>
         <source>Add a new part</source>
         <translation>Додати нову деталь</translation>
     </message>
@@ -15517,6 +15499,14 @@ Afterwards the project library can be updated.</source>
     </message>
 </context>
 <context>
+    <name>librepcb::editor::SearchToolBar</name>
+    <message>
+        <location filename="../libs/librepcb/editor/widgets/searchtoolbar.cpp" line="56"/>
+        <source>Search</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::editor::StrokeTextPropertiesDialog</name>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="14"/>
@@ -15618,27 +15608,27 @@ Afterwards the project library can be updated.</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="212"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="221"/>
         <source>Could not load symbols</source>
         <translation>Не вдалося завантажити символи</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="220"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="229"/>
         <source>No symbol selected</source>
         <translation>Не вибрано жодного символу</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="239"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="248"/>
         <source>Could not load symbol</source>
         <translation>Не вдалося завантажити символ</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="246"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="255"/>
         <source>Invalid Selection</source>
         <translation>Неправильний вибір</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="247"/>
+        <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="256"/>
         <source>Please select a symbol.</source>
         <translation>Будь ласка, виберіть символ.</translation>
     </message>
