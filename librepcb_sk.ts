@@ -76,7 +76,7 @@
     <message>
         <location filename="../libs/librepcb/core/job/board3doutputjob.h" line="73"/>
         <source>3D Model</source>
-        <translation type="unfinished"/>
+        <translation>3D Model</translation>
     </message>
 </context>
 <context>
