@@ -4574,12 +4574,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>OccModel</name>
     <message>
-        <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="340"/>
+        <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="434"/>
         <source>Failed to write STEP file.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="556"/>
+        <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="639"/>
         <source>Failed to read STEP file!</source>
         <translation type="unfinished"/>
     </message>
@@ -7472,8 +7472,8 @@ You need at least LibrePCB %1 to open it.
     <name>librepcb::editor::BoardLayersDock</name>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardlayersdock.ui" line="23"/>
-        <source>&amp;Layers</source>
-        <translation>&amp;Warstwy</translation>
+        <source>Layers</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10356,27 +10356,27 @@ Ostrzeżenie: Ta akcja nie może zostać cofnięta!</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="108"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="109"/>
         <source>Footprint</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="145"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="147"/>
         <source>Attributes of Selected Part</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="148"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="150"/>
         <source>Attributes of Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="195"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="197"/>
         <source>Change properties of %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="228"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="230"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
@@ -14343,32 +14343,32 @@ This can be reverted in the workspace settings dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="330"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="329"/>
         <source>Invalid metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="341"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="340"/>
         <source>Save failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="691"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="690"/>
         <source>Please select a footprint.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="923"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="922"/>
         <source>Apply to all unspecified pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="945"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="944"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1052"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1051"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
@@ -15906,22 +15906,22 @@ Afterwards the project library can be updated.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="166"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="168"/>
         <source>Attributes of Selected Part</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="169"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="171"/>
         <source>Attributes of Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="203"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="205"/>
         <source>Change properties of %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="231"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="233"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
