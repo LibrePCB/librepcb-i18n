@@ -38,17 +38,17 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="248"/>
         <source>Through-Hole Via</source>
-        <translation type="unfinished"/>
+        <translation>Prokov skrz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="250"/>
         <source>Blind Via</source>
-        <translation>Slepý Otvor</translation>
+        <translation>Slepý Prokov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="252"/>
         <source>Buried Via</source>
-        <translation>Pohřbený otvor</translation>
+        <translation>Pohřbený Prokov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="254"/>
@@ -213,7 +213,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="132"/>
         <source>Run a particular output job. Can be given multiple times to run multiple jobs.</source>
-        <translation type="unfinished"/>
+        <translation>Spustit příslušnou výstupní úlohu. Může být zadán vícekrát pro vícenásobné spuštění úlohy.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="134"/>
@@ -226,17 +226,18 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
         <source>Run all existing output jobs.</source>
-        <translation>Spustit všechny existující výstupní procesy.</translation>
+        <translation>Spustit všechny existující výstupní úlohy.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="139"/>
         <source>Override output jobs with a *.lp file containing custom jobs. If not set, the jobs from the project will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>Přepíše výstupní úlohy souborem *.lp obsahujícím uživatelské úlohy. Pokud není nastaveno, budou místo toho použity úlohy z projektu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="144"/>
         <source>Override the output base directory of jobs. If not set, the standard output directory from the project is used.</source>
-        <translation type="unfinished"/>
+        <translation>Přepíše výstupní adresář úloh. Pokud není nastaven, použije se standardní výstupní adresář z projektu.
+ </translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
@@ -347,7 +348,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="251"/>
         <source>Run the library element check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Spustit kontrolu knihovních prvků, vytisknout všechny neschválené zprávy a ukončit s chybou (exit code=1) pokud jsou nějaké neschválené zprávy.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="255"/>
@@ -377,7 +378,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="279"/>
         <source>Write the (modified) STEP file to this output location (may be equal to the opened file path). Only makes sense in conjunction with &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Zapíše (modifikovaný) soubor STEP do této výstupní lokace (může být shodné jako cesta k otevřenému souboru). Dává smysl pouze ve spojení s &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="286"/>
@@ -407,7 +408,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="348"/>
         <source>Path to the STEP file (%1).</source>
-        <translation type="unfinished"/>
+        <translation>Cesta k souboru STEP (%1).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="354"/>
@@ -569,7 +570,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="597"/>
         <source>Clearance board outline ↔ via &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost obrys desky -- prokov &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="600"/>
@@ -585,7 +586,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="619"/>
         <source>Clearance trace ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost spoj -- obrys desky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="622"/>
@@ -601,7 +602,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="641"/>
         <source>Clearance pad ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost vývod -- obrys desky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="644"/>
@@ -617,7 +618,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="663"/>
         <source>Clearance plane ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost rovina -- obrys desky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="666"/>
@@ -633,7 +634,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="707"/>
         <source>Clearance copper circle ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost kruh -- obrys desky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="710"/>
@@ -649,7 +650,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="728"/>
         <source>Clearance copper text ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost text v mědi -- obrys desky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="731"/>
@@ -705,7 +706,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="516"/>
         <source>via</source>
-        <translation type="unfinished"/>
+        <translation>prokov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="518"/>
@@ -739,7 +740,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="793"/>
         <source>Clearance copper ↔ hole &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost měď -- díra &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="799"/>
@@ -863,7 +864,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="939"/>
         <source>Clearance drill ↔ drill &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost vrtání -- vrtání &lt;  %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="942"/>
@@ -980,12 +981,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1620"/>
         <source>Blind via in net &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Slepý prokov v propoji &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1622"/>
         <source>Buried via in net &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Pohřbený prokov v propoji &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1628"/>
@@ -1290,7 +1291,7 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="117"/>
         <source>Via</source>
-        <translation type="unfinished"/>
+        <translation>Prokov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="126"/>
@@ -1375,7 +1376,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1650"/>
         <source>Clearance silkscreen text ↔ stop mask &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost popisného textu -- masky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1653"/>
@@ -1975,12 +1976,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="552"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Výstupní úlohy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="553"/>
         <source>Modify or run output jobs</source>
-        <translation type="unfinished"/>
+        <translation>Modifikovat nebo spustit výstupní úlohy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="561"/>
@@ -2556,7 +2557,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1079"/>
         <source>Add Via</source>
-        <translation>Přidat přechod</translation>
+        <translation>Přidat prokov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1080"/>
@@ -4348,7 +4349,7 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="362"/>
         <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
-        <translation>Plošky vývodů by měli být od sebe vzdáleny nejméně %1. V některých případech je potřeba menší vzdálenost, ale pamatujte na to, že ne každý výrobce PCB je schopen takto malou vzdálenost spolehlivě zajistit. Takže je obvykle potřeba se tomu vyhnout.</translation>
+        <translation>Plošky vývodů by měly být od sebe vzdáleny nejméně %1. V některých případech je potřeba menší vzdálenost, ale pamatujte na to, že ne každý výrobce PCB je schopen takto malou vzdálenost spolehlivě zajistit. Takže je obvykle potřeba se tomuto vyhnout.</translation>
     </message>
 </context>
 <context>
@@ -5020,7 +5021,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="114"/>
         <source>Vias</source>
-        <translation>Přechody</translation>
+        <translation>Prokovy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="115"/>
@@ -5446,32 +5447,32 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="149"/>
         <source>Check copper clearances...</source>
-        <translation>Kontrola odsazení vodivých prvků...</translation>
+        <translation>Kontrola vzdáleností vodivých prvků...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="434"/>
         <source>Check board clearances...</source>
-        <translation>Kontrola odsazení na desce...</translation>
+        <translation>Kontrola vzdáleností na desce...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="582"/>
         <source>Check hole clearances...</source>
-        <translation>Zkontrolovat odsazení děr...</translation>
+        <translation>Kontrola vzdáleností děr...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="637"/>
         <source>Check drill clearances...</source>
-        <translation>Zkontrolovat odsazení vrtání...</translation>
+        <translation>Kontrola vzdáleností vrtání...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="725"/>
         <source>Check drill to board edge clearances...</source>
-        <translation>Zkontrolovat odsazení vrtání od kraje desky...</translation>
+        <translation>Kontrola vzdáleností vrtání od kraje desky...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="802"/>
         <source>Check silkscreen to stopmask clearances...</source>
-        <translation>Zkontrolovat odsazení popisu od masky...</translation>
+        <translation>Kontrola vzdáleností popisu od masky...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="887"/>
@@ -5521,7 +5522,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1391"/>
         <source>Check for useless or disallowed vias...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola nadbytečných nebo zakázaných prokovů...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1418"/>
@@ -5541,7 +5542,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1502"/>
         <source>Check device clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola vzdáleností součástí...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1558"/>
@@ -5868,7 +5869,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="236"/>
         <source>Unknown output job type &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Neznámý typ výstupní úlohy &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="237"/>
@@ -5893,12 +5894,13 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="658"/>
         <source>The archive job depends on files from another job which was not run yet. Note that archive jobs can only depend on jobs further ahead in the list so you might need to reorder them.</source>
-        <translation type="unfinished"/>
+        <translation>Archivační úloha závisí na souborech z jiné, doposud nespuštěné úlohy. Archivační úlohy můžou záviset pouze na úlohách dále v seznamu, takže je možná budete muset změnit.
+ </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="670"/>
         <source>No input jobs selected, thus the resulting archive will be empty.</source>
-        <translation type="unfinished"/>
+        <translation>Nevybrány žádné výstupní úlohy, výstupní archiv bude proto prázdný.</translation>
     </message>
 </context>
 <context>
@@ -6178,17 +6180,17 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="741"/>
         <source>ERROR: Failed to load custom output jobs: %1</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA: Nepodařilo se načíst volitelné výstupní úlohy: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="757"/>
         <source>ERROR: No output job with the name &apos;%1&apos; found.</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA: Výstupní úloha s názvem &apos;%1&apos; neexistuje.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="768"/>
         <source>Run output job &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Spustit výstupní úlohu &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="787"/>
@@ -6841,7 +6843,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="40"/>
         <source>Bundle the output of other jobs in a single archive file.</source>
-        <translation type="unfinished"/>
+        <translation>Zabalit výstup ostatních úloh do jednotného archivu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="57"/>
@@ -6861,7 +6863,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="126"/>
         <source>Output Job</source>
-        <translation type="unfinished"/>
+        <translation>Výstupní úloha</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="131"/>
@@ -7600,7 +7602,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="49"/>
         <source>Min. Clearance:</source>
-        <translation>Min. odsazení:</translation>
+        <translation>Min. vzdálenost:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="56"/>
@@ -7734,7 +7736,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="247"/>
         <source>Vias Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>Mezikruží prokovů:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="254"/>
@@ -7826,7 +7828,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="579"/>
         <source>Via Types:</source>
-        <translation type="unfinished"/>
+        <translation>Typy prokovů:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="586"/>
@@ -7871,7 +7873,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="714"/>
         <source>Blind Vias</source>
-        <translation type="unfinished"/>
+        <translation>Slepé prokovy:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="724"/>
@@ -7886,7 +7888,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="734"/>
         <source>Buried Vias</source>
-        <translation type="unfinished"/>
+        <translation>Pohřbené prokovy:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="750"/>
@@ -7901,7 +7903,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="781"/>
         <source>Clearances</source>
-        <translation type="unfinished"/>
+        <translation>Vzdálenosti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="803"/>
@@ -8007,7 +8009,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="14"/>
         <source>Via Properties</source>
-        <translation>Vlastnosti přechodu</translation>
+        <translation>Vlastnosti prokovu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="25"/>
@@ -8577,7 +8579,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardviaedit.cpp" line="41"/>
         <source>Edit via</source>
-        <translation>Upravit přechod</translation>
+        <translation>Upravit prokov</translation>
     </message>
 </context>
 <context>
@@ -11216,7 +11218,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="461"/>
         <source>Clearances</source>
-        <translation type="unfinished"/>
+        <translation>Vzdálenosti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="470"/>
@@ -13566,12 +13568,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.ui" line="37"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Výstupní úlohy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="58"/>
         <source>Output jobs allow you to generate any production data, documentation or other output files in a unified, reproducible way. Since their configuration is stored in the project, the complete output can even be generated headless with the &lt;a href=&quot;%1&quot;&gt;LibrePCB CLI&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Výstupní úlohy vám umožní generovat jakákoliv výrobní data, dokumentaci, nebo jiné výstupní soubory jednotně a opakovatelně. Protože jejich konfigurace je součástí projektu, kompletní výstup může být generován bez grafického prostředí použitím &lt;a href=&quot;%1&quot;&gt;LibrePCB CLI.&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="65"/>
@@ -13619,22 +13621,22 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="55"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Výstupní úlohy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="97"/>
         <source>Run this job</source>
-        <translation type="unfinished"/>
+        <translation>Spustit tuto úlohu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="98"/>
         <source>Run all dependencies and this job</source>
-        <translation type="unfinished"/>
+        <translation>Spustit tuto úlohu a všechny závislé.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="100"/>
         <source>Run all jobs</source>
-        <translation type="unfinished"/>
+        <translation>Spustit všechny úlohy</translation>
     </message>
 </context>
 <context>
@@ -13642,32 +13644,32 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="14"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Výstupní úlohy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="89"/>
         <source>Add a new job</source>
-        <translation type="unfinished"/>
+        <translation>Přidat novou úlohu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="109"/>
         <source>Duplicate the selected job</source>
-        <translation type="unfinished"/>
+        <translation>Duplikovat vybranou úlohu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="129"/>
         <source>Move selected job up</source>
-        <translation type="unfinished"/>
+        <translation>Posunout vybranou úlohu nahoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="149"/>
         <source>Move selected job down</source>
-        <translation type="unfinished"/>
+        <translation>Posunout vybranou úlohu dolů</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="169"/>
         <source>Remove selected job</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit vybranou úlohu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="252"/>
@@ -13753,7 +13755,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="488"/>
         <source>Unknown job type. You may need a more recent LibrePCB version to modify this job.</source>
-        <translation type="unfinished"/>
+        <translation>Neznámý typ úlohy. Ke změně úlohy může být potřeba nová verze LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="533"/>
@@ -13945,7 +13947,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="304"/>
         <source>Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="327"/>
