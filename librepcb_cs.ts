@@ -43,12 +43,12 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="250"/>
         <source>Blind Via</source>
-        <translation type="unfinished"/>
+        <translation>Slepý Otvor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="252"/>
         <source>Buried Via</source>
-        <translation type="unfinished"/>
+        <translation>Pohřbený otvor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="254"/>
@@ -92,12 +92,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.cpp" line="40"/>
         <source>Bill of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Seznam součástek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.h" line="79"/>
         <source>Bill Of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Seznam součástek</translation>
     </message>
 </context>
 <context>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../libs/librepcb/core/types/boundedunsignedratio.cpp" line="101"/>
         <source>Minimum value must not be greater than maximum value.</source>
-        <translation type="unfinished"/>
+        <translation>Nejmenší hodnota nesmí být větší než největší hodnota.</translation>
     </message>
 </context>
 <context>
@@ -131,12 +131,12 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="107"/>
         <source>Component signal name</source>
-        <translation type="unfinished"/>
+        <translation>Název propojení komponenty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="113"/>
         <source>Schematic net name</source>
-        <translation type="unfinished"/>
+        <translation>Název propojení schematu</translation>
     </message>
 </context>
 <context>
@@ -154,7 +154,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="92"/>
         <source>Open a STEP model to execute STEP-related tasks outside of a library.</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít STEP model pro spuštění souvisejících úloh se STEP mimo knihovnu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="99"/>
@@ -164,12 +164,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="102"/>
         <source>Print this message.</source>
-        <translation type="unfinished"/>
+        <translation>Vytiskne tuto zprávu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="105"/>
         <source>Displays version information.</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazí informace o verzi.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="107"/>
@@ -179,7 +179,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="110"/>
         <source>The command to execute (see list below).</source>
-        <translation type="unfinished"/>
+        <translation>Příkaz ke spuštění (viz seznam níže).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="116"/>
@@ -189,7 +189,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="121"/>
         <source>Run the design rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Spustit kontrolu návrhových pravidel, vypsat všechny neschválené varování/chyby a ukončit s chybou (exit code=1) pokud nejsou všechny problémy schválené.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="126"/>
@@ -226,7 +226,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
         <source>Run all existing output jobs.</source>
-        <translation type="unfinished"/>
+        <translation>Spustit všechny existující výstupní procesy.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="139"/>
@@ -392,7 +392,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="293"/>
         <source>Help:</source>
-        <translation type="unfinished"/>
+        <translation>Nápověda:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="307"/>
@@ -2621,12 +2621,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1136"/>
         <source>Abort Command</source>
-        <translation>Ukončit příkaz</translation>
+        <translation>Zrušit příkaz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1137"/>
         <source>Abort the currently active command</source>
-        <translation type="unfinished"/>
+        <translation>Zrušit aktuálně probíhající příkaz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1145"/>
@@ -3260,7 +3260,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/elementname.h" line="51"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné jméno: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -3388,7 +3388,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/fileproofname.h" line="56"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné jméno: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -3559,7 +3559,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="146"/>
         <source>Board</source>
-        <translation type="unfinished"/>
+        <translation>Deska</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="244"/>
@@ -4782,7 +4782,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="87"/>
         <source>Passive</source>
-        <translation type="unfinished"/>
+        <translation>Pasivní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="93"/>
@@ -4792,22 +4792,22 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="99"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Vstup</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="105"/>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Výstup</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="111"/>
         <source>I/O</source>
-        <translation type="unfinished"/>
+        <translation>Obousměrný</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="117"/>
         <source>Open Drain</source>
-        <translation type="unfinished"/>
+        <translation>Otevřený kolektor</translation>
     </message>
 </context>
 <context>
@@ -4815,7 +4815,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/simplestring.h" line="49"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný název: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4876,7 +4876,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="81"/>
         <source>Board</source>
-        <translation type="unfinished"/>
+        <translation>Deska</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="82"/>
@@ -4900,7 +4900,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="85"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="108"/>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Výběr</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="86"/>
@@ -4911,7 +4911,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="87"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="109"/>
         <source>Frames</source>
-        <translation type="unfinished"/>
+        <translation>Rámečky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="88"/>
@@ -5000,17 +5000,17 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="107"/>
         <source>DRC Marker</source>
-        <translation type="unfinished"/>
+        <translation>Značka DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="111"/>
         <source>Plated Cutouts</source>
-        <translation type="unfinished"/>
+        <translation>Prokovené výřezy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="112"/>
         <source>Holes</source>
-        <translation type="unfinished"/>
+        <translation>Díry</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="113"/>
@@ -5045,52 +5045,52 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="122"/>
         <source>Names Top</source>
-        <translation type="unfinished"/>
+        <translation>Jména horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="123"/>
         <source>Names Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Jména spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="124"/>
         <source>Values Top</source>
-        <translation type="unfinished"/>
+        <translation>Hodnoty horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="125"/>
         <source>Values Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Hodnoty spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="126"/>
         <source>Legend Top</source>
-        <translation type="unfinished"/>
+        <translation>Popisy horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="127"/>
         <source>Legend Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Popisy spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="128"/>
         <source>Documentation Top</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentace horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="129"/>
         <source>Documentation Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentace spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="130"/>
         <source>Package Outlines Top</source>
-        <translation type="unfinished"/>
+        <translation>Obrysy pouzdra horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="131"/>
         <source>Package Outlines Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Obrysy pouzdra spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="132"/>
@@ -5125,67 +5125,67 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="138"/>
         <source>References Top</source>
-        <translation type="unfinished"/>
+        <translation>Reference horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="139"/>
         <source>References Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Reference spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="140"/>
         <source>Stop Mask Top</source>
-        <translation type="unfinished"/>
+        <translation>Nepájivá maska horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="141"/>
         <source>Stop Mask Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Nepájivá maska spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="142"/>
         <source>Solder Paste Top</source>
-        <translation type="unfinished"/>
+        <translation>Pasta horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="143"/>
         <source>Solder Paste Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Pasta spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="144"/>
         <source>Finish Top</source>
-        <translation type="unfinished"/>
+        <translation>Povrch horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="145"/>
         <source>Finish Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Povrch spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="146"/>
         <source>Glue Top</source>
-        <translation type="unfinished"/>
+        <translation>Lepidlo horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="147"/>
         <source>Glue Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Lepidlo spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="148"/>
         <source>Copper Top</source>
-        <translation type="unfinished"/>
+        <translation>Měď horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="184"/>
         <source>Copper Inner %1</source>
-        <translation type="unfinished"/>
+        <translation>Měď vnitřní %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="186"/>
         <source>Copper Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Měď spodní</translation>
     </message>
 </context>
 <context>
@@ -5193,7 +5193,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/utils/toolbox.h" line="627"/>
         <source>Invalid fixed point number string: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Chybné desetinné číslo: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -5246,7 +5246,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="47"/>
         <source>NOTE</source>
-        <translation type="unfinished"/>
+        <translation>POZNÁMKA</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="49"/>
@@ -5256,7 +5256,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="51"/>
         <source>CRITICAL</source>
-        <translation type="unfinished"/>
+        <translation>KRITICKÉ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="66"/>
@@ -5456,27 +5456,27 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="582"/>
         <source>Check hole clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Zkontrolovat odsazení děr...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="637"/>
         <source>Check drill clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Zkontrolovat odsazení vrtání...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="725"/>
         <source>Check drill to board edge clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Zkontrolovat odsazení vrtání od kraje desky...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="802"/>
         <source>Check silkscreen to stopmask clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Zkontrolovat odsazení popisu od masky...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="887"/>
         <source>Check copper widths...</source>
-        <translation type="unfinished"/>
+        <translation>Zkontrolovat šířku spojů...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="900"/>
@@ -5506,12 +5506,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1093"/>
         <source>Check silkscreen widths...</source>
-        <translation type="unfinished"/>
+        <translation>Zkontrolovat šířku popisků...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1108"/>
         <source>Check silkscreen text heights...</source>
-        <translation type="unfinished"/>
+        <translation>Zkontrolovat výšku textu popisků...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1128"/>
@@ -5570,7 +5570,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="95"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="124"/>
         <source>There is already an assembly variant with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Varianta sestavení  &quot;%1&quot; již existuje!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="157"/>
@@ -5670,7 +5670,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="513"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
-        <translation type="unfinished"/>
+        <translation>Nekruhové prokovy již nejsou podporovány, všechny prokovy byly změněny na kruhové.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="520"/>
@@ -5693,7 +5693,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="185"/>
         <source>No pages to export/print.</source>
-        <translation type="unfinished"/>
+        <translation>Nejsou stránky k exportování/tisku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="369"/>
@@ -5708,7 +5708,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="395"/>
         <source>Failed to finish printing with unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Tisk byl ukončen s neznámou chybou.</translation>
     </message>
 </context>
 <context>
@@ -5873,12 +5873,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="237"/>
         <source>You may need a more recent LibrePCB version to run this job.</source>
-        <translation type="unfinished"/>
+        <translation>Ke spuštění této úlohy může být potřeba novější verze LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="243"/>
         <source>No output files were generated, check the job configuration.</source>
-        <translation type="unfinished"/>
+        <translation>Nebyly vygenerovány žádné soubory. Zkontrolujte konfiguraci úloh.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="378"/>
@@ -5944,7 +5944,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="104"/>
         <source>File does not exist: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Soubor neexistuje:  &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="110"/>
@@ -5994,7 +5994,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="109"/>
         <source>Exporting PCB...</source>
-        <translation type="unfinished"/>
+        <translation>Exportuji PCB...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="149"/>
@@ -6004,7 +6004,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="175"/>
         <source>Saving...</source>
-        <translation type="unfinished"/>
+        <translation>Ukládám ...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="182"/>
@@ -6014,7 +6014,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="184"/>
         <source>The last error was:</source>
-        <translation type="unfinished"/>
+        <translation>Poslední chyba:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="186"/>
@@ -6029,12 +6029,12 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="196"/>
         <source>Failed!</source>
-        <translation type="unfinished"/>
+        <translation>Selhalo!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="205"/>
         <source>Aborted!</source>
-        <translation type="unfinished"/>
+        <translation>Zrušeno!</translation>
     </message>
 </context>
 <context>
@@ -7081,7 +7081,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1540"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1568"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné jméno: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1559"/>
@@ -11756,12 +11756,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="553"/>
         <source>Copper Top</source>
-        <translation type="unfinished"/>
+        <translation>Měď horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="564"/>
         <source>Copper Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Měď spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="885"/>
@@ -14058,7 +14058,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="536"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
-        <translation type="unfinished"/>
+        <translation>(stisknout %1 pro vypnutí přichytávání, %2 ke zrušení)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="538"/>
@@ -14194,7 +14194,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="397"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
-        <translation type="unfinished"/>
+        <translation>(stisknout %1 pro vypnutí přichytávání, %2 ke zrušení)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="399"/>
@@ -14882,7 +14882,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="93"/>
         <source>Abort.</source>
-        <translation>Přerušit.</translation>
+        <translation>Zrušit.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="100"/>
@@ -15249,7 +15249,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1046"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné jméno: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1055"/>
@@ -15697,7 +15697,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="533"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
-        <translation type="unfinished"/>
+        <translation>(stisknout %1 pro vypnutí přichytávání, %2 ke zrušení)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="535"/>
@@ -16454,7 +16454,7 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="193"/>
         <source>Absolute path to the file to open</source>
         <comment>Decription for '{{FILEPATH}}' placeholder</comment>
-        <translation type="unfinished"/>
+        <translation>Absolutní cesta k souboru k otevření</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="197"/>
