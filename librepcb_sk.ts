@@ -189,7 +189,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="121"/>
         <source>Run the design rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Spustiť kontrolu návrhových pravidiel, zobraziť všetky neschválené upozornenia/chyby a zlyhania (exit code = 1) ak sú neschválené oznámenia.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="126"/>
@@ -322,7 +322,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="225"/>
         <source>Same as &apos;%1&apos;, but allows to specify assembly variants by index instead of by name.</source>
-        <translation type="unfinished"/>
+        <translation>Rovnako ako &apos;%1&apos;, ale umožňuje špecifikovať alternatívne osadenie dosky podľa indexu namiesto názvu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="231"/>
