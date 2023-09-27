@@ -246,17 +246,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Vyvést schematické listy do příslušných souborů. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
+        <translation>Exportovat schemata do příslušných souborů. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="155"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Vyvést všeobecný kusovník do příslušného souboru. Pokud již soubor existuje, bude přepsán. Podporované přípony souborů: %1</translation>
+        <translation>Exportovat všeobecný kusovník do příslušného souboru. Pokud již soubor existuje, bude přepsán. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="161"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Vyvést kusovník pro konkrétní desku do příslušného souboru. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
+        <translation>Exportovat kusovník pro konkrétní desku do příslušného souboru. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="167"/>
@@ -281,17 +281,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="184"/>
         <source>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Exportovat soubor pro automatický osazovací stroj pro horní stranu desky. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="190"/>
         <source>Export pick&amp;place file for automated assembly of the bottom board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Exportovat soubor pro automatický osazovací stroj pro spodní stranu desky. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="197"/>
         <source>Export netlist file for automated PCB testing. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Exportovat seznam propojení pro automatické testování plošného spoje. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
@@ -301,13 +301,13 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="207"/>
         <source>Same as &apos;%1&apos;, but allows to specify boards by index instead of by name.</source>
-        <translation type="unfinished"/>
+        <translation>Shodné jako &apos;%1&apos;, ale umožňuje určit desku pořadovým číslem místo jména.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="210"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="228"/>
         <source>index</source>
-        <translation type="unfinished"/>
+        <translation>pořadové číslo</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="213"/>
@@ -387,7 +387,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="290"/>
         <source>List command-specific options:</source>
-        <translation type="unfinished"/>
+        <translation>Seznam voleb specifických k danému příkazu:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="293"/>
@@ -417,12 +417,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="410"/>
         <source>Missing arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Chybějící argumenty:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="416"/>
         <source>Unknown arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Neznámé argumenty:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="470"/>
