@@ -226,7 +226,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
         <source>Run all existing output jobs.</source>
-        <translation type="unfinished"/>
+        <translation>Spustenie všetkých jestvujúcich úloh pre generovanie výstupov.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="139"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
         <source>path</source>
-        <translation type="unfinished"/>
+        <translation>cesta</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
@@ -291,7 +291,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="197"/>
         <source>Export netlist file for automated PCB testing. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Exportuje zoznam spojov pre automatizované testovanie DPS. Jestvujúce súbory budú prepísané. Podporované prípony súborov: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
@@ -317,7 +317,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="220"/>
         <source>The name of the assembly variant(s) to export. Can be given multiple times. If not set, all assembly variants are exported.</source>
-        <translation type="unfinished"/>
+        <translation>Názov alternatívneho osadenia DPS na export. Môže byť zadaných viacero názvov. Ak nie je nastavený žiaden, exportujú sa všetky varianty zostavy.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="225"/>
