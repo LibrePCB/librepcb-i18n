@@ -9,7 +9,7 @@
     <message>
         <location filename="../libs/librepcb/core/job/archiveoutputjob.h" line="71"/>
         <source>Archive</source>
-        <translation type="unfinished"/>
+        <translation>Archiv</translation>
     </message>
 </context>
 <context>
@@ -76,7 +76,7 @@
     <message>
         <location filename="../libs/librepcb/core/job/board3doutputjob.h" line="73"/>
         <source>3D Model</source>
-        <translation type="unfinished"/>
+        <translation>3D-Modell</translation>
     </message>
 </context>
 <context>
