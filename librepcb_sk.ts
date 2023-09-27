@@ -4,12 +4,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/archiveoutputjob.cpp" line="40"/>
         <source>Output Archive</source>
-        <translation type="unfinished"/>
+        <translation>Výstupný archív</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/archiveoutputjob.h" line="71"/>
         <source>Archive</source>
-        <translation type="unfinished"/>
+        <translation>Archív</translation>
     </message>
 </context>
 <context>
@@ -38,32 +38,32 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="248"/>
         <source>Through-Hole Via</source>
-        <translation type="unfinished"/>
+        <translation>Štandardný prechod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="250"/>
         <source>Blind Via</source>
-        <translation type="unfinished"/>
+        <translation>Slepý prechod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="252"/>
         <source>Buried Via</source>
-        <translation type="unfinished"/>
+        <translation>Pochovaný prechod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="254"/>
         <source>Net: %1</source>
-        <translation type="unfinished"/>
+        <translation>Spoj: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="256"/>
         <source>Start Layer: %1</source>
-        <translation type="unfinished"/>
+        <translation>Začiatočná vrstva: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="257"/>
         <source>End Layer: %1</source>
-        <translation type="unfinished"/>
+        <translation>Koncová vrstva: %1</translation>
     </message>
 </context>
 <context>
@@ -71,7 +71,7 @@
     <message>
         <location filename="../libs/librepcb/core/job/board3doutputjob.cpp" line="39"/>
         <source>STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>Model formátu STEP</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/board3doutputjob.h" line="73"/>
@@ -92,12 +92,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.cpp" line="40"/>
         <source>Bill of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Zoznam súčiastok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.h" line="79"/>
         <source>Bill Of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Zoznam súčiastok</translation>
     </message>
 </context>
 <context>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../libs/librepcb/core/types/boundedunsignedratio.cpp" line="101"/>
         <source>Minimum value must not be greater than maximum value.</source>
-        <translation type="unfinished"/>
+        <translation>Minimálna hodnota nesmie byť vyššia ako maximálna hodnota.</translation>
     </message>
 </context>
 <context>
