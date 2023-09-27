@@ -575,7 +575,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="600"/>
         <source>The clearance between a via and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost mezi prokovem a okrajem desky je menší než vzdálenost povolená v nastavení DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="604"/>
@@ -996,12 +996,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1631"/>
         <source>Blind vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
-        <translation type="unfinished"/>
+        <translation>Slepé prokovy jsou drahé na výrobu a ne každý výrobce PCB je dokáže vytvořit.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1635"/>
         <source>Buried vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
-        <translation type="unfinished"/>
+        <translation>Pohřbené prokovy jsou drahé na výrobu a ne každý výrobce PCB je dokáže vytvořit.</translation>
     </message>
 </context>
 <context>
@@ -1029,12 +1029,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1293"/>
         <source>The via annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Šířka měděného mezikruží (měď okolo díry) je menší než minimální šířka nakonfigurovaná v nastavení DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1297"/>
         <source>Check the DRC settings and increase the via size if needed.</source>
-        <translation type="unfinished"/>
+        <translation>V případě potřeby zkontroluj a zvyš velikost prokovu v nastavení DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1311"/>
@@ -1095,7 +1095,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1410"/>
         <source>The drill diameter of the via is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Průměr otvoru prokovu je menší než minimální průměr vrtání pro prokovené otvory  povolený v nastavení DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1414"/>
@@ -1403,12 +1403,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1693"/>
         <source>Useless via in net &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
-        <translation type="unfinished"/>
+        <translation>Nepotřebný prokov na propoji &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1695"/>
         <source>The via is connected on less than two layers, thus it seems to be useless.</source>
-        <translation type="unfinished"/>
+        <translation>Prokov je spojený s méně než dvěma vrstvami, proto vypadá nepotřebně.</translation>
     </message>
 </context>
 <context>
@@ -2562,7 +2562,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1080"/>
         <source>Add plated through-hole vias</source>
-        <translation type="unfinished"/>
+        <translation>Přidat pokovené prokovy skrz desku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1088"/>
@@ -8049,7 +8049,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="105"/>
         <source>The copper area of the via is covered with solder resist, i.e. not exposed.</source>
-        <translation type="unfinished"/>
+        <translation>Měďěná oblast prokovu je pokrytá nepájivou maskou, tedy není viditelná.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="108"/>
