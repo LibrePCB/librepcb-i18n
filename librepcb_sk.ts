@@ -3559,7 +3559,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="146"/>
         <source>Board</source>
-        <translation type="unfinished"/>
+        <translation>Doska</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="244"/>
@@ -4876,13 +4876,13 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="81"/>
         <source>Board</source>
-        <translation type="unfinished"/>
+        <translation>Doska</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="82"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="104"/>
         <source>Background/Grid</source>
-        <translation type="unfinished"/>
+        <translation>Pozadie/raster</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="83"/>
@@ -4900,7 +4900,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="85"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="108"/>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Výber</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="86"/>
