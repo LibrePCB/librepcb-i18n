@@ -985,7 +985,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1622"/>
         <source>Buried via in net &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Pochovaný prechod v spoji &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1628"/>
@@ -995,12 +995,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1631"/>
         <source>Blind vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
-        <translation type="unfinished"/>
+        <translation>Slepé prechody sú drahšie na výrobu a nie každý výrobca DPS ich je schopný vyrobiť.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1635"/>
         <source>Buried vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
-        <translation type="unfinished"/>
+        <translation>Pochované prechody sú drahšie na výrobu a nie každý výrobca DPS ich je schopný vyrobiť.</translation>
     </message>
 </context>
 <context>
@@ -1148,17 +1148,17 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="285"/>
         <source>Text height on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual height, minimum height, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Výška textu pri &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="290"/>
         <source>The text height is smaller than the minimum height configured in the DRC settings. If the text is smaller than the minimum height specified by the PCB manufacturer, it may not be readable after production.</source>
-        <translation type="unfinished"/>
+        <translation>Výška textu je menšia ako je nastavená minimálna výška v DRC. Ak je text menší ako je minimálna výška určená výrobcom DPS, nemusí byť po výrobe čitateľný.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="295"/>
         <source>Check the DRC settings and increase the text height if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a ak je to potrebné, zväčšite výšku textu.</translation>
     </message>
 </context>
 <context>
@@ -1375,7 +1375,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1650"/>
         <source>Clearance silkscreen text ↔ stop mask &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Odsadenie textu popisu ↔ nespájkovateľná maska &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1653"/>
@@ -5427,7 +5427,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_via.cpp" line="193"/>
         <source>Failed to connect trace to via because it&apos;s a blind- or buried via which doesn&apos;t include the corresponding layer.</source>
-        <translation type="unfinished"/>
+        <translation>Nemožno prepojiť spoje pomocou prechodu, pretože je to slepý, alebo pochovaný prechod nenachádzajúci sa na zodpovedajúcej vrstve.</translation>
     </message>
 </context>
 <context>
@@ -5471,7 +5471,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="802"/>
         <source>Check silkscreen to stopmask clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola odsadenia popisu od nespájk. masky...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="887"/>
@@ -5506,12 +5506,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1093"/>
         <source>Check silkscreen widths...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola šírky čiar v popise...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1108"/>
         <source>Check silkscreen text heights...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola výšok textu v popise...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1128"/>
@@ -6103,7 +6103,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="545"/>
         <source>Set default assembly variant to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Nastaviť predvolené alternatívne osadenie na &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="550"/>
@@ -7699,27 +7699,27 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="67"/>
         <source>Total PCB Thickness:</source>
-        <translation type="unfinished"/>
+        <translation>Celková hrúbka dosky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="90"/>
         <source>Solder Resist:</source>
-        <translation type="unfinished"/>
+        <translation>Nespájkovateľná maska:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="97"/>
         <source>Silkscreen Color:</source>
-        <translation type="unfinished"/>
+        <translation>Farba popisu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="193"/>
         <source>Silkscreen Layers:</source>
-        <translation type="unfinished"/>
+        <translation>Vrstvy popisu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="211"/>
         <source>These settings might not be supported and/or automatically taken into account by the PCB manufacturer. Always check/specify these manufacturing properties manually when ordering the PCB.</source>
-        <translation type="unfinished"/>
+        <translation>Tieto nastavenia nemusia byť podporované a/alebo automaticky brané do úvahy výrobcom DPS. Vždy ich skontrolujte alebo uveďte pri objednávaní DPS.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="225"/>
@@ -7871,7 +7871,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="714"/>
         <source>Blind Vias</source>
-        <translation type="unfinished"/>
+        <translation>Slepé prechody</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="724"/>
@@ -7886,7 +7886,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="734"/>
         <source>Buried Vias</source>
-        <translation type="unfinished"/>
+        <translation>Pochované prechody</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="750"/>
@@ -7906,7 +7906,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="803"/>
         <source>Silkscreen ↔ Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Popis ↔ Nespájk. maska:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="810"/>
@@ -7921,7 +7921,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="824"/>
         <source>Silkscreen Width:</source>
-        <translation type="unfinished"/>
+        <translation>Šírka čiary v popise</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="834"/>
@@ -7936,12 +7936,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="871"/>
         <source>SIlkscreen Text Height:</source>
-        <translation type="unfinished"/>
+        <translation>Výška textu v popise</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="63"/>
         <source>Default:</source>
-        <translation type="unfinished"/>
+        <translation>Predvolené:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="68"/>
@@ -7966,7 +7966,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="219"/>
         <source>None</source>
-        <translation>Žiadna</translation>
+        <translation>Žiadne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="222"/>
@@ -7976,12 +7976,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="226"/>
         <source>Any Without Curves</source>
-        <translation>Hocijaký bez oblúkov</translation>
+        <translation>Rôzne tvary ale bez oblúkov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="230"/>
         <source>Any</source>
-        <translation>Hocijaký</translation>
+        <translation>Rôzne tvary</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="450"/>
@@ -10981,7 +10981,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="252"/>
         <source>Default (layer encoded in file name)</source>
-        <translation>Predvolené (kódy vrstiev budú v názvoch súborov)</translation>
+        <translation>Predvolené (kód vrstvy bude v názvoch súborov)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="262"/>
@@ -11011,7 +11011,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="309"/>
         <source>Drills Blind/Buried:</source>
-        <translation type="unfinished"/>
+        <translation>Priemer otvoru slepý/pochovaný:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="337"/>
@@ -11358,7 +11358,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="111"/>
         <source>Drills Blind/Buried:</source>
-        <translation type="unfinished"/>
+        <translation>Priemer otvoru slepý/pochovaný:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="118"/>
@@ -16553,7 +16553,7 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
-        <translation>Naozaj chcete obnoviť pôvodné nastavenie?
+        <translation>Naozaj chcete obnoviť predvolené nastavenie?
 
 Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!</translation>
     </message>
