@@ -496,12 +496,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/copyoutputjob.cpp" line="39"/>
         <source>Custom File</source>
-        <translation type="unfinished"/>
+        <translation>Užívateľský súbor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/copyoutputjob.h" line="78"/>
         <source>File Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kópia súboru</translation>
     </message>
 </context>
 <context>
@@ -509,7 +509,7 @@
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="135"/>
         <source>To avoid troubles, only proceed if there are no other (installed) LibrePCB applications on this computer.</source>
-        <translation type="unfinished"/>
+        <translation>Aby ste sa vyhli problémom, pokračujte iba vtedy, ak na tomto počítači nie sú žiadne iné (nainštalované) aplikácie LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="148"/>
@@ -519,7 +519,7 @@
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="149"/>
         <source>This installs the following files to register the executable &lt;i&gt;%1&lt;/i&gt;:</source>
-        <translation type="unfinished"/>
+        <translation>Týmto sa nainštalujú a budú zaregistrované ako spúšťacie, nasledujúce súbory &lt;i&gt;%1&lt;/i&gt;:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="157"/>
@@ -529,7 +529,7 @@
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="158"/>
         <source>This removes the following files:</source>
-        <translation type="unfinished"/>
+        <translation>Toto spôsobí odstránenie nasledujúcich súborov:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="181"/>
@@ -541,7 +541,9 @@
         <source>Failed to run '%1'.
 
 Please make sure this tool is available in PATH.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba pri spúšťaní &apos;%1&apos;.
+
+Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</translation>
     </message>
 </context>
 <context>
@@ -700,7 +702,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="497"/>
         <source>%1 layers</source>
         <comment>Placeholder is a number &gt; 1.</comment>
-        <translation type="unfinished"/>
+        <translation>%1 vrstiev</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="516"/>
@@ -758,46 +760,46 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="816"/>
         <source>Pad in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is pad name</comment>
-        <translation type="unfinished"/>
+        <translation>V oblasti zakázaných vodivých prvkov sa nachádza plôška vývodu: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="833"/>
         <source>Via in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
+        <translation>V oblasti zakázaných vodivých prvkov sa nachádza prechod: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="850"/>
         <source>Trace in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
+        <translation>V oblasti zakázaných vodivých prvkov sa nachádza spoj: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="865"/>
         <source>Polygon in copper keepout zone</source>
-        <translation type="unfinished"/>
+        <translation>V oblasti zakázaných vodivých prvkov sa nachádza polygón</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="879"/>
         <source>Polygon in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>V oblasti zakázaných vodivých prvkov sa nachádza polygón: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="896"/>
         <source>Circle in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>V oblasti zakázaných vodivých prvkov sa nachádza kružnica: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="926"/>
         <source>There is a copper object within a copper keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>V oblasti zakázaných vodivých prvkov sa nachádza vodivý objekt.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="927"/>
         <source>Move the object to outside the keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Presuňte objekt mimo zakázanej oblasti.</translation>
     </message>
 </context>
 <context>
@@ -806,17 +808,17 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1073"/>
         <source>Device in courtyard: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
-        <translation type="unfinished"/>
+        <translation>Súčiastka v manipulačnej oblasti: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1079"/>
         <source>A device is placed within the courtyard of another device, which might cause troubles during assembly of these parts.</source>
-        <translation type="unfinished"/>
+        <translation>Súčiastka je umiestnená v manipulačnej oblasti inej súčiastky, čo môže mať za následok problémy pri osádzaní týchto súčiastok.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1082"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems.</source>
-        <translation type="unfinished"/>
+        <translation>Presuňte súčiastky tak aby ste zväčšili ich vzájomné odsadenie, alebo schváľte túto správu, ak ste si istí, že sa dajú bez problémov osadiť.</translation>
     </message>
 </context>
 <context>
@@ -825,17 +827,17 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1140"/>
         <source>Device in keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>V zakázanej oblasti sa nachádza súčiastka: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1168"/>
         <source>There is a device within a keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>V zakázanej oblasti sa nachádza súčiastka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1169"/>
         <source>Move the device to outside the keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Presuňte súčiastku mimo zakázanú oblasť.</translation>
     </message>
 </context>
 <context>
@@ -924,7 +926,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1277"/>
         <source>Move the object to outside the keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Presuňte objekt mimo zakázanej zóny vodivých prvkov.</translation>
     </message>
 </context>
 <context>
@@ -14246,61 +14248,61 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="305"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="317"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="329"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="421"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="471"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="661"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="691"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="983"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1043"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1066"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1078"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1087"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1175"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1305"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1332"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1353"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1374"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1395"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="422"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="472"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="662"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="692"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="984"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1044"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1067"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1079"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1088"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1176"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1306"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1333"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1354"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1375"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1396"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1000"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1001"/>
         <source>Paste Footprint Elements</source>
         <translation>Vložiť elementy púzdra</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1100"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1101"/>
         <source>Generate package outline</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1169"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1170"/>
         <source>No Content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1170"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1171"/>
         <source>No content (e.g. pads or documentation polygons) found to generate the package outline from. Please add at least the pads before invoking this command.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1190"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1191"/>
         <source>Courtyard Excess</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1215"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1216"/>
         <source>Generate courtyard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1298"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1299"/>
         <source>No Outline</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1299"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1300"/>
         <source>The courtyard can only be generated if there&apos;s a package outline polygon or circle, so that needs to be added first.</source>
         <translation type="unfinished"/>
     </message>
