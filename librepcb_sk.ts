@@ -213,7 +213,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="132"/>
         <source>Run a particular output job. Can be given multiple times to run multiple jobs.</source>
-        <translation type="unfinished"/>
+        <translation>Spustenie konkrétnej výstupnej úlohy. Dá sa zadať viackrát pre spustenie viacerých úloh.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="134"/>
@@ -327,7 +327,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="231"/>
         <source>Move the specified assembly variant to the top before executing all the other actions. Pass &apos;%1&apos; to save the modified project to disk.</source>
-        <translation type="unfinished"/>
+        <translation>Najskôr presuňte špecifikované alternatívne osadenie nahor pred vykonaním všetkých ostatných akcií. Ak chcete uložiť upravený projekt na disk, zadajte &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="237"/>
@@ -407,7 +407,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="348"/>
         <source>Path to the STEP file (%1).</source>
-        <translation type="unfinished"/>
+        <translation>Cesta k súboru STEP (%1).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="354"/>
