@@ -1375,12 +1375,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1650"/>
         <source>Clearance silkscreen text ↔ stop mask &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie textu popisu ↔ nespájkovateľná maska &lt; %1 %2</translation>
+        <translation>Odsadenie textu v potlači ↔ nespájkovateľná maska &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1653"/>
         <source>The clearance between a silkscreen text and a solder resist opening is smaller than the minimum clearance configured in the DRC settings. This could lead to clipped silkscreen during production.</source>
-        <translation type="unfinished"/>
+        <translation>Odsadenie medzi textom popisu a prerušením v nesp. maske je menšie ako je nastavená minimálna vzdialenosť v DRC. To by mohlo viesť k orezaniu popisu počas výroby.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1659"/>
@@ -3716,12 +3716,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="300"/>
         <source>Top Stop Mask</source>
-        <translation>Top Stop Mask</translation>
+        <translation>Vrchná nespájk. maska</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="307"/>
         <source>Bottom Stop Mask</source>
-        <translation type="unfinished"/>
+        <translation>Spodná spájk. maska</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="314"/>
@@ -3756,17 +3756,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="352"/>
         <source>Top Copper</source>
-        <translation>Top Copper</translation>
+        <translation>Vrchné spoje</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="359"/>
         <source>Bottom Copper</source>
-        <translation type="unfinished"/>
+        <translation>Spodné spoje</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="369"/>
         <source>Inner Copper %1</source>
-        <translation>Inner Copper %1</translation>
+        <translation>Vnútorná vodivá %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="455"/>
@@ -4389,7 +4389,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="442"/>
         <source>Pads should have at least %1 clearance to drawings on the legend because these drawings would be cropped during the Gerber export when used as silkscreen.</source>
-        <translation type="unfinished"/>
+        <translation>Plôšky vývodov by mali mať odsadenie aspoň %1 od nákresov púzdier, pretože ak budú použité v potlači DPS, budú orezané počas gerber exportu.</translation>
     </message>
 </context>
 <context>
@@ -5135,12 +5135,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="140"/>
         <source>Stop Mask Top</source>
-        <translation type="unfinished"/>
+        <translation>Nespájk. maska vrchná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="141"/>
         <source>Stop Mask Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Nespájk. maska spodná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="142"/>
@@ -5180,7 +5180,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="184"/>
         <source>Copper Inner %1</source>
-        <translation type="unfinished"/>
+        <translation>Vnútorná vodivá %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="186"/>
@@ -5471,7 +5471,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="802"/>
         <source>Check silkscreen to stopmask clearances...</source>
-        <translation>Kontrola odsadenia popisu od nespájk. masky...</translation>
+        <translation>Kontrola odsadenia potlače od nespájk. masky...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="887"/>
@@ -5506,12 +5506,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1093"/>
         <source>Check silkscreen widths...</source>
-        <translation>Kontrola šírky čiar v popise...</translation>
+        <translation>Kontrola šírky čiar v potlači...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1108"/>
         <source>Check silkscreen text heights...</source>
-        <translation>Kontrola výšok textu v popise...</translation>
+        <translation>Kontrola výšok textu v potlači...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1128"/>
@@ -7384,7 +7384,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="98"/>
         <source>No Copper</source>
-        <translation type="unfinished"/>
+        <translation>Bez vodivých prvkov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="109"/>
@@ -7709,12 +7709,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="97"/>
         <source>Silkscreen Color:</source>
-        <translation>Farba popisu:</translation>
+        <translation>Farba potlače:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="193"/>
         <source>Silkscreen Layers:</source>
-        <translation>Vrstvy popisu:</translation>
+        <translation>Vrstvy potlače:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="211"/>
@@ -7744,7 +7744,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="272"/>
         <source>Note: These settings define the shape of board objects which are automatically generated (e.g. stop masks, where not manually overridden). They are not related to the design rule check (DRC) at all. In contrast to these settings, DRC parameters do not have any impact on the board.</source>
-        <translation>Poznámka: Tieto nastavenia definujú tvar objektov dosky, ktoré sa generujú automaticky (napr. nespájkovacia maska, ktorá nemôže byť manuálne zmenená). Vôbec nesúvisia s kontrolou návrhových pravidiel (DRC). Na rozdiel od týchto nastavení nemajú parametre DRC žiadny vplyv na dosku.</translation>
+        <translation>Poznámka: Tieto nastavenia definujú tvar objektov dosky, ktoré sa generujú automaticky (napr. nespájkovateľná maska, ktorá nemôže byť manuálne zmenená). Vôbec nesúvisia s kontrolou návrhových pravidiel (DRC). Na rozdiel od týchto nastavení nemajú parametre DRC žiadny vplyv na dosku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="285"/>
@@ -7906,7 +7906,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="803"/>
         <source>Silkscreen ↔ Stopmask:</source>
-        <translation>Popis ↔ Nespájk. maska:</translation>
+        <translation>Potlač ↔ Nespájk. maska:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="810"/>
@@ -7921,7 +7921,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="824"/>
         <source>Silkscreen Width:</source>
-        <translation>Šírka čiary v popise</translation>
+        <translation>Šírka čiary v potlači</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="834"/>
@@ -7936,7 +7936,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="871"/>
         <source>SIlkscreen Text Height:</source>
-        <translation>Výška textu v popise</translation>
+        <translation>Výška textu v potlači</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="63"/>
@@ -10927,7 +10927,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="95"/>
         <source>Bottom Silkscreen:</source>
-        <translation>Spodný popis:</translation>
+        <translation>Spodná potlač:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="102"/>
@@ -10976,7 +10976,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="233"/>
         <source>Top Silkscreen:</source>
-        <translation>Vrchný popis:</translation>
+        <translation>Vrchná potlač:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="252"/>
@@ -11242,7 +11242,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="470"/>
         <source>Stop Mask:</source>
-        <translation>Nespájkovacia maska:</translation>
+        <translation>Nespájkovateľná maska:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="485"/>
@@ -11275,7 +11275,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="620"/>
         <source>Copper Keepout:</source>
-        <translation type="unfinished"/>
+        <translation>Zakázaná oblasť spojov:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="635"/>
@@ -11373,7 +11373,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="139"/>
         <source>Top Silkscreen:</source>
-        <translation>Vrchný popis:</translation>
+        <translation>Vrchná potlač:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="184"/>
@@ -11409,7 +11409,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="218"/>
         <source>Bottom Silkscreen:</source>
-        <translation>Spodný popis:</translation>
+        <translation>Spodná potlač:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="225"/>
@@ -12103,7 +12103,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="43"/>
         <source>Stop Mask:</source>
-        <translation>Nespájkovacia maska:</translation>
+        <translation>Nespájkovateľná maska:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="52"/>
@@ -14183,7 +14183,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="98"/>
         <source>No Copper</source>
-        <translation type="unfinished"/>
+        <translation>Bez vodivých prvkov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="108"/>
