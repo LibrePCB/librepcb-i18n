@@ -3043,7 +3043,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1517"/>
         <source>Close All Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít všechny záložky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1518"/>
@@ -3073,7 +3073,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1544"/>
         <source>Close All Projects</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít všechny projekty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1545"/>
