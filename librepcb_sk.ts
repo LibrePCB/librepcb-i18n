@@ -53,7 +53,7 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="254"/>
         <source>Net: %1</source>
-        <translation>Spoj: %1</translation>
+        <translation>Prepojenie: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="256"/>
@@ -136,7 +136,7 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="113"/>
         <source>Schematic net name</source>
-        <translation>Názov schematického spoja</translation>
+        <translation>Názov prepojenia v schéme</translation>
     </message>
 </context>
 <context>
@@ -291,7 +291,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="197"/>
         <source>Export netlist file for automated PCB testing. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportuje zoznam spojov pre automatizované testovanie DPS. Jestvujúce súbory budú prepísané. Podporované prípony súborov: %1</translation>
+        <translation>Exportuje zoznam prepojení pre automatizované testovanie DPS. Jestvujúce súbory budú prepísané. Podporované prípony súborov: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
@@ -691,7 +691,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="471"/>
         <source>The clearance between two copper objects of different nets is smaller than the minimum copper clearance configured in the DRC settings.</source>
-        <translation>Vzdialenosť medzi dvoma vodivým objektami rozdielnych spojov je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
+        <translation>Vzdialenosť medzi dvoma vodivým objektami rozdielnych prepojení je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="475"/>
@@ -982,12 +982,12 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1620"/>
         <source>Blind via in net &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Slepý prechod v prepojení &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1622"/>
         <source>Buried via in net &apos;%1&apos;</source>
-        <translation>Pochovaný prechod v spoji &apos;%1&apos;</translation>
+        <translation>Pochovaný prechod v prepojení &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1628"/>
@@ -1395,7 +1395,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="260"/>
         <source>Unconnected junction in net: &apos;%1&apos;</source>
-        <translation>Nepripojený uzol na spoji: &apos;%1&apos;</translation>
+        <translation>Nepripojený uzol na prepojení: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -2528,12 +2528,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1052"/>
         <source>Add Net Label</source>
-        <translation>Pridať označenie spoja</translation>
+        <translation>Pridať označenie prepojenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1053"/>
         <source>Add net labels to explicitly specify the net of wires</source>
-        <translation>Pridanie označenie spojov pre jednoznačné pomenovanie spojov</translation>
+        <translation>Pridanie označenie prepojení pre ich presnejšie pomenovanie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1061"/>
@@ -3283,7 +3283,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="115"/>
         <source>Net name conflict: &apos;%1&apos; != &apos;%2&apos; (&apos;%3:%4&apos;)</source>
-        <translation>Konflikt pri názve spoja: &apos;%1&apos; != &apos;%2&apos; (&apos;%3:%4&apos;)</translation>
+        <translation>Konflikt pri názve prepojenia: &apos;%1&apos; != &apos;%2&apos; (&apos;%3:%4&apos;)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="119"/>
@@ -3296,7 +3296,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="61"/>
         <source>Less than two pins in net: &apos;%1&apos;</source>
-        <translation>Menej ako dva vývody na spoji: &apos;%1&apos;</translation>
+        <translation>Menej ako dva vývody na prepojení: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="62"/>
@@ -3322,7 +3322,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="210"/>
         <source>Unconnected junction in net: &apos;%1&apos;</source>
-        <translation>Nepripojený uzol na spoji: &apos;%1&apos;</translation>
+        <translation>Nepripojený uzol na prepojení: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4623,17 +4623,17 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="95"/>
         <source>Blue</source>
-        <translation type="unfinished"/>
+        <translation>Modrá</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="101"/>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Priehľadná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="107"/>
         <source>Green</source>
-        <translation type="unfinished"/>
+        <translation>Zelená</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="113"/>
@@ -4643,12 +4643,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="119"/>
         <source>Purple</source>
-        <translation type="unfinished"/>
+        <translation>Purpurová</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="125"/>
         <source>Red</source>
-        <translation type="unfinished"/>
+        <translation>Červená</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="131"/>
@@ -4658,12 +4658,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="138"/>
         <source>Yellow</source>
-        <translation type="unfinished"/>
+        <translation>Žltá</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="145"/>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Iná</translation>
     </message>
 </context>
 <context>
@@ -4913,12 +4913,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="87"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="109"/>
         <source>Frames</source>
-        <translation type="unfinished"/>
+        <translation>Orámovanie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="88"/>
         <source>Wires</source>
-        <translation type="unfinished"/>
+        <translation>Spoje</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="89"/>
@@ -5012,7 +5012,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="112"/>
         <source>Holes</source>
-        <translation type="unfinished"/>
+        <translation>Otvory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="113"/>
@@ -7632,7 +7632,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="101"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Zamknuté</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="110"/>
@@ -11209,7 +11209,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="355"/>
         <source>Function:</source>
-        <translation type="unfinished"/>
+        <translation>Funkcie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="366"/>
@@ -12042,7 +12042,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="72"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Zamknuté</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="85"/>
@@ -13974,7 +13974,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="304"/>
         <source>Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Odsadenia:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="327"/>
@@ -14730,7 +14730,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="298"/>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Iná</translation>
     </message>
 </context>
 <context>
@@ -14768,7 +14768,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="68"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Zamknuté</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/polygonpropertiesdialog.cpp" line="154"/>
@@ -15562,7 +15562,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="181"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Zamknuté</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.cpp" line="203"/>
@@ -16298,12 +16298,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="180"/>
         <source>Install...</source>
-        <translation type="unfinished"/>
+        <translation>Inštalácia...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="187"/>
         <source>Uninstall...</source>
-        <translation type="unfinished"/>
+        <translation>Odinštalácia...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="212"/>
@@ -16427,7 +16427,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="705"/>
         <source>Objects</source>
-        <translation type="unfinished"/>
+        <translation>Objekty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="718"/>
@@ -16680,7 +16680,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="109"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Zamknuté</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="121"/>
