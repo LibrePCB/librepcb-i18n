@@ -14367,7 +14367,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="305"/>
         <source>Assembly:</source>
-        <translation type="unfinished"/>
+        <translation>Osadenie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="135"/>
