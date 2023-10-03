@@ -3138,12 +3138,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1601"/>
         <source>Keyboard Shortcuts Reference</source>
-        <translation type="unfinished"/>
+        <translation>Popis klávesových zkratek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1602"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Otevře rychlý popis klávesových zkratek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1610"/>
@@ -3845,7 +3845,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="139"/>
         <source>&amp;Extras</source>
-        <translation type="unfinished"/>
+        <translation>Rozšíř&amp;ení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="143"/>
@@ -16350,7 +16350,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="455"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Klávesové zkratky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="520"/>
