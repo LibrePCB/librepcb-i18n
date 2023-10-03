@@ -1417,7 +1417,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1678"/>
         <source>Useless zone</source>
-        <translation type="unfinished"/>
+        <translation>Nadbytočné oblasti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1679"/>
@@ -2163,7 +2163,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="720"/>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1685"/>
         <source>Lock Placement</source>
-        <translation type="unfinished"/>
+        <translation>Zamknúť umiestnenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="721"/>
@@ -2173,7 +2173,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="729"/>
         <source>Unlock Placement</source>
-        <translation type="unfinished"/>
+        <translation>Odomknúť umiestnenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="730"/>
@@ -3369,7 +3369,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="48"/>
         <source>Unused net class: &apos;%1&apos;</source>
-        <translation>Nepoužitá trieda signálov: &apos;%1&apos;</translation>
+        <translation>Nepoužitá trieda prepojení: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="49"/>
@@ -3466,7 +3466,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="572"/>
         <source>Not Specified</source>
-        <translation type="unfinished"/>
+        <translation>Nešpecifikované</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="574"/>
@@ -3628,7 +3628,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="160"/>
         <source>Board Cutouts</source>
-        <translation type="unfinished"/>
+        <translation>Výrezy dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="167"/>
@@ -3668,7 +3668,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="228"/>
         <source>Top Legend</source>
-        <translation type="unfinished"/>
+        <translation>Vrchný popis DPS</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="234"/>
@@ -4579,7 +4579,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/job/netlistoutputjob.cpp" line="39"/>
         <location filename="../libs/librepcb/core/job/netlistoutputjob.h" line="68"/>
         <source>Netlist</source>
-        <translation type="unfinished"/>
+        <translation>Zoznam prepojení</translation>
     </message>
 </context>
 <context>
@@ -4618,7 +4618,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="89"/>
         <source>Black Matte</source>
-        <translation type="unfinished"/>
+        <translation>Čierna matná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="95"/>
@@ -4638,7 +4638,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="113"/>
         <source>Green Matte</source>
-        <translation type="unfinished"/>
+        <translation>Zelená matná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="119"/>
@@ -4740,17 +4740,17 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="277"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>Prepojenie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="283"/>
         <source>Pin:</source>
-        <translation type="unfinished"/>
+        <translation>Vývod:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="284"/>
         <source>Pad(s):</source>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu:</translation>
     </message>
 </context>
 <context>
@@ -4896,7 +4896,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="84"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="106"/>
         <source>Info Box</source>
-        <translation type="unfinished"/>
+        <translation>Informačné pole</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="85"/>
@@ -4923,7 +4923,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="89"/>
         <source>Net Labels</source>
-        <translation type="unfinished"/>
+        <translation>Označenie prepojení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="90"/>
@@ -5002,7 +5002,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="107"/>
         <source>DRC Marker</source>
-        <translation type="unfinished"/>
+        <translation>Značka DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="111"/>
@@ -5243,7 +5243,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_netsegment.cpp" line="68"/>
         <source>(no net)</source>
-        <translation>(bez signálu)</translation>
+        <translation>(bez prepojenia)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="47"/>
@@ -5578,13 +5578,13 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="157"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="183"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
-        <translation>Trieda signálov s názvom &quot;%1&quot; už existuje!</translation>
+        <translation>Trieda prepojení s názvom &quot;%1&quot; už existuje!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="236"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="263"/>
         <source>There is already a net signal with the name &quot;%1&quot;!</source>
-        <translation>Už existuje signál s názvom &quot;%1&quot;.</translation>
+        <translation>Prepojenie s názvom &quot;%1&quot; už existuje!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="312"/>
@@ -5611,7 +5611,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="117"/>
         <source>The net signal of the component signal &quot;%1:%2&quot; cannot be changed because it is still in use!</source>
-        <translation>Signál spoja komponentu &quot;%1:%2&quot; nemôže byť zmenený, pretože sa stále používa!</translation>
+        <translation>Signál prepojenia komponentu &quot;%1:%2&quot; nemôže byť zmenený, pretože sa stále používa!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="156"/>
@@ -5737,7 +5737,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/circuit/netclass.cpp" line="81"/>
         <source>The net class &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation>Trieda signálov &quot;%1&quot; nemôže byť odstránená, pretože sa stále používa!</translation>
+        <translation>Trieda prepojení &quot;%1&quot; nemôže byť odstránená, pretože sa stále používa!</translation>
     </message>
 </context>
 <context>
@@ -5745,7 +5745,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="120"/>
         <source>The net signal &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation>Signál &quot;%1&quot; nemôže byť odstránený, pretože sa stále používa!</translation>
+        <translation>Signál prepojenia &quot;%1&quot; nemôže byť odstránený, pretože sa stále používa!</translation>
     </message>
 </context>
 <context>
@@ -5991,12 +5991,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="99"/>
         <source>Preparing...</source>
-        <translation type="unfinished"/>
+        <translation>Pripravujem...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="109"/>
         <source>Exporting PCB...</source>
-        <translation type="unfinished"/>
+        <translation>Exportujem DPS...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="149"/>
@@ -6006,7 +6006,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="175"/>
         <source>Saving...</source>
-        <translation type="unfinished"/>
+        <translation>Ukladám...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="182"/>
@@ -6031,12 +6031,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="196"/>
         <source>Failed!</source>
-        <translation type="unfinished"/>
+        <translation>Neúspešné!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="205"/>
         <source>Aborted!</source>
-        <translation type="unfinished"/>
+        <translation>Prerušené!</translation>
     </message>
 </context>
 <context>
@@ -6247,7 +6247,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="982"/>
         <source>Export netlist to &apos;%1&apos;...</source>
-        <translation>Exportujem zoznam signálov do &apos;%1&apos;...</translation>
+        <translation>Exportujem zoznam prepojení do &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1007"/>
@@ -6549,7 +6549,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="159"/>
         <source>Sponsors</source>
-        <translation type="unfinished"/>
+        <translation>Sponzori</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="161"/>
@@ -6559,7 +6559,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="165"/>
         <source>Icons</source>
-        <translation type="unfinished"/>
+        <translation>Ikony</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="167"/>
@@ -6625,7 +6625,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="39"/>
         <source>Install Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Inštalovať knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="45"/>
@@ -6705,7 +6705,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="260"/>
         <source>Download Manually</source>
-        <translation type="unfinished"/>
+        <translation>Stiahnúť manuálne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="269"/>
@@ -6853,7 +6853,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Výstup:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="77"/>
@@ -6955,13 +6955,13 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="60"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Výstup:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="84"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="144"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="94"/>
@@ -6983,7 +6983,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="204"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Dosky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="211"/>
@@ -7128,7 +7128,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1744"/>
         <source>Export IPC D-356A Netlist</source>
-        <translation type="unfinished"/>
+        <translation>Export IPC D-356A Netlist</translation>
     </message>
 </context>
 <context>
@@ -7226,7 +7226,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="132"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>Prepojenie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="149"/>
@@ -7257,17 +7257,17 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="80"/>
         <source>No net available</source>
-        <translation>Spoj nie je k dispozícii</translation>
+        <translation>Žiaden prepoj k dispozícii</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="81"/>
         <source>Your circuit doesn&apos;t contain any net, please add one in the schematic editor first.</source>
-        <translation>Váš obvod zatiaľ neobsahuje žiadny spoj. Prosím pridajte ho v editore schémy.</translation>
+        <translation>Vaše zapojenie zatiaľ neobsahuje žiadny prepoj. Prosím pridajte ho v editore schémy.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="89"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>Prepojenie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="102"/>
@@ -7587,7 +7587,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="25"/>
         <source>Net Signal:</source>
-        <translation>Signál spoja:</translation>
+        <translation>Signál prepojenia:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="35"/>
@@ -7627,7 +7627,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="94"/>
         <source>Keep Islands</source>
-        <translation type="unfinished"/>
+        <translation>Zachovať ostrovčeky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="101"/>
@@ -7642,7 +7642,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="113"/>
         <source>Themal Gap:</source>
-        <translation type="unfinished"/>
+        <translation>Medzera tepelného prepoja:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="120"/>
@@ -7652,7 +7652,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="123"/>
         <source>Thermal Spokes:</source>
-        <translation type="unfinished"/>
+        <translation>Pripojenie tepelného prepoja:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="89"/>
@@ -7663,7 +7663,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="110"/>
         <source>Thermal Relief</source>
-        <translation type="unfinished"/>
+        <translation>Teplotné prepojenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="113"/>
@@ -7828,7 +7828,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="579"/>
         <source>Via Types:</source>
-        <translation type="unfinished"/>
+        <translation>Typy prechodu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="586"/>
@@ -8014,7 +8014,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="25"/>
         <source>Net Signal:</source>
-        <translation>Signál spoja:</translation>
+        <translation>Signál prepojenia:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="39"/>
@@ -8034,12 +8034,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="76"/>
         <source>Start Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Začiatočná vrstva:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="86"/>
         <source>End Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Koncová vrstva:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="96"/>
@@ -8170,7 +8170,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Výstup:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="77"/>
@@ -8185,13 +8185,13 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="98"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Dosky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="112"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="179"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="122"/>
@@ -8442,7 +8442,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardnetpointedit.cpp" line="40"/>
         <source>Edit netpoint</source>
-        <translation>Upraviť signálny bod</translation>
+        <translation>Upraviť bod prepojenia</translation>
     </message>
 </context>
 <context>
@@ -8451,7 +8451,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardnetsegmentadd.cpp" line="41"/>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardnetsegmentadd.cpp" line="49"/>
         <source>Add net segment</source>
-        <translation>Pridať segment spoja</translation>
+        <translation>Pridať segment prepojenia</translation>
     </message>
 </context>
 <context>
@@ -8459,7 +8459,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardnetsegmentaddelements.cpp" line="43"/>
         <source>Add net segment elements</source>
-        <translation>Pridať elementy segmentu spoja</translation>
+        <translation>Pridať elementy segmentu prepojenia</translation>
     </message>
 </context>
 <context>
@@ -8467,7 +8467,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardnetsegmentedit.cpp" line="41"/>
         <source>Edit net segment</source>
-        <translation>Upraviť segment spoja</translation>
+        <translation>Upraviť segment prepojenia</translation>
     </message>
 </context>
 <context>
@@ -8475,7 +8475,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardnetsegmentremove.cpp" line="42"/>
         <source>Remove net segment</source>
-        <translation>Odstrániť segment spoja</translation>
+        <translation>Odstrániť segment prepojenia</translation>
     </message>
 </context>
 <context>
@@ -8483,7 +8483,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardnetsegmentremoveelements.cpp" line="44"/>
         <source>Remove net segment elements</source>
-        <translation>Odstrániť elementy segmentu spoja</translation>
+        <translation>Odstrániť elementy segmentu prepojenia</translation>
     </message>
 </context>
 <context>
@@ -8611,7 +8611,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdchangenetsignalofschematicnetsegment.cpp" line="54"/>
         <source>Change netsignal of netsegment</source>
-        <translation>Zmeniť signál segmentu spoja</translation>
+        <translation>Zmeniť signál segmentu prepojenia</translation>
     </message>
 </context>
 <context>
@@ -8632,7 +8632,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="135"/>
         <source>There are multiple different nets with forced names at this position.</source>
-        <translation>Na tejto pozícii je niekoľko rôznych signálov s manuálne nastavenými názvami. </translation>
+        <translation>Na tejto pozícii je niekoľko rôznych prepojení s manuálne nastavenými názvami. </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="198"/>
@@ -8646,7 +8646,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombineboardnetsegments.cpp" line="49"/>
         <source>Combine Board Net Segments</source>
-        <translation>Zlúčiť signály spojov dosky</translation>
+        <translation>Zlúčiť segmenty prepojení dosky</translation>
     </message>
 </context>
 <context>
@@ -8654,7 +8654,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombinenetsignals.cpp" line="59"/>
         <source>Combine Net Signals</source>
-        <translation>Zlúčiť signály spojov</translation>
+        <translation>Zlúčiť signály prepojení</translation>
     </message>
 </context>
 <context>
@@ -8662,7 +8662,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombineschematicnetsegments.cpp" line="52"/>
         <source>Combine Schematic Net Segments</source>
-        <translation>Zlúčiť signály spojov schémy</translation>
+        <translation>Zlúčiť segmenty prepojení schémy</translation>
     </message>
 </context>
 <context>
@@ -8924,7 +8924,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetclassadd.cpp" line="42"/>
         <source>Add netclass</source>
-        <translation>Pridať triedu signálov</translation>
+        <translation>Pridať triedu prepojení</translation>
     </message>
 </context>
 <context>
@@ -8932,7 +8932,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetclassedit.cpp" line="41"/>
         <source>Edit netclass</source>
-        <translation>Upraviť triedu signálov</translation>
+        <translation>Upraviť triedu prepojení</translation>
     </message>
 </context>
 <context>
@@ -8940,7 +8940,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetclassremove.cpp" line="41"/>
         <source>Remove netclass</source>
-        <translation>Odstrániť triedu signálov</translation>
+        <translation>Odstrániť triedu prepojení</translation>
     </message>
 </context>
 <context>
@@ -8948,7 +8948,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetsignaladd.cpp" line="43"/>
         <source>Add netsignal</source>
-        <translation>Pridať signál spoja</translation>
+        <translation>Pridať signál prepojenia</translation>
     </message>
 </context>
 <context>
@@ -8956,7 +8956,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetsignaledit.cpp" line="42"/>
         <source>Edit netsignal</source>
-        <translation>Upraviť signál spoja</translation>
+        <translation>Upraviť signál prepojenia</translation>
     </message>
 </context>
 <context>
@@ -8964,7 +8964,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdnetsignalremove.cpp" line="42"/>
         <source>Remove netsignal</source>
-        <translation>Odstrániť signál spoja</translation>
+        <translation>Odstrániť signál prepojenia</translation>
     </message>
 </context>
 <context>
@@ -9116,7 +9116,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdremoveunusednetsignals.cpp" line="45"/>
         <source>Remove Unused Net Signals</source>
-        <translation>Odstrániť nepoužité signály spojov</translation>
+        <translation>Odstrániť nepoužité signály prepojení</translation>
     </message>
 </context>
 <context>
@@ -9148,7 +9148,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeladd.cpp" line="41"/>
         <source>Add Net Label</source>
-        <translation>Pridať označenie spoja</translation>
+        <translation>Pridať označenie prepojenia</translation>
     </message>
 </context>
 <context>
@@ -9156,7 +9156,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeledit.cpp" line="41"/>
         <source>Edit netlabel</source>
-        <translation>Upraviť označenie spoja</translation>
+        <translation>Upraviť označenie prepojenia</translation>
     </message>
 </context>
 <context>
@@ -9164,7 +9164,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabelremove.cpp" line="43"/>
         <source>Remove netlabel</source>
-        <translation>Odstrániť označenie spoja</translation>
+        <translation>Odstrániť označenie prepojenia</translation>
     </message>
 </context>
 <context>
@@ -9172,7 +9172,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetpointedit.cpp" line="40"/>
         <source>Edit netpoint</source>
-        <translation>Upraviť signálny bod</translation>
+        <translation>Upraviť bod prepojenia</translation>
     </message>
 </context>
 <context>
@@ -9181,7 +9181,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetsegmentadd.cpp" line="42"/>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetsegmentadd.cpp" line="50"/>
         <source>Add net segment</source>
-        <translation>Pridať segment spoja</translation>
+        <translation>Pridať segment prepojenia</translation>
     </message>
 </context>
 <context>
@@ -9189,7 +9189,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetsegmentaddelements.cpp" line="43"/>
         <source>Add net segment elements</source>
-        <translation>Pridať elementy segmentu spoja</translation>
+        <translation>Pridať elementy segmentu prepojenia</translation>
     </message>
 </context>
 <context>
@@ -9197,7 +9197,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetsegmentedit.cpp" line="41"/>
         <source>Edit net segment</source>
-        <translation>Upraviť segment spoja</translation>
+        <translation>Upraviť segment prepojenia</translation>
     </message>
 </context>
 <context>
@@ -9205,7 +9205,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetsegmentremove.cpp" line="42"/>
         <source>Remove net segment</source>
-        <translation>Odstrániť segment spoja</translation>
+        <translation>Odstrániť segment prepojenia</translation>
     </message>
 </context>
 <context>
@@ -9213,7 +9213,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetsegmentremoveelements.cpp" line="44"/>
         <source>Remove net segment elements</source>
-        <translation>Odstrániť elementy segmentu spoja</translation>
+        <translation>Odstrániť elementy segmentu prepojenia</translation>
     </message>
 </context>
 <context>
@@ -9377,7 +9377,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="129"/>
         <source>Mount</source>
-        <translation type="unfinished"/>
+        <translation>Montáž</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="130"/>
@@ -9392,7 +9392,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="132"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"/>
+        <translation>Výrobca</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="133"/>
@@ -9735,7 +9735,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="230"/>
         <source>Forced Net</source>
-        <translation>Signál s manuálne nastaveným názvom</translation>
+        <translation>Prepojenie s manuálne nastaveným názvom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="238"/>
@@ -10134,13 +10134,13 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="108"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Dosky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="122"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="189"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="132"/>
@@ -10186,7 +10186,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="298"/>
         <source>Pinout</source>
-        <translation type="unfinished"/>
+        <translation>Zapojenie vývodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="329"/>
@@ -10376,7 +10376,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="109"/>
         <source>Footprint</source>
-        <translation type="unfinished"/>
+        <translation>Púzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="147"/>
@@ -10409,12 +10409,12 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="169"/>
         <source>Pad</source>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="171"/>
         <source>Signal</source>
-        <translation type="unfinished"/>
+        <translation>Signál</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="205"/>
@@ -11345,7 +11345,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="63"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Dosky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="73"/>
@@ -11421,7 +11421,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="252"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="259"/>
@@ -11501,13 +11501,13 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="100"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Dosky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="114"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="181"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="124"/>
@@ -11846,7 +11846,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="93"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Výstup:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="144"/>
@@ -11966,7 +11966,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="566"/>
         <source>Monochrome</source>
-        <translation type="unfinished"/>
+        <translation>Jednofarebne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="574"/>
@@ -12714,7 +12714,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="514"/>
         <source>Manufacturer:</source>
-        <translation type="unfinished"/>
+        <translation>Výrobca:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="521"/>
@@ -12816,7 +12816,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/lppzoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Výstup:</translation>
     </message>
 </context>
 <context>
@@ -12887,17 +12887,17 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Výstup:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="84"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Dosky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="98"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="105"/>
@@ -13741,12 +13741,12 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="211"/>
         <source>Generic</source>
-        <translation type="unfinished"/>
+        <translation>Všeobecné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="233"/>
         <source>(copy)</source>
-        <translation type="unfinished"/>
+        <translation>(kópia)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="299"/>
@@ -13797,7 +13797,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="637"/>
         <source>SUCCESS!</source>
-        <translation type="unfinished"/>
+        <translation>ÚSPEŠNÉ!</translation>
     </message>
 </context>
 <context>
@@ -14455,7 +14455,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="300"/>
         <source>3D Models</source>
-        <translation type="unfinished"/>
+        <translation>3D modely</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="315"/>
@@ -14576,7 +14576,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="256"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"/>
+        <translation>Výrobca</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="258"/>
@@ -14652,13 +14652,13 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="77"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Dosky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="91"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="158"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Všetko</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="101"/>
@@ -14705,7 +14705,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="261"/>
         <source>Technologies:</source>
-        <translation type="unfinished"/>
+        <translation>Technológie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="270"/>
@@ -14715,12 +14715,12 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="277"/>
         <source>SMT</source>
-        <translation type="unfinished"/>
+        <translation>SMT</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="284"/>
         <source>Mixed</source>
-        <translation type="unfinished"/>
+        <translation>Zmiešané</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="291"/>
@@ -14861,7 +14861,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/projectjsonoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Výstup:</translation>
     </message>
 </context>
 <context>
@@ -15026,12 +15026,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="257"/>
         <source>Net Classes</source>
-        <translation>Triedy signálov</translation>
+        <translation>Triedy prepojení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="278"/>
         <source>Add Net Class:</source>
-        <translation>Pridať triedu signálov:</translation>
+        <translation>Pridať triedu prepojení:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="288"/>
@@ -15041,7 +15041,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="305"/>
         <source>Note: Checked net classes are in use and thus cannot be removed.</source>
-        <translation>Poznámka: Označené triedy signálov sú použité a preto ich nemožno odstrániť.</translation>
+        <translation>Poznámka: Označené triedy prepojení sú použité a preto ich nemožno odstrániť.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="313"/>
@@ -15064,28 +15064,28 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.ui" line="20"/>
         <source>Rename net segment</source>
-        <translation>Premenovať časť spoja</translation>
+        <translation>Premenovať časť prepojenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.ui" line="28"/>
         <source>Net name:</source>
-        <translation>Názov spoja:</translation>
+        <translation>Názov prepojenia:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.ui" line="50"/>
         <source>Rename only this net segment</source>
-        <translation>Premenovať len túto časť spoja</translation>
+        <translation>Premenovať len túto časť prepojenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.ui" line="60"/>
         <source>Rename whole net (%1 segments)</source>
         <extracomment>Number of segments (&gt;=1)</extracomment>
-        <translation>Premenovať celý spoj (%1 častí)</translation>
+        <translation>Premenovať celé prepojenie (%1 častí)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.cpp" line="136"/>
         <source>Change net of net segment</source>
-        <translation>Zmeniť spoj signálu</translation>
+        <translation>Zmeniť prepojenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.cpp" line="154"/>
@@ -15100,22 +15100,22 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.cpp" line="174"/>
         <source>The whole net &apos;%1&apos; will be merged into the net &apos;%2&apos;.</source>
-        <translation>Celý spoj &apos;%1&apos; bude zlúčený do spoja &apos;%2&apos;.</translation>
+        <translation>Celé prepojenie &apos;%1&apos; bude zlúčené do prepojenia &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.cpp" line="178"/>
         <source>The whole net &apos;%1&apos; will be renamed to &apos;%2&apos;.</source>
-        <translation>Celý spoj &apos;%1&apos; bude premenovaný na &apos;%2&apos;.</translation>
+        <translation>Celé prepojenie &apos;%1&apos; bude premenované na &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.cpp" line="182"/>
         <source>The segment will be moved to the existing net &apos;%1&apos;.</source>
-        <translation>Segment bude presunutý do jestvujúceho spoja &apos;%1&apos;.</translation>
+        <translation>Segment bude presunutý do jestvujúceho prepojenia &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.cpp" line="187"/>
         <source>The segment will be moved to the new net &apos;%1&apos;.</source>
-        <translation>Segment bude presunutý do nového spoja &apos;%1&apos;.</translation>
+        <translation>Segment bude presunutý do nového prepojenia &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.cpp" line="198"/>
@@ -15346,7 +15346,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="181"/>
         <source>Add Net Label to Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Pridať označenie prepojenia do schémy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addnetlabel.cpp" line="198"/>
@@ -15428,13 +15428,13 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="317"/>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="583"/>
         <source>Invalid net name</source>
-        <translation>Neplatný názov spoja</translation>
+        <translation>Neplatný názov prepojenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="318"/>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="585"/>
         <source>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</source>
-        <translation>Nie je možné manuálne nastaviť názov signálu &apos;%1&apos;, pretože názov nie je platný.</translation>
+        <translation>Nie je možné manuálne nastaviť názov prepojenia &apos;%1&apos;, pretože názov nie je platný.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="418"/>
@@ -16442,7 +16442,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="743"/>
         <source>Internet Access</source>
-        <translation type="unfinished"/>
+        <translation>Prístup na internet</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="749"/>
@@ -16617,7 +16617,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="636"/>
         <source>Not installed</source>
-        <translation type="unfinished"/>
+        <translation>Nenainštalované</translation>
     </message>
 </context>
 <context>
@@ -16630,7 +16630,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="27"/>
         <source>Rules</source>
-        <translation type="unfinished"/>
+        <translation>Pravidlá</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="48"/>
