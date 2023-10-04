@@ -7701,7 +7701,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="67"/>
         <source>Total PCB Thickness:</source>
-        <translation>Celková tloušťka plošného spoje:</translation>
+        <translation>Tloušťka plošného spoje:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="90"/>
@@ -7721,7 +7721,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="211"/>
         <source>These settings might not be supported and/or automatically taken into account by the PCB manufacturer. Always check/specify these manufacturing properties manually when ordering the PCB.</source>
-        <translation type="unfinished"/>
+        <translation>Tato nastavení nemusí být podporována a/nebo vzata do úvahy výrobcem plošného spoje. Vždy si zkontrolujte nebo specifikujte tyto výrobní požadavky při objednávce plošného spoje. </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="225"/>
@@ -7731,7 +7731,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="231"/>
         <source>Ratio (% of Diameter)</source>
-        <translation type="unfinished"/>
+        <translation>Poměr (% průměru)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="247"/>
@@ -7746,7 +7746,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="272"/>
         <source>Note: These settings define the shape of board objects which are automatically generated (e.g. stop masks, where not manually overridden). They are not related to the design rule check (DRC) at all. In contrast to these settings, DRC parameters do not have any impact on the board.</source>
-        <translation type="unfinished"/>
+        <translation>Poznámka: Tato nastavení definují tvary objektů na desce které jsou automaticky generované (například nepájivá maska), které nejsou ručně přepsané. Tyto vůbec nesouvisí s kontrolou návrhových pravidel (DRC). Naproti těmto nastavením, parametry DRC nemodifikují desku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="285"/>
@@ -7773,7 +7773,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="402"/>
         <source>Autom. Pads Annular Ring:</source>
-        <translation>Autom. mezikruží pájecích plošek:</translation>
+        <translation>Autom. mezikruží plošek:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="409"/>
@@ -7783,7 +7783,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="416"/>
         <source>Maximum</source>
-        <translation>Maximum</translation>
+        <translation>Maximálně</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="429"/>
@@ -7793,7 +7793,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="451"/>
         <source>Minimum</source>
-        <translation>Minimum</translation>
+        <translation>Minimálně</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="464"/>
@@ -7803,7 +7803,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="467"/>
         <source>Tented Vias Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Průměr vyplněných prokovů:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="478"/>
@@ -7813,7 +7813,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="552"/>
         <source>NPTH Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Průměr vrtání NPTH:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="559"/>
@@ -7833,12 +7833,12 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="586"/>
         <source>Copper Width:</source>
-        <translation type="unfinished"/>
+        <translation>Šířka spoje:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="619"/>
         <source>Minimum Sizes</source>
-        <translation type="unfinished"/>
+        <translation>Nejmenší velikosti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="641"/>
@@ -7873,12 +7873,12 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="714"/>
         <source>Blind Vias</source>
-        <translation>Slepé prokovy:</translation>
+        <translation>Slepé prokovy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="724"/>
         <source>PTH Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>Mezikruží PTH:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="731"/>
@@ -7888,7 +7888,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="734"/>
         <source>Buried Vias</source>
-        <translation>Pohřbené prokovy:</translation>
+        <translation>Pohřbené prokovy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="750"/>
@@ -7898,7 +7898,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="753"/>
         <source>Outline Tool Diameter:</source>
-        <translation>Průměr obrysového nástroje:</translation>
+        <translation>Průměr frézy obrysu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="781"/>
@@ -7933,7 +7933,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="841"/>
         <source>PTH Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Průměr vrtání PTH:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="871"/>
