@@ -3566,7 +3566,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="244"/>
         <source>PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>PDF/Obrázok</translation>
     </message>
 </context>
 <context>
@@ -7401,7 +7401,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="131"/>
         <source>No Devices</source>
-        <translation type="unfinished"/>
+        <translation>Žiadne súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="212"/>
@@ -14200,7 +14200,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="128"/>
         <source>No Devices</source>
-        <translation type="unfinished"/>
+        <translation>Žiadne súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="139"/>
@@ -15243,7 +15243,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="706"/>
         <source>Find symbol...</source>
-        <translation>Vyhľadať komponent...</translation>
+        <translation>Vyhľadávanie sch. značky...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="720"/>
@@ -15301,7 +15301,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1214"/>
         <source>Preparing schematics...</source>
-        <translation>Pripravujem dáta schém...</translation>
+        <translation>Pripravovanie schém...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1214"/>
@@ -16298,12 +16298,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="180"/>
         <source>Install...</source>
-        <translation>Inštalácia...</translation>
+        <translation>Inštalovanie...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="187"/>
         <source>Uninstall...</source>
-        <translation>Odinštalácia...</translation>
+        <translation>Odinštalovanie...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="212"/>
@@ -16382,7 +16382,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="520"/>
         <source>Type to filter...</source>
-        <translation>Písaním začať filtráciu....</translation>
+        <translation>Písaním filtrovanie....</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="531"/>
@@ -16670,7 +16670,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="81"/>
         <source>No devices</source>
-        <translation type="unfinished"/>
+        <translation>Žiadne súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="91"/>
