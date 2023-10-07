@@ -30,7 +30,7 @@
     <message>
         <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="124"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
-        <translation>Невірний тип атрибуту: &quot;%1&quot;</translation>
+        <translation>Недійсний тип атрибуту: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -154,12 +154,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="92"/>
         <source>Open a STEP model to execute STEP-related tasks outside of a library.</source>
-        <translation type="unfinished"/>
+        <translation>Відкрийте модель STEP, щоб виконувати пов’язані зі STEP завдання поза бібліотекою.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="99"/>
         <source>LibrePCB Command Line Interface</source>
-        <translation>Інтерфейс командного рядка LibrePCB</translation>
+        <translation>Інтерфейс Командного Рядка LibrePCB</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="102"/>
@@ -189,7 +189,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="121"/>
         <source>Run the design rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation>Виконати перевірку правил дизайну, надрукувати всі непідтверджені попередження/помилки і повідомити про невдачу (код виходу = 1), якщо є непідтверджені повідомлення.</translation>
+        <translation>Виконати перевірку правил дизайну, надрукувати всі не затверджені попередження/помилки і повідомити про невдачу (код виходу = 1), якщо є не затверджені повідомлення.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="126"/>
@@ -347,7 +347,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="251"/>
         <source>Run the library element check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation>Виконати перевірку елемента бібліотеки, надрукувати всі непідтверджені повідомлення і повідомити про невдачу (код виходу = 1), якщо є непідтверджені повідомлення.</translation>
+        <translation>Виконати перевірку елемента бібліотеки, надрукувати всі несхвалені повідомлення і повідомити про невдачу (код виходу = 1), якщо є несхвалені повідомлення.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="255"/>
@@ -367,17 +367,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="269"/>
         <source>Minify the STEP model before validating it. Use in conjunction with &apos;%1&apos; to save the output of the operation.</source>
-        <translation type="unfinished"/>
+        <translation>Зменшити розмір STEP-моделі перед перевіркою. Використовуйте в поєднанні з &apos;%1&apos;, щоб зберегти результат операції.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="274"/>
         <source>Tesselate the loaded STEP model to check if LibrePCB is able to render it. Reports failure (exit code = 1) if no content is detected.</source>
-        <translation type="unfinished"/>
+        <translation>Теселяція завантаженої моделі STEP, щоб перевірити, чи LibrePCB може її відобразити. Повідомляє про невдачу (код виходу = 1), якщо вміст не виявлено.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="279"/>
         <source>Write the (modified) STEP file to this output location (may be equal to the opened file path). Only makes sense in conjunction with &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти (змінений) файл STEP за цим шляхом (може бути шляхом до відкритого файлу). Має сенс лише в поєднанні з &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="286"/>
@@ -407,7 +407,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="348"/>
         <source>Path to the STEP file (%1).</source>
-        <translation type="unfinished"/>
+        <translation>Шлях до файлу STEP (%1).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="354"/>
@@ -3320,7 +3320,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="78"/>
         <source>The wire has an open (unconnected) end with no net label attached, thus is looks like a mistake. Check if a connection to another wire or pin is missing (denoted by a cross mark).</source>
-        <translation>Дріт має відкритий (непідключений) кінець без приєднаної мітки мережі, тому він виглядає як помилка. Перевірте, чи не втрачено з&apos;єднання з іншим дротом або контактом (позначено хрестиком).</translation>
+        <translation>Дріт має відкритий (не з&apos;єднаний) кінець без приєднаної мітки мережі, тому він виглядає як помилка. Перевірте, чи не втрачено з&apos;єднання з іншим дротом або контактом (позначено хрестиком).</translation>
     </message>
 </context>
 <context>
@@ -3328,7 +3328,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="210"/>
         <source>Unconnected junction in net: &apos;%1&apos;</source>
-        <translation>Нез&apos;єднаний з&apos;єднувальний вузол в мережі: &apos;%1&apos;</translation>
+        <translation>Від&apos;єднане перехрестя в мережі: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -3336,7 +3336,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="93"/>
         <source>Unconnected component signal: &apos;%1:%2&apos;</source>
-        <translation>Непідключений сигнал компонента: &apos;%1:%2&apos;</translation>
+        <translation>Від&apos;єднаний сигнал компонента: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="96"/>
@@ -3800,7 +3800,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="242"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
-        <translation>Невірна одиниця довжини: &quot;%1&quot;</translation>
+        <translation>Недійсна одиниця довжини: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -5215,7 +5215,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/utils/toolbox.h" line="627"/>
         <source>Invalid fixed point number string: &quot;%1&quot;</source>
-        <translation>Невірне число з фіксованою точкою: &quot;%1&quot;</translation>
+        <translation>Недійсне число з фіксованою комою: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -5231,7 +5231,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/version.cpp" line="97"/>
         <source>Invalid version number: &quot;%1&quot;</source>
-        <translation>Невірний номер версії: &quot;%1&quot;</translation>
+        <translation>Недійсний номер версії: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -6001,7 +6001,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="72"/>
         <source>Invalid database: &quot;%1&quot;</source>
-        <translation>Невірна база даних: &quot;%1&quot;</translation>
+        <translation>Недійсна база даних: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/sqlitedatabase.cpp" line="80"/>
@@ -6780,7 +6780,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="324"/>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="329"/>
         <source>Invalid Input</source>
-        <translation>Невірний ввід</translation>
+        <translation>Недійсний Ввід</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="193"/>
@@ -7645,7 +7645,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="91"/>
         <source>Do not delete unconnected copper areas (islands)</source>
-        <translation>Не видаляти непідключені мідні області (острови)</translation>
+        <translation>Не видаляти не підключені мідні області (острови)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="94"/>
@@ -7986,7 +7986,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="142"/>
         <source>&lt;p&gt;Don&apos;t use the defined pad shape, but automatic annular rings calculated by the parameters below. The annular ring of unconnected pads is reduced to the specified mimimum value.&lt;/p&gt;&lt;p&gt;This option is more space-efficient, but works only reliable if the entered parameters comply with the PCB manufacturers capabilities.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Не використовуйте визначену форму пластини, але автоматичні кільцеві кільця, розраховані за параметрами нижче. Кільцеве кільце непідключених пластин зменшується до вказаного мінімального значення.&lt;/p&gt;&lt;p&gt;Цей параметр ефективніший за простором, але працює надійно, якщо введені параметри відповідають можливостям виробника печатних плат.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Не використовуйте визначену форму пластини, але автоматичні кільцеві кільця, розраховані за параметрами нижче. Кільцеве кільце не підключених пластин зменшується до вказаного мінімального значення.&lt;/p&gt;&lt;p&gt;Цей параметр ефективніший за простором, але працює надійно, якщо введені параметри відповідають можливостям виробника печатних плат.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="219"/>
@@ -9526,7 +9526,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.cpp" line="119"/>
         <source>Invalid metadata</source>
-        <translation>Невірні метадані</translation>
+        <translation>Недійсні метадані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.cpp" line="129"/>
@@ -9667,7 +9667,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="160"/>
         <source>Invalid metadata</source>
-        <translation>Невірні метадані</translation>
+        <translation>Недійсні метадані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="171"/>
@@ -9697,7 +9697,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="221"/>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="384"/>
         <source>unconnected</source>
-        <translation>непідключений</translation>
+        <translation>не підключений</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="258"/>
@@ -9747,7 +9747,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="189"/>
         <source>If unchecked, it&apos;s allowed to leave the signal unconnected in schematics.</source>
-        <translation>Якщо не відмічено, то дозволяється залишити сигнал непідключеним в схемі.</translation>
+        <translation>Якщо не відмічено, то дозволяється залишити сигнал не підключеним в схемі.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="226"/>
@@ -10273,7 +10273,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="195"/>
         <source>Invalid metadata</source>
-        <translation>Невірні метадані</translation>
+        <translation>Недійсні метадані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="206"/>
@@ -10451,7 +10451,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="258"/>
         <source>unconnected</source>
-        <translation>непідключений</translation>
+        <translation>не підключений</translation>
     </message>
 </context>
 <context>
@@ -13343,7 +13343,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.cpp" line="99"/>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.cpp" line="112"/>
         <source>Invalid name!</source>
-        <translation>Невірне ім&apos;я!</translation>
+        <translation>Недійсне ім&apos;я!</translation>
     </message>
 </context>
 <context>
@@ -13436,7 +13436,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="218"/>
         <source>Invalid filepath</source>
-        <translation>Невірний шлях до файлу</translation>
+        <translation>Недійсний шлях до файлу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="219"/>
@@ -13532,7 +13532,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="240"/>
         <source>Error: Invalid UUID</source>
-        <translation>Помилка: Невірний UUID</translation>
+        <translation>Помилка: Недійсний UUID</translation>
     </message>
 </context>
 <context>
@@ -13705,42 +13705,42 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="89"/>
         <source>Add a new job</source>
-        <translation type="unfinished"/>
+        <translation>Додати нове завдання</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="109"/>
         <source>Duplicate the selected job</source>
-        <translation type="unfinished"/>
+        <translation>Дублювати вибране завдання</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="129"/>
         <source>Move selected job up</source>
-        <translation type="unfinished"/>
+        <translation>Перемістити вибране завдання вгору</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="149"/>
         <source>Move selected job down</source>
-        <translation type="unfinished"/>
+        <translation>Перемістити вибране завдання вниз</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="169"/>
         <source>Remove selected job</source>
-        <translation type="unfinished"/>
+        <translation>Видалити вибране завдання</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="252"/>
         <source>Show/hide output messages</source>
-        <translation type="unfinished"/>
+        <translation>Показати/приховати вихідні повідомлення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="255"/>
         <source>Messages</source>
-        <translation type="unfinished"/>
+        <translation>Повідомлення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="274"/>
         <source>Remove unknown files in output directory</source>
-        <translation type="unfinished"/>
+        <translation>Видалити невідомі файли в вихідній директорії</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="181"/>
@@ -13750,68 +13750,68 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="183"/>
         <source>Schematic PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>Схема PDF/Зображення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="186"/>
         <source>Board Assembly PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>Збірка Плати PDF/Зображення</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="188"/>
         <source>Production Data</source>
-        <translation type="unfinished"/>
+        <translation>Виробничі Дані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="194"/>
         <source>Protel Style</source>
-        <translation type="unfinished"/>
+        <translation>Стиль Protel</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="211"/>
         <source>Generic</source>
-        <translation type="unfinished"/>
+        <translation>Загальний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="233"/>
         <source>(copy)</source>
-        <translation type="unfinished"/>
+        <translation>(копія)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="299"/>
         <source>No unknown files in output directory.</source>
-        <translation type="unfinished"/>
+        <translation>Немає невідомих файлів в вихідній директорії.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="304"/>
         <source>Are you sure to remove the following files?</source>
-        <translation type="unfinished"/>
+        <translation>Ви впевнені, що хочете видалити наступні файли?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="313"/>
         <source> • And %1 more files!</source>
-        <translation type="unfinished"/>
+        <translation> • І %1 інших файлів!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="316"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="320"/>
         <source>Remove Unknown Files</source>
-        <translation type="unfinished"/>
+        <translation>Видалити Невідомі Файли</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="402"/>
         <source>Unknown files in output folder</source>
-        <translation type="unfinished"/>
+        <translation>Невідомі файли в вихідній папці</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="408"/>
         <source>Finished with warnings!</source>
-        <translation type="unfinished"/>
+        <translation>Завершено з попередженнями!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="488"/>
         <source>Unknown job type. You may need a more recent LibrePCB version to modify this job.</source>
-        <translation type="unfinished"/>
+        <translation>Невідомий тип завдання. Вам може знадобитися більш нова версія LibrePCB, щоб змінити це завдання.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="533"/>
@@ -13826,7 +13826,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="637"/>
         <source>SUCCESS!</source>
-        <translation type="unfinished"/>
+        <translation>УСПІХ!</translation>
     </message>
 </context>
 <context>
@@ -13894,7 +13894,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.cpp" line="119"/>
         <source>Invalid metadata</source>
-        <translation>Невірні метадані</translation>
+        <translation>Недійсні метадані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.cpp" line="129"/>
@@ -13937,7 +13937,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="254"/>
         <source>Invalid Selection</source>
-        <translation>Неправильний вибір</translation>
+        <translation>Хибний Вибір</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="255"/>
@@ -14303,17 +14303,17 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1101"/>
         <source>Generate package outline</source>
-        <translation type="unfinished"/>
+        <translation>Згенерувати контур корпусу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1170"/>
         <source>No Content</source>
-        <translation type="unfinished"/>
+        <translation>Немає Вмісту</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1171"/>
         <source>No content (e.g. pads or documentation polygons) found to generate the package outline from. Please add at least the pads before invoking this command.</source>
-        <translation type="unfinished"/>
+        <translation>Не знайдено вмісту (наприклад, підкладок або полігонів документації), з якого можна згенерувати контур корпусу. Будь ласка, додайте принаймні підкладки, перш ніж викликати цю команду.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1191"/>
@@ -14431,7 +14431,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="329"/>
         <source>Invalid metadata</source>
-        <translation>Невірні метадані</translation>
+        <translation>Недійсні метадані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="340"/>
@@ -14671,7 +14671,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="40"/>
         <source>CSV pick&amp;place position file export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Експорт CSV файлу позицій pick&amp;place для плат.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="57"/>
@@ -14719,7 +14719,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="231"/>
         <source>Output Combined:</source>
-        <translation type="unfinished"/>
+        <translation>Вивід Комбінований:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="247"/>
@@ -14729,32 +14729,32 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="254"/>
         <source>Include metadata as comments</source>
-        <translation type="unfinished"/>
+        <translation>Включити метадані як коментарі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="261"/>
         <source>Technologies:</source>
-        <translation type="unfinished"/>
+        <translation>Технології:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="270"/>
         <source>THT</source>
-        <translation type="unfinished"/>
+        <translation>THT</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="277"/>
         <source>SMT</source>
-        <translation type="unfinished"/>
+        <translation>SMT</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="284"/>
         <source>Mixed</source>
-        <translation type="unfinished"/>
+        <translation>Змішані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="291"/>
         <source>Fiducial</source>
-        <translation type="unfinished"/>
+        <translation>Фідуціали</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="298"/>
@@ -14880,7 +14880,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/projectjsonoutputjobwidget.ui" line="40"/>
         <source>Export general project data to a machine-readable JSON file.</source>
-        <translation type="unfinished"/>
+        <translation>Експорт загальних даних проекту у машинно-читабельний JSON файл.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/projectjsonoutputjobwidget.ui" line="57"/>
@@ -15012,7 +15012,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="64"/>
         <source>Mandatory, must not be empty!</source>
-        <translation type="unfinished"/>
+        <translation>Обов&apos;язково, не може бути порожнім!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="71"/>
@@ -15298,7 +15298,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1046"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation>Неправильне ім&apos;я: &apos;%1&apos;</translation>
+        <translation>Недійсне ім&apos;я: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1055"/>
@@ -15448,7 +15448,7 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="317"/>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="583"/>
         <source>Invalid net name</source>
-        <translation>Неправильне ім&apos;я мережі</translation>
+        <translation>Недійсне ім&apos;я мережі</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_drawwire.cpp" line="318"/>
@@ -15503,7 +15503,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/searchtoolbar.cpp" line="56"/>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Пошук</translation>
     </message>
 </context>
 <context>
@@ -15625,7 +15625,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="255"/>
         <source>Invalid Selection</source>
-        <translation>Неправильний вибір</translation>
+        <translation>Недійсний Вибір</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="256"/>
@@ -15900,7 +15900,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="257"/>
         <source>Invalid metadata</source>
-        <translation>Невірні метадані</translation>
+        <translation>Недійсні метадані</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="268"/>
