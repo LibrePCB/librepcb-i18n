@@ -154,7 +154,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="92"/>
         <source>Open a STEP model to execute STEP-related tasks outside of a library.</source>
-        <translation type="unfinished"/>
+        <translation>Aprire un modello STEP per eseguire le operazioni chiamate ad uno STEP al di fuori della libreria.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="99"/>
@@ -179,7 +179,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="110"/>
         <source>The command to execute (see list below).</source>
-        <translation type="unfinished"/>
+        <translation>Comando da eseguire (vedi lista sotto)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="116"/>
@@ -189,7 +189,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="121"/>
         <source>Run the design rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Esegui il controllo delle regole di progetto, stampa tutti gli avvisi/errori non approvati e segnala l&apos;errore (codice uscita = 1) se ci sono messaggi non approvati.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="126"/>
