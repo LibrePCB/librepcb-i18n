@@ -4,12 +4,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/archiveoutputjob.cpp" line="40"/>
         <source>Output Archive</source>
-        <translation type="unfinished"/>
+        <translation>Archivio D&apos;uscita </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/archiveoutputjob.h" line="71"/>
         <source>Archive</source>
-        <translation type="unfinished"/>
+        <translation>Archivio </translation>
     </message>
 </context>
 <context>
@@ -38,32 +38,32 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="248"/>
         <source>Through-Hole Via</source>
-        <translation type="unfinished"/>
+        <translation>Via Foro Passante </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="250"/>
         <source>Blind Via</source>
-        <translation type="unfinished"/>
+        <translation>Via ceca</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="252"/>
         <source>Buried Via</source>
-        <translation type="unfinished"/>
+        <translation>Via interna</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="254"/>
         <source>Net: %1</source>
-        <translation type="unfinished"/>
+        <translation>Pista: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="256"/>
         <source>Start Layer: %1</source>
-        <translation type="unfinished"/>
+        <translation>Piano iniziale: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="257"/>
         <source>End Layer: %1</source>
-        <translation type="unfinished"/>
+        <translation>Piano finale: %1</translation>
     </message>
 </context>
 <context>
@@ -92,12 +92,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.cpp" line="40"/>
         <source>Bill of Materials</source>
-        <translation>Lista pezzi</translation>
+        <translation>Lista materiali </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.h" line="79"/>
         <source>Bill Of Materials</source>
-        <translation>Lista pezzi</translation>
+        <translation>Lista materiali</translation>
     </message>
 </context>
 <context>
