@@ -92,12 +92,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.cpp" line="40"/>
         <source>Bill of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Lista pezzi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.h" line="79"/>
         <source>Bill Of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Lista pezzi</translation>
     </message>
 </context>
 <context>
@@ -169,7 +169,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="105"/>
         <source>Displays version information.</source>
-        <translation type="unfinished"/>
+        <translation>Visualizza informazioni sulla versione</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="107"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
         <source>path</source>
-        <translation type="unfinished"/>
+        <translation>percorso</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
