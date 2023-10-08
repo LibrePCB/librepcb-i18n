@@ -71,12 +71,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/board3doutputjob.cpp" line="39"/>
         <source>STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>Modello STEP</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/board3doutputjob.h" line="73"/>
         <source>3D Model</source>
-        <translation type="unfinished"/>
+        <translation>Modello 3D</translation>
     </message>
 </context>
 <context>
@@ -84,7 +84,7 @@
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="53"/>
         <source>Depending on the capabilities of the PCB manufacturer, this could cause higher costs or even serious troubles during production, leading to a possibly non-functional PCB.</source>
-        <translation type="unfinished"/>
+        <translation>In funzione delle opzioni del produttore del PCB, questo potrebbe comportare costi maggiori ma anche gravi problemi durante la produzione, al limite un PCB non funzionante.</translation>
     </message>
 </context>
 <context>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../libs/librepcb/core/types/boundedunsignedratio.cpp" line="101"/>
         <source>Minimum value must not be greater than maximum value.</source>
-        <translation type="unfinished"/>
+        <translation>Il minimo deve essere più piccolo dela massimo.</translation>
     </message>
 </context>
 <context>
@@ -121,22 +121,22 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="95"/>
         <source>None (no text)</source>
-        <translation type="unfinished"/>
+        <translation>Vuoto (no testo)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="101"/>
         <source>Symbol pin name</source>
-        <translation type="unfinished"/>
+        <translation>Nome simbolo pin</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="107"/>
         <source>Component signal name</source>
-        <translation type="unfinished"/>
+        <translation>Nome componente segnale</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="113"/>
         <source>Schematic net name</source>
-        <translation type="unfinished"/>
+        <translation>Nome pista schematico </translation>
     </message>
 </context>
 <context>
