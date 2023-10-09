@@ -307,7 +307,7 @@
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="210"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="228"/>
         <source>index</source>
-        <translation type="unfinished"/>
+        <translation>index</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="213"/>
