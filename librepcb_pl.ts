@@ -76,7 +76,7 @@
     <message>
         <location filename="../libs/librepcb/core/job/board3doutputjob.h" line="73"/>
         <source>3D Model</source>
-        <translation type="unfinished"/>
+        <translation>Model 3D</translation>
     </message>
 </context>
 <context>
@@ -84,7 +84,7 @@
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="53"/>
         <source>Depending on the capabilities of the PCB manufacturer, this could cause higher costs or even serious troubles during production, leading to a possibly non-functional PCB.</source>
-        <translation type="unfinished"/>
+        <translation>W zależności od wybranego producenta PCB może to zwiększyć koszty jej wykonania lub spowodować poważne problemy podczas produkcji a nawet skutkować powstaniem wadliwej płytki PCB </translation>
     </message>
 </context>
 <context>
@@ -92,12 +92,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.cpp" line="40"/>
         <source>Bill of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Zestawinie materiałów</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.h" line="79"/>
         <source>Bill Of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Zestawinie materiałów</translation>
     </message>
 </context>
 <context>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../libs/librepcb/core/types/boundedunsignedratio.cpp" line="101"/>
         <source>Minimum value must not be greater than maximum value.</source>
-        <translation type="unfinished"/>
+        <translation>Minimalna wartość nie może być większa od maksymalnej</translation>
     </message>
 </context>
 <context>
@@ -144,12 +144,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="86"/>
         <source>Open a project to execute project-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz projekt aby wykonać zadania z nim związane.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="89"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz bibliotekę aby wykonać zadania z nią związane.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="92"/>
@@ -164,22 +164,22 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="102"/>
         <source>Print this message.</source>
-        <translation type="unfinished"/>
+        <translation>Wydrukuj wiadomość.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="105"/>
         <source>Displays version information.</source>
-        <translation type="unfinished"/>
+        <translation>Wyświetl informację o wersji.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="107"/>
         <source>Verbose output.</source>
-        <translation type="unfinished"/>
+        <translation>Polecenie do wykonania (zobacz listę poniżej)</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="110"/>
         <source>The command to execute (see list below).</source>
-        <translation type="unfinished"/>
+        <translation>Polecenie do wykonania (zobacz listę poniżej).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="116"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
         <source>path</source>
-        <translation type="unfinished"/>
+        <translation>ścieżka</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
