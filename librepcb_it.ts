@@ -194,7 +194,8 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="126"/>
         <source>Override DRC settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>Sostituisci le impostazioni del DRC fornendo un file * .lp contenente impostazioni personalizzate. Se non impostato, verranno invece utilizzate le impostazioni delle schede.
+ </translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="129"/>
@@ -226,7 +227,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
         <source>Run all existing output jobs.</source>
-        <translation type="unfinished"/>
+        <translation>Esegui tutti i lavori di uscita</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="139"/>
