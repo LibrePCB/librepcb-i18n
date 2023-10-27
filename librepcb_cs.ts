@@ -1550,7 +1550,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="168"/>
         <source>Bring the control panel window to front</source>
-        <translation type="unfinished"/>
+        <translation>Vytáhnout ovládací panel nahoru nad ostatní okna.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="176"/>
@@ -1560,7 +1560,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="177"/>
         <source>Choose another workspace to open</source>
-        <translation type="unfinished"/>
+        <translation>Vybrat jiný pracovní prostor, který má být otevřený.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="185"/>
@@ -1570,7 +1570,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="186"/>
         <source>Open the workspace settings dialog</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít dialog nastavení pracovního prostoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="194"/>
@@ -1580,7 +1580,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="195"/>
         <source>Scan all workspace libraries to update the cache</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizovat vyrovnávací paměť všech knihoven pracovního prostoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="203"/>
@@ -1700,7 +1700,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="303"/>
         <source>Update the project&apos;s library elements from workspace libraries</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizovat všechny knihovní prvky ze všech knihoven pracovního prostoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="312"/>
@@ -2542,7 +2542,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1062"/>
         <source>Insert components from the workspace libraries</source>
-        <translation type="unfinished"/>
+        <translation>Vložit komponenty z knihoven pracovního prostoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1070"/>
@@ -6082,12 +6082,12 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="154"/>
         <source>The directory &quot;%1&quot; is not a valid LibrePCB workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Složka &quot;%1&quot; není platný pracovní prostor LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="166"/>
         <source>The workspace &quot;%1&quot; requires LibrePCB %2 or later.</source>
-        <translation type="unfinished"/>
+        <translation>Pracovní prostor &quot;%1&quot; vyžaduje LibrePCB &quot;%2&quot; nebo novější.</translation>
     </message>
 </context>
 <context>
@@ -12837,7 +12837,8 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="70"/>
         <source>Permanently hide this message.
 This can be reverted in the workspace settings dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Dočasně skrýt tuto zprávu.
+Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="90"/>
@@ -13539,7 +13540,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="104"/>
         <source>This feature is not available because there is no API server configured in your workspace settings.</source>
-        <translation type="unfinished"/>
+        <translation>Tato vlastnost není dostupná, protože není nakonfigurován žádný API server ve vašem nastavení pracovního prostoru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="155"/>
@@ -16152,7 +16153,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="80"/>
         <source>No device or package for the selected component found in the library! Please add a suitable device and package to your workspace library.</source>
-        <translation type="unfinished"/>
+        <translation>Nebyla nalezena součástka ani pouzdro pro vybranou komponentu v knihovně! Prosím přidejte vhodnou součástku a pouzdro do vaší knihovny v pracovním prostoru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="108"/>
