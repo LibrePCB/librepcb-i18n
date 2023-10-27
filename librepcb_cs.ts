@@ -668,7 +668,7 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="749"/>
         <source>Clearance copper polygon ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Mezera měděný polygon↔obrys desky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="755"/>
@@ -847,12 +847,12 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1051"/>
         <source>Clearance drill ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Mezera vrtání↔obrys desky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1057"/>
         <source>The clearance between a drill and the board outline is smaller than the drill clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Mezera mezi vrtáním a obrysem desky je menší než mezera vrtání nakonfigurovaní v nastavení DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1060"/>
@@ -1061,12 +1061,12 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="217"/>
         <source>Board outline inner radius &lt; %1 %2</source>
         <comment>Placeholders: Minimum radius, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vnitřní poloměr obrysu desky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="220"/>
         <source>The board outline polygon is not manufacturable with the minimum tool diameter configured in the DRC settings due to edges with a smaller radius. Thus the actually produced board outline might contain larger edge radii and too small cutouts might even be missing completely.</source>
-        <translation type="unfinished"/>
+        <translation>Obrys desky není vyrobitelný za pomocí minimálního průměru nástroje, definovaným v nastavení DRC kvůli rohům s menším poloměrem. Proto produkovaný obrys desky může obsahovat větší poloměry a příliš malé výřezy  můžou úplně chybět.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="226"/>
@@ -1270,7 +1270,7 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="161"/>
         <source>Add a closed, zero-width polygon on the layer &apos;%1&apos; to draw the board outline.</source>
-        <translation type="unfinished"/>
+        <translation>Přidat uzavřený polygon nulové šířky čáry do vrstvy &apos;%1&apos; pro nakreslení obrysu desky</translation>
     </message>
 </context>
 <context>
@@ -2584,7 +2584,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1098"/>
         <source>Automatically generate the outline polygon</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky generovat obrys</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1106"/>
@@ -4036,12 +4036,12 @@ Pro všeobecná pouzdra (např. SOT23) platí, že plošky vývodů by měly bý
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="162"/>
         <source>Invalid custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný uživatelský obrys plošky &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="164"/>
         <source>The pad has set a custom outline which does not represent a valid area. Either choose a different pad shape or specify a valid custom outline.</source>
-        <translation type="unfinished"/>
+        <translation>Ploška má nastaven uživatelský obrys, který nereprezentuje platnou oblast. Buď vyberte jiný tvar plošky, nebo specifikujte platný uživatelský obrys.</translation>
     </message>
 </context>
 <context>
@@ -4118,7 +4118,7 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="193"/>
         <source>Often this is identical to the package outline but with a small offset. If you&apos;re unsure, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Toto je často stejné jako obrys pouzdra, ale s malým odsazením. Pokud si nejste jisti, ignorujte tuto zprávu,</translation>
     </message>
 </context>
 <context>
@@ -4527,7 +4527,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="649"/>
         <source>Unused custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepoužitý uživatelský obrys plošky &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="651"/>
@@ -10515,12 +10515,12 @@ If unchecked, you need to specify exact coordinates where the point (0,0) of the
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="100"/>
         <source>X-coordinate.</source>
-        <translation type="unfinished"/>
+        <translation>Souřadnice X.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="107"/>
         <source>Y-coordinate.</source>
-        <translation type="unfinished"/>
+        <translation>Souřadnice Y.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="116"/>
@@ -12821,12 +12821,12 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="480"/>
         <source>Click to specify the end point</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat koncový bod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="483"/>
         <source>Click to specify the start point</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat počáteční bod</translation>
     </message>
 </context>
 <context>
@@ -13493,7 +13493,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/3d/openglscenebuilder.cpp" line="121"/>
         <source>The board outline is invalid. Please add exactly one polygon on the &apos;%1&apos; layer and make sure it is closed. For more information, check out the documentation.</source>
-        <translation type="unfinished"/>
+        <translation>Obrys desky je neplatný. prosím přidejte přesně jeden mnohoúhelník do vrstvy &apos;%1&apos; a ujistěte se, že je uzavřený. Pro další informace, zkontrolujte dokumentaci.</translation>
     </message>
 </context>
 <context>
@@ -13523,12 +13523,12 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="94"/>
         <source>After upload, open web browser and close this dialog</source>
-        <translation type="unfinished"/>
+        <translation>Po nahrání, otevře prohlížeč a uzavře tento dialog</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="104"/>
         <source>Upload Project</source>
-        <translation type="unfinished"/>
+        <translation>Nahrát projekt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="160"/>
@@ -13548,28 +13548,28 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="155"/>
         <source>Exporting project...</source>
-        <translation type="unfinished"/>
+        <translation>Exportuji projekt ...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="175"/>
         <source>Uploading project...</source>
-        <translation type="unfinished"/>
+        <translation>Nahrávám projekt...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="202"/>
         <source>Success! Open %1 to continue.</source>
         <comment>Placeholder is an URL with hyperlink.</comment>
-        <translation type="unfinished"/>
+        <translation>Úspěch! Otevřete %1 pro pokračování.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="212"/>
         <source>Success! Opening %1...</source>
-        <translation type="unfinished"/>
+        <translation>Úspěch! Otevírám %1...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="214"/>
         <source>Failed to open %1</source>
-        <translation type="unfinished"/>
+        <translation>Nepodařilo se otevřít %1</translation>
     </message>
 </context>
 <context>
@@ -13625,7 +13625,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.ui" line="135"/>
         <source>Open the output directory</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít výstupní složku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="55"/>
@@ -13703,12 +13703,12 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="183"/>
         <source>Schematic PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>Schema PDF/Obrázek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="186"/>
         <source>Board Assembly PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>Osazovák PDF/Obrázek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="188"/>
@@ -13738,12 +13738,12 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="304"/>
         <source>Are you sure to remove the following files?</source>
-        <translation type="unfinished"/>
+        <translation>Jste si jisti, že chcete odstranit následující soubory?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="313"/>
         <source> • And %1 more files!</source>
-        <translation type="unfinished"/>
+        <translation> • A o %1 více souborů!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="316"/>
@@ -13759,7 +13759,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="408"/>
         <source>Finished with warnings!</source>
-        <translation type="unfinished"/>
+        <translation>Ukončeno s varováními!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="488"/>
@@ -13779,7 +13779,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="637"/>
         <source>SUCCESS!</source>
-        <translation type="unfinished"/>
+        <translation>Úspěch!</translation>
     </message>
 </context>
 <context>
@@ -14031,7 +14031,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="107"/>
         <source>Arc Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Úhel oblouku:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="117"/>
@@ -14041,7 +14041,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="121"/>
         <source>Fill polygon, if closed</source>
-        <translation type="unfinished"/>
+        <translation>Vyplnit uzavřený mnohoúhelník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="135"/>
@@ -14051,7 +14051,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="139"/>
         <source>Use polygon as grab area</source>
-        <translation type="unfinished"/>
+        <translation>Použít polygon jako uchycovací oblast</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="267"/>
@@ -14079,37 +14079,37 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="542"/>
         <source>Click to specify the first edge</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat první hranu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="545"/>
         <source>Click to specify the second edge</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat druhou hranu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="550"/>
         <source>Click to specify the arc center</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat střed oblouku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="553"/>
         <source>Click to specify the start point</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat počáteční bod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="556"/>
         <source>Click to specify the end point</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat koncový bod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="560"/>
         <source>Click to specify the first point</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat první bod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="563"/>
         <source>Click to specify the next point</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat další bod</translation>
     </message>
 </context>
 <context>
@@ -14187,7 +14187,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="139"/>
         <source>Arc Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Úhel oblouku:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="247"/>
@@ -14215,12 +14215,12 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="402"/>
         <source>Click to specify the first point</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat první bod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="404"/>
         <source>Click to specify the next point</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat další bod</translation>
     </message>
 </context>
 <context>
@@ -14276,7 +14276,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1216"/>
         <source>Generate courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Generovat ohrádku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1299"/>
@@ -14286,7 +14286,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1300"/>
         <source>The courtyard can only be generated if there&apos;s a package outline polygon or circle, so that needs to be added first.</source>
-        <translation type="unfinished"/>
+        <translation>Ohrádka může být generována pouze, pokud je zde obrys pouzdra nebo kružnice. Tyto je nutné prvně přidat.</translation>
     </message>
 </context>
 <context>
@@ -14299,7 +14299,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="89"/>
         <source>Toggle 2D/3D view</source>
-        <translation type="unfinished"/>
+        <translation>Přepnout zobrazení 2D/3D</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="181"/>
@@ -14349,37 +14349,37 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="305"/>
         <source>Assembly:</source>
-        <translation type="unfinished"/>
+        <translation>Montáž:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="135"/>
         <source>THT (all leads)</source>
-        <translation type="unfinished"/>
+        <translation>THT (všechny vývody)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="137"/>
         <source>SMT (all leads)</source>
-        <translation type="unfinished"/>
+        <translation>SMT (všechny vývody)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="139"/>
         <source>THT+SMT (mixed leads)</source>
-        <translation type="unfinished"/>
+        <translation>THT+SMT (kombinované vývody)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="142"/>
         <source>Other (included in BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>Jiné (vložit do BOM/PnP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="145"/>
         <source>None (excluded from BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>Žádné (vyjmout z BOM/PnP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="148"/>
         <source>Auto-detect (not recommended)</source>
-        <translation type="unfinished"/>
+        <translation>Autodetekce (nedoporučováno)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="329"/>
@@ -14399,12 +14399,12 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="922"/>
         <source>Apply to all unspecified pads</source>
-        <translation type="unfinished"/>
+        <translation>Aplikovat na všechny nespecifikované plošky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="944"/>
         <source>Fix Unspecified Pad Functions</source>
-        <translation type="unfinished"/>
+        <translation>Opravit funkci nespecifikovaných padů</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1051"/>
@@ -14432,12 +14432,12 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="256"/>
         <source>3D model name</source>
-        <translation type="unfinished"/>
+        <translation>Názec 3D modelu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="300"/>
         <source>3D Models</source>
-        <translation type="unfinished"/>
+        <translation>3D modely</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="315"/>
@@ -14447,17 +14447,17 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="318"/>
         <source>Add a new 3D model</source>
-        <translation type="unfinished"/>
+        <translation>Přidat nový 3D model</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="452"/>
         <source>There is already a 3D model with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>3D model pojmenovaný &quot;%1&quot; již existuje.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="463"/>
         <source>Choose STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>Vyberte model STEP</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="497"/>
@@ -14467,7 +14467,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="500"/>
         <source>Reason:</source>
-        <translation type="unfinished"/>
+        <translation>Důvod:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="502"/>
@@ -14548,7 +14548,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="222"/>
         <source>Name of the manufacturer</source>
-        <translation type="unfinished"/>
+        <translation>Jméno výrobce:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="254"/>
@@ -14682,7 +14682,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="254"/>
         <source>Include metadata as comments</source>
-        <translation type="unfinished"/>
+        <translation>Vložit metadata jako komentáře</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="261"/>
@@ -14697,7 +14697,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="277"/>
         <source>SMT</source>
-        <translation type="unfinished"/>
+        <translation>SMT</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="284"/>
@@ -14707,7 +14707,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="291"/>
         <source>Fiducial</source>
-        <translation type="unfinished"/>
+        <translation>Fiducial</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="298"/>
@@ -14778,12 +14778,12 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="194"/>
         <source>Severity</source>
-        <translation type="unfinished"/>
+        <translation>Důležitost</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="194"/>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>Verze</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="194"/>
@@ -14793,7 +14793,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="194"/>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>Zpráva</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="271"/>
@@ -14974,7 +14974,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="64"/>
         <source>Mandatory, must not be empty!</source>
-        <translation type="unfinished"/>
+        <translation>Vyžadované, nesmí být prázdné!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="71"/>
@@ -15149,22 +15149,22 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/rulechecklistwidget.h" line="113"/>
         <source>Fix Problem</source>
-        <translation type="unfinished"/>
+        <translation>Opravit problém</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/rulechecklistwidget.h" line="115"/>
         <source>Automatically apply a modification to fix this message</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky aplikovat modifikaci pro opravu této zprávy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/rulechecklistwidget.h" line="124"/>
         <source>Approve/Disapprove</source>
-        <translation type="unfinished"/>
+        <translation>Schválit/Odschválit</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/rulechecklistwidget.h" line="125"/>
         <source>Mark/unmark this message as approved</source>
-        <translation type="unfinished"/>
+        <translation>Označit/odznačit tuto zprávu jako schválenou</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/rulechecklistwidget.h" line="136"/>
@@ -15174,7 +15174,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/rulechecklistwidget.h" line="137"/>
         <source>Show more information about this message</source>
-        <translation type="unfinished"/>
+        <translation>Ukázat více informací o této zprávě</translation>
     </message>
 </context>
 <context>
@@ -15283,7 +15283,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1214"/>
         <source>Preparing schematics...</source>
-        <translation type="unfinished"/>
+        <translation>Připravuji schemata...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1214"/>
@@ -15670,7 +15670,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="105"/>
         <source>Arc Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Úhel oblouku:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="115"/>
@@ -15680,7 +15680,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="119"/>
         <source>Fill polygon, if closed</source>
-        <translation type="unfinished"/>
+        <translation>Vyplnit uzavřený mnohoúhelník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="133"/>
@@ -15690,7 +15690,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="137"/>
         <source>Use polygon as grab area</source>
-        <translation type="unfinished"/>
+        <translation>Použít polygon jako uchycovací oblast</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="264"/>
@@ -15718,37 +15718,37 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="539"/>
         <source>Click to specify the first edge</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat první hranu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="542"/>
         <source>Click to specify the second edge</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat druhou hranu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="547"/>
         <source>Click to specify the arc center</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat střed oblouku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="550"/>
         <source>Click to specify the start point</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat počáteční bod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="553"/>
         <source>Click to specify the end point</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat koncový bod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="557"/>
         <source>Click to specify the first point</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat první bod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="560"/>
         <source>Click to specify the next point</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím specifikovat další bod</translation>
     </message>
 </context>
 <context>
@@ -16019,22 +16019,22 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="97"/>
         <source>Text Position:</source>
-        <translation type="unfinished"/>
+        <translation>Pozice textu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="114"/>
         <source>Text Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Rotace textu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="124"/>
         <source>Text Height:</source>
-        <translation type="unfinished"/>
+        <translation>Výška textu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="134"/>
         <source>Text Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnání textu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.cpp" line="68"/>
@@ -16161,7 +16161,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="108"/>
         <source>Add the selected device to the board.</source>
-        <translation type="unfinished"/>
+        <translation>Přidat vybranou součástku do desky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="111"/>
@@ -16171,7 +16171,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="121"/>
         <source>Use the selected device for all identical components and add them to the board.</source>
-        <translation type="unfinished"/>
+        <translation>Použít vybranou součástku pro všechny identické komponenty a přidat je na desku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="124"/>
@@ -16181,7 +16181,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="131"/>
         <source>Add all components to the board, using automatically determined devices.</source>
-        <translation type="unfinished"/>
+        <translation>Přidat všechny komponenty na desku, s použitím automaticky pouužitých součástek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="134"/>
@@ -16295,7 +16295,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="224"/>
         <source>Desktop Integration:</source>
-        <translation type="unfinished"/>
+        <translation>Integrace plochy:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="232"/>
@@ -16566,12 +16566,12 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="594"/>
         <source>Primary color: %1</source>
-        <translation type="unfinished"/>
+        <translation>První barva: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="595"/>
         <source>Secondary color: %1</source>
-        <translation type="unfinished"/>
+        <translation>Druhá barva: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="610"/>
@@ -16609,7 +16609,7 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="14"/>
         <source>Zone Properties</source>
-        <translation type="unfinished"/>
+        <translation>Vlastnosti zóny</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="27"/>
@@ -16654,7 +16654,7 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="81"/>
         <source>No devices</source>
-        <translation type="unfinished"/>
+        <translation>Bez součástek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="91"/>
@@ -16679,12 +16679,12 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="70"/>
         <source>Top Side</source>
-        <translation type="unfinished"/>
+        <translation>Horní strana</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="72"/>
         <source>Bottom Side</source>
-        <translation type="unfinished"/>
+        <translation>Spodní strana</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="230"/>
