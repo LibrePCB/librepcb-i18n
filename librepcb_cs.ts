@@ -1396,7 +1396,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="260"/>
         <source>Unconnected junction in net: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepřipojené křížení na spoji:  &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -3323,7 +3323,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="210"/>
         <source>Unconnected junction in net: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepřipojené křížení na spoji:  &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -3331,7 +3331,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="93"/>
         <source>Unconnected component signal: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepřipojený signál komponenty: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="96"/>
