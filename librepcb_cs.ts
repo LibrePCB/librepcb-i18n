@@ -5018,7 +5018,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="113"/>
         <source>Pads</source>
-        <translation>Ploška vývodu</translation>
+        <translation>Vývody</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="114"/>
@@ -11103,7 +11103,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="33"/>
         <source>Package Pad:</source>
-        <translation>Ploška vývodu pouzdra:</translation>
+        <translation>Vývod pouzdra:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="43"/>
@@ -13931,7 +13931,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="134"/>
         <source>Package Pad:</source>
-        <translation>Ploška vývodu pouzdra:</translation>
+        <translation>Vývod pouzdra:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="216"/>
@@ -14525,7 +14525,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="313"/>
         <source>There is already a pad with the name &quot;%1&quot;.</source>
-        <translation>Už existuje ploška vývodu s názvem &quot;%1&quot;.</translation>
+        <translation>Vývod s názvem &quot;%1&quot; již existuje.</translation>
     </message>
 </context>
 <context>
