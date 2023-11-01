@@ -687,7 +687,7 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="464"/>
         <source>Clearance on %1: %2 ↔ %3 &lt; %4 %5</source>
         <comment>Placeholders: Layer name, object name, object name, Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost na %1: %2 ↔ %3 &lt; %4 %5</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="471"/>
@@ -809,7 +809,7 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1073"/>
         <source>Device in courtyard: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
-        <translation type="unfinished"/>
+        <translation>Součástka v ohrádce: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1079"/>
@@ -1307,7 +1307,7 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="68"/>
         <source>Missing device: &apos;%1&apos;</source>
         <comment>Placeholders: Device name</comment>
-        <translation type="unfinished"/>
+        <translation>Chybí součástka: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="70"/>
@@ -2594,7 +2594,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1107"/>
         <source>Automatically generate the courtyard polygon</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky generovat mnohoúhelník ohrádky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1115"/>
@@ -2734,12 +2734,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1235"/>
         <source>Toggle Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Přepnout chytací plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1236"/>
         <source>Toggle the grab area property state</source>
-        <translation type="unfinished"/>
+        <translation>Přepnout stav chytacích ploch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1244"/>
@@ -3604,7 +3604,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="123"/>
         <source>Hidden Grab Areas</source>
-        <translation>Skryto obsadit plochy</translation>
+        <translation>Skryté chytací plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="129"/>
@@ -3699,22 +3699,22 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="270"/>
         <source>Top Courtyard</source>
-        <translation>Top Courtyard</translation>
+        <translation>Horní ohrádka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="278"/>
         <source>Bottom Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Spodní ohrádka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="286"/>
         <source>Top Hidden Grab Areas</source>
-        <translation>Top Hidden Grab Areas</translation>
+        <translation>Horní skryté chytací plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="293"/>
         <source>Bottom Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Spodní skryté chytací plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="300"/>
@@ -4108,7 +4108,7 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="185"/>
         <source>Missing courtyard in footprint &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Chybějící ohrádka v pouzdře &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="187"/>
@@ -4958,12 +4958,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="95"/>
         <source>Grab Areas</source>
-        <translation>Obsadit plochy</translation>
+        <translation>Chytací plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="96"/>
         <source>Hidden Grab Areas</source>
-        <translation>Skryto obsadit plochy</translation>
+        <translation>Skrýt chytací plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="97"/>
@@ -5028,7 +5028,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="115"/>
         <source>Zones</source>
-        <translation type="unfinished"/>
+        <translation>Zóny</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="116"/>
@@ -5098,32 +5098,32 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="132"/>
         <source>Courtyard Top</source>
-        <translation type="unfinished"/>
+        <translation>Ohrádka horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="133"/>
         <source>Courtyard Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Ohrádka spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="134"/>
         <source>Grab Areas Top</source>
-        <translation type="unfinished"/>
+        <translation>Chytací plochy horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="135"/>
         <source>Grab Areas Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Chytací plochy spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="136"/>
         <source>Hidden Grab Areas Top</source>
-        <translation type="unfinished"/>
+        <translation>Skryté chytací plochy horní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="137"/>
         <source>Hidden Grab Areas Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Skryté chytací plochy spodní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="138"/>
@@ -8282,7 +8282,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="48"/>
         <source>Grab Area</source>
-        <translation>Obsadit plochu</translation>
+        <translation>Chytací plocha</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="57"/>
@@ -14001,7 +14001,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="108"/>
         <source>Grab Area</source>
-        <translation>Obsadit plochu</translation>
+        <translation>Chytací plocha</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="179"/>
@@ -14046,12 +14046,12 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="135"/>
         <source>Grab Area</source>
-        <translation>Obsadit plochu</translation>
+        <translation>Chytací plocha</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="139"/>
         <source>Use polygon as grab area</source>
-        <translation>Použít polygon jako uchycovací oblast</translation>
+        <translation>Použít polygon jako chytací oblast</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="267"/>
@@ -14745,7 +14745,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="61"/>
         <source>Grab Area</source>
-        <translation>Obsadit plochu</translation>
+        <translation>Chytací plocha</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="68"/>
@@ -15640,7 +15640,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="106"/>
         <source>Grab Area</source>
-        <translation>Obsadit plochu</translation>
+        <translation>Chytací plocha</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="177"/>
@@ -15685,12 +15685,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="133"/>
         <source>Grab Area</source>
-        <translation>Obsadit plochu</translation>
+        <translation>Chytací plocha</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="137"/>
         <source>Use polygon as grab area</source>
-        <translation>Použít polygon jako uchycovací oblast</translation>
+        <translation>Použít polygon jako chytací oblast</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="264"/>
