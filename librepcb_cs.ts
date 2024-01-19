@@ -3410,13 +3410,13 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="60"/>
         <source>Could not open or create file &quot;%1&quot;: %2</source>
-        <translation>Nepodařilo se otevřít nebo vytvořit soubor &quot;%1&quot;: %2</translation>
+        <translation>Nelze otevřít nebo vytvořit soubor &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="67"/>
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="72"/>
         <source>Could not write to file &quot;%1&quot;: %2</source>
-        <translation>Nepodařilo se zapisovat do souboru &quot;%1&quot;: %2</translation>
+        <translation>Nelze zapisovat do souboru &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/fileutils.cpp" line="86"/>
@@ -4851,7 +4851,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/systeminfo.cpp" line="291"/>
         <source>Could not find the file &quot;/proc/version&quot;.</source>
-        <translation>Nepodařilo se najít soubor &quot;/proc/version&quot;.</translation>
+        <translation>Nelze najít soubor &quot;/proc/version&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/systeminfo.cpp" line="321"/>
