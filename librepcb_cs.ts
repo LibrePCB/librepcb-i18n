@@ -58,12 +58,12 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="256"/>
         <source>Start Layer: %1</source>
-        <translation>Počáteční vrstva: %1</translation>
+        <translation>Start vrstvy: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="257"/>
         <source>End Layer: %1</source>
-        <translation>Koncová vrstva: %1</translation>
+        <translation>Konec vrstvy: %1</translation>
     </message>
 </context>
 <context>
@@ -71,7 +71,7 @@
     <message>
         <location filename="../libs/librepcb/core/job/board3doutputjob.cpp" line="39"/>
         <source>STEP Model</source>
-        <translation>Model STEP</translation>
+        <translation>STEP model</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/board3doutputjob.h" line="73"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="53"/>
         <source>Depending on the capabilities of the PCB manufacturer, this could cause higher costs or even serious troubles during production, leading to a possibly non-functional PCB.</source>
-        <translation type="unfinished"/>
+        <translation>V závislosti na možnostech výrobce DPS by to mohlo způsobit vyšší náklady nebo dokonce vážné potíže při výrobě, které by mohly vést k nefunkčnosti DPS.</translation>
     </message>
 </context>
 <context>
@@ -92,12 +92,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.cpp" line="40"/>
         <source>Bill of Materials</source>
-        <translation>Seznam součástek</translation>
+        <translation>Kusovník</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/bomoutputjob.h" line="79"/>
         <source>Bill Of Materials</source>
-        <translation>Seznam součástek</translation>
+        <translation>Kusovník</translation>
     </message>
 </context>
 <context>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../libs/librepcb/core/types/boundedunsignedratio.cpp" line="101"/>
         <source>Minimum value must not be greater than maximum value.</source>
-        <translation>Nejmenší hodnota nesmí být větší než největší hodnota.</translation>
+        <translation>Minimální hodnota nesmí být větší než maximální hodnota.</translation>
     </message>
 </context>
 <context>
@@ -121,22 +121,22 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="95"/>
         <source>None (no text)</source>
-        <translation>Prázdné (bez textu)</translation>
+        <translation>Prázdný (bez textu)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="101"/>
         <source>Symbol pin name</source>
-        <translation>Název vývodu schematické značky</translation>
+        <translation>Název pinu symbolu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="107"/>
         <source>Component signal name</source>
-        <translation>Název propojení komponenty</translation>
+        <translation>Název signálu komponenty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="113"/>
         <source>Schematic net name</source>
-        <translation>Název propojení schematu</translation>
+        <translation>Název sítě schématu</translation>
     </message>
 </context>
 <context>
@@ -144,17 +144,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="86"/>
         <source>Open a project to execute project-related tasks.</source>
-        <translation>Otevřít projekt pro vykonání úkolů v něm.</translation>
+        <translation>Otevřít projekt pro vykonání úkolů.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="89"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation>Otevřít knihovnu pro vykonání úkolů v ní.</translation>
+        <translation>Otevřít knihovnu pro vykonání úkolů.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="92"/>
         <source>Open a STEP model to execute STEP-related tasks outside of a library.</source>
-        <translation>Otevřít STEP model pro spuštění souvisejících úloh se STEP mimo knihovnu.</translation>
+        <translation>Otevřít STEP model pro vykonání úkolů mimo knihovnu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="99"/>
@@ -164,12 +164,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="102"/>
         <source>Print this message.</source>
-        <translation>Vytiskne tuto zprávu.</translation>
+        <translation>Tisknout tuto zprávu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="105"/>
         <source>Displays version information.</source>
-        <translation>Zobrazí informace o verzi.</translation>
+        <translation>Zobrazit informace o verzi.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="107"/>
