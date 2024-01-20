@@ -194,7 +194,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="126"/>
         <source>Override DRC settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>Přepište nastavení DRC poskytnutím souboru *.lp obsahujícího vlastní nastavení. Pokud není nastaveno, použije se místo něj nastavení z desek.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="129"/>
@@ -313,12 +313,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="213"/>
         <source>Remove all boards not specified with &apos;%1&apos; from the project before executing all the other actions. If &apos;%1&apos; is not passed, all boards will be removed. Pass &apos;%2&apos; to save the modified project to disk.</source>
-        <translation type="unfinished"/>
+        <translation>Před provedením všech ostatních akcí odstraňte z projektu všechny desky, které nejsou specifikovány pomocí &apos;%1&apos;. Pokud &apos;%1&apos; nebude předáno, budou odstraněny všechny nástěnky. Předejte &apos;%2&apos; pro uložení upraveného projektu na disk.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="220"/>
         <source>The name of the assembly variant(s) to export. Can be given multiple times. If not set, all assembly variants are exported.</source>
-        <translation type="unfinished"/>
+        <translation>Název variant(y) sestavy k exportu. Lze podat vícekrát. Pokud není nastaveno, exportují se všechny varianty sestavy.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="225"/>
