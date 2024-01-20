@@ -1368,7 +1368,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1106"/>
         <source>Device overlap: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
-        <translation>Překrytí součástky: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
+        <translation>Překrytí součástek: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1112"/>
