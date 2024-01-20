@@ -179,7 +179,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="110"/>
         <source>The command to execute (see list below).</source>
-        <translation>Příkaz ke spuštění (viz seznam níže).</translation>
+        <translation>Příkaz k provedení (viz seznam níže).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="116"/>
@@ -208,7 +208,7 @@
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="200"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
         <source>file</source>
-        <translation>Soubor</translation>
+        <translation>soubor</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="132"/>
@@ -221,7 +221,7 @@
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="222"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="234"/>
         <source>name</source>
-        <translation>Název</translation>
+        <translation>název</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
@@ -267,7 +267,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="170"/>
         <source>attributes</source>
-        <translation>Atributy</translation>
+        <translation>atributy</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="173"/>
@@ -5264,22 +5264,22 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="66"/>
         <source>Millimeters</source>
-        <translation>milimetry</translation>
+        <translation>Milimetry</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="68"/>
         <source>Micrometers</source>
-        <translation>mikrometry</translation>
+        <translation>Mikrometry</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="70"/>
         <source>Nanometers</source>
-        <translation>nanometry</translation>
+        <translation>Nanometry</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="72"/>
         <source>Inches</source>
-        <translation>palce</translation>
+        <translation>Palce</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="74"/>
