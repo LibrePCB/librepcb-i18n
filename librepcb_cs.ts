@@ -1373,12 +1373,12 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1112"/>
         <source>Two devices are overlapping and thus probably cannot be assembled both at the same time.</source>
-        <translation type="unfinished"/>
+        <translation>Dvě součástky se překrývají a pravděpodobně tak nelze obě sestavit současně.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1115"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems (or only one of them gets assembled).</source>
-        <translation type="unfinished"/>
+        <translation>Zařízení buď přesuňte, abyste zvýšili jejich vůli, nebo tuto zprávu schvalte, pokud jste si jisti, že je možné bez problémů sestavit (nebo se smontuje pouze jedno z nich).</translation>
     </message>
 </context>
 <context>
@@ -1392,7 +1392,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1653"/>
         <source>The clearance between a silkscreen text and a solder resist opening is smaller than the minimum clearance configured in the DRC settings. This could lead to clipped silkscreen during production.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost mezi textem sítotisku a otevřeným pájecím místem je menší než minimální vzdálenost nastavená v nastavení DRC. To by mohlo vést k oříznutí sítotisku během výroby.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1659"/>
@@ -1432,7 +1432,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1679"/>
         <source>The zone has no layer or rule enabled so it is useless.</source>
-        <translation type="unfinished"/>
+        <translation>Zóna nemá povolenou žádnou vrstvu ani pravidlo, takže je k ničemu.</translation>
     </message>
 </context>
 <context>
@@ -1440,12 +1440,12 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="190"/>
         <source>File does not exist or is not readable.</source>
-        <translation type="unfinished"/>
+        <translation>Soubor neexistuje nebo není čitelný.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="196"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Selhalo čtení souboru DXF &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -1453,7 +1453,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="232"/>
         <source>Layer %1 is not supported.</source>
-        <translation type="unfinished"/>
+        <translation>Vrstva %1 není podporována.</translation>
     </message>
 </context>
 <context>
@@ -1461,7 +1461,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="82"/>
         <source>Editor</source>
-        <translation type="unfinished"/>
+        <translation>Editor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="86"/>
@@ -1551,7 +1551,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="159"/>
         <source>Open the directory in the file manager</source>
-        <translation type="unfinished"/>
+        <translation>Otevřete adresář ve správci souborů.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="167"/>
@@ -1691,7 +1691,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="285"/>
         <source>Run only the most important copper checks from the DRC</source>
-        <translation type="unfinished"/>
+        <translation>Provádějte pouze nejdůležitější kontroly mědi z DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="293"/>
@@ -1826,7 +1826,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="411"/>
         <source>Text Input</source>
-        <translation type="unfinished"/>
+        <translation>Textový vstup</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="414"/>
@@ -1841,12 +1841,12 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="423"/>
         <source>Change Unit</source>
-        <translation type="unfinished"/>
+        <translation>Změnit jednotku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="424"/>
         <source>Change the measurement unit of the text input</source>
-        <translation type="unfinished"/>
+        <translation>Změňte měrnou jednotku vkládání textu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="432"/>
@@ -1872,22 +1872,22 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="450"/>
         <source>Import/Export</source>
-        <translation type="unfinished"/>
+        <translation>Import/Export</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="453"/>
         <source>Import DXF</source>
-        <translation type="unfinished"/>
+        <translation>Import DXF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="454"/>
         <source>Import a 2D mechanical drawing</source>
-        <translation type="unfinished"/>
+        <translation>Import 2D mechanického výkresu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="462"/>
         <source>Import EAGLE Library</source>
-        <translation type="unfinished"/>
+        <translation>Import knihovny EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="463"/>
