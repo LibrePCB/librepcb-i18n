@@ -1892,47 +1892,47 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="463"/>
         <source>Import library elements from an EAGLE *.lbr file</source>
-        <translation type="unfinished"/>
+        <translation>Import prvků knihovny EAGLE ze souboru *.lbr</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="471"/>
         <source>Export *.lppz Archive</source>
-        <translation type="unfinished"/>
+        <translation>Export archivu *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="472"/>
         <source>Export the project as a self-contained *.lppz archive</source>
-        <translation type="unfinished"/>
+        <translation>Export projektu jako samostatný archiv *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="480"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>Export obrázku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="481"/>
         <source>Export graphics as a pixmap</source>
-        <translation type="unfinished"/>
+        <translation>Export grafiky jako pixmap</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="489"/>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>Export PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="490"/>
         <source>Export graphics as a PDF</source>
-        <translation type="unfinished"/>
+        <translation>Export grafiky jako PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="498"/>
         <source>Export STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>Export STEP modelu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="499"/>
         <source>Export PCB as a STEP file for loading it into MCAD software</source>
-        <translation type="unfinished"/>
+        <translation>Export DPS jako soubor STEP model pro program MCAD</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="507"/>
@@ -1962,7 +1962,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="526"/>
         <source>Generate Gerber/Excellon files for PCB fabrication</source>
-        <translation type="unfinished"/>
+        <translation>Generovat soubory Gerber/Excellon pro výrobu DPS</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="534"/>
@@ -1972,7 +1972,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="535"/>
         <source>Generate pick&amp;place files for automated PCB assembly</source>
-        <translation type="unfinished"/>
+        <translation>Generovat soubory &quot;pick&amp;place&quot; pro automatizovanou montáž DPS</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="543"/>
@@ -1982,7 +1982,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="544"/>
         <source>Generate netlist file for automated PCB testing</source>
-        <translation type="unfinished"/>
+        <translation>Generovat soubor síťového seznamu pro automatizované testování DPS</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="552"/>
@@ -2007,7 +2007,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="569"/>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Modifikovat</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="573"/>
@@ -2017,7 +2017,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="574"/>
         <source>Revert the last modification</source>
-        <translation type="unfinished"/>
+        <translation>Vrátit poslední změnu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="582"/>
@@ -2027,7 +2027,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="583"/>
         <source>Re-apply the last reverted modification</source>
-        <translation type="unfinished"/>
+        <translation>Znovu použít poslední vrácenou změnu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="592"/>
@@ -2198,7 +2198,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="739"/>
         <source>Change the line/trace/stroke width of the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>Změnit šířku čáry/spoje/tahu vybraného objektu/objektů</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="748"/>
@@ -7129,7 +7129,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1710"/>
         <source>Export STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>Export STEP modelu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1736"/>
@@ -11714,12 +11714,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="93"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>Export obrázku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="96"/>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>Export PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="99"/>
