@@ -103,7 +103,7 @@
 <context>
     <name>BoundedUnsignedRatio</name>
     <message>
-        <location filename="../libs/librepcb/core/types/boundedunsignedratio.cpp" line="101"/>
+        <location filename="../libs/librepcb/core/types/boundedunsignedratio.cpp" line="108"/>
         <source>Minimum value must not be greater than maximum value.</source>
         <translation>Minimálna hodnota nesmie byť vyššia ako maximálna hodnota.</translation>
     </message>
@@ -478,7 +478,7 @@
 <context>
     <name>ComponentPrefix</name>
     <message>
-        <location filename="../libs/librepcb/core/library/cmp/componentprefix.h" line="50"/>
+        <location filename="../libs/librepcb/core/library/cmp/componentprefix.h" line="56"/>
         <source>Invalid component prefix: &apos;%1&apos;</source>
         <translation>Neplatný prefix komponentu: &apos;%1&apos;</translation>
     </message>
@@ -1436,14 +1436,6 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="196"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
         <translation>Nepodarilo sa načítať súbor DXF &quot;%1&quot;: %2</translation>
-    </message>
-</context>
-<context>
-    <name>EagleTypeConverter</name>
-    <message>
-        <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="232"/>
-        <source>Layer %1 is not supported.</source>
-        <translation>Vrstva %1 nie je podporovaná.</translation>
     </message>
 </context>
 <context>
@@ -6318,44 +6310,47 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     </message>
 </context>
 <context>
-    <name>librepcb::eagleimport::EagleLibraryImport</name>
+    <name>librepcb::eagleimport::EagleLibraryConverter</name>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="426"/>
-        <source>Skipped symbol due to error: %1</source>
-        <translation>Pre chybu bola vynechaná sch. značka: %1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="512"/>
-        <source>Skipped package due to error: %1</source>
-        <translation>Pre chybu bolo vynechané púzdro: %1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="553"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="303"/>
         <source>Dependent symbol &quot;%1&quot; not imported.</source>
         <translation>Odkazovaná schematická značka &quot;%1&quot; nebola importovaná.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="591"/>
-        <source>Skipped component due to error: %1</source>
-        <translation>Pre chybu bol vynechaný komponent: %1</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="609"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="364"/>
         <source>Dependent component &quot;%1&quot; not imported.</source>
         <translation>Odkazovaný komponent &quot;%1&quot; nebol importovaný.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="615"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="371"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
         <translation>Odkazované púzdro &quot;%1&quot; nebolo importované.</translation>
     </message>
+</context>
+<context>
+    <name>librepcb::eagleimport::EagleLibraryImport</name>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="647"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="353"/>
+        <source>Skipped symbol due to error: %1</source>
+        <translation>Pre chybu bola vynechaná sch. značka: %1</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="378"/>
+        <source>Skipped package due to error: %1</source>
+        <translation>Pre chybu bolo vynechané púzdro: %1</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="404"/>
+        <source>Skipped component due to error: %1</source>
+        <translation>Pre chybu bol vynechaný komponent: %1</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="429"/>
         <source>Skipped device due to error: %1</source>
         <translation>Pre chybu bola vynechaná súčiastka: %1</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="654"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="436"/>
         <source>Finished: %1 of %2 element(s) imported</source>
         <comment>Placeholders are numbers</comment>
         <translation><numerusform>Ukončené: %1 z %2 elementov bol importovaný</numerusform><numerusform>Ukončené: %1 z %2 elementov boli importované</numerusform><numerusform>Ukončené: %1 z %2 elementov bolo importovaných</numerusform><numerusform>Ukončené: %1 z %2 elementov bolo importovaných</numerusform></translation>

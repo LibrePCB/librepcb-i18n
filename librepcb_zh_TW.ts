@@ -103,7 +103,7 @@
 <context>
     <name>BoundedUnsignedRatio</name>
     <message>
-        <location filename="../libs/librepcb/core/types/boundedunsignedratio.cpp" line="101"/>
+        <location filename="../libs/librepcb/core/types/boundedunsignedratio.cpp" line="108"/>
         <source>Minimum value must not be greater than maximum value.</source>
         <translation type="unfinished"/>
     </message>
@@ -478,7 +478,7 @@
 <context>
     <name>ComponentPrefix</name>
     <message>
-        <location filename="../libs/librepcb/core/library/cmp/componentprefix.h" line="50"/>
+        <location filename="../libs/librepcb/core/library/cmp/componentprefix.h" line="56"/>
         <source>Invalid component prefix: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
@@ -1433,14 +1433,6 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="196"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>EagleTypeConverter</name>
-    <message>
-        <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="232"/>
-        <source>Layer %1 is not supported.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6315,44 +6307,47 @@ You need at least LibrePCB %1 to open it.
     </message>
 </context>
 <context>
-    <name>librepcb::eagleimport::EagleLibraryImport</name>
+    <name>librepcb::eagleimport::EagleLibraryConverter</name>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="426"/>
-        <source>Skipped symbol due to error: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="512"/>
-        <source>Skipped package due to error: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="553"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="303"/>
         <source>Dependent symbol &quot;%1&quot; not imported.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="591"/>
-        <source>Skipped component due to error: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="609"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="364"/>
         <source>Dependent component &quot;%1&quot; not imported.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="615"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="371"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
         <translation type="unfinished"/>
     </message>
+</context>
+<context>
+    <name>librepcb::eagleimport::EagleLibraryImport</name>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="647"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="353"/>
+        <source>Skipped symbol due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="378"/>
+        <source>Skipped package due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="404"/>
+        <source>Skipped component due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="429"/>
         <source>Skipped device due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="654"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="436"/>
         <source>Finished: %1 of %2 element(s) imported</source>
         <comment>Placeholders are numbers</comment>
         <translation type="unfinished"><numerusform></numerusform></translation>

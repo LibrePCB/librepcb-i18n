@@ -38,17 +38,17 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="248"/>
         <source>Through-Hole Via</source>
-        <translation type="unfinished"/>
+        <translation>Переходной отверстие, проходящее через несколько слоев</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="250"/>
         <source>Blind Via</source>
-        <translation type="unfinished"/>
+        <translation>Слепое переходное отверстие</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="252"/>
         <source>Buried Via</source>
-        <translation type="unfinished"/>
+        <translation>Переходное отверстие, соединяющее внутренние слои</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="254"/>
@@ -103,7 +103,7 @@
 <context>
     <name>BoundedUnsignedRatio</name>
     <message>
-        <location filename="../libs/librepcb/core/types/boundedunsignedratio.cpp" line="101"/>
+        <location filename="../libs/librepcb/core/types/boundedunsignedratio.cpp" line="108"/>
         <source>Minimum value must not be greater than maximum value.</source>
         <translation>Минимальное значение не должно превышать максимального.</translation>
     </message>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
         <source>path</source>
-        <translation type="unfinished"/>
+        <translation>путь</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
@@ -307,7 +307,7 @@
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="210"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="228"/>
         <source>index</source>
-        <translation type="unfinished"/>
+        <translation>Индекс</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="213"/>
@@ -392,7 +392,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="293"/>
         <source>Help:</source>
-        <translation type="unfinished"/>
+        <translation>Помощь:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="307"/>
@@ -478,7 +478,7 @@
 <context>
     <name>ComponentPrefix</name>
     <message>
-        <location filename="../libs/librepcb/core/library/cmp/componentprefix.h" line="50"/>
+        <location filename="../libs/librepcb/core/library/cmp/componentprefix.h" line="56"/>
         <source>Invalid component prefix: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
@@ -705,7 +705,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="516"/>
         <source>via</source>
-        <translation type="unfinished"/>
+        <translation>переходное отверстие</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="518"/>
@@ -985,7 +985,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1622"/>
         <source>Buried via in net &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Переходное отверстие, соединяющее внутренние слои в сети &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1628"/>
@@ -1077,7 +1077,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1363"/>
         <source>Via drill diameter of &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Net name, actual diameter, minimum diameter</comment>
-        <translation type="unfinished"/>
+        <translation>Диаметр сверловки переходного отверстия &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1382"/>
@@ -1437,14 +1437,6 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     </message>
 </context>
 <context>
-    <name>EagleTypeConverter</name>
-    <message>
-        <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="232"/>
-        <source>Layer %1 is not supported.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>EditorCommandSet</name>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="82"/>
@@ -1644,7 +1636,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="257"/>
         <source>Project Setup</source>
-        <translation type="unfinished"/>
+        <translation>Настройка проекта</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="258"/>
@@ -2556,7 +2548,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1079"/>
         <source>Add Via</source>
-        <translation type="unfinished"/>
+        <translation>Добавить переходное отверстие</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1080"/>
@@ -6311,44 +6303,47 @@ You need at least LibrePCB %1 to open it.
     </message>
 </context>
 <context>
-    <name>librepcb::eagleimport::EagleLibraryImport</name>
+    <name>librepcb::eagleimport::EagleLibraryConverter</name>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="426"/>
-        <source>Skipped symbol due to error: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="512"/>
-        <source>Skipped package due to error: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="553"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="303"/>
         <source>Dependent symbol &quot;%1&quot; not imported.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="591"/>
-        <source>Skipped component due to error: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="609"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="364"/>
         <source>Dependent component &quot;%1&quot; not imported.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="615"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="371"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
         <translation type="unfinished"/>
     </message>
+</context>
+<context>
+    <name>librepcb::eagleimport::EagleLibraryImport</name>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="647"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="353"/>
+        <source>Skipped symbol due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="378"/>
+        <source>Skipped package due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="404"/>
+        <source>Skipped component due to error: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="429"/>
         <source>Skipped device due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="654"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="436"/>
         <source>Finished: %1 of %2 element(s) imported</source>
         <comment>Placeholders are numbers</comment>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
@@ -6846,7 +6841,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вывод:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="77"/>
@@ -6948,7 +6943,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="60"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вывод:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="84"/>
@@ -6976,7 +6971,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="204"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Платы:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="211"/>
@@ -7214,7 +7209,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="119"/>
         <source>Drill:</source>
-        <translation type="unfinished"/>
+        <translation>Сверловка:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="132"/>
@@ -7342,7 +7337,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="199"/>
         <source>Drill:</source>
-        <translation type="unfinished"/>
+        <translation>Сверловка:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="389"/>
@@ -8163,7 +8158,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вывод:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="77"/>
@@ -8178,7 +8173,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="98"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Платы:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="112"/>
@@ -9021,7 +9016,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpastefootprintitems.cpp" line="60"/>
         <source>Paste Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Вставить посадочные места элементов</translation>
     </message>
 </context>
 <context>
@@ -9380,12 +9375,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="131"/>
         <source>Part Number</source>
-        <translation type="unfinished"/>
+        <translation>Номер партии</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="132"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"/>
+        <translation>Производитель</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="133"/>
@@ -10127,7 +10122,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="108"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Платы:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="122"/>
@@ -10397,7 +10392,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="144"/>
         <source>(unconnected)</source>
-        <translation type="unfinished"/>
+        <translation>(не подключен)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="169"/>
@@ -10551,7 +10546,7 @@ If unchecked (the default), circles will be imported as polygons.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizard.ui" line="14"/>
         <source>EAGLE Library Import</source>
-        <translation type="unfinished"/>
+        <translation>Импорт EAGLE-библиотеки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizard.cpp" line="69"/>
@@ -10743,7 +10738,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_start.ui" line="17"/>
         <source>EAGLE Library Import</source>
-        <translation type="unfinished"/>
+        <translation>Импорт EAGLE-библиотеки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_start.ui" line="20"/>
@@ -11317,7 +11312,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="63"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Платы:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="73"/>
@@ -11469,7 +11464,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="100"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Платы:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="114"/>
@@ -11814,7 +11809,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="93"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вывод:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="144"/>
@@ -12784,7 +12779,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/lppzoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вывод:</translation>
     </message>
 </context>
 <context>
@@ -12854,12 +12849,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вывод:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="84"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Платы:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="98"/>
@@ -13620,7 +13615,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="97"/>
         <source>Run this job</source>
-        <translation type="unfinished"/>
+        <translation>Запустить это задание</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="98"/>
@@ -13630,7 +13625,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="100"/>
         <source>Run all jobs</source>
-        <translation type="unfinished"/>
+        <translation>Запустить все задания</translation>
     </message>
 </context>
 <context>
@@ -13643,32 +13638,32 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="89"/>
         <source>Add a new job</source>
-        <translation type="unfinished"/>
+        <translation>Добавить новое задание</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="109"/>
         <source>Duplicate the selected job</source>
-        <translation type="unfinished"/>
+        <translation>Дублировать выбранное задание</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="129"/>
         <source>Move selected job up</source>
-        <translation type="unfinished"/>
+        <translation>Переместить выбранное задание вверх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="149"/>
         <source>Move selected job down</source>
-        <translation type="unfinished"/>
+        <translation>Переместить выбранное задание вниз</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="169"/>
         <source>Remove selected job</source>
-        <translation type="unfinished"/>
+        <translation>Удалить выбранное задание</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="252"/>
         <source>Show/hide output messages</source>
-        <translation type="unfinished"/>
+        <translation>Показывать/скрывать выходные сообщения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="255"/>
@@ -13698,27 +13693,27 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="188"/>
         <source>Production Data</source>
-        <translation type="unfinished"/>
+        <translation>Производственные данные</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="194"/>
         <source>Protel Style</source>
-        <translation type="unfinished"/>
+        <translation>Стиль Protel</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="211"/>
         <source>Generic</source>
-        <translation type="unfinished"/>
+        <translation>Основные</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="233"/>
         <source>(copy)</source>
-        <translation type="unfinished"/>
+        <translation>(копия)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="299"/>
         <source>No unknown files in output directory.</source>
-        <translation type="unfinished"/>
+        <translation>В выходном каталоге нет неизвестных файлов.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="304"/>
@@ -13734,22 +13729,22 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="316"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="320"/>
         <source>Remove Unknown Files</source>
-        <translation type="unfinished"/>
+        <translation>Удалить неизвестные файлы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="402"/>
         <source>Unknown files in output folder</source>
-        <translation type="unfinished"/>
+        <translation>Неизвестные файлы в выходной папке</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="408"/>
         <source>Finished with warnings!</source>
-        <translation type="unfinished"/>
+        <translation>Завершено с предупреждениями!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="488"/>
         <source>Unknown job type. You may need a more recent LibrePCB version to modify this job.</source>
-        <translation type="unfinished"/>
+        <translation>Неизвестный тип задания. Для изменения этого задания может потребоваться более свежая версия Libpcap.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="533"/>
@@ -13764,7 +13759,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="637"/>
         <source>SUCCESS!</source>
-        <translation type="unfinished"/>
+        <translation>УСПЕШНО!</translation>
     </message>
 </context>
 <context>
@@ -13936,17 +13931,17 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="255"/>
         <source>Drill:</source>
-        <translation type="unfinished"/>
+        <translation>Сверловка:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="304"/>
         <source>Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Зазор:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="327"/>
         <source>Radius:</source>
-        <translation type="unfinished"/>
+        <translation>Радиус:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="344"/>
@@ -14122,7 +14117,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="292"/>
         <source>Add footprint text</source>
-        <translation>Добавить текст посад. места</translation>
+        <translation>Добавить текст посадочного места</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="306"/>
@@ -14142,7 +14137,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="77"/>
         <source>Inner</source>
-        <translation type="unfinished"/>
+        <translation>Внутренний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="87"/>
@@ -14178,7 +14173,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="247"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="319"/>
         <source>Add footprint zone</source>
-        <translation type="unfinished"/>
+        <translation>Добавить зону посадочных мест</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="262"/>
@@ -14236,7 +14231,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1033"/>
         <source>Paste Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Вставить посадочные места элементов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1133"/>
@@ -14246,7 +14241,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1202"/>
         <source>No Content</source>
-        <translation type="unfinished"/>
+        <translation>Комментариев нет</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1203"/>
@@ -14284,7 +14279,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="89"/>
         <source>Toggle 2D/3D view</source>
-        <translation type="unfinished"/>
+        <translation>Переключить 2D/3D вид</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="181"/>
@@ -14319,7 +14314,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="261"/>
         <source>Package should no longer be used.</source>
-        <translation type="unfinished"/>
+        <translation>Пакет больше не следует использовать.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="268"/>
@@ -14334,7 +14329,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="305"/>
         <source>Assembly:</source>
-        <translation type="unfinished"/>
+        <translation>Сборка:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="135"/>
@@ -14359,12 +14354,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="145"/>
         <source>None (excluded from BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>None (отсутствует в BOM/PnP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="148"/>
         <source>Auto-detect (not recommended)</source>
-        <translation type="unfinished"/>
+        <translation>Автоопределение (не рекомендуется)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="329"/>
@@ -14384,12 +14379,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="924"/>
         <source>Apply to all unspecified pads</source>
-        <translation type="unfinished"/>
+        <translation>Применить для всех неопределенных контактных площадок</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="946"/>
         <source>Fix Unspecified Pad Functions</source>
-        <translation type="unfinished"/>
+        <translation>Исправить  функции неопределенных контактных площадок</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1053"/>
@@ -14412,17 +14407,17 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="248"/>
         <source>Enable/disable this model for the selected footprint.</source>
-        <translation type="unfinished"/>
+        <translation>Задействовать/отключить эту модель для выбранного посадочного места.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="256"/>
         <source>3D model name</source>
-        <translation type="unfinished"/>
+        <translation>Название 3D-модели</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="300"/>
         <source>3D Models</source>
-        <translation type="unfinished"/>
+        <translation>3D-модели</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="315"/>
@@ -14432,17 +14427,17 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="318"/>
         <source>Add a new 3D model</source>
-        <translation type="unfinished"/>
+        <translation>Добавить новую 3D-модель</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="452"/>
         <source>There is already a 3D model with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>3D-модель с названием &quot;%1&quot; уже существует.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="463"/>
         <source>Choose STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>Выбор STEP-модели</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="497"/>
@@ -14452,7 +14447,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="500"/>
         <source>Reason:</source>
-        <translation type="unfinished"/>
+        <translation>Причина:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="502"/>
@@ -14470,7 +14465,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadcombobox.cpp" line="71"/>
         <source>(unconnected)</source>
-        <translation type="unfinished"/>
+        <translation>(не подключен)</translation>
     </message>
 </context>
 <context>
@@ -14490,7 +14485,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="152"/>
         <source>Pad name (may contain ranges like &quot;%1&quot;)</source>
-        <translation type="unfinished"/>
+        <translation>Название контактной площадки (может содержать &quot;% 1&quot;)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="194"/>
@@ -14505,12 +14500,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="212"/>
         <source>Add a new pad</source>
-        <translation type="unfinished"/>
+        <translation>Добавить новую площадку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="313"/>
         <source>There is already a pad with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Контактная площадка с именем &quot;%1&quot; уже существует.</translation>
     </message>
 </context>
 <context>
@@ -14528,22 +14523,22 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="208"/>
         <source>Exact manufacturer part number (without placeholders)</source>
-        <translation type="unfinished"/>
+        <translation>Точный номер детали производителя (без заполнителей)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="222"/>
         <source>Name of the manufacturer</source>
-        <translation type="unfinished"/>
+        <translation>Название производителя</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="254"/>
         <source>Part Number</source>
-        <translation type="unfinished"/>
+        <translation>Номер партии</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="256"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"/>
+        <translation>Производитель</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="258"/>
@@ -14558,7 +14553,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="269"/>
         <source>Add a new part</source>
-        <translation type="unfinished"/>
+        <translation>Добавить новую деталь</translation>
     </message>
 </context>
 <context>
@@ -14619,7 +14614,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="77"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>Платы:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="91"/>
@@ -14748,7 +14743,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="66"/>
         <source>ATTENTION: This project has been upgraded to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</source>
-        <translation type="unfinished"/>
+        <translation>ВНИМАНИЕ: Этот проект был обновлен до нового формата файла. После сохранения его больше нельзя будет открыть с помощью более старой версии LibrePCB!</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="72"/>
@@ -14758,17 +14753,17 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="189"/>
         <source>File Format Upgrade Messages</source>
-        <translation type="unfinished"/>
+        <translation>Сообщения об обновлении формата файла</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="194"/>
         <source>Severity</source>
-        <translation type="unfinished"/>
+        <translation>Строгость</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="194"/>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>Версия</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="194"/>
@@ -14778,7 +14773,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="194"/>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>Сообщение</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="271"/>
@@ -14818,7 +14813,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/projectjsonoutputjobwidget.ui" line="40"/>
         <source>Export general project data to a machine-readable JSON file.</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт основных данные проекта в JSON-файл.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/projectjsonoutputjobwidget.ui" line="57"/>
@@ -14828,7 +14823,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/projectjsonoutputjobwidget.ui" line="67"/>
         <source>Output:</source>
-        <translation type="unfinished"/>
+        <translation>Вывод:</translation>
     </message>
 </context>
 <context>
@@ -14879,7 +14874,9 @@ p, li { white-space: pre-wrap; }
         <source>The project uses an outdated file format.
 Please upgrade it to the latest file format first, review the upgrade messages and then save the project.
 Afterwards the project library can be updated.</source>
-        <translation type="unfinished"/>
+        <translation>В проекте используется устаревший формат файла.
+Пожалуйста, сначала обновите его до последнего формата, просмотрите сообщения об обновлении, а затем сохраните проект.
+После этого библиотека проекта может быть обновлена.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="130"/>
@@ -14923,7 +14920,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="14"/>
         <source>Project Setup</source>
-        <translation type="unfinished"/>
+        <translation>Настройка проекта</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="24"/>
@@ -14948,7 +14945,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="64"/>
         <source>Mandatory, must not be empty!</source>
-        <translation type="unfinished"/>
+        <translation>Обязательно, не должно быть пустым!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="71"/>
@@ -14963,7 +14960,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="111"/>
         <source>Locales &amp;&amp; Norms</source>
-        <translation type="unfinished"/>
+        <translation>Стандарты и нормы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="117"/>
@@ -14992,7 +14989,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="288"/>
         <source>Type name...</source>
-        <translation type="unfinished"/>
+        <translation>Введите название (имя)...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="305"/>
