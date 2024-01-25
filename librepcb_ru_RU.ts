@@ -38,7 +38,7 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="248"/>
         <source>Through-Hole Via</source>
-        <translation>Переходной отверстие, проходящее через несколько слоев</translation>
+        <translation>Переходное отверстие, проходящее через несколько слоев</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="250"/>
@@ -53,7 +53,7 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="254"/>
         <source>Net: %1</source>
-        <translation type="unfinished"/>
+        <translation>Сеть: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="256"/>
@@ -226,7 +226,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
         <source>Run all existing output jobs.</source>
-        <translation type="unfinished"/>
+        <translation>Запустить все существующие задания вывода.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="139"/>
@@ -2518,12 +2518,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1052"/>
         <source>Add Net Label</source>
-        <translation type="unfinished"/>
+        <translation>Добавить метку сети</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1053"/>
         <source>Add net labels to explicitly specify the net of wires</source>
-        <translation type="unfinished"/>
+        <translation>Добавьте метки, чтобы явно указать сеть проводников</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1061"/>
@@ -2533,12 +2533,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1062"/>
         <source>Insert components from the workspace libraries</source>
-        <translation type="unfinished"/>
+        <translation>Вставить компоненты из библиотеки рабочего пространства</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1070"/>
         <source>Draw Trace</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать трассировку (трассу)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1071"/>
@@ -2553,12 +2553,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1080"/>
         <source>Add plated through-hole vias</source>
-        <translation type="unfinished"/>
+        <translation>Добавить позолоченное переходное отверстие, проходящее через несколько слоев</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1088"/>
         <source>Draw Plane</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать плоскость</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1089"/>
@@ -2568,12 +2568,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1097"/>
         <source>Generate Outline</source>
-        <translation type="unfinished"/>
+        <translation>Сгенерировать контур</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1098"/>
         <source>Automatically generate the outline polygon</source>
-        <translation type="unfinished"/>
+        <translation>Автоматическое создание контура многоугольника </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1106"/>
@@ -2588,27 +2588,27 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1115"/>
         <source>Measure Distance</source>
-        <translation type="unfinished"/>
+        <translation>Измерение расстояния</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1116"/>
         <source>Measure the distance between two points</source>
-        <translation type="unfinished"/>
+        <translation>Измерение расстояния между двумя точками</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1124"/>
         <source>Commands</source>
-        <translation type="unfinished"/>
+        <translation>Команды</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1127"/>
         <source>Go To Command Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Перейти панели Команд</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1128"/>
         <source>Move the focus into the command toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Перенести фокус ввода в панель команд</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1136"/>
@@ -2618,72 +2618,72 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1137"/>
         <source>Abort the currently active command</source>
-        <translation type="unfinished"/>
+        <translation>Прервать текущую активную команду</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1145"/>
         <source>Layer Up</source>
-        <translation type="unfinished"/>
+        <translation>Слой вверх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1146"/>
         <source>Switch to the next higher layer (bottom-&gt;top)</source>
-        <translation type="unfinished"/>
+        <translation>Переключиться на следующий более высокий слой (нижний-&gt;верхний)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1154"/>
         <source>Layer Down</source>
-        <translation type="unfinished"/>
+        <translation>Слой вниз</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1155"/>
         <source>Switch to the next lower layer (top-&gt;bottom)</source>
-        <translation type="unfinished"/>
+        <translation>Переключиться на следующий более нижний слой (верхний-&gt;нижний)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1163"/>
         <source>Increase Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Увеличить ширину линии</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1164"/>
         <source>Increase the line/trace/stroke/pad width</source>
-        <translation type="unfinished"/>
+        <translation>Увеличить ширину линии/трассы/штриха/площадки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1172"/>
         <source>Decrease Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Уменьшить ширину линии</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1173"/>
         <source>Decrease the line/trace/stroke/pad width</source>
-        <translation type="unfinished"/>
+        <translation>Уменьшить ширину линии/трассы/штриха/площадки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1181"/>
         <source>Increase Size</source>
-        <translation type="unfinished"/>
+        <translation>Увеличить размер</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1182"/>
         <source>Increase the via/pad/pin/text size</source>
-        <translation type="unfinished"/>
+        <translation>Увеличить размер переходного отверстия/площадки/контакта/текста</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1190"/>
         <source>Decrease Size</source>
-        <translation type="unfinished"/>
+        <translation>Уменьшить размер</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1191"/>
         <source>Decrease the via/pad/pin/text size</source>
-        <translation type="unfinished"/>
+        <translation>Уменьшить размер переходного отверстия/площадки/контакта/текста</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1199"/>
         <source>Increase Drill</source>
-        <translation type="unfinished"/>
+        <translation>Увеличить сверловку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1200"/>
@@ -9136,7 +9136,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeladd.cpp" line="41"/>
         <source>Add Net Label</source>
-        <translation type="unfinished"/>
+        <translation>Добавить метку сети</translation>
     </message>
 </context>
 <context>
