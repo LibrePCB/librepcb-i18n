@@ -2203,12 +2203,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="766"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="767"/>
         <source>Rename the selected object</source>
-        <translation type="unfinished"/>
+        <translation>Переименовать выделенный объект</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="776"/>
@@ -2233,52 +2233,52 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="796"/>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>Увеличить</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="797"/>
         <source>Increase the zoom level</source>
-        <translation type="unfinished"/>
+        <translation>Увеличить уровень увеличения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="805"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>Уменьшить</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="806"/>
         <source>Decrease the zoom level</source>
-        <translation type="unfinished"/>
+        <translation>Уменьшить уровень увеличения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="814"/>
         <source>Increase Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>Увеличить интервал сетки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="815"/>
         <source>Increase the grid interval</source>
-        <translation type="unfinished"/>
+        <translation>Увеличить интервал сетки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="823"/>
         <source>Decrease Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>Уменьшить интервал сетки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="824"/>
         <source>Decrease the grid interval</source>
-        <translation type="unfinished"/>
+        <translation>Уменьшить интервал сетки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="832"/>
         <source>Show Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Отобразить номера выводов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="833"/>
         <source>Show or hide symbol pin numbers</source>
-        <translation type="unfinished"/>
+        <translation>Отобразить / скрыть номера выводов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="841"/>
@@ -2293,12 +2293,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="850"/>
         <source>Toggle 2D/3D Mode</source>
-        <translation type="unfinished"/>
+        <translation>Переключить 2D/3D режим</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="851"/>
         <source>Switch between 2D and 3D viewer mode</source>
-        <translation type="unfinished"/>
+        <translation>Переключение между 2D и 3D режимами отображения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="858"/>
@@ -2308,7 +2308,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="862"/>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="863"/>
@@ -2318,7 +2318,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="871"/>
         <source>Draw Line</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать линию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="872"/>
@@ -2328,7 +2328,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="880"/>
         <source>Draw Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать прямоугольник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="881"/>
@@ -2338,7 +2338,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="889"/>
         <source>Draw Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать многоугольник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="890"/>
@@ -2358,7 +2358,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="907"/>
         <source>Draw Arc</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать дугу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="908"/>
@@ -2368,7 +2368,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="916"/>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>Добавить текст</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="917"/>
@@ -2398,7 +2398,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="943"/>
         <source>Add Pin</source>
-        <translation type="unfinished"/>
+        <translation>Добавить вывод</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="944"/>
@@ -2418,7 +2418,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="961"/>
         <source>Add SMT Pad</source>
-        <translation type="unfinished"/>
+        <translation>Добавить SMT контактную площадку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="962"/>
@@ -2438,7 +2438,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="979"/>
         <source>Add BGA Pad</source>
-        <translation type="unfinished"/>
+        <translation>Добавить BGA контактную площадку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="980"/>
@@ -2498,12 +2498,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1033"/>
         <source>Add Hole</source>
-        <translation type="unfinished"/>
+        <translation>Добавить отверстие</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1034"/>
         <source>Add non-plated holes (NPTH drills)</source>
-        <translation type="unfinished"/>
+        <translation>Добавить отверстия без металлизации (NPTH сверловка)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1042"/>
@@ -3551,7 +3551,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="146"/>
         <source>Board</source>
-        <translation type="unfinished"/>
+        <translation>Плата</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="244"/>
@@ -4863,7 +4863,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="81"/>
         <source>Board</source>
-        <translation type="unfinished"/>
+        <translation>Плата</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="82"/>
@@ -5243,7 +5243,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="51"/>
         <source>CRITICAL</source>
-        <translation type="unfinished"/>
+        <translation>КРИТИЧЕСКИЙ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="66"/>
@@ -6374,7 +6374,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/modelview/keyboardshortcutsmodel.cpp" line="182"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdprojectlibraryaddelement.cpp" line="46"/>
@@ -6949,13 +6949,13 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="84"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="144"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всё</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="94"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="154"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="104"/>
@@ -8179,13 +8179,13 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="112"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="179"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всё</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="122"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="189"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="132"/>
@@ -10128,13 +10128,13 @@ Warning: This cannot be undone!</source>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="122"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="189"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всё</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="132"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="199"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="142"/>
@@ -10339,7 +10339,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="149"/>
         <source>Library Elements</source>
-        <translation>Элементы библиотеки</translation>
+        <translation>Библиотека элементов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="167"/>
@@ -11385,12 +11385,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="252"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всё</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="259"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="266"/>
@@ -11470,13 +11470,13 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="114"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="181"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всё</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="124"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="191"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="134"/>
@@ -11621,7 +11621,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="411"/>
         <source>Show Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Отобразить номера контактов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="419"/>
@@ -11781,7 +11781,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1154"/>
         <source>Save as...</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить как...</translation>
     </message>
 </context>
 <context>
@@ -11804,7 +11804,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="83"/>
         <source>Document Title:</source>
-        <translation type="unfinished"/>
+        <translation>Заголовок документа: </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="93"/>
@@ -12859,12 +12859,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="98"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всё</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="105"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="112"/>
@@ -14620,13 +14620,13 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="91"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="158"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Всё</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="101"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="168"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="111"/>
@@ -14677,7 +14677,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="277"/>
         <source>SMT</source>
-        <translation type="unfinished"/>
+        <translation>SMT</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="284"/>
@@ -14984,7 +14984,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="278"/>
         <source>Add Net Class:</source>
-        <translation type="unfinished"/>
+        <translation>Добавить класс сети:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projectsetupdialog.ui" line="288"/>
@@ -16447,7 +16447,7 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="206"/>
         <source>Web Browser</source>
-        <translation type="unfinished"/>
+        <translation>Web браузер</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="213"/>
@@ -16463,7 +16463,7 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="228"/>
         <source>PDF Reader</source>
-        <translation type="unfinished"/>
+        <translation>PDF Reader</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="283"/>
