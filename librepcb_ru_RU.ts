@@ -3129,17 +3129,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1601"/>
         <source>Keyboard Shortcuts Reference</source>
-        <translation type="unfinished"/>
+        <translation>Настройка сочетаний клавиш</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1602"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Открыть краткую справку о сочетаниях клавиш</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1610"/>
         <source>Context Menu</source>
-        <translation type="unfinished"/>
+        <translation>Контекстное меню</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1613"/>
@@ -3149,27 +3149,27 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1614"/>
         <source>Create a new folder</source>
-        <translation type="unfinished"/>
+        <translation>Создать новую папку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1622"/>
         <source>Add To Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Добавить в избранное</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1623"/>
         <source>Add project to favorites</source>
-        <translation type="unfinished"/>
+        <translation>Добавить проект в избранное</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1631"/>
         <source>Remove From Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Удалить из избранного</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1632"/>
         <source>Remove project from favorites</source>
-        <translation type="unfinished"/>
+        <translation>Удалить проект из избранного</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1640"/>
@@ -3179,7 +3179,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1641"/>
         <source>Insert a new vertex into the selected polygon edge</source>
-        <translation type="unfinished"/>
+        <translation>Вставить новую вершину в выбранное ребро многоугольника</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1649"/>
@@ -3229,22 +3229,22 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1694"/>
         <source>Visible</source>
-        <translation type="unfinished"/>
+        <translation>Видимость</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1695"/>
         <source>Toggle visibility</source>
-        <translation type="unfinished"/>
+        <translation>Переключить видимость</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1704"/>
         <source>Generate Content</source>
-        <translation type="unfinished"/>
+        <translation>Генерировать контент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1705"/>
         <source>Automatically generate some content</source>
-        <translation type="unfinished"/>
+        <translation>Автоматически генерировать некоторый контент</translation>
     </message>
 </context>
 <context>
@@ -4598,7 +4598,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="82"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Черный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="89"/>
@@ -4638,7 +4638,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="131"/>
         <source>White</source>
-        <translation type="unfinished"/>
+        <translation>Белый</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="138"/>
@@ -7224,7 +7224,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="150"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="236"/>
@@ -7260,7 +7260,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="102"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="117"/>
@@ -7441,7 +7441,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="848"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1358"/>
@@ -7646,7 +7646,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="89"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="107"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="110"/>
@@ -7956,7 +7956,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="219"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="222"/>
@@ -8120,7 +8120,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="99"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="158"/>
@@ -10474,7 +10474,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="53"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"/>
+        <translation>Коэффициент масштаба: </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="60"/>
@@ -11505,7 +11505,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="45"/>
         <source>Page size:</source>
-        <translation type="unfinished"/>
+        <translation>Размер листа:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="61"/>
@@ -11515,12 +11515,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="81"/>
         <source>Resolution:</source>
-        <translation type="unfinished"/>
+        <translation>Разрешение:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="107"/>
         <source>Orientation:</source>
-        <translation type="unfinished"/>
+        <translation>Ориентация:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="122"/>
@@ -11530,17 +11530,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="141"/>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Альбомная</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="157"/>
         <source>Portrait</source>
-        <translation type="unfinished"/>
+        <translation>Книжная</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="169"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"/>
+        <translation>Коэффициент масштаба: </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="178"/>
@@ -11550,27 +11550,27 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="193"/>
         <source>Background:</source>
-        <translation type="unfinished"/>
+        <translation>Фон:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="208"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="227"/>
         <source>White</source>
-        <translation type="unfinished"/>
+        <translation>Белый</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="243"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Черный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="255"/>
         <source>Margins:</source>
-        <translation type="unfinished"/>
+        <translation>Поля: </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="314"/>
@@ -11580,7 +11580,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="323"/>
         <source>Transformation:</source>
-        <translation type="unfinished"/>
+        <translation>Преобразования:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="332"/>
@@ -11596,12 +11596,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="348"/>
         <source>Minimum line width:</source>
-        <translation type="unfinished"/>
+        <translation>Минимальная ширина линии:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="358"/>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Цвета: </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="365"/>
@@ -11819,12 +11819,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="173"/>
         <source>Duplicate the selected page(s)</source>
-        <translation type="unfinished"/>
+        <translation>Дублировать выбранную страницу(ы)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="202"/>
         <source>Remove the selected page(s)</source>
-        <translation type="unfinished"/>
+        <translation>Удалить выбранную страницу(ы)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="230"/>
@@ -11834,17 +11834,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="254"/>
         <source>Page size:</source>
-        <translation type="unfinished"/>
+        <translation>Размер листа:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="264"/>
         <source>Resolution:</source>
-        <translation type="unfinished"/>
+        <translation>Разрешение:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="290"/>
         <source>Orientation:</source>
-        <translation type="unfinished"/>
+        <translation>Ориентация:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="308"/>
@@ -11854,47 +11854,47 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="327"/>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Альбомная</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="343"/>
         <source>Portrait</source>
-        <translation type="unfinished"/>
+        <translation>Книжная</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="355"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"/>
+        <translation>Коэффициент масштаба: </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="364"/>
         <source>Fit to page</source>
-        <translation type="unfinished"/>
+        <translation>Вписать в страницу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="379"/>
         <source>Background:</source>
-        <translation type="unfinished"/>
+        <translation>Фон:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="394"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="413"/>
         <source>White</source>
-        <translation type="unfinished"/>
+        <translation>Белый</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="429"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Черный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="441"/>
         <source>Margins:</source>
-        <translation type="unfinished"/>
+        <translation>Поля: </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="500"/>
@@ -11904,7 +11904,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="524"/>
         <source>Transformation:</source>
-        <translation type="unfinished"/>
+        <translation>Преобразования:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="533"/>
@@ -11919,17 +11919,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="549"/>
         <source>Minimum line width:</source>
-        <translation type="unfinished"/>
+        <translation>Минимальная ширина линии:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="559"/>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Цвета: </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="566"/>
         <source>Monochrome</source>
-        <translation type="unfinished"/>
+        <translation>Монохромный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="574"/>
@@ -12030,7 +12030,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="138"/>
         <source>Center:</source>
-        <translation type="unfinished"/>
+        <translation>Центр: </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="168"/>
@@ -12149,7 +12149,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="71"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="109"/>
@@ -12307,7 +12307,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/modelview/keyboardshortcutsmodel.cpp" line="252"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует</translation>
     </message>
 </context>
 <context>
@@ -13329,7 +13329,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="78"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="80"/>
@@ -16469,7 +16469,7 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="283"/>
         <source>None</source>
         <comment>Grid style</comment>
-        <translation type="unfinished"/>
+        <translation>Отсутствует</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="285"/>
