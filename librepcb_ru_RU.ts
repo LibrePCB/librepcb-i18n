@@ -2733,108 +2733,108 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1244"/>
         <source>Align Left</source>
-        <translation type="unfinished"/>
+        <translation>Выровнять по левому краю</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1245"/>
         <source>Horizontal alignment: Left</source>
-        <translation type="unfinished"/>
+        <translation>Выравнивание по горизонтали: слева</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1253"/>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1280"/>
         <source>Align Center</source>
-        <translation type="unfinished"/>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1254"/>
         <source>Horizontal alignment: Center</source>
-        <translation type="unfinished"/>
+        <translation>Выравнивание по горизонтали: по центру</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1262"/>
         <source>Align Right</source>
-        <translation type="unfinished"/>
+        <translation>Выровнять по правому краю</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1263"/>
         <source>Horizontal alignment: Right</source>
-        <translation type="unfinished"/>
+        <translation>Выравнивание по горизонтали: справо</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1271"/>
         <source>Align Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Выровнять по низу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1272"/>
         <source>Vertical alignment: Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Выравнивание по вертикали: по низу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1281"/>
         <source>Vertical alignment: Center</source>
-        <translation type="unfinished"/>
+        <translation>Выравнивание по вертикали: по центру</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1289"/>
         <source>Align Top</source>
-        <translation type="unfinished"/>
+        <translation>Выровнять по верху</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1290"/>
         <source>Vertical alignment: Top</source>
-        <translation type="unfinished"/>
+        <translation>Выравнивание по вертикали: по верху</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1298"/>
         <source>Horizontal - Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Горизонтально - вертикально</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1299"/>
         <source>Wire mode: First segment horizontal, second segment vertical</source>
-        <translation type="unfinished"/>
+        <translation>Режим проводки: Первый сегмент горизонтально, второй сегмент вертикально</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1308"/>
         <source>Vertical - Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Вертикально - горизонтально</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1309"/>
         <source>Wire mode: First segment vertical, second segment horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Режим проводки: Первый сегмент вертикально, второй сегмент горизонтально</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1318"/>
         <source>90° - 45°</source>
-        <translation type="unfinished"/>
+        <translation>90° - 45°</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1319"/>
         <source>Wire mode: First segment 90°, second segment 45°</source>
-        <translation type="unfinished"/>
+        <translation>Режим проводки: Первый сегмент 90°, второй сегмент 45°</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1327"/>
         <source>45° - 90°</source>
-        <translation type="unfinished"/>
+        <translation>45° - 90°</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1328"/>
         <source>Wire mode: First segment 45°, second segment 90°</source>
-        <translation type="unfinished"/>
+        <translation>Режим проводки: Первый сегмент 45°, второй сегмент 90°</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1336"/>
         <source>Straight</source>
-        <translation type="unfinished"/>
+        <translation>Прямой</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1337"/>
         <source>Wire mode: Straight line</source>
-        <translation type="unfinished"/>
+        <translation>Режим проводки: прямые линии</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1345"/>
@@ -2844,27 +2844,27 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1346"/>
         <source>Shape: Round</source>
-        <translation type="unfinished"/>
+        <translation>Форма: Круглая</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1354"/>
         <source>Rounded Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Закругленный прямоугольник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1355"/>
         <source>Shape: Rounded Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Форма: Закругленный прямоугольник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1363"/>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Прямоугольник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1364"/>
         <source>Shape: Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Форма: Прямоугольник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1372"/>
@@ -2874,7 +2874,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1373"/>
         <source>Shape: Octagon</source>
-        <translation type="unfinished"/>
+        <translation>Форма: Восьмиугольник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1381"/>
@@ -2884,62 +2884,62 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1384"/>
         <source>Resistor</source>
-        <translation type="unfinished"/>
+        <translation>Резистор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1385"/>
         <source>Add standard component: Resistor</source>
-        <translation type="unfinished"/>
+        <translation>Добавить стандартный компонент: резистор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1393"/>
         <source>Inductor</source>
-        <translation type="unfinished"/>
+        <translation>Индуктивность</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1394"/>
         <source>Add standard component: Inductor</source>
-        <translation type="unfinished"/>
+        <translation>Добавить стандартный компонент: индуктивность</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1402"/>
         <source>Bipolar Capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Биполярный конденсатор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1403"/>
         <source>Add standard component: Bipolar capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Добавить стандартный компонент: биполярный конденсатор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1411"/>
         <source>Unipolar Capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Однополярный конденсатор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1412"/>
         <source>Add standard component: Unipolar capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Добавить стандартный компонент: однополярный конденсатор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1420"/>
         <source>GND Supply</source>
-        <translation type="unfinished"/>
+        <translation>GND линия</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1421"/>
         <source>Add standard component: GND supply</source>
-        <translation type="unfinished"/>
+        <translation>Добавить стандартный компонент: GND линия</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1429"/>
         <source>VCC Supply</source>
-        <translation type="unfinished"/>
+        <translation>VCC линия</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1430"/>
         <source>Add standard component: VCC supply</source>
-        <translation type="unfinished"/>
+        <translation>Добавить стандартный компонент: VCC линия</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1437"/>
@@ -2959,22 +2959,22 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1450"/>
         <source>Electrical Rule Check (ERC)</source>
-        <translation type="unfinished"/>
+        <translation>Проверка электрических правил (ERC)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1451"/>
         <source>Go to the ERC messages dock</source>
-        <translation type="unfinished"/>
+        <translation>Перейти в панель управления сообщениями ERC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1459"/>
         <source>Design Rule Check (DRC)</source>
-        <translation type="unfinished"/>
+        <translation>Проверка правил проектирования (DRC)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1460"/>
         <source>Go to the DRC messages dock</source>
-        <translation type="unfinished"/>
+        <translation>Перейти на панель управления сообщениями DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1468"/>
@@ -3004,52 +3004,52 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1490"/>
         <source>Next Tab/Page</source>
-        <translation type="unfinished"/>
+        <translation>Следующая вкладка/страница</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1491"/>
         <source>Navigate to the next tab or page</source>
-        <translation type="unfinished"/>
+        <translation>Перейти к следующей вкладке или странице</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1499"/>
         <source>Previous Tab/Page</source>
-        <translation type="unfinished"/>
+        <translation>Предыдущая вкладка/страница</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1500"/>
         <source>Navigate to the previous tab or page</source>
-        <translation type="unfinished"/>
+        <translation>Перейти на предыдущую вкладку или страницу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1508"/>
         <source>Close Tab</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть вкладку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1509"/>
         <source>Close the currently opened tab</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть текущую открытую вкладку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1517"/>
         <source>Close All Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть все вкладки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1518"/>
         <source>Close all currently opened tabs</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть все текущие открытые вкладки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1526"/>
         <source>Close Window</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть окно</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1527"/>
         <source>Close this window</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть это окно</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1535"/>
@@ -3059,17 +3059,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1536"/>
         <source>Close the currently opened project</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть текущий открытый проект</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1544"/>
         <source>Close All Projects</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть все проекты</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1545"/>
         <source>Close all currently opened projects</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть все текущие открытые проекты</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1553"/>
@@ -3079,7 +3079,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1554"/>
         <source>Close the whole application</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть всё приложение целиком</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1561"/>
@@ -3094,7 +3094,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1566"/>
         <source>Show information about the application</source>
-        <translation type="unfinished"/>
+        <translation>Отобразить информацию о приложении</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1574"/>
@@ -3104,7 +3104,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1575"/>
         <source>Show information about Qt</source>
-        <translation type="unfinished"/>
+        <translation>Отобразить информацию о Qt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1583"/>
@@ -3114,7 +3114,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1584"/>
         <source>Open the LibrePCB website in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Открыть веб-сайт LibrePCB в веб-браузере</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1592"/>
@@ -3124,7 +3124,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1593"/>
         <source>Open the documentation in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Открыть документацию в веб-браузере</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1601"/>
@@ -11151,7 +11151,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="262"/>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Прямоугольник</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="288"/>
