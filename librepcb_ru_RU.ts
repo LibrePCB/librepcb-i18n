@@ -8455,7 +8455,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardnetsegmentedit.cpp" line="41"/>
         <source>Edit net segment</source>
-        <translation type="unfinished"/>
+        <translation>Изменить сегмент сети</translation>
     </message>
 </context>
 <context>
@@ -8463,7 +8463,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardnetsegmentremove.cpp" line="42"/>
         <source>Remove net segment</source>
-        <translation type="unfinished"/>
+        <translation>Удалить сегмент сети</translation>
     </message>
 </context>
 <context>
@@ -8471,7 +8471,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardnetsegmentremoveelements.cpp" line="44"/>
         <source>Remove net segment elements</source>
-        <translation type="unfinished"/>
+        <translation>Удалить элементы сегмента сети</translation>
     </message>
 </context>
 <context>
@@ -9185,7 +9185,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetsegmentedit.cpp" line="41"/>
         <source>Edit net segment</source>
-        <translation type="unfinished"/>
+        <translation>Изменить сегмент сети</translation>
     </message>
 </context>
 <context>
@@ -9193,7 +9193,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetsegmentremove.cpp" line="42"/>
         <source>Remove net segment</source>
-        <translation type="unfinished"/>
+        <translation>Удалить сегмент сети</translation>
     </message>
 </context>
 <context>
@@ -9201,7 +9201,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetsegmentremoveelements.cpp" line="44"/>
         <source>Remove net segment elements</source>
-        <translation type="unfinished"/>
+        <translation>Удалить элементы сегмента сети</translation>
     </message>
 </context>
 <context>
@@ -10464,7 +10464,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="39"/>
         <source>Line width:</source>
-        <translation type="unfinished"/>
+        <translation>Ширина линии:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="46"/>
@@ -10501,12 +10501,12 @@ If unchecked, you need to specify exact coordinates where the point (0,0) of the
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="100"/>
         <source>X-coordinate.</source>
-        <translation type="unfinished"/>
+        <translation>X-координата.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="107"/>
         <source>Y-coordinate.</source>
-        <translation type="unfinished"/>
+        <translation>Y-координата.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="116"/>
@@ -10589,7 +10589,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="20"/>
         <source>Choose the EAGLE library file to import.</source>
-        <translation type="unfinished"/>
+        <translation>Выберите файл библиотеки EAGLE для импорта.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="26"/>
@@ -10632,12 +10632,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.ui" line="47"/>
         <source>Import Errors</source>
-        <translation type="unfinished"/>
+        <translation>Ошибки импорта</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.cpp" line="113"/>
         <source>Scanning libraries</source>
-        <translation type="unfinished"/>
+        <translation>Сканирование библиотек</translation>
     </message>
 </context>
 <context>
@@ -10683,22 +10683,22 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="20"/>
         <source>Choose the import options and click on the import button below to continue. If you are unsure about the options, just keep the default values.</source>
-        <translation type="unfinished"/>
+        <translation>Выберите параметры импорта и нажмите на кнопку импорта ниже, чтобы продолжить. Если вы не уверены в параметрах, просто оставьте значения по умолчанию.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="26"/>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>Префикс</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="47"/>
         <source>Helps to distinguish between manually created elements and imported elements.</source>
-        <translation type="unfinished"/>
+        <translation>Помогает различить созданные вручную, и импортированные элементы.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="50"/>
         <source>Add prefix &quot;%1&quot; to all library element names</source>
-        <translation type="unfinished"/>
+        <translation>Добавить префикс &quot;%1&quot; ко всем именам элементов библиотеки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="60"/>
@@ -10767,17 +10767,17 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/modelview/editablelistmodel.h" line="136"/>
         <source>Invalid value.</source>
-        <translation type="unfinished"/>
+        <translation>Недопустимое значение.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/editablelistmodel.h" line="142"/>
         <source>Value already contained in list.</source>
-        <translation type="unfinished"/>
+        <translation>Значение, уже содержащееся в списке.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/editablelistmodel.h" line="253"/>
         <source>Item</source>
-        <translation type="unfinished"/>
+        <translation>Элемент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/editablelistmodel.h" line="261"/>
