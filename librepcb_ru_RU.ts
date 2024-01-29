@@ -1907,7 +1907,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="498"/>
         <source>Export STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт STEP-модели</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="499"/>
@@ -4725,7 +4725,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="277"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>Сеть:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="283"/>
@@ -6148,7 +6148,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="693"/>
         <source>Run DRC...</source>
-        <translation type="unfinished"/>
+        <translation>Запуск DRC...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="705"/>
@@ -6354,12 +6354,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.cpp" line="163"/>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Выберите файл</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="94"/>
         <source>ERROR: %1 not found</source>
-        <translation type="unfinished"/>
+        <translation>ОШИБКА: %1 не найден</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="98"/>
@@ -6369,7 +6369,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreelabeltextbuilder.cpp" line="81"/>
         <source>Please choose a category.</source>
-        <translation type="unfinished"/>
+        <translation>Пожалуйста выберите категорию.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/keyboardshortcutsmodel.cpp" line="182"/>
@@ -6457,7 +6457,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="60"/>
         <source>Copied!</source>
-        <translation type="unfinished"/>
+        <translation>Скопировано!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="88"/>
@@ -6467,7 +6467,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="93"/>
         <source>Links</source>
-        <translation type="unfinished"/>
+        <translation>Ссылки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="95"/>
@@ -6487,7 +6487,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="107"/>
         <source>License</source>
-        <translation type="unfinished"/>
+        <translation>Лицензия</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="109"/>
@@ -6537,7 +6537,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="159"/>
         <source>Sponsors</source>
-        <translation type="unfinished"/>
+        <translation>Спонсоры</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="161"/>
@@ -6547,7 +6547,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="165"/>
         <source>Icons</source>
-        <translation type="unfinished"/>
+        <translation>Иконки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="167"/>
@@ -6613,7 +6613,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="39"/>
         <source>Install Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Установка библиотек</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="45"/>
@@ -6628,17 +6628,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="68"/>
         <source>Download and install/update selected libraries</source>
-        <translation type="unfinished"/>
+        <translation>Скачать и установить/обновить выбранные библиотеки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="78"/>
         <source>Create Local Library</source>
-        <translation type="unfinished"/>
+        <translation>Создать локальную бблиотеку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="87"/>
         <source>Creates a new local library in the currently opened workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Создать новую локальную библиотеку в текущем открытом рабочем пространстве</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="104"/>
@@ -6678,7 +6678,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="208"/>
         <source>Put library under the Public Domain License CC0-1.0 (mandatory to publish it on librepcb.org).</source>
-        <translation type="unfinished"/>
+        <translation>Разместите библиотеку под Public Domain License CC0-1.0 (обязательно для публикации на librepcb.org).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="230"/>
@@ -6693,7 +6693,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="260"/>
         <source>Download Manually</source>
-        <translation type="unfinished"/>
+        <translation>Скачать вручную</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="269"/>
@@ -6785,7 +6785,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="307"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Ожидание</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="308"/>
@@ -7106,12 +7106,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1710"/>
         <source>Export STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт STEP-модели</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1736"/>
         <source>STEP Export Failure</source>
-        <translation type="unfinished"/>
+        <translation>Сбой при экспорте STEP-модели</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1752"/>
@@ -7214,7 +7214,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="132"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>Сеть:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="149"/>
@@ -7245,7 +7245,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="80"/>
         <source>No net available</source>
-        <translation type="unfinished"/>
+        <translation>Нет доступных сетей</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="81"/>
@@ -7255,7 +7255,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="89"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>Сеть:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="102"/>
@@ -7517,22 +7517,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="61"/>
         <source>Format:</source>
-        <translation type="unfinished"/>
+        <translation>Формат:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="73"/>
         <source>CSV with metadata*</source>
-        <translation type="unfinished"/>
+        <translation>CSV с метаданными:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="83"/>
         <source>CSV without metadata</source>
-        <translation type="unfinished"/>
+        <translation>CSV без метаданных</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="90"/>
         <source>Gerber X3</source>
-        <translation type="unfinished"/>
+        <translation>Gerber X3</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="117"/>
@@ -7796,7 +7796,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="478"/>
         <source>DRC Settings</source>
-        <translation type="unfinished"/>
+        <translation>Настройки DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="552"/>
@@ -7826,7 +7826,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="619"/>
         <source>Minimum Sizes</source>
-        <translation type="unfinished"/>
+        <translation>Минимальные размеры</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="641"/>
@@ -8439,7 +8439,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardnetsegmentadd.cpp" line="41"/>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardnetsegmentadd.cpp" line="49"/>
         <source>Add net segment</source>
-        <translation type="unfinished"/>
+        <translation>Добавить сегмент сети</translation>
     </message>
 </context>
 <context>
@@ -9169,7 +9169,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetsegmentadd.cpp" line="42"/>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetsegmentadd.cpp" line="50"/>
         <source>Add net segment</source>
-        <translation type="unfinished"/>
+        <translation>Добавить сегмент сети</translation>
     </message>
 </context>
 <context>
@@ -10604,7 +10604,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.cpp" line="67"/>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Выберите файл</translation>
     </message>
 </context>
 <context>
