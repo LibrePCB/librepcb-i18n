@@ -14670,12 +14670,12 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="318"/>
         <source>Add a new 3D model</source>
-        <translation type="unfinished"/>
+        <translation>Pridať nový 3D model</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="452"/>
         <source>There is already a 3D model with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje 3D model s názvom &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="463"/>
@@ -14685,12 +14685,12 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="497"/>
         <source>Failed to minify the provided STEP file, will keep the original as-is.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba pri minimalizácii poskytnutého STEP súboru, bude zachovaný originál tak ako je.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="500"/>
         <source>Reason:</source>
-        <translation type="unfinished"/>
+        <translation>Príčina:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="502"/>
