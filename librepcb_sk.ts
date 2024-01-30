@@ -16523,7 +16523,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="224"/>
         <source>Desktop Integration:</source>
-        <translation type="unfinished"/>
+        <translation>Integrácia s prac. plochou:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="232"/>
@@ -16661,7 +16661,11 @@ Afterwards the project library can be updated.</source>
 &lt;p&gt;You can add any server to this list which implements the LibrePCB API. The official LibrePCB server is &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.
 To completely disable Internet access, just remove all entries.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;body&gt;
+&lt;p&gt;Koncové body API sú použité pre online služby, napríklad pre sťahovanie knižníc z internetu.&lt;/p&gt;
+&lt;p&gt;Do tohto zoznamu môžete pridať ľubovoľný server, ktorý implementuje LibrePCB API. Oficiálny server LibrePCB je &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.
+Pre úplný zákaz prístupu na internet, stačí odstrániť všetky záznamy.&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="72"/>
@@ -16822,7 +16826,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="633"/>
         <source>Other application installed</source>
-        <translation type="unfinished"/>
+        <translation>Iná nainštalovaná aplikácia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="639"/>
@@ -16845,27 +16849,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="48"/>
         <source>Raise a DRC error if there are any copper objects (e.g. traces or vias) in this zone. Only planes are allowed to flood this zone without raising an error.</source>
-        <translation type="unfinished"/>
+        <translation>Vyhlásiť chybu ak sa v tejto oblasti nachádzajú vodivé prvky (napr. spoje alebo prechody). Iba vyplnené plochy môžu obsadiť túto oblasť bez vyhlásenia chyby.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="51"/>
         <source>No copper (except planes)</source>
-        <translation type="unfinished"/>
+        <translation>Žiaden vodivý prvok (okrem vyplnených plôch)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="58"/>
         <source>Prevent copper planes from flooding this zone.</source>
-        <translation type="unfinished"/>
+        <translation>Zabrániť vyplnenej ploche obsadiť túto oblasť.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="61"/>
         <source>No planes</source>
-        <translation type="unfinished"/>
+        <translation>Bez vyplnených plôch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="68"/>
         <source>Raise a DRC error if there is any solder resist opening (possibly exposing copper) in this zone.</source>
-        <translation type="unfinished"/>
+        <translation>Vyhlásiť chybu ak sa v tejto oblasti nachádza odmaskovaná časť (možné odhalenie vodivého prvku).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="71"/>
@@ -16875,7 +16879,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="78"/>
         <source>Raise a DRC error if there are any devices placed in this zone.</source>
-        <translation type="unfinished"/>
+        <translation>Vyhlásiť chybu ak sa v tejto oblasti nachádzajú nejaké súčiastky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="81"/>
@@ -16900,7 +16904,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="68"/>
         <source>Inner Layers</source>
-        <translation type="unfinished"/>
+        <translation>Vnútorné vrstvy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="70"/>
@@ -16936,7 +16940,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../share/applications/org.librepcb.LibrePCB.desktop" line="1"/>
         <source>Design Schematics and PCBs</source>
-        <translation type="unfinished"/>
+        <translation>Návrh schém a dosiek s plošnými spojmi</translation>
     </message>
 </context>
 </TS>
