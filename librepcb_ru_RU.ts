@@ -1837,7 +1837,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="433"/>
         <source>Remove this item</source>
-        <translation type="unfinished"/>
+        <translation>Удалить этот элемент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="441"/>
@@ -1847,47 +1847,47 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="442"/>
         <source>Add this item</source>
-        <translation type="unfinished"/>
+        <translation>Добавить этот элемент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="450"/>
         <source>Import/Export</source>
-        <translation type="unfinished"/>
+        <translation>Импорт/экспорт</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="453"/>
         <source>Import DXF</source>
-        <translation type="unfinished"/>
+        <translation>Импорт DXF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="454"/>
         <source>Import a 2D mechanical drawing</source>
-        <translation type="unfinished"/>
+        <translation>Импорт 2D механического чертежа</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="462"/>
         <source>Import EAGLE Library</source>
-        <translation type="unfinished"/>
+        <translation>Импорт библиотеки EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="463"/>
         <source>Import library elements from an EAGLE *.lbr file</source>
-        <translation type="unfinished"/>
+        <translation>Импорт элементов из файла EAGLE-библиотеки *.lbr</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="471"/>
         <source>Export *.lppz Archive</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт *.lppz архив</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="472"/>
         <source>Export the project as a self-contained *.lppz archive</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт проекта в виде автономного архива *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="480"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт изображения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="481"/>
@@ -1897,12 +1897,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="489"/>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="490"/>
         <source>Export graphics as a PDF</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт графики как PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="498"/>
@@ -1917,7 +1917,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="507"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Печать</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="508"/>
@@ -2017,7 +2017,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="593"/>
         <source>Cut the selected object(s) to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Вырезать выделенные объект(ы) в буфер обмена</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="601"/>
@@ -2027,77 +2027,77 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="602"/>
         <source>Copy the selected object(s) to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Копировать выделенные объект(ы) в буфер обмена</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="610"/>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Вставить</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="611"/>
         <source>Paste object(s) from the clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Вставить объект(ы) из буфера обмена</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="619"/>
         <source>Move Left</source>
-        <translation type="unfinished"/>
+        <translation>Переместить влево</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="620"/>
         <source>Move the selected object(s) to the left</source>
-        <translation type="unfinished"/>
+        <translation>Переместить выбранный объект(ы) влево</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="628"/>
         <source>Move Right</source>
-        <translation type="unfinished"/>
+        <translation>Переместить вправо</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="629"/>
         <source>Move the selected object(s) to the right</source>
-        <translation type="unfinished"/>
+        <translation>Переместить выбранный объект(ы) вправо</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="637"/>
         <source>Move Up</source>
-        <translation type="unfinished"/>
+        <translation>Переместить вверх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="638"/>
         <source>Move the selected object(s) up</source>
-        <translation type="unfinished"/>
+        <translation>Переместить выбранный объект(ы) вверх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="646"/>
         <source>Move Down</source>
-        <translation type="unfinished"/>
+        <translation>Переместить вниз</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="647"/>
         <source>Move the selected object(s) down</source>
-        <translation type="unfinished"/>
+        <translation>Переместить выбранный объект(ы) вниз</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="655"/>
         <source>Rotate Counterclockwise</source>
-        <translation type="unfinished"/>
+        <translation>Повернуть против часовой стрелки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="656"/>
         <source>Rotate the selected object(s) counterclockwise</source>
-        <translation type="unfinished"/>
+        <translation>Повернуть выделенный объект(ы) против часовой стрелки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="664"/>
         <source>Rotate Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Повернуть по часовой стрелке</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="665"/>
         <source>Rotate the selected object(s) clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Повернуть выделенный объект(ы) по часовой стрелке</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="673"/>
@@ -3199,7 +3199,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1659"/>
         <source>Select the whole trace</source>
-        <translation type="unfinished"/>
+        <translation>Выделить всю трассировку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1667"/>
@@ -3273,7 +3273,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="115"/>
         <source>Net name conflict: &apos;%1&apos; != &apos;%2&apos; (&apos;%3:%4&apos;)</source>
-        <translation type="unfinished"/>
+        <translation>Конфликт в именах сетей: &apos;%1&apos; != &apos;%2&apos; (&apos;%3:%4&apos;)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="119"/>
@@ -3299,7 +3299,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="77"/>
         <source>Open wire in net: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Открыть проводник в сети: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="78"/>
@@ -3486,7 +3486,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="584"/>
         <source>Test Pad (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Тестовая контактная площадка  (SMT, без пайки)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="586"/>
@@ -3505,7 +3505,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/job/gerberexcellonoutputjob.cpp" line="41"/>
         <location filename="../libs/librepcb/core/job/gerberexcellonoutputjob.h" line="134"/>
         <source>Gerber/Excellon</source>
-        <translation type="unfinished"/>
+        <translation>Gerber/Excellon</translation>
     </message>
 </context>
 <context>
@@ -11686,17 +11686,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="93"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт изображения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="96"/>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="99"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Печать</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="117"/>
