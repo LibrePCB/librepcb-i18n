@@ -5232,12 +5232,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="202"/>
+        <location filename="../apps/librepcb/main.cpp" line="206"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="203"/>
+        <location filename="../apps/librepcb/main.cpp" line="207"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
         <translation>无法打开工作区 &quot;%1&quot;:</translation>
     </message>
@@ -5774,48 +5774,48 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::NetworkRequestBase</name>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="100"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="107"/>
         <source>Start request...</source>
         <translation>开始请求...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="103"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="110"/>
         <source>Fatal error: Download manager is not running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="110"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="117"/>
         <source>Abort request...</source>
         <translation>终止请求...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="123"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="130"/>
         <source>Request started...</source>
         <translation>请求已开始...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="128"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="135"/>
         <source>Network access manager is not running.</source>
         <translation>网络访问管理器不在运行。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="186"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="193"/>
         <source>Send data: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="204"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="211"/>
         <source>Receive data: %1</source>
         <translation>接收数据: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="218"/>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="272"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="225"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="279"/>
         <source>%1 (%2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="229"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="236"/>
         <source>SSL errors occurred:
 
 %1</source>
@@ -5824,37 +5824,37 @@ You need at least LibrePCB %1 to open it.
 %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="242"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="249"/>
         <source>Network request aborted.</source>
         <translation>网络请求终止。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="252"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="259"/>
         <source>Redirection loop detected.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="255"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="262"/>
         <source>Too many redirects.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="261"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="268"/>
         <source>Redirect to %1...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="293"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="310"/>
         <source>Request successfully finished.</source>
         <translation>请求成功完成。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="299"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="316"/>
         <source>Request aborted.</source>
         <translation>请求终止。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="305"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="322"/>
         <source>Request failed: %1</source>
         <translation>请求失败: %1</translation>
     </message>
@@ -8359,13 +8359,8 @@ You need at least LibrePCB %1 to open it.
         <translation>从</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/categorylisteditorwidget.ui" line="50"/>
-        <source>Add category</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/library/cat/categorylisteditorwidget.ui" line="57"/>
-        <source>Remove selected</source>
+        <location filename="../libs/librepcb/editor/library/cat/categorylisteditorwidget.ui" line="67"/>
+        <source>Remove selected category</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -9765,22 +9760,22 @@ Are you sure the footprint and pinout of the selected part are compatible with t
         <translation>消息:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="160"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="163"/>
         <source>Invalid metadata</source>
         <translation>非法的元数据</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="171"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="174"/>
         <source>Save failed</source>
         <translation>保存失败</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="310"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="313"/>
         <source>Determine default value</source>
         <translation>确定默认值</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="312"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="315"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
         <translation type="unfinished"/>
     </message>
@@ -10078,7 +10073,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
 <context>
     <name>librepcb::editor::ComponentSymbolVariantListWidget</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistwidget.cpp" line="148"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistwidget.cpp" line="152"/>
         <source>Could not edit symbol variant</source>
         <translation>无法编辑符号变量</translation>
     </message>
@@ -12756,69 +12751,69 @@ Are you really sure to remove &quot;%2&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="343"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="331"/>
         <source>Click here to choose an icon (PNG, 256x256px).</source>
         <translation>单击此处选择一个图标（PNG，256x256px）。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="369"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="350"/>
         <source>Name:</source>
         <translation>名称：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="383"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="364"/>
         <source>Description:</source>
         <translation>描述：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="400"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="381"/>
         <source>Keywords:</source>
         <translation>关键字：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="414"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="395"/>
         <source>Author:</source>
         <translation>作者：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="428"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="409"/>
         <source>Version:</source>
         <translation>版本：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="442"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="423"/>
         <source>Deprecated:</source>
         <translation>已弃用：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="449"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="430"/>
         <source>Library should no longer be used.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="463"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="444"/>
         <source>URL:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="477"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="458"/>
         <source>Dependencies:</source>
         <translation>依赖:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="494"/>
-        <source>Messages:</source>
-        <translation>消息:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="514"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="468"/>
         <source>Manufacturer:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="521"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="475"/>
         <source>Manufacturer name, in case the library refers to a single manufacturer.</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="492"/>
+        <source>Messages:</source>
+        <translation>消息:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="206"/>
@@ -13642,37 +13637,37 @@ This can be reverted in the workspace settings dialog.</source>
         <translation>作者</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="166"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="167"/>
         <source>Download failed</source>
         <translation>下载失败</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="214"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="215"/>
         <source>v%1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="216"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="217"/>
         <source>Update</source>
         <translation>更新</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="219"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="220"/>
         <source>Installed</source>
         <translation>已安装的</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="226"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="227"/>
         <source>Recommended</source>
         <translation>推荐的</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="232"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="233"/>
         <source>Install</source>
         <translation>安装</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="240"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="241"/>
         <source>Error: Invalid UUID</source>
         <translation>错误: 非法的  UUID</translation>
     </message>
@@ -16871,12 +16866,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>main</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="222"/>
+        <location filename="../apps/librepcb/main.cpp" line="226"/>
         <source>Unstable file format!</source>
         <translation>不稳定的文件格式！</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="223"/>
+        <location filename="../apps/librepcb/main.cpp" line="227"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;注意：该应用非稳定版！&lt;/b&gt;&lt;/p&gt;&lt;p&gt;只要您使用了此应用，就有可能破坏你的工作区、库或项目！保存的文件也可能无法使用稳定版的LibrePCB打开。非常建议您在进行任何操作前进行备份。如果您自己没把握，请下载官方最新的稳定版本。&lt;/p&gt;&lt;p&gt;更多详情，请阅读LibrePCB的&lt;a href=&quot;%1&quot;&gt;版本控制文档&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;您真的确认继续操作并承担文件损坏的风险吗？！&lt;/p&gt;</translation>
     </message>

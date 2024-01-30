@@ -5242,12 +5242,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="202"/>
+        <location filename="../apps/librepcb/main.cpp" line="206"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="203"/>
+        <location filename="../apps/librepcb/main.cpp" line="207"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
         <translation>Nepodařilo se otevřít pracovní prostor &quot;%1&quot;:</translation>
     </message>
@@ -5784,48 +5784,48 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::NetworkRequestBase</name>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="100"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="107"/>
         <source>Start request...</source>
         <translation>Požadavek na spuštění...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="103"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="110"/>
         <source>Fatal error: Download manager is not running.</source>
         <translation>Fatální chyba: Správce stahování neběží.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="110"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="117"/>
         <source>Abort request...</source>
         <translation>Požadavek na přerušení...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="123"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="130"/>
         <source>Request started...</source>
         <translation>Požadavek spuštěn...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="128"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="135"/>
         <source>Network access manager is not running.</source>
         <translation>Správce sítě neběží.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="186"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="193"/>
         <source>Send data: %1</source>
         <translation>Vysílání dat: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="204"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="211"/>
         <source>Receive data: %1</source>
         <translation>Příjem dat: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="218"/>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="272"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="225"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="279"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="229"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="236"/>
         <source>SSL errors occurred:
 
 %1</source>
@@ -5834,37 +5834,37 @@ You need at least LibrePCB %1 to open it.
 %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="242"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="249"/>
         <source>Network request aborted.</source>
         <translation>Síťový požadavek přerušen.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="252"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="259"/>
         <source>Redirection loop detected.</source>
         <translation>Zjištěna smyčka přesměrování.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="255"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="262"/>
         <source>Too many redirects.</source>
         <translation>Příliš mnoho přesměrování.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="261"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="268"/>
         <source>Redirect to %1...</source>
         <translation>Přesměrováno na %1...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="293"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="310"/>
         <source>Request successfully finished.</source>
         <translation>Požadavek úspěšně dokončen.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="299"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="316"/>
         <source>Request aborted.</source>
         <translation>Požadavek přerušen.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="305"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="322"/>
         <source>Request failed: %1</source>
         <translation>Požadavek selhal: %1</translation>
     </message>
@@ -8375,14 +8375,9 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <translation>Formulář</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cat/categorylisteditorwidget.ui" line="50"/>
-        <source>Add category</source>
-        <translation>Přidat kategorii</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/library/cat/categorylisteditorwidget.ui" line="57"/>
-        <source>Remove selected</source>
-        <translation>Odstranit vybrané</translation>
+        <location filename="../libs/librepcb/editor/library/cat/categorylisteditorwidget.ui" line="67"/>
+        <source>Remove selected category</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9781,22 +9776,22 @@ Are you sure the footprint and pinout of the selected part are compatible with t
         <translation>Zprávy:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="160"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="163"/>
         <source>Invalid metadata</source>
         <translation>Neplatná popisná data</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="171"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="174"/>
         <source>Save failed</source>
         <translation>Nepodařilo se uložit</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="310"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="313"/>
         <source>Determine default value</source>
         <translation>Zadat výchozí hodnotu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="312"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="315"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
         <translation>Jedná se o (výrobcovu-)specifickou komponentu a ne o všeobecnou?</translation>
     </message>
@@ -10094,7 +10089,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
 <context>
     <name>librepcb::editor::ComponentSymbolVariantListWidget</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistwidget.cpp" line="148"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistwidget.cpp" line="152"/>
         <source>Could not edit symbol variant</source>
         <translation>Nepodařilo se upravit variantu schematické značky</translation>
     </message>
@@ -12780,69 +12775,69 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
         <translation>Součástky</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="343"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="331"/>
         <source>Click here to choose an icon (PNG, 256x256px).</source>
         <translation>Klepněte sem pro výběr ikonky (PNG, 256x256px).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="369"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="350"/>
         <source>Name:</source>
         <translation>Název:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="383"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="364"/>
         <source>Description:</source>
         <translation>Popis:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="400"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="381"/>
         <source>Keywords:</source>
         <translation>Klíčová slova:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="414"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="395"/>
         <source>Author:</source>
         <translation>Autor:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="428"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="409"/>
         <source>Version:</source>
         <translation>Verze:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="442"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="423"/>
         <source>Deprecated:</source>
         <translation>Nepoužívat:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="449"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="430"/>
         <source>Library should no longer be used.</source>
         <translation>Knihovna by se nadále neměla používat.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="463"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="444"/>
         <source>URL:</source>
         <translation>Adresa (URL):</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="477"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="458"/>
         <source>Dependencies:</source>
         <translation>Závislosti:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="494"/>
-        <source>Messages:</source>
-        <translation>Zprávy:</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="514"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="468"/>
         <source>Manufacturer:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="521"/>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="475"/>
         <source>Manufacturer name, in case the library refers to a single manufacturer.</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="492"/>
+        <source>Messages:</source>
+        <translation>Zprávy:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="206"/>
@@ -13672,37 +13667,37 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
         <translation>Autor</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="166"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="167"/>
         <source>Download failed</source>
         <translation>Nepodařilo se stáhnout</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="214"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="215"/>
         <source>v%1</source>
         <translation>v%1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="216"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="217"/>
         <source>Update</source>
         <translation>Aktualizovat</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="219"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="220"/>
         <source>Installed</source>
         <translation>Nainstalováno</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="226"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="227"/>
         <source>Recommended</source>
         <translation>Dooručeno</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="232"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="233"/>
         <source>Install</source>
         <translation>Nainstalovat</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="240"/>
+        <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="241"/>
         <source>Error: Invalid UUID</source>
         <translation>Chyba: neplatný UUID</translation>
     </message>
@@ -16914,12 +16909,12 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
 <context>
     <name>main</name>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="222"/>
+        <location filename="../apps/librepcb/main.cpp" line="226"/>
         <source>Unstable file format!</source>
         <translation>Formát souboru se může změnit!</translation>
     </message>
     <message>
-        <location filename="../apps/librepcb/main.cpp" line="223"/>
+        <location filename="../apps/librepcb/main.cpp" line="227"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;UPOZORNĚNÍ: Toto není stálá verze programu!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Práce s ní může poškodit váš pracovní prostor, knihovny anebo projekty! Soubory uložené touto verzí, nebudou čitelné stabilními verzemi LibrePCB. Před pokračováním doporučujeme, vytvořit si jejich kopie. Pokud si nejste jisti postupem, prosím raději použijte oficiálni stabilní verzi.&lt;/p&gt;&lt;p&gt;Pro více podrobností, si prosím podívejte &lt;a href=&quot;%1&quot;&gt;koncept verzování&lt;/a&gt; LibrePCB.&lt;/p&gt;&lt;p&gt;Opravdu chcete pokračovať i když může dojít k poškození Vašich souborů?!&lt;/p&gt;</translation>
     </message>
