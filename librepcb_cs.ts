@@ -3491,7 +3491,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="572"/>
         <source>Not Specified</source>
-        <translation type="unfinished"/>
+        <translation>Nespecifikováno</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="574"/>
@@ -11911,7 +11911,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="890"/>
         <source>No printer found</source>
-        <translation type="unfinished"/>
+        <translation>Tiskárna nebyla nalezena</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="941"/>
@@ -12404,7 +12404,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="86"/>
         <source>Error:</source>
-        <translation type="unfinished"/>
+        <translation>Chyba:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="88"/>
@@ -12559,7 +12559,7 @@ Chcete je před zavřením uložit?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="780"/>
         <source>Filter elements...</source>
-        <translation type="unfinished"/>
+        <translation>Filtr prvků...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="795"/>
@@ -12827,7 +12827,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="468"/>
         <source>Manufacturer:</source>
-        <translation type="unfinished"/>
+        <translation>Výrobce:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="475"/>
@@ -13752,7 +13752,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="73"/>
         <source>discussion forum</source>
-        <translation type="unfinished"/>
+        <translation>diskusní fórum</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="104"/>
@@ -14371,7 +14371,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="77"/>
         <source>Inner</source>
-        <translation type="unfinished"/>
+        <translation>Vnitřní</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="87"/>
@@ -14475,7 +14475,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1202"/>
         <source>No Content</source>
-        <translation type="unfinished"/>
+        <translation>Žádný obsah</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1203"/>
@@ -15002,7 +15002,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="194"/>
         <source>Occurrences</source>
-        <translation type="unfinished"/>
+        <translation>Výskyty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="194"/>
@@ -16218,7 +16218,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="54"/>
         <source>Move Text</source>
-        <translation type="unfinished"/>
+        <translation>Posunout text</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="63"/>
@@ -16494,12 +16494,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="180"/>
         <source>Install...</source>
-        <translation type="unfinished"/>
+        <translation>Nainstalovat...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="187"/>
         <source>Uninstall...</source>
-        <translation type="unfinished"/>
+        <translation>Odinstalovat...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="212"/>
@@ -16815,7 +16815,7 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="639"/>
         <source>Not installed</source>
-        <translation type="unfinished"/>
+        <translation>Nenainstalováno</translation>
     </message>
 </context>
 <context>
@@ -16848,7 +16848,7 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="61"/>
         <source>No planes</source>
-        <translation type="unfinished"/>
+        <translation>Bez ploch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="68"/>
