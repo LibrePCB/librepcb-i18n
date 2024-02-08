@@ -4142,7 +4142,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="209"/>
         <source>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</source>
-        <translation>Каждый пакет должен иметь хотя бы одно посадочное место, иначе он не может быть помещён на плату.</translation>
+        <translation>Каждый корпус должен иметь хотя бы одно посадочное место, иначе он не может быть помещён на плату.</translation>
     </message>
 </context>
 <context>
@@ -5424,7 +5424,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="90"/>
         <source>No package with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
-        <translation>Пакет с UUID &quot;%1&quot; не найден в библиотеке проекта.</translation>
+        <translation>Корпус с UUID &quot;%1&quot; не найден в библиотеке проекта.</translation>
     </message>
 </context>
 <context>
@@ -6302,7 +6302,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1091"/>
         <source>Process %1 package categories...</source>
-        <translation>Обработано %1 категорий пакетов...</translation>
+        <translation>Обработано %1 категорий корпусов...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1110"/>
@@ -6312,7 +6312,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1129"/>
         <source>Process %1 packages...</source>
-        <translation>Обработано %1 пакетов...</translation>
+        <translation>Обработано %1 корпусов...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1148"/>
@@ -10296,7 +10296,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="76"/>
         <source>Package</source>
-        <translation>Пакет</translation>
+        <translation>Корпус</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="187"/>
@@ -10398,7 +10398,7 @@ Warning: This cannot be undone!</source>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="328"/>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="429"/>
         <source>Package not found!</source>
-        <translation>Пакет не найден!</translation>
+        <translation>Корпус не найден!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="337"/>
@@ -10481,7 +10481,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="199"/>
         <source>Package:</source>
-        <translation>Пакет:</translation>
+        <translation>Корпус:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="264"/>
@@ -10802,7 +10802,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="263"/>
         <source>Packages</source>
-        <translation>Пакеты</translation>
+        <translation>Корпусы</translation>
     </message>
 </context>
 <context>
@@ -12733,12 +12733,12 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="131"/>
         <source>Package Categories</source>
-        <translation>Категории пакетов</translation>
+        <translation>Категории корпусов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="174"/>
         <source>Packages</source>
-        <translation>Пакеты</translation>
+        <translation>Корпусы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="217"/>
