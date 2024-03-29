@@ -1443,7 +1443,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="503"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
-        <translation type="unfinished"/>
+        <translation>Čiarkované a bodkované čiary nie sú podporované a budú skonvertované na plné čiary.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="508"/>
@@ -1892,12 +1892,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="471"/>
         <source>Import EAGLE Project</source>
-        <translation type="unfinished"/>
+        <translation>Importovať projekt EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="472"/>
         <source>Import schematic/board from EAGLE *.sch/*.brd files</source>
-        <translation type="unfinished"/>
+        <translation>Importovať schému/dosku z EAGLE súborov *.sch/*.brd</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="480"/>
@@ -4063,12 +4063,12 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="186"/>
         <source>Invalid pad connection in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné pripojenie plôšky vývodu v &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="188"/>
         <source>A footprint pad is connected to a package pad which doesn&apos;t exist. Check all pads for proper connections.</source>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu značky púzdra, je pripojené na nejestvujúcu plôšku púzdra. Skontrolujte správnosť pripojenia všetkych plôšok.</translation>
     </message>
 </context>
 <context>
@@ -6468,7 +6468,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="588"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
-        <translation type="unfinished"/>
+        <translation>Čiarkované a bodkované čiary nie sú podporované a budú skonvertované na plné čiary.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="593"/>
@@ -8379,7 +8379,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorylisteditorwidget.ui" line="67"/>
         <source>Remove selected category</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť zvolenú kategóriu</translation>
     </message>
 </context>
 <context>
