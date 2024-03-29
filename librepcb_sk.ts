@@ -231,12 +231,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="139"/>
         <source>Override output jobs with a *.lp file containing custom jobs. If not set, the jobs from the project will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>Prepísať výstupné úlohy so súborom *.lp obsahujúcim vlastné úlohy. Ak nie je zadané, použije sa nastavenie z projektu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="144"/>
         <source>Override the output base directory of jobs. If not set, the standard output directory from the project is used.</source>
-        <translation type="unfinished"/>
+        <translation>Prepísať nastavenie základného cieľového adresára pre úlohy generovania výstupov. Ak nie je zadané, použije sa nastavenie z projektu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
@@ -1371,17 +1371,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1106"/>
         <source>Device overlap: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
-        <translation type="unfinished"/>
+        <translation>Prekrytie súčiastok: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1112"/>
         <source>Two devices are overlapping and thus probably cannot be assembled both at the same time.</source>
-        <translation type="unfinished"/>
+        <translation>Dve súčiastky sa prekrývajú takže ich nebude možné fyzicky osadiť obe naraz.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1115"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems (or only one of them gets assembled).</source>
-        <translation type="unfinished"/>
+        <translation>Presuňte súčiastky od seba, aby ste zvýšili ich vzájomné odsadenie, alebo schváľte túto správu, ak ste si istí, že sa dajú bez problémov fyzicky osadiť (alebo sa osadí len jedna z nich).</translation>
     </message>
 </context>
 <context>
@@ -2028,12 +2028,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="570"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Úlohy generovania výstupov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="571"/>
         <source>Modify or run output jobs</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť, alebo spustiť úlohy generovania výstupov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="579"/>
@@ -2634,7 +2634,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1116"/>
         <source>Automatically generate the outline polygon</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky vytvoriť obrysový polygón</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1124"/>
@@ -2644,7 +2644,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1125"/>
         <source>Automatically generate the courtyard polygon</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky vytvoriť polygón manipulačnej oblasti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1133"/>
@@ -3330,12 +3330,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1749"/>
         <source>Generate Content</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť obsah</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1750"/>
         <source>Automatically generate some content</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky vytvoriť nejaký obsah</translation>
     </message>
 </context>
 <context>
@@ -3596,7 +3596,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/job/gerberexcellonoutputjob.cpp" line="41"/>
         <location filename="../libs/librepcb/core/job/gerberexcellonoutputjob.h" line="134"/>
         <source>Gerber/Excellon</source>
-        <translation type="unfinished"/>
+        <translation>Gerber/Excellon</translation>
     </message>
 </context>
 <context>
@@ -3604,12 +3604,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/job/gerberx3outputjob.cpp" line="40"/>
         <source>Pick&amp;Place X3</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;Place X3</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/gerberx3outputjob.h" line="84"/>
         <source>Pick&amp;Place (Gerber X3)</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;Place (Gerber X3)</translation>
     </message>
 </context>
 <context>
@@ -3622,7 +3622,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.cpp" line="201"/>
         <source>Board Assembly PDF</source>
-        <translation type="unfinished"/>
+        <translation>Osadzovací výkres PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="120"/>
@@ -3769,12 +3769,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="254"/>
         <source>Top Package Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Vrchný obrys súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="262"/>
         <source>Bottom Package Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Spodný obrys súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="270"/>
@@ -4191,17 +4191,17 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="208"/>
         <source>Missing courtyard in footprint &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Chýbajúca definovaná manipulačná oblasť v púzdre &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="210"/>
         <source>It is recommended to draw the package courtyard with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if another device is placed within the courtyard of this device (i.e. too close).</source>
-        <translation type="unfinished"/>
+        <translation>Odporúča sa nakresliť manipulačnú oblasť púzdra ako jeden uzavretý mnohouholník alebo kruh s nulovou šírkou na vrstve &apos;%1&apos;. Toto umožňuje kontrole DRC upozorniť, ak si viaceré púzdra vzájomne vstupujú do tejto oblasti (t. j. sú príliš blízko, alebo cez seba).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="216"/>
         <source>Often this is identical to the package outline but with a small offset. If you&apos;re unsure, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Zvyčajne je rovnaká ako vonkajší obrys púzdra ale s malým prídavkom. Ak ste si neni istý, toto oznámenie ignorujte.</translation>
     </message>
 </context>
 <context>
@@ -4261,12 +4261,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="308"/>
         <source>Missing outline in footprint &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Chýbajúci obrys púzdra &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="310"/>
         <source>It is recommended to draw the package outline with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if this device is placed within the courtyard of another device (i.e. too close).</source>
-        <translation type="unfinished"/>
+        <translation>Odporúča sa nakresliť obrys púzdra ako jeden uzavretý mnohouholník alebo kruh s nulovou šírkou na vrstve &apos;%1&apos;. Toto umožňuje kontrole DRC upozorniť, ak si viaceré púzdra vzájomne vstupujú do tejto oblasti (t. j. sú príliš blízko, alebo cez seba).</translation>
     </message>
 </context>
 <context>
@@ -4755,12 +4755,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/job/pickplaceoutputjob.cpp" line="40"/>
         <source>Pick&amp;Place CSV</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;Place CSV</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/pickplaceoutputjob.h" line="102"/>
         <source>Pick&amp;Place</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;Place</translation>
     </message>
 </context>
 <context>
@@ -4769,7 +4769,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/job/projectjsonoutputjob.cpp" line="40"/>
         <location filename="../libs/librepcb/core/job/projectjsonoutputjob.h" line="64"/>
         <source>Project Data</source>
-        <translation type="unfinished"/>
+        <translation>Projektové dáta</translation>
     </message>
 </context>
 <context>
@@ -5172,12 +5172,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="130"/>
         <source>Package Outlines Top</source>
-        <translation type="unfinished"/>
+        <translation>Vrchné obrysy púzdier</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="131"/>
         <source>Package Outlines Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Spodné obrysy púzdier</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="132"/>
@@ -5949,12 +5949,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="123"/>
         <source>Attempted to write the output file &apos;%1&apos; multiple times!</source>
-        <translation type="unfinished"/>
+        <translation>Pokúsili ste sa zapísať do výstupného súboru &apos;%1&apos; viackrát!  </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="126"/>
         <source>Make sure to specify unique output file paths, e.g. by using placeholders like &apos;%1&apos; or &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Uistite sa že ste zadali jedinečné cieľové cesty pre generovanie výstupných súborov, napríklad použitím zástupných symbolov ako &apos;%1&apos; alebo &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -5962,37 +5962,37 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="247"/>
         <source>Unknown output job type &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Neznámy typ úlohy pre generovanie výstupu &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="248"/>
         <source>You may need a more recent LibrePCB version to run this job.</source>
-        <translation type="unfinished"/>
+        <translation>Na spustenie tejto úlohy možno budete potrebovať novšiu verziu LibrePCB. </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="254"/>
         <source>No output files were generated, check the job configuration.</source>
-        <translation type="unfinished"/>
+        <translation>Neboli vytvorené žiadne výstupné súbory, skontrolujte nastavenie úlohy pre generovanie výstupov.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="389"/>
         <source>No technologies selected, thus the output files won&apos;t contain any entries.</source>
-        <translation type="unfinished"/>
+        <translation>Nie sú zvolené žiadne technológie, takže výstupné súbory nebudú obsahovať žiadne položky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="634"/>
         <source>The input file must be located within the project directory, specified by a relative file path.</source>
-        <translation type="unfinished"/>
+        <translation>Zdrojový súbor sa musí nachádzať v adresári projektu, pretože je nastavený relatívnou cestou.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="669"/>
         <source>The archive job depends on files from another job which was not run yet. Note that archive jobs can only depend on jobs further ahead in the list so you might need to reorder them.</source>
-        <translation type="unfinished"/>
+        <translation>Úloha archivácie závisí od súborov z inej úlohy, ktorá ešte nebola spustená. Všimnite si, že archivačné úlohy môžu závisieť iba od úloh, ktoré sú v zozname ďalej vpredu, takže možno budete musieť zmeniť ich poradie.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="681"/>
         <source>No input jobs selected, thus the resulting archive will be empty.</source>
-        <translation type="unfinished"/>
+        <translation>Nie sú vybraté žiadne vstupné úlohy, takže výsledný archív bude prázdny.</translation>
     </message>
 </context>
 <context>
@@ -6272,7 +6272,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="742"/>
         <source>ERROR: Failed to load custom output jobs: %1</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA: Neúspešné načítanie užívateľských úloh generovania výstupov: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="758"/>
@@ -13995,7 +13995,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.ui" line="37"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Úlohy generovania výstupov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="58"/>
@@ -14048,7 +14048,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="55"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Úlohy generovania výstupov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="97"/>
@@ -14071,7 +14071,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="14"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Úlohy generovania výstupov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="92"/>
