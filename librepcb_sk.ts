@@ -845,7 +845,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1710"/>
         <source>Objects on disabled layer: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Počet objektov na vypnutej vrstve: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1711"/>
@@ -1416,7 +1416,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1728"/>
         <source>Unused layer: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepoužitá vrstva: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1729"/>
@@ -1898,12 +1898,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="453"/>
         <source>Add Example Projects</source>
-        <translation type="unfinished"/>
+        <translation>Pridať vzorové projekty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="454"/>
         <source>Add some example projects to the workspace</source>
-        <translation type="unfinished"/>
+        <translation>Pridajú sa vzorové projekty do pracovného priestoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="462"/>
@@ -2244,7 +2244,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="766"/>
         <source>Reset All Texts</source>
-        <translation>Resetnúť texty</translation>
+        <translation>Obnoviť všetky texty do pôvodných nastavení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="767"/>
@@ -3300,32 +3300,32 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1721"/>
         <source>Copy MPN to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovať MPN do schránky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1722"/>
         <source>Copy this MPN into the clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovať toto MPN do schránky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1730"/>
         <source>Open Product Website</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť webstránku produktu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1731"/>
         <source>Open product details about this part in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Otvorenie stránky s produktovými podrobnosťami tohto dielu vo webovom prehliadači</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1739"/>
         <source>Open Pricing Website</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť webstránku s cenami</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1740"/>
         <source>Open pricing details about this part in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Otvorenie stránky s cenovými podrobnosťami tohto dielu vo webovom prehliadači</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1749"/>
@@ -5640,7 +5640,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1634"/>
         <source>Check used layers...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola použitých vrstiev...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1693"/>
@@ -6627,49 +6627,49 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="49"/>
         <source>Active</source>
         <extracomment>Part lifecycle status. Please keep it very very short!</extracomment>
-        <translation type="unfinished"/>
+        <translation>Aktívne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="53"/>
         <source>NRND</source>
         <extracomment>Part lifecycle status. Please keep it very very short! Don't use &quot;not recommended for new designs&quot;! If in doubt, just keep the English abbreviation.</extracomment>
-        <translation type="unfinished"/>
+        <translation>NRND</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="55"/>
         <source>Obsolete</source>
         <extracomment>Part lifecycle status. Please keep it very very short!</extracomment>
-        <translation type="unfinished"/>
+        <translation>Zastarané</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="77"/>
         <source>Excellent Availability</source>
         <extracomment>Part supplier availability. Please keep it relatively short!</extracomment>
-        <translation type="unfinished"/>
+        <translation>Vynikajúca dostupnosť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="80"/>
         <source>Good Availability</source>
         <extracomment>Part supplier availability. Please keep it relatively short!</extracomment>
-        <translation type="unfinished"/>
+        <translation>Dobrá dostupnosť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="83"/>
         <source>Available</source>
         <extracomment>Part supplier availability. Please keep it relatively short!</extracomment>
-        <translation type="unfinished"/>
+        <translation>Dostupné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="86"/>
         <source>Bad Availability</source>
         <extracomment>Part supplier availability. Please keep it relatively short!</extracomment>
-        <translation type="unfinished"/>
+        <translation>Zlá dostupnosť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="89"/>
         <source>Not Available</source>
         <extracomment>Part supplier availability. Please keep it relatively short!</extracomment>
-        <translation type="unfinished"/>
+        <translation>Nedostupné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/undostack.cpp" line="97"/>
@@ -8425,22 +8425,22 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="321"/>
         <source>Availability</source>
-        <translation type="unfinished"/>
+        <translation>Dostupnosť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="415"/>
         <source>%1 parts:</source>
-        <translation type="unfinished"/>
+        <translation>%1 súčiastky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="417"/>
         <source>%1 of %2 parts:</source>
-        <translation type="unfinished"/>
+        <translation>%1 z %2 súčiastok:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="421"/>
         <source>Total: %1 parts</source>
-        <translation type="unfinished"/>
+        <translation>Celkovo: %1 súčiastok</translation>
     </message>
 </context>
 <context>
@@ -9100,7 +9100,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddevicestroketextsreset.cpp" line="43"/>
         <source>Reset footprint texts</source>
-        <translation>Prestaviť texty púzdra</translation>
+        <translation>Obnoviť texty púzdra na do pôvodných nastavení</translation>
     </message>
 </context>
 <context>
@@ -9605,7 +9605,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdsymbolinstancetextsreset.cpp" line="45"/>
         <source>Reset symbol texts</source>
-        <translation>Obnoviť texty schematickej značky</translation>
+        <translation>Obnoviť texty schematickej značky do pôvodných nastavení</translation>
     </message>
 </context>
 <context>
@@ -9777,7 +9777,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="190"/>
         <source>Reset</source>
-        <translation>Vynulovať</translation>
+        <translation>Obnoviť do pôvodných nastavení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="213"/>
@@ -11036,7 +11036,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="102"/>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="161"/>
         <source>Reset</source>
-        <translation>Vynulovať</translation>
+        <translation>Obnoviť do pôvodných nastavení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="119"/>
@@ -13061,7 +13061,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="675"/>
         <source>Note: This operation cannot be easily undone!</source>
-        <translation type="unfinished"/>
+        <translation>Poznámka: Toto nie je jednoduché vrátiť späť!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="679"/>
@@ -13534,7 +13534,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="183"/>
         <source>Reset</source>
-        <translation>Vynulovať</translation>
+        <translation>Obnoviť do pôvodných nastavení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.cpp" line="215"/>
@@ -13724,7 +13724,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="113"/>
         <source>Path:</source>
-        <translation type="unfinished"/>
+        <translation>Cesta:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="134"/>
@@ -13794,7 +13794,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="192"/>
         <source>Please enter a project name</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, zadajte názov projektu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="217"/>
@@ -13916,7 +13916,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/openglview.cpp" line="95"/>
         <source>Press %1 to rotate around Z-axis</source>
-        <translation type="unfinished"/>
+        <translation>Stlačte %1 pre rotovanie okolo osi Z</translation>
     </message>
 </context>
 <context>
@@ -14275,7 +14275,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="197"/>
         <source>Reset</source>
-        <translation>Vynulovať</translation>
+        <translation>Obnoviť do pôvodných nastavení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="213"/>
@@ -14976,24 +14976,24 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="115"/>
         <source>Exit interactive mode</source>
-        <translation type="unfinished"/>
+        <translation>Opustiť interaktívny režim</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="131"/>
         <source>Auto-Connect</source>
         <extracomment>Please try to keep it short!</extracomment>
-        <translation type="unfinished"/>
+        <translation>Automatické prepojenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="133"/>
         <source>Try to automatically connect pads to signals by their name</source>
-        <translation type="unfinished"/>
+        <translation>Automatické prepojenie plôšok vývodov so signálmi podľa ich názvov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="144"/>
         <source>Connect Interactively</source>
         <extracomment>Please try to keep it short!</extracomment>
-        <translation type="unfinished"/>
+        <translation>Prepojiť interaktívne</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="146"/>
@@ -15003,17 +15003,17 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="367"/>
         <source>Reset All</source>
-        <translation type="unfinished"/>
+        <translation>Obnoviť všetko do pôvodného nastavenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="368"/>
         <source>Reset all pads to &apos;unconnected&apos; state</source>
-        <translation type="unfinished"/>
+        <translation>Obnoviť všetky plôšky vývodov do stavu &apos;nepripojené&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="373"/>
         <source>Load From File</source>
-        <translation type="unfinished"/>
+        <translation>Načítať zo súboru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="375"/>
@@ -15023,7 +15023,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="392"/>
         <source>Reset Pinout</source>
-        <translation type="unfinished"/>
+        <translation>Obnoviť zapojenie vývodov do pôvodných nastavení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="394"/>
@@ -15036,17 +15036,17 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="419"/>
         <source>Auto-Connect Pads To Signals</source>
-        <translation type="unfinished"/>
+        <translation>Automatické prepojenie plôšok vývodov a signálov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="434"/>
         <source>Choose Pinout File</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť súbor s prepojením vývodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="487"/>
         <source>Load Pinout From File</source>
-        <translation type="unfinished"/>
+        <translation>Načítať prepojenie vývodov zo súboru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="503"/>
@@ -15061,12 +15061,12 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="637"/>
         <source>Pad %1/%2</source>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu 1/%2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="716"/>
         <source>Reset Pinout?</source>
-        <translation type="unfinished"/>
+        <translation>Obnoviť zapojenie vývodov do pôvodných nastavení?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="717"/>
@@ -15089,7 +15089,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="133"/>
         <source>This service is currently not available.</source>
-        <translation type="unfinished"/>
+        <translation>Táto služba je momentálne nedostupná.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="139"/>
@@ -16986,7 +16986,7 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="609"/>
         <source>Reset theme to default values</source>
-        <translation>Obnoviť tému s východzími hodnotami</translation>
+        <translation>Obnoviť tému do východzích nastavení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="623"/>
@@ -17148,7 +17148,7 @@ Pre úplný zákaz prístupu na internet, stačí odstrániť všetky záznamy.&
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
-        <translation>Naozaj chcete obnoviť predvolené nastavenie?
+        <translation>Naozaj chcete obnoviť východzieho nastavenia?
 
 Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!</translation>
     </message>
@@ -17185,12 +17185,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="613"/>
         <source>Reset</source>
-        <translation>Vynulovať</translation>
+        <translation>Obnoviť do pôvodných nastavení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="616"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
-        <translation>Resetnúť všetky permanentne zrušené oznámenia (niečo ako „nezobrazovať znova“) aby sa znova zobrazovali.</translation>
+        <translation>Obnoviť všetky permanentne zrušené oznámenia (niečo ako „nezobrazovať znova“) aby sa znova zobrazovali.</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="619"/>
