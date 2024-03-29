@@ -14058,88 +14058,98 @@ For more information about licensing, click on this icon.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="206"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="198"/>
+        <source>Discard Changes?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="199"/>
+        <source>You made changes to output jobs which will be lost when closing the dialog. Are you sure to discard them?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="224"/>
         <source>Documentation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="208"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="226"/>
         <source>Schematic PDF/Image</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="211"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="229"/>
         <source>Board Assembly PDF/Image</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="213"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="231"/>
         <source>Production Data</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="219"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="237"/>
         <source>Protel Style</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="236"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="254"/>
         <source>Generic</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="258"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="276"/>
         <source>(copy)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="324"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="342"/>
         <source>No unknown files in output directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="329"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="347"/>
         <source>Are you sure to remove the following files?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="338"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="356"/>
         <source> • And %1 more files!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="341"/>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="345"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="359"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="363"/>
         <source>Remove Unknown Files</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="427"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="445"/>
         <source>Unknown files in output folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="433"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="451"/>
         <source>Finished with warnings!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="513"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="531"/>
         <source>Unknown job type. You may need a more recent LibrePCB version to modify this job.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="558"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="576"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="657"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="675"/>
         <source>ERROR</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="663"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="681"/>
         <source>SUCCESS!</source>
         <translation type="unfinished"/>
     </message>
