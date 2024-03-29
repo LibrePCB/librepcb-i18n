@@ -1474,7 +1474,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="510"/>
         <source>Flat line end is not supported, converting to round.</source>
-        <translation type="unfinished"/>
+        <translation>Ploché ukončenie čiar nie je podporované a bude zmenené na zaoblené.</translation>
     </message>
 </context>
 <context>
@@ -6537,7 +6537,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="597"/>
         <source>Flat line end is not supported, converting to round.</source>
-        <translation type="unfinished"/>
+        <translation>Ploché ukončenie čiar nie je podporované a bude zmenené na zaoblené.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="609"/>
@@ -6562,7 +6562,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1133"/>
         <source>Flat trace end is not supported, converting to round.</source>
-        <translation type="unfinished"/>
+        <translation>Ploché ukončenie spojov nie je podporované a bude zmenené na zaoblené.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1137"/>
@@ -12129,7 +12129,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="37"/>
         <source>Customizable PDF/image export for schematics and boards.</source>
-        <translation>Prispôsobiteľný PDF/image export schém a dosiek.</translation>
+        <translation>Prispôsobiteľný export schém a dosiek do PDF/obrázku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="73"/>
@@ -14058,17 +14058,17 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="97"/>
         <source>Run this job</source>
-        <translation type="unfinished"/>
+        <translation>Spustiť túto úlohu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="98"/>
         <source>Run all dependencies and this job</source>
-        <translation type="unfinished"/>
+        <translation>Spustiť všetky závislosti a túto úlohu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="100"/>
         <source>Run all jobs</source>
-        <translation type="unfinished"/>
+        <translation>Spustiť všetky úlohy</translation>
     </message>
 </context>
 <context>
@@ -14081,32 +14081,32 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="92"/>
         <source>Add a new job</source>
-        <translation type="unfinished"/>
+        <translation>Pridať novú úlohu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="112"/>
         <source>Duplicate the selected job</source>
-        <translation type="unfinished"/>
+        <translation>Duplikovať zvolenú úlohu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="132"/>
         <source>Move selected job up</source>
-        <translation type="unfinished"/>
+        <translation>Presunúť zvolenú úlohy vyššie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="152"/>
         <source>Move selected job down</source>
-        <translation type="unfinished"/>
+        <translation>Presunúť zvolenú úlohy nižšie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="172"/>
         <source>Remove selected job</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť zvolenú úlohu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="255"/>
         <source>Show/hide output messages</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť/skryť výstupné hlásenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="258"/>
@@ -14116,7 +14116,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="277"/>
         <source>Remove unknown files in output directory</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť neznáme súbory z cieľového adresára výstupov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="106"/>
@@ -14141,12 +14141,12 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="226"/>
         <source>Schematic PDF/Image</source>
-        <translation>PDF/Obrázok schémy</translation>
+        <translation>PDF/obrázok schémy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="229"/>
         <source>Board Assembly PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>Odsadzovací plán dosky ako PDF/obrázok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="231"/>
@@ -14171,7 +14171,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="342"/>
         <source>No unknown files in output directory.</source>
-        <translation type="unfinished"/>
+        <translation>V cieľovom adresári výstupov sa nenachádza žiaden neznámy súbor.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="347"/>
@@ -15105,7 +15105,7 @@ For more information about licensing, click on this icon.</source>
         <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="198"/>
         <source>pcs</source>
         <extracomment>Abbreviation for &quot;pieces&quot;, keep it very short!</extracomment>
-        <translation type="unfinished"/>
+        <translation>ks</translation>
     </message>
 </context>
 <context>
@@ -16743,7 +16743,7 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="35"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Súčiastka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="42"/>
@@ -17044,7 +17044,7 @@ Pre úplný zákaz prístupu na internet, stačí odstrániť všetky záznamy.&
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="779"/>
         <source>Auto-Fetch Live Part Information</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky naživo získať informácie o súčiastke</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="72"/>
