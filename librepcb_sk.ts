@@ -746,7 +746,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="799"/>
         <source>The clearance between a non-plated hole and copper objects is smaller than the hole clearance configured in the DRC settings.</source>
-        <translation>Vzdialenosť medzi neprekoveným otvorom a vodivým prvkom je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
+        <translation>Vzdialenosť medzi nepokovovaným otvorom a vodivým prvkom je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="802"/>
@@ -906,35 +906,35 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1182"/>
         <source>Pad in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is pad name</comment>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu v kolízii so zakázanou oblasťou: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1199"/>
         <source>Via in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
+        <translation>Prechod v kolízii so zakázanou oblasťou: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1214"/>
         <source>Polygon in exposure keepout zone</source>
-        <translation type="unfinished"/>
+        <translation>Polygón v kolízii so zakázanou oblasťou</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1227"/>
         <source>Polygon in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Polygón v kolízii so zakázanou oblasťou: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1244"/>
         <source>Circle in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Kružnica v kolízii so zakázanou oblasťou: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1275"/>
         <source>There is a solder resist opening within an exposure keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>V zakázanej oblasti sa nachádza odmaskovaná časť v nespájkovateľnej maske.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1277"/>
@@ -1448,7 +1448,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1679"/>
         <source>The zone has no layer or rule enabled so it is useless.</source>
-        <translation type="unfinished"/>
+        <translation>Zóna nemá povolenú žiadnu vrstvu ani pravidlo, takže je zbytočná.</translation>
     </message>
 </context>
 <context>
@@ -2474,7 +2474,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="971"/>
         <source>Add plated through-hole copper pads</source>
-        <translation>Pridanie plôšky vývodu s prekoveným otvorom</translation>
+        <translation>Pridanie plôšky vývodu s pokovovaným otvorom</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="979"/>
@@ -2564,7 +2564,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1052"/>
         <source>Add non-plated holes (NPTH drills)</source>
-        <translation>Pridanie neprekoveného otvoru (NPTH)</translation>
+        <translation>Pridanie nepokovovaného otvoru (NPTH)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1060"/>
@@ -2614,7 +2614,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1098"/>
         <source>Add plated through-hole vias</source>
-        <translation>Pridanie prekovených otvorov</translation>
+        <translation>Pridanie pokovovaných prechodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1106"/>
@@ -3715,7 +3715,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="167"/>
         <source>Plated Board Cutouts</source>
-        <translation type="unfinished"/>
+        <translation>Pokovované výrezy dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="174"/>
@@ -4099,7 +4099,7 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="140"/>
         <source>Non-plated holes should have a stop mask opening to avoid solder resist flowing into the hole. An automatic stop mask opening can be enabled in the hole properties.</source>
-        <translation>Neprekovené otvory by mali mať vynechanú oblasť v nespájkovateľnej maske, aby sa zabránilo zaplnenie otvoru materiálom masky. Automatické vynechávanie tejto oblasti, môže byť povolené vo vlastnostiach otvoru.</translation>
+        <translation>Nepokovované otvory by mali mať vynechanú oblasť v nespájkovateľnej maske, aby sa zabránilo zaplnenie otvoru materiálom masky. Automatické vynechávanie tejto oblasti, môže byť povolené vo vlastnostiach otvoru.</translation>
     </message>
 </context>
 <context>
@@ -4361,14 +4361,16 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="126"/>
         <source>Non-functional inversion sign: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nefunkčná značka inverzie: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="127"/>
         <source>The signal name seems to start with an inversion sign, but LibrePCB uses a different sign to indicate inversion.
 
 It&apos;s recommended to prefix inverted signal names with &apos;%1&apos;, regardless of the inversion sign used in the parts datasheet.</source>
-        <translation type="unfinished"/>
+        <translation>Zdá sa, že názov signálu začína znakom inverzie, ale LibrePCB používa na označenie inverzie iný znak.
+
+Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1&apos;, bez ohľadu na použitý inverzný znak v datasheete.</translation>
     </message>
 </context>
 <context>
@@ -4376,14 +4378,16 @@ It&apos;s recommended to prefix inverted signal names with &apos;%1&apos;, regar
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="87"/>
         <source>Non-functional inversion sign: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nefunkčná značka inverzie: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="88"/>
         <source>The pin name seems to start with an inversion sign, but LibrePCB uses a different sign to indicate inversion.
 
 It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardless of the inversion sign used in the parts datasheet.</source>
-        <translation type="unfinished"/>
+        <translation>Zdá sa, že názov vývodu začína znakom inverzie, ale LibrePCB používa na označenie inverzie iný znak.
+
+Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1&apos;, bez ohľadu na použitý inverzný znak v datasheete.</translation>
     </message>
 </context>
 <context>
@@ -4471,7 +4475,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="463"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to legend</source>
-        <translation type="unfinished"/>
+        <translation>Odsadenie plôšky vývodu &apos;%1&apos; v &apos;%2&apos; voči popisu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="465"/>
@@ -4624,7 +4628,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="694"/>
         <source>Useless keepout zone in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Zbytočná zakázaná oblasť v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="696"/>
@@ -5093,7 +5097,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="111"/>
         <source>Plated Cutouts</source>
-        <translation>Prekovené výrezy</translation>
+        <translation>Pokovované výrezy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="112"/>
@@ -5113,7 +5117,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="115"/>
         <source>Zones</source>
-        <translation type="unfinished"/>
+        <translation>Oblasti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="116"/>
@@ -5760,7 +5764,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="524"/>
         <source>All non-plated holes (NPTH) now have automatic solder resist openings added on both board sides. The expansion value is configured in the board design rules but can be overridden in the hole properties dialog.</source>
-        <translation>Všetky neprekovené otvory (NPTH) majú automaticky pridanú vynechanú oblasť v nespájkovateľnej maske na oboch stranách dosky. Hodnota odstupu masky od otvoru je definovaná v návrhových pravidlách dosky, ale pre konkrétny otvor ju je možné zmeniť vo vlastnostiach otvoru.</translation>
+        <translation>Všetky nepokovované otvory (NPTH) majú automaticky pridanú vynechanú oblasť v nespájkovateľnej maske na oboch stranách dosky. Hodnota odstupu masky od otvoru je definovaná v návrhových pravidlách dosky, ale pre konkrétny otvor ju je možné zmeniť vo vlastnostiach otvoru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="533"/>
@@ -7660,7 +7664,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="109"/>
         <source>No Planes</source>
-        <translation type="unfinished"/>
+        <translation>Bez vyplnených plôch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="120"/>
@@ -8386,7 +8390,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="57"/>
         <source>Comma-separated list of custom attributes (optional)</source>
-        <translation type="unfinished"/>
+        <translation>Čiarkou oddelený zoznam užívateľských atribútov (nepovinné)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="91"/>
@@ -8630,7 +8634,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="163"/>
         <source>The component in the schematic does not specify the chosen device as compatible and is locked for modifications from the board editor. Either add a corresponding assembly option to the component in the schematic, or remove the lock from the component.</source>
-        <translation type="unfinished"/>
+        <translation>Komponent v schéme nešpecifikuje zvolené súčiastku ako kompatibilné a pre úpravy je uzamknutý z editora dosky. Buď pridajte zodpovedajúcu možnosť montáže ku komponentu v schéme, alebo odstráňte uzamknutie komponentu.</translation>
     </message>
 </context>
 <context>
@@ -8651,7 +8655,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdassemblyvariantadd.cpp" line="44"/>
         <source>Add assembly variant</source>
-        <translation type="unfinished"/>
+        <translation>Pridať alternatívne osadenie</translation>
     </message>
 </context>
 <context>
@@ -8659,7 +8663,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdassemblyvariantedit.cpp" line="41"/>
         <source>Edit assembly variant</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť alternatívne osadenie</translation>
     </message>
 </context>
 <context>
@@ -8667,7 +8671,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdassemblyvariantremove.cpp" line="43"/>
         <source>Remove assembly variant</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť alternatívne osadenie</translation>
     </message>
 </context>
 <context>
@@ -8876,7 +8880,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardzoneadd.cpp" line="41"/>
         <source>Add zone to board</source>
-        <translation type="unfinished"/>
+        <translation>Pridať oblasť na dosku</translation>
     </message>
 </context>
 <context>
@@ -8892,7 +8896,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardzoneremove.cpp" line="41"/>
         <source>Remove zone from board</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť oblasť z dosky</translation>
     </message>
 </context>
 <context>
@@ -9646,22 +9650,22 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="98"/>
         <source>Add a new device assembly option</source>
-        <translation type="unfinished"/>
+        <translation>Pridať novú alternatívu osadenia súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="105"/>
         <source>Add a new (alternative) part by MPN</source>
-        <translation type="unfinished"/>
+        <translation>Pridať novú (alternatívnu) súčiastku podľa MPN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="112"/>
         <source>Choose a different device or part</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť inú súčiastku alebo komponent</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="119"/>
         <source>Remove selected part or assembly option</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť zvolenú súčiastku alebo alternatívu osadenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="130"/>
@@ -9691,19 +9695,21 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="231"/>
         <source>Device Compatibility Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Neznáma kompatibilita súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="232"/>
         <source>The selected device is not related to the component placed in the schematic, thus LibrePCB cannot validate if it is compatible!
 
 Are you sure the footprint and pinout of the selected device are compatible with the component?</source>
-        <translation type="unfinished"/>
+        <translation>Zvolené púzdro nie je určené pre komponent použitý v schéme, takže LibrePCB ju nemôže považovať za kompatibilnú!
+
+Naozaj chcete označiť toto púzdro a jeho prepojenie vývodov so zvolenou súčiastkou ako kompatibilné?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="298"/>
         <source>Part Compatibility Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Neznáma kompatibilita súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="299"/>
@@ -10490,7 +10496,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="329"/>
         <source>Parts for Assembly (BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>Súčiastky pre osádzanie (BOM/PnP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="356"/>
@@ -11513,7 +11519,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="366"/>
         <source>Plated Holes</source>
-        <translation>Prekovené otvory</translation>
+        <translation>Pokovované otvory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="384"/>
@@ -13015,7 +13021,7 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="475"/>
         <source>Manufacturer name, in case the library refers to a single manufacturer.</source>
-        <translation type="unfinished"/>
+        <translation>Názov výrobcu v prípade, že knižnica odkazuje len na jedného výrobcu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="492"/>
@@ -13911,7 +13917,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/3d/openglscenebuilder.cpp" line="126"/>
         <source>The board outline is invalid. Please add exactly one polygon on the &apos;%1&apos; layer and make sure it is closed. For more information, check out the documentation.</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný obrys dosky. Prosím pridajte jeden polygón do vrstvy &apos;%1&apos;  a skontrolujte či je uzatvorený. Pre viac informácií pozrite do dokumentácie.</translation>
     </message>
 </context>
 <context>
@@ -14613,7 +14619,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="108"/>
         <source>No Planes</source>
-        <translation type="unfinished"/>
+        <translation>Bez vyplnených plôch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="118"/>
