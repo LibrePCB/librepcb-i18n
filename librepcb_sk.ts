@@ -1192,7 +1192,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="324"/>
         <source>Check the DRC settings and increase the trace width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a ak je to potrebné, zväčšite šírku spoja.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="339"/>
@@ -1208,25 +1208,25 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="347"/>
         <source>Check the DRC settings and increase the minimum plane width in its properties if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a ak je to potrebné, zväčšite šírku použitej čiary na vykreslenie vyplnenej plochy.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="360"/>
         <source>Polygon width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Šírka čiary polygónu na &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="365"/>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="413"/>
         <source>The polygon line width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Šírka použitej čiary na vykreslenie polygónu je menšia ako je povolené minimum, nastavené v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="368"/>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="417"/>
         <source>Check the DRC settings and increase the polygon line width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a ak je to potrebné, zväčšite šírku použitej čiary na vykreslenie polygónu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="381"/>
@@ -1237,34 +1237,34 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="386"/>
         <source>The text stroke width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Šírka použitej čiary na vykreslenie textu je menšia ako je povolené minimum, nastavené v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="389"/>
         <source>Check the DRC settings and increase the text stroke width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a ak je to potrebné, zväčšite šírku použitej čiary na vykreslenie textu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="406"/>
         <source>Polygon width of &apos;%1&apos; on &apos;%2&apos;: %3 &lt; %4 %5</source>
         <comment>Placeholders: Device name, layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Šírka čiary polygónu &apos;%1&apos; na &apos;%2&apos;: %3 &lt; %4 %5</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="432"/>
         <source>Circle width of &apos;%1&apos; on &apos;%2&apos;: %3 &lt; %4 %5</source>
         <comment>Placeholders: Device name, layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Šírka čiary kružnice &apos;%1&apos; na &apos;%2&apos;: %3 &lt; %4 %5</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="439"/>
         <source>The circle line width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Šírka použitej čiary na vykreslenie kružnice je menšia ako je povolené minimum, nastavené v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="442"/>
         <source>Check the DRC settings and increase the circle line width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a ak je to potrebné, zväčšite šírku použitej čiary na vykreslenie kružnice.</translation>
     </message>
 </context>
 <context>
@@ -2234,12 +2234,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="756"/>
         <source>Set Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Nastaviť šírku čiary</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="757"/>
         <source>Change the line/trace/stroke width of the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>Zmeniť šírku čiary pre vykreslenie spoja/textu pre zvolené objekty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="766"/>
@@ -3390,12 +3390,13 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="77"/>
         <source>Open wire in net: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nedokončený spoj v prepojení: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="78"/>
         <source>The wire has an open (unconnected) end with no net label attached, thus is looks like a mistake. Check if a connection to another wire or pin is missing (denoted by a cross mark).</source>
-        <translation type="unfinished"/>
+        <translation>Spoj má nedokončené (neprepojené) ukončenie bez riadneho označenia prepojenia čo nasvedčuje tomu, že sa jedná o chybu.
+Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky (neoznačeným krížikom).</translation>
     </message>
 </context>
 <context>
@@ -6203,12 +6204,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="551"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="565"/>
         <source>ERROR: No assembly variant with the name &apos;%1&apos; found.</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA: Alternatívne osadenie s názvom &apos;%1&apos; nebolo nájdené.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="580"/>
         <source>ERROR: Assembly variant index &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA: Alternatívne osadenie s indexom &apos;%1&apos; je neplatné.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="602"/>
@@ -6722,7 +6723,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="147"/>
         <source>Credits</source>
-        <translation type="unfinished"/>
+        <translation>Poďakovanie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="291"/>
@@ -6817,7 +6818,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="153"/>
         <source>This project relies on &lt;a href=&apos;%1&apos;&gt;many contributors&lt;/a&gt;, sponsors and other open-source components like software libraries or icons. Many thanks to all the people and projects supporting LibrePCB!</source>
-        <translation type="unfinished"/>
+        <translation>Tento projekt je závislý na &lt;a href=&apos;%1&apos;&gt;mnohých prispevateľoch&lt;/a&gt;, sponzorov a ďalších open-source komponentoch ako sú softwérové knižnice alebo ikony. Veľká vďaka všetkým ľuďom a projektom podporujúcim LibrePCB!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="159"/>
@@ -6827,7 +6828,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="161"/>
         <source>For the list of current sponsors, see &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Pre zoznam sponzorov, pozrite &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="165"/>
@@ -6837,7 +6838,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="167"/>
         <source>Some of the icons used in LibrePCB are provided by &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, thank you!</source>
-        <translation type="unfinished"/>
+        <translation>Niektoré ikonky použité v LibrePCB sú poskytnuté od &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, ďakujeme!</translation>
     </message>
 </context>
 <context>
@@ -7832,7 +7833,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="157"/>
         <source>Gray rows are not exported (do not mount).</source>
-        <translation type="unfinished"/>
+        <translation>Zašednuté riadky sa nebudú exportovať (nemajú sa osádzať).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="75"/>
@@ -8395,7 +8396,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="112"/>
         <source>Gray rows are not exported (do not mount).</source>
-        <translation type="unfinished"/>
+        <translation>Zašednuté riadky sa nebudú exportovať (nemajú sa osádzať).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="92"/>
@@ -12559,7 +12560,9 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
         <source>&lt;p&gt;Your workspace was created with an older LibrePCB version and needs to be upgraded.&lt;/p&gt;
 &lt;p&gt;To still keep the workspace compatible with older versions of LibrePCB, a snapshot of the currently installed libraries and settings will be created. This may take a moment.&lt;/p&gt;
 &lt;p&gt;Also the first background library scan after the upgrade takes longer than usual, but you can start working on projects without waiting for its completion.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Váš pracovný priestor bol vytvorený v staršej verzii LibrePCB a potrebuje byť inovovaný.&lt;/p&gt;
+&lt;p&gt;Aby bol pracovný priestor stále kompatibilný so staršími verziami LibrePCB, vytvorí sa snímka aktuálne nainštalovaných knižníc a nastavení. Môže to chvíľu trvať.&lt;/p&gt;
+&lt;p&gt;Taktiež prvé skenovanie knižnice po inovácii potrvá dlhšie ako zvyčajne, ale môžete začať pracovať na projektoch bez čakania na jeho dokončenie pretože pobeží na pozadí .&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="106"/>
@@ -14176,33 +14179,33 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="347"/>
         <source>Are you sure to remove the following files?</source>
-        <translation type="unfinished"/>
+        <translation>Naozaj chcete odstrániť nasledujúce súbory?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="356"/>
         <source> • And %1 more files!</source>
-        <translation type="unfinished"/>
+        <translation> • A %1 viac súborov!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="359"/>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="363"/>
         <source>Remove Unknown Files</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť neznáme súbory</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="445"/>
         <source>Unknown files in output folder</source>
-        <translation type="unfinished"/>
+        <translation>Neznáme súbory v cieľovom adresári generovaných výstupov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="451"/>
         <source>Finished with warnings!</source>
-        <translation type="unfinished"/>
+        <translation>Ukončené s upozorneniami!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="531"/>
         <source>Unknown job type. You may need a more recent LibrePCB version to modify this job.</source>
-        <translation type="unfinished"/>
+        <translation>Neznámy typ úlohy. Zrejme bude potrebná novšia verzia LibrePCB pre úpravu tejto úlohy.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="576"/>
@@ -14699,7 +14702,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1134"/>
         <source>Generate package outline</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť obrys púzdra súčiatky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1203"/>
@@ -14714,7 +14717,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1224"/>
         <source>Courtyard Excess</source>
-        <translation type="unfinished"/>
+        <translation>Presah manipulačnej oblasti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1249"/>
