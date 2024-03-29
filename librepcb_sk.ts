@@ -6282,7 +6282,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="769"/>
         <source>Run output job &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Spustená úloha generovania výstupov &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="788"/>
@@ -6918,7 +6918,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="87"/>
         <source>Creates a new local library in the currently opened workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Vytvorí novú lokálnu knižnicu v práve otvorenom pracovnom priestore.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="104"/>
@@ -7111,7 +7111,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="40"/>
         <source>Bundle the output of other jobs in a single archive file.</source>
-        <translation type="unfinished"/>
+        <translation>Zlúčiť výstupy iných úloh do jedného archívneho súboru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="57"/>
@@ -7126,17 +7126,17 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="77"/>
         <source>Content:</source>
-        <translation type="unfinished"/>
+        <translation>Obsah:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="126"/>
         <source>Output Job</source>
-        <translation type="unfinished"/>
+        <translation>Úloha generovania výstupov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="131"/>
         <source>Archive Directory</source>
-        <translation type="unfinished"/>
+        <translation>Adresár archívu</translation>
     </message>
 </context>
 <context>
@@ -7218,7 +7218,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="40"/>
         <source>3D Model export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Export 3D modelov pre dosky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="60"/>
@@ -7261,7 +7261,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.cpp" line="123"/>
         <source>None (just the plain PCB)</source>
-        <translation type="unfinished"/>
+        <translation>Žiadne (iba čistá doska)</translation>
     </message>
 </context>
 <context>
@@ -8448,7 +8448,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="40"/>
         <source>Bill of materials (BOM) export to CSV files.</source>
-        <translation type="unfinished"/>
+        <translation>Zoznam súčiastok (BOM) exportuje do CSV súboru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="57"/>
@@ -8468,7 +8468,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="84"/>
         <source>Comma-separated attributes (optional)</source>
-        <translation type="unfinished"/>
+        <translation>Čiarkou oddelené atribúty (nepovinné)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="98"/>
@@ -10397,7 +10397,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="40"/>
         <source>Copy an arbitrary file into the output folder, optionally with variable substitution.</source>
-        <translation type="unfinished"/>
+        <translation>Skopírovať ľubovoľný súbor do výstupného adresára, voliteľne s nahradením premenných.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="57"/>
@@ -10422,7 +10422,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="94"/>
         <source>Substitute Variables</source>
-        <translation type="unfinished"/>
+        <translation>Nahradiť premenné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="108"/>
@@ -11254,7 +11254,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="194"/>
         <source>Merge PTH and NPTH drills into one file</source>
-        <translation>Zlúčiť PTH a NPTH vŕtanie do jednoho súboru</translation>
+        <translation>Zlúčiť PTH a NPTH vŕtanie do jedného súboru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="208"/>
@@ -11734,7 +11734,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="310"/>
         <source>Merge PTH and NPTH drills into one file:</source>
-        <translation type="unfinished"/>
+        <translation>Zlúčiť PTH a NPTH vŕtanie do jedného súboru:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="317"/>
@@ -11746,7 +11746,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="371"/>
         <source>Gerber (RS-274X) / Excellon (XNC) PCB production data export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať súbory výrobných dát Gerber (RS-274X) / Excellon (XNC) dosiek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.cpp" line="56"/>
@@ -11774,7 +11774,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="40"/>
         <source>Gerber X3 pick&amp;place position file export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať Gerber X3 pick&amp;place súbor súradníc súčiastok pre dosky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="57"/>
@@ -11875,7 +11875,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="178"/>
         <source>Fit to page size</source>
-        <translation>Prispôsobiť strane</translation>
+        <translation>Prispôsobiť veľkosti stránky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="193"/>
@@ -11946,7 +11946,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="404"/>
         <source>Content:</source>
-        <translation type="unfinished"/>
+        <translation>Obsah:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="411"/>
@@ -12124,7 +12124,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="37"/>
         <source>Customizable PDF/image export for schematics and boards.</source>
-        <translation type="unfinished"/>
+        <translation>Prispôsobiteľný PDF/image export schém a dosiek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="73"/>
@@ -12144,17 +12144,17 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="144"/>
         <source>Add page(s) to document</source>
-        <translation type="unfinished"/>
+        <translation>Pridať stránku/stránky do dokumentu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="173"/>
         <source>Duplicate the selected page(s)</source>
-        <translation type="unfinished"/>
+        <translation>Duplikovať zvolenú stránku/stránky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="202"/>
         <source>Remove the selected page(s)</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť zvolenú stránku/stránky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="230"/>
@@ -12199,7 +12199,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="364"/>
         <source>Fit to page</source>
-        <translation type="unfinished"/>
+        <translation>Prispôsobiť stránke</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="379"/>
@@ -12279,7 +12279,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="348"/>
         <source>Board Image</source>
-        <translation type="unfinished"/>
+        <translation>Obrázok dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="354"/>
