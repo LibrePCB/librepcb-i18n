@@ -15116,22 +15116,22 @@ For more information about licensing, click on this icon.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="133"/>
+        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="134"/>
         <source>This service is currently not available.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="139"/>
+        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="140"/>
         <source>This information is kindly provided by %1 through the LibrePCB&amp;nbsp;API, see details &lt;a href=&quot;%2&quot; style=&quot;color:black;&quot;&gt;here&lt;/a&gt;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="145"/>
+        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="146"/>
         <source>For more information about the part, click on the source logo above.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="198"/>
+        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="199"/>
         <source>pcs</source>
         <extracomment>Abbreviation for &quot;pieces&quot;, keep it very short!</extracomment>
         <translation type="unfinished"/>

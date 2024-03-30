@@ -1073,7 +1073,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="217"/>
         <source>Board outline inner radius &lt; %1 %2</source>
         <comment>Placeholders: Minimum radius, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Obrys dosky má vnútornú polomer &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="220"/>
@@ -1232,7 +1232,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="381"/>
         <source>Stroke width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Šírka čiary textu v &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="386"/>
@@ -2489,7 +2489,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="988"/>
         <source>Add Thermal Pad</source>
-        <translation>Pridať teplotnú plôšku vývodu</translation>
+        <translation>Pridať tepelnú plôšku vývodu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="989"/>
@@ -3558,37 +3558,37 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="576"/>
         <source>Press-Fit Pad (THT, soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Plôška Press-Fit (THT, spájkovaná)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="578"/>
         <source>Thermal Pad (SMT, soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Tepelná plôška vývodu (SMT, spájkovaná)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="580"/>
         <source>BGA Pad (SMT, soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu BGA (SMT, spájkovaná)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="582"/>
         <source>Edge Connector Pad (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Plôška hranového konektora (SMT, nespájkovaná)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="584"/>
         <source>Test Pad (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Plôška testovacieho bodu (SMT, nespájkovaná)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="586"/>
         <source>Local Footprint Fiducial (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Plôška lokálnej zameriavacej značky puzdra (SMT, nespájkovaná)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="588"/>
         <source>Global Board Fiducial (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Plôška globálnej zameriavacej značky dosky (SMT, nespájkovaná)</translation>
     </message>
 </context>
 <context>
@@ -3735,7 +3735,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="210"/>
         <source>Bottom Names</source>
-        <translation type="unfinished"/>
+        <translation>Spodné názvy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="216"/>
@@ -3745,7 +3745,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="222"/>
         <source>Bottom Values</source>
-        <translation type="unfinished"/>
+        <translation>Spodné hodnoty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="228"/>
@@ -3765,7 +3765,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="247"/>
         <source>Bottom Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Spodná dokumentácia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="254"/>
@@ -3785,7 +3785,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="278"/>
         <source>Bottom Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Spodná manipulačná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="286"/>
@@ -4080,7 +4080,7 @@ Pre všeobecné puzdra (napr. SOT23) platí, že plôšky vývodov by mali byť 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="112"/>
         <source>Stop mask not set on fiducial in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nespájkovateľná maska nie je nastavená na zameriavacej značke v &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="114"/>
@@ -4395,7 +4395,7 @@ Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="333"/>
         <source>Overlapping pads &apos;%1&apos; and &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Prekrývajúce sa plôšky vývodov &apos;%1&apos; a &apos;%2&apos; v &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="336"/>
@@ -4447,7 +4447,7 @@ Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="412"/>
         <source>Hole outside copper of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Otvor je mimo vodivej plochy plôšky vývodu &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="414"/>
@@ -5137,22 +5137,22 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="122"/>
         <source>Names Top</source>
-        <translation type="unfinished"/>
+        <translation>Názvy vrchné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="123"/>
         <source>Names Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Názvy spodné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="124"/>
         <source>Values Top</source>
-        <translation type="unfinished"/>
+        <translation>Hodnoty vrchné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="125"/>
         <source>Values Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Hodnoty spodné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="126"/>
@@ -5167,12 +5167,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="128"/>
         <source>Documentation Top</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentácia vrchná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="129"/>
         <source>Documentation Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentácia spodná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="130"/>
@@ -5187,12 +5187,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="132"/>
         <source>Courtyard Top</source>
-        <translation type="unfinished"/>
+        <translation>Manipulačná vrchná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="133"/>
         <source>Courtyard Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Manipulačná spodná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="134"/>
@@ -14413,7 +14413,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="344"/>
         <source>Press-Fit</source>
-        <translation type="unfinished"/>
+        <translation>Press-Fit</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="429"/>
@@ -14821,12 +14821,12 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="142"/>
         <source>Other (included in BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>Iné (zahrnuté v BOM/PnP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="145"/>
         <source>None (excluded from BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>Žiadne (vylúčené z BOM/PnP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="148"/>
@@ -15096,22 +15096,22 @@ For more information about licensing, click on this icon.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="133"/>
+        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="134"/>
         <source>This service is currently not available.</source>
         <translation>Táto služba je momentálne nedostupná.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="139"/>
+        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="140"/>
         <source>This information is kindly provided by %1 through the LibrePCB&amp;nbsp;API, see details &lt;a href=&quot;%2&quot; style=&quot;color:black;&quot;&gt;here&lt;/a&gt;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="145"/>
+        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="146"/>
         <source>For more information about the part, click on the source logo above.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="198"/>
+        <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="199"/>
         <source>pcs</source>
         <extracomment>Abbreviation for &quot;pieces&quot;, keep it very short!</extracomment>
         <translation>ks</translation>
