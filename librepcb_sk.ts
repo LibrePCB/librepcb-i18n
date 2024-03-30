@@ -1430,12 +1430,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1693"/>
         <source>Useless via in net &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
-        <translation type="unfinished"/>
+        <translation>Nevyužitý prechod v prepojení &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1695"/>
         <source>The via is connected on less than two layers, thus it seems to be useless.</source>
-        <translation type="unfinished"/>
+        <translation>Prechod je pripojený na menej ako dve vrstvy, preto sa zdá nevyužitý.</translation>
     </message>
 </context>
 <context>
@@ -1443,12 +1443,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1678"/>
         <source>Useless zone</source>
-        <translation>Nadbytočné oblasti</translation>
+        <translation>Nevyužité oblasti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1679"/>
         <source>The zone has no layer or rule enabled so it is useless.</source>
-        <translation>Zóna nemá povolenú žiadnu vrstvu ani pravidlo, takže je zbytočná.</translation>
+        <translation>Zóna nemá povolenú žiadnu vrstvu ani pravidlo, takže je nevyužitá.</translation>
     </message>
 </context>
 <context>
@@ -1973,7 +1973,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="517"/>
         <source>Export PCB as a STEP file for loading it into MCAD software</source>
-        <translation type="unfinished"/>
+        <translation>Exportovanie DPS ako STEP súboru pre použitie v MCAD aplikácii.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="525"/>
@@ -2339,7 +2339,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="851"/>
         <source>Show or hide symbol pin numbers</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť alebo skryť čísla vývodov schematickej značky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="859"/>
@@ -2349,7 +2349,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="860"/>
         <source>Allow dragging locked items</source>
-        <translation type="unfinished"/>
+        <translation>Povoliť ťahanie uzamknutých položiek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="868"/>
@@ -2359,7 +2359,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="869"/>
         <source>Switch between 2D and 3D viewer mode</source>
-        <translation type="unfinished"/>
+        <translation>Prepnúť medzi 2D a 3D režimom prehliadania</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="876"/>
@@ -2494,7 +2494,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="989"/>
         <source>Add special SMT pads used as heat sink</source>
-        <translation type="unfinished"/>
+        <translation>Pridať špeciálnu plôšku SMT určenú pre odvod tepla (Thermal Pad)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="997"/>
@@ -2504,17 +2504,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="998"/>
         <source>Add special SMT pads used for ball grid arrays</source>
-        <translation type="unfinished"/>
+        <translation>Pridať špeciálnu BGA plôšku vývodu SMT</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1006"/>
         <source>Add Edge Connector Pad</source>
-        <translation type="unfinished"/>
+        <translation>Pridať plôšky vývodu hranového konektoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1007"/>
         <source>Add special SMT pads used as edge connector</source>
-        <translation type="unfinished"/>
+        <translation>Pridať špeciálnu SMT plôšku vývodu použitú ako kontakt  hranového konektora</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1015"/>
@@ -2524,27 +2524,27 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1016"/>
         <source>Add special SMT pads used as test points</source>
-        <translation type="unfinished"/>
+        <translation>Pridať špeciálnu plôšku SMT určenú ako testovací bod</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1024"/>
         <source>Add Local Fiducial Pad</source>
-        <translation type="unfinished"/>
+        <translation>Pridať lokálnu zameriavaciu plôšku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1025"/>
         <source>Add special SMT pads used as local fiducials</source>
-        <translation type="unfinished"/>
+        <translation>Pridať špeciálnu plôšku SMT určenú ako lokálnu zameriavaciu značku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1033"/>
         <source>Add Global Fiducial Pad</source>
-        <translation type="unfinished"/>
+        <translation>Pridať globálnu zameriavaciu plôšku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1034"/>
         <source>Add special SMT pads used as global fiducials</source>
-        <translation type="unfinished"/>
+        <translation>Pridať špeciálnu plôšku SMT určenú ako globálnu zameriavaciu značku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1042"/>
@@ -3973,7 +3973,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="180"/>
         <source>Change &amp;Footprint</source>
-        <translation>Zmeniť púzdro</translation>
+        <translation>Zmeniť puzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="185"/>
@@ -4031,9 +4031,9 @@ If this device doesn&apos;t represent an orderable part, just ignore this messag
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
-        <translation>Všetky plôšky vývodov púzdra, musia mať jedinečné názvy, inak nebudú korektne rozpoznané v editore súčiastok. Ak súčiastka obsahuje viacero vývodov s rovnakým významom (napr. viacero GND vývodov), môžete ich neskôr všetky priradiť jednému signálu komponentu v editore súčiastky.
+        <translation>Všetky plôšky vývodov puzdra, musia mať jedinečné názvy, inak nebudú korektne rozpoznané v editore súčiastok. Ak súčiastka obsahuje viacero vývodov s rovnakým významom (napr. viacero GND vývodov), môžete ich neskôr všetky priradiť jednému signálu komponentu v editore súčiastky.
 
-Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť pomenované číselne a nie funkcionálne  (napr. názvami &apos;1&apos;, &apos;2&apos;, &apos;3&apos; a nie &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</translation>
+Pre všeobecné puzdra (napr. SOT23) platí, že plôšky vývodov by mali byť pomenované číselne a nie funkcionálne  (napr. názvami &apos;1&apos;, &apos;2&apos;, &apos;3&apos; a nie &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</translation>
     </message>
 </context>
 <context>
@@ -4046,7 +4046,7 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="42"/>
         <source>All symbol pins must have unique names, otherwise they cannot be distinguished later in the component editor. If your part has several pins with same functionality (e.g. multiple GND pins), you should add only one of these pins to the symbol. The assignment to multiple leads should be done in the device editor instead.</source>
-        <translation>Všetky vývody sch. značky musia mať jedinečné názvy, inak nebudú korektne rozpoznané v editore súčiastok. Ak súčiastka obsahuje viacero vývodov s rovnakým významom (napr. viacero GND vývodov), mali by ste vytvoriť iba jeden takýto vývod v sch. značke. Priradenie viacerých plôšok vývodov púzdra k tomuto jednému vývodu sch. značky, bude následne možné v editore súčiastok.</translation>
+        <translation>Všetky vývody sch. značky musia mať jedinečné názvy, inak nebudú korektne rozpoznané v editore súčiastok. Ak súčiastka obsahuje viacero vývodov s rovnakým významom (napr. viacero GND vývodov), mali by ste vytvoriť iba jeden takýto vývod v sch. značke. Priradenie viacerých plôšok vývodov puzdra k tomuto jednému vývodu sch. značky, bude následne možné v editore súčiastok.</translation>
     </message>
 </context>
 <context>
@@ -4125,7 +4125,7 @@ Pre všeobecné púzdra (napr. SOT23) platí, že plôšky vývodov by mali byť
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="188"/>
         <source>A footprint pad is connected to a package pad which doesn&apos;t exist. Check all pads for proper connections.</source>
-        <translation>Plôška vývodu značky púzdra, je pripojené na nejestvujúcu plôšku púzdra. Skontrolujte správnosť pripojenia všetkych plôšok.</translation>
+        <translation>Plôška vývodu značky puzdra, je pripojené na nejestvujúcu plôšku puzdra. Skontrolujte správnosť pripojenia všetkých plôšok.</translation>
     </message>
 </context>
 <context>
@@ -4192,17 +4192,17 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="208"/>
         <source>Missing courtyard in footprint &apos;%1&apos;</source>
-        <translation>Chýbajúca definovaná manipulačná oblasť v púzdre &apos;%1&apos;</translation>
+        <translation>Chýbajúca definovaná manipulačná oblasť v puzdre &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="210"/>
         <source>It is recommended to draw the package courtyard with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if another device is placed within the courtyard of this device (i.e. too close).</source>
-        <translation>Odporúča sa nakresliť manipulačnú oblasť púzdra ako jeden uzavretý mnohouholník alebo kruh s nulovou šírkou na vrstve &apos;%1&apos;. Toto umožňuje kontrole DRC upozorniť, ak si viaceré púzdra vzájomne vstupujú do tejto oblasti (t. j. sú príliš blízko, alebo cez seba).</translation>
+        <translation>Odporúča sa nakresliť manipulačnú oblasť puzdra ako jeden uzavretý mnohouholník alebo kruh s nulovou šírkou na vrstve &apos;%1&apos;. Toto umožňuje kontrole DRC upozorniť, ak si viaceré puzdra vzájomne vstupujú do tejto oblasti (t. j. sú príliš blízko, alebo cez seba).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="216"/>
         <source>Often this is identical to the package outline but with a small offset. If you&apos;re unsure, just ignore this message.</source>
-        <translation>Zvyčajne je rovnaká ako vonkajší obrys púzdra ale s malým prídavkom. Ak ste si neni istý, toto oznámenie ignorujte.</translation>
+        <translation>Zvyčajne je rovnaká ako vonkajší obrys puzdra ale s malým prídavkom. Ak ste si neni istý, toto oznámenie ignorujte.</translation>
     </message>
 </context>
 <context>
@@ -4210,12 +4210,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="231"/>
         <source>No footprint defined</source>
-        <translation>Púzdro nie je definované</translation>
+        <translation>Puzdro nie je definované</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="232"/>
         <source>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</source>
-        <translation>Každé fyzické púzdro súčiastky musí mať pridané minimálne jedno púzdro použité na návrh DPS. Inak nebude môcť byť pridané na dosku s plošnými spojmi.</translation>
+        <translation>Každé fyzické puzdro súčiastky musí mať pridané minimálne jedno puzdro použité na návrh DPS. Inak nebude môcť byť pridané na dosku s plošnými spojmi.</translation>
     </message>
 </context>
 <context>
@@ -4223,12 +4223,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="245"/>
         <source>No 3D model defined for &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>3D model nie je definovaný pre &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="247"/>
         <source>The footprint has no 3D model specified, so the package will be missing in the 3D viewer and in 3D data exports. However, this has no impact on the PCB production data.</source>
-        <translation type="unfinished"/>
+        <translation>Puzdro nemá priradený 3D model, takže bude chýbať v 3D náhľade a v exportovaných 3D dátach. Avšak toto nemá nijaký vplyv na výstupné produkčné dáta DPS.</translation>
     </message>
 </context>
 <context>
@@ -4236,12 +4236,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="264"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation>Chýbajúci text &apos;%1&apos; pri púzdre &apos;%2&apos;</translation>
+        <translation>Chýbajúci text &apos;%1&apos; pri puzdre &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="266"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation>Púzdra použité na návrh DPS, by mali obsahovať textový reťazec označujúci názov súčiastky, Inak ich nebude možné identifikovať na plošnom spoji (ich názov nebude vo vrstve popisu). Existuje len pár výnimiek, kedy nie je potrebné takýto text zadať (napr. pomocné komponenty nesúvisiace so schémou). V týchto prípadoch ignorujte túto správu.</translation>
+        <translation>Puzdra použité na návrh DPS, by mali obsahovať textový reťazec označujúci názov súčiastky, Inak ich nebude možné identifikovať na plošnom spoji (ich názov nebude vo vrstve popisu). Existuje len pár výnimiek, kedy nie je potrebné takýto text zadať (napr. pomocné komponenty nesúvisiace so schémou). V týchto prípadoch ignorujte túto správu.</translation>
     </message>
 </context>
 <context>
@@ -4249,12 +4249,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="286"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation>Chýbajúci text &apos;%1&apos; pri púzdre &apos;%2&apos;</translation>
+        <translation>Chýbajúci text &apos;%1&apos; pri puzdre &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="288"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation>Púzdra použité na návrh DPS, by mali obsahovať textový reťazec označujúci hodnotu súčiastky, inak nebude zobrazená v popisnej vrstve na DPS. Existuje len pár výnimiek, kedy nie je potrebné tento text zadať (napr. pomocné komponenty nesúvisiace so schémou). V týchto prípadoch ignorujte túto správu.</translation>
+        <translation>Puzdra použité na návrh DPS, by mali obsahovať textový reťazec označujúci hodnotu súčiastky, inak nebude zobrazená v popisnej vrstve na DPS. Existuje len pár výnimiek, kedy nie je potrebné tento text zadať (napr. pomocné komponenty nesúvisiace so schémou). V týchto prípadoch ignorujte túto správu.</translation>
     </message>
 </context>
 <context>
@@ -4262,12 +4262,12 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="308"/>
         <source>Missing outline in footprint &apos;%1&apos;</source>
-        <translation>Chýbajúci obrys púzdra &apos;%1&apos;</translation>
+        <translation>Chýbajúci obrys puzdra &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="310"/>
         <source>It is recommended to draw the package outline with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if this device is placed within the courtyard of another device (i.e. too close).</source>
-        <translation>Odporúča sa nakresliť obrys púzdra ako jeden uzavretý mnohouholník alebo kruh s nulovou šírkou na vrstve &apos;%1&apos;. Toto umožňuje kontrole DRC upozorniť, ak si viaceré púzdra vzájomne vstupujú do tejto oblasti (t. j. sú príliš blízko, alebo cez seba).</translation>
+        <translation>Odporúča sa nakresliť obrys puzdra ako jeden uzavretý mnohouholník alebo kruh s nulovou šírkou na vrstve &apos;%1&apos;. Toto umožňuje kontrole DRC upozorniť, ak si viaceré puzdra vzájomne vstupujú do tejto oblasti (t. j. sú príliš blízko, alebo cez seba).</translation>
     </message>
 </context>
 <context>
@@ -4349,9 +4349,9 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
 To fix this issue, connect the package pads to their corresponding component signals in the table widget.
 
 If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
-        <translation>Zvolené púzdro obsahuje plôšky ale žiadna nie je pripojená k signálu komponentu. Tieto plôšky tak nemajú žiadnu elektrickú funkciu a pri pridaní púzdra na dosku plošných spojov, nebude možné k nim pripojiť žiaden spoj.
+        <translation>Zvolené puzdro obsahuje plôšky ale žiadna nie je pripojená k signálu komponentu. Tieto plôšky tak nemajú žiadnu elektrickú funkciu a pri pridaní puzdra na dosku plošných spojov, nebude možné k nim pripojiť žiaden spoj.
 
-Riešením je pripojenie plôšok púzdra k signálom komponentu pomocou tabuľky.
+Riešením je pripojenie plôšok puzdra k signálom komponentu pomocou tabuľky.
 
 Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky pripájať, môžete túto správu ignorovať.</translation>
     </message>
@@ -4413,7 +4413,7 @@ Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="133"/>
         <source>Overlapping pins: %1</source>
-        <translation>Prekrývajúce sa plôšky vývodov púzdra: %1</translation>
+        <translation>Prekrývajúce sa plôšky vývodov puzdra: %1</translation>
     </message>
 </context>
 <context>
@@ -4421,7 +4421,7 @@ Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="355"/>
         <source>Annular ring of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Medzikružie plôšky vývodu &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="357"/>
@@ -4628,7 +4628,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="694"/>
         <source>Useless keepout zone in &apos;%2&apos;</source>
-        <translation>Zbytočná zakázaná oblasť v &apos;%2&apos;</translation>
+        <translation>Nevyužitá zakázaná oblasť v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="696"/>
@@ -4676,12 +4676,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="435"/>
         <source>Failed to write STEP file.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba pri zápise STEP súboru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="640"/>
         <source>Failed to read STEP file!</source>
-        <translation type="unfinished"/>
+        <translation>Chyba pri čítaní zo STEP súboru!</translation>
     </message>
 </context>
 <context>
@@ -5508,7 +5508,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_device.cpp" line="90"/>
         <source>No package with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
-        <translation>Púzdro s UUID &quot;%1&quot; neexistuje v projektovej knižnici.</translation>
+        <translation>Puzdro s UUID &quot;%1&quot; neexistuje v projektovej knižnici.</translation>
     </message>
 </context>
 <context>
@@ -5516,7 +5516,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_via.cpp" line="104"/>
         <source>Could not change the vias start/end layers because there are still traces connected on other layers.</source>
-        <translation type="unfinished"/>
+        <translation>Nedá sa zmeniť počiatočná/koncová vrstva prechodu, pretože je stále prepojený spojmi na iných vrstvách.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_via.cpp" line="193"/>
@@ -5615,7 +5615,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1392"/>
         <source>Check for useless or disallowed vias...</source>
-        <translation>Kontrolovanie nadbytočných alebo nepovolených prechodov...</translation>
+        <translation>Kontrolovanie nevyužitých alebo nepovolených prechodov...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1419"/>
@@ -6108,12 +6108,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="186"/>
         <source>The export completed, but there were %1 errors!</source>
-        <translation type="unfinished"/>
+        <translation>Export bol ukončený s %1 chybami!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="188"/>
         <source>The last error was:</source>
-        <translation type="unfinished"/>
+        <translation>Posledná chyba bola:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="190"/>
@@ -6401,7 +6401,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1130"/>
         <source>Process %1 packages...</source>
-        <translation>Spracovávanie %1 púzdra...</translation>
+        <translation>Spracovávanie %1 puzdra...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1149"/>
@@ -6441,7 +6441,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="440"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
-        <translation>Odkazované púzdro &quot;%1&quot; nebolo importované.</translation>
+        <translation>Odkazované puzdro &quot;%1&quot; nebolo importované.</translation>
     </message>
 </context>
 <context>
@@ -6454,7 +6454,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="372"/>
         <source>Skipped package due to error: %1</source>
-        <translation>Pre chybu bolo vynechané púzdro: %1</translation>
+        <translation>Pre chybu bolo vynechané puzdro: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="398"/>
@@ -6983,7 +6983,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="269"/>
         <source>&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically. It&apos;s highly recommended to use &amp;quot;Install Libraries&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Stiahnutie zbalenej knižnice z internetu a jej uloženie ako lokálnej knižnice. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Poznámka: Knižnice stiahnuté týmto spôsobom nebudú automaticky aktualizované. Preto je vysoko odporúčané použiť &amp;quot;Inštaláciu knižníc&amp;quot; vždy keď je to možné. &lt;/span&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="286"/>
@@ -7664,7 +7664,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="109"/>
         <source>No Planes</source>
-        <translation>Bez vyplnených plôch</translation>
+        <translation>Žiadne vyplnené plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="120"/>
@@ -7900,7 +7900,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="91"/>
         <source>Do not delete unconnected copper areas (islands)</source>
-        <translation type="unfinished"/>
+        <translation>Neodstraňovať nepripojené vodivé oblasti (ostrovčeky)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="94"/>
@@ -7925,7 +7925,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="120"/>
         <source>Width of the thermal pad spokes</source>
-        <translation type="unfinished"/>
+        <translation>Šírka pripojovacích tepelných mostíkov plôšky vývodu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="123"/>
@@ -8146,7 +8146,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="711"/>
         <source>Allow vias whith either start or end on an inner copper layer.</source>
-        <translation type="unfinished"/>
+        <translation>Povoliť prechody ktorý začínajú alebo končia vo vnútorných vodivých vrstvách.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="714"/>
@@ -8161,7 +8161,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="731"/>
         <source>Allow vias which start and end on inner copper layers.</source>
-        <translation type="unfinished"/>
+        <translation>Povoliť prechody ktorý začínajú a končia vo vnútorných vodivých vrstvách.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="734"/>
@@ -8236,7 +8236,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="135"/>
         <source>&lt;p&gt;Always use the full pad shape as defined in the footprint from the library.&lt;/p&gt;&lt;p&gt;This is the safer and thus preferred option, but requires more space for the pads.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Vždy používajte úplný tvar plôšky vývodu, ako je definovaný v púzdre z knižnice.&lt;/p&gt;&lt;p&gt;Toto je bezpečnejšia, a preto aj odporúčaná možnosť, ale zaberá viac miesta pre plôšky vývodov.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Vždy používajte úplný tvar plôšky vývodu, ako je definovaný v puzdre z knižnice.&lt;/p&gt;&lt;p&gt;Toto je bezpečnejšia, a preto aj odporúčaná možnosť, ale zaberá viac miesta pre plôšky vývodov.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="142"/>
@@ -8624,12 +8624,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="116"/>
         <source>The package with the UUID &quot;%1&quot; does not exist in the workspace library!</source>
-        <translation>Púzdro s UUID &quot;%1&quot; sa nenachádza v knižnici pracovného priestoru!</translation>
+        <translation>Puzdro s UUID &quot;%1&quot; sa nenachádza v knižnici pracovného priestoru!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="137"/>
         <source>Package does not have any footprints: %1</source>
-        <translation>Fyzické púzdro neobsahuje žiaden nárys púzdra: %1</translation>
+        <translation>Fyzické puzdro neobsahuje žiaden nárys puzdra: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="163"/>
@@ -8856,7 +8856,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardstroketextedit.cpp" line="41"/>
         <source>Modify Stroke Text</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť šírku čiary textu</translation>
     </message>
 </context>
 <context>
@@ -9089,7 +9089,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddevicestroketextadd.cpp" line="41"/>
         <source>Add footprint text</source>
-        <translation>Pridať text do púzdra</translation>
+        <translation>Pridať text do puzdra</translation>
     </message>
 </context>
 <context>
@@ -9097,7 +9097,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddevicestroketextremove.cpp" line="41"/>
         <source>Remove footprint text</source>
-        <translation>Odstrániť text z púzdra</translation>
+        <translation>Odstrániť text z puzdra</translation>
     </message>
 </context>
 <context>
@@ -9105,7 +9105,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddevicestroketextsreset.cpp" line="43"/>
         <source>Reset footprint texts</source>
-        <translation>Obnoviť texty púzdra na do pôvodných nastavení</translation>
+        <translation>Obnoviť texty puzdra na do pôvodných nastavení</translation>
     </message>
 </context>
 <context>
@@ -9121,7 +9121,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmddragselectedfootprintitems.cpp" line="54"/>
         <source>Drag Footprint Elements</source>
-        <translation>Ťahať elementy púzdra</translation>
+        <translation>Ťahať elementy puzdra</translation>
     </message>
 </context>
 <context>
@@ -9153,7 +9153,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdfootprintedit.cpp" line="38"/>
         <source>Edit footprint</source>
-        <translation>Upraviť púzdro</translation>
+        <translation>Upraviť puzdro</translation>
     </message>
 </context>
 <context>
@@ -9161,7 +9161,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdfootprintpadedit.cpp" line="38"/>
         <source>Edit footprint pad</source>
-        <translation>Upraviť vývody púzdra</translation>
+        <translation>Upraviť vývody puzdra</translation>
     </message>
 </context>
 <context>
@@ -9265,7 +9265,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpackageedit.cpp" line="38"/>
         <source>Edit Package Metadata</source>
-        <translation>Upraviť metadáta púzdra</translation>
+        <translation>Upraviť metadáta puzdra</translation>
     </message>
 </context>
 <context>
@@ -9297,7 +9297,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpackagepadedit.cpp" line="38"/>
         <source>Edit package pad</source>
-        <translation>Upraviť plôšku vývodu púzdra</translation>
+        <translation>Upraviť plôšku vývodu puzdra</translation>
     </message>
 </context>
 <context>
@@ -9321,7 +9321,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpastefootprintitems.cpp" line="60"/>
         <source>Paste Footprint Elements</source>
-        <translation>Vložiť elementy púzdra</translation>
+        <translation>Vložiť elementy puzdra</translation>
     </message>
 </context>
 <context>
@@ -9377,7 +9377,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdremoveselectedfootprintitems.cpp" line="55"/>
         <source>Remove Footprint Elements</source>
-        <translation>Odstrániť elementy púzdra</translation>
+        <translation>Odstrániť elementy puzdra</translation>
     </message>
 </context>
 <context>
@@ -9702,9 +9702,9 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <source>The selected device is not related to the component placed in the schematic, thus LibrePCB cannot validate if it is compatible!
 
 Are you sure the footprint and pinout of the selected device are compatible with the component?</source>
-        <translation>Zvolené púzdro nie je určené pre komponent použitý v schéme, takže LibrePCB ju nemôže považovať za kompatibilnú!
+        <translation>Zvolené puzdro nie je určené pre komponent použitý v schéme, takže LibrePCB ju nemôže považovať za kompatibilnú!
 
-Naozaj chcete označiť toto púzdro a jeho prepojenie vývodov so zvolenou súčiastkou ako kompatibilné?</translation>
+Naozaj chcete označiť toto puzdro a jeho prepojenie vývodov so zvolenou súčiastkou ako kompatibilné?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="298"/>
@@ -9721,7 +9721,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="495"/>
         <source>Package: %1</source>
-        <translation>Púzdro: %1</translation>
+        <translation>Puzdro: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="526"/>
@@ -10481,7 +10481,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="76"/>
         <source>Package</source>
-        <translation>Púzdro</translation>
+        <translation>Puzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="187"/>
@@ -10583,17 +10583,17 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="331"/>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="432"/>
         <source>Package not found!</source>
-        <translation>Púzdro nenájdené!</translation>
+        <translation>Puzdro nenájdené!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="340"/>
         <source>Change package</source>
-        <translation>Zmeniť púzdro</translation>
+        <translation>Zmeniť puzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="359"/>
         <source>Could not set package</source>
-        <translation>Nepodarilo sa nastaviť púzdro</translation>
+        <translation>Nepodarilo sa nastaviť puzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="466"/>
@@ -10666,7 +10666,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="199"/>
         <source>Package:</source>
-        <translation>Púzdro:</translation>
+        <translation>Puzdro:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="264"/>
@@ -10681,7 +10681,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="109"/>
         <source>Footprint</source>
-        <translation>Púzdro</translation>
+        <translation>Puzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="147"/>
@@ -10978,7 +10978,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.ui" line="20"/>
         <source>Select the library elements to import. Dependent elements of devices and components will be selected automatically.</source>
-        <translation>Zvoľte knižnicu elementov pre import. Púzdra a komponenty ktoré sú v závislosti, budú zvolené automaticky</translation>
+        <translation>Zvoľte knižnicu elementov pre import. Puzdra a komponenty ktoré sú v závislosti, budú zvolené automaticky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="254"/>
@@ -10998,7 +10998,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="263"/>
         <source>Packages</source>
-        <translation>Púzdra</translation>
+        <translation>Puzdra</translation>
     </message>
 </context>
 <context>
@@ -11048,7 +11048,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="119"/>
         <source>Package Category</source>
-        <translation>Kategória púzdra</translation>
+        <translation>Kategória puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="183"/>
@@ -11386,12 +11386,12 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="207"/>
         <source>Footprint name</source>
-        <translation>Názov púzdra</translation>
+        <translation>Názov puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="315"/>
         <source>Footprint Variants</source>
-        <translation>Varianty púzdra</translation>
+        <translation>Varianty puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="343"/>
@@ -11401,12 +11401,12 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="347"/>
         <source>Add a new footprint</source>
-        <translation>Pridať nové púzdro</translation>
+        <translation>Pridať nové puzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="465"/>
         <source>There is already a footprint with the name &quot;%1&quot;.</source>
-        <translation>Už existuje púzdro s názvom &quot;%1&quot;.</translation>
+        <translation>Už existuje puzdro s názvom &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -11424,7 +11424,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="33"/>
         <source>Package Pad:</source>
-        <translation>Plôška vývodu púzdra:</translation>
+        <translation>Plôška vývodu puzdra:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="43"/>
@@ -12946,12 +12946,12 @@ Naozaj chcete odstrániť &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="131"/>
         <source>Package Categories</source>
-        <translation>Kategórie púzdra</translation>
+        <translation>Kategórie puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="174"/>
         <source>Packages</source>
-        <translation>Púzdra</translation>
+        <translation>Puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="217"/>
@@ -13264,7 +13264,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="65"/>
         <source>Package Category
 (e.g. DIP)</source>
-        <translation>Kategória púzdra
+        <translation>Kategória puzdra
 (napr. DIP)</translation>
     </message>
     <message>
@@ -13282,13 +13282,13 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="122"/>
         <source>Contains the footprints and 3D models which are added to boards</source>
-        <translation>Obsahuje púzdra a 3D modely pridávané na dosku PS.</translation>
+        <translation>Obsahuje puzdra a 3D modely pridávané na dosku PS.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="125"/>
         <source>Package
 (e.g. DIP8)</source>
-        <translation>Púzdro
+        <translation>Puzdro
 (napr. DIP8)</translation>
     </message>
     <message>
@@ -13356,7 +13356,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="20"/>
         <source>Set the component and the package of the new component.</source>
-        <translation>Nastavte komponent a púzdro pre nový komponent.</translation>
+        <translation>Nastavte komponent a puzdro pre nový komponent.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="29"/>
@@ -13437,7 +13437,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="20"/>
         <source>Set the component and the package of the new device.</source>
-        <translation>Nastavte komponent a púzdro pre novú súčiastku.</translation>
+        <translation>Nastavte komponent a puzdro pre novú súčiastku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="26"/>
@@ -13453,7 +13453,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="95"/>
         <source>Package</source>
-        <translation>Púzdro</translation>
+        <translation>Puzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="110"/>
@@ -13469,7 +13469,7 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="142"/>
         <source>No package selected</source>
-        <translation>Nie je zvolené púzdro</translation>
+        <translation>Nie je zvolené puzdro</translation>
     </message>
 </context>
 <context>
@@ -13557,12 +13557,12 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="14"/>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="17"/>
         <source>Package Pads</source>
-        <translation>Plôšky vývodov púzdra</translation>
+        <translation>Plôšky vývodov puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="20"/>
         <source>Define all available pads of the package.</source>
-        <translation>Vyznačiť všetky dostupné vývody púzdra.</translation>
+        <translation>Vyznačiť všetky dostupné vývody puzdra.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="53"/>
@@ -14307,7 +14307,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.ui" line="17"/>
         <source>Choose Package</source>
-        <translation>Vybrať púzdro</translation>
+        <translation>Vybrať puzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.ui" line="31"/>
@@ -14322,17 +14322,17 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="202"/>
         <source>Could not load packages</source>
-        <translation>Nedajú sa načítať púzdra</translation>
+        <translation>Nedajú sa načítať puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="209"/>
         <source>No package selected</source>
-        <translation>Nie je zvolené púzdro</translation>
+        <translation>Nie je zvolené puzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="219"/>
         <source>Could not load package metadata</source>
-        <translation>Nedajú sa načítať metadáta púzdra</translation>
+        <translation>Nedajú sa načítať metadáta puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="254"/>
@@ -14342,7 +14342,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="255"/>
         <source>Please select a package.</source>
-        <translation>Prosím, zvoľte púzdro.</translation>
+        <translation>Prosím, zvoľte puzdro.</translation>
     </message>
 </context>
 <context>
@@ -14350,7 +14350,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorfsm.cpp" line="224"/>
         <source>Please select a footprint.</source>
-        <translation>Prosím, zvoľte púzdro.</translation>
+        <translation>Prosím, zvoľte puzdro.</translation>
     </message>
 </context>
 <context>
@@ -14378,7 +14378,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="134"/>
         <source>Package Pad:</source>
-        <translation>Plôška vývodu púzdra:</translation>
+        <translation>Plôška vývodu puzdra:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="216"/>
@@ -14418,7 +14418,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="429"/>
         <source>Add footprint pad</source>
-        <translation>Pridať plôšku vývodu do púzdra</translation>
+        <translation>Pridať plôšku vývodu do puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="451"/>
@@ -14504,7 +14504,7 @@ For more information about licensing, click on this icon.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="267"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="361"/>
         <source>Add footprint polygon</source>
-        <translation>Pridať polygón do púzdra</translation>
+        <translation>Pridať polygón do puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="283"/>
@@ -14584,7 +14584,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="292"/>
         <source>Add footprint text</source>
-        <translation>Pridať text do púzdra</translation>
+        <translation>Pridať text do puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="306"/>
@@ -14604,7 +14604,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="77"/>
         <source>Inner</source>
-        <translation type="unfinished"/>
+        <translation>Vnútorná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="87"/>
@@ -14619,7 +14619,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="108"/>
         <source>No Planes</source>
-        <translation>Bez vyplnených plôch</translation>
+        <translation>Žiadne vyplnené plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="118"/>
@@ -14640,7 +14640,7 @@ For more information about licensing, click on this icon.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="247"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="319"/>
         <source>Add footprint zone</source>
-        <translation type="unfinished"/>
+        <translation>Pridať oblasť puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="262"/>
@@ -14703,12 +14703,12 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1034"/>
         <source>Paste Footprint Elements</source>
-        <translation>Vložiť elementy púzdra</translation>
+        <translation>Vložiť elementy puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1134"/>
         <source>Generate package outline</source>
-        <translation>Vytvoriť obrys púzdra súčiatky</translation>
+        <translation>Vytvoriť obrys puzdra súčiatky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1203"/>
@@ -14786,7 +14786,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="261"/>
         <source>Package should no longer be used.</source>
-        <translation>Púzdro by sa nemalo viac používať.</translation>
+        <translation>Puzdro by sa nemalo viac používať.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="268"/>
@@ -14846,7 +14846,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="692"/>
         <source>Please select a footprint.</source>
-        <translation>Prosím, zvoľte púzdro.</translation>
+        <translation>Prosím, zvoľte puzdro.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="924"/>
@@ -14945,7 +14945,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="91"/>
         <source>Add package pad(s)</source>
-        <translation>Pridať plôšky vývody púzdra</translation>
+        <translation>Pridať plôšky vývody puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="104"/>
@@ -14962,7 +14962,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="194"/>
         <source>Package Pads</source>
-        <translation>Plôšky vývodov púzdra</translation>
+        <translation>Plôšky vývodov puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="209"/>
@@ -16757,12 +16757,12 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="42"/>
         <source>Footprint</source>
-        <translation>Púzdro</translation>
+        <translation>Puzdro</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="64"/>
         <source>No device or package for the selected component found in the library! Please add a suitable device and package to your workspace library.</source>
-        <translation>V knižnici sa nenachádza zvolená súčiastka alebo púzdro! Prosím, pridajte ju do knižnice pracovného priestoru.</translation>
+        <translation>V knižnici sa nenachádza zvolená súčiastka alebo puzdro! Prosím, pridajte ju do knižnice pracovného priestoru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="92"/>
@@ -16817,7 +16817,7 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="364"/>
         <source>Default footprint.</source>
-        <translation>Predvolené púzdro.</translation>
+        <translation>Predvolené puzdro.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="443"/>
