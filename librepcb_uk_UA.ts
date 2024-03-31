@@ -10279,33 +10279,43 @@ Are you sure the footprint and pinout of the selected part are compatible with t
         <translation>Панель керування LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="118"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="124"/>
         <source>New Project</source>
         <translation>Новий проект</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="135"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="556"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="141"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="560"/>
         <source>Open Project</source>
         <translation>Відкрити проект</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="152"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="158"/>
         <source>Library Manager</source>
         <translation>Менеджер бібліотек</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="204"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="211"/>
+        <source>Support the LibrePCB project with a donation to keep the development and maintenance ongoing — Thank you!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="249"/>
+        <source>Donate</source>
+        <translation>Пожертвувати</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="300"/>
         <source>Recent Projects</source>
         <translation>Нещодавні проекти</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="281"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="377"/>
         <source>Favorite Projects</source>
         <translation>Улюблені проекти</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="359"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="455"/>
         <source>Project description</source>
         <translation>Опис проекту</translation>
     </message>
@@ -10340,32 +10350,32 @@ Are you sure the footprint and pinout of the selected part are compatible with t
         <translation>Цей робочий простір не містить жодної бібліотеки, яка є необхідною для створення та зміни проектів. Ви повинні &lt;a href=&quot;%1&quot;&gt;відкрити менеджер бібліотек&lt;/a&gt;, щоб додати деякі бібліотеки.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="451"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="455"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="455"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="459"/>
         <source>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="477"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="481"/>
         <source>Workspace changed</source>
         <translation>Робочий простір змінено</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="478"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="482"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation>Обраний робочий простір буде використовуватися після перезапуску програми.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="501"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="505"/>
         <source>Remove</source>
         <translation>Видалити</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="502"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="506"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -10378,43 +10388,43 @@ Warning: This cannot be undone!</source>
 Попередження: це не можна скасувати!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="513"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="694"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="517"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="698"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="541"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="545"/>
         <source>Could not create project</source>
         <translation>Не вдалося створити проект</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="557"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="561"/>
         <source>LibrePCB project files (%1)</source>
         <translation>Файли проектів LibrePCB (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="616"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="620"/>
         <source>Could not open project</source>
         <translation>Не вдалося відкрити проект</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="663"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="667"/>
         <source>Restore autosave backup?</source>
         <translation>Відновити резервну копію автозбереження?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="664"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="668"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>Здається, що програма впала останній раз, коли ви відкривали цей проект. Чи хочете ви відновити останню автозбережену резервну копію?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="852"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="856"/>
         <source>New Folder</source>
         <translation>Нова Папка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="852"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="856"/>
         <source>Name:</source>
         <translation>Назва:</translation>
     </message>
@@ -13935,7 +13945,7 @@ For more information about licensing, click on this icon.</source>
 <context>
     <name>librepcb::editor::OpenGlSceneBuilder</name>
     <message>
-        <location filename="../libs/librepcb/editor/3d/openglscenebuilder.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/3d/openglscenebuilder.cpp" line="127"/>
         <source>The board outline is invalid. Please add exactly one polygon on the &apos;%1&apos; layer and make sure it is closed. For more information, check out the documentation.</source>
         <translation>Контур плати недійсний. Будь ласка, додайте рівно один багатокутник на шарі &apos;%1&apos; і переконайтеся, що він закритий. Для отримання додаткової інформації перегляньте документацію.</translation>
     </message>

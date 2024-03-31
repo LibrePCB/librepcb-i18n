@@ -852,7 +852,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1711"/>
         <source>The layer contains copper objects, but it is disabled in the board setup dialog and thus will be ignored in any production data exports. Either increase the layer count to get this layer exported, or remove all objects on this layer (by temporarily enabling this layer to see them).</source>
-        <translation type="unfinished"/>
+        <translation>Vrstva obsahuje vodivé objekty, ale sú zakázané v nastavení dosky, preto budú vynechané pri akomkoľvek exporte výrobných dát. Buď zvýšte počet vrstiev, aby sa táto vrstva exportovala, alebo odstráňte všetky objekty na tejto vrstve (dočasným povolením zobrazenia tejto vrstvy).</translation>
     </message>
 </context>
 <context>
@@ -861,17 +861,17 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1051"/>
         <source>Clearance drill ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie vŕtanie ↔ obrys dosky &lt; %1 %2</translation>
+        <translation>Odsadenie: otvor ↔ obrys dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1057"/>
         <source>The clearance between a drill and the board outline is smaller than the drill clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi otvorom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1060"/>
         <source>Check the DRC settings and move the drill away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a presuňte otvor ďalej od okraja dosky.</translation>
     </message>
 </context>
 <context>
@@ -880,17 +880,17 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="939"/>
         <source>Clearance drill ↔ drill &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie vŕtanie ↔ vŕtanie &lt; %1 %2</translation>
+        <translation>Odsadenie: otvor ↔ otvor &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="942"/>
         <source>The clearance between two drills is smaller than the drill clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi dvoma otvormi je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="945"/>
         <source>Check the DRC settings and move the drills to increase their distance if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a presuňte otvory tak, aby sa zväčšila vzdialenosť medzi nimi.</translation>
     </message>
 </context>
 <context>
@@ -964,22 +964,22 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1582"/>
         <source>Either avoid them or check if your PCB manufacturer supports them.</source>
-        <translation type="unfinished"/>
+        <translation>Buď sa im vyhnite, alebo skontrolujte, či ich výrobca PCB podporuje.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1584"/>
         <source>Choose the desired Excellon slot mode when generating the production data (G85 vs. G00..G03).</source>
-        <translation type="unfinished"/>
+        <translation>Vyberte požadovaný Excellon režim výroby slotu pri generovaní výrobných údajov (G85 vs. G00..G03).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1587"/>
         <source>The drilled slot mode (G85) will not be available when generating production data.</source>
-        <translation type="unfinished"/>
+        <translation>Režim vŕtaného slotu (G85) nebude dostupný pri generovaní výrobných údajov.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1591"/>
         <source>Curved slots are a very unusual thing and may cause troubles with many PCB manufacturers.</source>
-        <translation type="unfinished"/>
+        <translation>Zakrivené sloty sú veľmi nezvyčajná vec a môžu spôsobiť problémy mnohým výrobcom PCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1595"/>
@@ -5557,12 +5557,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="638"/>
         <source>Check drill clearances...</source>
-        <translation>Kontrolovanie odsadenia vŕtania...</translation>
+        <translation>Kontrolovanie odsadenia otvorov...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="726"/>
         <source>Check drill to board edge clearances...</source>
-        <translation>Kontrolovanie odsadenia vŕtania voči hrane dosky...</translation>
+        <translation>Kontrolovanie odsadenia otvorov voči hrane dosky...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="803"/>
@@ -5582,7 +5582,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="968"/>
         <source>Check NPTH drill diameters...</source>
-        <translation>Kontrolovanie priemeru vŕtania NPTH...</translation>
+        <translation>Kontrolovanie priemeru otvorov NPTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="999"/>
@@ -5592,7 +5592,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1030"/>
         <source>Check PTH drill diameters...</source>
-        <translation>Kontrolovanie priemeru vŕtania PTH...</translation>
+        <translation>Kontrolovanie priemeru otvorov PTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1068"/>
@@ -10261,33 +10261,43 @@ Are you sure the footprint and pinout of the selected part are compatible with t
         <translation>LibrePCB Ovládací panel</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="118"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="124"/>
         <source>New Project</source>
         <translation>Nový projekt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="135"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="556"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="141"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="560"/>
         <source>Open Project</source>
         <translation>Otvoriť projekt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="152"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="158"/>
         <source>Library Manager</source>
         <translation>Správca knižníc</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="204"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="211"/>
+        <source>Support the LibrePCB project with a donation to keep the development and maintenance ongoing — Thank you!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="249"/>
+        <source>Donate</source>
+        <translation>Finančný dar</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="300"/>
         <source>Recent Projects</source>
         <translation>Nedávne projekty</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="281"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="377"/>
         <source>Favorite Projects</source>
         <translation>Obľúbené projekty</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="359"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="455"/>
         <source>Project description</source>
         <translation>Popis projektu</translation>
     </message>
@@ -10322,32 +10332,32 @@ Are you sure the footprint and pinout of the selected part are compatible with t
         <translation>Tento pracovný priestor neobsahuje žiadne knižnice, ktoré sú potrebné pre tvorbu alebo úpravu projektov. Mali by ste &lt;a href=&quot;%1&quot;&gt;otvoriť správcu knižníc&lt;/a&gt; a pridať nejaké knižnice.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="451"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="455"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="455"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="459"/>
         <source>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="477"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="481"/>
         <source>Workspace changed</source>
         <translation>Pracovný priestor bol zmenený</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="478"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="482"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation>Zvolený pracovný priestor bude použitý po reštarte aplikácie.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="501"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="505"/>
         <source>Remove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="502"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="506"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -10360,43 +10370,43 @@ Warning: This cannot be undone!</source>
 Upozornenie: Akciu nemožno vrátiť späť!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="513"/>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="694"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="517"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="698"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="541"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="545"/>
         <source>Could not create project</source>
         <translation>Projekt sa nedá vytvoriť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="557"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="561"/>
         <source>LibrePCB project files (%1)</source>
         <translation>Súbory LibrePCB projektu (%1)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="616"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="620"/>
         <source>Could not open project</source>
         <translation>Projekt sa nedá vytvoriť</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="663"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="667"/>
         <source>Restore autosave backup?</source>
         <translation>Obnoviť z automatickej zálohy?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="664"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="668"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>Zdá sa, že pri poslednom použití tohto projektu zlyhala aplikácia. Želáte si obnoviť poslednú automaticky uloženú zálohu?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="852"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="856"/>
         <source>New Folder</source>
         <translation>Nový adresár</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="852"/>
+        <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="856"/>
         <source>Name:</source>
         <translation>Názov:</translation>
     </message>
@@ -11350,7 +11360,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="95"/>
         <source>As a simpler and faster alternative, you could use the &lt;a href=&quot;%1&quot;&gt;Order PCB&lt;/a&gt; feature instead.</source>
-        <translation>Ako jednoduchšiu a rýchlejšiu alternatíva, môžete použiť funkciu &lt;a href=&quot;%1&quot;&gt;Objednať DPS&lt;/a&gt;.</translation>
+        <translation>Ako jednoduchšiu a rýchlejšiu alternatívu, môžete použiť funkciu &lt;a href=&quot;%1&quot;&gt;Objednať DPS&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="226"/>
@@ -11775,7 +11785,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.cpp" line="66"/>
         <source>As a simpler and faster alternative, you could use the &lt;a href=&quot;%1&quot;&gt;Order PCB&lt;/a&gt; feature instead.</source>
-        <translation>Ako jednoduchšiu a rýchlejšiu alternatíva, môžete použiť funkciu &lt;a href=&quot;%1&quot;&gt;Objednať DPS&lt;/a&gt;.</translation>
+        <translation>Ako jednoduchšiu a rýchlejšiu alternatívu, môžete použiť funkciu &lt;a href=&quot;%1&quot;&gt;Objednať DPS&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -13917,7 +13927,7 @@ For more information about licensing, click on this icon.</source>
 <context>
     <name>librepcb::editor::OpenGlSceneBuilder</name>
     <message>
-        <location filename="../libs/librepcb/editor/3d/openglscenebuilder.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/3d/openglscenebuilder.cpp" line="127"/>
         <source>The board outline is invalid. Please add exactly one polygon on the &apos;%1&apos; layer and make sure it is closed. For more information, check out the documentation.</source>
         <translation>Neplatný obrys dosky. Prosím pridajte jeden polygón do vrstvy &apos;%1&apos;  a skontrolujte či je uzatvorený. Pre viac informácií pozrite do dokumentácie.</translation>
     </message>
