@@ -194,7 +194,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="126"/>
         <source>Override DRC settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>Prepísať nastavenie DRC, užívateľským nastavením uloženým v *.lp súbore. Ak nie je zadané, použije sa nastaveniez dosky.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="129"/>
@@ -231,12 +231,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="139"/>
         <source>Override output jobs with a *.lp file containing custom jobs. If not set, the jobs from the project will be used instead.</source>
-        <translation>Prepísať výstupné úlohy so súborom *.lp obsahujúcim vlastné úlohy. Ak nie je zadané, použije sa nastavenie z projektu.</translation>
+        <translation>Prepísať výstupné úlohy nastavením zo súboru *.lp. Ak nie je zadané, použije sa nastavenie z projektu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="144"/>
         <source>Override the output base directory of jobs. If not set, the standard output directory from the project is used.</source>
-        <translation>Prepísať východziu cestu adresára, pre úlohy generovania výstupov. Ak nie je zadané, použije sa nastavenie z projektu.</translation>
+        <translation>Prepísať cieľovú cestu adresára, pre úlohy generovania výstupov. Ak nie je zadané, použije sa nastavenie z projektu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
@@ -276,7 +276,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="178"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation>Nahradenie nastavenia generovania výrobných dát dosky pomocou *.lp súboru obsahujúceho užívateľské nastavenie. Ak nie je nastavené, bude použité nastavenie generovania výrobných dát z dosky.</translation>
+        <translation>Prepísať nastavenie generovania výrobných dát dosky, pomocou užívateľského nastavenia z *.lp súboru. Ak nie je zadané, bude použité nastavenie generovania výrobných dát z dosky.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="184"/>
@@ -352,7 +352,9 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="255"/>
         <source>Minify the STEP models of all packages. Only works in conjunction with &apos;--all&apos;. Pass &apos;--save&apos; to write the minified files to disk.</source>
-        <translation type="unfinished"/>
+        <translation>Minify the STEP models of all packages. Only works in conjunction with &apos;--all&apos;. Pass &apos;--save&apos; to write the minified files to disk.
+
+Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak chcete zapísať minimalizované súbory na disk, zadajte „--save“.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="259"/>
@@ -437,12 +439,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1216"/>
         <source>Minify STEP model &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Minimalizácia STEP modelu &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1222"/>
         <source>  - Minified &apos;%1&apos; from %2 to %3 bytes</source>
-        <translation type="unfinished"/>
+        <translation>  - Minimalizovaný &apos;%1&apos; z %2 na %3 bytes</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1241"/>
