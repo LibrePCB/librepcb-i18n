@@ -1302,7 +1302,11 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
 Add traces and/or planes to create the missing connections.
 
 Note that traces need to be snapped to the origin of footprint pads to make the airwire and this message disappearing.</source>
-        <translation type="unfinished"/>
+        <translation>Chýbajúce spojenie - zrejme nie sú prepojené všetky prvky prepojenia.
+
+Pridajte spoje a/alebo vyplnené plochy pre vytvorenie chýbajúcich  spojení.
+
+Upozorňujeme, že spoje musia byť pripojené až na stred plôšok vývodov aby sa odstránili vzdušné spoje a toto oznámenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="117"/>
@@ -1328,7 +1332,7 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
         <source>There's a component in the schematics without a corresponding device in the board, so the circuit of the PCB is not complete.
 
 Use the &quot;Place Devices&quot; dock to add the device.</source>
-        <translation type="unfinished"/>
+        <translation>Na schéme je komponent, ktorý nemá príslušnú súčiastku na doske, takže doska nie je kompletná.</translation>
     </message>
 </context>
 <context>
@@ -1341,12 +1345,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="175"/>
         <source>There are multiple, independent board outlines defined.</source>
-        <translation type="unfinished"/>
+        <translation>Je vytvorených viacero nezávislých obrysov dosiek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="176"/>
         <source>Either add only a single board outline or make sure the PCB manufacturer can handle production data containing multiple PCBs.</source>
-        <translation type="unfinished"/>
+        <translation>Pridajte iba jeden obrys dosky alebo sa uistite, že výrobca DPS dokáže spracovať výrobné dáta obsahujúce viacero dosiek plošných spojov.</translation>
     </message>
 </context>
 <context>
@@ -1359,12 +1363,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="191"/>
         <source>The board outline polygon is not closed, i.e. the last vertex is not at the same coordinate as the first vertex.</source>
-        <translation type="unfinished"/>
+        <translation>Polygón obrysu dosky nie je uzatvorený - zrejme nie sú vrcholy susedných čiar priamo na sebe </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="194"/>
         <source>Replace multiple coincident polygons with a single, connected polygon and append an explicit last vertex to make the polygon closed.</source>
-        <translation type="unfinished"/>
+        <translation>Nahraďte tieto viaceré kolidujúce polygóny jedným prepojeným polygónom a pridajte explicitný posledný vrchol tak, aby sa polygón uzavrel.</translation>
     </message>
 </context>
 <context>
@@ -3817,7 +3821,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="321"/>
         <source>Bottom Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Spodná spájkovacia pasta</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="328"/>
@@ -4516,7 +4520,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="540"/>
         <source>Solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Spájkovacia pasta na SMT plôške vývodu &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="542"/>
@@ -4529,7 +4533,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="565"/>
         <source>No solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Chýba spájkovacia pasta na SMT plôške vývodu &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="567"/>
@@ -4586,7 +4590,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="617"/>
         <source>Solder paste on THT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Spájkovacia pasta na THT plôške vývodu &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="619"/>
@@ -5124,7 +5128,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="116"/>
         <source>Air Wires</source>
-        <translation>Air Wires</translation>
+        <translation>Vzdušné spoje</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="117"/>
@@ -5239,12 +5243,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="142"/>
         <source>Solder Paste Top</source>
-        <translation type="unfinished"/>
+        <translation>Vrchná spájkovacia pasta</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="143"/>
         <source>Solder Paste Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Spodná spájkovacia pasta</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="144"/>
@@ -11584,7 +11588,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="536"/>
         <source>Solder Paste:</source>
-        <translation type="unfinished"/>
+        <translation>Spájkovacia pasta:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="607"/>
