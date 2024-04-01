@@ -984,12 +984,12 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1595"/>
         <source>Multi-segment slots are a rather unusual thing and may cause troubles with some PCB manufacturers.</source>
-        <translation type="unfinished"/>
+        <translation>Viac segmentové sloty sú pomerne nezvyčajná vec a môžu spôsobiť problémy niektorým výrobcom PCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1599"/>
         <source>Slots may cause troubles with some PCB manufacturers.</source>
-        <translation type="unfinished"/>
+        <translation>Sloty môžu u niektorých výrobcov PCB spôsobovať problémy.</translation>
     </message>
 </context>
 <context>
@@ -1007,7 +1007,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1628"/>
         <source>Either avoid them or check if your PCB manufacturer supports them and adjust the DRC settings accordingly.</source>
-        <translation type="unfinished"/>
+        <translation>Buď sa im vyhnite, alebo skontrolujte, či ich výrobca PCB podporuje a podľa toho upravte nastavenia DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1631"/>
@@ -1026,12 +1026,12 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1509"/>
         <source>Invalid connection of pad &apos;%1&apos; on &apos;%2&apos;</source>
         <comment>Placeholders: Pad name, layer name</comment>
-        <translation type="unfinished"/>
+        <translation>Neplatné prepojenie z plôšky vývodu &apos;%1&apos; na &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1512"/>
         <source>The pad origin must be located within the pads copper area, or for THT pads within a hole. Otherwise traces might not beconnected fully. This issue needs to be fixed in the library.</source>
-        <translation type="unfinished"/>
+        <translation>Nultý bod plôšky vývodu musí byť umiestnený vnútri vodivej oblasti alebo v prípade THT v otvore. V opačnom prípade nemusia byť spoje úplne prepojené. Tento problém je potrebné vyriešiť v knižnici.</translation>
     </message>
 </context>
 <context>
