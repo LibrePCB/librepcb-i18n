@@ -573,60 +573,60 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="597"/>
         <source>Clearance board outline ↔ via &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie okraju dosky ↔ prechodu &lt; %1 %2</translation>
+        <translation>Odsadenie obrysu dosky ↔ prechodu &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="600"/>
         <source>The clearance between a via and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Vzdialenosť medzi prechodom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
+        <translation>Vzdialenosť medzi prechodom a obrysom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="604"/>
         <source>Check the DRC settings and move the via away from the board outline if needed.</source>
-        <translation>Skontrolujte nastavenie DRC a presuňte prechod ďalej od okraja dosky.</translation>
+        <translation>Skontrolujte nastavenie DRC a presuňte prechod ďalej od obrysu dosky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="619"/>
         <source>Clearance trace ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie spoja ↔ okraja dosky &lt; %1 %2</translation>
+        <translation>Odsadenie spoja ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="622"/>
         <source>The clearance between a trace and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Vzdialenosť medzi spojom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
+        <translation>Vzdialenosť medzi spojom a obrysom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="626"/>
         <source>Check the DRC settings and move the trace away from the board outline if needed.</source>
-        <translation>Skontrolujte nastavenie DRC a presuňte spoj ďalej od okraja dosky.</translation>
+        <translation>Skontrolujte nastavenie DRC a presuňte spoj ďalej od obrysu dosky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="641"/>
         <source>Clearance pad ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie plôšky vývodu ↔ okraja dosky &lt; %1 %2</translation>
+        <translation>Odsadenie plôšky vývodu ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="644"/>
         <source>The clearance between a footprint pad and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Vzdialenosť medzi plôškou vývodu a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
+        <translation>Vzdialenosť medzi plôškou vývodu a obrysu dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="648"/>
         <source>Check the DRC settings and move the device away from the board outline if needed.</source>
-        <translation>Skontrolujte nastavenie DRC a presuňte súčiastku ďalej od okraja dosky.</translation>
+        <translation>Skontrolujte nastavenie DRC a presuňte súčiastku ďalej od obrysu dosky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="663"/>
         <source>Clearance plane ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie vyplnenej plochy ↔ okraja dosky &lt; %1 %2</translation>
+        <translation>Odsadenie vyplnenej plochy ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="666"/>
         <source>The clearance between a plane and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Vzdialenosť medzi vyplnenou plochou a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
+        <translation>Vzdialenosť medzi vyplnenou plochou a obrysom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="670"/>
@@ -637,49 +637,49 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="707"/>
         <source>Clearance copper circle ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie vodivého oblúka ↔ okraja dosky &lt; %1 %2</translation>
+        <translation>Odsadenie vodivej kružnice ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="710"/>
         <source>The clearance between a circle and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Vzdialenosť medzi vodivým oblúkom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
+        <translation>Vzdialenosť medzi kružnicou a obrysom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="713"/>
         <source>Check the DRC settings and move the circle away from the board outline if needed.</source>
-        <translation>Skontrolujte nastavenie DRC a presuňte vodivý oblúk ďalej od okraja dosky.</translation>
+        <translation>Skontrolujte nastavenie DRC a presuňte kružnicu ďalej od obrysu dosky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="728"/>
         <source>Clearance copper text ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie textu ↔ okraja dosky &lt; %1 %2</translation>
+        <translation>Odsadenie textu ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="731"/>
         <source>The clearance between a stroke text and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Vzdialenosť medzi textom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
+        <translation>Vzdialenosť medzi textom a obrysom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="735"/>
         <source>Check the DRC settings and move the stroke text away from the board outline if needed.</source>
-        <translation>Skontrolujte nastavenie DRC a presuňte text ďalej od okraja dosky.</translation>
+        <translation>Skontrolujte nastavenie DRC a presuňte text ďalej od obrysu dosky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="749"/>
         <source>Clearance copper polygon ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie polygónu ↔ okraja dosky &lt; %1 %2</translation>
+        <translation>Odsadenie polygónu ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="755"/>
         <source>The clearance between a polygon and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Vzdialenosť medzi polygónom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
+        <translation>Vzdialenosť medzi polygónom a obrysom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="759"/>
         <source>Check the DRC settings and move the polygon away from the board outline if needed.</source>
-        <translation>Skontrolujte nastavenie DRC a presuňte polygón ďalej od okraja dosky.</translation>
+        <translation>Skontrolujte nastavenie DRC a presuňte polygón ďalej od obrysu dosky.</translation>
     </message>
 </context>
 <context>
@@ -861,17 +861,17 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1051"/>
         <source>Clearance drill ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie: otvor ↔ obrys dosky &lt; %1 %2</translation>
+        <translation>Odsadenie otvoru ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1057"/>
         <source>The clearance between a drill and the board outline is smaller than the drill clearance configured in the DRC settings.</source>
-        <translation>Vzdialenosť medzi otvorom a okrajom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
+        <translation>Vzdialenosť medzi otvorom a obrysom dosky je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1060"/>
         <source>Check the DRC settings and move the drill away from the board outline if needed.</source>
-        <translation>Skontrolujte nastavenie DRC a presuňte otvor ďalej od okraja dosky.</translation>
+        <translation>Skontrolujte nastavenie DRC a presuňte otvor ďalej od obrysu dosky.</translation>
     </message>
 </context>
 <context>
@@ -1045,7 +1045,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1293"/>
         <source>The via annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
-        <translation>Šírka medzikružia (vodivá plocha okolo otvoru) je menšia ako je povolené minimum, nastavené v návrhových pravidlách (DRC).</translation>
+        <translation>Šírka medzikružia (vodivá plocha okolo otvoru) je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1297"/>
@@ -1061,12 +1061,12 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1314"/>
         <source>The through-hole pad annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Šírka medzikružia plôšky vývodu s pokovovaným otvorom (vodivá plocha okolo otvoru) je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1318"/>
         <source>Check the DRC settings and increase the pad size if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a ak je to potrebné, zväčšite veľkosť plôšky vývodu.</translation>
     </message>
 </context>
 <context>
@@ -1080,12 +1080,12 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="220"/>
         <source>The board outline polygon is not manufacturable with the minimum tool diameter configured in the DRC settings due to edges with a smaller radius. Thus the actually produced board outline might contain larger edge radii and too small cutouts might even be missing completely.</source>
-        <translation type="unfinished"/>
+        <translation>Polygón obrysu dosky nie je vyrobiteľný nástrojom, ktorý je nastavený v DRC pravidlách (minimálny priemer nástroja) pretože hrany obsahujú menší polomer ako je možné týmto nástrojom vyrobiť. Takto môže skutočne vyrobený obrys dosky obsahovať väčšie polomery hrán a príliš malé výrezy môžu dokonca úplne chýbať.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="226"/>
         <source>Check the DRC settings and add/increase the radius of inner board edges if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a ak je to potrebné, pridajte/zväčšite polomer vnútorných výrezov obrysu dosky.</translation>
     </message>
 </context>
 <context>
@@ -1111,22 +1111,22 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1410"/>
         <source>The drill diameter of the via is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Priemer otvoru prechodu je menší ako je nastavený v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1414"/>
         <source>The drill diameter of the through-hole pad is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Priemer otvoru plôšky vývodu s pokovovaným otvorom je menší ako je nastavený v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1418"/>
         <source>The drill diameter of the non-plated hole is smaller than the minimum non-plated drill diameter configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Priemer nepokovovaného otvoru je menší ako je nastavený v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1422"/>
         <source>Check the DRC settings and increase the drill diameter if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a ak je to potrebné, zväčšite priemer otvoru.</translation>
     </message>
 </context>
 <context>
@@ -1146,17 +1146,17 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1488"/>
         <source>The width of the plated slot is smaller than the minimum plated slot width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Šírka pokovovaného slotu je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1492"/>
         <source>The width of the non-plated slot is smaller than the minimum non-plated slot width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Šírka nepokovovaného slotu je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1496"/>
         <source>Check the DRC settings and increase the slot width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a ak je to potrebné, zväčšite šírku slotu.</translation>
     </message>
 </context>
 <context>
@@ -1189,7 +1189,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="321"/>
         <source>The trace is thinner than the minimum copper width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Šírka spoja je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="324"/>
@@ -1205,7 +1205,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="344"/>
         <source>The configured minimum width of the plane is smaller than the minimum copper width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Šírka použitej čiary na vykreslenie vyplnenej plochy je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="347"/>
@@ -1222,7 +1222,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="365"/>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="413"/>
         <source>The polygon line width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation>Šírka použitej čiary na vykreslenie polygónu je menšia ako je povolené minimum, nastavené v návrhových pravidlách (DRC).</translation>
+        <translation>Šírka použitej čiary na vykreslenie polygónu je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="368"/>
@@ -1239,7 +1239,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="386"/>
         <source>The text stroke width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation>Šírka použitej čiary na vykreslenie textu je menšia ako je povolené minimum, nastavené v návrhových pravidlách (DRC).</translation>
+        <translation>Šírka použitej čiary na vykreslenie textu je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="389"/>
@@ -1261,7 +1261,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="439"/>
         <source>The circle line width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation>Šírka použitej čiary na vykreslenie kružnice je menšia ako je povolené minimum, nastavené v návrhových pravidlách (DRC).</translation>
+        <translation>Šírka použitej čiary na vykreslenie kružnice je menšia ako je nastavená v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="442"/>
@@ -1279,12 +1279,12 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="158"/>
         <source>There&apos;s no board outline defined at all, so the board cannot be manufactured.</source>
-        <translation type="unfinished"/>
+        <translation>Nie je definovaný obrys dosky, takže doska nemôže byť vyrobená.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="161"/>
         <source>Add a closed, zero-width polygon on the layer &apos;%1&apos; to draw the board outline.</source>
-        <translation type="unfinished"/>
+        <translation>Vytvorte obrys dosky pridaním uzatvoreného polygónu s nulovou šírkou čiary do vrstvy &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1397,7 +1397,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1653"/>
         <source>The clearance between a silkscreen text and a solder resist opening is smaller than the minimum clearance configured in the DRC settings. This could lead to clipped silkscreen during production.</source>
-        <translation>Odsadenie medzi textom popisu a prerušením v nesp. maske je menšie ako je nastavená minimálna vzdialenosť v DRC. To by mohlo viesť k orezaniu popisu počas výroby.</translation>
+        <translation>Odsadenie medzi textom popisu a prerušením v nesp. maske je menšie ako je nastavená n návrhových pravidlách (DRC). To by mohlo viesť k orezaniu popisu počas výroby.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1659"/>
@@ -3707,7 +3707,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="153"/>
         <source>Board Outlines</source>
-        <translation>Board Outlines</translation>
+        <translation>Obrys dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="160"/>
@@ -10849,7 +10849,7 @@ Inak je potrebné presne špecifikovať súradnice kde bude nulový bod (0,0) DX
         <source>If checked, tangent polylines of the DXF will be joined together.
 Helps for example to avoid invalid board outline polygons.</source>
         <translation>Ak je zaškrtnuté, dotýkajúce sa čiary DXF budú spojené.
-Pomáha napríklad vyhnúť sa neuzavretým polygónom podľa obrysu dosky. </translation>
+Pomáha napríklad vyhnúť sa neuzavretým polygónom obrysu dosky. </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="127"/>
