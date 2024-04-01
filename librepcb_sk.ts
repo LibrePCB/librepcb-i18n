@@ -1688,7 +1688,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="258"/>
         <source>View/modify the project setup</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť/upraviť nastavenie projektu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="266"/>
@@ -2029,7 +2029,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="562"/>
         <source>Generate netlist file for automated PCB testing</source>
-        <translation type="unfinished"/>
+        <translation>Generovať zoznam spojov pre automatizované testovanie DPS</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="570"/>
@@ -2225,7 +2225,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="739"/>
         <source>Lock the placement of the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>Uzamknúť umiestnenie zvoleného objektu(objektov).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="747"/>
@@ -2235,7 +2235,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="748"/>
         <source>Unlock the placement of the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>Odomknúť umiestnenie zvoleného objektu(objektov)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="756"/>
@@ -3362,7 +3362,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="189"/>
         <source>The pin is electrically connected to a net, but has no wire attached so this connection is not visible in the schematic. Add a wire to make the connection visible.</source>
-        <translation type="unfinished"/>
+        <translation>Tento vývod je elektricky prepojený, ale nemá pripojený žiaden spoj, takže spojenie nie je v schéme viditeľné. Pridajte spoj pre vytvorenie viditeľného prepojenia.</translation>
     </message>
 </context>
 <context>
@@ -3841,7 +3841,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="346"/>
         <source>Bottom Glue</source>
-        <translation type="unfinished"/>
+        <translation>Spodné lepidlo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="352"/>
@@ -4507,7 +4507,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="513"/>
         <source>Copper clearance &gt;0 on pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Odsadenie vodivých prvkov &gt;0 na plôške vývodu &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="515"/>
@@ -4546,7 +4546,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="53"/>
         <source>Suspicious assembly type</source>
-        <translation type="unfinished"/>
+        <translation>Podozrivý typ osadenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="54"/>
@@ -4559,7 +4559,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="590"/>
         <source>Suspicious function of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Podozrivá funkcia plôšky vývodu &apos;%1&apos; na &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="592"/>
@@ -4603,7 +4603,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="643"/>
         <source>Unspecified function of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nešpecifikovaná funkcia plôšky vývodu &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="645"/>
@@ -4621,7 +4621,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="672"/>
         <source>Unused custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepoužitá užívateľsky vytvorená plôška vývodu &apos;%1&apos; in &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="674"/>
@@ -4700,7 +4700,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/geometry/path.h" line="243"/>
         <source>Path is not fillable or contains arcs!</source>
-        <translation type="unfinished"/>
+        <translation>Obrys sa nedá vyplniť, alebo obsahuje oblúky!</translation>
     </message>
 </context>
 <context>
