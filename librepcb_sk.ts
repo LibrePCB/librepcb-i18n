@@ -1031,7 +1031,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1512"/>
         <source>The pad origin must be located within the pads copper area, or for THT pads within a hole. Otherwise traces might not beconnected fully. This issue needs to be fixed in the library.</source>
-        <translation>Nultý bod plôšky vývodu musí byť umiestnený vnútri vodivej oblasti alebo v prípade THT v otvore. V opačnom prípade nemusia byť spoje úplne prepojené. Tento problém je potrebné vyriešiť v knižnici.</translation>
+        <translation>Súradnicový začiatok plôšky vývodu musí byť umiestnený vnútri vodivej oblasti alebo v prípade THT v otvore. V opačnom prípade nemusia byť spoje úplne prepojené. Tento problém je potrebné vyriešiť v knižnici.</translation>
     </message>
 </context>
 <context>
@@ -1306,7 +1306,7 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
 
 Pridajte spoje a/alebo vyplnené plochy pre vytvorenie chýbajúcich  spojení.
 
-Upozorňujeme, že spoje musia byť pripojené až na stred plôšok vývodov aby sa odstránili vzdušné spoje a toto oznámenie</translation>
+Upozorňujeme, že spoje musia byť pripojené až na súradnicový začiatok plôšok vývodov aby sa odstránili vzdušné spoje a toto oznámenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="117"/>
@@ -4022,7 +4022,9 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
         <source>There are no orderable parts added to the device. It's recommended (but not mandatory) to add the concrete manufacturer part numbers this device is valid for. These MPNs are used by the BOM export to make BOMs of projects much more complete and accurate.
 
 If this device doesn&apos;t represent an orderable part, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>K súčiastke nie sú pridané žiadne objednateľné diely. Odporúča sa (ale nie to povinné) pridať konkrétne unikátne typové čísla výrobcu (MPN). Tieto MPN sa používajú pri exporte zoznamu súčiastok, aby boli tieto zoznamy viac kompletnejšie a presnejšie.
+
+Ak toto nepredstavuje objednateľnú súčiastku, jednoducho túto správu ignorujte.</translation>
     </message>
 </context>
 <context>
@@ -4073,12 +4075,12 @@ Pre všeobecné puzdra (napr. SOT23) platí, že plôšky vývodov by mali byť 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="87"/>
         <source>Small copper clearance on fiducial in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Malé odsadenie vodivého prvku na zameriavacej značke v &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="89"/>
         <source>The copper clearance of the fiducial pad is less than its stop mask expansion, which is unusual. Typically the copper clearance should be equal to or greater than the stop mask expansion to avoid copper located within the stop mask opening.</source>
-        <translation type="unfinished"/>
+        <translation>Odsadenie vodivého prvku zameriavacej značky je menšie ako odstupu nespájkovateľnej masky, čo je nezvyčajné. Odsadenie by malo byť zvyčajne rovnaké alebo väčšie ako odstup masky, aby sa zabránilo umiestneniu medi pod maskou.</translation>
     </message>
 </context>
 <context>
@@ -4091,7 +4093,7 @@ Pre všeobecné puzdra (napr. SOT23) platí, že plôšky vývodov by mali byť 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="114"/>
         <source>The stop mask expansion of the fiducial pad is set to automatic, which is unusual. Typically the stop mask expansion of fiducials need to be manually set to a much larger value.</source>
-        <translation type="unfinished"/>
+        <translation>Odstup nespájkovateľnej masky zameriavacej značky je nastavený na automatické, čo je nezvyčajné. Tento odstup masky u zameriavacích značiek je zvyčajne potrebné manuálne nastaviť na oveľa väčšiu hodnotu.</translation>
     </message>
 </context>
 <context>
@@ -4113,12 +4115,12 @@ Pre všeobecné puzdra (napr. SOT23) platí, že plôšky vývodov by mali byť 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="162"/>
         <source>Invalid custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný obrys užívateľskej plôšky vývodu &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="164"/>
         <source>The pad has set a custom outline which does not represent a valid area. Either choose a different pad shape or specify a valid custom outline.</source>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu má nastavený užívateľský obrys, ktorý nepredstavuje platnú oblasť. Vyberte si iný tvar podložky alebo vytvorte platný vlastný obrys.</translation>
     </message>
 </context>
 <context>
@@ -4432,7 +4434,7 @@ Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="357"/>
         <source>Pads should have at least %1 annular ring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</source>
-        <translation type="unfinished"/>
+        <translation>Plôšky vývodu by mali mať aspoň %1 medzikružie (vodivý kruh okolo každého otvoru). Upozorňujeme, že táto hodnota je len všeobecné odporúčaná, presná hodnota závisí od možností konkrétneho výrobcu DPS.</translation>
     </message>
 </context>
 <context>
@@ -4466,14 +4468,16 @@ Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="436"/>
         <source>Invalid origin of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný súradnicový začiatok plôšky vývodu &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="438"/>
         <source>The origin of each pad must be located within its copper area, otherwise traces won't be connected properly.
 
 For THT pads, the origin must be located within a drill hole since on some layers the pad might only have a small annular ring instead of the full pad shape.</source>
-        <translation type="unfinished"/>
+        <translation>Súradnicový začiatok každej plôšky vývodu sa musí nachádzať v jej medenej oblasti, inak spoje nebudú správne pripojené.
+
+V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo vyvŕtanom otvore, pretože na niektorých vrstvách môže mať plôška vývodu namiesto úplného tvaru len malý prstencový krúžok.</translation>
     </message>
 </context>
 <context>
@@ -4494,12 +4498,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="488"/>
         <source>Solder resist on pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nespájkovacia maska na plôške vývodu &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="490"/>
         <source>There&apos;s no stop mask opening enabled on the pad, so the copper pad will be covered by solder resist and is thus not functional. This is very unusual, you should double-check if this is really what you want.</source>
-        <translation type="unfinished"/>
+        <translation>Na plôške vývodu nie je povolené vynechanie nespájkovateľnej  masky, pretože vodivá plôška by bola pokrytá maskou, čo by ju znefunkčnilo. Je to veľmi nezvyčajné, mali by ste si skontrolovať, či to naozaj takto chcete.</translation>
     </message>
 </context>
 <context>
@@ -4512,7 +4516,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="515"/>
         <source>There is a custom copper clearance enabled on the pad, which is unusual for pads which do not represent a fiducial. Note that the clearance value from the board design rules is applied to all pads anyway, thus manual clearance values are usually not needed. If this pad is a fiducial, make sure to set its function to the corresponding value.</source>
-        <translation type="unfinished"/>
+        <translation>Na plôške vývodu je povolené vlastné odsadenie od vodivého prvku, čo je nezvyčajné pre plôšky vývodov, ktoré nie sú  zameriavacie značky. Všimnite si, že hodnota odsadenia z návrhových pravidiel dosky sa aj tak použijú na všetky plôšky vývodu, takže manuálne hodnoty odsadenia zvyčajne nie sú potrebné. Ak je toto zameriavacia značka, uistite sa, že ste nastavili jej funkciu na zodpovedajúci typ.</translation>
     </message>
 </context>
 <context>
@@ -4525,7 +4529,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="542"/>
         <source>The SMT pad has solder paste enabled, but its function indicates that there&apos;s no lead to be soldered on it (e.g. a fiducial). Usually solder paste is not desired on such special pads which won&apos;t be soldered.</source>
-        <translation type="unfinished"/>
+        <translation>SMT plôška vývodu má povolenú spájkovaciu pastu, ale jej funkcia indikuje, že na nej nie je potrebné spájkovať žiadne vodiče (napr. sa jedná o zameriavaciu značku). Zvyčajne nie je potrebná spájkovacia pasta na takýchto špeciálnych plôškach, ktoré sa nebudú spájkovať.</translation>
     </message>
 </context>
 <context>
@@ -4538,7 +4542,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="567"/>
         <source>The SMT pad has no solder paste enabled, which is unusual since without solder paste the pad cannot be reflow soldered. Only use this if there&apos;s no lead to be soldered on that pad, or if you have drawn a manual solder paste area.</source>
-        <translation type="unfinished"/>
+        <translation>SMT plôška vývodu nemá povolenú spájkovaciu pastu, čo je nezvyčajné, pretože bez spájkovacej pasty nemožno plôšku spájkovať pastou. Použite to iba vtedy, ak na plôške nebude žiadny vývod súčiastky, alebo ak ste ručne nakreslili oblasť pre spájkovaciu pastu.</translation>
     </message>
 </context>
 <context>
@@ -4551,7 +4555,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="54"/>
         <source>The specified assembly type differs from the assembly type which is auto-detected from the footprint contents. Double-check if the specified assembly type is really correct.</source>
-        <translation type="unfinished"/>
+        <translation>Zadaný typ spôsobu osadzovania sa líši od typu osadzovania, ktorý sa automaticky zistil z toho čo obsahuje puzdro. Ešte raz skontrolujte, či je zadaný typ osadzovania naozaj správny.</translation>
     </message>
 </context>
 <context>
@@ -4569,7 +4573,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
  - Function is intended for SMT pads but pad is THT
  - Function is electrical but pad is not connected
  - Function is fiducial but pad is connected</source>
-        <translation type="unfinished"/>
+        <translation>Nastavená funkcia plôšky vývodu sa nezhoduje s ostatnými vlastnosťami plôšky čo vyzerá podozrivo. Možné dôvody:
+
+- Funkcia je určená pre plôšky THT, ale plôška je SMT
+- Funkcia je určená pre SMT plôšky, ale pritom je THT
+- Funkcia je elektrická, ale plôška nie je pripojená
+- Funkcia je typu zameriavacia značka, ale plôška je pritom pripojená</translation>
     </message>
 </context>
 <context>
@@ -4595,7 +4604,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="619"/>
         <source>The THT pad has solder paste enabled, which is very unusual since through-hole components are usually not reflow soldered. Also the solder paste could flow into the pads hole, possibly causing troubles during THT assembly. Double-check if this is really what you want.</source>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu THT má povolenú spájkovaciu pastu, čo je veľmi neobvyklé, pretože komponenty s priechodnými otvormi sa zvyčajne nespájkujú pretavením s použitím pasty. Spájkovacia pasta by tiež mohla zatiecť do otvoru plôšky, čo by mohlo spôsobiť problémy pri následnej THT montáži. Dvakrát skontrolujte, či to naozaj takto chcete.</translation>
     </message>
 </context>
 <context>
@@ -11613,7 +11622,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="663"/>
         <source>Coordinates are relative to the pad origin and before rotation.</source>
-        <translation>Súradnice sú relatívne k počiatku súradníc plôšky vývodu a pred otočením.</translation>
+        <translation>Súradnice sú relatívne k súradnicovému začiatku plôšky vývodu a pred otočením.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="196"/>
