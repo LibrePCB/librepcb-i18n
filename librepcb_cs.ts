@@ -8221,8 +8221,8 @@ Na otevření potřebujete alespoň LibrePCB %1.
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="871"/>
-        <source>SIlkscreen Text Height:</source>
-        <translation>Výška textu potisku:</translation>
+        <source>Silkscreen Text Height:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="63"/>

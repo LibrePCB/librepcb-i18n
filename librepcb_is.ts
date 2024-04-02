@@ -8192,7 +8192,7 @@ You need at least LibrePCB %1 to open it.
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="871"/>
-        <source>SIlkscreen Text Height:</source>
+        <source>Silkscreen Text Height:</source>
         <translation type="unfinished"/>
     </message>
     <message>
