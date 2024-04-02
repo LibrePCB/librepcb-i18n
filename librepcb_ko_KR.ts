@@ -6424,12 +6424,12 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="433"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="435"/>
         <source>Dependent component &quot;%1&quot; not imported.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="440"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="443"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
         <translation type="unfinished"/>
     </message>
@@ -6452,12 +6452,12 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="423"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="424"/>
         <source>Skipped device due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="430"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="431"/>
         <source>Finished: %1 of %2 element(s) imported</source>
         <comment>Placeholders are numbers</comment>
         <translation type="unfinished"><numerusform></numerusform></translation>
@@ -6466,101 +6466,101 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::eagleimport::EagleProjectImport</name>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="128"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="131"/>
         <source>Project contains no schematic sheets.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="132"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="135"/>
         <source>Project contains modules which are not supported yet!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="136"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="139"/>
         <source>Project contains buses which are not supported yet!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="158"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="165"/>
         <source>Importing project, this may take a moment...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="159"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="166"/>
         <source>If you experience any issues with the import, please &lt;a href=&quot;%1&quot;&gt;let us know&lt;/a&gt; so we can improve it.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="227"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="233"/>
         <source>Skipped modules because they are not supported yet!</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="242"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="248"/>
         <source>Imported %n schematic sheet(s). Please check the ERC messages in the schematic editor.</source>
         <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="247"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="253"/>
         <source>Imported a board. Please run the DRC in the board editor and fix remaining issues manually.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="251"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="257"/>
         <source>Import failed:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="441"/>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="504"/>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="856"/>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="970"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="459"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="522"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="874"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="988"/>
         <source>Skipped text on layer %1 (%2).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="491"/>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="949"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="509"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="967"/>
         <source>Skipped graphics object on layer %1 (%2).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="592"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="609"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="597"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="614"/>
         <source>Flat line end is not supported, converting to round.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="609"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="626"/>
         <source>XRef-style net label is not supported, converting to normal net label.</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="663"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="680"/>
         <source>Skipped %n bus(es) because they are not supported yet!</source>
         <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1054"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1072"/>
         <source>Square/octagon via shape not supported, converting to circular.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1128"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1146"/>
         <source>Dashed/dotted trace is not supported, converting to continuous.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1133"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1151"/>
         <source>Flat trace end is not supported, converting to round.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1137"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1155"/>
         <source>Curved trace is not supported, converting to straight.</source>
         <translation type="unfinished"/>
     </message>

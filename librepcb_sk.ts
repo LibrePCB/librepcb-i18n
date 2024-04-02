@@ -1406,7 +1406,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1659"/>
         <source>Check the DRC settings and move the text away from the solder resist opening if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie DRC a presuňte text ďalej od obrysu dosky.</translation>
     </message>
 </context>
 <context>
@@ -5263,12 +5263,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="146"/>
         <source>Glue Top</source>
-        <translation type="unfinished"/>
+        <translation>Lepidlo vrchné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="147"/>
         <source>Glue Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Lepidlo spodné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="148"/>
@@ -6054,7 +6054,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="110"/>
         <source>Directory does not contain a LibrePCB project: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Adresár neobsahuje projekt LibrePCB: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="122"/>
@@ -6185,12 +6185,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="154"/>
         <source>The directory &quot;%1&quot; is not a valid LibrePCB workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Adresár &quot;%1&quot; nie je platný adresár prac. priestoru LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="166"/>
         <source>The workspace &quot;%1&quot; requires LibrePCB %2 or later.</source>
-        <translation type="unfinished"/>
+        <translation>Prac. priestor &quot;%1&quot; vyžaduje LibrePCB %2 alebo novšiu.</translation>
     </message>
 </context>
 <context>
@@ -6203,7 +6203,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="525"/>
         <source>Attention: Project has been upgraded to a newer file format!</source>
-        <translation type="unfinished"/>
+        <translation>Upozornenie: Formát súboru projektu bol inovovaný na najnovší!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="546"/>
@@ -6229,7 +6229,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="615"/>
         <source>ERROR: Board index &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA: Index dosky &apos;%1&apos; nie je platný.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="623"/>
@@ -6360,7 +6360,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1029"/>
         <source>ERROR: The file &apos;%1&apos; was written multiple times!</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA: Súbor &apos;%1&apos; bol viac krát prepísaný!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1034"/>
@@ -6440,12 +6440,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Odkazovaná schematická značka &quot;%1&quot; nebola importovaná.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="433"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="435"/>
         <source>Dependent component &quot;%1&quot; not imported.</source>
         <translation>Odkazovaný komponent &quot;%1&quot; nebol importovaný.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="440"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="443"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
         <translation>Odkazované puzdro &quot;%1&quot; nebolo importované.</translation>
     </message>
@@ -6468,12 +6468,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Pre chybu bol vynechaný komponent: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="423"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="424"/>
         <source>Skipped device due to error: %1</source>
         <translation>Pre chybu bola vynechaná súčiastka: %1</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="430"/>
+        <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="431"/>
         <source>Finished: %1 of %2 element(s) imported</source>
         <comment>Placeholders are numbers</comment>
         <translation><numerusform>Ukončené: %1 z %2 elementov bol importovaný</numerusform><numerusform>Ukončené: %1 z %2 elementov boli importované</numerusform><numerusform>Ukončené: %1 z %2 elementov bolo importovaných</numerusform><numerusform>Ukončené: %1 z %2 elementov bolo importovaných</numerusform></translation>
@@ -6482,101 +6482,101 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::eagleimport::EagleProjectImport</name>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="128"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="131"/>
         <source>Project contains no schematic sheets.</source>
         <translation>Projekt obsahuje neschematické výkresy.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="132"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="135"/>
         <source>Project contains modules which are not supported yet!</source>
         <translation>Projekt obsahuje moduly, ktoré zatiaľ nie sú podporované!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="136"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="139"/>
         <source>Project contains buses which are not supported yet!</source>
         <translation>Projekt obsahuje zbernice, ktoré zatiaľ nie sú podporované!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="158"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="165"/>
         <source>Importing project, this may take a moment...</source>
         <translation>Importujem projekt. Chvíľku strpenia....</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="159"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="166"/>
         <source>If you experience any issues with the import, please &lt;a href=&quot;%1&quot;&gt;let us know&lt;/a&gt; so we can improve it.</source>
         <translation>Ak máte akékoľvek problémy s importovaním, prosím &lt;a href=&quot;%1&quot;&gt;povedzte nám o nich&lt;/a&gt;, pokúsime sa ich vyriešiť.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="227"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="233"/>
         <source>Skipped modules because they are not supported yet!</source>
         <translation>Boli vynechané moduly, pretože zatiaľ nie sú podporované!</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="242"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="248"/>
         <source>Imported %n schematic sheet(s). Please check the ERC messages in the schematic editor.</source>
         <translation><numerusform>Bol naimportovaný %n schematický výkres. Prosím skontrolujte hlásenia elektrickej kontroly ERC v editore schém.</numerusform><numerusform>Boli naimportované %n schematické výkresy. Prosím skontrolujte hlásenia elektrickej kontroly ERC v editore schém.</numerusform><numerusform>Bolo naimportovaných %n schematických výkresov. Prosím skontrolujte hlásenia elektrickej kontroly ERC v editore schém.</numerusform><numerusform>Bolo naimportovaných %n schematických výkresov. Prosím skontrolujte hlásenia elektrickej kontroly ERC v editore schém.</numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="247"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="253"/>
         <source>Imported a board. Please run the DRC in the board editor and fix remaining issues manually.</source>
         <translation>Bola naimportovaná doska s plošnými spojmi. Prosím spustite kontrolu pravidiel DRC a nájdené problémy opravte manuálne.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="251"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="257"/>
         <source>Import failed:</source>
         <translation>Import bol neúspešný:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="441"/>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="504"/>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="856"/>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="970"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="459"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="522"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="874"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="988"/>
         <source>Skipped text on layer %1 (%2).</source>
         <translation>Vynechaný text na vrstve %1 (%2).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="491"/>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="949"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="509"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="967"/>
         <source>Skipped graphics object on layer %1 (%2).</source>
         <translation>Vynechaný grafický objekt na vrstve layer %1 (%2).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="592"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="609"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
         <translation>Čiarkované a bodkované čiary nie sú podporované a budú skonvertované na plné čiary.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="597"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="614"/>
         <source>Flat line end is not supported, converting to round.</source>
         <translation>Ploché ukončenie čiar nie je podporované a bude zmenené na zaoblené.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="609"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="626"/>
         <source>XRef-style net label is not supported, converting to normal net label.</source>
         <translation>Rozšírené označenie prepojení (XRef) nie je podporované a bude zmenené za jednoduché označenie prepojení.</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="663"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="680"/>
         <source>Skipped %n bus(es) because they are not supported yet!</source>
         <translation><numerusform>Bola vynechaná %n zbernica, pretože zbernice zatiaľ nie sú podporované!</numerusform><numerusform>Boli vynechané %n zbernice, pretože zbernice zatiaľ nie sú podporované!</numerusform><numerusform>Bolo vynechaných %n zberníc, pretože zbernice zatiaľ nie sú podporované!</numerusform><numerusform>Bolo vynechaných %n zberníc, pretože zbernice zatiaľ nie sú podporované!</numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1054"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1072"/>
         <source>Square/octagon via shape not supported, converting to circular.</source>
         <translation>Štvoruholníkový/osemuholníkový tvar prechodu nie je podporovaný a bude zmenený za okrúhly.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1128"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1146"/>
         <source>Dashed/dotted trace is not supported, converting to continuous.</source>
         <translation>Čiarkované/bodkované spoje nie sú podporované a budú skonvertované na plné.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1133"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1151"/>
         <source>Flat trace end is not supported, converting to round.</source>
         <translation>Ploché ukončenie spojov nie je podporované a bude zmenené na zaoblené.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1137"/>
+        <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1155"/>
         <source>Curved trace is not supported, converting to straight.</source>
         <translation>Oblúkové spoje nie sú podporované a budú zmenené za priame.</translation>
     </message>
@@ -6621,12 +6621,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="240"/>
         <source>Please enter a valid project path with &apos;%1&apos; file extension.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím zadajte platnú cestu projektu &apos;%1&apos; s príponou súboru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="252"/>
         <source>The selected directory is not empty.</source>
-        <translation type="unfinished"/>
+        <translation>Zvolený adresár nie je prázdny.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="47"/>
@@ -7670,17 +7670,17 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="109"/>
         <source>No Planes</source>
-        <translation>Žiadne vyplnené plochy</translation>
+        <translation>Bez vyplnených plôch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="120"/>
         <source>No Exposure</source>
-        <translation type="unfinished"/>
+        <translation>Bez odmaskovania</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="131"/>
         <source>No Devices</source>
-        <translation>Žiadne súčiastky</translation>
+        <translation>Bez súčiastok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="212"/>
@@ -8232,7 +8232,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="68"/>
         <source>None (fully exposed copper)</source>
-        <translation type="unfinished"/>
+        <translation>Žiadna (plne odmaskované vodivé prvky)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="71"/>
@@ -13779,27 +13779,27 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="94"/>
         <source>CC-BY-NC-4.0 (requires attribution + non commercial)</source>
-        <translation type="unfinished"/>
+        <translation>CC-BY-NC-4.0 (uvedenie autora + nekomerčné použitie)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="96"/>
         <source>CC-BY-NC-SA-4.0 (requires attribution + non commercial + share alike)</source>
-        <translation type="unfinished"/>
+        <translation>CC-BY-NC-SA-4.0 (uvedenie autora + nekomerčné použitie + rovnaké šírenie)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="99"/>
         <source>CC-BY-NC-ND-4.0 (requires attribution + non commercial + no derivatives)</source>
-        <translation type="unfinished"/>
+        <translation>CC-BY-NC-ND-4.0 (uvedenie autora + nekomerčné použitie + bez odvodeného obsahu)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="103"/>
         <source>CC-BY-ND-4.0 (requires attribution + no derivatives)</source>
-        <translation type="unfinished"/>
+        <translation>CC-BY-ND-4.0 (uvedenie autora + bez odvodeného obsahu )</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="105"/>
         <source>TAPR-OHL-1.0</source>
-        <translation type="unfinished"/>
+        <translation>TAPR-OHL-1.0</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="107"/>
@@ -14045,7 +14045,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="72"/>
         <source>Previously generated files which are not generated anymore will automatically be deleted!</source>
-        <translation type="unfinished"/>
+        <translation>Predtým vygenerované súbory ktoré sa už nebudú generovať budú automaticky odstránené!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="75"/>
@@ -14055,7 +14055,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="88"/>
         <source>This is a brand-new feature and is still undergoing some polishing.</source>
-        <translation type="unfinished"/>
+        <translation>Toto je úplne nová vychytávka a stále sa vylepšuje.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="91"/>
@@ -14635,17 +14635,17 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="108"/>
         <source>No Planes</source>
-        <translation>Žiadne vyplnené plochy</translation>
+        <translation>Bez vyplnených plôch</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="118"/>
         <source>No Exposure</source>
-        <translation type="unfinished"/>
+        <translation>Bez odmaskovania</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="128"/>
         <source>No Devices</source>
-        <translation>Žiadne súčiastky</translation>
+        <translation>Bez súčiastok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="139"/>
@@ -14867,12 +14867,12 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="924"/>
         <source>Apply to all unspecified pads</source>
-        <translation type="unfinished"/>
+        <translation>Aplikovať na všetky nešpecifikované plôšky vývodov.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="946"/>
         <source>Fix Unspecified Pad Functions</source>
-        <translation type="unfinished"/>
+        <translation>Opraviť nešpecifikované funkcie plôšok vývodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1053"/>
@@ -14895,7 +14895,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="248"/>
         <source>Enable/disable this model for the selected footprint.</source>
-        <translation type="unfinished"/>
+        <translation>Povoliť/zakázať tento model pre zvolené puzdro.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="256"/>
@@ -17258,7 +17258,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="51"/>
         <source>No copper (except planes)</source>
-        <translation>Žiaden vodivý prvok (okrem vyplnených plôch)</translation>
+        <translation>Bez vodivých prvkov (okrem vyplnených plôch)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="58"/>
@@ -17278,7 +17278,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="71"/>
         <source>No exposure</source>
-        <translation type="unfinished"/>
+        <translation>Bez odmaskovania</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="78"/>
@@ -17288,7 +17288,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="81"/>
         <source>No devices</source>
-        <translation>Žiadne súčiastky</translation>
+        <translation>Bez súčiastok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="91"/>
