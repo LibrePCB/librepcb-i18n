@@ -1427,7 +1427,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1729"/>
         <source>The layer contains no copper objects (except the automatically generated through-hole annular rings, if any) so it is useless. This is not critical, but if your intention is to flood it with copper, you need to add a plane manually. Or if you don&apos;t need this layer, you might want to reduce the layer count in the board setup dialog to avoid unnecessary production costs. Also some PCB manufacturers might be confused by empty layers.</source>
-        <translation type="unfinished"/>
+        <translation>Vrstva neobsahuje žiadne vodivé prvky (okrem automaticky generovaných medzikruží prechodov, ak nejaké existujú), takže je zbytočná. Toto nie je nič kritické, ale ak ju chcete vyplniť vodivou plochou, musíte výplň pridať ručne. Alebo ak túto vrstvu nepotrebujete, môžete znížiť počet vrstiev v dialógovom okne nastavenia dosky, aby ste sa vyhli zbytočným výrobným nákladom. Niektorí výrobcovia DPS môžu byť tiež zmätení vrstvami, ktoré sú prázdne.</translation>
     </message>
 </context>
 <context>
@@ -3375,7 +3375,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="119"/>
         <source>The component signal requires the attached net to be named &apos;%1&apos;, but it is named &apos;%2&apos;. Either rename the net manually or remove this connection.</source>
-        <translation type="unfinished"/>
+        <translation>Signál komponentu vyžaduje pripojenie pomenované &apos;%1&apos;, ale to má názov &apos;%2&apos;. Buď premenujte toto prepojenie ručne alebo ho odstráňte.</translation>
     </message>
 </context>
 <context>
@@ -3388,7 +3388,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="62"/>
         <source>The net is connected to less than two pins, so it does not represent an electrical connection. Check if you missed to connect more pins.</source>
-        <translation type="unfinished"/>
+        <translation>Prepojenie je spojené na menej ako na dvoch vývodoch, takže nepredstavuje elektrické spojenie. Skontrolujte, či ste nezabudli pripojiť ďalšie vývody.</translation>
     </message>
 </context>
 <context>
@@ -3423,7 +3423,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="96"/>
         <source>The component signal is marked as required, but is not connected to any net. Add a wire to the corresponding symbol pin to connect it to a net.</source>
-        <translation type="unfinished"/>
+        <translation>Signál komponentu je označený ako vyžadovaný, ale nie je pripojený k žiadnej prepojeniu. Pridajte spoj k príslušnému vývodu symbolu, aby ste ho pripojili.</translation>
     </message>
 </context>
 <context>
@@ -3431,12 +3431,12 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="167"/>
         <source>Unplaced gate: &apos;%1:%2&apos;</source>
-        <translation>Neumiestnené hradlo: &apos;%1:%2&apos;</translation>
+        <translation>Neumiestnené ďalšie časti komponentu: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="169"/>
         <source>The optional gate &apos;%1&apos; of &apos;%2&apos; is not added to the schematic.</source>
-        <translation>Voliteľné hradlo &apos;%1&apos; z &apos;%2&apos; nebolo pridané do schémy.</translation>
+        <translation>Voliteľná ďalšia časť komponentu &apos;%1&apos; z &apos;%2&apos; nebola pridaná do schémy.</translation>
     </message>
 </context>
 <context>
@@ -3444,12 +3444,12 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="145"/>
         <source>Unplaced required gate: &apos;%1:%2&apos;</source>
-        <translation>Neumiestnené vyžadované hradlo: &apos;%1:%2&apos;</translation>
+        <translation>Vyžadovaná ďalšia časť komponentu nebola umiestnená: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="147"/>
         <source>The gate &apos;%1&apos; of &apos;%2&apos; is marked as required, but it is not added to the schematic.</source>
-        <translation type="unfinished"/>
+        <translation>Ďalšia časť komponentu  &apos;%1&apos; z &apos;%2&apos; je označená ako vyžadovaná, ale nebola pridaná do schémy.</translation>
     </message>
 </context>
 <context>
@@ -3462,7 +3462,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="49"/>
         <source>There are no nets assigned to the net class, so you could remove it.</source>
-        <translation type="unfinished"/>
+        <translation>K triede prepojení nie sú priradené žiadne prepojenia, takže ju môžete odstrániť.</translation>
     </message>
 </context>
 <context>
@@ -3801,7 +3801,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="293"/>
         <source>Bottom Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Spodná skrytá oblasť uchopenia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="300"/>
@@ -4007,7 +4007,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="41"/>
         <source>The assembly type &apos;Auto-detect&apos; is not recommended as the detection might not be correct in every case. It&apos;s safer to specify the assembly type manually.</source>
-        <translation type="unfinished"/>
+        <translation>Osadzovanie typu  &apos;Automatická-detekcia&apos; sa neodporúča, pretože detekcia nemusí byť v každom prípade správna. Je bezpečnejšie zadať typ osadzovania ručne.</translation>
     </message>
 </context>
 <context>
@@ -4015,7 +4015,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="36"/>
         <source>No part numbers added</source>
-        <translation type="unfinished"/>
+        <translation>Nie je pridané číslo súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="37"/>
