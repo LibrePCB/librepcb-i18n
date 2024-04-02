@@ -516,7 +516,7 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="148"/>
         <source>Install Desktop Integration</source>
-        <translation type="unfinished"/>
+        <translation>Inštalovať integráciu do pracovnej plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="149"/>
@@ -526,7 +526,7 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="157"/>
         <source>Uninstall Desktop Integration</source>
-        <translation type="unfinished"/>
+        <translation>Odinštalovať integráciu z pracovnej plochy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="158"/>
@@ -4617,12 +4617,12 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="645"/>
         <source>The function of the pad is not specified, which could lead to inaccurate or wrong data in exports (e.g. pick&amp;place files). Also the automatic checks can detect more potential issues if the function is specified. Thus it&apos;s recommended to explicitly specify the function of each pad.</source>
-        <translation type="unfinished"/>
+        <translation>Funkcia plôšky vývodu nie je špecifikovaná, čo môže viesť k nepresným alebo nesprávnym údajom v exportoch (napr. súbory pick&amp;place). Ak je funkcia plôšky definovaná, automatické kontroly môžu tiež odhaliť ďalšie potenciálne problémy. Preto sa odporúča explicitne špecifikovať funkciu každej plôšky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="651"/>
         <source>However, the image data of a PCB is not affected by the pad function.</source>
-        <translation type="unfinished"/>
+        <translation>Vizuálna podoba PCB nebude ovplyvnená funkciou plôšky.</translation>
     </message>
 </context>
 <context>
@@ -4635,7 +4635,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="674"/>
         <source>The pad has set a custom outline but it isn&apos;t used as the shape. So it has no effect and should be removed to avoid confusion.</source>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu má nastavený užívateľský obrys, ale nepoužíva sa ako tvar. Nemá teda žiadny účinok a mal by sa odstrániť, aby nedošlo k zámene.</translation>
     </message>
 </context>
 <context>
@@ -4648,7 +4648,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="696"/>
         <source>The keepout zone has no layer or rule enabled so it has no effect. Either correct its properties or remove it from the footprint.</source>
-        <translation type="unfinished"/>
+        <translation>Zakázaná oblasť nemá povolenú žiadnu vrstvu ani pravidlo, takže nemá žiadny význam. Buď opravte jej vlastnosti, alebo ju odstráňte z puzdra.</translation>
     </message>
 </context>
 <context>
@@ -5012,7 +5012,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="86"/>
         <source>References</source>
-        <translation>References</translation>
+        <translation>Referencie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="87"/>
@@ -5212,32 +5212,32 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="134"/>
         <source>Grab Areas Top</source>
-        <translation type="unfinished"/>
+        <translation>Oblasť uchopenia vrchná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="135"/>
         <source>Grab Areas Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Oblasť uchopenia spodná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="136"/>
         <source>Hidden Grab Areas Top</source>
-        <translation type="unfinished"/>
+        <translation>Skrytá oblasť uchopenia vrchná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="137"/>
         <source>Hidden Grab Areas Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Skrytá oblasť uchopenia spodná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="138"/>
         <source>References Top</source>
-        <translation type="unfinished"/>
+        <translation>Referencie vrchné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="139"/>
         <source>References Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Referencie spodné</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="140"/>
@@ -5675,7 +5675,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1726"/>
         <source>Check for stale objects...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrolovanie stavu objektov...</translation>
     </message>
 </context>
 <context>
@@ -5684,7 +5684,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="92"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="121"/>
         <source>There is already an assembly variant with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje alternatíva osadzovania s názvom &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="154"/>
@@ -5769,12 +5769,12 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="506"/>
         <source>Components were automatically populated with assembly information required for the new, built-in MPN management and assembly variant mechanism. If the BOM or PnP export is used, please review the output and correct MPNs and attributes manually in the component properties dialog where needed.</source>
-        <translation type="unfinished"/>
+        <translation>Komponenty boli automaticky vyplnené informáciami o osádzaní, ktoré sú potrebné pre nový, zabudovaný mechanizmus správy typových čísiel výrobcu (MPN) a osadzovacej alternatívy. Ak sa použije export zoznamu súčiastok alebo pick&amp;place dát, skontrolujte výstup a v prípade potreby manuálne opravte MPN a atribúty v dialógovom okne vlastností komponentu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="516"/>
         <source>Some particular ERC message approvals cannot be migrated and therefore have been removed. Please check the remaining ERC messages and approve them if desired.</source>
-        <translation type="unfinished"/>
+        <translation>Niektoré konkrétne schválené správy ERC nemožno migrovať, a preto boli odstránené. Skontrolujte zostávajúce správy ERC a ak chcete, schváľte ich.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="524"/>
@@ -5784,22 +5784,22 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="533"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
-        <translation type="unfinished"/>
+        <translation>Nekruhové tvary prechodov už nie sú podporované, všetky prechody sa teraz zmenili na kruhové.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="540"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
-        <translation type="unfinished"/>
+        <translation>Výpočty plochy výplne boli upravené, odporúča sa manuálna kontrola a spustenie kontroly DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="547"/>
         <source>Vias within planes with connect style &apos;None&apos; are now fully connected to the planes since the connect style is no longer respected for vias. You might want to remove traces now which are no longer needed to connect these vias.</source>
-        <translation type="unfinished"/>
+        <translation>Prechody vo vyplnených plochách s typom napojenia „Žiadne“ sú teraz plne spojené s rovinami, pretože štýl spojenia už nie je pre prechody akceptovaný. Možno budete chcieť teraz odstrániť spoje, ktoré už nie sú potrebné na pripojenie týchto prechodov.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="557"/>
         <source>Board cutouts now have a dedicated layer, thus nested board outline polygons and circles have automatically been moved to the cutouts layer. As the auto-detection is not perfect, please check if each cutout has been converted correctly. The easiest way is to review the PCB in the 3D viewer.</source>
-        <translation type="unfinished"/>
+        <translation>Výrezy dosky majú teraz vyhradenú vrstvu, takže vnorené obrysové polygóny a kruhy boli automaticky presunuté do vrstvy výrezov dosky. Keďže automatická detekcia nie je dokonalá, skontrolujte, či bol každý výrez správne prevedený. Najjednoduchším spôsobom je skontrolovať PCB v 3D prehliadači.</translation>
     </message>
 </context>
 <context>
@@ -5841,7 +5841,10 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
 You need at least LibrePCB %1 to open it.
 
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Tento prvok knižnice bol vytvorený v novšej verzii.
+Potrebujete najnovšiu verziu LibrePCB %1 pre jeho otvorenie.
+
+%2</translation>
     </message>
 </context>
 <context>
@@ -6030,7 +6033,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="237"/>
         <source>There is already a schematic with the directory name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Schéma už existuje v adresári s názvom &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="264"/>
@@ -6045,7 +6048,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="324"/>
         <source>There is already a board with the directory name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Doska už existuje v adresári s názvom &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="518"/>
@@ -6752,12 +6755,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="325"/>
         <source>Click on the link to copy the text into the clipboard.</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutie na odkaz skopíruje text do schránky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="328"/>
         <source>When reporting an issue, please &lt;a href=&apos;copy&apos;&gt;copy this text&lt;/a&gt; into the report.</source>
-        <translation type="unfinished"/>
+        <translation>Ak chcete oznámiť problém, prosím &lt;a href=&apos;copy&apos;&gt;skopírujte tento text&lt;/a&gt; do oznámenia.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="60"/>
@@ -6767,7 +6770,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="88"/>
         <source>LibrePCB is a free &amp;amp; open source schematic/layout-editor. It is mainly developed by Urban Bruhin, with the support of &lt;a href=&apos;%1&apos;&gt;many other contributors&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB je slobodný a &amp;amp; otvorený editor schém a plošných spojov. Primárne vyvíjaný autorom Urban Bruhin, s podporou &lt;a href=&apos;%1&apos;&gt;mnohých ďalších prispievateľov&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="93"/>
@@ -6777,7 +6780,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="95"/>
         <source>For more information, check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Pre viac informácií, prejdite na &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; alebo na náš &lt;a href=&apos;%2&apos;&gt;repozitár GitHub&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="101"/>
@@ -6787,7 +6790,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="103"/>
         <source>If you need help, please check out the &lt;a href=&apos;%1&apos;&gt;documentation&lt;/a&gt; or &lt;a href=&apos;%2&apos;&gt;contact us&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Ak potrebujete pomoc, prosím prejdite na &lt;a href=&apos;%1&apos;&gt;dokumentáciu&lt;/a&gt; alebo &lt;a href=&apos;%2&apos;&gt;nás kontaktujte&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="107"/>
@@ -6797,12 +6800,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="109"/>
         <source>LibrePCB is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text &lt;a href=&apos;%1&apos;&gt;in our source code&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB je slobodný softvér uvoľnený pod licenciou GNU General Public License (GPL) version 3 or later. Plné znenie licencie môžete nájsť &lt;a href=&apos;%1&apos;&gt;v zdrojovom kóde&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="123"/>
         <source>LibrePCB is a community project, and therefore it relies on contributions! There are different ways you can contribute:</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB je komunitný projekt, a preto sa spolieha na príspevky! Prispieť môžete rôznymi spôsobmi:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="126"/>
@@ -6812,7 +6815,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="128"/>
         <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal, Bitcoin or other ways. Check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; for details.</source>
-        <translation type="unfinished"/>
+        <translation>Podporte trvalo udržateľný rozvoj LibrePCB finančným darovaním cez Patreon, PayPal, Bitcoin alebo inými spôsobmi. Pozrite na&lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; pre ďalšie informácie.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="133"/>
@@ -6822,7 +6825,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="135"/>
         <source>If you&apos;re interested in helping us to develop LibrePCB, check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; to see how you can contribute!</source>
-        <translation type="unfinished"/>
+        <translation>Ak máte záujem pomôcť nám pri vývoji LibrePCB, pozrite sa na &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; a zistite, ako môžete prispieť!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="140"/>
@@ -7695,7 +7698,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="212"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="261"/>
         <source>Draw board zone</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť oblasť dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="229"/>
@@ -7842,7 +7845,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="117"/>
         <source>*) Adds additional information to the files, but might cause issues with some CSV readers.</source>
-        <translation type="unfinished"/>
+        <translation>*) Pridáva do súborov ďalšie informácie, ale môže spôsobiť problémy s niektorými čítačkami CSV.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="142"/>
@@ -7930,7 +7933,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="110"/>
         <source>Clearance around thermal pads</source>
-        <translation type="unfinished"/>
+        <translation>Odsadenie pri tepelnej plôške vývodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="113"/>
@@ -8231,7 +8234,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="871"/>
         <source>Silkscreen Text Height:</source>
-        <translation type="unfinished"/>
+        <translation>Výška textu potlače DPS:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="63"/>
@@ -8342,7 +8345,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="105"/>
         <source>The copper area of the via is covered with solder resist, i.e. not exposed.</source>
-        <translation type="unfinished"/>
+        <translation>Vodivá oblasť prechodu je prekrytá nespájkovateľnou maskou, t.j. je skrytá.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="108"/>
@@ -8352,7 +8355,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="115"/>
         <source>A solder resist opening is created to expose the via. The clearance is taken from the board design rules.</source>
-        <translation type="unfinished"/>
+        <translation>Vynechanie nespájkovateľnej  masky je vytvorené pre odhalenie prechodu. Odsadenie je prevzaté z návrhových pravidiel (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="118"/>
@@ -8362,7 +8365,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="125"/>
         <source>A solder resist opening with a custom clearance is created to expose the via.</source>
-        <translation type="unfinished"/>
+        <translation>Vytvorí sa odhalenie v nespájkovacej maske s vlastným odsadením, aby sa odkryl prechod.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="128"/>
@@ -9731,7 +9734,9 @@ Naozaj chcete označiť toto puzdro a jeho prepojenie vývodov so zvolenou súč
         <source>The selected part is taken from a different device than this assembly option is valid for, thus LibrePCB cannot validate if it is compatible!
 
 Are you sure the footprint and pinout of the selected part are compatible with the device?</source>
-        <translation type="unfinished"/>
+        <translation>Zvolená súčiastka je prevzatá z iného komponentu, než pre ktorý platí táto možnosť osadzovania, preto LibrePCB nemôže overiť, či je kompatibilná!
+
+Ste si istý, že puzdro a jeho zapojenie vývodov sú kompatibilné so súčiastkou?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="495"/>
@@ -10292,7 +10297,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="211"/>
         <source>Support the LibrePCB project with a donation to keep the development and maintenance ongoing — Thank you!</source>
-        <translation type="unfinished"/>
+        <translation>Podporte projekt LibrePCB darom pre vývoj a údržbu – Ďakujeme!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="249"/>
@@ -10337,7 +10342,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="115"/>
         <source>This application executable does not seem to be integrated into your desktop environment. If desired, &lt;a href=&quot;%1&quot;&gt;install it now&lt;/a&gt; to allow opening LibrePCB projects through the file manager.</source>
-        <translation type="unfinished"/>
+        <translation>Zdá sa, že tento spustiteľný súbor aplikácie nie je integrovaný do prostredia vašej pracovnej plochy. Ak chcete, môžete ho &lt;a href=&quot;%1&quot;&gt;teraz nainštalovať&lt;/a&gt;, aby ste umožnili otváranie projektov LibrePCB prostredníctvom správcu súborov.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="134"/>
@@ -10347,12 +10352,12 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="455"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
-        <translation type="unfinished"/>
+        <translation>Toto stiahne niekoľko vzorových projektov z internetu a skopíruje ich do pracovného priestoru, aby Vám to pomohlo zhodnotiť LibrePCB so skutočnými projektami.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="459"/>
         <source>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</source>
-        <translation type="unfinished"/>
+        <translation>Keď ich už nebudete potrebovať, stačí odstrániť adresár s príkladmi.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="481"/>
@@ -11602,7 +11607,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="607"/>
         <source>Note: For THT pads the solder paste should usually be set to &apos;Off&apos;. But if enabled anyway, the solder paste is added only to the solder side of the pad.</source>
-        <translation type="unfinished"/>
+        <translation>Poznámka: Pre plôšky vývodov typu THT, by mala byť spájkovacia pasta zvyčajne nastavená na &apos;Vyp&apos;. Ale ak je aj napriek tomu povolená, spájkovacia pasta sa pridá iba na spájkovaciu stranu plôšky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="620"/>
@@ -11612,7 +11617,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="635"/>
         <source>Note: Intended to keep copper away from fiducials.</source>
-        <translation type="unfinished"/>
+        <translation>Poznámka: Určené na to, aby sa vodivé prvky nedostali mimo zameriavacích značiek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="649"/>
@@ -13105,7 +13110,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="704"/>
         <source>Keep elements in current library (make a copy)</source>
-        <translation type="unfinished"/>
+        <translation>Ponechať elementy v aktuálnej knižnici (vytvoriť kópiu)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.cpp" line="785"/>
@@ -13753,7 +13758,8 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="97"/>
         <source>Note that additional actions might be required to fully license the project.
 For more information about licensing, click on this icon.</source>
-        <translation type="unfinished"/>
+        <translation>Upozorňujeme, že na úplnú licenciu projektu môžu byť potrebné ďalšie akcie.
+Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="113"/>
@@ -13763,7 +13769,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="134"/>
         <source>A LibrePCB project consists of a whole directory, not only of a single file. Just select the new project&apos;s parent directory, and the subdirectory and filename will be appended automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Projekt LibrePCB pozostáva z celého adresára, nielen z jedného súboru. Stačí vybrať nadradený adresár nového projektu a podadresár a názov súboru sa automaticky pridajú.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="84"/>
@@ -14059,7 +14065,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="75"/>
         <source>To detect them, a file named &lt;tt&gt;%1&lt;/tt&gt; is created within the output directory.</source>
-        <translation type="unfinished"/>
+        <translation>Na ich zistenie, sa vytvorí súbor s názvom &lt;tt&gt;%1&lt;/tt&gt; vo výstupnom adresári.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="88"/>
@@ -14069,7 +14075,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="91"/>
         <source>Any &lt;a href=&quot;%1&quot;&gt;bug reports, feature requests or general feedback&lt;/a&gt; is highly appreciated!</source>
-        <translation type="unfinished"/>
+        <translation>Akékoľvek &lt;a href=&quot;%1&quot;&gt;hlásenie o chybe, požiadavka na novú funkciu alebo všeobecná spätná väzba&lt;/a&gt; sú vysoko cenené!</translation>
     </message>
 </context>
 <context>
@@ -14155,7 +14161,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="106"/>
         <source>Click on the %1 button below to add output jobs. Or for a quick start, &lt;a href=&quot;%2&quot;&gt;add a default set&lt;/a&gt; of jobs.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Kliknutím na tlačidlo %1 nižšie pridáte úlohy na generovanie výstupov. Alebo pre rýchly začiatok, &lt;a href=&quot;%2&quot;&gt;pridajte predvolenú sadu &lt;/a&gt; úloh.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="198"/>
@@ -14743,7 +14749,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1204"/>
         <source>No content (e.g. pads or documentation polygons) found to generate the package outline from. Please add at least the pads before invoking this command.</source>
-        <translation type="unfinished"/>
+        <translation>Nenašiel sa žiadny obsah (napr. plôšky vývodov alebo obrysy v dokumentácii), z ktorých by sa dal generovať obrys puzdra. Pred volaním tohto príkazu pridajte aspoň plôšky vývodov.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1224"/>
@@ -14763,7 +14769,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1333"/>
         <source>The courtyard can only be generated if there&apos;s a package outline polygon or circle, so that needs to be added first.</source>
-        <translation type="unfinished"/>
+        <translation>Manipulačná oblasť puzdra môže byť vytvorená iba ak je vytvorený obrys puzdra pomocou oblúkov alebo viac uholníkov, preto ich najskôr pridajte.</translation>
     </message>
 </context>
 <context>
@@ -15032,7 +15038,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="146"/>
         <source>Connect the remaining pads one by one in an interactive mode</source>
-        <translation type="unfinished"/>
+        <translation>Pripojiť zostávajúce plôšky vývodov jednu po druhej v interaktívnom režime</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="367"/>
@@ -15052,7 +15058,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="375"/>
         <source>Import the pinout from a CSV file with these columns:</source>
-        <translation type="unfinished"/>
+        <translation>Importovať zapojenie vývodov zo súboru CSV s nasledujúcimi stĺpcami:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="392"/>
@@ -15085,7 +15091,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="503"/>
         <source>Type to filter signals, press %1 or double-click to assign</source>
-        <translation type="unfinished"/>
+        <translation>Ak chcete filtrovať signály, zadajte ich názov a stačte %1 alebo dvojklikom ich priraďte</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="525"/>
@@ -15105,7 +15111,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="717"/>
         <source>There are already some signals connected. Should they be disconnected before attempting to make new connections?</source>
-        <translation type="unfinished"/>
+        <translation>Niektoré signály sú už pripojené. Majú byť odpojené pred pokusom o vytvorenie nových spojení?</translation>
     </message>
 </context>
 <context>
