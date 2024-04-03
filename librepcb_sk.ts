@@ -899,7 +899,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="238"/>
         <source>Empty segment of net &apos;%1&apos;: &apos;%2&apos;</source>
         <comment>Placeholders: Net name, segment UUID</comment>
-        <translation type="unfinished"/>
+        <translation>Prázdny segment v prepojení &apos;%1&apos;: &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -15134,12 +15134,12 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="140"/>
         <source>This information is kindly provided by %1 through the LibrePCB&amp;nbsp;API, see details &lt;a href=&quot;%2&quot; style=&quot;color:black;&quot;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Tieto informácie láskavo poskytuje %1 prostredníctvom LibrePCB&amp;nbsp;API, podrobnosti &lt;a href=&quot;%2&quot; style=&quot;color:black;&quot;&gt;nájtete tu&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="146"/>
         <source>For more information about the part, click on the source logo above.</source>
-        <translation type="unfinished"/>
+        <translation>Pre viac informácií o súčiastke, kliknite na logo vyššie.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="199"/>
@@ -17079,7 +17079,7 @@ Pre úplný zákaz prístupu na internet, stačí odstrániť všetky záznamy.&
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="776"/>
         <source>&lt;p&gt;Allow the editors to automatically display live information about parts (lifecycle status, stock availability, price, ...) by requesting it from the configured API endpoints.&lt;/p&gt;&lt;p&gt;This may generate many API requests, especially while adding components to schematics.&lt;/p&gt;&lt;p&gt;If this feature is disabled, no such API requests are made (and no live information is displayed) without explicit user interaction.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Umožnite editorom automaticky zobrazovať aktuálne informácie o súčiastkách (stav životného cyklu, skladová dostupnosť, cena, ...) ich vyžiadaním z nakonfigurovaných koncových bodov API.&lt;/p&gt;&lt;p&gt;To môže generovať veľa požiadaviek API, najmä pri pridávaní komponentov do schém.&lt;/p&gt;&lt;p&gt;Ak je táto funkcia vypnutá, nevykonávajú sa žiadne takéto požiadavky API (a nezobrazujú sa žiadne živé informácie) bez explicitnej interakcie používateľa.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="779"/>
