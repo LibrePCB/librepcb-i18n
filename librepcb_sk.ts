@@ -3554,7 +3554,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="572"/>
         <source>Not Specified</source>
-        <translation>Nešpecifikované</translation>
+        <translation>Nešpecifikovaná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="574"/>
@@ -3564,37 +3564,37 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="576"/>
         <source>Press-Fit Pad (THT, soldered)</source>
-        <translation>Plôška Press-Fit (THT, spájkovaná)</translation>
+        <translation>Plôška Press-Fit (THT, spájkovacia)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="578"/>
         <source>Thermal Pad (SMT, soldered)</source>
-        <translation>Tepelná plôška vývodu (SMT, spájkovaná)</translation>
+        <translation>Tepelná plôška vývodu (SMT, spájkovacia)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="580"/>
         <source>BGA Pad (SMT, soldered)</source>
-        <translation>Plôška vývodu BGA (SMT, spájkovaná)</translation>
+        <translation>Plôška vývodu BGA (SMT, spájkovacia)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="582"/>
         <source>Edge Connector Pad (SMT, no soldering)</source>
-        <translation>Plôška hranového konektora (SMT, nespájkovaná)</translation>
+        <translation>Plôška hranového konektora (SMT, nespájkovacia)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="584"/>
         <source>Test Pad (SMT, no soldering)</source>
-        <translation>Plôška testovacieho bodu (SMT, nespájkovaná)</translation>
+        <translation>Plôška testovacieho bodu (SMT, nespájkovacia)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="586"/>
         <source>Local Footprint Fiducial (SMT, no soldering)</source>
-        <translation>Plôška lokálnej zameriavacej značky puzdra (SMT, nespájkovaná)</translation>
+        <translation>Plôška lokálnej zameriavacej značky puzdra (SMT, nespájkovacia)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="588"/>
         <source>Global Board Fiducial (SMT, no soldering)</source>
-        <translation>Plôška globálnej zameriavacej značky dosky (SMT, nespájkovaná)</translation>
+        <translation>Plôška globálnej zameriavacej značky dosky (SMT, nespájkovacia)</translation>
     </message>
 </context>
 <context>
@@ -4801,7 +4801,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="471"/>
         <location filename="../libs/librepcb/editor/widgets/openglview.cpp" line="96"/>
         <source>Shift</source>
-        <translation>Posun</translation>
+        <translation>Shift</translation>
     </message>
 </context>
 <context>
@@ -6347,12 +6347,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="935"/>
         <source>top</source>
-        <translation>vrch</translation>
+        <translation>vrchná</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="939"/>
         <source>bottom</source>
-        <translation>spodok</translation>
+        <translation>spodná</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="943"/>
@@ -8292,12 +8292,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/boardsideselectorwidget.cpp" line="50"/>
         <source>Top</source>
-        <translation>Vrch</translation>
+        <translation>Vrchná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/boardsideselectorwidget.cpp" line="51"/>
         <source>Bottom</source>
-        <translation>Spodok</translation>
+        <translation>Spodná</translation>
     </message>
 </context>
 <context>
@@ -11499,12 +11499,12 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="156"/>
         <source>Top</source>
-        <translation>Vrch</translation>
+        <translation>Vrchná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="181"/>
         <source>Bottom</source>
-        <translation>Spodok</translation>
+        <translation>Spodná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="210"/>
@@ -11544,7 +11544,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="355"/>
         <source>Function:</source>
-        <translation>Funkcie:</translation>
+        <translation>Funkcia:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="366"/>
@@ -14630,7 +14630,7 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="67"/>
         <source>Top</source>
-        <translation>Vrch</translation>
+        <translation>Vrchná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="77"/>
@@ -14640,7 +14640,7 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="87"/>
         <source>Bottom</source>
-        <translation>Spodok</translation>
+        <translation>Spodná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="98"/>
