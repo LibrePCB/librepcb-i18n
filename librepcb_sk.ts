@@ -3736,7 +3736,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="204"/>
         <source>Top Names</source>
-        <translation>Top Names</translation>
+        <translation>Vrchné názvy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="210"/>
@@ -3746,7 +3746,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="216"/>
         <source>Top Values</source>
-        <translation>Top Values</translation>
+        <translation>Vrchné hodnoty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="222"/>
@@ -4757,7 +4757,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="131"/>
         <source>White</source>
-        <translation>Biele</translation>
+        <translation>Biela</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="138"/>
@@ -8340,7 +8340,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="96"/>
         <source>Exposure:</source>
-        <translation type="unfinished"/>
+        <translation>Odmaskovanie:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="105"/>
@@ -11932,7 +11932,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="227"/>
         <source>White</source>
-        <translation>Biele</translation>
+        <translation>Biela</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="243"/>
@@ -11978,7 +11978,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="365"/>
         <source>Black/White</source>
-        <translation>Čiernobiele</translation>
+        <translation>Čiernobielo</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="378"/>
@@ -12256,7 +12256,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="413"/>
         <source>White</source>
-        <translation>Biele</translation>
+        <translation>Biela</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="429"/>
