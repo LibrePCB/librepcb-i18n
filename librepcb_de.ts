@@ -53,7 +53,7 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="254"/>
         <source>Net: %1</source>
-        <translation type="unfinished"/>
+        <translation>Netz: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="256"/>
@@ -164,12 +164,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="102"/>
         <source>Print this message.</source>
-        <translation type="unfinished"/>
+        <translation>Gebe diese Nachricht aus.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="105"/>
         <source>Displays version information.</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Versions-Informationen.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="107"/>
@@ -179,7 +179,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="110"/>
         <source>The command to execute (see list below).</source>
-        <translation type="unfinished"/>
+        <translation>Das Kommando zum Ausführen (siehe Liste unten).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="116"/>
@@ -226,7 +226,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
         <source>Run all existing output jobs.</source>
-        <translation type="unfinished"/>
+        <translation>Führe alle existierenden Ausgabe-Jobs aus.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="139"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
         <source>path</source>
-        <translation type="unfinished"/>
+        <translation>Pfad</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
@@ -266,7 +266,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="170"/>
         <source>attributes</source>
-        <translation type="unfinished"/>
+        <translation>Attribute</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="173"/>
@@ -307,7 +307,7 @@
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="210"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="228"/>
         <source>index</source>
-        <translation type="unfinished"/>
+        <translation>Stichwortverzeichnis</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="213"/>
@@ -392,7 +392,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="293"/>
         <source>Help:</source>
-        <translation type="unfinished"/>
+        <translation>Hilfe:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="307"/>
@@ -402,7 +402,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="337"/>
         <source>Path to library directory (*.lplib).</source>
-        <translation type="unfinished"/>
+        <translation>Pfad zum Bibliotheks-Verzeichnis (*.lplib).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="348"/>
@@ -417,12 +417,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="411"/>
         <source>Missing arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Fehlende Argumente:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="417"/>
         <source>Unknown arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Unbekannte Argumente:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="471"/>
@@ -457,12 +457,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1266"/>
         <source>Approved messages: %1</source>
-        <translation type="unfinished"/>
+        <translation>Freigegebene Nachrichten: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1268"/>
         <source>Non-approved messages: %1</source>
-        <translation type="unfinished"/>
+        <translation>Nicht freigegebene Nachrichten: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1279"/>
@@ -501,7 +501,7 @@
     <message>
         <location filename="../libs/librepcb/core/job/copyoutputjob.h" line="78"/>
         <source>File Copy</source>
-        <translation type="unfinished"/>
+        <translation>Datei-Kopie</translation>
     </message>
 </context>
 <context>
@@ -514,7 +514,7 @@
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="148"/>
         <source>Install Desktop Integration</source>
-        <translation type="unfinished"/>
+        <translation>Installiere Desktop-Integration</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="149"/>
@@ -524,12 +524,12 @@
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="157"/>
         <source>Uninstall Desktop Integration</source>
-        <translation type="unfinished"/>
+        <translation>Deinstalliere Desktop-Integration</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="158"/>
         <source>This removes the following files:</source>
-        <translation type="unfinished"/>
+        <translation>Dies entfernt folgende Dateien:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="181"/>
@@ -720,17 +720,17 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="522"/>
         <source>polygon</source>
-        <translation type="unfinished"/>
+        <translation>Polygon</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="524"/>
         <source>circle</source>
-        <translation type="unfinished"/>
+        <translation>Kreis</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="526"/>
         <source>text</source>
-        <translation type="unfinished"/>
+        <translation>Text</translation>
     </message>
 </context>
 <context>
@@ -775,13 +775,13 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="865"/>
         <source>Polygon in copper keepout zone</source>
-        <translation type="unfinished"/>
+        <translation>Polygon in Kupfer-Sperrbereich</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="879"/>
         <source>Polygon in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Polygon in Kupfer-Sperrbereich: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="896"/>
@@ -2397,12 +2397,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="907"/>
         <source>Draw Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Zeichne Polygon</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="908"/>
         <source>Draw graphical polygons</source>
-        <translation type="unfinished"/>
+        <translation>Zeichne grafische Polygone</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="916"/>
@@ -6228,13 +6228,13 @@ You need at least LibrePCB %1 to open it.
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="684"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="720"/>
         <source>Approved messages: %1</source>
-        <translation type="unfinished"/>
+        <translation>Freigegebene Nachrichten: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="685"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="722"/>
         <source>Non-approved messages: %1</source>
-        <translation type="unfinished"/>
+        <translation>Nicht freigegebene Nachrichten: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="694"/>
@@ -7713,7 +7713,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1563"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>In die Zwischenablage kopiert!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1577"/>
@@ -8785,7 +8785,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardpolygonadd.cpp" line="41"/>
         <source>Add polygon to board</source>
-        <translation type="unfinished"/>
+        <translation>Füge Polygon zur Platine hinzu</translation>
     </message>
 </context>
 <context>
@@ -9491,7 +9491,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicpolygonadd.cpp" line="41"/>
         <source>Add polygon to schematic</source>
-        <translation type="unfinished"/>
+        <translation>Füge Polygon zum Schaltplan hinzu</translation>
     </message>
 </context>
 <context>
@@ -9499,7 +9499,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicpolygonremove.cpp" line="42"/>
         <source>Remove polygon from schematic</source>
-        <translation type="unfinished"/>
+        <translation>Entferne Polygon aus Schaltplan</translation>
     </message>
 </context>
 <context>
@@ -14462,7 +14462,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="540"/>
         <source>right click</source>
-        <translation type="unfinished"/>
+        <translation>Rechtsklick</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="544"/>
@@ -14520,7 +14520,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="132"/>
         <source>Stroke Width:</source>
-        <translation type="unfinished"/>
+        <translation>Linienbreite:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="292"/>
@@ -14545,7 +14545,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="77"/>
         <source>Inner</source>
-        <translation type="unfinished"/>
+        <translation>Innen</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="87"/>
@@ -14598,7 +14598,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="399"/>
         <source>right click</source>
-        <translation type="unfinished"/>
+        <translation>Rechtsklick</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="402"/>
@@ -14639,7 +14639,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1014"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>In die Zwischenablage kopiert!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1034"/>
@@ -14654,7 +14654,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1203"/>
         <source>No Content</source>
-        <translation type="unfinished"/>
+        <translation>Kein Inhalt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1204"/>
@@ -15970,7 +15970,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="797"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>In die Zwischenablage kopiert!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="823"/>
@@ -16024,7 +16024,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="75"/>
         <source>Stroke Width:</source>
-        <translation type="unfinished"/>
+        <translation>Linienbreite:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="85"/>
@@ -16239,7 +16239,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="537"/>
         <source>right click</source>
-        <translation type="unfinished"/>
+        <translation>Rechtsklick</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="541"/>
@@ -16330,7 +16330,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="814"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>In die Zwischenablage kopiert!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="829"/>
