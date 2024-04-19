@@ -25,7 +25,7 @@
     <message>
         <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="77"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
-        <translation>Unbekannte Einheit von Attribut Typ &quot;%1&quot;: &quot;%2&quot;</translation>
+        <translation>Unbekannte Einheit von Attribut-Typ &quot;%1&quot;: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="124"/>
@@ -58,12 +58,12 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="256"/>
         <source>Start Layer: %1</source>
-        <translation type="unfinished"/>
+        <translation>Start-Lage: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="257"/>
         <source>End Layer: %1</source>
-        <translation type="unfinished"/>
+        <translation>End-Lage: %1</translation>
     </message>
 </context>
 <context>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../libs/librepcb/core/types/boundedunsignedratio.cpp" line="108"/>
         <source>Minimum value must not be greater than maximum value.</source>
-        <translation>MinimalWERT darf nicht größer als der MaximalWERT sein.</translation>
+        <translation>Minimalwert darf nicht größer als der Maximalwert sein.</translation>
     </message>
 </context>
 <context>
@@ -113,7 +113,7 @@
     <message>
         <location filename="../libs/librepcb/core/types/circuitidentifier.h" line="54"/>
         <source>Invalid identifier: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Ungültiger Bezeichner: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="95"/>
         <source>None (no text)</source>
-        <translation type="unfinished"/>
+        <translation>Nichts (kein Text)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="101"/>
@@ -136,7 +136,7 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="113"/>
         <source>Schematic net name</source>
-        <translation type="unfinished"/>
+        <translation>Netz-Name im Schaltplan</translation>
     </message>
 </context>
 <context>
@@ -144,12 +144,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="86"/>
         <source>Open a project to execute project-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Öffne ein Projekt, um projektbezogene Aufgaben auszuführen.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="89"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Öffne eine Bibliothek, um Bibliotheks-bezogene Aufgaben auszuführen.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="92"/>
