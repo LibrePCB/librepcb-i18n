@@ -76,7 +76,7 @@
     <message>
         <location filename="../libs/librepcb/core/job/board3doutputjob.h" line="73"/>
         <source>3D Model</source>
-        <translation type="unfinished"/>
+        <translation>3D模型</translation>
     </message>
 </context>
 <context>
@@ -496,12 +496,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/copyoutputjob.cpp" line="39"/>
         <source>Custom File</source>
-        <translation type="unfinished"/>
+        <translation>自定义文件</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/copyoutputjob.h" line="78"/>
         <source>File Copy</source>
-        <translation type="unfinished"/>
+        <translation>文件复制</translation>
     </message>
 </context>
 <context>
