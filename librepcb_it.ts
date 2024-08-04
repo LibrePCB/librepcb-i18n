@@ -389,7 +389,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="290"/>
         <source>List command-specific options:</source>
-        <translation>Lista di opzion ispecifiche del comando</translation>
+        <translation>Lista di opzioni specifiche del comando</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="293"/>
@@ -552,7 +552,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/fileio/directorylock.cpp" line="80"/>
         <location filename="../libs/librepcb/core/fileio/directorylock.cpp" line="192"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation>Il percorso &quot;%1&quot; non esiste.</translation>
+        <translation>La cartella &quot;%1&quot; non esiste.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/directorylock.cpp" line="98"/>
@@ -707,12 +707,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="516"/>
         <source>via</source>
-        <translation type="unfinished"/>
+        <translation>via</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="518"/>
         <source>trace</source>
-        <translation>Pista</translation>
+        <translation>pista</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="520"/>
@@ -3165,7 +3165,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1593"/>
         <source>Show information about Qt</source>
-        <translation type="unfinished"/>
+        <translation>Mostra informazioni su Qt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1601"/>
@@ -4800,7 +4800,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/rulecheck/rulecheckmessage.cpp" line="74"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Avviso</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/rulecheck/rulecheckmessage.cpp" line="76"/>
@@ -5331,7 +5331,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="49"/>
         <source>WARNING</source>
-        <translation>AVVERTIMENTO</translation>
+        <translation>AVVISO</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="51"/>
@@ -11327,7 +11327,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="249"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Avviso</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="249"/>
@@ -13105,7 +13105,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="67"/>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Non mostrate più</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="70"/>
@@ -14150,7 +14150,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="451"/>
         <source>Finished with warnings!</source>
-        <translation type="unfinished"/>
+        <translation>Avvisi terminati!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="531"/>
@@ -14642,7 +14642,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1014"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>Copiato negli appunti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1034"/>
@@ -14657,7 +14657,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1203"/>
         <source>No Content</source>
-        <translation type="unfinished"/>
+        <translation>Nessun contenuto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1204"/>
@@ -14873,7 +14873,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="506"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Avviso</translation>
     </message>
 </context>
 <context>
