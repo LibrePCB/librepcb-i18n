@@ -7745,7 +7745,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1563"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>Copiato negli appunti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1577"/>
@@ -16018,7 +16018,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="797"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>Copiato negli appunti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="823"/>
@@ -16378,7 +16378,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="813"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>Copiato negli appunti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="828"/>
