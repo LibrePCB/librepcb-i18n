@@ -301,7 +301,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="207"/>
         <source>Same as &apos;%1&apos;, but allows to specify boards by index instead of by name.</source>
-        <translation type="unfinished"/>
+        <translation>Аналогично &apos;%1&apos;, но позволяет указывать платы по индексу, а не по имени.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="210"/>
@@ -322,7 +322,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="225"/>
         <source>Same as &apos;%1&apos;, but allows to specify assembly variants by index instead of by name.</source>
-        <translation type="unfinished"/>
+        <translation>Аналогично &apos;%1&apos;, но позволяет указывать варианты сборки не по имени, а по индексу.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="231"/>
@@ -337,7 +337,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="240"/>
         <source>Fail if the project files are not strictly canonical, i.e. there would be changes when saving the project. Note that this option is not available for *.lppz files.</source>
-        <translation type="unfinished"/>
+        <translation>Отказ, если файлы проекта не являются строго каноническими, т.е. при сохранении проекта будут происходить изменения. Обратите внимание, что эта опция недоступна для файлов *.lppz.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="247"/>
@@ -347,22 +347,22 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="251"/>
         <source>Run the library element check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Запустите проверку библиотечных элементов, выведите все неутвержденные сообщения и сообщите о неудаче (код выхода = 1), если есть неутвержденные сообщения.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="255"/>
         <source>Minify the STEP models of all packages. Only works in conjunction with &apos;--all&apos;. Pass &apos;--save&apos; to write the minified files to disk.</source>
-        <translation type="unfinished"/>
+        <translation>Минифицировать STEP-модели всех пакетов. Работает только в сочетании с &apos;--all&apos;. Передайте &apos;--save&apos;, чтобы записать минифицированные файлы на диск.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="259"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
-        <translation type="unfinished"/>
+        <translation>Сохраните библиотеку (и содержащиеся в ней элементы, если задано &apos;--all&apos;) перед ее закрытием (полезно для обновления формата файлов).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="263"/>
         <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
-        <translation type="unfinished"/>
+        <translation>Не удастся, если открытые файлы не являются строго каноническими, т.е. при сохранении элементов библиотеки произойдут изменения.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="269"/>
