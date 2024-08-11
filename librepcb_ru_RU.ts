@@ -276,22 +276,22 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="178"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>Отменяет выходные настройки изготовления печатных плат, предоставляя файл *.lp, содержащий пользовательские настройки. Если этот параметр не задан, вместо него будут использоваться настройки из плат.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="184"/>
         <source>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт файла pick&amp;place для автоматизированной сборки верхней стороны платы. Существующие файлы будут перезаписаны. Поддерживаемые расширения файлов: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="190"/>
         <source>Export pick&amp;place file for automated assembly of the bottom board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт файла pick&amp;place для автоматизированной сборки нижней стороны платы. Существующие файлы будут перезаписаны. Поддерживаемые расширения файлов: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="197"/>
         <source>Export netlist file for automated PCB testing. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт файла нетлиста для автоматизированного тестирования печатной платы. Существующие файлы будут перезаписаны. Поддерживаемые расширения файлов: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
