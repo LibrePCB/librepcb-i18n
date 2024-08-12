@@ -367,17 +367,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="269"/>
         <source>Minify the STEP model before validating it. Use in conjunction with &apos;%1&apos; to save the output of the operation.</source>
-        <translation type="unfinished"/>
+        <translation>Минимизация STEP-модели перед ее проверкой. Используется в сочетании с &apos;%1&apos; для сохранения результатов операции.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="274"/>
         <source>Tesselate the loaded STEP model to check if LibrePCB is able to render it. Reports failure (exit code = 1) if no content is detected.</source>
-        <translation type="unfinished"/>
+        <translation>Тесселирует загруженную STEP-модель, чтобы проверить, может ли LibrePCB ее отрисовать. Сообщает о неудаче (код выхода = 1), если содержимое не обнаружено.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="279"/>
         <source>Write the (modified) STEP file to this output location (may be equal to the opened file path). Only makes sense in conjunction with &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Запись (модифицированного) STEP-файла в это место вывода (может быть равно пути к открытому файлу). Имеет смысл только в сочетании с &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="286"/>
@@ -387,7 +387,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="290"/>
         <source>List command-specific options:</source>
-        <translation type="unfinished"/>
+        <translation>Список специфических для команды опций:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="293"/>
@@ -407,7 +407,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="348"/>
         <source>Path to the STEP file (%1).</source>
-        <translation type="unfinished"/>
+        <translation>Путь к файлу STEP (%1).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="354"/>
@@ -417,12 +417,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="411"/>
         <source>Missing arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Недостающие аргументы:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="417"/>
         <source>Unknown arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Неизвестные аргументы:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="471"/>
@@ -437,12 +437,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1216"/>
         <source>Minify STEP model &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Минифицируйте модель STEP &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1222"/>
         <source>  - Minified &apos;%1&apos; from %2 to %3 bytes</source>
-        <translation type="unfinished"/>
+        <translation> - Уменьшение &apos;%1&apos; с %2 до %3 байт</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1241"/>
@@ -452,7 +452,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1259"/>
         <source>Check &apos;%1&apos; for non-approved messages...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте &apos;%1&apos; на наличие не одобренных сообщений...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1266"/>
@@ -472,7 +472,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1415"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
-        <translation type="unfinished"/>
+        <translation>Эта версия приложения нестабильна! Опция &apos;%1&apos; отключена, чтобы избежать поломки проектов или библиотек. Пожалуйста, используйте стабильный релиз.</translation>
     </message>
 </context>
 <context>
@@ -480,7 +480,7 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentprefix.h" line="57"/>
         <source>Invalid component prefix: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Недопустимый префикс компонента: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -488,7 +488,7 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentsymbolvariantitemsuffix.h" line="58"/>
         <source>Invalid component symbol suffix: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Недопустимый суффикс символа компонента: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -509,7 +509,7 @@
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="135"/>
         <source>To avoid troubles, only proceed if there are no other (installed) LibrePCB applications on this computer.</source>
-        <translation type="unfinished"/>
+        <translation>Чтобы избежать проблем, продолжайте работу только в том случае, если на этом компьютере нет других (установленных) приложений LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="148"/>
@@ -560,7 +560,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/fileio/directorylock.cpp" line="171"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось заблокировать каталог &quot;%1&quot;, поскольку он уже заблокирован &quot;%2&quot;. Закройте все приложения, обращающиеся к этому каталогу, и повторите попытку.</translation>
     </message>
 </context>
 <context>
@@ -574,12 +574,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="600"/>
         <source>The clearance between a via and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между сквозным отверстием и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="604"/>
         <source>Check the DRC settings and move the via away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости переместите переход от контура платы.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="619"/>
@@ -590,12 +590,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="622"/>
         <source>The clearance between a trace and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между трассой и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="626"/>
         <source>Check the DRC settings and move the trace away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости переместите трассу в сторону от контура платы.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="641"/>
@@ -606,7 +606,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="644"/>
         <source>The clearance between a footprint pad and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между опорной площадкой и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="648"/>
