@@ -496,7 +496,7 @@
     <message>
         <location filename="../libs/librepcb/core/job/copyoutputjob.cpp" line="39"/>
         <source>Custom File</source>
-        <translation type="unfinished"/>
+        <translation>Пользовательский файл</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/copyoutputjob.h" line="78"/>
@@ -514,22 +514,22 @@
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="148"/>
         <source>Install Desktop Integration</source>
-        <translation type="unfinished"/>
+        <translation>Установите интеграцию с рабочим столом</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="149"/>
         <source>This installs the following files to register the executable &lt;i&gt;%1&lt;/i&gt;:</source>
-        <translation type="unfinished"/>
+        <translation>При этом устанавливаются следующие файлы для регистрации исполняемого файла &lt;i&gt; %1&lt;/i&gt;:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="157"/>
         <source>Uninstall Desktop Integration</source>
-        <translation type="unfinished"/>
+        <translation>Деинсталляция Desktop Integration</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="158"/>
         <source>This removes the following files:</source>
-        <translation type="unfinished"/>
+        <translation>При этом удаляются следующие файлы:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/desktopintegration.cpp" line="181"/>
@@ -569,7 +569,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="597"/>
         <source>Clearance board outline ↔ via &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Контур платы ↔ через &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="600"/>
@@ -585,7 +585,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="619"/>
         <source>Clearance trace ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>След зазора ↔ контур платы &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="622"/>
@@ -601,7 +601,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="641"/>
         <source>Clearance pad ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Зазорная площадка ↔ контур платы &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="644"/>
@@ -611,23 +611,23 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="648"/>
         <source>Check the DRC settings and move the device away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости переместите устройство подальше от контура платы.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="663"/>
         <source>Clearance plane ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Плоскость зазора ↔ контур платы &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="666"/>
         <source>The clearance between a plane and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между плоскостью и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="670"/>
         <source>Check the DRC settings and increase the configured plane clearance if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте сконфигурированный зазор в плоскости.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="707"/>
@@ -638,12 +638,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="710"/>
         <source>The clearance between a circle and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между окружностью и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="713"/>
         <source>Check the DRC settings and move the circle away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости сместите круг от контура платы.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="728"/>
@@ -654,12 +654,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="731"/>
         <source>The clearance between a stroke text and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между текстом обводки и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="735"/>
         <source>Check the DRC settings and move the stroke text away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости переместите текст обводки в сторону от контура платы.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="749"/>
@@ -670,12 +670,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="755"/>
         <source>The clearance between a polygon and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между полигоном и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="759"/>
         <source>Check the DRC settings and move the polygon away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости переместите полигон в сторону от контура платы.</translation>
     </message>
 </context>
 <context>
@@ -684,7 +684,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="464"/>
         <source>Clearance on %1: %2 ↔ %3 &lt; %4 %5</source>
         <comment>Placeholders: Layer name, object name, object name, Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Зазор на %1: %2 ↔ %3 &lt; %4 %5</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="471"/>
@@ -694,7 +694,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="475"/>
         <source>Check the DRC settings and move the objects to increase their clearance if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости переместите объекты для увеличения расстояния между ними.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="497"/>
