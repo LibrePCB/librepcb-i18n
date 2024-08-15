@@ -1778,7 +1778,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="340"/>
         <source>Remove the current schematic sheet from the project</source>
-        <translation type="unfinished"/>
+        <translation>Удалить текущий лист схемы из проекта</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="348"/>
@@ -1788,7 +1788,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="349"/>
         <source>Bring the board editor window to front</source>
-        <translation type="unfinished"/>
+        <translation>Перенесите окно редактора платы на передний план</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="357"/>
@@ -1828,7 +1828,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="385"/>
         <source>Make the filled areas of all planes visible</source>
-        <translation type="unfinished"/>
+        <translation>Сделайте видимыми залитые области всех плоскостей</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="393"/>
@@ -1838,7 +1838,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="394"/>
         <source>Make the filled areas of all planes invisible</source>
-        <translation type="unfinished"/>
+        <translation>Сделайте залитые области всех плоскостей невидимыми</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="402"/>
@@ -1848,7 +1848,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="403"/>
         <source>Re-calculate the filled areas of all planes</source>
-        <translation type="unfinished"/>
+        <translation>Пересчитайте заполненные площади всех плоскостей</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="411"/>
@@ -1873,7 +1873,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="424"/>
         <source>Change the measurement unit of the text input</source>
-        <translation type="unfinished"/>
+        <translation>Изменение единиц измерения вводимого текста</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="432"/>
@@ -1909,7 +1909,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="454"/>
         <source>Add some example projects to the workspace</source>
-        <translation type="unfinished"/>
+        <translation>Добавьте несколько примеров проектов в рабочую область</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="462"/>
@@ -1939,7 +1939,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="481"/>
         <source>Import schematic/board from EAGLE *.sch/*.brd files</source>
-        <translation type="unfinished"/>
+        <translation>Импорт схемы/платы из файлов EAGLE *.sch/*.brd</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="489"/>
