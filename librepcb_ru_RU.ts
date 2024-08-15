@@ -501,7 +501,7 @@
     <message>
         <location filename="../libs/librepcb/core/job/copyoutputjob.h" line="78"/>
         <source>File Copy</source>
-        <translation type="unfinished"/>
+        <translation>Копирование файла</translation>
     </message>
 </context>
 <context>
@@ -541,7 +541,9 @@
         <source>Failed to run '%1'.
 
 Please make sure this tool is available in PATH.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось запустить &apos;%1&apos;.
+
+Убедитесь, что этот инструмент доступен в PATH.</translation>
     </message>
 </context>
 <context>
@@ -744,12 +746,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="799"/>
         <source>The clearance between a non-plated hole and copper objects is smaller than the hole clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между отверстием без покрытия и медными объектами меньше, чем зазор между отверстиями, заданный в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="802"/>
         <source>Check the DRC settings and move the copper objects away from the hole if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости переместите медные объекты подальше от отверстия.</translation>
     </message>
 </context>
 <context>
@@ -792,12 +794,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="926"/>
         <source>There is a copper object within a copper keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>В запретной зоне находится медный предмет.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="927"/>
         <source>Move the object to outside the keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Переместите объект за пределы запретной зоны.</translation>
     </message>
 </context>
 <context>
@@ -811,12 +813,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1079"/>
         <source>A device is placed within the courtyard of another device, which might cause troubles during assembly of these parts.</source>
-        <translation type="unfinished"/>
+        <translation>Устройство находится во дворе другого устройства, что может привести к проблемам при сборке этих деталей.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1082"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems.</source>
-        <translation type="unfinished"/>
+        <translation>Либо переместите устройства, чтобы увеличить их зазор, либо одобрите это сообщение, если вы уверены, что их можно собрать без проблем.</translation>
     </message>
 </context>
 <context>
@@ -830,7 +832,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1168"/>
         <source>There is a device within a keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>В запретной зоне находится устройство.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1169"/>
@@ -848,7 +850,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1711"/>
         <source>The layer contains copper objects, but it is disabled in the board setup dialog and thus will be ignored in any production data exports. Either increase the layer count to get this layer exported, or remove all objects on this layer (by temporarily enabling this layer to see them).</source>
-        <translation type="unfinished"/>
+        <translation>Слой содержит медные объекты, но он отключен в диалоге настройки платы и поэтому будет проигнорирован при экспорте производственных данных. Либо увеличьте количество слоев, чтобы экспортировать этот слой, либо удалите все объекты на этом слое (временно включив этот слой для их просмотра).</translation>
     </message>
 </context>
 <context>
@@ -862,12 +864,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1057"/>
         <source>The clearance between a drill and the board outline is smaller than the drill clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между сверлом и контуром платы меньше, чем зазор между сверлами, заданный в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1060"/>
         <source>Check the DRC settings and move the drill away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости переместите сверло в сторону от контура платы.</translation>
     </message>
 </context>
 <context>
@@ -881,12 +883,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="942"/>
         <source>The clearance between two drills is smaller than the drill clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между двумя сверлами меньше, чем зазор между сверлами, заданный в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="945"/>
         <source>Check the DRC settings and move the drills to increase their distance if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости переместите буры на большее расстояние.</translation>
     </message>
 </context>
 <context>
@@ -932,12 +934,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1275"/>
         <source>There is a solder resist opening within an exposure keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>В зоне сохранения экспозиции имеется отверстие для паяльного резиста.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1277"/>
         <source>Move the object to outside the keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Переместите объект за пределы запретной зоны.</translation>
     </message>
 </context>
 <context>
@@ -960,32 +962,32 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1582"/>
         <source>Either avoid them or check if your PCB manufacturer supports them.</source>
-        <translation type="unfinished"/>
+        <translation>Либо избегайте их, либо проверьте, поддерживает ли их производитель вашей печатной платы.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1584"/>
         <source>Choose the desired Excellon slot mode when generating the production data (G85 vs. G00..G03).</source>
-        <translation type="unfinished"/>
+        <translation>Выберите нужный режим слота Excellon при генерации производственных данных (G85 против G00...G03).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1587"/>
         <source>The drilled slot mode (G85) will not be available when generating production data.</source>
-        <translation type="unfinished"/>
+        <translation>Режим пробуренной щели (G85) не будет доступен при генерации данных о добыче.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1591"/>
         <source>Curved slots are a very unusual thing and may cause troubles with many PCB manufacturers.</source>
-        <translation type="unfinished"/>
+        <translation>Изогнутые слоты - это очень необычная вещь, которая может вызвать проблемы у многих производителей печатных плат.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1595"/>
         <source>Multi-segment slots are a rather unusual thing and may cause troubles with some PCB manufacturers.</source>
-        <translation type="unfinished"/>
+        <translation>Многосегментные слоты - довольно необычная вещь, которая может вызвать проблемы у некоторых производителей печатных плат.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1599"/>
         <source>Slots may cause troubles with some PCB manufacturers.</source>
-        <translation type="unfinished"/>
+        <translation>Слоты могут вызвать проблемы у некоторых производителей печатных плат.</translation>
     </message>
 </context>
 <context>
@@ -1003,17 +1005,17 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1628"/>
         <source>Either avoid them or check if your PCB manufacturer supports them and adjust the DRC settings accordingly.</source>
-        <translation type="unfinished"/>
+        <translation>Либо избегайте их, либо проверьте, поддерживает ли их производитель вашей печатной платы, и соответствующим образом настройте параметры DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1631"/>
         <source>Blind vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
-        <translation type="unfinished"/>
+        <translation>Слепые отверстия дороги в производстве, и не каждый производитель печатных плат способен их создать.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1635"/>
         <source>Buried vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
-        <translation type="unfinished"/>
+        <translation>Заглубленные проходы дороги в производстве, и не каждый производитель печатных плат может их создать.</translation>
     </message>
 </context>
 <context>
@@ -1027,7 +1029,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1512"/>
         <source>The pad origin must be located within the pads copper area, or for THT pads within a hole. Otherwise traces might not beconnected fully. This issue needs to be fixed in the library.</source>
-        <translation type="unfinished"/>
+        <translation>Место установки площадки должно находиться в пределах медной области площадки, а для площадок THT - в отверстии. В противном случае трассы могут быть соединены не полностью. Эта проблема должна быть исправлена в библиотеке.</translation>
     </message>
 </context>
 <context>
@@ -1041,12 +1043,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1293"/>
         <source>The via annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Ширина кольцевого кольца (т. е. меди вокруг отверстия) меньше минимальной ширины кольца, заданной в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1297"/>
         <source>Check the DRC settings and increase the via size if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и, при необходимости, увеличьте размер файла.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1311"/>
@@ -1057,12 +1059,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1314"/>
         <source>The through-hole pad annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Ширина кольцевого кольца сквозной площадки (т. е. меди вокруг отверстия) меньше минимальной ширины кольца, заданной в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1318"/>
         <source>Check the DRC settings and increase the pad size if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте размер пэда.</translation>
     </message>
 </context>
 <context>
