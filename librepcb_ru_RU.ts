@@ -2480,7 +2480,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="971"/>
         <source>Add plated through-hole copper pads</source>
-        <translation type="unfinished"/>
+        <translation>Добавьте медные прокладки со сквозными отверстиями</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="979"/>
@@ -2490,7 +2490,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="980"/>
         <source>Add surface mounted (single layer) copper pads</source>
-        <translation type="unfinished"/>
+        <translation>Добавьте медные прокладки для поверхностного монтажа (однослойные)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="988"/>
@@ -2500,7 +2500,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="989"/>
         <source>Add special SMT pads used as heat sink</source>
-        <translation type="unfinished"/>
+        <translation>Добавьте специальные SMT-площадки, используемые в качестве теплоотвода</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="997"/>
