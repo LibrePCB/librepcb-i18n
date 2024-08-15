@@ -837,7 +837,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1169"/>
         <source>Move the device to outside the keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Переместите устройство за пределы запретной зоны.</translation>
     </message>
 </context>
 <context>
@@ -917,19 +917,19 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1214"/>
         <source>Polygon in exposure keepout zone</source>
-        <translation type="unfinished"/>
+        <translation>Полигон в зоне сохранения экспозиции</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1227"/>
         <source>Polygon in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Полигон в зоне сохранения экспозиции: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1244"/>
         <source>Circle in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Круг в зоне сохранения экспозиции: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1275"/>
@@ -947,12 +947,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1571"/>
         <source>Hole is a slot with curves</source>
-        <translation type="unfinished"/>
+        <translation>Отверстие представляет собой щель с изгибами</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1573"/>
         <source>Hole is a multi-segment slot</source>
-        <translation type="unfinished"/>
+        <translation>Отверстие - это многосегментный слот</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1575"/>
@@ -1078,12 +1078,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="220"/>
         <source>The board outline polygon is not manufacturable with the minimum tool diameter configured in the DRC settings due to edges with a smaller radius. Thus the actually produced board outline might contain larger edge radii and too small cutouts might even be missing completely.</source>
-        <translation type="unfinished"/>
+        <translation>Многоугольник контура платы не может быть изготовлен с минимальным диаметром инструмента, заданным в настройках DRC, из-за кромок с меньшим радиусом. Таким образом, фактически изготовленный контур платы может содержать большие радиусы кромок, а слишком маленькие вырезы могут даже полностью отсутствовать.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="226"/>
         <source>Check the DRC settings and add/increase the radius of inner board edges if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости добавьте/увеличьте радиус внутренних краев платы.</translation>
     </message>
 </context>
 <context>
@@ -1109,22 +1109,22 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1410"/>
         <source>The drill diameter of the via is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Диаметр сверления проходного отверстия меньше минимального диаметра сверления с покрытием, заданного в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1414"/>
         <source>The drill diameter of the through-hole pad is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Диаметр сверла в прокладке сквозного отверстия меньше минимального диаметра сверла с покрытием, заданного в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1418"/>
         <source>The drill diameter of the non-plated hole is smaller than the minimum non-plated drill diameter configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Диаметр бурения неплакированного отверстия меньше минимального диаметра неплакированного бурения, заданного в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1422"/>
         <source>Check the DRC settings and increase the drill diameter if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте диаметр сверла.</translation>
     </message>
 </context>
 <context>
@@ -1144,17 +1144,17 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1488"/>
         <source>The width of the plated slot is smaller than the minimum plated slot width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Ширина пластинчатого паза меньше минимальной ширины пластинчатого паза, заданной в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1492"/>
         <source>The width of the non-plated slot is smaller than the minimum non-plated slot width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Ширина неплакированного слота меньше минимальной ширины неплакированного слота, заданной в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1496"/>
         <source>Check the DRC settings and increase the slot width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте ширину слота.</translation>
     </message>
 </context>
 <context>
@@ -1168,12 +1168,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="290"/>
         <source>The text height is smaller than the minimum height configured in the DRC settings. If the text is smaller than the minimum height specified by the PCB manufacturer, it may not be readable after production.</source>
-        <translation type="unfinished"/>
+        <translation>Высота текста меньше минимальной высоты, заданной в настройках DRC. Если высота текста меньше минимальной высоты, указанной производителем печатной платы, он может быть нечитаемым после изготовления.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="295"/>
         <source>Check the DRC settings and increase the text height if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте высоту текста.</translation>
     </message>
 </context>
 <context>
@@ -1187,12 +1187,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="321"/>
         <source>The trace is thinner than the minimum copper width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Трасса тоньше, чем минимальная ширина меди, заданная в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="324"/>
         <source>Check the DRC settings and increase the trace width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте ширину трассы.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="339"/>
@@ -1203,12 +1203,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="344"/>
         <source>The configured minimum width of the plane is smaller than the minimum copper width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Настроенная минимальная ширина плоскости меньше минимальной ширины меди, заданной в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="347"/>
         <source>Check the DRC settings and increase the minimum plane width in its properties if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте минимальную ширину плоскости в ее свойствах.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="360"/>
@@ -1220,13 +1220,13 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="365"/>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="413"/>
         <source>The polygon line width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Ширина линии полигона меньше минимальной ширины, заданной в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="368"/>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="417"/>
         <source>Check the DRC settings and increase the polygon line width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте ширину линии полигона.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="381"/>
@@ -1237,12 +1237,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="386"/>
         <source>The text stroke width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Ширина обводки текста меньше минимальной ширины, заданной в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="389"/>
         <source>Check the DRC settings and increase the text stroke width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте ширину обводки текста.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="406"/>
@@ -1259,12 +1259,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="439"/>
         <source>The circle line width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Ширина линии окружности меньше минимальной ширины, заданной в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="442"/>
         <source>Check the DRC settings and increase the circle line width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте ширину линии окружности.</translation>
     </message>
 </context>
 <context>
@@ -1277,12 +1277,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="158"/>
         <source>There&apos;s no board outline defined at all, so the board cannot be manufactured.</source>
-        <translation type="unfinished"/>
+        <translation>Контур платы вообще не определен, поэтому ее нельзя изготовить.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="161"/>
         <source>Add a closed, zero-width polygon on the layer &apos;%1&apos; to draw the board outline.</source>
-        <translation type="unfinished"/>
+        <translation>Добавьте замкнутый многоугольник нулевой ширины на слой &quot;%1&quot;, чтобы нарисовать контур платы.</translation>
     </message>
 </context>
 <context>
@@ -1339,7 +1339,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="175"/>
         <source>There are multiple, independent board outlines defined.</source>
-        <translation type="unfinished"/>
+        <translation>Определены несколько независимых контуров совета.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="176"/>
