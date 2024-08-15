@@ -1300,7 +1300,11 @@ Please make sure this tool is available in PATH.</source>
 Add traces and/or planes to create the missing connections.
 
 Note that traces need to be snapped to the origin of footprint pads to make the airwire and this message disappearing.</source>
-        <translation type="unfinished"/>
+        <translation>В сети не хватает соединений, то есть не все элементы сети соединены вместе.
+
+Добавьте трассы и/или плоскости, чтобы создать недостающие соединения.
+
+Обратите внимание, что трассы должны быть привязаны к началу площадок отпечатков, чтобы создать воздушный провод и это сообщение исчезло.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="117"/>
@@ -1326,7 +1330,9 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
         <source>There's a component in the schematics without a corresponding device in the board, so the circuit of the PCB is not complete.
 
 Use the &quot;Place Devices&quot; dock to add the device.</source>
-        <translation type="unfinished"/>
+        <translation>На схеме есть компонент без соответствующего устройства на плате, поэтому схема печатной платы неполная.
+
+Используйте док &quot;Place Devices&quot;, чтобы добавить устройство.</translation>
     </message>
 </context>
 <context>
@@ -1344,7 +1350,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="176"/>
         <source>Either add only a single board outline or make sure the PCB manufacturer can handle production data containing multiple PCBs.</source>
-        <translation type="unfinished"/>
+        <translation>Либо добавьте только один контур платы, либо убедитесь, что производитель печатных плат может обрабатывать производственные данные, содержащие несколько печатных плат.</translation>
     </message>
 </context>
 <context>
@@ -1357,12 +1363,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="191"/>
         <source>The board outline polygon is not closed, i.e. the last vertex is not at the same coordinate as the first vertex.</source>
-        <translation type="unfinished"/>
+        <translation>Многоугольник контура платы не замкнут, т.е. последняя вершина не находится в той же координате, что и первая вершина.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="194"/>
         <source>Replace multiple coincident polygons with a single, connected polygon and append an explicit last vertex to make the polygon closed.</source>
-        <translation type="unfinished"/>
+        <translation>Замените несколько совпадающих многоугольников одним соединенным многоугольником и добавьте явную последнюю вершину, чтобы сделать многоугольник замкнутым.</translation>
     </message>
 </context>
 <context>
@@ -1376,12 +1382,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1112"/>
         <source>Two devices are overlapping and thus probably cannot be assembled both at the same time.</source>
-        <translation type="unfinished"/>
+        <translation>Два устройства накладываются друг на друга и поэтому, вероятно, не могут быть собраны одновременно.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1115"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems (or only one of them gets assembled).</source>
-        <translation type="unfinished"/>
+        <translation>Либо переместите устройства, чтобы увеличить зазор, либо одобрите это сообщение, если вы уверены, что они могут быть собраны без проблем (или только одно из них будет собрано).</translation>
     </message>
 </context>
 <context>
@@ -1390,17 +1396,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1650"/>
         <source>Clearance silkscreen text ↔ stop mask &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Текст для шелкографии ↔ стоп-маска &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1653"/>
         <source>The clearance between a silkscreen text and a solder resist opening is smaller than the minimum clearance configured in the DRC settings. This could lead to clipped silkscreen during production.</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между текстом шелкографии и отверстием паяльного резиста меньше минимального зазора, заданного в настройках DRC. Это может привести к обрыву шелкографии во время производства.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1659"/>
         <source>Check the DRC settings and move the text away from the solder resist opening if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости переместите текст в сторону от отверстия для паяльного резиста.</translation>
     </message>
 </context>
 <context>
@@ -1421,7 +1427,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1729"/>
         <source>The layer contains no copper objects (except the automatically generated through-hole annular rings, if any) so it is useless. This is not critical, but if your intention is to flood it with copper, you need to add a plane manually. Or if you don&apos;t need this layer, you might want to reduce the layer count in the board setup dialog to avoid unnecessary production costs. Also some PCB manufacturers might be confused by empty layers.</source>
-        <translation type="unfinished"/>
+        <translation>Слой не содержит никаких медных объектов (кроме автоматически сгенерированных кольцевых колец со сквозными отверстиями, если таковые имеются), поэтому он бесполезен. Это не критично, но если вы собираетесь заполнить его медью, вам нужно добавить плоскость вручную. Или, если вам не нужен этот слой, вы можете уменьшить количество слоев в диалоге настройки платы, чтобы избежать лишних затрат на производство. Кроме того, некоторых производителей печатных плат могут смутить пустые слои.</translation>
     </message>
 </context>
 <context>
@@ -1435,7 +1441,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1695"/>
         <source>The via is connected on less than two layers, thus it seems to be useless.</source>
-        <translation type="unfinished"/>
+        <translation>Через него проходит менее двух слоев, поэтому он кажется бесполезным.</translation>
     </message>
 </context>
 <context>
@@ -1448,7 +1454,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1679"/>
         <source>The zone has no layer or rule enabled so it is useless.</source>
-        <translation type="unfinished"/>
+        <translation>В зоне нет ни одного включенного слоя или правила, поэтому она бесполезна.</translation>
     </message>
 </context>
 <context>
@@ -1469,12 +1475,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="505"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
-        <translation type="unfinished"/>
+        <translation>Пунктирная/точечная линия не поддерживается, преобразовывается в непрерывную.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="510"/>
         <source>Flat line end is not supported, converting to round.</source>
-        <translation type="unfinished"/>
+        <translation>Плоский конец линии не поддерживается, преобразовывается в круглый.</translation>
     </message>
 </context>
 <context>
@@ -1582,7 +1588,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="168"/>
         <source>Bring the control panel window to front</source>
-        <translation type="unfinished"/>
+        <translation>Выведите окно панели управления на передний план</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="176"/>
@@ -1602,7 +1608,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="186"/>
         <source>Open the workspace settings dialog</source>
-        <translation type="unfinished"/>
+        <translation>Откройте диалог настроек рабочего пространства</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="194"/>
@@ -1612,7 +1618,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="195"/>
         <source>Scan all workspace libraries to update the cache</source>
-        <translation type="unfinished"/>
+        <translation>Просканируйте все библиотеки рабочего пространства для обновления кэша</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="203"/>
@@ -1732,7 +1738,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="303"/>
         <source>Update the project&apos;s library elements from workspace libraries</source>
-        <translation type="unfinished"/>
+        <translation>Обновление библиотечных элементов проекта из библиотек рабочей области</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="312"/>
@@ -1742,7 +1748,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="313"/>
         <source>Bring the schematic editor window to front</source>
-        <translation type="unfinished"/>
+        <translation>Выведите окно редактора схем на передний план</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="321"/>
@@ -6555,12 +6561,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="609"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
-        <translation type="unfinished"/>
+        <translation>Пунктирная/точечная линия не поддерживается, преобразовывается в непрерывную.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="614"/>
         <source>Flat line end is not supported, converting to round.</source>
-        <translation type="unfinished"/>
+        <translation>Плоский конец линии не поддерживается, преобразовывается в круглый.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="626"/>
