@@ -2510,7 +2510,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="998"/>
         <source>Add special SMT pads used for ball grid arrays</source>
-        <translation type="unfinished"/>
+        <translation>Добавьте специальные SMT-площадки, используемые для шариковых массивов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1006"/>
@@ -2520,7 +2520,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1007"/>
         <source>Add special SMT pads used as edge connector</source>
-        <translation type="unfinished"/>
+        <translation>Добавьте специальные SMT-пластины, используемые в качестве краевых разъемов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1015"/>
@@ -2530,7 +2530,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1016"/>
         <source>Add special SMT pads used as test points</source>
-        <translation type="unfinished"/>
+        <translation>Добавьте специальные площадки SMT, используемые в качестве контрольных точек</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1024"/>
@@ -2540,7 +2540,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1025"/>
         <source>Add special SMT pads used as local fiducials</source>
-        <translation type="unfinished"/>
+        <translation>Добавление специальных SMT-прокладок, используемых в качестве локальных ориентиров</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1033"/>
@@ -2550,7 +2550,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1034"/>
         <source>Add special SMT pads used as global fiducials</source>
-        <translation type="unfinished"/>
+        <translation>Добавление специальных SMT-прокладок, используемых в качестве глобальных ориентиров</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1042"/>
@@ -2580,7 +2580,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1061"/>
         <source>Draw wires to create electrical connections between symbol pins</source>
-        <translation type="unfinished"/>
+        <translation>Рисуйте провода для создания электрических соединений между контактами символов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1070"/>
@@ -2610,7 +2610,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1089"/>
         <source>Draw copper traces to interconnect devices</source>
-        <translation type="unfinished"/>
+        <translation>Нарисуйте медные дорожки для соединения устройств</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1097"/>
@@ -2630,7 +2630,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1107"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
-        <translation type="unfinished"/>
+        <translation>Нарисуйте медные области с автоматическим заполнением для соединительных площадок и каналов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1115"/>
@@ -2650,7 +2650,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1125"/>
         <source>Automatically generate the courtyard polygon</source>
-        <translation type="unfinished"/>
+        <translation>Автоматическое создание дворового полигона</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1133"/>
@@ -2755,7 +2755,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1218"/>
         <source>Increase the via/pad/hole drill diameter</source>
-        <translation type="unfinished"/>
+        <translation>Увеличение диаметра отверстий/прокладок/буров</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1226"/>
@@ -2765,7 +2765,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1227"/>
         <source>Decrease the via/pad/hole drill diameter</source>
-        <translation type="unfinished"/>
+        <translation>Уменьшение диаметра отверстий/прокладок/сверл</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1235"/>
@@ -2775,7 +2775,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1236"/>
         <source>Toggle the auto-width property state</source>
-        <translation type="unfinished"/>
+        <translation>Переключение состояния свойства автоширины</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1244"/>
@@ -2795,7 +2795,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1254"/>
         <source>Toggle the grab area property state</source>
-        <translation type="unfinished"/>
+        <translation>Переключение состояния свойства области захвата</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1262"/>
@@ -3256,7 +3256,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1668"/>
         <source>Remove the selected vertex from the polygon</source>
-        <translation type="unfinished"/>
+        <translation>Удалить выбранную вершину из многоугольника</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1676"/>
@@ -3276,7 +3276,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1686"/>
         <source>Measure the total length of all selected trace segments</source>
-        <translation type="unfinished"/>
+        <translation>Измерьте общую длину всех выбранных сегментов трассы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1694"/>
@@ -3321,7 +3321,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1731"/>
         <source>Open product details about this part in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Открыть подробную информацию об этой детали в веб-браузере</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1739"/>
@@ -3331,7 +3331,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1740"/>
         <source>Open pricing details about this part in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Открыть информацию о ценах на эту деталь в веб-браузере</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1749"/>
@@ -3357,12 +3357,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="187"/>
         <source>Connected pin without wire: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Подключенный контакт без провода: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="189"/>
         <source>The pin is electrically connected to a net, but has no wire attached so this connection is not visible in the schematic. Add a wire to make the connection visible.</source>
-        <translation type="unfinished"/>
+        <translation>Этот вывод электрически соединен с сетью, но к нему не подсоединен провод, поэтому это соединение не видно на схеме. Добавьте провод, чтобы сделать соединение видимым.</translation>
     </message>
 </context>
 <context>
@@ -3375,7 +3375,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="119"/>
         <source>The component signal requires the attached net to be named &apos;%1&apos;, but it is named &apos;%2&apos;. Either rename the net manually or remove this connection.</source>
-        <translation type="unfinished"/>
+        <translation>Сигнал компонента требует, чтобы подключенная сеть имела имя &apos;%1&apos;, но она имеет имя &apos;%2&apos;. Либо переименуйте сеть вручную, либо удалите это соединение.</translation>
     </message>
 </context>
 <context>
