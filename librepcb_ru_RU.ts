@@ -3417,12 +3417,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="93"/>
         <source>Unconnected component signal: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неподключенный сигнал компонента: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="96"/>
         <source>The component signal is marked as required, but is not connected to any net. Add a wire to the corresponding symbol pin to connect it to a net.</source>
-        <translation type="unfinished"/>
+        <translation>Сигнал компонента отмечен как необходимый, но не подключен ни к какой сети. Добавьте провод к соответствующему выводу символа, чтобы подключить его к сети.</translation>
     </message>
 </context>
 <context>
@@ -3435,7 +3435,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="169"/>
         <source>The optional gate &apos;%1&apos; of &apos;%2&apos; is not added to the schematic.</source>
-        <translation type="unfinished"/>
+        <translation>Необязательный затвор &apos;%1&apos; из &apos;%2&apos; не добавлен в схему.</translation>
     </message>
 </context>
 <context>
@@ -3443,12 +3443,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="145"/>
         <source>Unplaced required gate: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неустановленные необходимые ворота: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="147"/>
         <source>The gate &apos;%1&apos; of &apos;%2&apos; is marked as required, but it is not added to the schematic.</source>
-        <translation type="unfinished"/>
+        <translation>Затвор &apos;%1&apos; из &apos;%2&apos; отмечен как необходимый, но не добавлен в схему.</translation>
     </message>
 </context>
 <context>
@@ -3461,7 +3461,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="49"/>
         <source>There are no nets assigned to the net class, so you could remove it.</source>
-        <translation type="unfinished"/>
+        <translation>Классу net не назначены сети, поэтому его можно удалить.</translation>
     </message>
 </context>
 <context>
@@ -3469,7 +3469,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/export/excellongenerator.cpp" line="185"/>
         <source>Using the G85 slot command is not possible for curved slots. Either remove curved slots or disable the G85 export option.</source>
-        <translation type="unfinished"/>
+        <translation>Использование команды G85 slot невозможно для изогнутых слотов. Либо удалите изогнутые слоты, либо отключите опцию экспорта G85.</translation>
     </message>
 </context>
 <context>
@@ -3578,7 +3578,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="582"/>
         <source>Edge Connector Pad (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Краевая соединительная колодка (SMT, без пайки)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="584"/>
@@ -3588,12 +3588,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="586"/>
         <source>Local Footprint Fiducial (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Локальный отпечаток пальца Fiducial (SMT, без пайки)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="588"/>
         <source>Global Board Fiducial (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Глобальная плата Fiducial (SMT, без пайки)</translation>
     </message>
 </context>
 <context>
@@ -3780,7 +3780,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="262"/>
         <source>Bottom Package Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Контуры нижнего пакета</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="270"/>
@@ -3993,7 +3993,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="193"/>
         <source>Move this element to another library</source>
-        <translation type="unfinished"/>
+        <translation>Переместите этот элемент в другую библиотеку</translation>
     </message>
 </context>
 <context>
@@ -4001,12 +4001,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="40"/>
         <source>Non-recommended assembly type</source>
-        <translation type="unfinished"/>
+        <translation>Не рекомендуемый тип сборки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="41"/>
         <source>The assembly type &apos;Auto-detect&apos; is not recommended as the detection might not be correct in every case. It&apos;s safer to specify the assembly type manually.</source>
-        <translation type="unfinished"/>
+        <translation>Тип сборки &apos;Auto-detect&apos; не рекомендуется использовать, так как определение может быть неправильным в каждом случае. Безопаснее указывать тип сборки вручную.</translation>
     </message>
 </context>
 <context>
@@ -4021,7 +4021,9 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <source>There are no orderable parts added to the device. It's recommended (but not mandatory) to add the concrete manufacturer part numbers this device is valid for. These MPNs are used by the BOM export to make BOMs of projects much more complete and accurate.
 
 If this device doesn&apos;t represent an orderable part, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>К устройству не добавляются заказываемые детали. Рекомендуется (но не обязательно) добавить номера деталей конкретного производителя, для которых это устройство действительно. Эти MPN используются при экспорте спецификаций, чтобы сделать спецификации проектов более полными и точными.
+
+Если это устройство не представляет собой заказываемую деталь, просто проигнорируйте это сообщение.</translation>
     </message>
 </context>
 <context>
@@ -4036,7 +4038,9 @@ If this device doesn&apos;t represent an orderable part, just ignore this messag
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
-        <translation type="unfinished"/>
+        <translation>Все пакетные площадки должны иметь уникальные имена, иначе их невозможно будет различить в редакторе устройств. Если ваша деталь имеет несколько выводов с одинаковой функциональностью (например, несколько выводов GND), вы можете назначить все эти площадки одному и тому же сигналу компонента позже в редакторе устройств.
+
+Для нейтральных корпусов (например, SOT23) колодки в любом случае должны быть названы только по номерам, а не по функциональности (например, назовите их &apos;1&apos;, &apos;2&apos;, &apos;3&apos; вместо &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</translation>
     </message>
 </context>
 <context>
@@ -4049,7 +4053,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="42"/>
         <source>All symbol pins must have unique names, otherwise they cannot be distinguished later in the component editor. If your part has several pins with same functionality (e.g. multiple GND pins), you should add only one of these pins to the symbol. The assignment to multiple leads should be done in the device editor instead.</source>
-        <translation type="unfinished"/>
+        <translation>Все выводы символа должны иметь уникальные имена, иначе их невозможно будет различить в редакторе компонентов. Если деталь имеет несколько выводов с одинаковой функциональностью (например, несколько выводов GND), в символ следует добавить только один из этих выводов. Назначение нескольких выводов следует выполнять в редакторе устройств.</translation>
     </message>
 </context>
 <context>
@@ -4070,12 +4074,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="87"/>
         <source>Small copper clearance on fiducial in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Небольшой медный зазор на датчике в &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="89"/>
         <source>The copper clearance of the fiducial pad is less than its stop mask expansion, which is unusual. Typically the copper clearance should be equal to or greater than the stop mask expansion to avoid copper located within the stop mask opening.</source>
-        <translation type="unfinished"/>
+        <translation>Медный зазор фидуциальной площадки меньше, чем расширение маски, что необычно. Обычно медный зазор должен быть равен или больше расширения маски, чтобы избежать попадания меди в отверстие маски.</translation>
     </message>
 </context>
 <context>
@@ -4083,7 +4087,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="112"/>
         <source>Stop mask not set on fiducial in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Маска остановки не установлена на точке &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="114"/>
