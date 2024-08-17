@@ -4421,7 +4421,9 @@ It&apos;s recommended to prefix inverted signal names with &apos;%1&apos;, regar
         <source>The pin name seems to start with an inversion sign, but LibrePCB uses a different sign to indicate inversion.
 
 It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardless of the inversion sign used in the parts datasheet.</source>
-        <translation type="unfinished"/>
+        <translation>Кажется, что название вывода начинается со знака инверсии, но LibrePCB использует другой знак для обозначения инверсии.
+
+Рекомендуется добавлять к названиям инвертированных выводов префикс &apos;%1&apos;, независимо от знака инверсии, используемого в техническом описании детали.</translation>
     </message>
 </context>
 <context>
@@ -4429,12 +4431,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="411"/>
         <source>Overlapping pads &apos;%1&apos; and &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Перекрытие колодок &apos;%1&apos; и &apos;%2&apos; в &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="414"/>
         <source>The copper area of two pads overlap. This can lead to serious issues with the design rule check and probably leads to a short circuit in the board so this really needs to be fixed.</source>
-        <translation type="unfinished"/>
+        <translation>Медные участки двух площадок перекрываются. Это может привести к серьезным проблемам при проверке правил проектирования и, вероятно, к короткому замыканию в плате, так что это действительно необходимо исправить.</translation>
     </message>
 </context>
 <context>
@@ -4442,7 +4444,7 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="108"/>
         <source>There are multiple pins at the same position. This is not allowed because you cannot connect wires to these pins in the schematic editor.</source>
-        <translation type="unfinished"/>
+        <translation>В одной и той же позиции находится несколько контактов. Это недопустимо, поскольку в редакторе схем нельзя подключить провода к этим контактам.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="133"/>
@@ -4460,7 +4462,7 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="435"/>
         <source>Pads should have at least %1 annular ring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</source>
-        <translation type="unfinished"/>
+        <translation>Колодки должны иметь не менее %1 кольцевого кольца (медь вокруг каждого отверстия колодки). Обратите внимание, что это значение является лишь общей рекомендацией, точное значение зависит от возможностей производителя печатной платы.</translation>
     </message>
 </context>
 <context>
@@ -4468,12 +4470,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="460"/>
         <source>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между контактной площадкой &apos;%1&apos; и контактной площадкой &apos;%2&apos; в &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="463"/>
         <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
-        <translation type="unfinished"/>
+        <translation>Колодки должны иметь зазор между собой не менее %1. В некоторых ситуациях может потребоваться использование меньших зазоров, но не все производители печатных плат могут надежно изготовить такие маленькие зазоры, поэтому обычно этого следует избегать.</translation>
     </message>
 </context>
 <context>
@@ -4481,12 +4483,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="490"/>
         <source>Hole outside copper of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Отверстие снаружи меди накладки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="492"/>
         <source>All THT pad holes must be fully surrounded by copper, otherwise they could lead to serious issues during the design rule check or manufacturing process.</source>
-        <translation type="unfinished"/>
+        <translation>Все отверстия в накладках THT должны быть полностью окружены медью, иначе они могут привести к серьезным проблемам при проверке правил проектирования или в процессе производства.</translation>
     </message>
 </context>
 <context>
@@ -4501,7 +4503,9 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
         <source>The origin of each pad must be located within its copper area, otherwise traces won't be connected properly.
 
 For THT pads, the origin must be located within a drill hole since on some layers the pad might only have a small annular ring instead of the full pad shape.</source>
-        <translation type="unfinished"/>
+        <translation>Начало каждой площадки должно быть расположено в пределах ее медной области, иначе трассы не будут соединены должным образом.
+
+Для площадок THT начало координат должно находиться в пределах отверстия, поскольку на некоторых слоях площадка может иметь только небольшое кольцевое кольцо, а не полную форму площадки.</translation>
     </message>
 </context>
 <context>
@@ -4509,12 +4513,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="541"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to legend</source>
-        <translation type="unfinished"/>
+        <translation>Очистка колодки &apos;%1&apos; в &apos;%2&apos; для легенды</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="543"/>
         <source>Pads should have at least %1 clearance to drawings on the legend because these drawings would be cropped during the Gerber export when used as silkscreen.</source>
-        <translation type="unfinished"/>
+        <translation>Колечки должны иметь не менее %1 расстояния до рисунков на легенде, поскольку эти рисунки будут обрезаны при экспорте в Gerber, если они используются как шелкография.</translation>
     </message>
 </context>
 <context>
@@ -4527,7 +4531,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="568"/>
         <source>There&apos;s no stop mask opening enabled on the pad, so the copper pad will be covered by solder resist and is thus not functional. This is very unusual, you should double-check if this is really what you want.</source>
-        <translation type="unfinished"/>
+        <translation>На площадке не включено открытие маски остановки, поэтому медная площадка будет покрыта резистом припоя и, таким образом, не будет функционировать. Это очень необычно, вам следует перепроверить, действительно ли это то, что вы хотите.</translation>
     </message>
 </context>
 <context>
@@ -4535,12 +4539,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="591"/>
         <source>Copper clearance &gt;0 on pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Медный зазор &gt;0 на площадке &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="593"/>
         <source>There is a custom copper clearance enabled on the pad, which is unusual for pads which do not represent a fiducial. Note that the clearance value from the board design rules is applied to all pads anyway, thus manual clearance values are usually not needed. If this pad is a fiducial, make sure to set its function to the corresponding value.</source>
-        <translation type="unfinished"/>
+        <translation>На этой площадке включен пользовательский медный зазор, что необычно для площадок, не представляющих собой фидуциал. Обратите внимание, что значение зазора из правил проектирования платы в любом случае применяется ко всем площадкам, поэтому ручные значения зазора обычно не нужны. Если эта площадка является фидуциальной, обязательно установите для ее функции соответствующее значение.медь</translation>
     </message>
 </context>
 <context>
@@ -4548,12 +4552,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="618"/>
         <source>Solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Паяльная паста на SMT-площадке &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="620"/>
         <source>The SMT pad has solder paste enabled, but its function indicates that there&apos;s no lead to be soldered on it (e.g. a fiducial). Usually solder paste is not desired on such special pads which won&apos;t be soldered.</source>
-        <translation type="unfinished"/>
+        <translation>На SMT-площадке включена паяльная паста, но ее функция указывает на то, что к ней не нужно припаивать выводы (например, фидуциал). Обычно паяльная паста не нужна на таких специальных площадках, которые не будут паяться.</translation>
     </message>
 </context>
 <context>
@@ -4561,12 +4565,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="643"/>
         <source>No solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствие паяльной пасты на SMT-площадке &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="645"/>
         <source>The SMT pad has no solder paste enabled, which is unusual since without solder paste the pad cannot be reflow soldered. Only use this if there&apos;s no lead to be soldered on that pad, or if you have drawn a manual solder paste area.</source>
-        <translation type="unfinished"/>
+        <translation>На SMT-площадке не включена паяльная паста, что необычно, поскольку без паяльной пасты площадка не может быть запаяна. Используйте эту функцию, только если на этой площадке не нужно паять проводники или если вы нарисовали область паяльной пасты вручную.</translation>
     </message>
 </context>
 <context>
@@ -4579,7 +4583,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="54"/>
         <source>The specified assembly type differs from the assembly type which is auto-detected from the footprint contents. Double-check if the specified assembly type is really correct.</source>
-        <translation type="unfinished"/>
+        <translation>Указанный тип сборки отличается от типа сборки, который автоматически определяется по содержимому отпечатка. Дважды проверьте, действительно ли указанный тип сборки правильный.</translation>
     </message>
 </context>
 <context>
