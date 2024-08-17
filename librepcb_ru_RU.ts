@@ -777,19 +777,19 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="865"/>
         <source>Polygon in copper keepout zone</source>
-        <translation type="unfinished"/>
+        <translation>Многоугольник в зоне сохранения меди</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="879"/>
         <source>Polygon in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Многоугольник в зоне сохранения меди: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="896"/>
         <source>Circle in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Круг в зоне сохранения меди: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="926"/>
@@ -827,7 +827,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1140"/>
         <source>Device in keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Устройство в зоне отключения: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1168"/>
@@ -845,7 +845,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1710"/>
         <source>Objects on disabled layer: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Объекты на отключенном слое: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1711"/>
@@ -878,7 +878,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="939"/>
         <source>Clearance drill ↔ drill &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Сверло для очистки ↔ сверло &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="942"/>
@@ -906,13 +906,13 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1182"/>
         <source>Pad in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is pad name</comment>
-        <translation type="unfinished"/>
+        <translation>Площадка в зоне сохранения экспозиции: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1199"/>
         <source>Via in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
+        <translation>Участок в зоне сохранения экспозиции: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1214"/>
@@ -957,7 +957,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1575"/>
         <source>Hole is a slot</source>
-        <translation type="unfinished"/>
+        <translation>Отверстие - это щель</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1582"/>
@@ -4092,7 +4092,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="114"/>
         <source>The stop mask expansion of the fiducial pad is set to automatic, which is unusual. Typically the stop mask expansion of fiducials need to be manually set to a much larger value.</source>
-        <translation type="unfinished"/>
+        <translation>Расширение стоп-маски фидуциальной площадки установлено автоматически, что необычно. Как правило, расширение маски остановки фидуциалов необходимо устанавливать вручную на гораздо большее значение.</translation>
     </message>
 </context>
 <context>
@@ -4106,7 +4106,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="140"/>
         <source>Non-plated holes should have a stop mask opening to avoid solder resist flowing into the hole. An automatic stop mask opening can be enabled in the hole properties.</source>
-        <translation type="unfinished"/>
+        <translation>Отверстия без покрытия должны иметь отверстие для стоп-маски, чтобы избежать затекания припоя в отверстие. Автоматическое открытие маски можно включить в свойствах отверстия.</translation>
     </message>
 </context>
 <context>
@@ -4114,12 +4114,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="162"/>
         <source>Invalid custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Недопустимый пользовательский контур подкладки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="164"/>
         <source>The pad has set a custom outline which does not represent a valid area. Either choose a different pad shape or specify a valid custom outline.</source>
-        <translation type="unfinished"/>
+        <translation>В блокноте задан пользовательский контур, который не представляет собой действительную область. Либо выберите другую форму блокнота, либо укажите правильный пользовательский контур.</translation>
     </message>
 </context>
 <context>
@@ -4132,7 +4132,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="188"/>
         <source>A footprint pad is connected to a package pad which doesn&apos;t exist. Check all pads for proper connections.</source>
-        <translation type="unfinished"/>
+        <translation>Площадка отпечатка пальца подключена к несуществующей площадке пакета. Проверьте правильность подключения всех подкладок.</translation>
     </message>
 </context>
 <context>
@@ -4140,17 +4140,17 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="209"/>
         <source>It is recommended that polygons on layer &apos;%1&apos; have a line width of at least %2.</source>
-        <translation type="unfinished"/>
+        <translation>Рекомендуется, чтобы многоугольники на слое &apos;%1&apos; имели ширину линии не менее %2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="229"/>
         <source>It is recommended that circles on layer &apos;%1&apos; have a line width of at least %2.</source>
-        <translation type="unfinished"/>
+        <translation>Рекомендуется, чтобы круги на слое &apos;%1&apos; имели ширину линии не менее %2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="249"/>
         <source>It is recommended that stroke texts on layer &apos;%1&apos; have a stroke width of at least %2.</source>
-        <translation type="unfinished"/>
+        <translation>Рекомендуется, чтобы обводка текста на слое &apos;%1&apos; имела ширину обводки не менее %2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="266"/>
@@ -4160,7 +4160,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="272"/>
         <source>Otherwise it could lead to manufacturing problems in some cases (depending on board settings and/or the capabilities of the PCB manufacturer).</source>
-        <translation type="unfinished"/>
+        <translation>В противном случае в некоторых случаях это может привести к производственным проблемам (в зависимости от параметров платы и/или возможностей производителя печатной платы).</translation>
     </message>
 </context>
 <context>
@@ -4233,12 +4233,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="288"/>
         <source>It is recommended to draw the package courtyard with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if another device is placed within the courtyard of this device (i.e. too close).</source>
-        <translation type="unfinished"/>
+        <translation>Рекомендуется рисовать внутренний двор пакета одним замкнутым многоугольником или кругом нулевой ширины на слое &apos;%1&apos;. Это позволит DRC предупредить, если другое устройство будет размещено во внутреннем дворе этого устройства (т. е. слишком близко).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="294"/>
         <source>Often this is identical to the package outline but with a small offset. If you&apos;re unsure, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Часто это совпадает с контуром упаковки, но с небольшим смещением. Если вы не уверены, просто проигнорируйте это сообщение.</translation>
     </message>
 </context>
 <context>
@@ -4264,7 +4264,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="325"/>
         <source>The footprint has no 3D model specified, so the package will be missing in the 3D viewer and in 3D data exports. However, this has no impact on the PCB production data.</source>
-        <translation type="unfinished"/>
+        <translation>В отпечатке не указана 3D-модель, поэтому пакет будет отсутствовать в программе просмотра 3D и при экспорте 3D-данных. Однако это не влияет на данные о производстве печатных плат.</translation>
     </message>
 </context>
 <context>
@@ -4277,7 +4277,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="344"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Большинство отпечатков должны содержать текстовый элемент для названия компонента, иначе вы не увидите это название на печатной плате (например, на шелкографии). Есть только несколько исключений, которым имя не нужно (например, если футпринт - это только рисунок), для них вы можете проигнорировать это сообщение.</translation>
     </message>
 </context>
 <context>
@@ -4290,7 +4290,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="366"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Большинство отпечатков должны содержать текстовый элемент для значения компонента, иначе вы не увидите это значение на печатной плате (например, на шелкографии). Есть только несколько исключений, которым значение не нужно (например, если футпринт - это только рисунок), для них вы можете проигнорировать это сообщение.</translation>
     </message>
 </context>
 <context>
@@ -4303,7 +4303,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="388"/>
         <source>It is recommended to draw the package outline with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if this device is placed within the courtyard of another device (i.e. too close).</source>
-        <translation type="unfinished"/>
+        <translation>Рекомендуется рисовать контур пакета одним замкнутым многоугольником или кругом нулевой ширины на слое &apos;%1&apos;. Это позволит DRC предупредить, если устройство будет размещено во внутреннем дворе другого устройства (т. е. слишком близко).</translation>
     </message>
 </context>
 <context>
@@ -4316,7 +4316,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="58"/>
         <source>Most symbols should have a text element for the component&apos;s name, otherwise you won&apos;t see that name in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a name, for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Большинство символов должны иметь текстовый элемент для имени компонента, иначе вы не увидите это имя на схеме. Есть только несколько исключений (например, рамка схемы), которым имя не нужно, и для них вы можете проигнорировать это сообщение.</translation>
     </message>
 </context>
 <context>
@@ -4329,7 +4329,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="72"/>
         <source>Most symbols should have a text element for the component&apos;s value, otherwise you won&apos;t see that value in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a value, for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Большинство символов должны иметь текстовый элемент для значения компонента, иначе вы не увидите это значение на схеме. Есть только несколько исключений (например, рамка схемы), которым значение не нужно, и для них вы можете проигнорировать это сообщение.</translation>
     </message>
 </context>
 <context>
@@ -4355,7 +4355,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="108"/>
         <source>Every symbol variant requires at least one symbol item, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Для каждого варианта символа требуется хотя бы один элемент символа, иначе он не может быть добавлен в схему.</translation>
     </message>
 </context>
 <context>
@@ -4368,7 +4368,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/librarybaseelementcheckmessages.cpp" line="49"/>
         <source>Generally the library element name should be written in title case (for consistency). As the current name has words starting with a lowercase character, it seems that it is not title cases. If this assumption is wrong, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Как правило, название библиотечного элемента должно быть написано в заглавном регистре (для согласованности). Поскольку в текущем имени есть слова, начинающиеся со строчных символов, похоже, что оно не является заглавным. Если это предположение неверно, просто проигнорируйте это сообщение.</translation>
     </message>
 </context>
 <context>
@@ -4385,7 +4385,11 @@ Passive parts: Using an attribute, e.g. %3</source>
 To fix this issue, connect the package pads to their corresponding component signals in the table widget.
 
 If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
-        <translation type="unfinished"/>
+        <translation>Выбранная комплектация содержит площадки, но ни одна из них не подключена к сигналам компонента. Таким образом, эти площадки не имеют электрической функции, и при добавлении устройства на печатную плату к ним не могут быть подключены трассы.
+
+Чтобы решить эту проблему, подключите площадки пакета к соответствующим сигналам компонентов в виджете таблицы.
+
+Если все площадки имеют только механическое назначение и поэтому не нуждаются в подключении к сигналам компонентов, это сообщение можно проигнорировать.</translation>
     </message>
 </context>
 <context>
@@ -4400,7 +4404,9 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <source>The signal name seems to start with an inversion sign, but LibrePCB uses a different sign to indicate inversion.
 
 It&apos;s recommended to prefix inverted signal names with &apos;%1&apos;, regardless of the inversion sign used in the parts datasheet.</source>
-        <translation type="unfinished"/>
+        <translation>Кажется, что название сигнала начинается со знака инверсии, но LibrePCB использует другой знак для обозначения инверсии.
+
+Рекомендуется добавлять к названиям инвертированных сигналов префикс &apos;%1&apos;, независимо от знака инверсии, используемого в техническом описании деталей.</translation>
     </message>
 </context>
 <context>
