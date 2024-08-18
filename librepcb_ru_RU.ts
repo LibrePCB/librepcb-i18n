@@ -5559,12 +5559,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_via.cpp" line="104"/>
         <source>Could not change the vias start/end layers because there are still traces connected on other layers.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось изменить начальный/конечный слои vias, так как на других слоях все еще остаются подключенные трассы.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_via.cpp" line="193"/>
         <source>Failed to connect trace to via because it&apos;s a blind- or buried via which doesn&apos;t include the corresponding layer.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось подключить трассу к via, поскольку это глухой или подземный via, не включающий соответствующий слой.</translation>
     </message>
 </context>
 <context>
@@ -5603,12 +5603,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="726"/>
         <source>Check drill to board edge clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте зазоры между сверлом и краем доски...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="803"/>
         <source>Check silkscreen to stopmask clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте зазоры между шелкографией и стоп-маской...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="888"/>
@@ -5658,17 +5658,17 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1392"/>
         <source>Check for useless or disallowed vias...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте, нет ли бесполезных или запрещенных виа...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1419"/>
         <source>Check for disallowed NPTH slots...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте наличие запрещенных слотов NPTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1450"/>
         <source>Check for disallowed PTH slots...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте наличие запрещенных слотов PTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1469"/>
@@ -5693,7 +5693,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1693"/>
         <source>Check for unplaced components...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте наличие неустановленных компонентов...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1708"/>
@@ -5712,25 +5712,25 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="92"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="121"/>
         <source>There is already an assembly variant with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Уже существует вариант сборки с именем &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="154"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="180"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Уже существует чистый класс с именем &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="233"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="260"/>
         <source>There is already a net signal with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Уже существует сетевой сигнал с именем &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="309"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="339"/>
         <source>There is already a component with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Компонент с именем &quot;%1&quot; уже существует!</translation>
     </message>
 </context>
 <context>
@@ -5751,7 +5751,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="118"/>
         <source>The net signal of the component signal &quot;%1:%2&quot; cannot be changed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>Чистый сигнал компонента &quot;%1:%2&quot; не может быть изменен, так как он все еще используется!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="157"/>
@@ -5797,37 +5797,37 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="506"/>
         <source>Components were automatically populated with assembly information required for the new, built-in MPN management and assembly variant mechanism. If the BOM or PnP export is used, please review the output and correct MPNs and attributes manually in the component properties dialog where needed.</source>
-        <translation type="unfinished"/>
+        <translation>Компоненты были автоматически заполнены информацией о сборке, необходимой для нового, встроенного механизма управления MPN и вариантами сборки. Если используется экспорт BOM или PnP, просмотрите полученные данные и при необходимости исправьте MPN и атрибуты вручную в диалоговом окне свойств компонента.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="516"/>
         <source>Some particular ERC message approvals cannot be migrated and therefore have been removed. Please check the remaining ERC messages and approve them if desired.</source>
-        <translation type="unfinished"/>
+        <translation>Некоторые конкретные одобрения сообщений ERC не могут быть перенесены и поэтому были удалены. Пожалуйста, проверьте оставшиеся сообщения ERC и при желании одобрите их.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="524"/>
         <source>All non-plated holes (NPTH) now have automatic solder resist openings added on both board sides. The expansion value is configured in the board design rules but can be overridden in the hole properties dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Все отверстия без покрытия (NPTH) теперь имеют автоматическое добавление отверстий под паяльник с обеих сторон платы. Значение расширения задается в правилах проектирования платы, но может быть переопределено в диалоговом окне свойств отверстия.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="533"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
-        <translation type="unfinished"/>
+        <translation>Некруглые формы отверстий больше не поддерживаются, теперь все отверстия заменены на круглые.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="540"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
-        <translation type="unfinished"/>
+        <translation>Расчеты площади плоскости были скорректированы, рекомендуется ручная проверка и запуск DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="547"/>
         <source>Vias within planes with connect style &apos;None&apos; are now fully connected to the planes since the connect style is no longer respected for vias. You might want to remove traces now which are no longer needed to connect these vias.</source>
-        <translation type="unfinished"/>
+        <translation>Расчеты площади плоскости были скорректированы, рекомендуется ручная проверка и запуск DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="557"/>
         <source>Board cutouts now have a dedicated layer, thus nested board outline polygons and circles have automatically been moved to the cutouts layer. As the auto-detection is not perfect, please check if each cutout has been converted correctly. The easiest way is to review the PCB in the 3D viewer.</source>
-        <translation type="unfinished"/>
+        <translation>Для вырезов платы теперь выделен отдельный слой, поэтому вложенные полигоны и круги контуров платы автоматически перемещаются на слой с вырезами. Поскольку автоопределение не идеально, проверьте, правильно ли преобразована каждая вырезка. Самый простой способ - просмотреть печатную плату в 3D-вьювере.</translation>
     </message>
 </context>
 <context>
