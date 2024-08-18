@@ -2645,7 +2645,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1124"/>
         <source>Generate Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Создать внутренний двор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1125"/>
@@ -2760,7 +2760,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1226"/>
         <source>Decrease Drill</source>
-        <translation type="unfinished"/>
+        <translation>Уменьшить Сверло</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1227"/>
@@ -2770,7 +2770,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1235"/>
         <source>Toggle Auto-Width</source>
-        <translation type="unfinished"/>
+        <translation>Включить автоматическую ширину</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1236"/>
@@ -2780,17 +2780,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1244"/>
         <source>Toggle Fill</source>
-        <translation type="unfinished"/>
+        <translation>Переключить заливку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1245"/>
         <source>Toggle the fill property state</source>
-        <translation type="unfinished"/>
+        <translation>Переключение состояния свойства заполнения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1253"/>
         <source>Toggle Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Переключение области захвата</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1254"/>
@@ -3011,7 +3011,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1455"/>
         <source>Docks</source>
-        <translation type="unfinished"/>
+        <translation>Документы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1459"/>
@@ -3021,7 +3021,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1460"/>
         <source>Go to the pages dock</source>
-        <translation type="unfinished"/>
+        <translation>Перейдите на страницу с документом</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1468"/>
@@ -3051,7 +3051,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1487"/>
         <source>Go to the layers dock</source>
-        <translation type="unfinished"/>
+        <translation>Перейдите в панель слоев</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1495"/>
@@ -3061,12 +3061,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1496"/>
         <source>Go to the dock for placing devices</source>
-        <translation type="unfinished"/>
+        <translation>Перейдите в док для размещения устройств</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1504"/>
         <source>Window Management</source>
-        <translation type="unfinished"/>
+        <translation>Управление окнами</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1508"/>
@@ -3261,7 +3261,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1676"/>
         <source>Select Whole Trace</source>
-        <translation type="unfinished"/>
+        <translation>Выберите весь след</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1677"/>
@@ -3281,17 +3281,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1694"/>
         <source>Remove Whole Trace</source>
-        <translation type="unfinished"/>
+        <translation>Удалить все следы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1695"/>
         <source>Remove the whole trace</source>
-        <translation type="unfinished"/>
+        <translation>Удалить весь след</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1704"/>
         <source>Toggle placement lock</source>
-        <translation type="unfinished"/>
+        <translation>Переключение блокировки размещения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1712"/>
@@ -3306,17 +3306,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1721"/>
         <source>Copy MPN to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Копирование MPN в буфер обмена</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1722"/>
         <source>Copy this MPN into the clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Скопируйте этот MPN в буфер обмена</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1730"/>
         <source>Open Product Website</source>
-        <translation type="unfinished"/>
+        <translation>Открытый сайт продукта</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1731"/>
@@ -3326,7 +3326,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1739"/>
         <source>Open Pricing Website</source>
-        <translation type="unfinished"/>
+        <translation>Открытый веб-сайт по прайсам</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1740"/>
@@ -3430,7 +3430,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="167"/>
         <source>Unplaced gate: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неустановленные ворота: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="169"/>
@@ -3553,27 +3553,27 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="572"/>
         <source>Not Specified</source>
-        <translation type="unfinished"/>
+        <translation>Не указано</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="574"/>
         <source>Standard Pad (soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Стандартная колодка (припаяна)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="576"/>
         <source>Press-Fit Pad (THT, soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Прижимная колодка (THT, припаяна)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="578"/>
         <source>Thermal Pad (SMT, soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Тепловая панель (SMT, паяная)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="580"/>
         <source>BGA Pad (SMT, soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Площадка BGA (SMT, паяная)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="582"/>
@@ -3610,12 +3610,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/job/gerberx3outputjob.cpp" line="40"/>
         <source>Pick&amp;Place X3</source>
-        <translation type="unfinished"/>
+        <translation>Выбери и разместись X3</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/gerberx3outputjob.h" line="84"/>
         <source>Pick&amp;Place (Gerber X3)</source>
-        <translation type="unfinished"/>
+        <translation>Выбери и размести (Gerber X3)</translation>
     </message>
 </context>
 <context>
@@ -3623,12 +3623,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.cpp" line="191"/>
         <source>Schematic PDF</source>
-        <translation type="unfinished"/>
+        <translation>Схема PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.cpp" line="201"/>
         <source>Board Assembly PDF</source>
-        <translation type="unfinished"/>
+        <translation>Монтаж платы PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="120"/>
@@ -3653,7 +3653,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="246"/>
         <source>PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>PDF/Изображение</translation>
     </message>
 </context>
 <context>
@@ -3662,7 +3662,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="93"/>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="147"/>
         <source>Sheet Frames</source>
-        <translation type="unfinished"/>
+        <translation>Листовые рамы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="99"/>
@@ -3680,7 +3680,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="111"/>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="198"/>
         <source>Guide</source>
-        <translation type="unfinished"/>
+        <translation>Путеводитель</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="117"/>
@@ -3715,17 +3715,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="160"/>
         <source>Board Cutouts</source>
-        <translation type="unfinished"/>
+        <translation>Разрезные платы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="167"/>
         <source>Plated Board Cutouts</source>
-        <translation type="unfinished"/>
+        <translation>Разрезные платы с покрытием</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="174"/>
         <source>Measures</source>
-        <translation type="unfinished"/>
+        <translation>Меры</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="180"/>
@@ -3740,7 +3740,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="210"/>
         <source>Bottom Names</source>
-        <translation type="unfinished"/>
+        <translation>Нижние названия</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="216"/>
@@ -3750,17 +3750,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="222"/>
         <source>Bottom Values</source>
-        <translation type="unfinished"/>
+        <translation>Нижние значения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="228"/>
         <source>Top Legend</source>
-        <translation type="unfinished"/>
+        <translation>Топ-легенда</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="234"/>
         <source>Bottom Legend</source>
-        <translation type="unfinished"/>
+        <translation>Нижняя легенда</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="240"/>
@@ -3770,12 +3770,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="247"/>
         <source>Bottom Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Нижняя документация</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="254"/>
         <source>Top Package Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Конспекты лучших пакетов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="262"/>
@@ -3790,7 +3790,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="278"/>
         <source>Bottom Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Нижний двор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="286"/>
@@ -3800,17 +3800,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="293"/>
         <source>Bottom Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Нижние скрытые зоны захвата</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="300"/>
         <source>Top Stop Mask</source>
-        <translation type="unfinished"/>
+        <translation>Топ-стоп маска</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="307"/>
         <source>Bottom Stop Mask</source>
-        <translation type="unfinished"/>
+        <translation>Маска для нижней остановки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="314"/>
@@ -3820,7 +3820,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="321"/>
         <source>Bottom Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Нижняя паяльная паста</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="328"/>
@@ -3830,17 +3830,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="334"/>
         <source>Bottom Finish</source>
-        <translation type="unfinished"/>
+        <translation>Финишная отделка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="340"/>
         <source>Top Glue</source>
-        <translation type="unfinished"/>
+        <translation>Верхний клей</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="346"/>
         <source>Bottom Glue</source>
-        <translation type="unfinished"/>
+        <translation>Нижний клей</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="352"/>
@@ -3850,7 +3850,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="359"/>
         <source>Bottom Copper</source>
-        <translation type="unfinished"/>
+        <translation>Нижняя медь</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="369"/>
@@ -3860,7 +3860,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="455"/>
         <source>Unknown layer: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неизвестный слой: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -3868,7 +3868,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/length.h" line="678"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"/>
+        <translation>Значение должно быть &gt;= 0!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/length.h" line="794"/>
@@ -4837,7 +4837,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/ratio.h" line="312"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"/>
+        <translation>Значение должно быть &gt;= 0!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/ratio.h" line="358"/>
@@ -5079,7 +5079,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="93"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="121"/>
         <source>Guide</source>
-        <translation type="unfinished"/>
+        <translation>Путеводитель</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="94"/>
@@ -5170,7 +5170,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="117"/>
         <source>Measures</source>
-        <translation type="unfinished"/>
+        <translation>Меры</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="118"/>
