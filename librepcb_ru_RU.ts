@@ -1024,7 +1024,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1509"/>
         <source>Invalid connection of pad &apos;%1&apos; on &apos;%2&apos;</source>
         <comment>Placeholders: Pad name, layer name</comment>
-        <translation type="unfinished"/>
+        <translation>Неверное подключение площадки &apos;%1&apos; к &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1512"/>
@@ -4591,7 +4591,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="668"/>
         <source>Suspicious function of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Подозрительная функция подложки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="670"/>
@@ -4601,7 +4601,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
  - Function is intended for SMT pads but pad is THT
  - Function is electrical but pad is not connected
  - Function is fiducial but pad is connected</source>
-        <translation type="unfinished"/>
+        <translation>Настроенная функция блокнота не соответствует другим свойствам блокнота и поэтому выглядит подозрительно. Возможные причины:
+
+- Функция предназначена для колодок THT, но колодка SMT
+- Функция предназначена для SMT-площадок, но площадка - THT
+- Функция электрическая, но колодка не подключена
+- Функция является фидуциальной, но колодка подключена</translation>
     </message>
 </context>
 <context>
@@ -4614,7 +4619,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="147"/>
         <source>Every pin must be placed exactly on the %1mm grid, otherwise it cannot be connected in the schematic editor.</source>
-        <translation type="unfinished"/>
+        <translation>Каждый вывод должен быть расположен точно на сетке %1 мм, иначе его нельзя будет подключить в редакторе схем.</translation>
     </message>
 </context>
 <context>
@@ -4622,12 +4627,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="695"/>
         <source>Solder paste on THT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Паяльная паста на THT-площадке &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="697"/>
         <source>The THT pad has solder paste enabled, which is very unusual since through-hole components are usually not reflow soldered. Also the solder paste could flow into the pads hole, possibly causing troubles during THT assembly. Double-check if this is really what you want.</source>
-        <translation type="unfinished"/>
+        <translation>На площадку THT нанесена паяльная паста, что очень необычно, поскольку сквозные компоненты обычно не паяются. Кроме того, паяльная паста может затекать в отверстие колодки, что может привести к проблемам при сборке THT. Дважды проверьте, действительно ли это то, что вам нужно.</translation>
     </message>
 </context>
 <context>
@@ -4635,17 +4640,17 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="721"/>
         <source>Unspecified function of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неопределенная функция прокладки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="723"/>
         <source>The function of the pad is not specified, which could lead to inaccurate or wrong data in exports (e.g. pick&amp;place files). Also the automatic checks can detect more potential issues if the function is specified. Thus it&apos;s recommended to explicitly specify the function of each pad.</source>
-        <translation type="unfinished"/>
+        <translation>Функция прокладки не указана, что может привести к неточным или неверным данным в экспортируемых файлах (например, файлах pick&amp;place). Кроме того, автоматические проверки могут обнаружить больше потенциальных проблем, если функция указана. Поэтому рекомендуется явно указывать функцию каждой накладки.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="729"/>
         <source>However, the image data of a PCB is not affected by the pad function.</source>
-        <translation type="unfinished"/>
+        <translation>Однако функция прокладки не влияет на данные изображения печатной платы.</translation>
     </message>
 </context>
 <context>
@@ -4653,12 +4658,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="750"/>
         <source>Unused custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неиспользованный пользовательский контур площадки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="752"/>
         <source>The pad has set a custom outline but it isn&apos;t used as the shape. So it has no effect and should be removed to avoid confusion.</source>
-        <translation type="unfinished"/>
+        <translation>В подкладке задан пользовательский контур, но он не используется в качестве формы. Поэтому он не имеет никакого эффекта и должен быть удален, чтобы избежать путаницы.</translation>
     </message>
 </context>
 <context>
@@ -4671,7 +4676,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="774"/>
         <source>The keepout zone has no layer or rule enabled so it has no effect. Either correct its properties or remove it from the footprint.</source>
-        <translation type="unfinished"/>
+        <translation>У зоны keepout нет включенного слоя или правила, поэтому она не имеет эффекта. Либо исправьте ее свойства, либо удалите ее из отпечатка.</translation>
     </message>
 </context>
 <context>
@@ -4684,7 +4689,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="798"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Текстовый элемент &apos;%1&apos; обычно должен находиться на слое &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -4697,7 +4702,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="168"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Текстовый элемент &apos;%1&apos; обычно должен находиться на слое &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -4899,12 +4904,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="473"/>
         <source>There is no element of type &quot;%1&quot; with the UUID &quot;%2&quot; in the list.</source>
-        <translation type="unfinished"/>
+        <translation>В списке нет элемента типа &quot;%1&quot; с UUID &quot;%2&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/serializableobjectlist.h" line="482"/>
         <source>There is no element of type &quot;%1&quot; with the name &quot;%2&quot; in the list.</source>
-        <translation type="unfinished"/>
+        <translation>В списке нет элемента типа &quot;%1&quot; с именем &quot;%2&quot;.</translation>
     </message>
 </context>
 <context>
@@ -4973,7 +4978,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/systeminfo.cpp" line="295"/>
         <source>sysctl() failed with retval=%1 and errno=%2.</source>
-        <translation type="unfinished"/>
+        <translation>sysctl() не удалось выполнить с параметрами retval=%1 и errno=%2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/systeminfo.cpp" line="310"/>
@@ -5323,7 +5328,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/utils/toolbox.h" line="693"/>
         <source>Invalid fixed point number string: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Недопустимая строка чисел с фиксированной точкой: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -5352,7 +5357,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../apps/librepcb/main.cpp" line="223"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось открыть рабочую область &quot;%1&quot;:</translation>
     </message>
 </context>
 <context>
@@ -5366,7 +5371,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/network/orderpcbapirequest.cpp" line="81"/>
         <source>The project is too large (%1). If you manually added files to the project directory, you might need to move them out of the project directory.</source>
         <comment>Placeholder is the file size.</comment>
-        <translation type="unfinished"/>
+        <translation>Проект слишком велик (%1). Если вы вручную добавили файлы в каталог проекта, возможно, вам нужно переместить их из каталога проекта.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_netsegment.cpp" line="68"/>
