@@ -3873,7 +3873,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/length.h" line="794"/>
         <source>Value must be &gt; 0!</source>
-        <translation type="unfinished"/>
+        <translation>Значение должно быть &gt; 0!</translation>
     </message>
 </context>
 <context>
@@ -3890,7 +3890,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/job/lppzoutputjob.cpp" line="40"/>
         <location filename="../libs/librepcb/core/job/lppzoutputjob.h" line="66"/>
         <source>Project Archive</source>
-        <translation type="unfinished"/>
+        <translation>Архив проекта</translation>
     </message>
 </context>
 <context>
@@ -3913,7 +3913,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="123"/>
         <source>&amp;Schematic</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Схема</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="127"/>
@@ -3923,7 +3923,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="131"/>
         <source>&amp;Project</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Проект</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="135"/>
@@ -3933,7 +3933,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="139"/>
         <source>&amp;Extras</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Экстры</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="143"/>
@@ -3943,7 +3943,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="147"/>
         <source>Go to &amp;Dock</source>
-        <translation type="unfinished"/>
+        <translation>Перейдите в раздел &amp;Док</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="151"/>
