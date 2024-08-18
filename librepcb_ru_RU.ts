@@ -5840,17 +5840,17 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="381"/>
         <source>Failed to export image &quot;%1&quot;. Check file permissions and make sure to use a supported image file extension.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось экспортировать изображение &quot;%1&quot;. Проверьте права доступа к файлу и убедитесь, что используется поддерживаемое расширение файла изображения.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="403"/>
         <source>Failed to finish PDF export. Check permissions of output file.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось завершить экспорт PDF. Проверьте права доступа к выходному файлу.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="407"/>
         <source>Failed to finish printing with unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось завершить печать с неизвестной ошибкой.</translation>
     </message>
 </context>
 <context>
@@ -5869,7 +5869,10 @@ For THT pads, the origin must be located within a drill hole since on some layer
 You need at least LibrePCB %1 to open it.
 
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Этот библиотечный элемент был создан в более новой версии приложения.
+Чтобы открыть его, требуется как минимум LibrePCB %1.
+
+%2</translation>
     </message>
 </context>
 <context>
@@ -5877,7 +5880,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/circuit/netclass.cpp" line="81"/>
         <source>The net class &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>Класс сети &quot;%1&quot; не может быть удален, потому что он все еще используется!</translation>
     </message>
 </context>
 <context>
@@ -5885,7 +5888,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/circuit/netsignal.cpp" line="120"/>
         <source>The net signal &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>Сетевой сигнал &quot;%1&quot; не может быть удален, потому что он все еще используется!</translation>
     </message>
 </context>
 <context>
@@ -5989,7 +5992,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/network/orderpcbapirequest.cpp" line="134"/>
         <source>This service is currently not available. Please try again later or order the PCB manually either with the Gerber export or the *.lppz export.</source>
-        <translation type="unfinished"/>
+        <translation>В настоящее время эта услуга недоступна. Пожалуйста, повторите попытку позже или закажите печатную плату вручную либо с экспортом Gerber, либо с экспортом *.lppz.</translation>
     </message>
 </context>
 <context>
@@ -5997,12 +6000,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="123"/>
         <source>Attempted to write the output file &apos;%1&apos; multiple times!</source>
-        <translation type="unfinished"/>
+        <translation>Попытка записи выходного файла &apos;%1&apos; повторялась несколько раз!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="126"/>
         <source>Make sure to specify unique output file paths, e.g. by using placeholders like &apos;%1&apos; or &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Обязательно указывайте уникальные пути к выходным файлам, например, с помощью заполнителей типа &apos;%1&apos; или &apos;%2&apos;.</translation>
     </message>
 </context>
 <context>
@@ -6015,32 +6018,32 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="248"/>
         <source>You may need a more recent LibrePCB version to run this job.</source>
-        <translation type="unfinished"/>
+        <translation>Для выполнения этого задания вам может понадобиться более новая версия LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="254"/>
         <source>No output files were generated, check the job configuration.</source>
-        <translation type="unfinished"/>
+        <translation>Выходные файлы не были созданы, проверьте конфигурацию задания.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="389"/>
         <source>No technologies selected, thus the output files won&apos;t contain any entries.</source>
-        <translation type="unfinished"/>
+        <translation>Технологии не выбраны, поэтому выходные файлы не будут содержать записей.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="634"/>
         <source>The input file must be located within the project directory, specified by a relative file path.</source>
-        <translation type="unfinished"/>
+        <translation>Входной файл должен находиться в директории проекта, указанной относительным путем к файлу.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="669"/>
         <source>The archive job depends on files from another job which was not run yet. Note that archive jobs can only depend on jobs further ahead in the list so you might need to reorder them.</source>
-        <translation type="unfinished"/>
+        <translation>Архивное задание зависит от файлов другого задания, которое еще не было запущено. Обратите внимание, что архивные задания могут зависеть только от заданий, расположенных дальше в списке, поэтому вам может понадобиться изменить их порядок.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="681"/>
         <source>No input jobs selected, thus the resulting archive will be empty.</source>
-        <translation type="unfinished"/>
+        <translation>Не выбрано ни одного входного задания, поэтому результирующий архив будет пустым.</translation>
     </message>
 </context>
 <context>
@@ -6048,7 +6051,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="69"/>
         <source>The suffix of the project file must be &quot;lpp&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Суффикс файла проекта должен быть &quot;lpp&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="230"/>
@@ -6058,12 +6061,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="237"/>
         <source>There is already a schematic with the directory name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Уже существует схема с именем каталога &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="264"/>
         <source>There are still elements in the schematic &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>В схеме &quot;%1&quot; еще есть элементы!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="317"/>
@@ -6073,7 +6076,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="324"/>
         <source>There is already a board with the directory name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Уже существует плата с названием каталога &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="518"/>
@@ -6091,7 +6094,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="110"/>
         <source>Directory does not contain a LibrePCB project: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Каталог не содержит проекта LibrePCB: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="122"/>
@@ -6151,7 +6154,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="189"/>
         <source>The export completed, but there were %1 errors!</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт завершен, но возникла %1 ошибка!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="191"/>
@@ -6222,12 +6225,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="154"/>
         <source>The directory &quot;%1&quot; is not a valid LibrePCB workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Каталог &quot;%1&quot; не является действительной рабочей областью LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="166"/>
         <source>The workspace &quot;%1&quot; requires LibrePCB %2 or later.</source>
-        <translation type="unfinished"/>
+        <translation>Для рабочей области &quot;%1&quot; требуется LibrePCB %2 или более поздней версии.</translation>
     </message>
 </context>
 <context>
@@ -6240,23 +6243,23 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="525"/>
         <source>Attention: Project has been upgraded to a newer file format!</source>
-        <translation type="unfinished"/>
+        <translation>Внимание: Проект перешел на новый формат файлов!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="546"/>
         <source>Set default assembly variant to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Установите вариант сборки по умолчанию на &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="551"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="565"/>
         <source>ERROR: No assembly variant with the name &apos;%1&apos; found.</source>
-        <translation type="unfinished"/>
+        <translation>ОШИБКА: Вариант сборки с названием &apos;%1&apos; не найден.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="580"/>
         <source>ERROR: Assembly variant index &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>ОШИБКА: Индекс варианта сборки &apos;%1&apos; недопустим.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="602"/>
@@ -6266,7 +6269,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="615"/>
         <source>ERROR: Board index &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>ОШИБКА: Индекс платы &apos;%1&apos; недопустим.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="623"/>
@@ -6320,12 +6323,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="742"/>
         <source>ERROR: Failed to load custom output jobs: %1</source>
-        <translation type="unfinished"/>
+        <translation>ОШИБКА: Не удалось загрузить пользовательские задания вывода: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="758"/>
         <source>ERROR: No output job with the name &apos;%1&apos; found.</source>
-        <translation type="unfinished"/>
+        <translation>ОШИБКА: Задание на вывод с именем &apos;%1&apos; не найдено.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="769"/>
@@ -6382,7 +6385,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="943"/>
         <source>Export %1 assembly data to &apos;%2&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт данных сборки %1 в &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="983"/>
@@ -6397,12 +6400,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1029"/>
         <source>ERROR: The file &apos;%1&apos; was written multiple times!</source>
-        <translation type="unfinished"/>
+        <translation>ОШИБКА: Файл &apos;%1&apos; был записан несколько раз!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1034"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
-        <translation type="unfinished"/>
+        <translation>ПРИМЕЧАНИЕ: Чтобы избежать многократной записи файлов, убедитесь, что все функции экспорта передают уникальные пути к файлам. Для файлов вывода плат вы можете либо добавить к пути заполнитель &apos;%1&apos;, либо указать платы для экспорта с помощью аргумента &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1045"/>
@@ -6463,7 +6466,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="174"/>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="256"/>
         <source>Skipped graphics object on layer %1 (%2).</source>
-        <translation type="unfinished"/>
+        <translation>Пропущен графический объект на слое %1 (%2).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="185"/>
@@ -6474,17 +6477,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="369"/>
         <source>Dependent symbol &quot;%1&quot; not imported.</source>
-        <translation type="unfinished"/>
+        <translation>Зависимый символ &quot;%1&quot; не импортирован.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="435"/>
         <source>Dependent component &quot;%1&quot; not imported.</source>
-        <translation type="unfinished"/>
+        <translation>Зависимый компонент &quot;%1&quot; не импортирован.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="443"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
-        <translation type="unfinished"/>
+        <translation>Зависимый пакет &quot;%1&quot; не импортирован.</translation>
     </message>
 </context>
 <context>
@@ -6502,7 +6505,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="398"/>
         <source>Skipped component due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Пропущен компонент из-за ошибки: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="424"/>
@@ -6521,32 +6524,32 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="131"/>
         <source>Project contains no schematic sheets.</source>
-        <translation type="unfinished"/>
+        <translation>Проект не содержит схем.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="135"/>
         <source>Project contains modules which are not supported yet!</source>
-        <translation type="unfinished"/>
+        <translation>Проект содержит модули, которые пока не поддерживаются!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="139"/>
         <source>Project contains buses which are not supported yet!</source>
-        <translation type="unfinished"/>
+        <translation>Проект содержит шины, которые пока не поддерживаются!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="165"/>
         <source>Importing project, this may take a moment...</source>
-        <translation type="unfinished"/>
+        <translation>Импортируем проект, это может занять некоторое время...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="166"/>
         <source>If you experience any issues with the import, please &lt;a href=&quot;%1&quot;&gt;let us know&lt;/a&gt; so we can improve it.</source>
-        <translation type="unfinished"/>
+        <translation>Если у вас возникнут какие-либо проблемы с импортом, пожалуйста&lt;a href=&quot;%1&quot;&gt;, сообщите нам&lt;/a&gt;, чтобы мы могли улучшить его.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="233"/>
         <source>Skipped modules because they are not supported yet!</source>
-        <translation type="unfinished"/>
+        <translation>Пропустите модули, потому что они еще не поддерживаются!</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="248"/>
@@ -6556,7 +6559,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="253"/>
         <source>Imported a board. Please run the DRC in the board editor and fix remaining issues manually.</source>
-        <translation type="unfinished"/>
+        <translation>Импортирована плата. Пожалуйста, запустите DRC в редакторе плат и устраните оставшиеся проблемы вручную.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="257"/>
@@ -6575,7 +6578,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="509"/>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="967"/>
         <source>Skipped graphics object on layer %1 (%2).</source>
-        <translation type="unfinished"/>
+        <translation>Пропущен графический объект на слое %1 (%2).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="609"/>
@@ -6590,7 +6593,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="626"/>
         <source>XRef-style net label is not supported, converting to normal net label.</source>
-        <translation type="unfinished"/>
+        <translation>Сетевая метка в стиле XRef не поддерживается, преобразуйте ее в обычную сетевую метку.</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="680"/>
@@ -6600,22 +6603,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1072"/>
         <source>Square/octagon via shape not supported, converting to circular.</source>
-        <translation type="unfinished"/>
+        <translation>Квадрат/октагон через форму не поддерживается, преобразовывается в круглую.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1146"/>
         <source>Dashed/dotted trace is not supported, converting to continuous.</source>
-        <translation type="unfinished"/>
+        <translation>Пунктирная/точечная трассировка не поддерживается, преобразуется в непрерывную.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1151"/>
         <source>Flat trace end is not supported, converting to round.</source>
-        <translation type="unfinished"/>
+        <translation>Плоский конец трассировки не поддерживается, преобразовывается в круглый.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1155"/>
         <source>Curved trace is not supported, converting to straight.</source>
-        <translation type="unfinished"/>
+        <translation>Изогнутая трассировка не поддерживается, преобразуйте ее в прямую.</translation>
     </message>
 </context>
 <context>
@@ -6658,12 +6661,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="240"/>
         <source>Please enter a valid project path with &apos;%1&apos; file extension.</source>
-        <translation type="unfinished"/>
+        <translation>Пожалуйста, введите правильный путь к проекту с расширением файла &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="252"/>
         <source>The selected directory is not empty.</source>
-        <translation type="unfinished"/>
+        <translation>Выбранный каталог не пуст.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="47"/>
@@ -6780,12 +6783,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="325"/>
         <source>Click on the link to copy the text into the clipboard.</source>
-        <translation type="unfinished"/>
+        <translation>Щелкните по ссылке, чтобы скопировать текст в буфер обмена.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="328"/>
         <source>When reporting an issue, please &lt;a href=&apos;copy&apos;&gt;copy this text&lt;/a&gt; into the report.</source>
-        <translation type="unfinished"/>
+        <translation>Сообщая о проблеме, пожалуйста&lt;a href=&apos;copy&apos;&gt;, скопируйте &lt;/a&gt;этот текст в отчет.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="60"/>
