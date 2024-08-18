@@ -3948,12 +3948,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="151"/>
         <source>&amp;Show/Hide Docks</source>
-        <translation type="unfinished"/>
+        <translation>Показать/скрыть доки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="156"/>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Импорт</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="161"/>
@@ -3963,32 +3963,32 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="166"/>
         <source>Production &amp;Data</source>
-        <translation type="unfinished"/>
+        <translation>Производство и данные</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="171"/>
         <source>Line &amp;Width</source>
-        <translation type="unfinished"/>
+        <translation>Линия и ширина</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="175"/>
         <source>Change &amp;Device</source>
-        <translation type="unfinished"/>
+        <translation>Изменить &amp;Устройство</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="180"/>
         <source>Change &amp;Footprint</source>
-        <translation type="unfinished"/>
+        <translation>Изменение &amp;Отпечатка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="185"/>
         <source>Change 3D &amp;Model</source>
-        <translation type="unfinished"/>
+        <translation>Изменение 3D и модели</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="191"/>
         <source>Move to Other Library</source>
-        <translation type="unfinished"/>
+        <translation>Перейти в другую библиотеку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="193"/>
@@ -4014,7 +4014,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="36"/>
         <source>No part numbers added</source>
-        <translation type="unfinished"/>
+        <translation>Номера деталей не добавлены</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="37"/>
@@ -4101,7 +4101,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="136"/>
         <source>No stop mask on %1 hole in &apos;%2&apos;</source>
         <comment>First placeholder is the hole diameter.</comment>
-        <translation type="unfinished"/>
+        <translation>Отсутствие маски остановки на отверстии %1 в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="140"/>
@@ -4127,7 +4127,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="186"/>
         <source>Invalid pad connection in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неверное соединение с площадкой в &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="188"/>
@@ -4155,7 +4155,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="266"/>
         <source>Minimum width of &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Минимальная ширина &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="272"/>
@@ -4228,7 +4228,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="286"/>
         <source>Missing courtyard in footprint &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствующий двор в отпечатке &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="288"/>
@@ -4259,7 +4259,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="323"/>
         <source>No 3D model defined for &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Для &apos;%1&apos; не определена 3D-модель</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="325"/>
@@ -4298,7 +4298,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="386"/>
         <source>Missing outline in footprint &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствующий контур в отпечатке &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="388"/>
@@ -4376,7 +4376,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="53"/>
         <source>No pads connected</source>
-        <translation type="unfinished"/>
+        <translation>Колодки не подключены</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="54"/>
@@ -4397,7 +4397,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="126"/>
         <source>Non-functional inversion sign: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Нефункциональный знак инверсии: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="127"/>
@@ -4414,7 +4414,7 @@ It&apos;s recommended to prefix inverted signal names with &apos;%1&apos;, regar
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="87"/>
         <source>Non-functional inversion sign: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Нефункциональный знак инверсии: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="88"/>
@@ -4457,7 +4457,7 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="433"/>
         <source>Annular ring of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Кольцевое кольцо колодки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="435"/>
@@ -4496,7 +4496,7 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="514"/>
         <source>Invalid origin of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Недопустимое происхождение колодки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="516"/>
@@ -4526,7 +4526,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="566"/>
         <source>Solder resist on pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Сопротивление припоя на площадке &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="568"/>
@@ -4578,7 +4578,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="53"/>
         <source>Suspicious assembly type</source>
-        <translation type="unfinished"/>
+        <translation>Подозрительный тип сборки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="54"/>
@@ -4614,7 +4614,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="145"/>
         <source>Pin not on %1mm grid: &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Штифт не входит в сетку %1 мм: &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="147"/>
@@ -4671,7 +4671,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="772"/>
         <source>Useless keepout zone in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Бесполезная зона сохранения в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="774"/>
@@ -4684,7 +4684,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="795"/>
         <source>Layer of &apos;%1&apos; in &apos;%2&apos; is not &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Слой &apos;%1&apos; в &apos;%2&apos; не является &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="798"/>
@@ -4697,7 +4697,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="166"/>
         <source>Layer of &apos;%1&apos; is not &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Слой &apos;%1&apos; не является &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="168"/>
@@ -4711,7 +4711,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/job/netlistoutputjob.cpp" line="39"/>
         <location filename="../libs/librepcb/core/job/netlistoutputjob.h" line="68"/>
         <source>Netlist</source>
-        <translation type="unfinished"/>
+        <translation>Нетлист</translation>
     </message>
 </context>
 <context>
@@ -4719,12 +4719,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="441"/>
         <source>Failed to write STEP file.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось записать файл STEP.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="646"/>
         <source>Failed to read STEP file!</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось прочитать файл STEP!</translation>
     </message>
 </context>
 <context>
