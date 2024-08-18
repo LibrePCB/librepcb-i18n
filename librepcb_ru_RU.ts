@@ -1038,7 +1038,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1289"/>
         <source>Via annular ring of &apos;%1&apos; &lt; %2 %3</source>
         <comment>Placeholders: Net name, minimum annular width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Через кольцевое отверстие &apos;%1&apos; &lt; %2 %3</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1293"/>
@@ -1054,7 +1054,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1311"/>
         <source>Pad annular ring of &apos;%1&apos; &lt; %2 %3</source>
         <comment>Placeholders: Net name, minimum annular width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Кольцевое кольцо колодки &apos;%1&apos; &lt; %2 %3</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1314"/>
@@ -1133,13 +1133,13 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1461"/>
         <source>Pad slot width of &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Net name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Ширина слота &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1478"/>
         <source>NPTH slot width: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Ширина слота NPTH: %1 &lt; %2 %3</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1488"/>
@@ -1163,7 +1163,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="285"/>
         <source>Text height on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual height, minimum height, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Высота текста на &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="290"/>
@@ -1182,7 +1182,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="316"/>
         <source>Trace width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Ширина трассировки на &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="321"/>
@@ -1214,7 +1214,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="360"/>
         <source>Polygon width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Ширина многоугольника на &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="365"/>
@@ -1232,7 +1232,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="381"/>
         <source>Stroke width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Ширина штриха на &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="386"/>
@@ -1272,7 +1272,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="157"/>
         <source>Missing board outline</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствующий контур платы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="158"/>
@@ -6798,7 +6798,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="88"/>
         <source>LibrePCB is a free &amp;amp; open source schematic/layout-editor. It is mainly developed by Urban Bruhin, with the support of &lt;a href=&apos;%1&apos;&gt;many other contributors&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB - это бесплатный &amp;amp; редактор схем и макетов с открытым исходным кодом. Он в основном разработан Урбаном Брухиным при поддержке &lt;a href=&apos;%1&apos;&gt;многих других авторов&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="93"/>
@@ -6808,7 +6808,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="95"/>
         <source>For more information, check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Дополнительную информацию можно найти на сайте &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; или в нашем репозитории на &lt;a href=&apos;%2&apos;&gt;GitHub&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="101"/>
@@ -6818,7 +6818,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="103"/>
         <source>If you need help, please check out the &lt;a href=&apos;%1&apos;&gt;documentation&lt;/a&gt; or &lt;a href=&apos;%2&apos;&gt;contact us&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Если вам нужна помощь, ознакомьтесь с &lt;a href=&apos;%1&apos;&gt;документацией&lt;/a&gt; или &lt;a href=&apos;%2&apos;&gt;свяжитесь с нами&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="107"/>
@@ -6828,12 +6828,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="109"/>
         <source>LibrePCB is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text &lt;a href=&apos;%1&apos;&gt;in our source code&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB - это свободное программное обеспечение, выпускаемое под лицензией GNU General Public License (GPL) версии 3 или более поздней. Полный текст&lt;a href=&apos;%1&apos;&gt; лицензии вы можете найти в нашем исходном коде&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="123"/>
         <source>LibrePCB is a community project, and therefore it relies on contributions! There are different ways you can contribute:</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB - это проект сообщества, и поэтому он зависит от вклада! Вы можете внести свой вклад разными способами:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="126"/>
@@ -6843,7 +6843,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="128"/>
         <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal, Bitcoin or other ways. Check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; for details.</source>
-        <translation type="unfinished"/>
+        <translation>Поддержите устойчивое развитие LibrePCB, сделав финансовое пожертвование через Patreon, PayPal, Bitcoin или другими способами. Подробности смотрите на &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="133"/>
@@ -6853,7 +6853,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="135"/>
         <source>If you&apos;re interested in helping us to develop LibrePCB, check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; to see how you can contribute!</source>
-        <translation type="unfinished"/>
+        <translation>Если вы хотите помочь нам в развитии LibrePCB, загляните в раздел &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, чтобы узнать, как вы можете внести свой вклад!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="140"/>
@@ -6868,7 +6868,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="153"/>
         <source>This project relies on &lt;a href=&apos;%1&apos;&gt;many contributors&lt;/a&gt;, sponsors and other open-source components like software libraries or icons. Many thanks to all the people and projects supporting LibrePCB!</source>
-        <translation type="unfinished"/>
+        <translation>Этот проект опирается на &lt;a href=&apos;%1&apos;&gt;множество авторов&lt;/a&gt;, спонсоров и других компонентов с открытым исходным кодом, таких как программные библиотеки или иконки. Большое спасибо всем людям и проектам, поддерживающим LibrePCB!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="159"/>
@@ -6878,7 +6878,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="161"/>
         <source>For the list of current sponsors, see &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Список текущих спонсоров смотрите в разделе &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="165"/>
@@ -6888,7 +6888,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="167"/>
         <source>Some of the icons used in LibrePCB are provided by &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, thank you!</source>
-        <translation type="unfinished"/>
+        <translation>Некоторые иконки, используемые в LibrePCB, предоставлены &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, спасибо!</translation>
     </message>
 </context>
 <context>
@@ -6906,7 +6906,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.ui" line="244"/>
         <source>If checked, this dialog will automatically be opened again after finishing placement of the current component.</source>
-        <translation type="unfinished"/>
+        <translation>Если флажок установлен, этот диалог будет автоматически открываться снова после завершения размещения текущего компонента.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.ui" line="247"/>
@@ -7029,7 +7029,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="269"/>
         <source>&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically. It&apos;s highly recommended to use &amp;quot;Install Libraries&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Загрузка библиотеки в формате zip из Интернета и сохранение ее в качестве локальной библиотеки.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt; Примечание: Библиотеки, загруженные таким образом, не могут обновляться автоматически. Настоятельно рекомендуется использовать &amp;quot;Установку библиотек&amp;quot;, когда это возможно. &lt;/span&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="286"/>
@@ -7162,7 +7162,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="40"/>
         <source>Bundle the output of other jobs in a single archive file.</source>
-        <translation type="unfinished"/>
+        <translation>Соберите вывод других заданий в один архивный файл.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="57"/>
@@ -7325,7 +7325,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The schematic contains components which are not placed yet on this board. You can add them with the &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Place Devices&lt;/span&gt;&lt;/a&gt; dock.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Схема содержит компоненты, которые еще не размещены на этой плате. Вы можете добавить их с помощью &lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;&lt;a href=&quot;PlaceDevicesDock&quot;&gt;дока Place Devices&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="170"/>
@@ -7581,7 +7581,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="81"/>
         <source>Your circuit doesn&apos;t contain any net, please add one in the schematic editor first.</source>
-        <translation type="unfinished"/>
+        <translation>Ваша схема не содержит сетки, пожалуйста, сначала добавьте ее в редакторе схем.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="89"/>
@@ -7802,7 +7802,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1746"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
-        <translation type="unfinished"/>
+        <translation>ПРЕДУПРЕЖДЕНИЕ: Выбран %1 сегмент трассы, но не все из них соединены!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1775"/>
@@ -7873,7 +7873,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="117"/>
         <source>*) Adds additional information to the files, but might cause issues with some CSV readers.</source>
-        <translation type="unfinished"/>
+        <translation>*) Добавляет дополнительную информацию в файлы, но может вызвать проблемы с некоторыми программами чтения CSV.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="142"/>
@@ -7883,7 +7883,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="157"/>
         <source>Gray rows are not exported (do not mount).</source>
-        <translation type="unfinished"/>
+        <translation>Серые строки не экспортируются (не монтируются).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.cpp" line="75"/>
@@ -7946,7 +7946,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="91"/>
         <source>Do not delete unconnected copper areas (islands)</source>
-        <translation type="unfinished"/>
+        <translation>Не удаляйте неподключенные участки меди (острова).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="94"/>
@@ -7971,7 +7971,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="120"/>
         <source>Width of the thermal pad spokes</source>
-        <translation type="unfinished"/>
+        <translation>Ширина спиц термопрокладки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="123"/>
@@ -8045,7 +8045,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="211"/>
         <source>These settings might not be supported and/or automatically taken into account by the PCB manufacturer. Always check/specify these manufacturing properties manually when ordering the PCB.</source>
-        <translation type="unfinished"/>
+        <translation>Эти параметры могут не поддерживаться и/или автоматически учитываться производителем печатной платы. Всегда проверяйте/указывайте эти производственные свойства вручную при заказе печатной платы.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="225"/>
@@ -8122,7 +8122,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="464"/>
         <source>Vias with a drill diameter up to this diameter will be covered with solder resist (if not manually overridden). For larger vias, a stop mask opening is added.</source>
-        <translation type="unfinished"/>
+        <translation>Проходы с диаметром сверла до этого диаметра будут покрыты резистом припоя (если это не отменить вручную). Для более крупных отверстий добавляется отверстие в маске для остановки.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="467"/>
@@ -8192,7 +8192,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="711"/>
         <source>Allow vias whith either start or end on an inner copper layer.</source>
-        <translation type="unfinished"/>
+        <translation>Разрешите прокладки, которые начинаются или заканчиваются на внутреннем медном слое.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="714"/>
@@ -8207,7 +8207,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="731"/>
         <source>Allow vias which start and end on inner copper layers.</source>
-        <translation type="unfinished"/>
+        <translation>Разрешите прокладки, которые начинаются и заканчиваются на внутренних медных слоях.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="734"/>
@@ -8217,7 +8217,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="750"/>
         <source>Minimum board outline milling tool diameter. Restricts the radius of inner board edges.</source>
-        <translation type="unfinished"/>
+        <translation>Минимальный диаметр фрезы для контура платы. Ограничивает радиус внутренних кромок платы.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="753"/>
@@ -8446,7 +8446,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.ui" line="112"/>
         <source>Gray rows are not exported (do not mount).</source>
-        <translation type="unfinished"/>
+        <translation>Серые строки не экспортируются (не монтируются).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/bomgeneratordialog.cpp" line="92"/>
