@@ -1309,12 +1309,12 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="117"/>
         <source>Via</source>
-        <translation type="unfinished"/>
+        <translation>Переход</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="126"/>
         <source>Trace</source>
-        <translation type="unfinished"/>
+        <translation>Трассировка</translation>
     </message>
 </context>
 <context>
@@ -1323,7 +1323,7 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="68"/>
         <source>Missing device: &apos;%1&apos;</source>
         <comment>Placeholders: Device name</comment>
-        <translation type="unfinished"/>
+        <translation>Отсутствующее устройство: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="70"/>
@@ -1340,7 +1340,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="174"/>
         <source>Multiple board outlines</source>
-        <translation type="unfinished"/>
+        <translation>Несколько контуров платы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="175"/>
@@ -1358,7 +1358,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="190"/>
         <source>Non-closed board outline</source>
-        <translation type="unfinished"/>
+        <translation>Незакрытый контур платы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="191"/>
@@ -1377,7 +1377,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1106"/>
         <source>Device overlap: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
-        <translation type="unfinished"/>
+        <translation>Перекрытие устройств: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1112"/>
@@ -1422,7 +1422,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1728"/>
         <source>Unused layer: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неиспользованный слой: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1729"/>
@@ -1449,7 +1449,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1678"/>
         <source>Useless zone</source>
-        <translation type="unfinished"/>
+        <translation>Бесполезная зона</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1679"/>
@@ -1488,7 +1488,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="82"/>
         <source>Editor</source>
-        <translation type="unfinished"/>
+        <translation>Редактор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="86"/>
@@ -1823,7 +1823,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="384"/>
         <source>Show All Planes</source>
-        <translation type="unfinished"/>
+        <translation>Показать все планы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="385"/>
@@ -1833,7 +1833,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="393"/>
         <source>Hide All Planes</source>
-        <translation type="unfinished"/>
+        <translation>Скрыть все планы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="394"/>
@@ -1853,22 +1853,22 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="411"/>
         <source>Text Input</source>
-        <translation type="unfinished"/>
+        <translation>Ввод текста</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="414"/>
         <source>Browse</source>
-        <translation type="unfinished"/>
+        <translation>Просмотреть</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="415"/>
         <source>Open file or directory browser</source>
-        <translation type="unfinished"/>
+        <translation>Браузер открытых файлов или каталогов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="423"/>
         <source>Change Unit</source>
-        <translation type="unfinished"/>
+        <translation>Единица изменения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="424"/>
@@ -1904,7 +1904,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="453"/>
         <source>Add Example Projects</source>
-        <translation type="unfinished"/>
+        <translation>Добавить примеры проектов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="454"/>
@@ -1934,7 +1934,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="480"/>
         <source>Import EAGLE Project</source>
-        <translation type="unfinished"/>
+        <translation>Импорт проекта EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="481"/>
@@ -1959,7 +1959,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="499"/>
         <source>Export graphics as a pixmap</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт графики в виде пиксельной карты</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="507"/>
@@ -1989,12 +1989,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="526"/>
         <source>Send graphics to a printer</source>
-        <translation type="unfinished"/>
+        <translation>Отправка графики на принтер</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="534"/>
         <source>Generate Bill Of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Генерация спецификации материалов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="535"/>
@@ -2014,7 +2014,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="552"/>
         <source>Generate Pick&amp;&amp;Place Files</source>
-        <translation type="unfinished"/>
+        <translation>Создание файлов Pick&amp;&amp;Place</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="553"/>
@@ -2034,27 +2034,27 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="570"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Выходные задания</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="571"/>
         <source>Modify or run output jobs</source>
-        <translation type="unfinished"/>
+        <translation>Изменение или запуск заданий вывода</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="579"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>Заказать PCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="580"/>
         <source>Start ordering the PCB online</source>
-        <translation type="unfinished"/>
+        <translation>Начните заказывать печатную плату онлайн</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="587"/>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Изменить</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="591"/>
@@ -2064,7 +2064,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="592"/>
         <source>Revert the last modification</source>
-        <translation type="unfinished"/>
+        <translation>Отмена последней модификации</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="600"/>
@@ -2169,7 +2169,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="691"/>
         <source>Mirror Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Зеркало горизонтальное</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="692"/>
@@ -2179,7 +2179,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="700"/>
         <source>Mirror Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Зеркало по вертикали</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="701"/>
@@ -2189,7 +2189,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="709"/>
         <source>Flip Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Перевернуть горизонтально</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="710"/>
@@ -2199,7 +2199,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="719"/>
         <source>Flip Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Перевернуть вертикально</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="720"/>
@@ -2209,7 +2209,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="729"/>
         <source>Snap to Grid</source>
-        <translation type="unfinished"/>
+        <translation>Привязка к сетке</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="730"/>
@@ -2220,7 +2220,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="738"/>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1703"/>
         <source>Lock Placement</source>
-        <translation type="unfinished"/>
+        <translation>Размещение замка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="739"/>
@@ -2230,7 +2230,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="747"/>
         <source>Unlock Placement</source>
-        <translation type="unfinished"/>
+        <translation>Разблокировать размещение</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="748"/>
@@ -2240,7 +2240,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="756"/>
         <source>Set Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Установите ширину линии</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="757"/>
@@ -11161,7 +11161,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/editabletablewidget.cpp" line="199"/>
         <source>Browse</source>
-        <translation type="unfinished"/>
+        <translation>Просмотреть</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/editabletablewidget.cpp" line="219"/>
@@ -13959,7 +13959,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="14"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>Заказать PCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="43"/>
@@ -14035,7 +14035,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.ui" line="37"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Выходные задания</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="58"/>
@@ -14088,7 +14088,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="55"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Выходные задания</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="97"/>
@@ -14111,7 +14111,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="14"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Выходные задания</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="92"/>
