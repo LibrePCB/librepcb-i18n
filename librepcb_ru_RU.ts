@@ -2250,7 +2250,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="766"/>
         <source>Reset All Texts</source>
-        <translation type="unfinished"/>
+        <translation>Сброс всех сообщений</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="767"/>
@@ -2265,7 +2265,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="776"/>
         <source>View/modify the object properties</source>
-        <translation type="unfinished"/>
+        <translation>Просмотр/изменение свойств объекта</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="784"/>
@@ -2280,7 +2280,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="794"/>
         <source>Delete the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>Удалить выбранный объект(ы)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="801"/>
@@ -2290,7 +2290,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="805"/>
         <source>Zoom to Fit Contents</source>
-        <translation type="unfinished"/>
+        <translation>Масштабирование содержимого</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="806"/>
@@ -2350,12 +2350,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="859"/>
         <source>Ignore Placement Locks</source>
-        <translation type="unfinished"/>
+        <translation>Замки с игнорированием размещения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="860"/>
         <source>Allow dragging locked items</source>
-        <translation type="unfinished"/>
+        <translation>Разрешить перетаскивание заблокированных элементов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="868"/>
@@ -2380,7 +2380,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="881"/>
         <source>Select &amp; modify existing objects</source>
-        <translation type="unfinished"/>
+        <translation>Выбор и изменение существующих объектов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="889"/>
@@ -2390,7 +2390,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="890"/>
         <source>Draw graphical lines</source>
-        <translation type="unfinished"/>
+        <translation>Рисуйте графические линии</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="898"/>
@@ -2400,7 +2400,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="899"/>
         <source>Draw graphical rectangles</source>
-        <translation type="unfinished"/>
+        <translation>Рисуйте графические прямоугольники</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="907"/>
@@ -2410,7 +2410,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="908"/>
         <source>Draw graphical polygons</source>
-        <translation type="unfinished"/>
+        <translation>Рисовать графические многоугольники</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="916"/>
@@ -2420,7 +2420,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="917"/>
         <source>Draw graphical circles</source>
-        <translation type="unfinished"/>
+        <translation>Рисовать графические круги</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="925"/>
@@ -2430,7 +2430,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="926"/>
         <source>Draw graphical arcs</source>
-        <translation type="unfinished"/>
+        <translation>Рисовать графические дуги</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="934"/>
@@ -2440,7 +2440,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="935"/>
         <source>Add graphical text objects</source>
-        <translation type="unfinished"/>
+        <translation>Добавление графических текстовых объектов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="943"/>
@@ -2495,7 +2495,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="988"/>
         <source>Add Thermal Pad</source>
-        <translation type="unfinished"/>
+        <translation>Добавить термопрокладку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="989"/>
@@ -2515,7 +2515,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1006"/>
         <source>Add Edge Connector Pad</source>
-        <translation type="unfinished"/>
+        <translation>Добавить соединительную накладку для краев</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1007"/>
@@ -2525,7 +2525,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1015"/>
         <source>Add Test Pad</source>
-        <translation type="unfinished"/>
+        <translation>Добавить тестовую площадку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1016"/>
@@ -2535,7 +2535,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1024"/>
         <source>Add Local Fiducial Pad</source>
-        <translation type="unfinished"/>
+        <translation>Добавить локальную панель Fiducial Pad</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1025"/>
@@ -2545,7 +2545,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1033"/>
         <source>Add Global Fiducial Pad</source>
-        <translation type="unfinished"/>
+        <translation>Добавить глобальную фидуциальную подушку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1034"/>
@@ -2555,12 +2555,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1042"/>
         <source>Draw Keepout Zone</source>
-        <translation type="unfinished"/>
+        <translation>Зона сохранения рисунка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1043"/>
         <source>Draw keep-out zones</source>
-        <translation type="unfinished"/>
+        <translation>Нарисуйте запретные зоны</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1051"/>
