@@ -4732,12 +4732,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/geometry/path.h" line="202"/>
         <source>Path doesn&apos;t contain vertices!</source>
-        <translation type="unfinished"/>
+        <translation>Путь не содержит вертикалей!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/geometry/path.h" line="243"/>
         <source>Path is not fillable or contains arcs!</source>
-        <translation type="unfinished"/>
+        <translation>Путь не заполняется или содержит дуги!</translation>
     </message>
 </context>
 <context>
@@ -4750,37 +4750,37 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="89"/>
         <source>Black Matte</source>
-        <translation type="unfinished"/>
+        <translation>Черный матовый</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="95"/>
         <source>Blue</source>
-        <translation type="unfinished"/>
+        <translation>Синий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="101"/>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Очистить</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="107"/>
         <source>Green</source>
-        <translation type="unfinished"/>
+        <translation>Зеленый</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="113"/>
         <source>Green Matte</source>
-        <translation type="unfinished"/>
+        <translation>Зеленый матовый</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="119"/>
         <source>Purple</source>
-        <translation type="unfinished"/>
+        <translation>Фиолетовый</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="125"/>
         <source>Red</source>
-        <translation type="unfinished"/>
+        <translation>Красный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="131"/>
@@ -4790,12 +4790,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="138"/>
         <source>Yellow</source>
-        <translation type="unfinished"/>
+        <translation>Желтый</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/pcbcolor.cpp" line="145"/>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Другое</translation>
     </message>
 </context>
 <context>
@@ -4803,12 +4803,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/job/pickplaceoutputjob.cpp" line="40"/>
         <source>Pick&amp;Place CSV</source>
-        <translation type="unfinished"/>
+        <translation>Выбор и размещение CSV</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/pickplaceoutputjob.h" line="102"/>
         <source>Pick&amp;Place</source>
-        <translation type="unfinished"/>
+        <translation>Выбери и размести</translation>
     </message>
 </context>
 <context>
@@ -4817,7 +4817,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/job/projectjsonoutputjob.cpp" line="40"/>
         <location filename="../libs/librepcb/core/job/projectjsonoutputjob.h" line="64"/>
         <source>Project Data</source>
-        <translation type="unfinished"/>
+        <translation>Данные проекта</translation>
     </message>
 </context>
 <context>
@@ -4829,7 +4829,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="471"/>
         <location filename="../libs/librepcb/editor/widgets/openglview.cpp" line="96"/>
         <source>Shift</source>
-        <translation type="unfinished"/>
+        <translation>Смена</translation>
     </message>
 </context>
 <context>
@@ -4842,7 +4842,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/ratio.h" line="358"/>
         <source>Value must be 0..1!</source>
-        <translation type="unfinished"/>
+        <translation>Значение должно быть 0...1!</translation>
     </message>
 </context>
 <context>
@@ -4850,7 +4850,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/rulecheck/rulecheckmessage.cpp" line="72"/>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Подсказка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/rulecheck/rulecheckmessage.cpp" line="74"/>
@@ -4878,12 +4878,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="283"/>
         <source>Pin:</source>
-        <translation type="unfinished"/>
+        <translation>Контакт:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="284"/>
         <source>Pad(s):</source>
-        <translation type="unfinished"/>
+        <translation>Площадка(и):</translation>
     </message>
 </context>
 <context>
@@ -4891,12 +4891,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="91"/>
         <source>Key &quot;%1&quot; defined multiple times.</source>
-        <translation type="unfinished"/>
+        <translation>Ключ &quot;%1&quot; определен несколько раз.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="98"/>
         <source>No default %1 defined.</source>
-        <translation type="unfinished"/>
+        <translation>Не определено значение по умолчанию %1.</translation>
     </message>
 </context>
 <context>
@@ -4917,7 +4917,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="87"/>
         <source>Passive</source>
-        <translation type="unfinished"/>
+        <translation>Пассивный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="93"/>
@@ -4927,22 +4927,22 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="99"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Ввод</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="105"/>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Вывод</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="111"/>
         <source>I/O</source>
-        <translation type="unfinished"/>
+        <translation>ВВОД/ВЫВОД</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/signalrole.h" line="117"/>
         <source>Open Drain</source>
-        <translation type="unfinished"/>
+        <translation>Открытый сток</translation>
     </message>
 </context>
 <context>
@@ -5017,41 +5017,41 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="82"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="104"/>
         <source>Background/Grid</source>
-        <translation type="unfinished"/>
+        <translation>Фон/Сетка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="83"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="105"/>
         <source>Overlays</source>
-        <translation type="unfinished"/>
+        <translation>Накладки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="84"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="106"/>
         <source>Info Box</source>
-        <translation type="unfinished"/>
+        <translation>Информационный блок</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="85"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="108"/>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Выбор</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="86"/>
         <source>References</source>
-        <translation type="unfinished"/>
+        <translation>Ссылки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="87"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="109"/>
         <source>Frames</source>
-        <translation type="unfinished"/>
+        <translation>Рамки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="88"/>
         <source>Wires</source>
-        <translation type="unfinished"/>
+        <translation>Провода</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="89"/>
@@ -5061,7 +5061,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="90"/>
         <source>Net Label Anchors</source>
-        <translation type="unfinished"/>
+        <translation>Якорь для этикеток</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="91"/>
@@ -5120,7 +5120,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="101"/>
         <source>Pin Lines</source>
-        <translation type="unfinished"/>
+        <translation>Контактные линии</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="102"/>
@@ -5135,17 +5135,17 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="107"/>
         <source>DRC Marker</source>
-        <translation type="unfinished"/>
+        <translation>Маркер DRC</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="111"/>
         <source>Plated Cutouts</source>
-        <translation type="unfinished"/>
+        <translation>Плакированные вырезы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="112"/>
         <source>Holes</source>
-        <translation type="unfinished"/>
+        <translation>Отверстия</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="113"/>
@@ -5160,7 +5160,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="115"/>
         <source>Zones</source>
-        <translation type="unfinished"/>
+        <translation>Зоны</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="116"/>
@@ -5180,132 +5180,132 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="122"/>
         <source>Names Top</source>
-        <translation type="unfinished"/>
+        <translation>Названия Топ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="123"/>
         <source>Names Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Название Внизу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="124"/>
         <source>Values Top</source>
-        <translation type="unfinished"/>
+        <translation>Значения Вверх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="125"/>
         <source>Values Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Значения Внизу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="126"/>
         <source>Legend Top</source>
-        <translation type="unfinished"/>
+        <translation>Легенда Верхняя</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="127"/>
         <source>Legend Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Легенда Нижняя</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="128"/>
         <source>Documentation Top</source>
-        <translation type="unfinished"/>
+        <translation>Документация Вверх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="129"/>
         <source>Documentation Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Документация Внизу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="130"/>
         <source>Package Outlines Top</source>
-        <translation type="unfinished"/>
+        <translation>Контуры пакета Вверх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="131"/>
         <source>Package Outlines Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Очертания пакета Внизу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="132"/>
         <source>Courtyard Top</source>
-        <translation type="unfinished"/>
+        <translation>Верхняя часть двора</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="133"/>
         <source>Courtyard Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Внутренний дворик</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="134"/>
         <source>Grab Areas Top</source>
-        <translation type="unfinished"/>
+        <translation>Области захвата Вверху</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="135"/>
         <source>Grab Areas Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Зоны захвата Внизу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="136"/>
         <source>Hidden Grab Areas Top</source>
-        <translation type="unfinished"/>
+        <translation>Скрытые зоны захвата Вверху</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="137"/>
         <source>Hidden Grab Areas Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Скрытые зоны захвата Внизу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="138"/>
         <source>References Top</source>
-        <translation type="unfinished"/>
+        <translation>Ссылки Вверх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="139"/>
         <source>References Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Ссылка Внизу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="140"/>
         <source>Stop Mask Top</source>
-        <translation type="unfinished"/>
+        <translation>Стоп-маска Верхняя</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="141"/>
         <source>Stop Mask Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Стоп-маска Нижняя</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="142"/>
         <source>Solder Paste Top</source>
-        <translation type="unfinished"/>
+        <translation>Верхняя часть паяльной пасты</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="143"/>
         <source>Solder Paste Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Паяльная паста внизу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="144"/>
         <source>Finish Top</source>
-        <translation type="unfinished"/>
+        <translation>Верхняя финишная</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="145"/>
         <source>Finish Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Финишная отделка снизу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="146"/>
         <source>Glue Top</source>
-        <translation type="unfinished"/>
+        <translation>Клей Верхний</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="147"/>
         <source>Glue Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Клей внизу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="148"/>
@@ -5315,7 +5315,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="184"/>
         <source>Copper Inner</source>
-        <translation type="unfinished"/>
+        <translation>Внутренняя медь</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="187"/>
@@ -5381,7 +5381,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="47"/>
         <source>NOTE</source>
-        <translation type="unfinished"/>
+        <translation>ПРИМЕЧАНИЕ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigration.cpp" line="49"/>
@@ -5416,7 +5416,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/lengthunit.cpp" line="74"/>
         <source>Mils</source>
-        <translation type="unfinished"/>
+        <translation>Милс</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/utils/mathparser.cpp" line="74"/>
@@ -5578,7 +5578,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="138"/>
         <source>Rebuild planes...</source>
-        <translation type="unfinished"/>
+        <translation>Перестроить планы...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="150"/>
@@ -5593,12 +5593,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="583"/>
         <source>Check hole clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте зазоры в отверстиях...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="638"/>
         <source>Check drill clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте зазоры в сверлах...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="726"/>
@@ -5613,42 +5613,42 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="888"/>
         <source>Check copper widths...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте ширину меди...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="901"/>
         <source>Check PTH annular rings...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте кольцевые кольца PTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="968"/>
         <source>Check NPTH drill diameters...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте диаметры сверл NPTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="999"/>
         <source>Check NPTH slot widths...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте ширину пазов NPTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1030"/>
         <source>Check PTH drill diameters...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте диаметры сверл PTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1068"/>
         <source>Check PTH slot widths...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте ширину пазов PTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1094"/>
         <source>Check silkscreen widths...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте ширину шелкографии...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1109"/>
         <source>Check silkscreen text heights...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте высоту текста, нанесенного методом шелкографии...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1129"/>
@@ -15344,7 +15344,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="298"/>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Другое</translation>
     </message>
 </context>
 <context>
