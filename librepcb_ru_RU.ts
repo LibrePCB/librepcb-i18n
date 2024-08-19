@@ -5688,7 +5688,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1634"/>
         <source>Check used layers...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте используемые элементы...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1693"/>
@@ -5703,7 +5703,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1726"/>
         <source>Check for stale objects...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте, не залежались ли объекты...</translation>
     </message>
 </context>
 <context>
@@ -5835,7 +5835,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="197"/>
         <source>No pages to export/print.</source>
-        <translation type="unfinished"/>
+        <translation>Нет страниц для экспорта/печати.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="381"/>
@@ -5929,7 +5929,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="230"/>
         <source>Send data: %1</source>
-        <translation type="unfinished"/>
+        <translation>Отправить данные: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="248"/>
@@ -6013,7 +6013,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="247"/>
         <source>Unknown output job type &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Неизвестный тип задания вывода &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="248"/>
@@ -6089,7 +6089,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="104"/>
         <source>File does not exist: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Файл не существует: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/projectloader.cpp" line="110"/>
@@ -6134,22 +6134,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="103"/>
         <source>Preparing...</source>
-        <translation type="unfinished"/>
+        <translation>Подготовка...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="114"/>
         <source>Exporting PCB...</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт PCB...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="156"/>
         <source>Exporting device %1/%2...</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт устройства %1/%2...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="182"/>
         <source>Saving...</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="189"/>
@@ -6159,7 +6159,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="191"/>
         <source>The last error was:</source>
-        <translation type="unfinished"/>
+        <translation>Последняя ошибка была:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="193"/>
@@ -6174,12 +6174,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="203"/>
         <source>Failed!</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="212"/>
         <source>Aborted!</source>
-        <translation type="unfinished"/>
+        <translation>Прервано!</translation>
     </message>
 </context>
 <context>
@@ -6274,7 +6274,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="623"/>
         <source>Remove other boards...</source>
-        <translation type="unfinished"/>
+        <translation>Удалите другие платы...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="652"/>
@@ -6358,7 +6358,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="852"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт типовой спецификации в &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="882"/>
@@ -6370,7 +6370,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="892"/>
         <source>Export PCB fabrication data...</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт данных об изготовлении печатных плат...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="935"/>
@@ -8640,6 +8640,84 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/dialogs/circlepropertiesdialog.cpp" line="138"/>
         <source>Error</source>
         <translation>Ошибка</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::CircuitIdentifierImportDialog</name>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="14"/>
+        <source>Mass Import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="139"/>
+        <source>Monitor Clipboard</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="155"/>
+        <source>For table-style input, only consider text in the specified column.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="158"/>
+        <source>Filter column (0=auto):</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="187"/>
+        <source>Sort result</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="123"/>
+        <source>Specify the items for mass import in this text field, each item on a separate line.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="126"/>
+        <source>To copy values e.g. from a datasheet PDF, two modes are available:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="130"/>
+        <source>Copy a whole table from the PDF and paste it into this field. Attention: If the table contains line breaks, manually remove unrelated lines afterwards! Also note that this does not work with every PDF reader.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="135"/>
+        <source>Check the button &apos;%1&apos; below and copy item-by-item into the clipboard. LibrePCB monitors the clipboard and automatically pastes each item here.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="141"/>
+        <source>Clipboard monitoring is active! Now copy the items one-by-one into the clipboard. LibrePCB does not need to stay in foreground for this.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="218"/>
+        <source>INVALID INPUT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="221"/>
+        <source>DUPLICATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="224"/>
+        <source>NAME CONFLICT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="245"/>
+        <source>Input</source>
+        <translation>Ввод</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="246"/>
+        <source>Result</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16231,24 +16309,30 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SymbolEditorState_AddPins</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="70"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="72"/>
         <source>Name:</source>
         <translation>Имя:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="79"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="81"/>
         <source>Length:</source>
         <translation>Длина:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="109"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="159"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="210"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="96"/>
+        <source>Mass Import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="119"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="169"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="220"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="273"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="194"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="204"/>
         <source>Add symbol pin</source>
         <translation>Добавить вывод символа</translation>
     </message>
@@ -16420,27 +16504,27 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="251"/>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="275"/>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="287"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="386"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="434"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="580"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="605"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="816"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="870"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="887"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="899"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="908"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="935"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="956"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="388"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="436"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="582"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="607"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="818"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="872"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="889"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="901"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="910"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="937"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="958"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="813"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="815"/>
         <source>Copied to clipboard!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="828"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="830"/>
         <source>Paste Symbol Elements</source>
         <translation>Вставить элементы символа</translation>
     </message>
