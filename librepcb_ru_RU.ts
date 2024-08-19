@@ -5653,7 +5653,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1129"/>
         <source>Check keepout zones...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте зоны сохранения...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1392"/>
@@ -5673,17 +5673,17 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1469"/>
         <source>Check pad connections...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте соединения колодок...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1503"/>
         <source>Check device clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте зазоры в устройствах...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1559"/>
         <source>Check board outline...</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте контур платы...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1634"/>
