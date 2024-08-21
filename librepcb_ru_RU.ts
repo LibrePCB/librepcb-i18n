@@ -5573,7 +5573,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="127"/>
         <source>Finished with %1 message(s)!</source>
         <comment>Count of messages</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Завершено с %1 сообщением!</numerusform><numerusform>Завершено с %1 сообщениями!</numerusform><numerusform>Завершено с %1 сообщениями!</numerusform><numerusform>Завершено с %1 сообщениями!</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="138"/>
@@ -8167,7 +8167,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="641"/>
         <source>PTH Slots:</source>
-        <translation type="unfinished"/>
+        <translation>PTH слоты:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="665"/>
@@ -8247,7 +8247,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="824"/>
         <source>Silkscreen Width:</source>
-        <translation type="unfinished"/>
+        <translation>Толщина шелкографии:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="834"/>
@@ -8257,7 +8257,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="841"/>
         <source>PTH Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Диаметр сверловки PTH:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="871"/>
@@ -8398,7 +8398,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="128"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Ручной:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.cpp" line="183"/>
@@ -9253,7 +9253,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmddragselectedschematicitems.cpp" line="58"/>
         <source>Drag Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Перетащить элементы схемы</translation>
     </message>
 </context>
 <context>
@@ -9638,7 +9638,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicpolygonadd.cpp" line="41"/>
         <source>Add polygon to schematic</source>
-        <translation type="unfinished"/>
+        <translation>Добавить на схему многоугольник</translation>
     </message>
 </context>
 <context>
@@ -9646,7 +9646,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicpolygonremove.cpp" line="42"/>
         <source>Remove polygon from schematic</source>
-        <translation type="unfinished"/>
+        <translation>Удалить многоугольник со схемы</translation>
     </message>
 </context>
 <context>
@@ -9662,7 +9662,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematictextadd.cpp" line="41"/>
         <source>Add schematic text</source>
-        <translation type="unfinished"/>
+        <translation>Добавить текст схемы</translation>
     </message>
 </context>
 <context>
@@ -9670,7 +9670,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematictextremove.cpp" line="41"/>
         <source>Remove schematic text</source>
-        <translation type="unfinished"/>
+        <translation>Удалить текст схемы</translation>
     </message>
 </context>
 <context>
@@ -10982,12 +10982,12 @@ If unchecked (the default), circles will be imported as polygons.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="138"/>
         <source>Import circles as drills</source>
-        <translation type="unfinished"/>
+        <translation>Импортировать окружности как сверловку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.cpp" line="174"/>
         <source>The selected file does not contain any objects to import.</source>
-        <translation type="unfinished"/>
+        <translation>Выбранный файл не содержит объектов для импорта.</translation>
     </message>
 </context>
 <context>
@@ -11020,7 +11020,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="97"/>
         <source>No file selected.</source>
-        <translation type="unfinished"/>
+        <translation>Файлы не выбраны.</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="103"/>
@@ -11066,7 +11066,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.ui" line="20"/>
         <source>The selected elements will be imported now. For large or complex libraries this can take a few minutes.</source>
-        <translation type="unfinished"/>
+        <translation>Теперь выбранные элементы будут импортированы. Для больших или сложных библиотек это может занять несколько минут.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.ui" line="26"/>
@@ -11174,7 +11174,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="183"/>
         <source>&lt;b&gt;Attention:&lt;/b&gt; The import cannot be undone (except my manually removing the imported elements)!</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Внимание:&lt;/b&gt; Импорт не может быть отменен (за исключением удаления импортированных элементов вручную)!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.cpp" line="58"/>
@@ -11352,7 +11352,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="102"/>
         <source>Bottom Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Нижняя стоп-маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="109"/>
@@ -11414,7 +11414,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="281"/>
         <source>Top Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Верхняя стоп-маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="295"/>
@@ -11540,7 +11540,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="43"/>
         <source>Component Side:</source>
-        <translation type="unfinished"/>
+        <translation>Сторона компонента:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="50"/>
@@ -11575,7 +11575,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="131"/>
         <source>Corner Radius:</source>
-        <translation type="unfinished"/>
+        <translation>Радиус угла:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="156"/>
@@ -11660,7 +11660,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="470"/>
         <source>Stop Mask:</source>
-        <translation type="unfinished"/>
+        <translation>Стоп-маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="485"/>
@@ -11678,7 +11678,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="517"/>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="583"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Ручной:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="536"/>
@@ -11766,7 +11766,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="73"/>
         <source>Top Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Верхняя стоп-маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="94"/>
@@ -11849,7 +11849,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="303"/>
         <source>Bottom Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Нижняя стоп-маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="310"/>
@@ -12469,7 +12469,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="112"/>
         <source>Linear Slot</source>
-        <translation type="unfinished"/>
+        <translation>Линейный слот</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="131"/>
@@ -12517,7 +12517,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="43"/>
         <source>Stop Mask:</source>
-        <translation type="unfinished"/>
+        <translation>Стоп-маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="52"/>
@@ -12532,7 +12532,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="66"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Ручной:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.cpp" line="159"/>
@@ -12545,7 +12545,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard.ui" line="14"/>
         <source>LibrePCB Workspace Setup</source>
-        <translation type="unfinished"/>
+        <translation>Подготовка рабочей области LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard.cpp" line="53"/>
@@ -12563,7 +12563,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="17"/>
         <source>Set the most important workspace settings.</source>
-        <translation type="unfinished"/>
+        <translation>Задайте наиболее важные настройки рабочей области.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="23"/>
@@ -12588,7 +12588,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="96"/>
         <source>Preferred Norm:</source>
-        <translation type="unfinished"/>
+        <translation>Предпочтительная норма:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="53"/>
@@ -12647,7 +12647,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="125"/>
         <source>New workspace will be created.</source>
-        <translation type="unfinished"/>
+        <translation>Будет создана новая рабочая область.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="127"/>
@@ -12852,7 +12852,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="791"/>
         <source>Filter elements...</source>
-        <translation type="unfinished"/>
+        <translation>Фильтр элементов...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="806"/>
@@ -12986,7 +12986,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/librarylisteditorwidget.cpp" line="55"/>
         <source>Click here a add a new dependency</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите здесь для добавления новой зависимости</translation>
     </message>
 </context>
 <context>
@@ -13236,7 +13236,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="470"/>
         <source>(press %1 to disable snap)</source>
-        <translation type="unfinished"/>
+        <translation>(нажмите %1 для отключения привязки)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/measuretool.cpp" line="475"/>
@@ -13265,7 +13265,8 @@ Are you still sure to delete the following library elements?</source>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="70"/>
         <source>Permanently hide this message.
 This can be reverted in the workspace settings dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Скрыть это сообщение навсегда.
+Это можно отменить в диалоге настроек рабочей области.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="90"/>
@@ -13460,7 +13461,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="20"/>
         <source>Set the component and the package of the new component.</source>
-        <translation type="unfinished"/>
+        <translation>Установить компонент и пакет для нового компонента.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="29"/>
@@ -13747,12 +13748,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="237"/>
         <source>Ready to import %n sheet(s) and a board.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Готов к импорту %n листа и платы.</numerusform><numerusform>Готов к импорту %n листов и платы.</numerusform><numerusform>Готов к импорту %n листов и платы.</numerusform><numerusform>Готов к импорту %n листов и платы.</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="239"/>
         <source>Ready to import %n sheet(s) without board.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Готов к импорту %n листа и платы.</numerusform><numerusform>Готов к импорту %n листов и платы.</numerusform><numerusform>Готов к импорту %n листов и платы.</numerusform><numerusform>Готов к импорту %n листов без платы.</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="243"/>
@@ -14029,7 +14030,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/openglview.cpp" line="95"/>
         <source>Press %1 to rotate around Z-axis</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите %1 для вращения вокруг оси Z</translation>
     </message>
 </context>
 <context>
@@ -14043,7 +14044,7 @@ For more information about licensing, click on this icon.</source>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="43"/>
         <source>Note: This is a preview feature and still in development. Any feedback is very welcome in our %1.</source>
         <extracomment>Placeholder is a hyperlink with the text 'discussion forum'.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Примечание: Это предварительная версия функции, которая всё ещё находится в разработке. Любые отзывы приветствуются в нашем %1.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="68"/>
@@ -14239,7 +14240,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="198"/>
         <source>Discard Changes?</source>
-        <translation type="unfinished"/>
+        <translation>Выбросить изменения?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="199"/>
