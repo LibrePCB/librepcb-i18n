@@ -6375,12 +6375,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="935"/>
         <source>top</source>
-        <translation type="unfinished"/>
+        <translation>верх</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="939"/>
         <source>bottom</source>
-        <translation type="unfinished"/>
+        <translation>низ</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="943"/>
@@ -8267,7 +8267,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="63"/>
         <source>Default:</source>
-        <translation type="unfinished"/>
+        <translation>По умолчанию:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="68"/>
