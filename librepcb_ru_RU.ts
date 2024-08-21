@@ -417,12 +417,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="411"/>
         <source>Missing arguments:</source>
-        <translation>Недостающие аргументы:</translation>
+        <translation>Недостающие параметры:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="417"/>
         <source>Unknown arguments:</source>
-        <translation>Неизвестные аргументы:</translation>
+        <translation>Неизвестные параметры:</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="471"/>
@@ -1220,13 +1220,13 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="365"/>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="413"/>
         <source>The polygon line width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation>Ширина линии полигона меньше минимальной ширины, заданной в настройках DRC.</translation>
+        <translation>Толщина линии многоугольника меньше минимальной толщины, заданной в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="368"/>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="417"/>
         <source>Check the DRC settings and increase the polygon line width if needed.</source>
-        <translation>Проверьте настройки DRC и при необходимости увеличьте ширину линии полигона.</translation>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте толщину линии многоугольника.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="381"/>
@@ -1259,12 +1259,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="439"/>
         <source>The circle line width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation>Ширина линии окружности меньше минимальной ширины, заданной в настройках DRC.</translation>
+        <translation>Толщина линии окружности меньше минимальной толщины, заданной в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="442"/>
         <source>Check the DRC settings and increase the circle line width if needed.</source>
-        <translation>Проверьте настройки DRC и при необходимости увеличьте ширину линии окружности.</translation>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте толщину линии окружности.</translation>
     </message>
 </context>
 <context>
@@ -1282,7 +1282,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="161"/>
         <source>Add a closed, zero-width polygon on the layer &apos;%1&apos; to draw the board outline.</source>
-        <translation>Добавьте замкнутый многоугольник нулевой ширины на слой &quot;%1&quot;, чтобы нарисовать контур платы.</translation>
+        <translation>Добавьте замкнутый многоугольник нулевой толщины на слой &quot;%1&quot;, чтобы нарисовать контур платы.</translation>
     </message>
 </context>
 <context>
@@ -2240,12 +2240,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="756"/>
         <source>Set Line Width</source>
-        <translation>Установите ширину линии</translation>
+        <translation>Установите толщину линии</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="757"/>
         <source>Change the line/trace/stroke width of the selected object(s)</source>
-        <translation>Изменение ширины линии/обводки/штриха выбранного объекта(ов)</translation>
+        <translation>Изменение толщины линии/обводки/штриха выбранного объекта(ов)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="766"/>
@@ -2710,22 +2710,22 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1181"/>
         <source>Increase Line Width</source>
-        <translation>Увеличить ширину линии</translation>
+        <translation>Увеличить толщину линии</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1182"/>
         <source>Increase the line/trace/stroke/pad width</source>
-        <translation>Увеличить ширину линии/трассы/штриха/площадки</translation>
+        <translation>Увеличить толщину линии/трассы/штриха/площадки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1190"/>
         <source>Decrease Line Width</source>
-        <translation>Уменьшить ширину линии</translation>
+        <translation>Уменьшить толщину линии</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1191"/>
         <source>Decrease the line/trace/stroke/pad width</source>
-        <translation>Уменьшить ширину линии/трассы/штриха/площадки</translation>
+        <translation>Уменьшить толщину линии/трассы/штриха/площадки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1199"/>
@@ -3968,7 +3968,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="171"/>
         <source>Line &amp;Width</source>
-        <translation>Линия и ширина</translation>
+        <translation>Линия и толщина</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="175"/>
@@ -4140,12 +4140,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="209"/>
         <source>It is recommended that polygons on layer &apos;%1&apos; have a line width of at least %2.</source>
-        <translation>Рекомендуется, чтобы многоугольники на слое &apos;%1&apos; имели ширину линии не менее %2.</translation>
+        <translation>Рекомендуется, чтобы многоугольники на слое &apos;%1&apos; имели толщину линии не менее %2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="229"/>
         <source>It is recommended that circles on layer &apos;%1&apos; have a line width of at least %2.</source>
-        <translation>Рекомендуется, чтобы круги на слое &apos;%1&apos; имели ширину линии не менее %2.</translation>
+        <translation>Рекомендуется, чтобы круги на слое &apos;%1&apos; имели толщину линии не менее %2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="249"/>
@@ -4303,7 +4303,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="388"/>
         <source>It is recommended to draw the package outline with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if this device is placed within the courtyard of another device (i.e. too close).</source>
-        <translation>Рекомендуется рисовать контур пакета одним замкнутым многоугольником или кругом нулевой ширины на слое &apos;%1&apos;. Это позволит DRC предупредить, если устройство будет размещено во внутреннем дворе другого устройства (т. е. слишком близко).</translation>
+        <translation>Рекомендуется рисовать контур пакета одним замкнутым многоугольником или кругом нулевой толщины на слое &apos;%1&apos;. Это позволит DRC предупредить, если устройство будет размещено во внутреннем дворе другого устройства (т. е. слишком близко).</translation>
     </message>
 </context>
 <context>
@@ -6405,7 +6405,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1034"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
-        <translation>ПРИМЕЧАНИЕ: Чтобы избежать многократной записи файлов, убедитесь, что все функции экспорта передают уникальные пути к файлам. Для файлов вывода плат вы можете либо добавить к пути заполнитель &apos;%1&apos;, либо указать платы для экспорта с помощью аргумента &apos;%2&apos;.</translation>
+        <translation>ПРИМЕЧАНИЕ: Чтобы избежать многократной записи файлов, убедитесь, что все функции экспорта передают уникальные пути к файлам. Для файлов вывода плат вы можете либо добавить к пути параметр &apos;%1&apos;, либо указать платы для экспорта с помощью параметра &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1045"/>
@@ -10913,12 +10913,12 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="39"/>
         <source>Line width:</source>
-        <translation>Ширина линии:</translation>
+        <translation>Толщина линии:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="46"/>
         <source>The line width to set on the imported objects.</source>
-        <translation>Ширина линии, которую нужно установить для импортированных объектов.</translation>
+        <translation>Толщина линии, которую нужно установить для импортированных объектов.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="53"/>
@@ -12045,7 +12045,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="348"/>
         <source>Minimum line width:</source>
-        <translation>Минимальная ширина линии:</translation>
+        <translation>Минимальная толщина линии:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="358"/>
@@ -12368,7 +12368,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="549"/>
         <source>Minimum line width:</source>
-        <translation>Минимальная ширина линии:</translation>
+        <translation>Минимальная толщина линии:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="559"/>
@@ -14255,7 +14255,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="226"/>
         <source>Schematic PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>Схема: PDF/изображение</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="229"/>
@@ -14295,7 +14295,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="356"/>
         <source> • And %1 more files!</source>
-        <translation type="unfinished"/>
+        <translation> • И ещё %1 файлов!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="359"/>
@@ -14810,7 +14810,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="880"/>
         <source>Apply the same geometry as the object in the clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Применить ту же геометрию что и у объекта в буфере обмена</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1045"/>
