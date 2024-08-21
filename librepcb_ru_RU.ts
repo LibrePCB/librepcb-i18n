@@ -6690,7 +6690,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="55"/>
         <source>Obsolete</source>
         <extracomment>Part lifecycle status. Please keep it very very short!</extracomment>
-        <translation type="unfinished"/>
+        <translation>Устаревший</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="77"/>
@@ -7187,7 +7187,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="131"/>
         <source>Archive Directory</source>
-        <translation type="unfinished"/>
+        <translation>Каталог архива</translation>
     </message>
 </context>
 <context>
@@ -7782,7 +7782,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1563"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>Скопировано в буфер обмена!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1577"/>
@@ -8035,12 +8035,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="97"/>
         <source>Silkscreen Color:</source>
-        <translation type="unfinished"/>
+        <translation>Цвет шелкографии:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="193"/>
         <source>Silkscreen Layers:</source>
-        <translation type="unfinished"/>
+        <translation>Слои шелкографии:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="211"/>
@@ -8262,7 +8262,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="871"/>
         <source>Silkscreen Text Height:</source>
-        <translation type="unfinished"/>
+        <translation>Высота текста шелкографии:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="63"/>
@@ -10709,7 +10709,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="314"/>
         <source>Could not set component</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось установить компонент</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="331"/>
@@ -10735,7 +10735,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="470"/>
         <source>Device Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Атрибуты устройства</translation>
     </message>
 </context>
 <context>
@@ -10851,7 +10851,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="171"/>
         <source>Signal</source>
-        <translation type="unfinished"/>
+        <translation>Сигнал</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/devicepadsignalmapmodel.cpp" line="205"/>
@@ -10898,7 +10898,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="14"/>
         <source>DXF Import</source>
-        <translation type="unfinished"/>
+        <translation>Импорт DXF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="25"/>
@@ -10945,7 +10945,7 @@ If unchecked, you need to specify exact coordinates where the point (0,0) of the
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="91"/>
         <source>Interactive</source>
-        <translation type="unfinished"/>
+        <translation>Интерактивный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="100"/>
@@ -14084,7 +14084,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="155"/>
         <source>Exporting project...</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт проекта...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="175"/>
@@ -14100,12 +14100,12 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="212"/>
         <source>Success! Opening %1...</source>
-        <translation type="unfinished"/>
+        <translation>Успешно! Открываем %1...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="214"/>
         <source>Failed to open %1</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось открыть %1</translation>
     </message>
 </context>
 <context>
@@ -14814,7 +14814,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1045"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>Скопировано в буфер обмена!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1204"/>
@@ -15106,7 +15106,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="115"/>
         <source>Exit interactive mode</source>
-        <translation type="unfinished"/>
+        <translation>Выйти из интерактивного режима</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="131"/>
@@ -15128,12 +15128,12 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="146"/>
         <source>Connect the remaining pads one by one in an interactive mode</source>
-        <translation type="unfinished"/>
+        <translation>Соедините оставшиеся площадки одну за другой в интерактивном режиме</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="362"/>
         <source>Reset All</source>
-        <translation type="unfinished"/>
+        <translation>Сбросить всё</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="363"/>
@@ -15143,7 +15143,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="368"/>
         <source>Load From File</source>
-        <translation type="unfinished"/>
+        <translation>Загрузить из файла</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="370"/>
@@ -16155,7 +16155,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="797"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>Скопировано в буфер обмена!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="823"/>
@@ -16521,7 +16521,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="815"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>Скопировано в буфер обмена!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="830"/>
