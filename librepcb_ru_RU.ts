@@ -1182,7 +1182,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="316"/>
         <source>Trace width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
-        <translation>Ширина дорожки на &apos;%1&apos;: %2 &lt; %3 %4</translation>
+        <translation>Толщина дорожки на &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="321"/>
@@ -1192,7 +1192,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="324"/>
         <source>Check the DRC settings and increase the trace width if needed.</source>
-        <translation>Проверьте настройки DRC и при необходимости увеличьте ширину дорожки.</translation>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте толщину дорожки.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="339"/>
@@ -2605,7 +2605,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1088"/>
         <source>Draw Trace</source>
-        <translation>Нарисовать трассировку (трассу)</translation>
+        <translation>Нарисовать дорожку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1089"/>
@@ -2715,7 +2715,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1182"/>
         <source>Increase the line/trace/stroke/pad width</source>
-        <translation>Увеличить толщину линии/трассы/штриха/площадки</translation>
+        <translation>Увеличить толщину линии/дорожки/штриха/площадки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1190"/>
@@ -2725,7 +2725,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1191"/>
         <source>Decrease the line/trace/stroke/pad width</source>
-        <translation>Уменьшить толщину линии/трассы/штриха/площадки</translation>
+        <translation>Уменьшить толщину линии/дорожки/штриха/площадки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1199"/>
@@ -3261,12 +3261,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1676"/>
         <source>Select Whole Trace</source>
-        <translation>Выберите весь след</translation>
+        <translation>Выбрать всю дорожку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1677"/>
         <source>Select the whole trace</source>
-        <translation>Выделить всю трассировку</translation>
+        <translation>Выбрать всю дорожку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1685"/>
@@ -3276,17 +3276,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1686"/>
         <source>Measure the total length of all selected trace segments</source>
-        <translation>Измерьте общую длину всех выбранных сегментов трассы</translation>
+        <translation>Измерить общую длину всех выбранных сегментов дорожки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1694"/>
         <source>Remove Whole Trace</source>
-        <translation>Удалить все следы</translation>
+        <translation>Удалить всю дорожку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1695"/>
         <source>Remove the whole trace</source>
-        <translation>Удалить весь след</translation>
+        <translation>Удалить всю дорожку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1704"/>
@@ -6554,7 +6554,7 @@ You need at least LibrePCB %1 to open it.
     <message numerus="yes">
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="248"/>
         <source>Imported %n schematic sheet(s). Please check the ERC messages in the schematic editor.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Импортирован %n лист схемы. Пожалуйста, проверьте ERC сообщения в редакторе схемы.</numerusform><numerusform>Импортировано %n листов схемы. Пожалуйста, проверьте ERC сообщения в редакторе схемы.</numerusform><numerusform>Импортировано %n листов схемы. Пожалуйста, проверьте ERC сообщения в редакторе схемы.</numerusform><numerusform>Импортировано %n листов схемы. Пожалуйста, проверьте ERC сообщения в редакторе схемы.</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="253"/>
@@ -6641,7 +6641,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cat/categorytreelabeltextbuilder.cpp" line="81"/>
         <source>Please choose a category.</source>
-        <translation>Пожалуйста выберите категорию.</translation>
+        <translation>Пожалуйста, выберите категорию.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/keyboardshortcutsmodel.cpp" line="182"/>
@@ -6964,7 +6964,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="78"/>
         <source>Create Local Library</source>
-        <translation>Создать локальную бблиотеку</translation>
+        <translation>Создать локальную библиотеку</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="87"/>
@@ -7049,7 +7049,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="339"/>
         <source>Abort</source>
-        <translation>Отмена</translation>
+        <translation>Прервать</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="353"/>
@@ -7081,12 +7081,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="193"/>
         <source>Please enter a name.</source>
-        <translation>Пожалуйста введите название.</translation>
+        <translation>Пожалуйста, введите название.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="198"/>
         <source>Please enter an author.</source>
-        <translation>Пожалуйста укажите автора.</translation>
+        <translation>Пожалуйста, укажите автора.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="203"/>
@@ -7126,12 +7126,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="325"/>
         <source>Please enter a valid URL.</source>
-        <translation>Пожалуйста задайте корректный URL.</translation>
+        <translation>Пожалуйста, задайте корректный URL.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="330"/>
         <source>Please enter a valid directory.</source>
-        <translation>Пожалуйста задайте корректный путь.</translation>
+        <translation>Пожалуйста, задайте корректный каталог.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="334"/>
@@ -7987,7 +7987,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="110"/>
         <source>Thermal Relief</source>
-        <translation type="unfinished"/>
+        <translation>Термическая разгрузка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="113"/>
@@ -8227,17 +8227,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="781"/>
         <source>Clearances</source>
-        <translation type="unfinished"/>
+        <translation>Зазоры</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="803"/>
         <source>Silkscreen ↔ Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Шелкография ↔ Стоп-маска:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="810"/>
         <source>Drill ↔ Board Edge:</source>
-        <translation type="unfinished"/>
+        <translation>Сверловка ↔ Край платы:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="817"/>
@@ -8302,7 +8302,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="226"/>
         <source>Any Without Curves</source>
-        <translation type="unfinished"/>
+        <translation>Любой кроме кривых</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="230"/>
@@ -8378,7 +8378,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="108"/>
         <source>Off</source>
-        <translation type="unfinished"/>
+        <translation>Выкл.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="115"/>
@@ -8851,7 +8851,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardnetlineedit.cpp" line="38"/>
         <source>Edit trace</source>
-        <translation>Редактирование трассировки</translation>
+        <translation>Редактировать дорожку</translation>
     </message>
 </context>
 <context>
@@ -11655,7 +11655,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="461"/>
         <source>Clearances</source>
-        <translation type="unfinished"/>
+        <translation>Зазоры</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="470"/>
@@ -11666,7 +11666,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="485"/>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="551"/>
         <source>Off</source>
-        <translation type="unfinished"/>
+        <translation>Выкл.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="501"/>
@@ -12522,7 +12522,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="52"/>
         <source>Off</source>
-        <translation type="unfinished"/>
+        <translation>Выкл.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="59"/>
@@ -12583,7 +12583,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="81"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation>Это имя будет использовано как имя автора для вновь созданных проектов и библиотек.</translation>
+        <translation>Это имя будет использоваться в качестве автора при создании новых проектов или библиотек.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="96"/>
@@ -13628,7 +13628,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="94"/>
         <source>Comma separated list of keywords (en_US, optional)</source>
-        <translation>Список разделённых запятыми ключевых слов (en_US, optional)</translation>
+        <translation>Список ключевых слов, разделённых запятыми (en_US, опционально)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="104"/>
