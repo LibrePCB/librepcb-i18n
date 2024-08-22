@@ -587,17 +587,17 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="619"/>
         <source>Clearance trace ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>След зазора ↔ контур платы &lt; %1 %2</translation>
+        <translation>Зазор дорожка ↔ контур платы &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="622"/>
         <source>The clearance between a trace and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Зазор между трассой и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
+        <translation>Зазор между дорожкой и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="626"/>
         <source>Check the DRC settings and move the trace away from the board outline if needed.</source>
-        <translation>Проверьте настройки DRC и при необходимости переместите трассу в сторону от контура платы.</translation>
+        <translation>Проверьте настройки DRC и при необходимости переместите дорожку в сторону от контура платы.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="641"/>
@@ -608,7 +608,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="644"/>
         <source>The clearance between a footprint pad and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Зазор между опорной площадкой и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
+        <translation>Зазор между посад. площадкой и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="648"/>
@@ -619,7 +619,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="663"/>
         <source>Clearance plane ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Плоскость зазора ↔ контур платы &lt; %1 %2</translation>
+        <translation>Зазор плоскость ↔ контур платы &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="666"/>
@@ -712,7 +712,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="518"/>
         <source>trace</source>
-        <translation>трассировка</translation>
+        <translation>дорожка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="520"/>
@@ -772,7 +772,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="850"/>
         <source>Trace in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation>Трасса в зоне сохранения меди: &apos;%1&apos;</translation>
+        <translation>Дорожка в зоне сохранения меди: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="865"/>
@@ -1029,7 +1029,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1512"/>
         <source>The pad origin must be located within the pads copper area, or for THT pads within a hole. Otherwise traces might not beconnected fully. This issue needs to be fixed in the library.</source>
-        <translation>Место установки площадки должно находиться в пределах медной области площадки, а для площадок THT - в отверстии. В противном случае трассы могут быть соединены не полностью. Эта проблема должна быть исправлена в библиотеке.</translation>
+        <translation>Место установки площадки должно находиться в пределах медной области площадки, а для площадок THT - в отверстии. В противном случае, дорожки могут быть соединены не полностью. Эта проблема должна быть исправлена в библиотеке.</translation>
     </message>
 </context>
 <context>
@@ -1182,17 +1182,17 @@ Please make sure this tool is available in PATH.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="316"/>
         <source>Trace width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
-        <translation>Ширина трассировки на &apos;%1&apos;: %2 &lt; %3 %4</translation>
+        <translation>Ширина дорожки на &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="321"/>
         <source>The trace is thinner than the minimum copper width configured in the DRC settings.</source>
-        <translation>Трасса тоньше, чем минимальная ширина меди, заданная в настройках DRC.</translation>
+        <translation>Дорожка тоньше, чем минимальная ширина меди, заданная в настройках DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="324"/>
         <source>Check the DRC settings and increase the trace width if needed.</source>
-        <translation>Проверьте настройки DRC и при необходимости увеличьте ширину трассы.</translation>
+        <translation>Проверьте настройки DRC и при необходимости увеличьте ширину дорожки.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="339"/>
@@ -1823,7 +1823,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="384"/>
         <source>Show All Planes</source>
-        <translation>Показать все планы</translation>
+        <translation>Показать все плоскости</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="385"/>
@@ -1833,7 +1833,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="393"/>
         <source>Hide All Planes</source>
-        <translation>Скрыть все планы</translation>
+        <translation>Скрыть все плоскости</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="394"/>
@@ -1843,7 +1843,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="402"/>
         <source>Rebuild All Planes</source>
-        <translation>Перестроить все виды</translation>
+        <translation>Перестроить все плоскости</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="403"/>
@@ -3588,7 +3588,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="586"/>
         <source>Local Footprint Fiducial (SMT, no soldering)</source>
-        <translation>Локальный отпечаток пальца Fiducial (SMT, без пайки)</translation>
+        <translation>Локальная техническая площадка (SMT, без пайки)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="588"/>
@@ -3662,7 +3662,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="93"/>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="147"/>
         <source>Sheet Frames</source>
-        <translation>Листовые рамы</translation>
+        <translation>Рамки листа</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="99"/>
@@ -3705,7 +3705,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="141"/>
         <source>Pin Names</source>
-        <translation>Имена выводов</translation>
+        <translation>Названия выводов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="153"/>
@@ -3775,12 +3775,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="254"/>
         <source>Top Package Outlines</source>
-        <translation>Конспекты лучших пакетов</translation>
+        <translation>Контуры верхнего корпуса</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="262"/>
         <source>Bottom Package Outlines</source>
-        <translation>Контуры нижнего пакета</translation>
+        <translation>Контуры нижнего корпуса</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="270"/>
@@ -3978,7 +3978,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="180"/>
         <source>Change &amp;Footprint</source>
-        <translation>Изменение &amp;Отпечатка</translation>
+        <translation>Измененить &amp;Посад. место</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="185"/>
@@ -4061,7 +4061,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="41"/>
         <source>Duplicate signal name: &apos;%1&apos;</source>
-        <translation>Дублируется имя сигнала: &apos;%1&apos;</translation>
+        <translation>Дублируется название сигнала: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="42"/>
@@ -4132,7 +4132,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="188"/>
         <source>A footprint pad is connected to a package pad which doesn&apos;t exist. Check all pads for proper connections.</source>
-        <translation>Площадка отпечатка пальца подключена к несуществующей площадке пакета. Проверьте правильность подключения всех подкладок.</translation>
+        <translation>Площадка посад. места соединена с несуществующей площадкой корпуса. Проверьте правильность подключения всех площадок.</translation>
     </message>
 </context>
 <context>
@@ -4228,7 +4228,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="286"/>
         <source>Missing courtyard in footprint &apos;%1&apos;</source>
-        <translation>Отсутствующий двор в отпечатке &apos;%1&apos;</translation>
+        <translation>Отсутствующий двор в посад. месте &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="288"/>
@@ -4298,7 +4298,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="386"/>
         <source>Missing outline in footprint &apos;%1&apos;</source>
-        <translation>Отсутствующий контур в отпечатке &apos;%1&apos;</translation>
+        <translation>Отсутствующий контур для посад. места &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="388"/>
@@ -4363,7 +4363,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/librarybaseelementcheckmessages.cpp" line="48"/>
         <source>Name not title case: &apos;%1&apos;</source>
-        <translation>Имя не в верхнем регистре: &apos;%1&apos;</translation>
+        <translation>Название не в верхнем регистре: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/librarybaseelementcheckmessages.cpp" line="49"/>
@@ -4950,7 +4950,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/types/simplestring.h" line="50"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation>Недопустимое имя: &apos;% 1&apos;</translation>
+        <translation>Недопустимое название: &apos;% 1&apos;</translation>
     </message>
 </context>
 <context>
@@ -5100,7 +5100,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="97"/>
         <source>Names</source>
-        <translation>Имена</translation>
+        <translation>Названия</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="98"/>
@@ -5125,7 +5125,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="102"/>
         <source>Pin Names</source>
-        <translation>Имена выводов</translation>
+        <translation>Названия выводов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="103"/>
@@ -5180,12 +5180,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="122"/>
         <source>Names Top</source>
-        <translation>Названия Топ</translation>
+        <translation>Названия вверху</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="123"/>
         <source>Names Bottom</source>
-        <translation>Название Внизу</translation>
+        <translation>Названия внизу</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="124"/>
@@ -5220,12 +5220,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="130"/>
         <source>Package Outlines Top</source>
-        <translation>Контуры пакета Вверх</translation>
+        <translation>Контуры корпуса верх</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="131"/>
         <source>Package Outlines Bottom</source>
-        <translation>Очертания пакета Внизу</translation>
+        <translation>Контуры корпуса низ</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="132"/>
@@ -5578,7 +5578,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="138"/>
         <source>Rebuild planes...</source>
-        <translation>Перестроить планы...</translation>
+        <translation>Перестроить плоскости...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="150"/>
@@ -5712,25 +5712,25 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="92"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="121"/>
         <source>There is already an assembly variant with the name &quot;%1&quot;!</source>
-        <translation>Уже существует вариант сборки с именем &quot;%1&quot;!</translation>
+        <translation>Уже существует вариант сборки с названием &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="154"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="180"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
-        <translation>Уже существует чистый класс с именем &quot;%1&quot;!</translation>
+        <translation>Уже существует чистый класс с названием &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="233"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="260"/>
         <source>There is already a net signal with the name &quot;%1&quot;!</source>
-        <translation>Уже существует сетевой сигнал с именем &quot;%1&quot;!</translation>
+        <translation>Уже существует сетевой сигнал с названием &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="309"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="339"/>
         <source>There is already a component with the name &quot;%1&quot;!</source>
-        <translation>Компонент с именем &quot;%1&quot; уже существует!</translation>
+        <translation>Компонент с названием &quot;%1&quot; уже существует!</translation>
     </message>
 </context>
 <context>
@@ -6056,7 +6056,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="230"/>
         <source>There is already a schematic with the name &quot;%1&quot;!</source>
-        <translation>Уже есть схема с именем &quot;%1&quot;!</translation>
+        <translation>Уже есть схема с названием &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="237"/>
@@ -6071,7 +6071,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="317"/>
         <source>There is already a board with the name &quot;%1&quot;!</source>
-        <translation>Плата с именем &quot;%1&quot; уже существует!</translation>
+        <translation>Плата с названием &quot;%1&quot; уже существует!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/project.cpp" line="324"/>
@@ -6264,7 +6264,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="602"/>
         <source>ERROR: No board with the name &apos;%1&apos; found.</source>
-        <translation>ОШИБКА: Плата с именем &apos;%1&apos; не обнаружена.</translation>
+        <translation>ОШИБКА: Плата с названием &apos;%1&apos; не обнаружена.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="615"/>
@@ -6487,7 +6487,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="443"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
-        <translation>Зависимый пакет &quot;%1&quot; не импортирован.</translation>
+        <translation>Зависимый корпус &quot;%1&quot; не импортирован.</translation>
     </message>
 </context>
 <context>
@@ -6500,7 +6500,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="372"/>
         <source>Skipped package due to error: %1</source>
-        <translation>Пропущен пакет из-за ошибки: %1</translation>
+        <translation>Корпус пропущен из-за ошибки: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="398"/>
@@ -6684,7 +6684,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="53"/>
         <source>NRND</source>
         <extracomment>Part lifecycle status. Please keep it very very short! Don't use &quot;not recommended for new designs&quot;! If in doubt, just keep the English abbreviation.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Не рекомендуется (NRND)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationprovider.cpp" line="55"/>
@@ -6974,7 +6974,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="104"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="118"/>
@@ -7167,7 +7167,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="57"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="67"/>
@@ -7307,7 +7307,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="211"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.cpp" line="123"/>
@@ -7391,7 +7391,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1553"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1581"/>
         <source>Choose a name:</source>
-        <translation>Выбрать имя:</translation>
+        <translation>Выбрать название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1554"/>
@@ -7602,7 +7602,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="204"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="245"/>
         <source>Draw board plane</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать плоскость на плате</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="220"/>
@@ -7673,7 +7673,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="389"/>
         <source>Draw Board Trace</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать дорожку на плате</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawtrace.cpp" line="397"/>
@@ -7710,7 +7710,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="109"/>
         <source>No Planes</source>
-        <translation type="unfinished"/>
+        <translation>Без плоскостей</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="120"/>
@@ -7906,7 +7906,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="14"/>
         <source>Plane Properties</source>
-        <translation>Свойства поверхности</translation>
+        <translation>Свойства плоскости</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="25"/>
@@ -8015,7 +8015,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="33"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="47"/>
@@ -8509,7 +8509,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="57"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="67"/>
@@ -8753,7 +8753,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="137"/>
         <source>Package does not have any footprints: %1</source>
-        <translation>Пакет не имеет посад. мест: %1</translation>
+        <translation>Корпус не имеет посад. мест: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="163"/>
@@ -8908,7 +8908,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardplaneadd.cpp" line="41"/>
         <source>Add plane to board</source>
-        <translation type="unfinished"/>
+        <translation>Добавить плоскость на плату</translation>
     </message>
 </context>
 <context>
@@ -8916,7 +8916,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardplaneedit.cpp" line="41"/>
         <source>Edit plane</source>
-        <translation type="unfinished"/>
+        <translation>Редактировать плоскость</translation>
     </message>
 </context>
 <context>
@@ -8924,7 +8924,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardplaneremove.cpp" line="41"/>
         <source>Remove plane from board</source>
-        <translation type="unfinished"/>
+        <translation>Удалить плоскость с платы</translation>
     </message>
 </context>
 <context>
@@ -9277,7 +9277,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdfootprintedit.cpp" line="38"/>
         <source>Edit footprint</source>
-        <translation>Править посадочное место</translation>
+        <translation>Править посад. место</translation>
     </message>
 </context>
 <context>
@@ -9445,7 +9445,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdpastefootprintitems.cpp" line="60"/>
         <source>Paste Footprint Elements</source>
-        <translation>Вставить посадочные места элементов</translation>
+        <translation>Вставить посад. места элементов</translation>
     </message>
 </context>
 <context>
@@ -9861,7 +9861,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="35"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/componentcategoryeditorwidget.ui" line="49"/>
@@ -10142,7 +10142,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="226"/>
         <source>Name</source>
-        <translation>Имя</translation>
+        <translation>Название</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="228"/>
@@ -10167,7 +10167,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="361"/>
         <source>There is already a signal with the name &quot;%1&quot;.</source>
-        <translation>Сигнал с именем &quot;%1&quot; уже существует.</translation>
+        <translation>Сигнал с названием &quot;%1&quot; уже существует.</translation>
     </message>
 </context>
 <context>
@@ -10185,7 +10185,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.ui" line="47"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.ui" line="61"/>
@@ -10362,7 +10362,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistmodel.cpp" line="400"/>
         <source>There is already a symbol variant with the name &quot;%1&quot;.</source>
-        <translation>Уже есть вариант символа с именем &quot;%1&quot;.</translation>
+        <translation>Уже есть вариант символа с названием &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -10528,7 +10528,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="856"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
 </context>
 <context>
@@ -10546,7 +10546,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="57"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="67"/>
@@ -10638,7 +10638,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="417"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="431"/>
@@ -10778,7 +10778,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="110"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="120"/>
@@ -11119,7 +11119,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="263"/>
         <source>Packages</source>
-        <translation>Корпусы</translation>
+        <translation>Корпуса</translation>
     </message>
 </context>
 <context>
@@ -11497,7 +11497,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="207"/>
         <source>Footprint name</source>
-        <translation>Имя посад. места</translation>
+        <translation>Название посад. места</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="315"/>
@@ -11517,7 +11517,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="465"/>
         <source>There is already a footprint with the name &quot;%1&quot;.</source>
-        <translation>Посадочное место с именем &quot;%1&quot; уже существует.</translation>
+        <translation>Посадочное место с названием &quot;%1&quot; уже существует.</translation>
     </message>
 </context>
 <context>
@@ -11756,7 +11756,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="56"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="63"/>
@@ -11898,7 +11898,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="57"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="67"/>
@@ -12248,7 +12248,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="73"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="83"/>
@@ -12875,7 +12875,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="69"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="92"/>
@@ -13055,7 +13055,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="174"/>
         <source>Packages</source>
-        <translation>Корпусы</translation>
+        <translation>Корпуса</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="217"/>
@@ -13075,7 +13075,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="350"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="364"/>
@@ -13218,7 +13218,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/lppzoutputjobwidget.ui" line="57"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/lppzoutputjobwidget.ui" line="67"/>
@@ -13289,7 +13289,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="57"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="67"/>
@@ -13363,7 +13363,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="62"/>
         <source>Used to categorize packages</source>
-        <translation>Используется для категоризации пакетов</translation>
+        <translation>Используется для категоризации корпусов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="65"/>
@@ -13461,7 +13461,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="20"/>
         <source>Set the component and the package of the new component.</source>
-        <translation>Установить компонент и пакет для нового компонента.</translation>
+        <translation>Установить компонент и корпус для нового компонента.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="29"/>
@@ -13542,7 +13542,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="20"/>
         <source>Set the component and the package of the new device.</source>
-        <translation type="unfinished"/>
+        <translation>Установить компонент и корпус для нового устройства.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="26"/>
@@ -13593,7 +13593,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="29"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="36"/>
@@ -13782,7 +13782,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="32"/>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="78"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="46"/>
@@ -13817,7 +13817,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="32"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="49"/>
@@ -13908,7 +13908,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="192"/>
         <source>Please enter a project name</source>
-        <translation>Пожалуйста, введите имя проекта</translation>
+        <translation>Пожалуйста, введите название проекта</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="217"/>
@@ -13964,7 +13964,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.ui" line="87"/>
         <source>Name + Version</source>
-        <translation>Имя + Версия</translation>
+        <translation>Название + Версия</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.ui" line="116"/>
@@ -14344,7 +14344,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="35"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cat/packagecategoryeditorwidget.ui" line="49"/>
@@ -14427,7 +14427,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="202"/>
         <source>Could not load packages</source>
-        <translation>Не могу загрузить корпусы</translation>
+        <translation>Не могу загрузить корпуса</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="209"/>
@@ -14447,7 +14447,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="255"/>
         <source>Please select a package.</source>
-        <translation>Пожалуйста выберите корпус.</translation>
+        <translation>Пожалуйста, выберите корпус.</translation>
     </message>
 </context>
 <context>
@@ -14609,7 +14609,7 @@ For more information about licensing, click on this icon.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="267"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="361"/>
         <source>Add footprint polygon</source>
-        <translation>Добавить полигон посад. места</translation>
+        <translation>Добавить многоугольник посад. места</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="283"/>
@@ -14689,7 +14689,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="292"/>
         <source>Add footprint text</source>
-        <translation>Добавить текст посадочного места</translation>
+        <translation>Добавить текст посад. места</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="306"/>
@@ -14724,7 +14724,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="108"/>
         <source>No Planes</source>
-        <translation type="unfinished"/>
+        <translation>Без плоскостей</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="118"/>
@@ -14835,7 +14835,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1374"/>
         <source>No content (e.g. pads or documentation polygons) found to generate the package outline from. Please add at least the pads before invoking this command.</source>
-        <translation type="unfinished"/>
+        <translation>Не найдено содержимое (например, конт. площадки или многоугольники документации), из которого можно сгенерировать контур пакета. Пожалуйста, добавьте хотя бы конт. площадки, прежде чем вызывать эту команду.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1394"/>
@@ -14873,7 +14873,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="181"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="195"/>
@@ -14963,7 +14963,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="695"/>
         <source>Please select a footprint.</source>
-        <translation>Пожалуйста выберите посадочное место.</translation>
+        <translation>Пожалуйста, выберите посадочное место.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="780"/>
@@ -15340,7 +15340,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="57"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="77"/>
@@ -15554,7 +15554,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/projectjsonoutputjobwidget.ui" line="57"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/projectjsonoutputjobwidget.ui" line="67"/>
@@ -17375,17 +17375,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="51"/>
         <source>No copper (except planes)</source>
-        <translation type="unfinished"/>
+        <translation>Без меди (кроме плоскостей)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="58"/>
         <source>Prevent copper planes from flooding this zone.</source>
-        <translation type="unfinished"/>
+        <translation>Предотвратить заполнение этой зоны плоскостями меди.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="61"/>
         <source>No planes</source>
-        <translation type="unfinished"/>
+        <translation>Без плоскостей</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="68"/>
