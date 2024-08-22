@@ -6773,7 +6773,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="147"/>
         <source>Credits</source>
-        <translation type="unfinished"/>
+        <translation>Титры</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.ui" line="291"/>
