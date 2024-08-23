@@ -17454,7 +17454,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="242"/>
         <source>Unstable file format!</source>
-        <translation>Нестабильный формат файлов!</translation>
+        <translation>Нестабильный формат файла!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="243"/>
