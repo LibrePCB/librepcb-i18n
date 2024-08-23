@@ -1877,7 +1877,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="432"/>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="793"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="803"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
@@ -2208,1138 +2208,1148 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="729"/>
+        <source>Move/Align Objects</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="730"/>
+        <source>Move and/or align the selected object(s) vertically or horizontally</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="739"/>
         <source>Snap to Grid</source>
         <translation>Привязка к сетке</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="730"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="740"/>
         <source>Move the selected object(s) to snap the grid</source>
         <translation>Переместите выбранный объект (объекты), чтобы привязать сетку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="738"/>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1703"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="748"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1713"/>
         <source>Lock Placement</source>
         <translation>Размещение замка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="739"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="749"/>
         <source>Lock the placement of the selected object(s)</source>
         <translation>Зафиксировать размещение выбранного объекта (объектов)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="747"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="757"/>
         <source>Unlock Placement</source>
         <translation>Разблокировать размещение</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="748"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="758"/>
         <source>Unlock the placement of the selected object(s)</source>
         <translation>Разблокируйте размещение выбранного объекта (объектов)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="756"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="766"/>
         <source>Set Line Width</source>
         <translation>Установите толщину линии</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="757"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="767"/>
         <source>Change the line/trace/stroke width of the selected object(s)</source>
         <translation>Изменение толщины линии/обводки/штриха выбранного объекта(ов)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="766"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="776"/>
         <source>Reset All Texts</source>
         <translation>Сброс всех сообщений</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="767"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="777"/>
         <source>Reset all texts of the footprint to their initial state</source>
         <translation>Верните все тексты следа в исходное состояние</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="775"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="785"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="776"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="786"/>
         <source>View/modify the object properties</source>
         <translation>Просмотр/изменение свойств объекта</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="784"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="794"/>
         <source>Rename</source>
         <translation>Переименовать</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="785"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="795"/>
         <source>Rename the selected object</source>
         <translation>Переименовать выделенный объект</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="794"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="804"/>
         <source>Delete the selected object(s)</source>
         <translation>Удалить выбранный объект(ы)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="801"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="811"/>
         <source>View</source>
         <translation>Вид</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="805"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="815"/>
         <source>Zoom to Fit Contents</source>
         <translation>Масштабирование содержимого</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="806"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="816"/>
         <source>Set the zoom level to fit the whole content</source>
         <translation>Установите уровень масштабирования, чтобы поместить все содержимое</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="814"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="824"/>
         <source>Zoom In</source>
         <translation>Увеличить</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="815"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="825"/>
         <source>Increase the zoom level</source>
         <translation>Увеличить уровень увеличения</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="823"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="833"/>
         <source>Zoom Out</source>
         <translation>Уменьшить</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="824"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="834"/>
         <source>Decrease the zoom level</source>
         <translation>Уменьшить уровень увеличения</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="832"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="842"/>
         <source>Increase Grid Interval</source>
         <translation>Увеличить интервал сетки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="833"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="843"/>
         <source>Increase the grid interval</source>
         <translation>Увеличить интервал сетки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="841"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="851"/>
         <source>Decrease Grid Interval</source>
         <translation>Уменьшить интервал сетки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="842"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="852"/>
         <source>Decrease the grid interval</source>
         <translation>Уменьшить интервал сетки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="850"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="860"/>
         <source>Show Pin Numbers</source>
         <translation>Отобразить номера выводов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="851"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="861"/>
         <source>Show or hide symbol pin numbers</source>
         <translation>Отобразить / скрыть номера выводов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="859"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="869"/>
         <source>Ignore Placement Locks</source>
         <translation>Замки с игнорированием размещения</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="860"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="870"/>
         <source>Allow dragging locked items</source>
         <translation>Разрешить перетаскивание заблокированных элементов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="868"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="878"/>
         <source>Toggle 2D/3D Mode</source>
         <translation>Переключить 2D/3D режим</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="869"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="879"/>
         <source>Switch between 2D and 3D viewer mode</source>
         <translation>Переключение между 2D и 3D режимами отображения</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="876"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="886"/>
         <source>Tools</source>
         <translation>Инструменты</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="880"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="890"/>
         <source>Select</source>
         <translation>Выбрать</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="881"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="891"/>
         <source>Select &amp; modify existing objects</source>
         <translation>Выбор и изменение существующих объектов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="889"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="899"/>
         <source>Draw Line</source>
         <translation>Нарисовать линию</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="890"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="900"/>
         <source>Draw graphical lines</source>
         <translation>Рисуйте графические линии</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="898"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="908"/>
         <source>Draw Rectangle</source>
         <translation>Нарисовать прямоугольник</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="899"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="909"/>
         <source>Draw graphical rectangles</source>
         <translation>Рисуйте графические прямоугольники</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="907"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="917"/>
         <source>Draw Polygon</source>
         <translation>Нарисовать многоугольник</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="908"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="918"/>
         <source>Draw graphical polygons</source>
         <translation>Рисовать графические многоугольники</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="916"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="926"/>
         <source>Draw Circle</source>
         <translation>Нарисовать окружность</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="917"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="927"/>
         <source>Draw graphical circles</source>
         <translation>Рисовать графические круги</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="925"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="935"/>
         <source>Draw Arc</source>
         <translation>Нарисовать дугу</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="926"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="936"/>
         <source>Draw graphical arcs</source>
         <translation>Рисовать графические дуги</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="934"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="944"/>
         <source>Add Text</source>
         <translation>Добавить текст</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="935"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="945"/>
         <source>Add graphical text objects</source>
         <translation>Добавление графических текстовых объектов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="943"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="953"/>
         <source>Add Name</source>
         <translation>Добавить имя</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="944"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="954"/>
         <source>Add graphical text objects for &apos;{{NAME}}&apos;</source>
         <translation>Добавьте графические текстовые объекты для &apos;{{НАЗВАНИЕ}}&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="952"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="962"/>
         <source>Add Value</source>
         <translation>Добавить значение</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="953"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="963"/>
         <source>Add graphical text objects for &apos;{{VALUE}}&apos;</source>
         <translation>Добавьте графические текстовые объекты для &apos;{{VALUE}}&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="961"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="971"/>
         <source>Add Pin</source>
         <translation>Добавить вывод</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="962"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="972"/>
         <source>Add symbol pins (electrical connections for schematics)</source>
         <translation>Добавьте символы контактов (электрические соединения для схем)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="970"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="980"/>
         <source>Add THT Pad</source>
         <translation>Добавить THT-площадку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="971"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="981"/>
         <source>Add plated through-hole copper pads</source>
         <translation>Добавьте медные прокладки со сквозными отверстиями</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="979"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="989"/>
         <source>Add SMT Pad</source>
         <translation>Добавить SMT контактную площадку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="980"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="990"/>
         <source>Add surface mounted (single layer) copper pads</source>
         <translation>Добавьте медные прокладки для поверхностного монтажа (однослойные)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="988"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="998"/>
         <source>Add Thermal Pad</source>
         <translation>Добавить термопрокладку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="989"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="999"/>
         <source>Add special SMT pads used as heat sink</source>
         <translation>Добавьте специальные SMT-площадки, используемые в качестве теплоотвода</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="997"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1007"/>
         <source>Add BGA Pad</source>
         <translation>Добавить BGA контактную площадку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="998"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1008"/>
         <source>Add special SMT pads used for ball grid arrays</source>
         <translation>Добавьте специальные SMT-площадки, используемые для шариковых массивов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1006"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1016"/>
         <source>Add Edge Connector Pad</source>
         <translation>Добавить соединительную накладку для краев</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1007"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1017"/>
         <source>Add special SMT pads used as edge connector</source>
         <translation>Добавьте специальные SMT-пластины, используемые в качестве краевых разъемов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1015"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1025"/>
         <source>Add Test Pad</source>
         <translation>Добавить тестовую площадку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1016"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1026"/>
         <source>Add special SMT pads used as test points</source>
         <translation>Добавьте специальные площадки SMT, используемые в качестве контрольных точек</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1024"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1034"/>
         <source>Add Local Fiducial Pad</source>
         <translation>Добавить локальную панель Fiducial Pad</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1025"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1035"/>
         <source>Add special SMT pads used as local fiducials</source>
         <translation>Добавление специальных SMT-прокладок, используемых в качестве локальных ориентиров</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1033"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1043"/>
         <source>Add Global Fiducial Pad</source>
         <translation>Добавить глобальную фидуциальную подушку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1034"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1044"/>
         <source>Add special SMT pads used as global fiducials</source>
         <translation>Добавление специальных SMT-прокладок, используемых в качестве глобальных ориентиров</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1042"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1052"/>
         <source>Draw Keepout Zone</source>
         <translation>Зона сохранения рисунка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1043"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1053"/>
         <source>Draw keep-out zones</source>
         <translation>Нарисуйте запретные зоны</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1051"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1061"/>
         <source>Add Hole</source>
         <translation>Добавить отверстие</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1052"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1062"/>
         <source>Add non-plated holes (NPTH drills)</source>
         <translation>Добавить отверстия без металлизации (NPTH сверловка)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1060"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1070"/>
         <source>Draw Wire</source>
         <translation>Рисовать дорожку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1061"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1071"/>
         <source>Draw wires to create electrical connections between symbol pins</source>
         <translation>Рисуйте провода для создания электрических соединений между контактами символов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1070"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1080"/>
         <source>Add Net Label</source>
         <translation>Добавить метку цепи</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1071"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1081"/>
         <source>Add net labels to explicitly specify the net of wires</source>
         <translation>Добавьте метки, чтобы явно указать цепь проводников</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1079"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1089"/>
         <source>Add Component</source>
         <translation>Добавить компонент </translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1080"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1090"/>
         <source>Insert components from the workspace libraries</source>
         <translation>Вставить компоненты из библиотеки рабочего пространства</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1088"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1098"/>
         <source>Draw Trace</source>
         <translation>Нарисовать дорожку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1089"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1099"/>
         <source>Draw copper traces to interconnect devices</source>
         <translation>Нарисуйте медные дорожки для соединения устройств</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1097"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1107"/>
         <source>Add Via</source>
         <translation>Добавить переходное отверстие</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1098"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1108"/>
         <source>Add plated through-hole vias</source>
         <translation>Добавить позолоченное переходное отверстие, проходящее через несколько слоев</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1106"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1116"/>
         <source>Draw Plane</source>
         <translation>Нарисовать плоскость</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1107"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1117"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
         <translation>Нарисуйте медные области с автоматическим заполнением для соединительных площадок и каналов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1115"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1125"/>
         <source>Generate Outline</source>
         <translation>Сгенерировать контур</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1116"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1126"/>
         <source>Automatically generate the outline polygon</source>
         <translation>Автоматическое создание контура многоугольника </translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1124"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1134"/>
         <source>Generate Courtyard</source>
         <translation>Создать внутренний двор</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1125"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1135"/>
         <source>Automatically generate the courtyard polygon</source>
         <translation>Автоматическое создание дворового многоугольника</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1133"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1143"/>
         <source>Measure Distance</source>
         <translation>Измерение расстояния</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1134"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1144"/>
         <source>Measure the distance between two points</source>
         <translation>Измерение расстояния между двумя точками</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1142"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1152"/>
         <source>Commands</source>
         <translation>Команды</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1145"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1155"/>
         <source>Go To Command Toolbar</source>
         <translation>Перейти панели Команд</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1146"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1156"/>
         <source>Move the focus into the command toolbar</source>
         <translation>Перенести фокус ввода в панель команд</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1154"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1164"/>
         <source>Abort Command</source>
         <translation>Прервать команду</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1155"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1165"/>
         <source>Abort the currently active command</source>
         <translation>Прервать текущую активную команду</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1163"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1173"/>
         <source>Layer Up</source>
         <translation>Слой вверх</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1164"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1174"/>
         <source>Switch to the next higher layer (bottom-&gt;top)</source>
         <translation>Переключиться на следующий более высокий слой (нижний-&gt;верхний)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1172"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1182"/>
         <source>Layer Down</source>
         <translation>Слой вниз</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1173"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1183"/>
         <source>Switch to the next lower layer (top-&gt;bottom)</source>
         <translation>Переключиться на следующий более нижний слой (верхний-&gt;нижний)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1181"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1191"/>
         <source>Increase Line Width</source>
         <translation>Увеличить толщину линии</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1182"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1192"/>
         <source>Increase the line/trace/stroke/pad width</source>
         <translation>Увеличить толщину линии/дорожки/штриха/площадки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1190"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1200"/>
         <source>Decrease Line Width</source>
         <translation>Уменьшить толщину линии</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1191"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1201"/>
         <source>Decrease the line/trace/stroke/pad width</source>
         <translation>Уменьшить толщину линии/дорожки/штриха/площадки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1199"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1209"/>
         <source>Increase Size</source>
         <translation>Увеличить размер</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1200"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1210"/>
         <source>Increase the via/pad/pin/text size</source>
         <translation>Увеличить размер переходного отверстия/площадки/контакта/текста</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1208"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1218"/>
         <source>Decrease Size</source>
         <translation>Уменьшить размер</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1209"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1219"/>
         <source>Decrease the via/pad/pin/text size</source>
         <translation>Уменьшить размер переходного отверстия/площадки/контакта/текста</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1217"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1227"/>
         <source>Increase Drill</source>
         <translation>Увеличить сверловку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1218"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1228"/>
         <source>Increase the via/pad/hole drill diameter</source>
         <translation>Увеличение диаметра отверстий/прокладок/буров</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1226"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1236"/>
         <source>Decrease Drill</source>
         <translation>Уменьшить Сверло</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1227"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1237"/>
         <source>Decrease the via/pad/hole drill diameter</source>
         <translation>Уменьшение диаметра отверстий/прокладок/сверл</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1235"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1245"/>
         <source>Toggle Auto-Width</source>
         <translation>Включить автоматическую ширину</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1236"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1246"/>
         <source>Toggle the auto-width property state</source>
         <translation>Переключение состояния свойства автоширины</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1244"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1254"/>
         <source>Toggle Fill</source>
         <translation>Переключить заливку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1245"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1255"/>
         <source>Toggle the fill property state</source>
         <translation>Переключение состояния свойства заполнения</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1253"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1263"/>
         <source>Toggle Grab Area</source>
         <translation>Переключение области захвата</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1254"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1264"/>
         <source>Toggle the grab area property state</source>
         <translation>Переключение состояния свойства области захвата</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1262"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1272"/>
         <source>Align Left</source>
         <translation>Выровнять по левому краю</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1263"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1273"/>
         <source>Horizontal alignment: Left</source>
         <translation>Выравнивание по горизонтали: слева</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1271"/>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1298"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1281"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1308"/>
         <source>Align Center</source>
         <translation>Выровнять по центру</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1272"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1282"/>
         <source>Horizontal alignment: Center</source>
         <translation>Выравнивание по горизонтали: по центру</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1280"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1290"/>
         <source>Align Right</source>
         <translation>Выровнять по правому краю</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1281"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1291"/>
         <source>Horizontal alignment: Right</source>
         <translation>Выравнивание по горизонтали: справо</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1289"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1299"/>
         <source>Align Bottom</source>
         <translation>Выровнять по низу</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1290"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1300"/>
         <source>Vertical alignment: Bottom</source>
         <translation>Выравнивание по вертикали: по низу</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1299"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1309"/>
         <source>Vertical alignment: Center</source>
         <translation>Выравнивание по вертикали: по центру</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1307"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1317"/>
         <source>Align Top</source>
         <translation>Выровнять по верху</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1308"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1318"/>
         <source>Vertical alignment: Top</source>
         <translation>Выравнивание по вертикали: по верху</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1316"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1326"/>
         <source>Horizontal - Vertical</source>
         <translation>Горизонтально - вертикально</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1317"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1327"/>
         <source>Wire mode: First segment horizontal, second segment vertical</source>
         <translation>Режим проводки: Первый сегмент горизонтально, второй сегмент вертикально</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1326"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1336"/>
         <source>Vertical - Horizontal</source>
         <translation>Вертикально - горизонтально</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1327"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1337"/>
         <source>Wire mode: First segment vertical, second segment horizontal</source>
         <translation>Режим проводки: Первый сегмент вертикально, второй сегмент горизонтально</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1336"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1346"/>
         <source>90° - 45°</source>
         <translation>90° - 45°</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1337"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1347"/>
         <source>Wire mode: First segment 90°, second segment 45°</source>
         <translation>Режим проводки: Первый сегмент 90°, второй сегмент 45°</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1345"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1355"/>
         <source>45° - 90°</source>
         <translation>45° - 90°</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1346"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1356"/>
         <source>Wire mode: First segment 45°, second segment 90°</source>
         <translation>Режим проводки: Первый сегмент 45°, второй сегмент 90°</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1354"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1364"/>
         <source>Straight</source>
         <translation>Прямой</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1355"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1365"/>
         <source>Wire mode: Straight line</source>
         <translation>Режим проводки: прямые линии</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1363"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1373"/>
         <source>Round</source>
         <translation>Круг</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1364"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1374"/>
         <source>Shape: Round</source>
         <translation>Форма: Круглая</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1372"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1382"/>
         <source>Rounded Rectangle</source>
         <translation>Закругленный прямоугольник</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1373"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1383"/>
         <source>Shape: Rounded Rectangle</source>
         <translation>Форма: Закругленный прямоугольник</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1381"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1391"/>
         <source>Rectangle</source>
         <translation>Прямоугольник</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1382"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1392"/>
         <source>Shape: Rectangle</source>
         <translation>Форма: Прямоугольник</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1390"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1400"/>
         <source>Octagon</source>
         <translation>Восьмиугольник</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1391"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1401"/>
         <source>Shape: Octagon</source>
         <translation>Форма: Восьмиугольник</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1399"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1409"/>
         <source>Components</source>
         <translation>Компоненты</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1402"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1412"/>
         <source>Resistor</source>
         <translation>Резистор</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1403"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1413"/>
         <source>Add standard component: Resistor</source>
         <translation>Добавить стандартный компонент: резистор</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1411"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1421"/>
         <source>Inductor</source>
         <translation>Индуктивность</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1412"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1422"/>
         <source>Add standard component: Inductor</source>
         <translation>Добавить стандартный компонент: индуктивность</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1420"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1430"/>
         <source>Bipolar Capacitor</source>
         <translation>Биполярный конденсатор</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1421"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1431"/>
         <source>Add standard component: Bipolar capacitor</source>
         <translation>Добавить стандартный компонент: биполярный конденсатор</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1429"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1439"/>
         <source>Unipolar Capacitor</source>
         <translation>Однополярный конденсатор</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1430"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1440"/>
         <source>Add standard component: Unipolar capacitor</source>
         <translation>Добавить стандартный компонент: однополярный конденсатор</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1438"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1448"/>
         <source>GND Supply</source>
         <translation>GND линия</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1439"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1449"/>
         <source>Add standard component: GND supply</source>
         <translation>Добавить стандартный компонент: GND линия</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1447"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1457"/>
         <source>VCC Supply</source>
         <translation>VCC линия</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1448"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1458"/>
         <source>Add standard component: VCC supply</source>
         <translation>Добавить стандартный компонент: VCC линия</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1455"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1465"/>
         <source>Docks</source>
         <translation>Документы</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1459"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1469"/>
         <source>Pages</source>
         <translation>Страницы</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1460"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1470"/>
         <source>Go to the pages dock</source>
         <translation>Перейдите на страницу с документом</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1468"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1478"/>
         <source>Electrical Rule Check (ERC)</source>
         <translation>Проверка электрических правил (ERC)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1469"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1479"/>
         <source>Go to the ERC messages dock</source>
         <translation>Перейти в панель управления сообщениями ERC</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1477"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1487"/>
         <source>Design Rule Check (DRC)</source>
         <translation>Проверка правил проектирования (DRC)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1478"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1488"/>
         <source>Go to the DRC messages dock</source>
         <translation>Перейти на панель управления сообщениями DRC</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1486"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1496"/>
         <source>Layers</source>
         <translation>Слои</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1487"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1497"/>
         <source>Go to the layers dock</source>
         <translation>Перейдите в панель слоев</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1495"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1505"/>
         <source>Place Devices</source>
         <translation>Разместить устройства</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1496"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1506"/>
         <source>Go to the dock for placing devices</source>
         <translation>Перейдите в док для размещения устройств</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1504"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1514"/>
         <source>Window Management</source>
         <translation>Управление окнами</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1508"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1518"/>
         <source>Next Tab/Page</source>
         <translation>Следующая вкладка/страница</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1509"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1519"/>
         <source>Navigate to the next tab or page</source>
         <translation>Перейти к следующей вкладке или странице</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1517"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1527"/>
         <source>Previous Tab/Page</source>
         <translation>Предыдущая вкладка/страница</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1518"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1528"/>
         <source>Navigate to the previous tab or page</source>
         <translation>Перейти на предыдущую вкладку или страницу</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1526"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1536"/>
         <source>Close Tab</source>
         <translation>Закрыть вкладку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1527"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1537"/>
         <source>Close the currently opened tab</source>
         <translation>Закрыть текущую открытую вкладку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1535"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1545"/>
         <source>Close All Tabs</source>
         <translation>Закрыть все вкладки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1536"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1546"/>
         <source>Close all currently opened tabs</source>
         <translation>Закрыть все текущие открытые вкладки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1544"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1554"/>
         <source>Close Window</source>
         <translation>Закрыть окно</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1545"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1555"/>
         <source>Close this window</source>
         <translation>Закрыть это окно</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1553"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1563"/>
         <source>Close Project</source>
         <translation>Закрыть проект</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1554"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1564"/>
         <source>Close the currently opened project</source>
         <translation>Закрыть текущий открытый проект</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1562"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1572"/>
         <source>Close All Projects</source>
         <translation>Закрыть все проекты</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1563"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1573"/>
         <source>Close all currently opened projects</source>
         <translation>Закрыть все текущие открытые проекты</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1571"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1581"/>
         <source>Quit</source>
         <translation>Выход</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1572"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1582"/>
         <source>Close the whole application</source>
         <translation>Закрыть всё приложение целиком</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1579"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1589"/>
         <source>Help</source>
         <translation>Справка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1583"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1593"/>
         <source>About LibrePCB</source>
         <translation>О приложении LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1584"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1594"/>
         <source>Show information about the application</source>
         <translation>Отобразить информацию о приложении</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1592"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1602"/>
         <source>About Qt</source>
         <translation>О библиотеке Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1593"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1603"/>
         <source>Show information about Qt</source>
         <translation>Отобразить информацию о Qt</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1601"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1611"/>
         <source>LibrePCB Website</source>
         <translation>Сайт LibrePCB</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1602"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1612"/>
         <source>Open the LibrePCB website in the web browser</source>
         <translation>Открыть веб-сайт LibrePCB в веб-браузере</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1610"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1620"/>
         <source>Online Documentation</source>
         <translation>Документация в Сети</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1611"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1621"/>
         <source>Open the documentation in the web browser</source>
         <translation>Открыть документацию в веб-браузере</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1619"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1629"/>
         <source>Keyboard Shortcuts Reference</source>
         <translation>Настройка сочетаний клавиш</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1620"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1630"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
         <translation>Открыть краткую справку о сочетаниях клавиш</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1628"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1638"/>
         <source>Context Menu</source>
         <translation>Контекстное меню</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1631"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1641"/>
         <source>New Folder</source>
         <translation>Новый каталог</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1632"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1642"/>
         <source>Create a new folder</source>
         <translation>Создать новый каталог</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1640"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1650"/>
         <source>Add To Favorites</source>
         <translation>Добавить в избранное</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1641"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1651"/>
         <source>Add project to favorites</source>
         <translation>Добавить проект в избранное</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1649"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1659"/>
         <source>Remove From Favorites</source>
         <translation>Удалить из избранного</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1650"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1660"/>
         <source>Remove project from favorites</source>
         <translation>Удалить проект из избранного</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1658"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1668"/>
         <source>Add Vertex</source>
         <translation>Добавить вершину</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1659"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1669"/>
         <source>Insert a new vertex into the selected polygon edge</source>
         <translation>Вставить новую вершину в выбранное ребро многоугольника</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1667"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1677"/>
         <source>Remove Vertex</source>
         <translation>Удалить вершину</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1668"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1678"/>
         <source>Remove the selected vertex from the polygon</source>
         <translation>Удалить выбранную вершину из многоугольника</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1676"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1686"/>
         <source>Select Whole Trace</source>
         <translation>Выбрать всю дорожку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1677"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1687"/>
         <source>Select the whole trace</source>
         <translation>Выбрать всю дорожку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1685"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1695"/>
         <source>Measure Selected Segments Length</source>
         <translation>Измерить длину выбранных сегментов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1686"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1696"/>
         <source>Measure the total length of all selected trace segments</source>
         <translation>Измерить общую длину всех выбранных сегментов дорожки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1694"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1704"/>
         <source>Remove Whole Trace</source>
         <translation>Удалить всю дорожку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1695"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1705"/>
         <source>Remove the whole trace</source>
         <translation>Удалить всю дорожку</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1704"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1714"/>
         <source>Toggle placement lock</source>
         <translation>Переключение блокировки размещения</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1712"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1722"/>
         <source>Visible</source>
         <translation>Видимость</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1713"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1723"/>
         <source>Toggle visibility</source>
         <translation>Переключить видимость</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1721"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1731"/>
         <source>Copy MPN to Clipboard</source>
         <translation>Копирование MPN в буфер обмена</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1722"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1732"/>
         <source>Copy this MPN into the clipboard</source>
         <translation>Скопируйте этот MPN в буфер обмена</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1730"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1740"/>
         <source>Open Product Website</source>
         <translation>Открытый сайт продукта</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1731"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1741"/>
         <source>Open product details about this part in the web browser</source>
         <translation>Открыть подробную информацию об этой детали в веб-браузере</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1739"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1749"/>
         <source>Open Pricing Website</source>
         <translation>Открытый веб-сайт по прайсам</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1740"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1750"/>
         <source>Open pricing details about this part in the web browser</source>
         <translation>Открыть информацию о ценах на эту деталь в веб-браузере</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1749"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1759"/>
         <source>Generate Content</source>
         <translation>Генерировать контент</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1750"/>
+        <location filename="../libs/librepcb/editor/editorcommandset.h" line="1760"/>
         <source>Automatically generate some content</source>
         <translation>Автоматически генерировать некоторый контент</translation>
     </message>
@@ -12841,32 +12851,32 @@ Do you want to save them before closing it?</source>
         <translation>Несохранённые изменения</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="754"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="757"/>
         <source>File</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="766"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="769"/>
         <source>Edit</source>
         <translation>Правка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="779"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="782"/>
         <source>View</source>
         <translation>Вид</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="791"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="794"/>
         <source>Filter elements...</source>
         <translation>Фильтр элементов...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="806"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="809"/>
         <source>Command</source>
         <translation>Команда</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="814"/>
+        <location filename="../libs/librepcb/editor/library/libraryeditor.cpp" line="817"/>
         <source>Tools</source>
         <translation>Инструменты</translation>
     </message>
@@ -13278,6 +13288,79 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="90"/>
         <source>Temporarily hide this message.</source>
         <translation>Временно скрыть это сообщение.</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::MoveAlignDialog</name>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="14"/>
+        <source>Move/Align Elements</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="32"/>
+        <source>Reference Position (Top Left)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="38"/>
+        <source>Mode:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="47"/>
+        <source>Absolute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="57"/>
+        <source>Relative</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="66"/>
+        <source>X:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="81"/>
+        <source>Center around Y-axis</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="97"/>
+        <source>Y:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="112"/>
+        <source>Center around X-axis</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="131"/>
+        <source>Pitch</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="155"/>
+        <source>ΔX:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="174"/>
+        <source>Align vertically (ΔX=0)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="187"/>
+        <source>ΔY:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="206"/>
+        <source>Align horizontally (ΔY=0)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14784,82 +14867,84 @@ For more information about licensing, click on this icon.</source>
 <context>
     <name>librepcb::editor::PackageEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="288"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="312"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="324"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="336"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="446"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="498"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="704"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="734"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1048"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1187"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1247"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1270"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1282"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1291"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1379"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1509"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1536"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1557"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1578"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1599"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="292"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="316"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="328"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="340"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="450"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="502"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="719"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="749"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1068"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1207"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1267"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1290"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1310"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1319"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1331"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1340"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1428"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1558"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1585"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1606"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1627"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1648"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="878"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1105"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="893"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1125"/>
         <source>Paste Geometry</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="880"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="895"/>
         <source>Apply the same geometry as the object in the clipboard</source>
         <translation>Применить ту же геометрию что и у объекта в буфере обмена</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1045"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1065"/>
         <source>Copied to clipboard!</source>
         <translation>Скопировано в буфер обмена!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1204"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1224"/>
         <source>Paste Footprint Elements</source>
         <translation>Вставить посадочные места элементов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1304"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1353"/>
         <source>Generate package outline</source>
         <translation>Сгенерировать контур корпуса</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1373"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1422"/>
         <source>No Content</source>
         <translation>Комментариев нет</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1374"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1423"/>
         <source>No content (e.g. pads or documentation polygons) found to generate the package outline from. Please add at least the pads before invoking this command.</source>
         <translation>Не найдено содержимое (например, конт. площадки или многоугольники документации), из которого можно сгенерировать контур пакета. Пожалуйста, добавьте хотя бы конт. площадки, прежде чем вызывать эту команду.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1394"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1443"/>
         <source>Courtyard Excess</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1419"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1468"/>
         <source>Generate courtyard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1502"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1551"/>
         <source>No Outline</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1503"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1552"/>
         <source>The courtyard can only be generated if there&apos;s a package outline polygon or circle, so that needs to be added first.</source>
         <translation>Двор может быть создан только в том случае, если для корпуса задан многоугольник или круг контура, поэтому их нужно добавить в первую очередь.</translation>
     </message>
@@ -14967,27 +15052,27 @@ For more information about licensing, click on this icon.</source>
         <translation>Неудачное сохранение</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="695"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="699"/>
         <source>Please select a footprint.</source>
         <translation>Пожалуйста, выберите посадочное место.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="780"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="784"/>
         <source>New Line Width</source>
         <translation>Новая толщина линии</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="969"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="973"/>
         <source>Apply to all unspecified pads</source>
         <translation>Применить для всех неопределенных контактных площадок</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="991"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="995"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>Исправить  функции неопределенных контактных площадок</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1099"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1103"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -17192,7 +17277,7 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="779"/>
         <source>Auto-Fetch Live Part Information</source>
-        <translation type="unfinished"/>
+        <translation>Автоматическое получать информацию о деталях в реальном времени</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="72"/>
@@ -17338,7 +17423,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="609"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
-        <translation type="unfinished"/>
+        <translation>Сбросить  все постоянно отклоняемые сообщения (такие как &quot;не показывать снова&quot;), чтобы они снова появлялись.</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="612"/>
