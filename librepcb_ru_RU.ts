@@ -8122,7 +8122,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="429"/>
         <source>Component Side Pads:</source>
-        <translation type="unfinished"/>
+        <translation>Боковые площадки компонента:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="451"/>
@@ -8167,7 +8167,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="586"/>
         <source>Copper Width:</source>
-        <translation type="unfinished"/>
+        <translation>Толщина меди:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="619"/>
@@ -8232,7 +8232,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="753"/>
         <source>Outline Tool Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Диаметр инструмента обводки:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="781"/>
@@ -8687,7 +8687,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="126"/>
         <source>To copy values e.g. from a datasheet PDF, two modes are available:</source>
-        <translation type="unfinished"/>
+        <translation>Для копирования значений, например, из PDF-файла с техническими данными, доступны два режима:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="130"/>
@@ -9081,7 +9081,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombinenetsignals.cpp" line="59"/>
         <source>Combine Net Signals</source>
-        <translation type="unfinished"/>
+        <translation>Объединить сигналы цепи</translation>
     </message>
 </context>
 <context>
@@ -10380,7 +10380,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistwidget.cpp" line="152"/>
         <source>Could not edit symbol variant</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось редактировать вариант символа</translation>
     </message>
 </context>
 <context>
@@ -10638,7 +10638,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="329"/>
         <source>Parts for Assembly (BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>Детали для сборки (BOM/PnP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="356"/>
@@ -11374,7 +11374,8 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="109"/>
         <source>Top Solder Paste
 (Top Stencil):</source>
-        <translation type="unfinished"/>
+        <translation>Верхняя паяльная паста
+(верхних шаблон):</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="138"/>
@@ -11400,7 +11401,8 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="208"/>
         <source>Bottom Solder Paste
 (Bottom Stencil):</source>
-        <translation type="unfinished"/>
+        <translation>Нижняя паяльная паста
+(нижний шаблон):</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="216"/>
@@ -11825,7 +11827,8 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="196"/>
         <source>Bottom Solder Paste
 (Bottom Stencil):</source>
-        <translation type="unfinished"/>
+        <translation>Нижняя паяльная паста
+(нижний шаблон):</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="204"/>
@@ -11876,7 +11879,8 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="317"/>
         <source>Top Solder Paste
 (Top Stencil):</source>
-        <translation type="unfinished"/>
+        <translation>Верхняя паяльная паста
+(верхних шаблон):</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="371"/>
@@ -12475,7 +12479,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="85"/>
         <source>Circular Drill</source>
-        <translation type="unfinished"/>
+        <translation>Циркулярная сверловка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="94"/>
@@ -12749,12 +12753,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="123"/>
         <source>Remove this shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Удалить это сочетание клавиш</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="135"/>
         <source>Restore default shortcut(s)</source>
-        <translation type="unfinished"/>
+        <translation>Восстановить сочетания клавиш по умолчанию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="154"/>
@@ -13295,7 +13299,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="14"/>
         <source>Move/Align Elements</source>
-        <translation type="unfinished"/>
+        <translation>Передвинуть/выровнять элементы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="32"/>
@@ -13305,37 +13309,37 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="38"/>
         <source>Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Режим:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="47"/>
         <source>Absolute</source>
-        <translation type="unfinished"/>
+        <translation>Абсолютный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="57"/>
         <source>Relative</source>
-        <translation type="unfinished"/>
+        <translation>Относительный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="66"/>
         <source>X:</source>
-        <translation type="unfinished"/>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="81"/>
         <source>Center around Y-axis</source>
-        <translation type="unfinished"/>
+        <translation>Центровать относительно оси Y</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="97"/>
         <source>Y:</source>
-        <translation type="unfinished"/>
+        <translation>Y:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="112"/>
         <source>Center around X-axis</source>
-        <translation type="unfinished"/>
+        <translation>Центровать относительно оси X</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="131"/>
@@ -13345,22 +13349,22 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="155"/>
         <source>ΔX:</source>
-        <translation type="unfinished"/>
+        <translation>ΔX:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="174"/>
         <source>Align vertically (ΔX=0)</source>
-        <translation type="unfinished"/>
+        <translation>Выровнять вертикально (ΔX=0)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="187"/>
         <source>ΔY:</source>
-        <translation type="unfinished"/>
+        <translation>ΔY:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="206"/>
         <source>Align horizontally (ΔY=0)</source>
-        <translation type="unfinished"/>
+        <translation>Выровнять горизонтально (ΔY=0)</translation>
     </message>
 </context>
 <context>
@@ -13603,7 +13607,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentsymbols.ui" line="20"/>
         <source>Add all symbols which are required to represent this component.</source>
-        <translation type="unfinished"/>
+        <translation>Добавьте все символы, необходимые для представления этого компонента.</translation>
     </message>
 </context>
 <context>
