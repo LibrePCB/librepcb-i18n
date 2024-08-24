@@ -2209,12 +2209,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="729"/>
         <source>Move/Align Objects</source>
-        <translation type="unfinished"/>
+        <translation>Перемещение/выравнивание объектов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="730"/>
         <source>Move and/or align the selected object(s) vertically or horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Перемещение и/или выравнивание выбранного объекта (объектов) по вертикали или горизонтали</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="739"/>
@@ -6868,7 +6868,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="140"/>
         <source>Spread The Word</source>
-        <translation type="unfinished"/>
+        <translation>Распространяйте информацию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="142"/>
@@ -7725,7 +7725,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="120"/>
         <source>No Exposure</source>
-        <translation type="unfinished"/>
+        <translation>Нет воздействия</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawzone.cpp" line="131"/>
@@ -7833,7 +7833,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="14"/>
         <source>Generate Pick&amp;Place Data</source>
-        <translation type="unfinished"/>
+        <translation>Генерация данных о комплектации и размещении</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardpickplacegeneratordialog.ui" line="20"/>
@@ -7971,12 +7971,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="110"/>
         <source>Clearance around thermal pads</source>
-        <translation type="unfinished"/>
+        <translation>Зазор вокруг термопрокладок</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="113"/>
         <source>Themal Gap:</source>
-        <translation type="unfinished"/>
+        <translation>Тематический пробел:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="120"/>
@@ -7986,7 +7986,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="123"/>
         <source>Thermal Spokes:</source>
-        <translation type="unfinished"/>
+        <translation>Термические спицы:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="89"/>
@@ -8002,7 +8002,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="113"/>
         <source>Solid</source>
-        <translation type="unfinished"/>
+        <translation>Твердый</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.cpp" line="219"/>
@@ -8040,7 +8040,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="90"/>
         <source>Solder Resist:</source>
-        <translation type="unfinished"/>
+        <translation>Сопротивление припоя:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="97"/>
@@ -8065,12 +8065,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="231"/>
         <source>Ratio (% of Diameter)</source>
-        <translation type="unfinished"/>
+        <translation>Коэффициент (% от диаметра)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="247"/>
         <source>Vias Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>Кольцо круглого сечения:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="254"/>
@@ -8085,19 +8085,19 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="285"/>
         <source>Solder Paste Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Очистка паяльной пасты:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="297"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="377"/>
         <source>Full Shape</source>
-        <translation type="unfinished"/>
+        <translation>Полная форма</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="310"/>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="387"/>
         <source>Automatic Annular Ring</source>
-        <translation type="unfinished"/>
+        <translation>Автоматическое круглое отверстие</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="332"/>
@@ -14818,7 +14818,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="118"/>
         <source>No Exposure</source>
-        <translation type="unfinished"/>
+        <translation>Нет воздействия</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="128"/>
