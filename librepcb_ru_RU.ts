@@ -5919,7 +5919,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="123"/>
         <source>Fatal error: Download manager is not running.</source>
-        <translation>Критическая ошибка: Менеджер загрузок не запущен.</translation>
+        <translation>Фатальная ошибка: Менеджер загрузок не запущен.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="130"/>
@@ -6959,7 +6959,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Browse, download and update libraries directly from the Internet!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Найти, скачать и обновить библиотеки непосредственно из Интернет&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Найти, скачать и обновить библиотеки непосредственно из Интернет!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="61"/>
@@ -10459,7 +10459,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="134"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should &lt;a href=&quot;%1&quot;&gt;open the library manager&lt;/a&gt; to add some libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Это рабочая область не содержит библиотек, которые необходимы для создания и изменения проектов. Для добавления библиотек вам нужно &lt;a href=&quot;%1&quot;&gt;открыть менеджер библиотек&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="455"/>
@@ -11474,12 +11474,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="88"/>
         <source>This could be done with the free application &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; or the &lt;a href=&quot;%2&quot;&gt;official reference viewer from Ucamco&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Это можно сделать с помощью бесплатного приложения &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; или &lt;a href=&quot;%2&quot;&gt;официального просмотрщика от Ucamco&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="95"/>
         <source>As a simpler and faster alternative, you could use the &lt;a href=&quot;%1&quot;&gt;Order PCB&lt;/a&gt; feature instead.</source>
-        <translation type="unfinished"/>
+        <translation>В качестве более простой и быстрой альтернативы можно использовать функцию &lt;a href=&quot;%1&quot;&gt;Заказать PCB&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.cpp" line="226"/>
@@ -11753,7 +11753,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="474"/>
         <source>The custom pad outline does not represent a valid area.</source>
-        <translation type="unfinished"/>
+        <translation>Контур пользовательской площадки не является правильной областью.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="529"/>
@@ -11899,12 +11899,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.cpp" line="59"/>
         <source>This could be done with the free application &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; or the &lt;a href=&quot;%2&quot;&gt;official reference viewer from Ucamco&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Это можно сделать с помощью бесплатного приложения &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; или &lt;a href=&quot;%2&quot;&gt;официального просмотрщика от Ucamco&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.cpp" line="66"/>
         <source>As a simpler and faster alternative, you could use the &lt;a href=&quot;%1&quot;&gt;Order PCB&lt;/a&gt; feature instead.</source>
-        <translation type="unfinished"/>
+        <translation>В качестве более простой и быстрой альтернативы можно использовать функцию &lt;a href=&quot;%1&quot;&gt;Заказать PCB&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -11917,7 +11917,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="40"/>
         <source>Gerber X3 pick&amp;place position file export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт позиционных файлов Gerber X3 pick&amp;place для плат.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="57"/>
@@ -13381,7 +13381,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="40"/>
         <source>IPC D-356A netlist export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт списка цепей IPC D-356A для плат.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="57"/>
@@ -13544,7 +13544,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentpinsignalmap.ui" line="20"/>
         <source>Connect the symbol pins to their corresponding component signals.</source>
-        <translation type="unfinished"/>
+        <translation>Подсоедините контакты символов к соответствующим сигналам компонентов.</translation>
     </message>
 </context>
 <context>
@@ -13810,7 +13810,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.ui" line="134"/>
         <source>Note that due to conceptual differences between EDA tools, migrations won&apos;t be perfect and you should review the result carefully. Whenever possible, creating a new project from scratch is preferred.</source>
-        <translation type="unfinished"/>
+        <translation>Обратите внимание, что из-за концептуальных различий между инструментами EDA миграция не будет идеальной, и вам следует внимательно изучить результат. По возможности, лучше создать новый проект с нуля.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="68"/>
@@ -13930,7 +13930,8 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="97"/>
         <source>Note that additional actions might be required to fully license the project.
 For more information about licensing, click on this icon.</source>
-        <translation type="unfinished"/>
+        <translation>Обратите внимание, что для полного лицензирования проекта могут потребоваться дополнительные действия.
+Для получения дополнительной информации о лицензировании нажмите на этот значок.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="113"/>
@@ -14119,7 +14120,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/3d/openglscenebuilder.cpp" line="132"/>
         <source>The board outline is invalid. Please add exactly one polygon on the &apos;%1&apos; layer and make sure it is closed. For more information, check out the documentation.</source>
-        <translation type="unfinished"/>
+        <translation>Контур платы неправильный. Добавьте ровно один многоугольник на слой &apos;%1&apos; и убедитесь, что он закрыт. Для получения дополнительной информации ознакомьтесь с документацией.</translation>
     </message>
 </context>
 <context>
@@ -14146,7 +14147,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="68"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. Just click on the upload button below to get started. This will export the project directory to a *.lppz archive and upload it to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser.</source>
-        <translation type="unfinished"/>
+        <translation>Этот инструмент поможет вам быстро и легко изготовить разработанную вами печатную плату. Чтобы начать работу, просто нажмите на кнопку загрузки ниже. В результате каталог проекта будет экспортирован в архив *.lppz и загружен на сервер API, указанный в настройках рабочего пространства. После этого вы сможете продолжить процесс заказа в веб-браузере.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="81"/>
@@ -14236,7 +14237,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="75"/>
         <source>To detect them, a file named &lt;tt&gt;%1&lt;/tt&gt; is created within the output directory.</source>
-        <translation type="unfinished"/>
+        <translation>Для их определения, в выходном каталоге создан файл &lt;tt&gt;%1&lt;/tt&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="88"/>
@@ -14246,7 +14247,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="91"/>
         <source>Any &lt;a href=&quot;%1&quot;&gt;bug reports, feature requests or general feedback&lt;/a&gt; is highly appreciated!</source>
-        <translation type="unfinished"/>
+        <translation>Мы будем признательны за любые &lt;a href=&quot;%1&quot;&gt;сообщения об ошибках, пожелания по функциям или общие отзывы&lt;/a&gt;!</translation>
     </message>
 </context>
 <context>
@@ -14342,7 +14343,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="199"/>
         <source>You made changes to output jobs which will be lost when closing the dialog. Are you sure to discard them?</source>
-        <translation type="unfinished"/>
+        <translation>Вы внесли изменения в выходные задания, которые будут потеряны при закрытии диалога. Вы уверены что хотите отказаться от них?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="224"/>
@@ -14357,7 +14358,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="229"/>
         <source>Board Assembly PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>Сборка платы в виде PDF/изображения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="231"/>
@@ -14904,7 +14905,7 @@ For more information about licensing, click on this icon.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="893"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1125"/>
         <source>Paste Geometry</source>
-        <translation type="unfinished"/>
+        <translation>Вставить геометрию</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="895"/>
@@ -14949,7 +14950,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1551"/>
         <source>No Outline</source>
-        <translation type="unfinished"/>
+        <translation>Без обводки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1552"/>
@@ -15248,12 +15249,12 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="370"/>
         <source>Import the pinout from a CSV file with these columns:</source>
-        <translation type="unfinished"/>
+        <translation>Импортировать расположение выводов из файла CSV с колонками:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="387"/>
         <source>Reset Pinout</source>
-        <translation type="unfinished"/>
+        <translation>Сбросить расположение выводов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="389"/>
@@ -15271,17 +15272,17 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="429"/>
         <source>Choose Pinout File</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать файл расположения выводов</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="482"/>
         <source>Load Pinout From File</source>
-        <translation type="unfinished"/>
+        <translation>Загрузить расположение выводов из файла</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="498"/>
         <source>Type to filter signals, press %1 or double-click to assign</source>
-        <translation type="unfinished"/>
+        <translation>Печатайте для фильтрации сигналов, нажмите %1 или дважды щёлкните для назначения</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="520"/>
@@ -15296,7 +15297,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="711"/>
         <source>Reset Pinout?</source>
-        <translation type="unfinished"/>
+        <translation>Сбросить расположение выводов?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="712"/>
@@ -15314,7 +15315,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationtooltip.ui" line="247"/>
         <source>lblSourceDetails</source>
-        <translation type="unfinished"/>
+        <translation>lblSourceDetails</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="134"/>
@@ -15873,7 +15874,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.cpp" line="136"/>
         <source>Change net of net segment</source>
-        <translation type="unfinished"/>
+        <translation>Изменить цепь или сегмент цепи</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/renamenetsegmentdialog.cpp" line="156"/>
@@ -15922,7 +15923,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/widgets/rulecheckdock.ui" line="66"/>
         <source>Zoom to location</source>
-        <translation type="unfinished"/>
+        <translation>Масштаб по расположению</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/rulecheckdock.ui" line="110"/>
@@ -16803,7 +16804,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="217"/>
         <source>There is already a component with the name &apos;%1&apos; in the schematic. Do you want to swap their names?</source>
-        <translation type="unfinished"/>
+        <translation>В схеме уже есть компонент с названием &apos;%1&apos;. Вы хотите поменять их названия местами?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="223"/>
@@ -17469,7 +17470,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="48"/>
         <source>Raise a DRC error if there are any copper objects (e.g. traces or vias) in this zone. Only planes are allowed to flood this zone without raising an error.</source>
-        <translation type="unfinished"/>
+        <translation>Выдавать ошибку DRC, если в этой зоне есть медные объекты (например, дорожки или перех. отверстия). Только поверхности могут заполнять эту зону без возникновения ошибки.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="51"/>
@@ -17489,12 +17490,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="68"/>
         <source>Raise a DRC error if there is any solder resist opening (possibly exposing copper) in this zone.</source>
-        <translation type="unfinished"/>
+        <translation>Выдавать ошибку DRC, если в этой зоне имеется промежуток в покрытии припоя (возможно, обнажающий медь).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="71"/>
         <source>No exposure</source>
-        <translation type="unfinished"/>
+        <translation>Без экспозиции</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="78"/>
