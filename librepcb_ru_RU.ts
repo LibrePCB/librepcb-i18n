@@ -1593,7 +1593,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="176"/>
         <source>Switch Workspace</source>
-        <translation>Переключить Рабочее место</translation>
+        <translation>Переключить рабочее пространство</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="177"/>
@@ -1603,7 +1603,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="185"/>
         <source>Workspace Settings</source>
-        <translation>Настройки рабочего места</translation>
+        <translation>Настройки рабочего пространства</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="186"/>
@@ -1738,7 +1738,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="303"/>
         <source>Update the project&apos;s library elements from workspace libraries</source>
-        <translation>Обновление библиотечных элементов проекта из библиотек рабочей области</translation>
+        <translation>Обновление библиотечных элементов проекта из библиотек рабочего пространства</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="312"/>
@@ -1909,7 +1909,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="454"/>
         <source>Add some example projects to the workspace</source>
-        <translation>Добавьте несколько примеров проектов в рабочую область</translation>
+        <translation>Добавьте несколько примеров проектов в рабочее пространство</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="462"/>
@@ -4196,7 +4196,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/libraryelementcheckmessages.cpp" line="37"/>
         <source>It&apos;s very important to assign every library element to at least one category. Otherwise it will be very hard to find the element in the workspace library, so it&apos;s highly recommended to fix this.</source>
-        <translation>Очень важно, чтобы каждый элемент библиотеки был отнесён хотя бы к одной категории. В противном случае будет очень сложно найти элемент в библиотеке рабочего места, поэтому настоятельно рекомендуется это исправить.</translation>
+        <translation>Очень важно, чтобы каждый элемент библиотеки был отнесён хотя бы к одной категории. В противном случае будет очень сложно найти элемент в библиотеке рабочего пространства, поэтому настоятельно рекомендуется это исправить.</translation>
     </message>
 </context>
 <context>
@@ -5367,7 +5367,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../apps/librepcb/main.cpp" line="223"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
-        <translation>Не удалось открыть рабочую область &quot;%1&quot;:</translation>
+        <translation>Не удалось открыть рабочее пространство &quot;%1&quot;:</translation>
     </message>
 </context>
 <context>
@@ -6235,12 +6235,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="154"/>
         <source>The directory &quot;%1&quot; is not a valid LibrePCB workspace.</source>
-        <translation>Каталог &quot;%1&quot; не является действительной рабочей областью LibrePCB.</translation>
+        <translation>Каталог &quot;%1&quot; не является действительной рабочим пространством LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/workspace.cpp" line="166"/>
         <source>The workspace &quot;%1&quot; requires LibrePCB %2 or later.</source>
-        <translation>Для рабочей области &quot;%1&quot; требуется LibrePCB %2 или более поздней версии.</translation>
+        <translation>Для рабочего пространства &quot;%1&quot; требуется LibrePCB %2 или более поздней версии.</translation>
     </message>
 </context>
 <context>
@@ -8107,7 +8107,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="402"/>
         <source>Autom. Pads Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>Автом. поясок площадки:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="409"/>
@@ -8182,7 +8182,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="665"/>
         <source>Allowed Features</source>
-        <translation>Разрешенные особенности</translation>
+        <translation>Разрешённые особенности</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="687"/>
@@ -8212,7 +8212,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="724"/>
         <source>PTH Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>Поясок PTH:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="731"/>
@@ -8297,7 +8297,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="142"/>
         <source>&lt;p&gt;Don&apos;t use the defined pad shape, but automatic annular rings calculated by the parameters below. The annular ring of unconnected pads is reduced to the specified mimimum value.&lt;/p&gt;&lt;p&gt;This option is more space-efficient, but works only reliable if the entered parameters comply with the PCB manufacturers capabilities.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Использовать не заданную форму площадки, а автоматические пояски, рассчитанные по указанным ниже параметрам. Поясок несоединённых площадок уменьшается до указанного минимального значения.&lt;/p&gt;&lt;p&gt;Эта опция даёт более компактный результат, но работает надежно только если введённые параметры соответствуют возможностям производителя печатной платы.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="219"/>
@@ -10254,7 +10254,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="113"/>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="189"/>
         <source>Symbol &apos;%1&apos; not found in workspace library!</source>
-        <translation>Символ &apos;%1&apos; не найден в библиотеке Рабочей области!</translation>
+        <translation>Символ &apos;%1&apos; не найден в библиотеке рабочего пространства!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="250"/>
@@ -10443,7 +10443,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="89"/>
         <source>Workspace: %1</source>
-        <translation>Рабочее место: %1</translation>
+        <translation>Рабочее пространство: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="90"/>
@@ -10453,7 +10453,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="107"/>
         <source>This workspace was already used with a newer version of LibrePCB. All changes in libraries and workspace settings will not be available in newer versions of LibrePCB.</source>
-        <translation>Это Рабочее место уже использовалось более новой версией LibrePCB. Изменения в библиотеках и настройках рабочего места не будут доступны в более новых версиях LibrePCB.</translation>
+        <translation>Это рабочее пространство уже использовалось более новой версией LibrePCB. Изменения в библиотеках и настройках рабочего пространства не будут доступны в более новых версиях LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="115"/>
@@ -10463,12 +10463,12 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="134"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should &lt;a href=&quot;%1&quot;&gt;open the library manager&lt;/a&gt; to add some libraries.</source>
-        <translation>Это рабочая область не содержит библиотек, которые необходимы для создания и изменения проектов. Для добавления библиотек вам нужно &lt;a href=&quot;%1&quot;&gt;открыть менеджер библиотек&lt;/a&gt;.</translation>
+        <translation>Это рабочее пространство не содержит библиотек, которые необходимы для создания и изменения проектов. Для добавления библиотек вам нужно &lt;a href=&quot;%1&quot;&gt;открыть менеджер библиотек&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="455"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
-        <translation>Это загружает несколько примеров проектов из Интернета и копирует их в рабочую область, чтобы помочь вам оценить LibrePCB с реальными проектами.</translation>
+        <translation>Это загружает несколько примеров проектов из Интернета и копирует их в рабочее пространство, чтобы помочь вам оценить LibrePCB с реальными проектами.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="459"/>
@@ -10478,12 +10478,12 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="481"/>
         <source>Workspace changed</source>
-        <translation>Рабочее место изменено</translation>
+        <translation>Рабочее пространство изменено</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="482"/>
         <source>The chosen workspace will be used after restarting the application.</source>
-        <translation>Выбранное Рабочее место будет использоваться после перезапуска приложения.</translation>
+        <translation>Выбранное рабочее пространство будет использоваться после перезапуска приложения.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="505"/>
@@ -12583,12 +12583,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard.ui" line="14"/>
         <source>LibrePCB Workspace Setup</source>
-        <translation>Подготовка рабочей области LibrePCB</translation>
+        <translation>Подготовка рабочего пространства LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard.cpp" line="53"/>
         <source>Switch Workspace</source>
-        <translation>Переключить Рабочее место</translation>
+        <translation>Переключить рабочее пространство</translation>
     </message>
 </context>
 <context>
@@ -12601,7 +12601,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="17"/>
         <source>Set the most important workspace settings.</source>
-        <translation>Задайте наиболее важные настройки рабочей области.</translation>
+        <translation>Задайте наиболее важные настройки рабочего пространства.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="23"/>
@@ -12649,29 +12649,29 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="14"/>
         <source>Select Workspace Path</source>
-        <translation>Выберите каталог с Рабочим местом</translation>
+        <translation>Выберите путь к каталогу рабочего пространства</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="17"/>
         <source>Please select a directory to open or create a LibrePCB workspace.</source>
-        <translation>Выберите каталог, чтобы открыть или создать Рабочее место LibrePCB.</translation>
+        <translation>Выберите каталог, чтобы открыть или создать рабочее пространство LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="29"/>
         <source>&lt;p&gt;LibrePCB stores settings, libraries and (optionally) projects in a directory called &lt;i&gt;workspace&lt;/i&gt;.&lt;/p&gt;
 &lt;p&gt;Workspaces are platform independent, so they can be used across different operating systems.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;LibrePCB хранит настройки, библиотеки и (опционально) проекты в директории, называемой &lt;i&gt;рабочая область&lt;/i&gt;.&lt;/p&gt;
-&lt;p&gt;Рабочие области не зависят от платформы, поэтому их можно использовать в разных операционных системах.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;LibrePCB хранит настройки, библиотеки и (опционально) проекты в директории, называемой &lt;i&gt;рабочее пространство&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;Рабочие пространства не зависят от платформы, поэтому их можно использовать в разных операционных системах.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="53"/>
         <source>Choose the workspace directory to open or create:</source>
-        <translation>Выберите каталог рабочей области для открытия или создания:</translation>
+        <translation>Выберите каталог рабочего пространства для открытия или создания:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="58"/>
         <source>Select Workspace Directory</source>
-        <translation>Выбрать каталог Рабочего места</translation>
+        <translation>Выбрать каталог рабочего пространства</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="121"/>
@@ -12681,12 +12681,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="123"/>
         <source>Directory contains a valid workspace.</source>
-        <translation>Каталог содержит корректное Рабочее место.</translation>
+        <translation>Каталог содержит корректное рабочее пространство.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="125"/>
         <source>New workspace will be created.</source>
-        <translation>Будет создана новая рабочая область.</translation>
+        <translation>Будет создано новое рабочее пространство.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="127"/>
@@ -12699,20 +12699,20 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="14"/>
         <source>Upgrade Workspace</source>
-        <translation>Обновление рабочей области</translation>
+        <translation>Обновление рабочего пространства</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="17"/>
         <source>Upgrade the workspace to the latest file format.</source>
-        <translation>Обновление рабочей области до новейшего формата файлов.</translation>
+        <translation>Обновление рабочего пространства до новейшего формата файлов.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="55"/>
         <source>&lt;p&gt;Your workspace was created with an older LibrePCB version and needs to be upgraded.&lt;/p&gt;
 &lt;p&gt;To still keep the workspace compatible with older versions of LibrePCB, a snapshot of the currently installed libraries and settings will be created. This may take a moment.&lt;/p&gt;
 &lt;p&gt;Also the first background library scan after the upgrade takes longer than usual, but you can start working on projects without waiting for its completion.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Ваша рабочая область была создана с более старой версией LibrePCB и нуждается в обновлении.&lt;/p&gt;
-&lt;p&gt;Чтобы сохранить совместимость рабочей области с более старыми версиями LibrePCB, будет создан снимок установленных в данный момент библиотек и настроек. Это может занять некоторое время.&lt;/p&gt;
+        <translation>&lt;p&gt;Ваше рабочее пространство было создана с более старой версией LibrePCB и нуждается в обновлении.&lt;/p&gt;
+&lt;p&gt;Чтобы сохранить совместимость рабочего пространства с более старыми версиями LibrePCB, будет создан снимок установленных в данный момент библиотек и настроек. Это может занять некоторое время.&lt;/p&gt;
 &lt;p&gt;Кроме того, первое фоновое сканирование библиотек после обновления займет больше времени, чем обычно, но вы можете начать работу над проектами, не дожидаясь его завершения.&lt;/p&gt;</translation>
     </message>
     <message>
@@ -12756,7 +12756,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="17"/>
         <source>This wizard will help you to open or create a LibrePCB workspace.</source>
-        <translation>Этот мастер поможет вам открыть или создать рабочую область LibrePCB.</translation>
+        <translation>Этот мастер поможет вам открыть или создать рабочее пространство LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="23"/>
@@ -13053,7 +13053,7 @@ Are you really sure to remove &quot;%2&quot;?</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.ui" line="14"/>
         <source>Workspace Library Manager</source>
-        <translation>Менеджер библиотеки рабочей области</translation>
+        <translation>Менеджер библиотеки рабочего пространства</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/librarymanager.ui" line="75"/>
@@ -13307,7 +13307,7 @@ Are you still sure to delete the following library elements?</source>
         <source>Permanently hide this message.
 This can be reverted in the workspace settings dialog.</source>
         <translation>Скрыть это сообщение навсегда.
-Это можно отменить в диалоге настроек рабочей области.</translation>
+Это можно отменить в диалоге настроек рабочего пространства.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/messagewidget.cpp" line="90"/>
@@ -14195,7 +14195,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="104"/>
         <source>This feature is not available because there is no API server configured in your workspace settings.</source>
-        <translation>Эта функция недоступна, поскольку в настройках рабочей области не настроен сервер API.</translation>
+        <translation>Эта функция недоступна, поскольку в настройках рабочего пространства не настроен сервер API.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="155"/>
@@ -15704,8 +15704,8 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Noto Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Этот диалог позволяет обновить все элементы библиотеки проекта до последней версии, указанной в библиотеке рабочей области.&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Таким образом, если вы изменили некоторые элементы библиотеки в рабочей области, программа обновления применит эти изменения и к проекту.&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Этот диалог позволяет обновить все элементы библиотеки проекта до последней версии, указанной в библиотеке рабочего пространства.&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Таким образом, если вы изменили некоторые элементы библиотеки в рабочем пространстве, программа обновления применит эти изменения и к проекту.&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Обратите внимание, что функциональность этого обновления в настоящее время очень ограничена:&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;  - В процессе обновления проект должен быть закрыт (проект будет закрыт автоматически).&lt;/span&gt;&lt;/p&gt;
@@ -17100,7 +17100,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="17"/>
         <source>Workspace Settings</source>
-        <translation>Настройки рабочего места</translation>
+        <translation>Настройки рабочего пространства</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="33"/>
@@ -17585,7 +17585,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="243"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;ВНИМАНИЕ: Эта НЕСТАБИЛЬНАЯ версия приложения!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Всё, что вы делаете с этим приложением, может привести к повреждению вашей рабочей области, библиотек или проектов! Сохранённые файлы не будут читаться стабильными версиями LibrePCB. Настоятельно рекомендуется создать резервную копию, прежде чем приступать к работе. Если вы не уверены, загрузите официальный стабильный релиз.&lt;/p&gt;&lt;p&gt;Для получения более подробной информации ознакомьтесь с &lt;a href=&quot;%1&quot;&gt;концепцией версионности&lt;/a&gt; LibrePCB.&lt;/p&gt;&lt;p&gt;Вы действительно уверены, что хотите продолжать работу, рискуя повредить свои файлы?!&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;ВНИМАНИЕ: Эта НЕСТАБИЛЬНАЯ версия приложения!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Всё, что вы делаете с этим приложением, может привести к повреждению вашего рабочего пространства, библиотек или проектов! Сохранённые файлы не будут читаться стабильными версиями LibrePCB. Настоятельно рекомендуется создать резервную копию, прежде чем приступать к работе. Если вы не уверены, загрузите официальный стабильный релиз.&lt;/p&gt;&lt;p&gt;Для получения более подробной информации ознакомьтесь с &lt;a href=&quot;%1&quot;&gt;концепцией версионности&lt;/a&gt; LibrePCB.&lt;/p&gt;&lt;p&gt;Вы действительно уверены, что хотите продолжать работу, рискуя повредить свои файлы?!&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
