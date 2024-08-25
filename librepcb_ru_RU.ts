@@ -7807,7 +7807,7 @@ You need at least LibrePCB %1 to open it.
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1738"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Общая длина %n сегмента дорожек: %2 мм / %3 дюймов</numerusform><numerusform>Общая длина %n сегментов дорожек: %2 мм / %3 дюймов</numerusform><numerusform>Общая длина %n сегментов дорожек: %2 мм / %3 дюймов</numerusform><numerusform>Общая длина %n сегментов дорожек: %2 мм / %3 дюймов</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1746"/>
@@ -9836,7 +9836,9 @@ You need at least LibrePCB %1 to open it.
         <source>The selected device is not related to the component placed in the schematic, thus LibrePCB cannot validate if it is compatible!
 
 Are you sure the footprint and pinout of the selected device are compatible with the component?</source>
-        <translation type="unfinished"/>
+        <translation>Выбранное устройство не связано с компонентом, размещенным на схеме, поэтому LibrePCB не может проверить его совместимость!
+
+Вы уверены, что размеры и распиновка выбранного устройства совместимы с компонентом?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="298"/>
@@ -9848,7 +9850,9 @@ Are you sure the footprint and pinout of the selected device are compatible with
         <source>The selected part is taken from a different device than this assembly option is valid for, thus LibrePCB cannot validate if it is compatible!
 
 Are you sure the footprint and pinout of the selected part are compatible with the device?</source>
-        <translation type="unfinished"/>
+        <translation>Выбранная деталь взята из другого устройства, для которого этот вариант сборки не подходит, поэтому LibrePCB не может проверить ее совместимость!
+
+Вы уверены, что размеры и расположение выводов выбранной детали совместимы с устройством?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="495"/>
@@ -11092,7 +11096,12 @@ Do you really want to close it?</source>
   &lt;li&gt;Review and rework geometry of symbols and footprints&lt;/li&gt;
   &lt;li&gt;Fix any remaining warnings shown in the library editor&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;После импорта настоятельно рекомендуется выполнить следующие действия с каждым из импортированных элементов:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Присвоить разумные категории (если это еще не сделано)&lt;/li&gt;
+  &lt;li&gt;Просмотреть и переработать геометрию символов и посад. мест&lt;/li&gt;
+  &lt;li&gt;Исправить все оставшиеся предупреждения, отображаемые в редакторе библиотеки&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.ui" line="47"/>
@@ -12646,7 +12655,8 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="29"/>
         <source>&lt;p&gt;LibrePCB stores settings, libraries and (optionally) projects in a directory called &lt;i&gt;workspace&lt;/i&gt;.&lt;/p&gt;
 &lt;p&gt;Workspaces are platform independent, so they can be used across different operating systems.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;LibrePCB хранит настройки, библиотеки и (опционально) проекты в директории, называемой &lt;i&gt;рабочая область&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;Рабочие области не зависят от платформы, поэтому их можно использовать в разных операционных системах.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="53"/>
@@ -12696,7 +12706,9 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <source>&lt;p&gt;Your workspace was created with an older LibrePCB version and needs to be upgraded.&lt;/p&gt;
 &lt;p&gt;To still keep the workspace compatible with older versions of LibrePCB, a snapshot of the currently installed libraries and settings will be created. This may take a moment.&lt;/p&gt;
 &lt;p&gt;Also the first background library scan after the upgrade takes longer than usual, but you can start working on projects without waiting for its completion.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Ваша рабочая область была создана с более старой версией LibrePCB и нуждается в обновлении.&lt;/p&gt;
+&lt;p&gt;Чтобы сохранить совместимость рабочей области с более старыми версиями LibrePCB, будет создан снимок установленных в данный момент библиотек и настроек. Это может занять некоторое время.&lt;/p&gt;
+&lt;p&gt;Кроме того, первое фоновое сканирование библиотек после обновления займет больше времени, чем обычно, но вы можете начать работу над проектами, не дожидаясь его завершения.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="106"/>
@@ -14217,7 +14229,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="58"/>
         <source>Output jobs allow you to generate any production data, documentation or other output files in a unified, reproducible way. Since their configuration is stored in the project, the complete output can even be generated headless with the &lt;a href=&quot;%1&quot;&gt;LibrePCB CLI&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Выходные задания позволяют генерировать любые производственные данные, документацию или другие выходные файлы унифицированным, воспроизводимым способом. Поскольку их конфигурация хранится в проекте, все выходные данные могут быть сгенерированы даже без пользовательского интерфйса, с помощью &lt;a href=&quot;%1&quot;&gt;LibrePCB CLI&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="65"/>
@@ -14333,7 +14345,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="106"/>
         <source>Click on the %1 button below to add output jobs. Or for a quick start, &lt;a href=&quot;%2&quot;&gt;add a default set&lt;/a&gt; of jobs.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите на кнопку %1 ниже, чтобы добавить выходные задания. Либо, для быстрого старта, &lt;a href=&quot;%2&quot;&gt;добавьте набор заданий по умолчанию&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="198"/>
@@ -15136,7 +15148,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="497"/>
         <source>Failed to minify the provided STEP file, will keep the original as-is.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось уменьшить размер предоставленного STEP-файла, оставляем оригинал как есть.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="500"/>
@@ -15239,7 +15251,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="363"/>
         <source>Reset all pads to &apos;unconnected&apos; state</source>
-        <translation type="unfinished"/>
+        <translation>Сбросьте все площадки в состояние &quot;не соединено&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="368"/>
@@ -15302,7 +15314,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/padsignalmapeditorwidget.cpp" line="712"/>
         <source>There are already some signals connected. Should they be disconnected before attempting to make new connections?</source>
-        <translation type="unfinished"/>
+        <translation>Некоторые сигналы уже подсоединены. Следует ли их отсоединить, прежде чем пытаться выполнить новые соединения?</translation>
     </message>
 </context>
 <context>
@@ -15330,7 +15342,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="146"/>
         <source>For more information about the part, click on the source logo above.</source>
-        <translation type="unfinished"/>
+        <translation>Для получения дополнительной информации о детали нажмите на логотип источника выше.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="199"/>
@@ -15435,7 +15447,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="40"/>
         <source>CSV pick&amp;place position file export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Файл экспорта pick&amp;place для плат, в формате CSV.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="57"/>
@@ -16012,7 +16024,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="177"/>
         <source>This schematic doesn&apos;t contain any components yet. Use the &lt;a href=&apos;%1&apos;&gt;Add Component&lt;/a&gt; dialog to populate it. A good idea is to &lt;a href=&apos;%2&apos;&gt;add a schematic frame&lt;/a&gt; first.</source>
-        <translation type="unfinished"/>
+        <translation>Эта схема еще не содержит компонентов. Используйте диалог &lt;a href=&apos;%1&apos;&gt;Добавить компонент&lt;/a&gt;, чтобы наполнить её. Лучше всего сначала &lt;a href=&apos;%2&apos;&gt;добавить рамку схемы&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="665"/>
@@ -17281,7 +17293,7 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="776"/>
         <source>&lt;p&gt;Allow the editors to automatically display live information about parts (lifecycle status, stock availability, price, ...) by requesting it from the configured API endpoints.&lt;/p&gt;&lt;p&gt;This may generate many API requests, especially while adding components to schematics.&lt;/p&gt;&lt;p&gt;If this feature is disabled, no such API requests are made (and no live information is displayed) without explicit user interaction.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Позволяет редакторам автоматически отображать информацию о деталях (состояние жизненного цикла, наличие на складе, цена, ...), запрашивая её из настроенных конечных точек API.&lt;/p&gt;&lt;p&gt;Это может привести к множеству API-запросов, особенно при добавлении компонентов в схемы.&lt;/p&gt;&lt;p&gt;Когда эта функция отключена, такие API-запросы не выполняются (и актуальная информация не отображается).&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="779"/>
