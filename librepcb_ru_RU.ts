@@ -1396,7 +1396,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1650"/>
         <source>Clearance silkscreen text ↔ stop mask &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Текст для шелкографии ↔ стоп-маска &lt; %1 %2</translation>
+        <translation>Зазор текст шелкографии ↔ стоп-маска &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1653"/>
@@ -2550,7 +2550,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1035"/>
         <source>Add special SMT pads used as local fiducials</source>
-        <translation>Добавление специальных SMT-прокладок, используемых в качестве локальных ориентиров</translation>
+        <translation>Добавление специальных SMT площадок, используемых в качестве локальных коорд. меток</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1043"/>
@@ -2560,7 +2560,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1044"/>
         <source>Add special SMT pads used as global fiducials</source>
-        <translation>Добавление специальных SMT-прокладок, используемых в качестве глобальных ориентиров</translation>
+        <translation>Добавление специальных SMT площадок, используемых в качестве глобальных коорд. меток</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1052"/>
@@ -3815,12 +3815,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="300"/>
         <source>Top Stop Mask</source>
-        <translation>Топ-стоп маска</translation>
+        <translation>Верхняя стоп-маска</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="307"/>
         <source>Bottom Stop Mask</source>
-        <translation>Маска для нижней остановки</translation>
+        <translation>Нижняя стоп-маска</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="314"/>
@@ -4097,12 +4097,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="112"/>
         <source>Stop mask not set on fiducial in &apos;%1&apos;</source>
-        <translation>Маска остановки не установлена на точке &apos;%1&apos;</translation>
+        <translation>Стоп-маска не установлена не коорд. метке в &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="114"/>
         <source>The stop mask expansion of the fiducial pad is set to automatic, which is unusual. Typically the stop mask expansion of fiducials need to be manually set to a much larger value.</source>
-        <translation>Расширение стоп-маски фидуциальной площадки установлено автоматически, что необычно. Как правило, расширение маски остановки фидуциалов необходимо устанавливать вручную на гораздо большее значение.</translation>
+        <translation>Расширение стоп-маски для площадки коорд. метки установлено автоматически, что необычно. Как правило, расширение стоп-маски  коорд. метки необходимо устанавливать вручную на гораздо большее значение.</translation>
     </message>
 </context>
 <context>
@@ -4111,7 +4111,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="136"/>
         <source>No stop mask on %1 hole in &apos;%2&apos;</source>
         <comment>First placeholder is the hole diameter.</comment>
-        <translation>Отсутствие маски остановки на отверстии %1 в &apos;%2&apos;</translation>
+        <translation>Нет стоп-маски на отверстии %1 в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="140"/>
@@ -8307,7 +8307,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="222"/>
         <source>Only Simple Oblongs</source>
-        <translation type="unfinished"/>
+        <translation>Только простой формы</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="226"/>
@@ -8990,7 +8990,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardstroketextedit.cpp" line="41"/>
         <source>Modify Stroke Text</source>
-        <translation type="unfinished"/>
+        <translation>Изменить текст обводки</translation>
     </message>
 </context>
 <context>
@@ -9059,7 +9059,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="135"/>
         <source>There are multiple different nets with forced names at this position.</source>
-        <translation type="unfinished"/>
+        <translation>Есть несколько различных цепей с принудительными названиями на этой позиции.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="198"/>
@@ -9688,7 +9688,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/cmd/cmdstroketextedit.cpp" line="40"/>
         <source>Edit stroke text</source>
-        <translation type="unfinished"/>
+        <translation>Редактировать текст обводки</translation>
     </message>
 </context>
 <context>
@@ -9804,7 +9804,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="130"/>
         <source>Mount</source>
-        <translation type="unfinished"/>
+        <translation>Установить</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="131"/>
@@ -10121,7 +10121,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="264"/>
         <source>Designator in Schematics</source>
-        <translation type="unfinished"/>
+        <translation>Обозначение на схеме</translation>
     </message>
 </context>
 <context>
@@ -11227,7 +11227,12 @@ Do you really want to close it?</source>
   &lt;li&gt;If you import library elements multiple times, you will end up with duplicates. It is recommended to import each EAGLE library only once. So you should select all elements you might ever need, instead of importing a library step by step.&lt;/li&gt;
   &lt;li&gt;Especially if you plan to import a lot of elements, it might be a good idea to create a separate LibrePCB library for them. This will provide a clear separation between imported elements and manually created elements.&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>При использовании этого инструмента учитывайте эти важные замечания:
+&lt;ul&gt;
+  &lt;li&gt;Библиотеки LibrePCB организованы иначе, чем библиотеки EAGLE, поэтому качество импортированных элементов, скорее всего, будет не таким высоким, как при создании их вручную с нуля. После импорта может потребоваться некоторая ручная доработка.&lt;/li&gt;
+  &lt;li&gt;Если вы импортируете элементы библиотеки несколько раз, вы увидите, что у вас появятся дубликаты. Рекомендуется импортировать каждую библиотеку EAGLE только один раз. Поэтому вам следует выбрать все элементы, которые могут вам понадобиться, а не импортировать библиотеку шаг за шагом.&lt;/li&gt;
+  &lt;li&gt;Особенно, если вы планируете импортировать большое количество элементов, хорошей идеей будет создать для них отдельную библиотеку LibrePCB. Это обеспечит четкое разделение между импортированными и созданными вручную элементами.&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
 </context>
 <context>
@@ -11458,7 +11463,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="309"/>
         <source>Drills Blind/Buried:</source>
-        <translation type="unfinished"/>
+        <translation>Сверление глухих/внутр.:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="337"/>
@@ -11619,7 +11624,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="210"/>
         <source>Obround</source>
-        <translation type="unfinished"/>
+        <translation>Овальный</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="236"/>
@@ -11717,17 +11722,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="607"/>
         <source>Note: For THT pads the solder paste should usually be set to &apos;Off&apos;. But if enabled anyway, the solder paste is added only to the solder side of the pad.</source>
-        <translation type="unfinished"/>
+        <translation>Примечание: Для площадок THT паяльная паста обычно должна быть отключена. Но если это значение включено, паяльная паста будет добавлена только на паяльную сторону площадки.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="620"/>
         <source>Copper Keepout:</source>
-        <translation type="unfinished"/>
+        <translation>Отступ от меди:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="635"/>
         <source>Note: Intended to keep copper away from fiducials.</source>
-        <translation type="unfinished"/>
+        <translation>Примечание: Предназначен для того, чтобы держать медь подальше от координатных меток.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="649"/>
@@ -11805,7 +11810,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="111"/>
         <source>Drills Blind/Buried:</source>
-        <translation type="unfinished"/>
+        <translation>Сверление глухих/внутр.:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="118"/>
@@ -13360,7 +13365,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="131"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Питч</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="155"/>
@@ -13781,7 +13786,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_packagepads.ui" line="53"/>
         <source>Note: You should also add pads which are not always required (e.g. thermal pads)!</source>
-        <translation type="unfinished"/>
+        <translation>Комбинированный выход:</translation>
     </message>
 </context>
 <context>
@@ -14628,7 +14633,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="344"/>
         <source>Press-Fit</source>
-        <translation type="unfinished"/>
+        <translation>Пресс-фит</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="429"/>
@@ -15035,17 +15040,17 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="138"/>
         <source>THT (all leads)</source>
-        <translation type="unfinished"/>
+        <translation>THT (все)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="140"/>
         <source>SMT (all leads)</source>
-        <translation type="unfinished"/>
+        <translation>SMT (все)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="142"/>
         <source>THT+SMT (mixed leads)</source>
-        <translation type="unfinished"/>
+        <translation>THT+SMT (смешанные)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="145"/>
@@ -15158,7 +15163,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="502"/>
         <source>Please &lt;a href=&apos;%1&apos;&gt;report this issue&lt;/a&gt; to the LibrePCB developers with the STEP file attached.</source>
-        <translation type="unfinished"/>
+        <translation>Пожалуйста, &lt;a href=&apos;%1&apos;&gt;сообщите об этой проблеме&lt;/a&gt; разработчикам LibrePCB, приложив этот STEP-файл.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="506"/>
@@ -15337,7 +15342,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="140"/>
         <source>This information is kindly provided by %1 through the LibrePCB&amp;nbsp;API, see details &lt;a href=&quot;%2&quot; style=&quot;color:black;&quot;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Эта информация любезно предоставлена %1 через LibrePCB&amp;nbsp;API, см. подробности &lt;a href=&quot;%2&quot; style=&quot;color:black;&quot;&gt;здесь&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/partinformationtooltip.cpp" line="146"/>
@@ -15495,7 +15500,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="231"/>
         <source>Output Combined:</source>
-        <translation type="unfinished"/>
+        <translation>Комбинированный выход:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="247"/>
@@ -15530,7 +15535,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="291"/>
         <source>Fiducial</source>
-        <translation type="unfinished"/>
+        <translation>Координатная метка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="298"/>
@@ -15591,7 +15596,7 @@ For more information about licensing, click on this icon.</source>
     <message numerus="yes">
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="73"/>
         <source>The upgrade produced &lt;a href=&apos;%1&apos;&gt;%2 message(s)&lt;/a&gt;, please review before proceeding.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>В результате обновления было создано &lt;a href=&apos;%1&apos;&gt;%2 сообщение&lt;/a&gt;, пожалуйста, просмотрите его, прежде чем продолжить.</numerusform><numerusform>В результате обновления было создано &lt;a href=&apos;%1&apos;&gt;%2 сообщений&lt;/a&gt;, пожалуйста, просмотрите их, прежде чем продолжить.</numerusform><numerusform>В результате обновления было создано &lt;a href=&apos;%1&apos;&gt;%2 сообщений&lt;/a&gt;, пожалуйста, просмотрите их, прежде чем продолжить.</numerusform><numerusform>В результате обновления было создано &lt;a href=&apos;%1&apos;&gt;%2 сообщений&lt;/a&gt;, пожалуйста, просмотрите их, прежде чем продолжить.</numerusform></translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="190"/>
@@ -15695,7 +15700,18 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;  - Partial updates are not possible. Either all or no library elements will be updated.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;  - Breaking changes in library elements can cause the update to fail (i.e. no elements will be updated).&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;  - The update cannot be undone. It&apos;s recommended to first create a backup of the project!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Noto Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Этот диалог позволяет обновить все элементы библиотеки проекта до последней версии, указанной в библиотеке рабочей области.&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Таким образом, если вы изменили некоторые элементы библиотеки в рабочей области, программа обновления применит эти изменения и к проекту.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Обратите внимание, что функциональность этого обновления в настоящее время очень ограничена:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;  - В процессе обновления проект должен быть закрыт (проект будет закрыт автоматически).&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;  - Частичные обновления невозможны. Будут обновлены либо все элементы библиотеки, либо ни один.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;  - Нарушение изменений в элементах библиотеки может привести к неудачному обновлению (т.е. ни один элемент не будет обновлен).&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;  - Обновление нельзя отменить. Рекомендуется сначала создать резервную копию проекта!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.ui" line="60"/>
@@ -17288,7 +17304,11 @@ Afterwards the project library can be updated.</source>
 &lt;p&gt;You can add any server to this list which implements the LibrePCB API. The official LibrePCB server is &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.
 To completely disable Internet access, just remove all entries.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;body&gt;
+&lt;p&gt;Конечные точки API используются для доступа к онлайн-сервисам, например, для загрузки библиотек из Интернет.&lt;/p&gt;
+&lt;p&gt;Вы можете добавить в этот список любой сервер, который реализует LibrePCB API. Официальным сервером LibrePCB является &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.
+&lt;/p&gt;Чтобы полностью отключить доступ в Интернет, просто удалите все записи.
+&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="776"/>
@@ -17565,7 +17585,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../apps/librepcb/main.cpp" line="243"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;&lt;b&gt;ВНИМАНИЕ: Эта НЕСТАБИЛЬНАЯ версия приложения!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Всё, что вы делаете с этим приложением, может привести к повреждению вашей рабочей области, библиотек или проектов! Сохранённые файлы не будут читаться стабильными версиями LibrePCB. Настоятельно рекомендуется создать резервную копию, прежде чем приступать к работе. Если вы не уверены, загрузите официальный стабильный релиз.&lt;/p&gt;&lt;p&gt;Для получения более подробной информации ознакомьтесь с &lt;a href=&quot;%1&quot;&gt;концепцией версионности&lt;/a&gt; LibrePCB.&lt;/p&gt;&lt;p&gt;Вы действительно уверены, что хотите продолжать работу, рискуя повредить свои файлы?!&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -17573,7 +17593,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="../share/applications/org.librepcb.LibrePCB.desktop" line="1"/>
         <source>Design Schematics and PCBs</source>
-        <translation type="unfinished"/>
+        <translation>Разработка схем и печатных плат</translation>
     </message>
 </context>
 </TS>
