@@ -17,7 +17,7 @@
     <message>
         <location filename="../libs/librepcb/core/attribute/attributekey.h" line="56"/>
         <source>Invalid attribute key: &apos;%1&apos;</source>
-        <translation>Неверный ключ атрибута: &apos;%1&quot;</translation>
+        <translation>Неверный ключ атрибута: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
     <message>
         <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="77"/>
         <source>Unknown unit of attribute type &quot;%1&quot;: &quot;%2&quot;</source>
-        <translation>Неизвестная единица измерения типа атрибута &quot;% 1&quot;: &quot;% 2&quot;</translation>
+        <translation>Неизвестная единица измерения типа атрибута &quot;% 1&quot;: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/attribute/attributetype.cpp" line="124"/>
@@ -38,17 +38,17 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="248"/>
         <source>Through-Hole Via</source>
-        <translation>Переходное отверстие, проходящее через несколько слоев</translation>
+        <translation>Переходное отверстие через несколько слоёв</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="250"/>
         <source>Blind Via</source>
-        <translation>Слепое переходное отверстие</translation>
+        <translation>Глухое переходное отверстие</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="252"/>
         <source>Buried Via</source>
-        <translation>Переходное отверстие, соединяющее внутренние слои</translation>
+        <translation>Внутреннее переходное отверстие</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="254"/>
@@ -231,12 +231,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="139"/>
         <source>Override output jobs with a *.lp file containing custom jobs. If not set, the jobs from the project will be used instead.</source>
-        <translation>Переопределите выходные задания с помощью файла *.lp, содержащего пользовательские задания. Если параметр не задан, вместо него будут использоваться задания из проекта.</translation>
+        <translation>Переопределить выходные задания с помощью файла *.lp с пользовательскими заданиями. Если параметр не задан, будут использованы задания из проекта.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="144"/>
         <source>Override the output base directory of jobs. If not set, the standard output directory from the project is used.</source>
-        <translation>Переопределите выходной базовый каталог заданий. Если не задано, используется стандартный выходной каталог из проекта.</translation>
+        <translation>Переопределить выходной базовый каталог заданий. Если не задан, будет использован стандартный выходной каталог для проекта.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
@@ -251,17 +251,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="155"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Экспортировать перечень элементов (BOM) в указанный файл(ы). Существующие файлы будут перезаписаны. Поддерживаемые расширения файлов:% 1</translation>
+        <translation>Экспортировать перечень элементов (BOM) в указанный файл(ы). Существующие файлы будут перезаписаны. Поддерживаемые расширения файлов: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="161"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Экспортировать перечень элементов (BOM) для конкретной платы в указанный файл(ы). Существующие файлы будут перезаписаны. Поддерживаемые расширения файлов:% 1</translation>
+        <translation>Экспортировать перечень элементов (BOM) для конкретной платы в указанный файл(ы). Существующие файлы будут перезаписаны. Поддерживаемые расширения файлов: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="167"/>
         <source>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</source>
-        <translation>Список дополнительных атрибутов , разделённых запятыми, для экспортируемого перечня элементов (BOM). Например: &quot;%1&quot;</translation>
+        <translation>Список дополнительных атрибутов, разделённых запятыми, для экспортируемого перечня элементов (BOM). Например: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="170"/>
@@ -312,7 +312,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="213"/>
         <source>Remove all boards not specified with &apos;%1&apos; from the project before executing all the other actions. If &apos;%1&apos; is not passed, all boards will be removed. Pass &apos;%2&apos; to save the modified project to disk.</source>
-        <translation>Удалите все платы, не указанные с помощью &apos;%1&apos;, из проекта перед выполнением всех остальных действий. Если &apos;%1&apos; не передан, все платы будут удалены. Пропустите &apos;%2&apos;, чтобы сохранить измененный проект на диск.</translation>
+        <translation>Удалить из проекта все платы, не указанные с помощью &apos;%1&apos; перед выполнением всех остальных действий. Если и &apos;%1&apos; не указан, удалены будут все платы. Пропустить &apos;%2&apos;, чтобы сохранить изменённый проект на диск.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="220"/>
@@ -1467,7 +1467,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/import/dxfreader.cpp" line="196"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
-        <translation>Ошибка чтения DXF-файла &quot;%1&quot;: %2 </translation>
+        <translation>Ошибка чтения DXF-файла &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -14061,7 +14061,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_versioncontrol.ui" line="35"/>
         <source>This will create the files &quot;.gitignore&quot; and &quot;.gitattributes&quot; in the project&apos;s directory. Initializing a Git repository is not yet supported, so you need to do this by yourself ;)</source>
-        <translation>В каталоге проекта будут созданы файлы &quot;.gitignore&quot; и &quot;.gitattributes&quot;. Инициализация Git репозитория пока не поддерживается, так что вам необходимо вручную их заполнить ;)</translation>
+        <translation>В каталоге проекта будут созданы файлы &quot;.gitignore&quot; и &quot;.gitattributes&quot;. Инициализация Git репозитория пока не поддерживается, так что вам необходимо это сделать вручную ;)</translation>
     </message>
 </context>
 <context>
