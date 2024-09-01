@@ -17136,7 +17136,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="133"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation>Это имя будет использоваться в качестве автора при создании новых проектов или библиотек.</translation>
+        <translation>Это имя будет использоваться в качестве авторского при создании новых проектов или библиотек.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="145"/>
