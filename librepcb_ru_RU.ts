@@ -4097,7 +4097,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="112"/>
         <source>Stop mask not set on fiducial in &apos;%1&apos;</source>
-        <translation>Стоп-маска не установлена не коорд. метке в &apos;%1&apos;</translation>
+        <translation>Стоп-маска не установлена на коорд. метке в &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="114"/>
@@ -5574,7 +5574,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/project/board/items/bi_via.cpp" line="193"/>
         <source>Failed to connect trace to via because it&apos;s a blind- or buried via which doesn&apos;t include the corresponding layer.</source>
-        <translation>Не удалось подключить трассу к via, поскольку это глухой или подземный via, не включающий соответствующий слой.</translation>
+        <translation>Не удалось подключить дорожку к перех. отв., поскольку оно глухое или скрытое, не включающий соответствующий слой.</translation>
     </message>
 </context>
 <context>
