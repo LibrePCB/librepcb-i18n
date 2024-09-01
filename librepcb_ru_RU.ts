@@ -347,7 +347,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="251"/>
         <source>Run the library element check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation>Запустите проверку библиотечных элементов, выведите все неутвержденные сообщения и сообщите о неудаче (код выхода = 1), если есть неутвержденные сообщения.</translation>
+        <translation>Запустить проверку библиотечных элементов, вывести все неутвержденные сообщения и сообщить об ошибке (код возврата = 1), если есть неутвержденные сообщения.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="255"/>
@@ -357,7 +357,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="259"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
-        <translation>Сохраните библиотеку (и содержащиеся в ней элементы, если задано &apos;--all&apos;) перед ее закрытием (полезно для обновления формата файлов).</translation>
+        <translation>Сохранить библиотеку (и содержащиеся в ней элементы, если задано &apos;--all&apos;) перед её закрытием (полезно для обновления формата файлов).</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="263"/>
