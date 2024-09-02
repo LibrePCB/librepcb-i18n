@@ -2765,7 +2765,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1228"/>
         <source>Increase the via/pad/hole drill diameter</source>
-        <translation>Увеличение диаметра отверстий/прокладок/буров</translation>
+        <translation>Увеличение диаметра перех. отв./контактных площадок/отверстий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1236"/>
@@ -2775,7 +2775,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1237"/>
         <source>Decrease the via/pad/hole drill diameter</source>
-        <translation>Уменьшение диаметра отверстий/прокладок/сверл</translation>
+        <translation>Уменьшение диаметра перех. отв./контактных площадок/отвестий</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1245"/>
@@ -3598,12 +3598,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="586"/>
         <source>Local Footprint Fiducial (SMT, no soldering)</source>
-        <translation>Локальная техническая площадка (SMT, без пайки)</translation>
+        <translation>Локальные реперные знаки посад. площадки (SMT, без пайки)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/footprintpad.cpp" line="588"/>
         <source>Global Board Fiducial (SMT, no soldering)</source>
-        <translation>Глобальная плата Fiducial (SMT, без пайки)</translation>
+        <translation>Глобальные реперные знаки платы (SMT, без пайки)</translation>
     </message>
 </context>
 <context>
@@ -4084,12 +4084,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="87"/>
         <source>Small copper clearance on fiducial in &apos;%1&apos;</source>
-        <translation>Небольшой медный зазор на датчике в &apos;%1&apos;</translation>
+        <translation>Небольшой медный зазор на реперном знаке в &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="89"/>
         <source>The copper clearance of the fiducial pad is less than its stop mask expansion, which is unusual. Typically the copper clearance should be equal to or greater than the stop mask expansion to avoid copper located within the stop mask opening.</source>
-        <translation>Медный зазор фидуциальной площадки меньше, чем расширение маски, что необычно. Обычно медный зазор должен быть равен или больше расширения маски, чтобы избежать попадания меди в отверстие маски.</translation>
+        <translation>Медный зазор реперного знака площадки меньше, чем расширение маски, что необычно. Обычно медный зазор должен быть равен или больше расширения маски, чтобы избежать попадания меди в отверстие маски.</translation>
     </message>
 </context>
 <context>
@@ -4238,7 +4238,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="286"/>
         <source>Missing courtyard in footprint &apos;%1&apos;</source>
-        <translation>Отсутствующий обл. установки в посад. месте &apos;%1&apos;</translation>
+        <translation>Отсутствующая обл. установки в посад. месте &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="288"/>
@@ -4567,7 +4567,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="620"/>
         <source>The SMT pad has solder paste enabled, but its function indicates that there&apos;s no lead to be soldered on it (e.g. a fiducial). Usually solder paste is not desired on such special pads which won&apos;t be soldered.</source>
-        <translation>На SMT-площадке включена паяльная паста, но ее функция указывает на то, что к ней не нужно припаивать выводы (например, фидуциал). Обычно паяльная паста не нужна на таких специальных площадках, которые не будут паяться.</translation>
+        <translation>На SMT-площадке включена паяльная паста, но её функция указывает на то, что к ней не нужно припаивать выводы (например, координатная метка). Обычно паяльная паста не нужна на таких специальных площадках, которые не будут паяться.</translation>
     </message>
 </context>
 <context>
@@ -13472,7 +13472,7 @@ This can be reverted in the workspace settings dialog.</source>
         <source>Component Category
 (e.g. OpAmps)</source>
         <translation>Категория компонента
-(например, OpAmps)</translation>
+(напр. OpAmps)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="62"/>
@@ -13484,7 +13484,7 @@ This can be reverted in the workspace settings dialog.</source>
         <source>Package Category
 (e.g. DIP)</source>
         <translation>Категория корпуса
-(например, DIP)</translation>
+(напр. DIP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="92"/>
@@ -13508,7 +13508,7 @@ This can be reverted in the workspace settings dialog.</source>
         <source>Package
 (e.g. DIP8)</source>
         <translation>Корпус
-(например, DIP8)</translation>
+(напр. DIP8)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="152"/>
@@ -13600,7 +13600,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="70"/>
         <source>e.g. &quot;D&quot; for Diodes (optional)</source>
-        <translation>например, &quot;D&quot; для диодов (оционально)</translation>
+        <translation>напр. &quot;D&quot; для диодов (опционально)</translation>
     </message>
 </context>
 <context>
