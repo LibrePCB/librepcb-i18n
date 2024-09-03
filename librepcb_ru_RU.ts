@@ -2545,17 +2545,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1034"/>
         <source>Add Local Fiducial Pad</source>
-        <translation>Добавить локальную панель Fiducial Pad</translation>
+        <translation>Добавить площадку локального реперного знака</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1035"/>
         <source>Add special SMT pads used as local fiducials</source>
-        <translation>Добавление специальных SMT площадок, используемых в качестве локальных коорд. меток</translation>
+        <translation>Добавление специальных SMT площадок, используемых в качестве локальных реперных знаков</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1043"/>
         <source>Add Global Fiducial Pad</source>
-        <translation>Добавить глобальную фидуциальную подушку</translation>
+        <translation>Добавить площадку глобального реперного знака</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1044"/>
@@ -4102,7 +4102,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="114"/>
         <source>The stop mask expansion of the fiducial pad is set to automatic, which is unusual. Typically the stop mask expansion of fiducials need to be manually set to a much larger value.</source>
-        <translation>Расширение стоп-маски для площадки коорд. метки установлено автоматически, что необычно. Как правило, расширение стоп-маски  коорд. метки необходимо устанавливать вручную на гораздо большее значение.</translation>
+        <translation>Расширение стоп-маски для площадки реперного знака установлено автоматически, что необычно. Как правило, расширение стоп-маски  реперных знаков необходимо устанавливать вручную на гораздо большее значение.</translation>
     </message>
 </context>
 <context>
@@ -4554,7 +4554,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="593"/>
         <source>There is a custom copper clearance enabled on the pad, which is unusual for pads which do not represent a fiducial. Note that the clearance value from the board design rules is applied to all pads anyway, thus manual clearance values are usually not needed. If this pad is a fiducial, make sure to set its function to the corresponding value.</source>
-        <translation>На этой площадке включен пользовательский медный зазор, что необычно для площадок, не представляющих собой фидуциал. Обратите внимание, что значение зазора из правил проектирования платы в любом случае применяется ко всем площадкам, поэтому ручные значения зазора обычно не нужны. Если эта площадка является фидуциальной, обязательно установите для ее функции соответствующее значение.медь</translation>
+        <translation>На этой площадке включен пользовательский медный зазор, что необычно для площадок, не представляющих собой реперные знаки. Обратите внимание, что значение зазора из правил проектирования платы в любом случае применяется ко всем площадкам, поэтому ручные значения зазора обычно не нужны. Если эта площадка является реперным знаком, обязательно установите для ее функции соответствующее значение.</translation>
     </message>
 </context>
 <context>
@@ -4567,7 +4567,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="620"/>
         <source>The SMT pad has solder paste enabled, but its function indicates that there&apos;s no lead to be soldered on it (e.g. a fiducial). Usually solder paste is not desired on such special pads which won&apos;t be soldered.</source>
-        <translation>На SMT-площадке включена паяльная паста, но её функция указывает на то, что к ней не нужно припаивать выводы (например, координатная метка). Обычно паяльная паста не нужна на таких специальных площадках, которые не будут паяться.</translation>
+        <translation>На SMT-площадке включена паяльная паста, но её функция указывает на то, что к ней не нужно припаивать выводы (например, реперный знак). Обычно паяльная паста не нужна на таких специальных площадках, которые не будут паяться.</translation>
     </message>
 </context>
 <context>
@@ -4611,12 +4611,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
  - Function is intended for SMT pads but pad is THT
  - Function is electrical but pad is not connected
  - Function is fiducial but pad is connected</source>
-        <translation>Настроенная функция блокнота не соответствует другим свойствам блокнота и поэтому выглядит подозрительно. Возможные причины:
+        <translation>Настроенная функция площадки не соответствует другим её свойствам и поэтому выглядит подозрительно. Возможные причины:
 
-- Функция предназначена для колодок THT, но колодка SMT
-- Функция предназначена для SMT-площадок, но площадка - THT
-- Функция электрическая, но колодка не подключена
-- Функция является фидуциальной, но колодка подключена</translation>
+- SMT площадка заявлена как THT
+- THT площадка заявлена как SMT
+- Площадка заявлена как электрическая, но не подключена
+- Площадка заявлена как реперный знак, но подключена</translation>
     </message>
 </context>
 <context>
@@ -11732,7 +11732,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="635"/>
         <source>Note: Intended to keep copper away from fiducials.</source>
-        <translation>Примечание: Предназначен для того, чтобы держать медь подальше от координатных меток.</translation>
+        <translation>Примечание: Предназначен для того, чтобы держать медь подальше от реперных знаков.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="649"/>
@@ -15535,7 +15535,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="291"/>
         <source>Fiducial</source>
-        <translation>Координатная метка</translation>
+        <translation>Реперный знак</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="298"/>
