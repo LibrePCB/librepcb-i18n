@@ -2265,7 +2265,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="777"/>
         <source>Reset all texts of the footprint to their initial state</source>
-        <translation>Верните все тексты следа в исходное состояние</translation>
+        <translation>Вернуть все надписи посадочного места в исходное состояние</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="785"/>
@@ -4256,7 +4256,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="309"/>
         <source>No footprint defined</source>
-        <translation>Посад. места не определены</translation>
+        <translation>Не определено посад. место</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="310"/>
@@ -4274,7 +4274,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="325"/>
         <source>The footprint has no 3D model specified, so the package will be missing in the 3D viewer and in 3D data exports. However, this has no impact on the PCB production data.</source>
-        <translation>В отпечатке не указана 3D-модель, поэтому пакет будет отсутствовать в программе просмотра 3D и при экспорте 3D-данных. Однако это не влияет на данные о производстве печатных плат.</translation>
+        <translation>Для посадочного места не указана 3D-модель, поэтому корпус будет отсутствовать в программе просмотра 3D и при экспорте 3D-данных. Однако это не влияет на данные о производстве печатных плат.</translation>
     </message>
 </context>
 <context>
@@ -4282,12 +4282,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="342"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation>Отсутствует текст &apos;%1&apos; в посад. месте &apos;%2&apos;</translation>
+        <translation>Отсутствует текст &apos;%1&apos; для посад. места &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="344"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation>Большинство отпечатков должны содержать текстовый элемент для названия компонента, иначе вы не увидите это название на печатной плате (например, на шелкографии). Есть только несколько исключений, которым имя не нужно (например, если футпринт - это только рисунок), для них вы можете проигнорировать это сообщение.</translation>
+        <translation>Большинство посадочных мест должны содержать текстовый элемент для названия компонента, иначе вы не увидите это название на печатной плате (например, на шелкографии). Есть только несколько исключений, которым имя не нужно (например, если посадочное место просто рисунок), для них вы можете проигнорировать это сообщение.</translation>
     </message>
 </context>
 <context>
@@ -4295,12 +4295,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="364"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation>Отсутствует текст &apos;%1&apos; в посад. месте &apos;%2&apos;</translation>
+        <translation>Отсутствует текст &apos;%1&apos; для посад. места &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="366"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation>Большинство отпечатков должны содержать текстовый элемент для значения компонента, иначе вы не увидите это значение на печатной плате (например, на шелкографии). Есть только несколько исключений, которым значение не нужно (например, если футпринт - это только рисунок), для них вы можете проигнорировать это сообщение.</translation>
+        <translation>Большинство посадочных мест должны содержать текстовый элемент для названия компонента, иначе вы не увидите это название на печатной плате (например, на шелкографии). Есть только несколько исключений, которым имя не нужно (например, если посадочное место просто рисунок), для них вы можете проигнорировать это сообщение.</translation>
     </message>
 </context>
 <context>
@@ -4593,7 +4593,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="54"/>
         <source>The specified assembly type differs from the assembly type which is auto-detected from the footprint contents. Double-check if the specified assembly type is really correct.</source>
-        <translation>Указанный тип сборки отличается от типа сборки, который автоматически определяется по содержимому отпечатка. Дважды проверьте, действительно ли указанный тип сборки правильный.</translation>
+        <translation>Указанный тип сборки отличается от типа сборки, который автоматически определяется по содержимому посадочного места. Дважды проверьте, действительно ли указанный тип сборки правильный.</translation>
     </message>
 </context>
 <context>
@@ -4686,7 +4686,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="774"/>
         <source>The keepout zone has no layer or rule enabled so it has no effect. Either correct its properties or remove it from the footprint.</source>
-        <translation>У зоны keepout нет включенного слоя или правила, поэтому она не имеет эффекта. Либо исправьте ее свойства, либо удалите ее из отпечатка.</translation>
+        <translation>У зоны keepout нет включенного слоя или правила, поэтому она не имеет эффекта. Либо исправьте её свойства, либо удалите её с посадочного места.</translation>
     </message>
 </context>
 <context>
@@ -8292,7 +8292,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="135"/>
         <source>&lt;p&gt;Always use the full pad shape as defined in the footprint from the library.&lt;/p&gt;&lt;p&gt;This is the safer and thus preferred option, but requires more space for the pads.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Всегда использовать полную форму площадки, как определно на чертеже из библиотеки.&lt;/p&gt;&lt;p&gt;Это более безопасный и, следовательно, предпочтительный вариант, но он требует больше места для площадок.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Всегда использовать полную форму площадки, как определено на чертеже из библиотеки.&lt;/p&gt;&lt;p&gt;Это более безопасный и, следовательно, предпочтительный вариант, но он требует больше места для площадок.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.cpp" line="142"/>
@@ -11531,7 +11531,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="207"/>
         <source>Footprint name</source>
-        <translation>Название посад. места</translation>
+        <translation>Название посадочного места</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="315"/>
