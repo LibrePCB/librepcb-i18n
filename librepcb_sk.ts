@@ -2209,12 +2209,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="729"/>
         <source>Move/Align Objects</source>
-        <translation type="unfinished"/>
+        <translation>Presunúť/zarovnať objekty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="730"/>
         <source>Move and/or align the selected object(s) vertically or horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Vertikálny alebo horizontálny presun a/alebo zarovnanie zvolených objektov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="739"/>
@@ -4151,27 +4151,27 @@ Pre všeobecné puzdra (napr. SOT23) platí, že plôšky vývodov by mali byť 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="209"/>
         <source>It is recommended that polygons on layer &apos;%1&apos; have a line width of at least %2.</source>
-        <translation type="unfinished"/>
+        <translation>Odporúča sa, aby polygóny na vrstve &apos;%1&apos; mali šírku čiary aspoň %2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="229"/>
         <source>It is recommended that circles on layer &apos;%1&apos; have a line width of at least %2.</source>
-        <translation type="unfinished"/>
+        <translation>Odporúča sa, aby kružnice na vrstve &apos;%1&apos; mali šírku čiary aspoň %2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="249"/>
         <source>It is recommended that stroke texts on layer &apos;%1&apos; have a stroke width of at least %2.</source>
-        <translation type="unfinished"/>
+        <translation>Odporúča sa, aby ťahy textu na vrstve &apos;%1&apos; mali šírku čiary aspoň %2.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="266"/>
         <source>Minimum width of &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Minimálna šírka &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="272"/>
         <source>Otherwise it could lead to manufacturing problems in some cases (depending on board settings and/or the capabilities of the PCB manufacturer).</source>
-        <translation type="unfinished"/>
+        <translation>V opačnom prípade by to v niektorých prípadoch mohlo viesť k problémom pri výrobe (v závislosti od nastavenia dosky a/alebo možností výrobcu PCB).</translation>
     </message>
 </context>
 <context>
@@ -8657,67 +8657,67 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="14"/>
         <source>Mass Import</source>
-        <translation type="unfinished"/>
+        <translation>Hromadný import</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="139"/>
         <source>Monitor Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Sledovať schránku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="155"/>
         <source>For table-style input, only consider text in the specified column.</source>
-        <translation type="unfinished"/>
+        <translation>Pri vstupe v štýle tabuľky berte do úvahy iba text v zadanom stĺpci.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="158"/>
         <source>Filter column (0=auto):</source>
-        <translation type="unfinished"/>
+        <translation>Stĺpec filtra (0=automaticky):</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="187"/>
         <source>Sort result</source>
-        <translation type="unfinished"/>
+        <translation>Zoradiť výsledok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="123"/>
         <source>Specify the items for mass import in this text field, each item on a separate line.</source>
-        <translation type="unfinished"/>
+        <translation>Do tohto textového poľa zadajte položky pre hromadný import a to každú položku na samostatnom riadku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="126"/>
         <source>To copy values e.g. from a datasheet PDF, two modes are available:</source>
-        <translation type="unfinished"/>
+        <translation>Na kopírovanie hodnôt napr. z údajového listu PDF sú k dispozícii dva režimy:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="130"/>
         <source>Copy a whole table from the PDF and paste it into this field. Attention: If the table contains line breaks, manually remove unrelated lines afterwards! Also note that this does not work with every PDF reader.</source>
-        <translation type="unfinished"/>
+        <translation>Skopírujte celú tabuľku z PDF a vložte ju do tohto poľa. Pozor: Ak tabuľka obsahuje zalomenia riadkov, potom ručne odstráňte nesúvisiace riadky! Upozorňujeme tiež, že to nefunguje s každou čítačkou PDF.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="135"/>
         <source>Check the button &apos;%1&apos; below and copy item-by-item into the clipboard. LibrePCB monitors the clipboard and automatically pastes each item here.</source>
-        <translation type="unfinished"/>
+        <translation>Použite tlačidlo &apos;%1&apos; nižšie a skopírujte položku po položke do schránky. LibrePCB monitoruje schránku a automaticky sem vkladá kopírované položky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="141"/>
         <source>Clipboard monitoring is active! Now copy the items one-by-one into the clipboard. LibrePCB does not need to stay in foreground for this.</source>
-        <translation type="unfinished"/>
+        <translation>Sledovanie schránky je aktívne! Teraz skopírujte položky jednu po druhej do schránky. Aplikácia LibrePCB na to nemusí zostať v popredí.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="218"/>
         <source>INVALID INPUT</source>
-        <translation type="unfinished"/>
+        <translation>NEPLATNÝ VSTUP</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="221"/>
         <source>DUPLICATE</source>
-        <translation type="unfinished"/>
+        <translation>DUPLIKÁT</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="224"/>
         <source>NAME CONFLICT</source>
-        <translation type="unfinished"/>
+        <translation>KONFLIKT NÁZVOV</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="245"/>
@@ -8727,7 +8727,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="246"/>
         <source>Result</source>
-        <translation type="unfinished"/>
+        <translation>Výsledok</translation>
     </message>
 </context>
 <context>
@@ -13320,72 +13320,72 @@ Môže byť opäť zobrazené v dialógu nastavenia pracovného priestoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="14"/>
         <source>Move/Align Elements</source>
-        <translation type="unfinished"/>
+        <translation>Presunúť/zarovnať elementy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="32"/>
         <source>Reference Position (Top Left)</source>
-        <translation type="unfinished"/>
+        <translation>Referenčná pozícia (vľavo hore)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="38"/>
         <source>Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Režim:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="47"/>
         <source>Absolute</source>
-        <translation type="unfinished"/>
+        <translation>Absolútny</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="57"/>
         <source>Relative</source>
-        <translation type="unfinished"/>
+        <translation>Relatívny</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="66"/>
         <source>X:</source>
-        <translation type="unfinished"/>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="81"/>
         <source>Center around Y-axis</source>
-        <translation type="unfinished"/>
+        <translation>Stred okolo osi Y</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="97"/>
         <source>Y:</source>
-        <translation type="unfinished"/>
+        <translation>Y:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="112"/>
         <source>Center around X-axis</source>
-        <translation type="unfinished"/>
+        <translation>Stred okolo osi X</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="131"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Rozostup</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="155"/>
         <source>ΔX:</source>
-        <translation type="unfinished"/>
+        <translation>ΔX:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="174"/>
         <source>Align vertically (ΔX=0)</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnať vertikálne (ΔX=0)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="187"/>
         <source>ΔY:</source>
-        <translation type="unfinished"/>
+        <translation>ΔY:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/movealigndialog.ui" line="206"/>
         <source>Align horizontally (ΔY=0)</source>
-        <translation type="unfinished"/>
+        <translation>Zarovnať horizontálne (ΔX=0)</translation>
     </message>
 </context>
 <context>
@@ -14008,17 +14008,17 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="107"/>
         <source>CERN-OHL-P-2.0 (permissive)</source>
-        <translation type="unfinished"/>
+        <translation>CERN-OHL-P-2.0 (permissive)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="109"/>
         <source>CERN-OHL-W-2.0 (weakly reciprocal)</source>
-        <translation type="unfinished"/>
+        <translation>CERN-OHL-W-2.0 (weakly reciprocal)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="111"/>
         <source>CERN-OHL-S-2.0 (strongly reciprocal)</source>
-        <translation type="unfinished"/>
+        <translation>CERN-OHL-S-2.0 (strongly reciprocal)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="192"/>
@@ -14922,12 +14922,12 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="893"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1125"/>
         <source>Paste Geometry</source>
-        <translation type="unfinished"/>
+        <translation>Geometria vkladania</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="895"/>
         <source>Apply the same geometry as the object in the clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Použiť rovnakú geometriu ako objekt v schránke</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1065"/>
@@ -15085,7 +15085,7 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="784"/>
         <source>New Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Nová šírka čiary</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="973"/>
@@ -16450,7 +16450,7 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="96"/>
         <source>Mass Import</source>
-        <translation type="unfinished"/>
+        <translation>Hromadný import</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="119"/>
@@ -16827,17 +16827,17 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="216"/>
         <source>%1 gets renamed to %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 bude premenovaný na %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="217"/>
         <source>There is already a component with the name &apos;%1&apos; in the schematic. Do you want to swap their names?</source>
-        <translation type="unfinished"/>
+        <translation>V schéme sa už nachádza komponent s názvom &apos;%1&apos;. Chcete vymeniť ich názvy?</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="223"/>
         <source>Name already in use</source>
-        <translation type="unfinished"/>
+        <translation>Názov je už použitý</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.cpp" line="270"/>
@@ -17057,7 +17057,7 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="95"/>
         <source>See details &lt;a href=&quot;%1&quot;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Podrobnosti nájdete &lt;a href=&quot;%1&quot;&gt;tu&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="237"/>
