@@ -2670,7 +2670,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1144"/>
         <source>Helper tool to interactively change pad numbers</source>
-        <translation type="unfinished"/>
+        <translation>Вспомогательный инструмент для нумерации контактных площадок</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1152"/>
