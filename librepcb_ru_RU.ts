@@ -2665,7 +2665,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1143"/>
         <source>Re-Number Pads</source>
-        <translation type="unfinished"/>
+        <translation>Перенумеровать контактные площадки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1144"/>
@@ -4855,12 +4855,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="84"/>
         <source>Ctrl</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="86"/>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Return</translation>
     </message>
 </context>
 <context>
@@ -14916,7 +14916,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="69"/>
         <source>Finish</source>
-        <translation type="unfinished"/>
+        <translation>Finish</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="82"/>
@@ -14931,7 +14931,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="206"/>
         <source>Re-number pads</source>
-        <translation type="unfinished"/>
+        <translation>Перенумеровать контактные площадки</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="217"/>
