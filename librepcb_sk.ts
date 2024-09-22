@@ -2665,12 +2665,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1143"/>
         <source>Re-Number Pads</source>
-        <translation type="unfinished"/>
+        <translation>Prečíslovať plôšky vývodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1144"/>
         <source>Helper tool to interactively change pad numbers</source>
-        <translation type="unfinished"/>
+        <translation>Pomocný nástroj na interaktívnu zmenu čísel plôšok vývodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1152"/>
@@ -3361,7 +3361,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1769"/>
         <source>Various helper tools to generate or modify objects</source>
-        <translation type="unfinished"/>
+        <translation>Rôzne pomocné nástroje na generovanie alebo úpravu objektov</translation>
     </message>
 </context>
 <context>
@@ -3851,7 +3851,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="334"/>
         <source>Bottom Finish</source>
-        <translation type="unfinished"/>
+        <translation>Povrchová úprava spodná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="340"/>
@@ -4752,7 +4752,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/geometry/path.h" line="202"/>
         <source>Path doesn&apos;t contain vertices!</source>
-        <translation type="unfinished"/>
+        <translation>Obrys neobsahuje vrcholy!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/geometry/path.h" line="243"/>
@@ -4855,12 +4855,12 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="84"/>
         <source>Ctrl</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="86"/>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Návrat</translation>
     </message>
 </context>
 <context>
@@ -5054,7 +5054,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="83"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="105"/>
         <source>Overlays</source>
-        <translation type="unfinished"/>
+        <translation>Potlač</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="84"/>
@@ -5321,12 +5321,12 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="144"/>
         <source>Finish Top</source>
-        <translation type="unfinished"/>
+        <translation>Povrchová úprava vrchná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="145"/>
         <source>Finish Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Povrchová úprava spodná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="146"/>
@@ -5346,7 +5346,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="184"/>
         <source>Copper Inner</source>
-        <translation type="unfinished"/>
+        <translation>Vnútorná vodivá</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="187"/>
@@ -14916,22 +14916,22 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="69"/>
         <source>Finish</source>
-        <translation type="unfinished"/>
+        <translation>Povrchové úpravy</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="82"/>
         <source>(press %1 for single-selection, %2 to change numbering mode, %3 to finish)</source>
-        <translation type="unfinished"/>
+        <translation>(stlačte %1 pre jednoduchý výber, %2 pre zmenu režimu číslovania, %3 pre dokončenie)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="87"/>
         <source>Click on the next pad</source>
-        <translation type="unfinished"/>
+        <translation>Kliknite na nasledujúcu plôšku vývodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="206"/>
         <source>Re-number pads</source>
-        <translation type="unfinished"/>
+        <translation>Prečíslovať plôšky vývodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="217"/>
