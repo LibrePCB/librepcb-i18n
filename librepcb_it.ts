@@ -38,17 +38,17 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="248"/>
         <source>Through-Hole Via</source>
-        <translation>Via Foro Passante </translation>
+        <translation>Foro Passante </translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="250"/>
         <source>Blind Via</source>
-        <translation>Via ceca</translation>
+        <translation>Fori ciechi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="252"/>
         <source>Buried Via</source>
-        <translation>Via interna</translation>
+        <translation>Fori interni</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="254"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="95"/>
         <source>None (no text)</source>
-        <translation>Vuoto (no testo)</translation>
+        <translation>Vuoto (nessun testo)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="101"/>
@@ -12421,12 +12421,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/gridsettingsdialog.ui" line="58"/>
         <source>Dots</source>
-        <translation type="unfinished"/>
+        <translation>Punti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/gridsettingsdialog.ui" line="68"/>
         <source>Lines</source>
-        <translation type="unfinished"/>
+        <translation>Linee</translation>
     </message>
 </context>
 <context>
@@ -13382,7 +13382,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizard.cpp" line="100"/>
         <source>Could not copy element</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile copiare l&apos;elemento</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizard.cpp" line="114"/>
@@ -13482,7 +13482,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="231"/>
         <source>Copy from existing element</source>
-        <translation type="unfinished"/>
+        <translation>Copiare da un elemento esistente</translation>
     </message>
 </context>
 <context>
@@ -13535,7 +13535,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="70"/>
         <source>e.g. &quot;D&quot; for Diodes (optional)</source>
-        <translation type="unfinished"/>
+        <translation>es: &quot;D&quot; per diodi (opzionale)</translation>
     </message>
 </context>
 <context>
@@ -13572,7 +13572,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_copyfrom.ui" line="14"/>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_copyfrom.ui" line="17"/>
         <source>Copy from existing element</source>
-        <translation type="unfinished"/>
+        <translation>Copiare da un elemento esistente</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_copyfrom.ui" line="20"/>
@@ -13667,7 +13667,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="64"/>
         <source>Category:</source>
-        <translation type="unfinished"/>
+        <translation>Categoria:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_entermetadata.ui" line="74"/>
@@ -14114,17 +14114,17 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="104"/>
         <source>Upload Project</source>
-        <translation type="unfinished"/>
+        <translation>Carica Progetto</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.ui" line="160"/>
         <source>Checking availability...</source>
-        <translation type="unfinished"/>
+        <translation>Verifica disponibilità...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="73"/>
         <source>discussion forum</source>
-        <translation type="unfinished"/>
+        <translation>forum di discussione</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="104"/>
@@ -14314,7 +14314,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="231"/>
         <source>Production Data</source>
-        <translation type="unfinished"/>
+        <translation>Dati di produzione</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="237"/>
@@ -14329,7 +14329,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="276"/>
         <source>(copy)</source>
-        <translation type="unfinished"/>
+        <translation>(copia)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="342"/>
@@ -14562,7 +14562,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="327"/>
         <source>Radius:</source>
-        <translation type="unfinished"/>
+        <translation>Raggio:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="344"/>
@@ -14627,7 +14627,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="91"/>
         <source>Line Width:</source>
-        <translation>Larghezza pista</translation>
+        <translation>Larghezza pista:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="107"/>
@@ -17332,13 +17332,13 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="278"/>
         <source>Dots</source>
         <comment>Grid style</comment>
-        <translation type="unfinished"/>
+        <translation>Punti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="280"/>
         <source>Lines</source>
         <comment>Grid style</comment>
-        <translation type="unfinished"/>
+        <translation>Linee</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="284"/>
@@ -17371,7 +17371,7 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="479"/>
         <source>Example:</source>
-        <translation type="unfinished"/>
+        <translation>Esempio:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="506"/>
@@ -17386,17 +17386,17 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="586"/>
         <source>N/A</source>
-        <translation type="unfinished"/>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="590"/>
         <source>Primary color: %1</source>
-        <translation type="unfinished"/>
+        <translation>Colore principale: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="591"/>
         <source>Secondary color: %1</source>
-        <translation type="unfinished"/>
+        <translation>Colore secondario: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="606"/>
@@ -17426,7 +17426,7 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="632"/>
         <source>Not installed</source>
-        <translation type="unfinished"/>
+        <translation>Non installato</translation>
     </message>
 </context>
 <context>
