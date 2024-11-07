@@ -2370,12 +2370,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="878"/>
         <source>Set/Unset Background Image</source>
-        <translation type="unfinished"/>
+        <translation>Aktivovať/deaktivovať obrázok na pozadí</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="879"/>
         <source>Use a datasheet drawing as the background for verification</source>
-        <translation type="unfinished"/>
+        <translation>Použite výkres z údajového listu ako pozadie pre overenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="887"/>
@@ -7305,17 +7305,17 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="14"/>
         <source>Set Background Image</source>
-        <translation type="unfinished"/>
+        <translation>Aktivovať obrázok na pozadí</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="26"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Urobiť snímku obrazovky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="37"/>
         <source>Paste From Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Vložiť zo schránky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="48"/>
@@ -7325,87 +7325,87 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="65"/>
         <source>Discard image</source>
-        <translation type="unfinished"/>
+        <translation>Zahodiť obrázok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="85"/>
         <source>Specify coordinates of reference points:</source>
-        <translation type="unfinished"/>
+        <translation>Zadajte súradnice referenčných bodov:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="324"/>
         <source>Screen %1</source>
-        <translation type="unfinished"/>
+        <translation>Obrazovka %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="362"/>
         <source>Could not take a screenshot. Note that this feature does not work on some systems due to security mechanisms.</source>
-        <translation type="unfinished"/>
+        <translation>Nepodarilo sa vytvoriť snímok obrazovky. Upozorňujeme, že táto funkcia nefunguje na niektorých systémoch kvôli bezpečnostným mechanizmom.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="378"/>
         <source>No image found in the clipboard.</source>
-        <translation type="unfinished"/>
+        <translation>V schránke sa nenachádza žiaden obrázok.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="395"/>
         <source>Choose image</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť obrázok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="402"/>
         <source>Failed to open the selected image file.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba pri otváraní súboru zvoleného obrázka.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="460"/>
         <source>This tool allows you to set a background image (typically a datasheet drawing) in the footprint editor to easily verify the size &amp;amp; position of footprint pads etc. Note that the image won&apos;t appear on the board, it&apos;s only visible in the footprint editor.</source>
-        <translation type="unfinished"/>
+        <translation>Tento nástroj umožňuje nastaviť obrázok na pozadie (zvyčajne výkres z údajového listu) v editore puzdier, aby ste si mohli jednoducho overiť veľkosť &amp;amp; polohu plôšok vývodov atď. Poznámka: obrázok bude viditeľný iba v editore puzdier a nebude zobrazený na doske spojov.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="468"/>
         <source>Load an image with one of the buttons on the left side.</source>
-        <translation type="unfinished"/>
+        <translation>Načítať obrázok pomocou jedného z tlačidiel na ľavej strane.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="470"/>
         <source>Draw a line around the footprint to cut out the relevant area.</source>
-        <translation type="unfinished"/>
+        <translation>Označiť čiarou oblasť pre vystrihnutie okolo puzdra.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="471"/>
         <source>Rotate/mirror the image.</source>
-        <translation type="unfinished"/>
+        <translation>Otočenie/zrkadlenie obrázku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="473"/>
         <source>Specify two reference points to calculate X/Y scale &amp; offset.</source>
-        <translation type="unfinished"/>
+        <translation>Zadať dva referenčné body pre výpočet mierky X/Y a posunu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="479"/>
         <source>Important: Make sure to zoom in as much as possible when taking the screenshot, to get a reasonably high resolution!</source>
-        <translation type="unfinished"/>
+        <translation>Dôležité: Pri vytváraní snímky obrazovky sa uistite, že ste ju čo najviac priblížili, aby ste získali dostatočne vysoké rozlíšenie!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="529"/>
         <source>Step %1:</source>
-        <translation type="unfinished"/>
+        <translation>Krok %1:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="531"/>
         <source>Note that the two points must be located diagonally to get a large distance in both X- and Y-direction.</source>
-        <translation type="unfinished"/>
+        <translation>Všimnite si, že dva body musia byť umiestnené diagonálne, aby ste získali veľkú vzdialenosť v smere X aj Y.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="537"/>
         <source>Crop the image by drawing a line with the cursor around the footprint (single click to skip).</source>
-        <translation type="unfinished"/>
+        <translation>Orežte obrázok nakreslením čiary pomocou kurzoru okolo puzdra (preskočte jedným kliknutím).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="541"/>
         <source>Rotate/mirror the image to match the orientation of the footprint.</source>
-        <translation type="unfinished"/>
+        <translation>Otočiť/zrkadliť obrázok tak, aby zodpovedal orientácii puzdra.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="546"/>
