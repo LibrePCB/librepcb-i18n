@@ -4050,6 +4050,11 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <source>Move this element to another library</source>
         <translation>Переместите этот элемент в другую библиотеку</translation>
     </message>
+    <message>
+        <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="198"/>
+        <source>More Resources</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>MsgDeprecatedAssemblyType</name>
@@ -5973,48 +5978,48 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::NetworkRequestBase</name>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="120"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="128"/>
         <source>Start request...</source>
         <translation>Начать запрос...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="123"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="131"/>
         <source>Fatal error: Download manager is not running.</source>
         <translation>Фатальная ошибка: Менеджер загрузок не запущен.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="130"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="138"/>
         <source>Abort request...</source>
         <translation>Прервать запрос...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="143"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="151"/>
         <source>Request started...</source>
         <translation>Начинаем запрос...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="148"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="156"/>
         <source>Network access manager is not running.</source>
         <translation>Диспетчер доступа к сети не запущен.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="230"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="238"/>
         <source>Send data: %1</source>
         <translation>Отправить данные: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="248"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="256"/>
         <source>Receive data: %1</source>
         <translation>Получение данных: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="263"/>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="317"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="271"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="325"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="274"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="282"/>
         <source>SSL errors occurred:
 
 %1</source>
@@ -6023,37 +6028,37 @@ You need at least LibrePCB %1 to open it.
 %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="287"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="295"/>
         <source>Network request aborted.</source>
         <translation>Запрос к сети отменён.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="297"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="305"/>
         <source>Redirection loop detected.</source>
         <translation>Перенаправления зациклены.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="300"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="308"/>
         <source>Too many redirects.</source>
         <translation>Множественные перенаправления.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="306"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="314"/>
         <source>Redirect to %1...</source>
         <translation>Перенаправление %1...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="354"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="362"/>
         <source>Request successfully finished.</source>
         <translation>Запрос успешно выполнен.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="360"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="368"/>
         <source>Request aborted.</source>
         <translation>Запрос отменён.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="371"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="379"/>
         <source>Request failed: %1</source>
         <translation>Неудачный запрос: %1</translation>
     </message>
@@ -6794,6 +6799,27 @@ You need at least LibrePCB %1 to open it.
         <translation>Недоступно</translation>
     </message>
     <message>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="284"/>
+        <source>Search datasheet for &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="662"/>
+        <source>No datasheet found</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="663"/>
+        <source>Sorry, no datasheet found for the requested part :-(</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="676"/>
+        <location filename="../libs/librepcb/editor/utils/standardeditorcommandhandler.cpp" line="104"/>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
         <location filename="../libs/librepcb/editor/undostack.cpp" line="97"/>
         <source>Undo: %1</source>
         <translation>Отмена: %1</translation>
@@ -6812,11 +6838,6 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/undostack.cpp" line="106"/>
         <source>Redo</source>
         <translation>Вернуть</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/utils/standardeditorcommandhandler.cpp" line="104"/>
-        <source>Error</source>
-        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/categorytreemodel.cpp" line="106"/>
@@ -7979,73 +8000,73 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="227"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="325"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="556"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="639"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="648"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="657"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="666"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="804"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="831"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="861"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1230"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1250"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1266"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1282"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1298"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1387"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1403"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1418"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1447"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1473"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1495"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1513"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1531"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1549"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1565"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1637"/>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1725"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="228"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="326"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="557"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="640"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="649"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="658"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="667"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="805"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="832"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="862"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1236"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1256"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1272"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1288"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1304"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1393"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1409"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1424"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1453"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1479"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1501"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1519"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1537"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1555"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1571"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1643"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1731"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="848"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="849"/>
         <source>None</source>
         <translation>Отсутствует</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1358"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1364"/>
         <source>Set Width</source>
         <translation>Заданная ширина</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1563"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1569"/>
         <source>Copied to clipboard!</source>
         <translation>Скопировано в буфер обмена!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1577"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1583"/>
         <source>Paste board elements</source>
         <translation>Вставить элементы платы</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1736"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1742"/>
         <source>Measurement Result</source>
         <translation>Результат измерения</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1738"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1744"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
         <translation><numerusform>Общая длина %n сегмента дорожек: %2 мм / %3 дюймов</numerusform><numerusform>Общая длина %n сегментов дорожек: %2 мм / %3 дюймов</numerusform><numerusform>Общая длина %n сегментов дорожек: %2 мм / %3 дюймов</numerusform><numerusform>Общая длина %n сегментов дорожек: %2 мм / %3 дюймов</numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1746"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1752"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
         <translation>ПРЕДУПРЕЖДЕНИЕ: Выбран %1 сегмент трассы, но не все из них соединены!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1775"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_select.cpp" line="1781"/>
         <source>Selected trace segments may not branch!</source>
         <translation>Выбранные сегменты трассировки могут не разветвляться!</translation>
     </message>
@@ -10322,47 +10343,62 @@ Are you sure the footprint and pinout of the selected part are compatible with t
         <translation>Категории:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="291"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="284"/>
+        <source>Datasheet:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="299"/>
+        <source>Direct URL to online PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="306"/>
+        <source>Download &amp; open</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="326"/>
         <source>Schematic-Only:</source>
         <translation>Схематичный:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="298"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="333"/>
         <source>Component cannot be used in devices.</source>
         <translation>Компонент не может быть использован в устройствах.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="305"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="340"/>
         <source>Prefix:</source>
         <translation>Префикс:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="319"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="354"/>
         <source>Default Value:</source>
         <translation> Значение по умолчанию:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="336"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="384"/>
         <source>Messages:</source>
         <translation>Сообщения:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="163"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="175"/>
         <source>Invalid metadata</source>
         <translation>Неверные метаданные</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="174"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="186"/>
         <source>Save failed</source>
         <translation>Неудачное сохранение</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="313"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="351"/>
         <source>Determine default value</source>
         <translation>Определите значение по умолчанию</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="315"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="353"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
         <translation>Этот компонент специфичный (для производителя) или общий?</translation>
     </message>
@@ -10968,64 +11004,79 @@ Warning: This cannot be undone!</source>
         <translation>Категории:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="514"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="528"/>
         <source>Messages:</source>
         <translation>Сообщения:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="198"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="548"/>
+        <source>Datasheet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="563"/>
+        <source>Direct URL to online PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="570"/>
+        <source>Download &amp; open</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="209"/>
         <source>Invalid metadata</source>
         <translation>Неверные метаданные</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="209"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="220"/>
         <source>Save failed</source>
         <translation>Неудачное сохранение</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="252"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="269"/>
         <source>Edit device metadata</source>
         <translation>Редактировать метаданные устройства</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="291"/>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="372"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="328"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="409"/>
         <source>Component not found!</source>
         <translation>Компонент не найден!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="299"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="336"/>
         <source>Change component</source>
         <translation>Заменить компонент</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="314"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="351"/>
         <source>Could not set component</source>
         <translation>Не удалось установить компонент</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="331"/>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="432"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="368"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="469"/>
         <source>Package not found!</source>
         <translation>Корпус не найден!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="340"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="377"/>
         <source>Change package</source>
         <translation>Сменить корпус</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="359"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="396"/>
         <source>Could not set package</source>
         <translation>Не удалось установить корпус</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="466"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="503"/>
         <source>Attributes of Selected Part</source>
         <translation>Атрибуты выбранной детали</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="470"/>
+        <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="507"/>
         <source>Device Attributes</source>
         <translation>Атрибуты устройства</translation>
     </message>
@@ -15898,67 +15949,67 @@ For more information about licensing, click on this icon.</source>
 <context>
     <name>librepcb::editor::ProjectEditor</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="67"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="77"/>
         <source>ATTENTION: This project has been upgraded to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</source>
         <translation>ВНИМАНИЕ: Этот проект был обновлен до нового формата файла. После сохранения его больше нельзя будет открыть с помощью более старой версии LibrePCB!</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="73"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="83"/>
         <source>The upgrade produced &lt;a href=&apos;%1&apos;&gt;%2 message(s)&lt;/a&gt;, please review before proceeding.</source>
         <translation><numerusform>В результате обновления было создано &lt;a href=&apos;%1&apos;&gt;%2 сообщение&lt;/a&gt;, пожалуйста, просмотрите его, прежде чем продолжить.</numerusform><numerusform>В результате обновления было создано &lt;a href=&apos;%1&apos;&gt;%2 сообщений&lt;/a&gt;, пожалуйста, просмотрите их, прежде чем продолжить.</numerusform><numerusform>В результате обновления было создано &lt;a href=&apos;%1&apos;&gt;%2 сообщений&lt;/a&gt;, пожалуйста, просмотрите их, прежде чем продолжить.</numerusform><numerusform>В результате обновления было создано &lt;a href=&apos;%1&apos;&gt;%2 сообщений&lt;/a&gt;, пожалуйста, просмотрите их, прежде чем продолжить.</numerusform></translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="190"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="352"/>
         <source>File Format Upgrade Messages</source>
         <translation>Сообщения об обновлении формата файла</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="195"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="357"/>
         <source>Severity</source>
         <translation>Строгость</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="195"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="357"/>
         <source>Version</source>
         <translation>Версия</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="195"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="357"/>
         <source>Occurrences</source>
         <translation>Вхождения</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="195"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="357"/>
         <source>Message</source>
         <translation>Сообщение</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="272"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="434"/>
         <source>Export project to *.lppz</source>
         <translation>Экспортировать проект в *.lppz</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="302"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="464"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="343"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="505"/>
         <source>Project saved!</source>
         <translation>Проект сохранён!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="347"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="509"/>
         <source>Error while saving the project</source>
         <translation>Во время сохранения проекта произошла ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="395"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="557"/>
         <source>Save Project?</source>
         <translation>Сохранить проект?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="396"/>
+        <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="558"/>
         <source>You have unsaved changes in the project.
 Do you want to save them before closing the project?</source>
         <translation>У вас остались несохраненные изменения в проекте:
@@ -16574,29 +16625,29 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicEditorState_Select</name>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="268"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="392"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="422"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="431"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="664"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="685"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="706"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="722"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="737"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="764"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="783"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="799"/>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="843"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="270"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="394"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="424"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="433"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="670"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="691"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="712"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="728"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="743"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="770"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="789"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="805"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="849"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="797"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="803"/>
         <source>Copied to clipboard!</source>
         <translation>Скопировано в буфер обмена!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="823"/>
+        <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="829"/>
         <source>Paste Schematic Elements</source>
         <translation>Вставить элементы схемы</translation>
     </message>
