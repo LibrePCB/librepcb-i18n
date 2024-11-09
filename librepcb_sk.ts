@@ -1603,7 +1603,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="185"/>
         <source>Workspace Settings</source>
-        <translation>Nastavenie pracovného priestoru</translation>
+        <translation>Nastaviť pracovný priestor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="186"/>
@@ -6859,7 +6859,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="88"/>
         <source>LibrePCB is a free &amp;amp; open source schematic/layout-editor. It is mainly developed by Urban Bruhin, with the support of &lt;a href=&apos;%1&apos;&gt;many other contributors&lt;/a&gt;.</source>
-        <translation>LibrePCB je slobodný a &amp;amp; otvorený editor schém a plošných spojov. Primárne vyvíjaný autorom Urban Bruhin, s podporou &lt;a href=&apos;%1&apos;&gt;mnohých ďalších prispievateľov&lt;/a&gt;.</translation>
+        <translation>LibrePCB je slobodný a otvorený editor schém a plošných spojov. Primárne vyvíjaný autorom Urban Bruhin, s podporou &lt;a href=&apos;%1&apos;&gt;mnohých ďalších prispievateľov&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="93"/>
@@ -6894,7 +6894,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="123"/>
         <source>LibrePCB is a community project, and therefore it relies on contributions! There are different ways you can contribute:</source>
-        <translation>LibrePCB je komunitný projekt, a preto sa spolieha na príspevky! Prispieť môžete rôznymi spôsobmi:</translation>
+        <translation>LibrePCB je komunitný projekt a preto sa spolieha na príspevky! Prispieť môžete rôznymi spôsobmi:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="126"/>
@@ -6904,12 +6904,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="128"/>
         <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal, Bitcoin or other ways. Check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; for details.</source>
-        <translation>Podporte trvalo udržateľný rozvoj LibrePCB finančným darovaním cez Patreon, PayPal, Bitcoin alebo inými spôsobmi. Pozrite na&lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; pre ďalšie informácie.</translation>
+        <translation>Podporte trvalo udržateľný rozvoj LibrePCB finančným darom cez Patreon, PayPal, Bitcoin alebo inými spôsobmi. Pozrite na &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; pre ďalšie informácie.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="133"/>
         <source>Improve LibrePCB</source>
-        <translation>Vylepšiť LibrePCB</translation>
+        <translation>Vylepšenie LibrePCB</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="135"/>
@@ -7010,7 +7010,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Browse, download and update libraries directly from the Internet!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Prehliadať, stiahovať a akualizovať knižnice priamo z internetu!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Prehliadať, sťahovať a aktualizovať knižnice priamo z internetu!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="61"/>
@@ -7030,7 +7030,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="87"/>
         <source>Creates a new local library in the currently opened workspace.</source>
-        <translation>Vytvorí novú lokálnu knižnicu v práve otvorenom pracovnom priestore.</translation>
+        <translation>Vytvorenie novej lokálnej knižnice v práve otvorenom pracovnom priestore.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="104"/>
@@ -7090,7 +7090,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="269"/>
         <source>&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically. It&apos;s highly recommended to use &amp;quot;Install Libraries&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Stiahnutie zbalenej knižnice z internetu a jej uloženie ako lokálnej knižnice. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Poznámka: Knižnice stiahnuté týmto spôsobom nebudú automaticky aktualizované. Preto je vysoko odporúčané použiť &amp;quot;Inštaláciu knižníc&amp;quot; vždy keď je to možné. &lt;/span&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Stiahnutie zbalenej knižnice z internetu a jej uloženie ako lokálnej knižnice. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Poznámka: Knižnice stiahnuté týmto spôsobom nebudú automaticky aktualizované. Preto je odporúčané &amp;quot;Inštalovať knižnicu&amp;quot; vždy, keď je to možné. &lt;/span&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="286"/>
@@ -11412,7 +11412,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="263"/>
         <source>Packages</source>
-        <translation>Puzdra</translation>
+        <translation>Puzdrá</translation>
     </message>
 </context>
 <context>
@@ -11462,7 +11462,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="119"/>
         <source>Package Category</source>
-        <translation>Kategória puzdra</translation>
+        <translation>Kategórie puzdra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="183"/>
@@ -11553,7 +11553,7 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="../libs/librepcb/editor/widgets/editabletablewidget.cpp" line="229"/>
         <source>Move up</source>
-        <translation>Presunúť hore</translation>
+        <translation>Presunúť nahor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/editabletablewidget.cpp" line="232"/>
@@ -13089,7 +13089,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/widgets/lengtheditbase.cpp" line="333"/>
         <source>default</source>
-        <translation>Predvolený</translation>
+        <translation>Predvolené</translation>
     </message>
 </context>
 <context>
@@ -14377,7 +14377,7 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="217"/>
         <source>Update</source>
-        <translation>Aktualizácia</translation>
+        <translation>Aktualizovať</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="220"/>
@@ -17514,7 +17514,7 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="354"/>
         <source>External Applications</source>
-        <translation>Externá aplikácia</translation>
+        <translation>Externé aplikácie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="407"/>
@@ -17617,7 +17617,7 @@ Pre úplný zákaz prístupu na internet, stačí odstrániť všetky záznamy.&
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="779"/>
         <source>Auto-Fetch Live Part Information</source>
-        <translation>Automaticky naživo získať informácie o súčiastke</translation>
+        <translation>Automaticky naživo získavať informácie o súčiastke</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="72"/>
