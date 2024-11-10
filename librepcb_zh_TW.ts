@@ -10376,34 +10376,34 @@ Are you sure the footprint and pinout of the selected part are compatible with t
 <context>
     <name>librepcb::editor::ComponentPinSignalMapModel</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="131"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="310"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="142"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="321"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="221"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="384"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="232"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="395"/>
         <source>unconnected</source>
         <translation>未連接</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="258"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="269"/>
         <source>Symbol</source>
         <translation>符號</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="260"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="271"/>
         <source>Pin</source>
         <translation>引腳</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="262"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="273"/>
         <source>Component Signal</source>
         <translation>元件訊號</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="264"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="275"/>
         <source>Designator in Schematics</source>
         <translation>線路圖中的代號</translation>
     </message>
@@ -10519,89 +10519,89 @@ Are you sure the footprint and pinout of the selected part are compatible with t
 <context>
     <name>librepcb::editor::ComponentSymbolVariantItemListModel</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="104"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="124"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="139"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="157"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="175"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="208"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="456"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="105"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="141"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="159"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="177"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="210"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="458"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="104"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="105"/>
         <source>Please choose a symbol.</source>
         <translation>請選取一個符號。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="113"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="189"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="114"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="191"/>
         <source>Symbol &apos;%1&apos; not found in workspace library!</source>
         <translation>工作區的元件庫中找不到&apos;%1&apos;符號！</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="250"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="252"/>
         <source>Choose symbol...</source>
         <translation>選取符號...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="281"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="283"/>
         <source>Required</source>
         <translation>必需的</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="281"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="283"/>
         <source>Optional</source>
         <translation>選用的</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="286"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="288"/>
         <source>Placing this symbol in schematics is mandatory.</source>
         <translation>在線路圖中必需放置此符號。</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="287"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="289"/>
         <source>Placing this symbol in schematics is optional</source>
         <translation>在線路圖中選擇性放置此符號</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="351"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="353"/>
         <source>Symbol</source>
         <translation>符號</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="353"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="355"/>
         <source>Suffix</source>
         <translation>後綴</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="355"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="357"/>
         <source>Placement</source>
         <translation>裝配區</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="357"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="359"/>
         <source>Position X</source>
         <translation>X座標</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="359"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="361"/>
         <source>Position Y</source>
         <translation>Y座標</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="361"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="363"/>
         <source>Rotation</source>
         <translation>旋轉</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="370"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="372"/>
         <source>New:</source>
         <translation>新增：</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="374"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="376"/>
         <source>Add a new symbol</source>
         <translation>新增一個符號</translation>
     </message>

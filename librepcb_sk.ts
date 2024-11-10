@@ -4075,14 +4075,14 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="36"/>
         <source>No part numbers added</source>
-        <translation>Nie je pridané číslo súčiastky</translation>
+        <translation>Nie je pridané typové označenie súčiastky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="37"/>
         <source>There are no orderable parts added to the device. It's recommended (but not mandatory) to add the concrete manufacturer part numbers this device is valid for. These MPNs are used by the BOM export to make BOMs of projects much more complete and accurate.
 
 If this device doesn&apos;t represent an orderable part, just ignore this message.</source>
-        <translation>K súčiastke nie sú pridané žiadne objednateľné diely. Odporúča sa (ale nie to povinné) pridať konkrétne unikátne typové čísla výrobcu (MPN). Tieto MPN sa používajú pri exporte zoznamu súčiastok, aby boli tieto zoznamy viac kompletnejšie a presnejšie.
+        <translation>K súčiastke nie sú pridané žiadne objednateľné diely. Odporúča sa (ale nie to povinné) pridať konkrétne unikátne typové označenie výrobcu (MPN). Tieto MPN sa používajú pri exporte zoznamu súčiastok, aby boli tieto zoznamy viac kompletnejšie a presnejšie.
 
 Ak toto nepredstavuje objednateľnú súčiastku, jednoducho túto správu ignorujte.</translation>
     </message>
@@ -4692,7 +4692,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="697"/>
         <source>The THT pad has solder paste enabled, which is very unusual since through-hole components are usually not reflow soldered. Also the solder paste could flow into the pads hole, possibly causing troubles during THT assembly. Double-check if this is really what you want.</source>
-        <translation>Plôška vývodu THT má povolenú spájkovaciu pastu, čo je veľmi neobvyklé, pretože komponenty s priechodnými otvormi sa zvyčajne nespájkujú pretavením s použitím pasty. Spájkovacia pasta by tiež mohla zatiecť do otvoru plôšky, čo by mohlo spôsobiť problémy pri následnej THT montáži. Dvakrát skontrolujte, či to naozaj takto chcete.</translation>
+        <translation>Plôška vývodu THT má povolenú spájkovaciu pastu, čo je veľmi neobvyklé, pretože komponenty s priechodnými otvormi sa zvyčajne nespájkujú pretavením použitím pasty. Spájkovacia pasta by tiež mohla zatiecť do otvoru plôšky, čo by mohlo spôsobiť problémy pri následnom THT osádzaní. Dvakrát skontrolujte, či to naozaj takto chcete.</translation>
     </message>
 </context>
 <context>
@@ -9019,7 +9019,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="163"/>
         <source>The component in the schematic does not specify the chosen device as compatible and is locked for modifications from the board editor. Either add a corresponding assembly option to the component in the schematic, or remove the lock from the component.</source>
-        <translation>Komponent v schéme nešpecifikuje zvolené súčiastku ako kompatibilné a pre úpravy je uzamknutý z editora dosky. Buď pridajte zodpovedajúcu možnosť montáže ku komponentu v schéme, alebo odstráňte uzamknutie komponentu.</translation>
+        <translation>Komponent v schéme nešpecifikuje zvolenú súčiastku ako kompatibilnú a pre úpravy je uzamknutý v editore dosky. Buď pridajte zodpovedajúcu možnosť montáže ku komponentu v schéme, alebo odstráňte uzamknutie komponentu.</translation>
     </message>
 </context>
 <context>
@@ -10113,7 +10113,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="132"/>
         <source>Part Number</source>
-        <translation>Číslo súčiastky</translation>
+        <translation>Typové označenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="133"/>
@@ -10406,34 +10406,34 @@ Ste si istý, že puzdro a jeho zapojenie vývodov sú kompatibilné so súčias
 <context>
     <name>librepcb::editor::ComponentPinSignalMapModel</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="131"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="310"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="142"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="321"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="221"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="384"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="232"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="395"/>
         <source>unconnected</source>
         <translation>nepripojený</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="258"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="269"/>
         <source>Symbol</source>
         <translation>Sch. značka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="260"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="271"/>
         <source>Pin</source>
         <translation>Vývod</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="262"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="273"/>
         <source>Component Signal</source>
         <translation>Signál komponentu</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="264"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="275"/>
         <source>Designator in Schematics</source>
         <translation>Označenie v schéme</translation>
     </message>
@@ -10549,89 +10549,89 @@ Ste si istý, že puzdro a jeho zapojenie vývodov sú kompatibilné so súčias
 <context>
     <name>librepcb::editor::ComponentSymbolVariantItemListModel</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="104"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="124"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="139"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="157"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="175"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="208"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="456"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="105"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="126"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="141"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="159"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="177"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="210"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="458"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="104"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="105"/>
         <source>Please choose a symbol.</source>
         <translation>Prosím, zvoľte schematickú značku.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="113"/>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="189"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="114"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="191"/>
         <source>Symbol &apos;%1&apos; not found in workspace library!</source>
         <translation>Sch. značka &apos;%1&apos; sa nenachádza v knižnici prac. priestoru!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="250"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="252"/>
         <source>Choose symbol...</source>
         <translation>Výber schematickej značky...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="281"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="283"/>
         <source>Required</source>
         <translation>Vyžadovaný</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="281"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="283"/>
         <source>Optional</source>
         <translation>Nepovinný</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="286"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="288"/>
         <source>Placing this symbol in schematics is mandatory.</source>
         <translation>Umiestnenie tejto sch. značky v schéme je povinné.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="287"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="289"/>
         <source>Placing this symbol in schematics is optional</source>
         <translation>Umiestnenie tejto sch. značky v schéme je nepovinné.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="351"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="353"/>
         <source>Symbol</source>
         <translation>Sch. značka</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="353"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="355"/>
         <source>Suffix</source>
         <translation>Sufix</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="355"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="357"/>
         <source>Placement</source>
         <translation>Obrysy súčiastok</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="357"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="359"/>
         <source>Position X</source>
         <translation>Pozícia X</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="359"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="361"/>
         <source>Position Y</source>
         <translation>Pozícia Y</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="361"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="363"/>
         <source>Rotation</source>
         <translation>Otočenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="370"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="372"/>
         <source>New:</source>
         <translation>Nový:</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="374"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="376"/>
         <source>Add a new symbol</source>
         <translation>Pridať novú sch. značku</translation>
     </message>
@@ -11131,7 +11131,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="149"/>
         <source>Library Elements</source>
-        <translation>Knižničné prvky</translation>
+        <translation>Prvky v knižnici</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="167"/>
@@ -12857,7 +12857,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.ui" line="176"/>
         <source>Arbitrary Slot</source>
-        <translation>Ľubovoľný tvar sloty</translation>
+        <translation>Ľubovoľný tvar slotu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/widgets/holeeditorwidget.cpp" line="256"/>
@@ -15731,7 +15731,7 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="208"/>
         <source>Exact manufacturer part number (without placeholders)</source>
-        <translation>Presné výrobné označenie súčiastky (bez zástupných symbolov)</translation>
+        <translation>Presné typové označenie súčiastky (bez zástupných symbolov)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="222"/>
@@ -15741,7 +15741,7 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="254"/>
         <source>Part Number</source>
-        <translation>Číslo súčiastky</translation>
+        <translation>Typové označenie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/partlistmodel.cpp" line="256"/>
@@ -15779,7 +15779,7 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="../libs/librepcb/editor/modelview/pathmodel.cpp" line="198"/>
         <source>Angle</source>
-        <translation>Uhol</translation>
+        <translation>Sklon</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/modelview/pathmodel.cpp" line="200"/>
@@ -17101,7 +17101,7 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="28"/>
         <source>Library Elements</source>
-        <translation>Knižničné prvky</translation>
+        <translation>Prvky v knižnici</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="46"/>
