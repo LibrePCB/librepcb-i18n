@@ -578,7 +578,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="625"/>
         <source>Clearance via ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť prechodu ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="628"/>
@@ -610,7 +610,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="670"/>
         <source>Clearance pad ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie plôšky vývodu ↔ obrysu dosky &lt; %1 %2</translation>
+        <translation>Vzdialenosť plôšky vývodu ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="673"/>
@@ -626,7 +626,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="692"/>
         <source>Clearance plane ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie vyplnenej plochy ↔ obrysu dosky &lt; %1 %2</translation>
+        <translation>Vzdialenosť vyplnenej plochy ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="695"/>
@@ -636,13 +636,13 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="699"/>
         <source>Check the DRC settings and increase the configured plane clearance if needed.</source>
-        <translation>Skontrolujte nastavenie DRC a zväčšite odsadenie vyplnenej plochy.</translation>
+        <translation>Skontrolujte nastavenie DRC a zväčšite vzdialenosť vyplnenej plochy.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="713"/>
         <source>Clearance copper polygon ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie polygónu ↔ obrysu dosky &lt; %1 %2</translation>
+        <translation>Vzdialenosť polygónu ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="716"/>
@@ -658,7 +658,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="736"/>
         <source>Clearance copper circle ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie vodivej kružnice ↔ obrysu dosky &lt; %1 %2</translation>
+        <translation>Vzdialenosť vodivej kružnice ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="739"/>
@@ -674,7 +674,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="758"/>
         <source>Clearance copper text ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie textu ↔ obrysu dosky &lt; %1 %2</translation>
+        <translation>Vzdialenosť textu ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="761"/>
@@ -748,7 +748,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="787"/>
         <source>Clearance copper ↔ hole &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie vodivého prvku ↔ otvoru &lt; %1 %2</translation>
+        <translation>Vzdialenosť vodivého prvku ↔ otvoru &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="790"/>
@@ -825,7 +825,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="993"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems.</source>
-        <translation>Presuňte súčiastky tak aby ste zväčšili ich vzájomné odsadenie, alebo schváľte túto správu, ak ste si istí, že sa dajú bez problémov osadiť.</translation>
+        <translation>Presuňte súčiastky tak aby ste zväčšili ich vzájomnú vzdialenosť, alebo schváľte túto správu, ak ste si istí, že sa dajú bez problémov osadiť.</translation>
     </message>
 </context>
 <context>
@@ -866,7 +866,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="962"/>
         <source>Clearance drill ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie otvoru ↔ obrysu dosky &lt; %1 %2</translation>
+        <translation>Vzdialenosť otvoru ↔ obrysu dosky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="965"/>
@@ -885,7 +885,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="930"/>
         <source>Clearance drill ↔ drill &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie: otvor ↔ otvor &lt; %1 %2</translation>
+        <translation>Vzdialenosť: otvor ↔ otvor &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="933"/>
@@ -1392,7 +1392,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1021"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems (or only one of them gets assembled).</source>
-        <translation>Presuňte súčiastky od seba, aby ste zvýšili ich vzájomné odsadenie, alebo schváľte túto správu, ak ste si istí, že sa dajú bez problémov fyzicky osadiť (alebo sa osadí len jedna z nich).</translation>
+        <translation>Presuňte súčiastky od seba, aby ste zvýšili ich vzájomnú vzdialenosť, alebo schváľte túto správu, ak ste si istí, že sa dajú bez problémov fyzicky osadiť (alebo sa osadí len jedna z nich).</translation>
     </message>
 </context>
 <context>
@@ -1401,12 +1401,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1459"/>
         <source>Clearance silkscreen text ↔ stop mask &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Odsadenie textu v potlači ↔ nespájkovateľná maska &lt; %1 %2</translation>
+        <translation>Vzdialenosť textu v potlači ↔ nespájkovateľná maska &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1462"/>
         <source>The clearance between a silkscreen text and a solder resist opening is smaller than the minimum clearance configured in the DRC settings. This could lead to clipped silkscreen during production.</source>
-        <translation>Odsadenie medzi textom popisu a prerušením v nesp. maske je menšie ako je nastavená n návrhových pravidlách (DRC). To by mohlo viesť k orezaniu popisu počas výroby.</translation>
+        <translation>Vzdialenosť medzi textom popisu a prerušením v nesp. maske je menšia ako je nastavená v návrhových pravidlách (DRC). To by mohlo viesť k orezaniu popisu počas výroby.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1467"/>
@@ -3741,7 +3741,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="117"/>
         <source>Outlines</source>
-        <translation>Outlines</translation>
+        <translation>Obrys dosky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="123"/>
@@ -4135,12 +4135,12 @@ Pre všeobecné puzdrá (napr. SOT23) platí, že plôšky vývodov by mali byť
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="87"/>
         <source>Small copper clearance on fiducial in &apos;%1&apos;</source>
-        <translation>Malé odsadenie vodivého prvku na zameriavacej značke v &apos;%1&apos;</translation>
+        <translation>Malá vzdialenosť vodivého prvku na zameriavacej značke v &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="89"/>
         <source>The copper clearance of the fiducial pad is less than its stop mask expansion, which is unusual. Typically the copper clearance should be equal to or greater than the stop mask expansion to avoid copper located within the stop mask opening.</source>
-        <translation>Odsadenie vodivého prvku zameriavacej značky je menšie ako odstupu nespájkovateľnej masky, čo je nezvyčajné. Odsadenie by malo byť zvyčajne rovnaké alebo väčšie ako odstup masky, aby sa zabránilo umiestneniu medi pod maskou.</translation>
+        <translation>Vzdialenosť vodivého prvku zameriavacej značky je menšia ako odstup nespájkovateľnej masky, čo je nezvyčajné. Vzdialenosť by mala byť zvyčajne rovnaká alebo väčšia ako odstup masky, aby sa zabránilo umiestneniu medi pod maskou.</translation>
     </message>
 </context>
 <context>
@@ -4573,12 +4573,12 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="541"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to legend</source>
-        <translation>Odsadenie plôšky vývodu &apos;%1&apos; v &apos;%2&apos; voči popisu</translation>
+        <translation>Vzdialenosť plôšky vývodu &apos;%1&apos; v &apos;%2&apos; voči popisu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="543"/>
         <source>Pads should have at least %1 clearance to drawings on the legend because these drawings would be cropped during the Gerber export when used as silkscreen.</source>
-        <translation>Plôšky vývodov by mali mať odsadenie aspoň %1 od nákresov púzdier, pretože ak budú použité v potlači DPS, budú orezané počas gerber exportu.</translation>
+        <translation>Plôšky vývodov by mali byť vzdialené aspoň %1 od nákresov puzdier, pretože ak budú použité v potlači DPS, budú orezané počas gerber exportu.</translation>
     </message>
 </context>
 <context>
@@ -4599,12 +4599,12 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="591"/>
         <source>Copper clearance &gt;0 on pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Odsadenie vodivých prvkov &gt;0 na plôške vývodu &apos;%1&apos; v &apos;%2&apos;</translation>
+        <translation>Vzdialenosť vodivých prvkov &gt;0 na plôške vývodu &apos;%1&apos; v &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="593"/>
         <source>There is a custom copper clearance enabled on the pad, which is unusual for pads which do not represent a fiducial. Note that the clearance value from the board design rules is applied to all pads anyway, thus manual clearance values are usually not needed. If this pad is a fiducial, make sure to set its function to the corresponding value.</source>
-        <translation>Na plôške vývodu je povolené vlastné odsadenie od vodivého prvku, čo je nezvyčajné pre plôšky vývodov, ktoré nie sú  zameriavacie značky. Všimnite si, že hodnota odsadenia z návrhových pravidiel dosky sa aj tak použijú na všetky plôšky vývodu, takže manuálne hodnoty odsadenia zvyčajne nie sú potrebné. Ak je toto zameriavacia značka, uistite sa, že ste nastavili jej funkciu na zodpovedajúci typ.</translation>
+        <translation>Na plôške vývodu je povolené vlastné nastavenie vzdialenosti od vodivého prvku, čo je nezvyčajné pre plôšky vývodov, ktoré nie sú  zameriavacie značky. Všimnite si, že veľkosť vzdialenosti z pravidiel návrhu dosky sa použije na všetky plôšky vývodov, takže manuálne nastavenie zvyčajne nie je potrebné. Ak je toto zameriavacia značka, uistite sa, že ste nastavili jej funkciu na zodpovedajúci typ.</translation>
     </message>
 </context>
 <context>
@@ -5674,17 +5674,17 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="873"/>
         <source>Check drill clearances...</source>
-        <translation>Kontrolovanie odsadenia otvorov...</translation>
+        <translation>Kontrolovanie vzdialenosti otvorov...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="960"/>
         <source>Check drill to board edge clearances...</source>
-        <translation>Kontrolovanie odsadenia otvorov voči hrane dosky...</translation>
+        <translation>Kontrolovanie vzdialeností otvorov od hrany dosky...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1040"/>
         <source>Check silkscreen to stopmask clearances...</source>
-        <translation>Kontrolovanie odsadenia potlače od nespájk. masky...</translation>
+        <translation>Kontrolovanie vzdialeností potlače od nespájk. masky...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1130"/>
@@ -5754,7 +5754,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1749"/>
         <source>Check device clearances...</source>
-        <translation>Kontrolovanie odsadenia súčiastok...</translation>
+        <translation>Kontrolovanie vzdialeností súčiastok...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1804"/>
@@ -8187,7 +8187,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="49"/>
         <source>Min. Clearance:</source>
-        <translation>Min. odsadenie:</translation>
+        <translation>Min. vzdialenosť:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="56"/>
@@ -8222,7 +8222,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="110"/>
         <source>Clearance around thermal pads</source>
-        <translation>Odsadenie pri tepelnej plôške vývodov</translation>
+        <translation>Vzdialenosti okolo tepelných plôšok vývodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardplanepropertiesdialog.ui" line="113"/>
@@ -8336,7 +8336,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="285"/>
         <source>Solder Paste Clearance:</source>
-        <translation>Odsadenie masky spájkovacej pasty:</translation>
+        <translation>Vzdialenosť masky spájkovacej pasty:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="297"/>
@@ -8363,7 +8363,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="409"/>
         <source>Stop Mask Clearance:</source>
-        <translation>Odsadenie nesp. masky od plôšky:</translation>
+        <translation>Vzdialenosť nesp. masky od plôšky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="416"/>
@@ -8488,7 +8488,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="781"/>
         <source>Clearances</source>
-        <translation>Odsadenia</translation>
+        <translation>Vzdialenosti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="803"/>
@@ -8644,7 +8644,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="115"/>
         <source>A solder resist opening is created to expose the via. The clearance is taken from the board design rules.</source>
-        <translation>Vynechanie nespájkovateľnej  masky je vytvorené pre odhalenie prechodu. Odsadenie je prevzaté z návrhových pravidiel (DRC).</translation>
+        <translation>Vynechanie nespájkovateľnej  masky je vytvorené pre odhalenie prechodu. Vzdialenosť je prevzatá z návrhových pravidiel (DRC).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardviapropertiesdialog.ui" line="118"/>
@@ -12019,7 +12019,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="461"/>
         <source>Clearances</source>
-        <translation>Odsadenia</translation>
+        <translation>Vzdialenosti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="470"/>
@@ -12062,7 +12062,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="635"/>
         <source>Note: Intended to keep copper away from fiducials.</source>
-        <translation>Poznámka: Určené na to, aby sa vodivé prvky nedostali mimo zameriavacích značiek.</translation>
+        <translation>Poznámka: Určené na to, aby sa vodivé prvky nedostali od zameriavacích značiek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="649"/>
@@ -14952,7 +14952,7 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="304"/>
         <source>Clearance:</source>
-        <translation>Odsadenia:</translation>
+        <translation>Vzdialenosť:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="327"/>
