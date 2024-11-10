@@ -10103,7 +10103,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="130"/>
         <source>Mount</source>
-        <translation>Montáž</translation>
+        <translation>Osadiť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="131"/>
