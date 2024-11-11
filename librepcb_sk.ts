@@ -3724,19 +3724,19 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
         <location filename="../libs/librepcb/core/types/layer.cpp" line="99"/>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="186"/>
         <source>Documentation</source>
-        <translation>Documentation</translation>
+        <translation>Dokumentácia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="105"/>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="192"/>
         <source>Comments</source>
-        <translation>Comments</translation>
+        <translation>Komentáre</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="111"/>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="198"/>
         <source>Guide</source>
-        <translation>Guide</translation>
+        <translation>Rozvrhnutie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="117"/>
@@ -3746,7 +3746,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="123"/>
         <source>Hidden Grab Areas</source>
-        <translation>Hidden Grab Areas</translation>
+        <translation>Skryté uchopovacie oblasti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="129"/>
@@ -3781,12 +3781,12 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="174"/>
         <source>Measures</source>
-        <translation>Measures</translation>
+        <translation>Kótovanie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="180"/>
         <source>Alignment</source>
-        <translation>Alignment</translation>
+        <translation>Zarovnanie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="204"/>
@@ -3821,7 +3821,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="240"/>
         <source>Top Documentation</source>
-        <translation>Top Documentation</translation>
+        <translation>Vrchná dokumentácia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="247"/>
@@ -3841,7 +3841,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="270"/>
         <source>Top Courtyard</source>
-        <translation>Top Courtyard</translation>
+        <translation>Vrchná manipulačná</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="278"/>
@@ -3851,7 +3851,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="286"/>
         <source>Top Hidden Grab Areas</source>
-        <translation>Top Hidden Grab Areas</translation>
+        <translation>Vrchné skryté uchopovacie oblasti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="293"/>
@@ -5138,19 +5138,19 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="91"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="119"/>
         <source>Documentation</source>
-        <translation>Documentation</translation>
+        <translation>Dokumentácia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="92"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="120"/>
         <source>Comments</source>
-        <translation>Comments</translation>
+        <translation>Komentáre</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="93"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="121"/>
         <source>Guide</source>
-        <translation>Guide</translation>
+        <translation>Rozvrhnutie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="94"/>
@@ -5161,7 +5161,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="95"/>
         <source>Grab Areas</source>
-        <translation>Grab Areas</translation>
+        <translation>Uchopovacie oblasti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="96"/>
@@ -5241,12 +5241,12 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="117"/>
         <source>Measures</source>
-        <translation>Measures</translation>
+        <translation>Kótovanie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="118"/>
         <source>Alignment</source>
-        <translation>Alignment</translation>
+        <translation>Zarovnanie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="122"/>
@@ -14694,7 +14694,7 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="224"/>
         <source>Documentation</source>
-        <translation>Documentation</translation>
+        <translation>Dokumentácia</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="226"/>
