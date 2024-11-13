@@ -5221,12 +5221,12 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="113"/>
         <source>Pads</source>
-        <translation>Pads</translation>
+        <translation>Plôšky vývodov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="114"/>
         <source>Vias</source>
-        <translation>Vias</translation>
+        <translation>Prechody</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="115"/>
