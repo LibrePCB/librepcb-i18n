@@ -3811,7 +3811,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="228"/>
         <source>Top Legend</source>
-        <translation>Vrchný popis DPS</translation>
+        <translation>Vrchné popisy DPS</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="234"/>
@@ -5271,12 +5271,12 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="126"/>
         <source>Legend Top</source>
-        <translation>Vrchný popis DPS</translation>
+        <translation>Vrchné popisy DPS</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="127"/>
         <source>Legend Bottom</source>
-        <translation>Spodný popis DPS</translation>
+        <translation>Spodné popisy DPS</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="128"/>
@@ -10727,7 +10727,7 @@ Ste si istý, že puzdro a jeho zapojenie vývodov sú kompatibilné so súčias
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="211"/>
         <source>Support the LibrePCB project with a donation to keep the development and maintenance ongoing — Thank you!</source>
-        <translation>Podporte projekt LibrePCB darom pre vývoj a údržbu – Ďakujeme!</translation>
+        <translation>Darom podporte vývoj a údržbu projektu LibrePCB – Ďakujeme!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="249"/>
@@ -10782,7 +10782,7 @@ Ste si istý, že puzdro a jeho zapojenie vývodov sú kompatibilné so súčias
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="455"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
-        <translation>Toto stiahne niekoľko vzorových projektov z internetu a skopíruje ich do pracovného priestoru, aby Vám to pomohlo zhodnotiť LibrePCB so skutočnými projektami.</translation>
+        <translation>Teraz budú stiahnuté vzorové projekty z internetu a skopírované do pracovného priestoru, aby Vám pomohli vyskúšať LibrePCB so skutočnými projektami.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.cpp" line="459"/>
