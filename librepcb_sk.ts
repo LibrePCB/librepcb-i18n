@@ -1140,7 +1140,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1295"/>
         <source>Plated slot width: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Šírka pokovovaného slotu: %1 &lt; %2 %3</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1299"/>
@@ -4054,7 +4054,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="198"/>
         <source>More Resources</source>
-        <translation type="unfinished"/>
+        <translation>Viac zdrojov</translation>
     </message>
 </context>
 <context>
@@ -5654,7 +5654,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="341"/>
         <source>Prepare &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Pripravujem &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="357"/>
@@ -6801,17 +6801,17 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="284"/>
         <source>Search datasheet for &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Hľadať údajový list pre &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="662"/>
         <source>No datasheet found</source>
-        <translation type="unfinished"/>
+        <translation>Údajový list nenájdený</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="663"/>
         <source>Sorry, no datasheet found for the requested part :-(</source>
-        <translation type="unfinished"/>
+        <translation>Prepáčte, ale neexistuje údajový list pre požadovanú súčiastku :-(</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/projecteditor.cpp" line="676"/>
@@ -10345,17 +10345,17 @@ Ste si istý, že puzdro a jeho zapojenie vývodov sú kompatibilné so súčias
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="284"/>
         <source>Datasheet:</source>
-        <translation type="unfinished"/>
+        <translation>Údajový list:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="299"/>
         <source>Direct URL to online PDF</source>
-        <translation type="unfinished"/>
+        <translation>URL adresa údajového listu PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="306"/>
         <source>Download &amp; open</source>
-        <translation type="unfinished"/>
+        <translation>Stiahnúť a otvoriť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="326"/>
@@ -11011,17 +11011,17 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="548"/>
         <source>Datasheet</source>
-        <translation type="unfinished"/>
+        <translation>Údajový list</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="563"/>
         <source>Direct URL to online PDF</source>
-        <translation type="unfinished"/>
+        <translation>URL adresa údajového listu PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="570"/>
         <source>Download &amp; open</source>
-        <translation type="unfinished"/>
+        <translation>Stiahnúť a otvoriť</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="209"/>
