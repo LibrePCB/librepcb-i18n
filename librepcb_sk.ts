@@ -34,6 +34,24 @@
     </message>
 </context>
 <context>
+    <name>BGI_FootprintPad</name>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="164"/>
+        <source>Pad:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="170"/>
+        <source>Signal:</source>
+        <translation>Signál:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="176"/>
+        <source>Net:</source>
+        <translation>Prepojenie:</translation>
+    </message>
+</context>
+<context>
     <name>BGI_Via</name>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="248"/>
@@ -3741,7 +3759,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="117"/>
         <source>Outlines</source>
-        <translation>Obrys dosky</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="123"/>
@@ -6003,23 +6021,23 @@ Potrebujete najnovšiu verziu LibrePCB %1 pre jeho otvorenie.
         <translation>Správca siete nie je spustený.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="238"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="240"/>
         <source>Send data: %1</source>
         <translation>Odoslať dáta: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="256"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="258"/>
         <source>Receive data: %1</source>
         <translation>Príjem dát: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="271"/>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="325"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="273"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="327"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="282"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="284"/>
         <source>SSL errors occurred:
 
 %1</source>
@@ -6028,37 +6046,37 @@ Potrebujete najnovšiu verziu LibrePCB %1 pre jeho otvorenie.
 %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="295"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="297"/>
         <source>Network request aborted.</source>
         <translation>Sieťová požiadavka prerušená.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="305"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="307"/>
         <source>Redirection loop detected.</source>
         <translation>Zdetegované zacyklenie presmerovaní.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="308"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="310"/>
         <source>Too many redirects.</source>
         <translation>Príliš veľa presmerovaní.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="314"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="316"/>
         <source>Redirect to %1...</source>
         <translation>Presmerované na %1...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="362"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="367"/>
         <source>Request successfully finished.</source>
         <translation>Požiadavka úspešne ukončená.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="368"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="373"/>
         <source>Request aborted.</source>
         <translation>Požiadavka prerušená.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="379"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="384"/>
         <source>Request failed: %1</source>
         <translation>Požiadavka neúspešná: %1</translation>
     </message>
@@ -16400,7 +16418,7 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="177"/>
         <source>This schematic doesn&apos;t contain any components yet. Use the &lt;a href=&apos;%1&apos;&gt;Add Component&lt;/a&gt; dialog to populate it. A good idea is to &lt;a href=&apos;%2&apos;&gt;add a schematic frame&lt;/a&gt; first.</source>
-        <translation>Táto schéma zatiaľ neobsahuje žiadne komponenty. Použite dialóg &lt;a href=&apos;%1&apos;&gt;Pridať komponent&lt;/a&gt; pre pridanie. Dobrý nápad bude pridanie &lt;a href=&apos;%2&apos;&gt; rámika schémy&lt;/a&gt;.</translation>
+        <translation>Táto schéma zatiaľ neobsahuje žiadne komponenty. Použite dialóg &lt;a href=&apos;%1&apos;&gt;Pridať komponent&lt;/a&gt; pre pridanie. Dobrý nápad bude pridanie &lt;a href=&apos;%2&apos;&gt;orámovanie výkresu&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="665"/>

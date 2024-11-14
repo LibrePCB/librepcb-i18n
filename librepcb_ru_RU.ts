@@ -34,6 +34,24 @@
     </message>
 </context>
 <context>
+    <name>BGI_FootprintPad</name>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="164"/>
+        <source>Pad:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="170"/>
+        <source>Signal:</source>
+        <translation>Сигнал:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="176"/>
+        <source>Net:</source>
+        <translation>Цепь:</translation>
+    </message>
+</context>
+<context>
     <name>BGI_Via</name>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="248"/>
@@ -6003,23 +6021,23 @@ You need at least LibrePCB %1 to open it.
         <translation>Диспетчер доступа к сети не запущен.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="238"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="240"/>
         <source>Send data: %1</source>
         <translation>Отправить данные: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="256"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="258"/>
         <source>Receive data: %1</source>
         <translation>Получение данных: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="271"/>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="325"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="273"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="327"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="282"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="284"/>
         <source>SSL errors occurred:
 
 %1</source>
@@ -6028,37 +6046,37 @@ You need at least LibrePCB %1 to open it.
 %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="295"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="297"/>
         <source>Network request aborted.</source>
         <translation>Запрос к сети отменён.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="305"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="307"/>
         <source>Redirection loop detected.</source>
         <translation>Перенаправления зациклены.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="308"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="310"/>
         <source>Too many redirects.</source>
         <translation>Множественные перенаправления.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="314"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="316"/>
         <source>Redirect to %1...</source>
         <translation>Перенаправление %1...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="362"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="367"/>
         <source>Request successfully finished.</source>
         <translation>Запрос успешно выполнен.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="368"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="373"/>
         <source>Request aborted.</source>
         <translation>Запрос отменён.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="379"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="384"/>
         <source>Request failed: %1</source>
         <translation>Неудачный запрос: %1</translation>
     </message>

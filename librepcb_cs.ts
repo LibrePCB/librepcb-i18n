@@ -34,6 +34,24 @@
     </message>
 </context>
 <context>
+    <name>BGI_FootprintPad</name>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="164"/>
+        <source>Pad:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="170"/>
+        <source>Signal:</source>
+        <translation>Signál:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="176"/>
+        <source>Net:</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>BGI_Via</name>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="248"/>
@@ -5990,23 +6008,23 @@ You need at least LibrePCB %1 to open it.
         <translation>Správce sítě neběží.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="238"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="240"/>
         <source>Send data: %1</source>
         <translation>Vysílání dat: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="256"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="258"/>
         <source>Receive data: %1</source>
         <translation>Příjem dat: %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="271"/>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="325"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="273"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="327"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="282"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="284"/>
         <source>SSL errors occurred:
 
 %1</source>
@@ -6015,37 +6033,37 @@ You need at least LibrePCB %1 to open it.
 %1</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="295"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="297"/>
         <source>Network request aborted.</source>
         <translation>Síťový požadavek přerušen.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="305"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="307"/>
         <source>Redirection loop detected.</source>
         <translation>Zjištěna smyčka přesměrování.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="308"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="310"/>
         <source>Too many redirects.</source>
         <translation>Příliš mnoho přesměrování.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="314"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="316"/>
         <source>Redirect to %1...</source>
         <translation>Přesměrováno na %1...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="362"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="367"/>
         <source>Request successfully finished.</source>
         <translation>Požadavek úspěšně dokončen.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="368"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="373"/>
         <source>Request aborted.</source>
         <translation>Požadavek přerušen.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="379"/>
+        <location filename="../libs/librepcb/core/network/networkrequestbase.cpp" line="384"/>
         <source>Request failed: %1</source>
         <translation>Požadavek selhal: %1</translation>
     </message>
