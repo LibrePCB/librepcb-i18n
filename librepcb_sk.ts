@@ -3718,7 +3718,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
         <location filename="../libs/librepcb/core/types/layer.cpp" line="93"/>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="147"/>
         <source>Sheet Frames</source>
-        <translation>Rámiky výkresu</translation>
+        <translation>Orámovanie výkresu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="99"/>
@@ -4376,7 +4376,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="58"/>
         <source>Most symbols should have a text element for the component&apos;s name, otherwise you won&apos;t see that name in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a name, for those you can ignore this message.</source>
-        <translation>Schematické značky by mali obsahovať textový reťazec označujúci názov súčiastky, inak nebude ich názov viditeľný v schéme. Existuje len pár výnimiek, kedy nie je potrebné tento text zadať (napr. obrys schémy). V týchto prípadoch ignorujte túto správu.</translation>
+        <translation>Schematické značky by mali obsahovať textový reťazec označujúci názov súčiastky, inak nebude ich názov viditeľný v schéme. Existuje len pár výnimiek, kedy nie je potrebné tento text zadať (napr. orámovanie výkresu). V týchto prípadoch ignorujte túto správu.</translation>
     </message>
 </context>
 <context>
@@ -4389,7 +4389,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="72"/>
         <source>Most symbols should have a text element for the component&apos;s value, otherwise you won&apos;t see that value in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a value, for those you can ignore this message.</source>
-        <translation>Schematické značky by mali obsahovať textový reťazec označujúci hodnotu súčiastky, inak nebude viditeľná v schéme. Existuje len pár výnimiek, kedy nie je potrebné tento text zadať (napr. obrys schémy). V týchto prípadoch ignorujte túto správu.</translation>
+        <translation>Schematické značky by mali obsahovať textový reťazec označujúci hodnotu súčiastky, inak nebude viditeľná v schéme. Existuje len pár výnimiek, kedy nie je potrebné tento text zadať (napr. orámovanie výkresu). V týchto prípadoch ignorujte túto správu.</translation>
     </message>
 </context>
 <context>
@@ -10727,7 +10727,7 @@ Ste si istý, že puzdro a jeho zapojenie vývodov sú kompatibilné so súčias
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="211"/>
         <source>Support the LibrePCB project with a donation to keep the development and maintenance ongoing — Thank you!</source>
-        <translation>Darom podporte vývoj a údržbu projektu LibrePCB – Ďakujeme!</translation>
+        <translation>Podporte darom vývoj a údržbu projektu LibrePCB – Ďakujeme!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/controlpanel/controlpanel.ui" line="249"/>
