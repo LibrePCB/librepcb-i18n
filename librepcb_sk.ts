@@ -38,7 +38,7 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="164"/>
         <source>Pad:</source>
-        <translation type="unfinished"/>
+        <translation>Plôška vývodu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="170"/>
