@@ -4471,6 +4471,21 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     </message>
 </context>
 <context>
+    <name>MsgNoPinsInSymbolVariantConnected</name>
+    <message>
+        <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="147"/>
+        <source>No pins connected in &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="149"/>
+        <source>The chosen symbols contain pins, but none of them are connected to component signals. So when adding this component to a schematic, no wires can be attached to them.
+
+To fix this issue, connect the symbol pins to their corresponding component signals in the symbol variant editor dialog.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>MsgNonFunctionalComponentSignalInversionSign</name>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="126"/>
@@ -10714,7 +10729,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
 <context>
     <name>librepcb::editor::ComponentSymbolVariantListWidget</name>
     <message>
-        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistwidget.cpp" line="152"/>
+        <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvariantlistwidget.cpp" line="158"/>
         <source>Could not edit symbol variant</source>
         <translation>Не вдалося змінити варіант символу</translation>
     </message>
