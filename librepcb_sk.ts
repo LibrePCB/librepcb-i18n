@@ -4475,14 +4475,16 @@ Ak majú plôšky iba mechanickú funkciu a nebude ich potrebné elektricky prip
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="147"/>
         <source>No pins connected in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nie sú pripojené plôšky v: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="149"/>
         <source>The chosen symbols contain pins, but none of them are connected to component signals. So when adding this component to a schematic, no wires can be attached to them.
 
 To fix this issue, connect the symbol pins to their corresponding component signals in the symbol variant editor dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Zvolená sch. značka obsahuje vývody, ale žiadny z nich nie je pripojený k signálu komponentu. Takže pri pridávaní tohto komponentu do schémy k nim nebude možné pripojiť spoje.
+
+Ak chcete tento problém vyriešiť, pripojte vývody sch. značky k ich zodpovedajúcim signálom komponentu v dialógovom okne editora variantov sch. značky.</translation>
     </message>
 </context>
 <context>
