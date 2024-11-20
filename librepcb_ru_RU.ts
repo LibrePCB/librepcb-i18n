@@ -4174,6 +4174,21 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     </message>
 </context>
 <context>
+    <name>MsgFootprintOriginNotInCenter</name>
+    <message>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="408"/>
+        <source>Origin of &apos;%1&apos; not in center</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="410"/>
+        <source>Generally the origin (0, 0) should be at the coordinate used for pick&amp;place which is typically in the center of the package body. It should even be (more or less) &lt;b&gt;exactly&lt;/b&gt; in the center, not aligned to a grid (off-grid pads are fine).
+
+It looks like this rule is not followed in this footprint. However, for irregular package shapes or other special cases this warning may not be justified. In such cases, just approve it.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>MsgHoleWithoutStopMask</name>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="136"/>
@@ -4522,12 +4537,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
 <context>
     <name>MsgOverlappingPads</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="411"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="433"/>
         <source>Overlapping pads &apos;%1&apos; and &apos;%2&apos; in &apos;%3&apos;</source>
         <translation>Перекрытие колодок &apos;%1&apos; и &apos;%2&apos; в &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="414"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="436"/>
         <source>The copper area of two pads overlap. This can lead to serious issues with the design rule check and probably leads to a short circuit in the board so this really needs to be fixed.</source>
         <translation>Медные участки двух площадок перекрываются. Это может привести к серьезным проблемам при проверке правил проектирования и, вероятно, к короткому замыканию в плате, так что это действительно необходимо исправить.</translation>
     </message>
@@ -4535,12 +4550,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
 <context>
     <name>MsgOverlappingSymbolPins</name>
     <message>
-        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="108"/>
+        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="126"/>
         <source>There are multiple pins at the same position. This is not allowed because you cannot connect wires to these pins in the schematic editor.</source>
         <translation>В одной и той же позиции находится несколько контактов. Это недопустимо, поскольку в редакторе схем нельзя подключить провода к этим контактам.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="133"/>
+        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="151"/>
         <source>Overlapping pins: %1</source>
         <translation>Перекрывающиеся выводы: %1</translation>
     </message>
@@ -4548,12 +4563,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
 <context>
     <name>MsgPadAnnularRingViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="433"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="455"/>
         <source>Annular ring of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation>Кольцевое кольцо колодки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="435"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="457"/>
         <source>Pads should have at least %1 annular ring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</source>
         <translation>Колодки должны иметь не менее %1 кольцевого кольца (медь вокруг каждого отверстия колодки). Обратите внимание, что это значение является лишь общей рекомендацией, точное значение зависит от возможностей производителя печатной платы.</translation>
     </message>
@@ -4561,12 +4576,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
 <context>
     <name>MsgPadClearanceViolation</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="460"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="482"/>
         <source>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</source>
         <translation>Зазор между контактной площадкой &apos;%1&apos; и контактной площадкой &apos;%2&apos; в &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="463"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="485"/>
         <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
         <translation>Колодки должны иметь зазор между собой не менее %1. В некоторых ситуациях может потребоваться использование меньших зазоров, но не все производители печатных плат могут надежно изготовить такие маленькие зазоры, поэтому обычно этого следует избегать.</translation>
     </message>
@@ -4574,12 +4589,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
 <context>
     <name>MsgPadHoleOutsideCopper</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="490"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="512"/>
         <source>Hole outside copper of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation>Отверстие снаружи меди накладки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="492"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="514"/>
         <source>All THT pad holes must be fully surrounded by copper, otherwise they could lead to serious issues during the design rule check or manufacturing process.</source>
         <translation>Все отверстия в накладках THT должны быть полностью окружены медью, иначе они могут привести к серьезным проблемам при проверке правил проектирования или в процессе производства.</translation>
     </message>
@@ -4587,12 +4602,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
 <context>
     <name>MsgPadOriginOutsideCopper</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="514"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="536"/>
         <source>Invalid origin of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation>Недопустимое происхождение колодки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="516"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="538"/>
         <source>The origin of each pad must be located within its copper area, otherwise traces won't be connected properly.
 
 For THT pads, the origin must be located within a drill hole since on some layers the pad might only have a small annular ring instead of the full pad shape.</source>
@@ -4604,12 +4619,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgPadOverlapsWithLegend</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="541"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="563"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to legend</source>
         <translation>Очистка колодки &apos;%1&apos; в &apos;%2&apos; для легенды</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="543"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="565"/>
         <source>Pads should have at least %1 clearance to drawings on the legend because these drawings would be cropped during the Gerber export when used as silkscreen.</source>
         <translation>Колечки должны иметь не менее %1 расстояния до рисунков на легенде, поскольку эти рисунки будут обрезаны при экспорте в Gerber, если они используются как шелкография.</translation>
     </message>
@@ -4617,12 +4632,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgPadStopMaskOff</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="566"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="588"/>
         <source>Solder resist on pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation>Сопротивление припоя на площадке &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="568"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="590"/>
         <source>There&apos;s no stop mask opening enabled on the pad, so the copper pad will be covered by solder resist and is thus not functional. This is very unusual, you should double-check if this is really what you want.</source>
         <translation>На площадке не включено открытие маски остановки, поэтому медная площадка будет покрыта резистом припоя и, таким образом, не будет функционировать. Это очень необычно, вам следует перепроверить, действительно ли это то, что вы хотите.</translation>
     </message>
@@ -4630,12 +4645,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgPadWithCopperClearance</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="591"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="613"/>
         <source>Copper clearance &gt;0 on pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation>Медный зазор &gt;0 на площадке &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="593"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="615"/>
         <source>There is a custom copper clearance enabled on the pad, which is unusual for pads which do not represent a fiducial. Note that the clearance value from the board design rules is applied to all pads anyway, thus manual clearance values are usually not needed. If this pad is a fiducial, make sure to set its function to the corresponding value.</source>
         <translation>На этой площадке включен пользовательский медный зазор, что необычно для площадок, не представляющих собой реперные знаки. Обратите внимание, что значение зазора из правил проектирования платы в любом случае применяется ко всем площадкам, поэтому ручные значения зазора обычно не нужны. Если эта площадка является реперным знаком, обязательно установите для ее функции соответствующее значение.</translation>
     </message>
@@ -4643,12 +4658,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgSmtPadWithSolderPaste</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="618"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="640"/>
         <source>Solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation>Паяльная паста на SMT-площадке &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="620"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="642"/>
         <source>The SMT pad has solder paste enabled, but its function indicates that there&apos;s no lead to be soldered on it (e.g. a fiducial). Usually solder paste is not desired on such special pads which won&apos;t be soldered.</source>
         <translation>На SMT-площадке включена паяльная паста, но её функция указывает на то, что к ней не нужно припаивать выводы (например, реперный знак). Обычно паяльная паста не нужна на таких специальных площадках, которые не будут паяться.</translation>
     </message>
@@ -4656,12 +4671,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgSmtPadWithoutSolderPaste</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="643"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="665"/>
         <source>No solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation>Отсутствие паяльной пасты на SMT-площадке &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="645"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="667"/>
         <source>The SMT pad has no solder paste enabled, which is unusual since without solder paste the pad cannot be reflow soldered. Only use this if there&apos;s no lead to be soldered on that pad, or if you have drawn a manual solder paste area.</source>
         <translation>На SMT-площадке не включена паяльная паста, что необычно, поскольку без паяльной пасты площадка не может быть запаяна. Используйте эту функцию, только если на этой площадке не нужно паять проводники или если вы нарисовали область паяльной пасты вручную.</translation>
     </message>
@@ -4682,12 +4697,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgSuspiciousPadFunction</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="668"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="690"/>
         <source>Suspicious function of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation>Подозрительная функция подложки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="670"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="692"/>
         <source>The configured pad function does not match other properties of the pad and thus looks suspicious. Possible reasons:
 
  - Function is intended for THT pads but pad is SMT
@@ -4703,14 +4718,29 @@ For THT pads, the origin must be located within a drill hole since on some layer
     </message>
 </context>
 <context>
+    <name>MsgSymbolOriginNotInCenter</name>
+    <message>
+        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="107"/>
+        <source>Origin not in center</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="108"/>
+        <source>Generally the origin (0, 0) should be in the center of the symbol body (roughly, mapped to grid). It's not recommended to have it at pin-1 coordinate, top-left or something like that.
+
+It looks like this rule is not followed in this symbol. However, for irregular symbol shapes this warning may not be justified. In such cases, just approve it.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>MsgSymbolPinNotOnGrid</name>
     <message>
-        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="145"/>
+        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="163"/>
         <source>Pin not on %1mm grid: &apos;%2&apos;</source>
         <translation>Штифт не входит в сетку %1 мм: &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="147"/>
+        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="165"/>
         <source>Every pin must be placed exactly on the %1mm grid, otherwise it cannot be connected in the schematic editor.</source>
         <translation>Каждый вывод должен быть расположен точно на сетке %1 мм, иначе его нельзя будет подключить в редакторе схем.</translation>
     </message>
@@ -4718,12 +4748,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgThtPadWithSolderPaste</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="695"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="717"/>
         <source>Solder paste on THT pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation>Паяльная паста на THT-площадке &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="697"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="719"/>
         <source>The THT pad has solder paste enabled, which is very unusual since through-hole components are usually not reflow soldered. Also the solder paste could flow into the pads hole, possibly causing troubles during THT assembly. Double-check if this is really what you want.</source>
         <translation>На площадку THT нанесена паяльная паста, что очень необычно, поскольку сквозные компоненты обычно не паяются. Кроме того, паяльная паста может затекать в отверстие колодки, что может привести к проблемам при сборке THT. Дважды проверьте, действительно ли это то, что вам нужно.</translation>
     </message>
@@ -4731,17 +4761,17 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgUnspecifiedPadFunction</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="721"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="743"/>
         <source>Unspecified function of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation>Неопределенная функция прокладки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="723"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="745"/>
         <source>The function of the pad is not specified, which could lead to inaccurate or wrong data in exports (e.g. pick&amp;place files). Also the automatic checks can detect more potential issues if the function is specified. Thus it&apos;s recommended to explicitly specify the function of each pad.</source>
         <translation>Функция прокладки не указана, что может привести к неточным или неверным данным в экспортируемых файлах (например, файлах pick&amp;place). Кроме того, автоматические проверки могут обнаружить больше потенциальных проблем, если функция указана. Поэтому рекомендуется явно указывать функцию каждой накладки.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="729"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="751"/>
         <source>However, the image data of a PCB is not affected by the pad function.</source>
         <translation>Однако функция прокладки не влияет на данные изображения печатной платы.</translation>
     </message>
@@ -4749,12 +4779,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgUnusedCustomPadOutline</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="750"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="772"/>
         <source>Unused custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation>Неиспользованный пользовательский контур площадки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="752"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="774"/>
         <source>The pad has set a custom outline but it isn&apos;t used as the shape. So it has no effect and should be removed to avoid confusion.</source>
         <translation>В подкладке задан пользовательский контур, но он не используется в качестве формы. Поэтому он не имеет никакого эффекта и должен быть удален, чтобы избежать путаницы.</translation>
     </message>
@@ -4762,12 +4792,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgUselessZone</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="772"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="794"/>
         <source>Useless keepout zone in &apos;%2&apos;</source>
         <translation>Бесполезная зона сохранения в &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="774"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="796"/>
         <source>The keepout zone has no layer or rule enabled so it has no effect. Either correct its properties or remove it from the footprint.</source>
         <translation>У зоны keepout нет включенного слоя или правила, поэтому она не имеет эффекта. Либо исправьте её свойства, либо удалите её с посадочного места.</translation>
     </message>
@@ -4775,12 +4805,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgWrongFootprintTextLayer</name>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="795"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="817"/>
         <source>Layer of &apos;%1&apos; in &apos;%2&apos; is not &apos;%3&apos;</source>
         <translation>Слой &apos;%1&apos; в &apos;%2&apos; не является &apos;%3&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="798"/>
+        <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="820"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
         <translation>Текстовый элемент &apos;%1&apos; обычно должен находиться на слое &apos;%2&apos;.</translation>
     </message>
@@ -4788,12 +4818,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgWrongSymbolTextLayer</name>
     <message>
-        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="166"/>
+        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="184"/>
         <source>Layer of &apos;%1&apos; is not &apos;%2&apos;</source>
         <translation>Слой &apos;%1&apos; не является &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="168"/>
+        <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="186"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
         <translation>Текстовый элемент &apos;%1&apos; обычно должен находиться на слое &apos;%2&apos;.</translation>
     </message>
@@ -15291,79 +15321,79 @@ For more information about licensing, click on this icon.</source>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="328"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="340"/>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="450"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="502"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="719"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="749"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1068"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1207"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1267"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1290"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1310"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1319"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1331"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1340"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1428"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1558"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1585"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1606"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1627"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1648"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="477"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="694"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="724"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1043"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1182"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1242"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1265"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1285"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1294"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1306"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1315"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1403"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1533"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1560"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1581"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1602"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1623"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="893"/>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1125"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="868"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1100"/>
         <source>Paste Geometry</source>
         <translation>Вставить геометрию</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="895"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="870"/>
         <source>Apply the same geometry as the object in the clipboard</source>
         <translation>Применить ту же геометрию что и у объекта в буфере обмена</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1065"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1040"/>
         <source>Copied to clipboard!</source>
         <translation>Скопировано в буфер обмена!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1224"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1199"/>
         <source>Paste Footprint Elements</source>
         <translation>Вставить посадочные места элементов</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1353"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1328"/>
         <source>Generate package outline</source>
         <translation>Сгенерировать контур корпуса</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1422"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1397"/>
         <source>No Content</source>
         <translation>Комментариев нет</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1423"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1398"/>
         <source>No content (e.g. pads or documentation polygons) found to generate the package outline from. Please add at least the pads before invoking this command.</source>
         <translation>Не найдено содержимое (например, конт. площадки или многоугольники документации), из которого можно сгенерировать контур пакета. Пожалуйста, добавьте хотя бы конт. площадки, прежде чем вызывать эту команду.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1443"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1418"/>
         <source>Courtyard Excess</source>
         <translation>Выступ обл. установки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1468"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1443"/>
         <source>Generate courtyard</source>
         <translation>Сгенерировать обл. установки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1551"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1526"/>
         <source>No Outline</source>
         <translation>Без обводки</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1552"/>
+        <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1527"/>
         <source>The courtyard can only be generated if there&apos;s a package outline polygon or circle, so that needs to be added first.</source>
         <translation>Обл. установки может быть создана только в том случае, если для корпуса задан многоугольник или круг контура, поэтому их нужно добавить в первую очередь.</translation>
     </message>
@@ -15471,27 +15501,27 @@ For more information about licensing, click on this icon.</source>
         <translation>Неудачное сохранение</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="866"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="890"/>
         <source>Please select a footprint.</source>
         <translation>Пожалуйста, выберите посадочное место.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="951"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="975"/>
         <source>New Line Width</source>
         <translation>Новая толщина линии</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1140"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1175"/>
         <source>Apply to all unspecified pads</source>
         <translation>Применить для всех неопределенных контактных площадок</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1162"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1197"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>Исправить  функции неопределенных контактных площадок</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1270"/>
+        <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="1306"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -17027,26 +17057,26 @@ Afterwards the project library can be updated.</source>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="275"/>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="287"/>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="388"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="436"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="411"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="557"/>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="582"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="607"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="818"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="872"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="889"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="901"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="910"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="937"/>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="958"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="793"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="847"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="864"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="876"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="885"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="912"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="933"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="815"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="790"/>
         <source>Copied to clipboard!</source>
         <translation>Скопировано в буфер обмена!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="830"/>
+        <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="805"/>
         <source>Paste Symbol Elements</source>
         <translation>Вставить элементы символа</translation>
     </message>
@@ -17114,12 +17144,12 @@ Afterwards the project library can be updated.</source>
         <translation>Неудачное сохранение</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="381"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="405"/>
         <source>Edit symbol metadata</source>
         <translation>Редактировать метаданные символа</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="630"/>
+        <location filename="../libs/librepcb/editor/library/sym/symboleditorwidget.cpp" line="665"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
