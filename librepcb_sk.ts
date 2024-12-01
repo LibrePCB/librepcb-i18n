@@ -4179,14 +4179,16 @@ Pre všeobecné puzdrá (napr. SOT23) platí, že plôšky vývodov by mali byť
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="408"/>
         <source>Origin of &apos;%1&apos; not in center</source>
-        <translation type="unfinished"/>
+        <translation>Začiatok súradníc &apos;%1&apos; nie je vystredený</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="410"/>
         <source>Generally the origin (0, 0) should be at the coordinate used for pick&amp;place which is typically in the center of the package body. It should even be (more or less) &lt;b&gt;exactly&lt;/b&gt; in the center, not aligned to a grid (off-grid pads are fine).
 
 It looks like this rule is not followed in this footprint. However, for irregular package shapes or other special cases this warning may not be justified. In such cases, just approve it.</source>
-        <translation type="unfinished"/>
+        <translation>Vo všeobecnosti by mal byť počiatok súradníc (0, 0) v strede tela puzdra súčiastky, pretože sa tento bod používa pre pick&amp;place. Dokonca by mal byť úplne &lt;b&gt;presne&lt;/b&gt; v strede, nie zarovnaný do rastra (plôšky vývodov mimo rastra sú v poriadku). 
+
+Zdá sa, že toto pravidlo sa pri tomto puzdre nedodržiava. V prípade nepravidelných tvarov puzdier alebo iných špeciálnych prípadov však toto varovanie nemusí byť opodstatnené. V takýchto prípadoch to stačí schváliť.</translation>
     </message>
 </context>
 <context>
@@ -4724,7 +4726,7 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="107"/>
         <source>Origin not in center</source>
-        <translation type="unfinished"/>
+        <translation>Začiatok súradníc nie je vystredený</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="108"/>
