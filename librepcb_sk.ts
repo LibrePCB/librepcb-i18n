@@ -1972,7 +1972,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="490"/>
         <source>Import symbols and footprints from KiCad libraries</source>
-        <translation>Import symbolov a puzdier z knižníc KiCad</translation>
+        <translation>Import sch. značiek a puzdier z knižníc KiCad</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="498"/>
@@ -3753,22 +3753,22 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadtypes.cpp" line="939"/>
         <source>Unsupported pad clearance: &apos;%1&apos;</source>
-        <translation>Nepodporovaná vzdialenosť plôšiek vývodov: &apos;%1&apos;</translation>
+        <translation>Nepodporovaná vzdialenosť plôšky vývodu: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadtypes.cpp" line="946"/>
         <source>Unsupported pad option: &apos;%1&apos;</source>
-        <translation>Nepodporovaná vlastnosť plôšky vývodov: &apos;%1&apos;</translation>
+        <translation>Nepodporovaná vlastnosť plôšky vývodu: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadtypes.cpp" line="964"/>
         <source>Unsupported pad primitive: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepodporovaný objekt plôšky vývodu: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadtypes.cpp" line="972"/>
         <source>Unsupported pad child: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepodporovaný prvok plôšky vývodu: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -3776,7 +3776,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadtypes.cpp" line="704"/>
         <source>Unsupported symbol child: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepodporovaný prvok sch. značky: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -3784,7 +3784,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadtypes.cpp" line="667"/>
         <source>Unsupported symbol gate child: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepodporovaná ďalšia časť sch. značky: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4790,7 +4790,9 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
         <source>Generally the origin (0, 0) should be in the center of the symbol body (roughly, mapped to grid). It's not recommended to have it at pin-1 coordinate, top-left or something like that.
 
 It looks like this rule is not followed in this symbol. However, for irregular symbol shapes this warning may not be justified. In such cases, just approve it.</source>
-        <translation type="unfinished"/>
+        <translation>Vo všeobecnosti by mal byť počiatok súradníc (0, 0) v strede tela sch. značky (približne, mapovaný na mriežku). Neodporúča sa mať ho na súradnici vývodu 1, vľavo hore alebo podobne.
+
+Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravidelných tvarov symbolov však toto varovanie nemusí byť opodstatnené. V takýchto prípadoch to stačí schváliť.</translation>
     </message>
 </context>
 <context>
@@ -7240,7 +7242,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="264"/>
         <source>&lt;i&gt;&lt;b&gt;To import KiCad or Eagle libraries&lt;/b&gt;, create a new library called e.g. &lt;a href=&quot;%1&quot;&gt;KiCad Import&lt;/a&gt; or &lt;a href=&quot;%2&quot;&gt;Eagle Import&lt;/a&gt;. Then open the new library and start the import wizard via &amp;quot;File -&amp;gt; Import&amp;quot;.&lt;/i&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;i&gt;&lt;b&gt;Pre importovanie knižníc KiCad alebo Eagle&lt;/b&gt;, vytvorte novú knižnicu nazvanú napríklad: &lt;a href=&quot;%1&quot;&gt;KiCad Import&lt;/a&gt; alebo &lt;a href=&quot;%2&quot;&gt;Eagle Import&lt;/a&gt;. Následne otvorte túto novú knižnicu a spustite sprievodcu importom pomocou &amp;quot;Súbor -&amp;gt; Import&amp;quot;.&lt;/i&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="275"/>
@@ -13264,7 +13266,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizard.ui" line="14"/>
         <source>KiCad Library Import</source>
-        <translation type="unfinished"/>
+        <translation>Import knižnice KiCad</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizard.cpp" line="71"/>
@@ -13281,7 +13283,9 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
         <source>An operation is currently in progress. Closing this window will abort it.
 
 Do you really want to close it?</source>
-        <translation type="unfinished"/>
+        <translation>Momentálne prebieha operácia. Zatvorením tohto okna ju zrušíte.
+
+Naozaj chcete zavrieť toto okno?</translation>
     </message>
 </context>
 <context>
@@ -13289,7 +13293,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardcontext.cpp" line="102"/>
         <source>No file or directory selected.</source>
-        <translation type="unfinished"/>
+        <translation>Súbor, alebo adresár nebol zvolený.</translation>
     </message>
 </context>
 <context>
@@ -13297,32 +13301,32 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="17"/>
         <source>Select Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="20"/>
         <source>Choose the directory containing KiCad libraries to import.</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte adresár obsahujúci knižnice KiCad pre import.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="26"/>
         <source>Select the directory where all *.kicad_sym files, *.pretty folders and *.3dshapes folders are located. They may be located in a subdirectory (maximum 1 nesting level).</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte adresár, kde sa nachádzajú všetky súbory *.kicad_sym, priečinky *.pretty a priečinky *.3dshapes. Môžu byť umiestnené v podadresári (maximálne 1 úroveň vnorenia).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="36"/>
         <source>Note: Currently this feature supports KiCad %1 libraries. Other versions may not work as intended.</source>
-        <translation type="unfinished"/>
+        <translation>Upozornenie: V súčasnosti táto funkcia podporuje knižnice KiCad verzie %1. Iné verzie nemusia pracovať podľa očakávania.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="49"/>
         <source>Select root directory of libraries</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte koreňový adresár knižníc</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.cpp" line="88"/>
         <source>Choose directory</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť adresár</translation>
     </message>
 </context>
 <context>
@@ -13330,12 +13334,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_parse.ui" line="17"/>
         <source>Scanning Directory</source>
-        <translation type="unfinished"/>
+        <translation>Skenovanie adresárov</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_parse.ui" line="20"/>
         <source>The selected directory will be scanned for KiCad libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Vo zvolenom adresári sa budú hľadať knižnice KiCad.</translation>
     </message>
 </context>
 <context>
@@ -13353,27 +13357,27 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="111"/>
         <source>It is highly recommended to review and rework the imported elements:</source>
-        <translation type="unfinished"/>
+        <translation>Dôrazne je odporúčané skontrolovať a upraviť importované prvky:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="113"/>
         <source>Assign reasonable categories</source>
-        <translation type="unfinished"/>
+        <translation>Priraďte zodpovedajúce kategórie</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="114"/>
         <source>Review/correct pinouts of devices</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte/upravte zapojenie vývodov súčiastok</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="116"/>
         <source>Review/rework geometry of symbols and footprints</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte/upravte geometriu sch. značiek a puzdier</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="118"/>
         <source>Fix remaining warnings shown in the library editor</source>
-        <translation type="unfinished"/>
+        <translation>Upravte prvok na základe zostávajúcich upozornení zobrazených v editore knižnice</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="150"/>
@@ -13396,7 +13400,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="107"/>
         <source>Already imported</source>
-        <translation type="unfinished"/>
+        <translation>Už importované</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="355"/>
@@ -13484,12 +13488,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_start.ui" line="17"/>
         <source>KiCad Library Import</source>
-        <translation type="unfinished"/>
+        <translation>Import knižnice KiCad</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_start.ui" line="20"/>
         <source>Kick-start the migration from KiCad to LibrePCB by importing your KiCad library elements into the currently opened LibrePCB library.</source>
-        <translation type="unfinished"/>
+        <translation>Začnite migráciu z KiCad na LibrePCB importovaním vašich prvkov knižnice KiCad do aktuálne otvorenej knižnice LibrePCB.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_start.ui" line="32"/>
@@ -13499,7 +13503,12 @@ Do you really want to close it?</source>
   &lt;li&gt;Pins, pads and component signals should not be renamed after the import. Otherwise, future KiCad imports referencing these things will fail.&lt;/li&gt;
   &lt;li&gt;LibrePCB libraries are organized differently to KiCad libraries, thus the quality of the imported elements will likely not be as high as when creating them manually from scratch. Some manual rework might be needed after the import.&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Pri použití tohto nástroja prosím vezmite na vedomie nasledujúce upozornenia:
+&lt;ul&gt;
+  &lt;li&gt;Dôrazne sa odporúča vytvoriť samostatnú knižnicu LibrePCB pre importované prvky KiCad, aby sa zachovalo jasné oddelenie od neimportovaných prvkov a aby sa predišlo konfliktom názvov.&lt;/li&gt;
+  Vývodom, plôškam vývodov a signálom komponentov by sa po importe už nemali meniť názvy. Inak môžu zlyhať budúce importy z KiCad odkazujúce na tieto názvy.&lt;/li&gt;
+  &lt;li&gt;Knižnice LibrePCB sú usporiadané inak ako knižnice KiCad, takže kvalita importovaných prvkov pravdepodobne nebude taká vysoká ako pri ich manuálnom vytváraní od začiatku. Po importe môže byť potrebné niektoré manuálne prepracovať.&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
 </context>
 <context>
@@ -18312,58 +18321,58 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="525"/>
         <source>Found %1 symbol libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Našlo sa %1 knižníc sch. značiek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="526"/>
         <source>Found %1 footprints in %2 libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Našlo sa %1 puzdier v %2 knižniciach.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="529"/>
         <source>Found %1 STEP files in %2 libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Našlo sa %1 STEP súborov v %2 knižniciach.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="549"/>
         <source>Waiting for background library scan to finish...</source>
-        <translation type="unfinished"/>
+        <translation>Čaká sa na dokončenie skenovania knižnice na pozadí...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="556"/>
         <source>Parsing libraries...</source>
-        <translation type="unfinished"/>
+        <translation>Analyzovanie knižníc...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="676"/>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="954"/>
         <source>Aborted.</source>
-        <translation type="unfinished"/>
+        <translation>Prerušené.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="679"/>
         <source>Found %1 symbols and %2 footprints.</source>
-        <translation type="unfinished"/>
+        <translation>Našlo sa %1 sch. značiek a %2 puzdier.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="684"/>
         <source>Due to the large amount of elements, please be patient during the following steps.</source>
-        <translation type="unfinished"/>
+        <translation>Vzhľadom na veľké množstvo prvkov buďte pri nasledujúcich krokoch trpezliví.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="687"/>
         <source>Please review the messages (if any) before continuing.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, prečítajte si správy (ak nejaké existujú) pred pokračovaním.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="704"/>
         <source>Importing libraries...</source>
-        <translation type="unfinished"/>
+        <translation>Importovanie knižníc...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="803"/>
         <source>Skipped footprint due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Vynechané puzdro pre chybu: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="858"/>
@@ -18383,22 +18392,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="942"/>
         <source>Skipped symbol library due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Vynechaná sch. značka pre chybu: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="958"/>
         <source>Done! Please check all messages (if any) before proceeding.</source>
-        <translation type="unfinished"/>
+        <translation>Hotovo! Pred pokračovaním skontrolujte všetky správy (ak nejaké existujú).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="960"/>
         <source>Note that the importer might not cover all cases correctly yet.</source>
-        <translation type="unfinished"/>
+        <translation>Upozorňujeme, že funkcia importu ešte nemusí správne pokryť všetky prípady.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="961"/>
         <source>If you experience any issue, please &lt;a href=&quot;%1&quot;&gt;let us know&lt;/a&gt;. Thanks!</source>
-        <translation type="unfinished"/>
+        <translation>Ak narazíte na nejaký problém, prosím &lt;a href=&quot;%1&quot;&gt;oznámte nám ho&lt;/a&gt;. Ďakujem!</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="967"/>
