@@ -3816,7 +3816,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="117"/>
         <source>Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Obrysy sch.značiek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/types/layer.cpp" line="123"/>
@@ -5214,7 +5214,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="82"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="104"/>
         <source>Background/Grid</source>
-        <translation>Pozadie/raster</translation>
+        <translation>Pozadie rastra</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="83"/>
@@ -5282,7 +5282,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="94"/>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="110"/>
         <source>Outlines</source>
-        <translation>Outlines</translation>
+        <translation>Obrysy sch. značiek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/workspace/theme.cpp" line="95"/>
