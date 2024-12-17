@@ -4,12 +4,12 @@
     <message>
         <location filename="../libs/librepcb/core/job/archiveoutputjob.cpp" line="42"/>
         <source>Output Archive</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı Arşivi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/archiveoutputjob.h" line="71"/>
         <source>Archive</source>
-        <translation type="unfinished"/>
+        <translation>Arşiv</translation>
     </message>
 </context>
 <context>
@@ -17,7 +17,7 @@
     <message>
         <location filename="../libs/librepcb/core/attribute/attributekey.h" line="56"/>
         <source>Invalid attribute key: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz özellik anahtarı: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -43,7 +43,7 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="170"/>
         <source>Signal:</source>
-        <translation type="unfinished"/>
+        <translation>Sinyal:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="176"/>
@@ -56,17 +56,17 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="248"/>
         <source>Through-Hole Via</source>
-        <translation type="unfinished"/>
+        <translation>Geçişli Via</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="250"/>
         <source>Blind Via</source>
-        <translation type="unfinished"/>
+        <translation>Kör Via</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="252"/>
         <source>Buried Via</source>
-        <translation type="unfinished"/>
+        <translation>Gömülü Via</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="254"/>
@@ -76,12 +76,12 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="256"/>
         <source>Start Layer: %1</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıç Katmanı: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_via.cpp" line="257"/>
         <source>End Layer: %1</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş Katmanı: %1</translation>
     </message>
 </context>
 <context>
@@ -102,7 +102,7 @@
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="53"/>
         <source>Depending on the capabilities of the PCB manufacturer, this could cause higher costs or even serious troubles during production, leading to a possibly non-functional PCB.</source>
-        <translation type="unfinished"/>
+        <translation>PCB üreticisinin kapasitesine bağlı olarak, bu durum daha yüksek maliyetlere veya üretim sırasında ciddi sorunlara yol açabilir ve bu da fonksiyonel olmayan bir PCB ile sonuçlanabilir.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="64"/>
@@ -5028,7 +5028,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="271"/>
         <source>Signal:</source>
-        <translation type="unfinished"/>
+        <translation>Sinyal:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="277"/>
