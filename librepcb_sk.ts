@@ -3741,6 +3741,19 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     </message>
 </context>
 <context>
+    <name>InteractiveHtmlBomOutputJob</name>
+    <message>
+        <location filename="../libs/librepcb/core/job/interactivehtmlbomoutputjob.cpp" line="40"/>
+        <source>Interactive Bill of Materials</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/core/job/interactivehtmlbomoutputjob.h" line="111"/>
+        <source>Interactive Bill Of Materials</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KiCadFootprint</name>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadtypes.cpp" line="1099"/>
@@ -4903,12 +4916,12 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
 <context>
     <name>OccModel</name>
     <message>
-        <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="440"/>
+        <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="455"/>
         <source>Failed to write STEP file.</source>
         <translation>Chyba pri zápise STEP súboru.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="645"/>
+        <location filename="../libs/librepcb/core/3d/occmodel.cpp" line="660"/>
         <source>Failed to read STEP file!</source>
         <translation>Chyba pri čítaní zo STEP súboru!</translation>
     </message>
@@ -4916,12 +4929,12 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
 <context>
     <name>Path</name>
     <message>
-        <location filename="../libs/librepcb/core/geometry/path.h" line="212"/>
+        <location filename="../libs/librepcb/core/geometry/path.h" line="213"/>
         <source>Path doesn&apos;t contain vertices!</source>
         <translation>Obrys neobsahuje vrcholy!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/geometry/path.h" line="253"/>
+        <location filename="../libs/librepcb/core/geometry/path.h" line="254"/>
         <source>Path is not fillable or contains arcs!</source>
         <translation>Obrys sa nedá vyplniť, alebo obsahuje oblúky!</translation>
     </message>
@@ -5964,34 +5977,29 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
 <context>
     <name>librepcb::FileDownload</name>
     <message>
-        <location filename="../libs/librepcb/core/network/filedownload.cpp" line="109"/>
+        <location filename="../libs/librepcb/core/network/filedownload.cpp" line="108"/>
         <source>Error while writing file &quot;%1&quot;: %2</source>
         <translation>Chyba počas zápisu súboru: &quot;%1&quot;: %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/filedownload.cpp" line="118"/>
+        <location filename="../libs/librepcb/core/network/filedownload.cpp" line="117"/>
         <source>Verify checksum...</source>
         <translation>Preverovanie kontrolnej sumy...</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/filedownload.cpp" line="122"/>
+        <location filename="../libs/librepcb/core/network/filedownload.cpp" line="121"/>
         <source>Error while readback file &quot;%1&quot;: %2</source>
         <translation>Chyba počas načítania súboru &quot;%1&quot;: %2</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/filedownload.cpp" line="134"/>
+        <location filename="../libs/librepcb/core/network/filedownload.cpp" line="133"/>
         <source>Checksum verification of downloaded file failed!</source>
         <translation>Preverenie kontrolnej sumy stiahnutého súboru zlyhalo!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/network/filedownload.cpp" line="142"/>
+        <location filename="../libs/librepcb/core/network/filedownload.cpp" line="141"/>
         <source>Extract files...</source>
         <translation>Extrahovanie súborov...</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/network/filedownload.cpp" line="147"/>
-        <source>Error while extracting the ZIP file &quot;%1&quot;.</source>
-        <translation>Počas extrahovania súborov zo ZIP archívu &quot;%1&quot; nastala chyba.</translation>
     </message>
 </context>
 <context>
@@ -6213,37 +6221,37 @@ Potrebujete najnovšiu verziu LibrePCB %1 pre jeho otvorenie.
 <context>
     <name>librepcb::OutputJobRunner</name>
     <message>
-        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="247"/>
+        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="253"/>
         <source>Unknown output job type &apos;%1&apos;.</source>
         <translation>Neznámy typ úlohy pre generovanie výstupu &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="248"/>
+        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="254"/>
         <source>You may need a more recent LibrePCB version to run this job.</source>
         <translation>Na spustenie tejto úlohy možno budete potrebovať novšiu verziu LibrePCB. </translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="254"/>
+        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="260"/>
         <source>No output files were generated, check the job configuration.</source>
         <translation>Neboli vytvorené žiadne výstupné súbory, skontrolujte nastavenie úlohy pre generovanie výstupov.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="389"/>
+        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="395"/>
         <source>No technologies selected, thus the output files won&apos;t contain any entries.</source>
         <translation>Nie sú zvolené žiadne technológie, takže výstupné súbory nebudú obsahovať žiadne položky.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="634"/>
+        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="685"/>
         <source>The input file must be located within the project directory, specified by a relative file path.</source>
         <translation>Zdrojový súbor sa musí nachádzať v adresári projektu, pretože je nastavený relatívnou cestou.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="669"/>
+        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="720"/>
         <source>The archive job depends on files from another job which was not run yet. Note that archive jobs can only depend on jobs further ahead in the list so you might need to reorder them.</source>
         <translation>Úloha archivácie závisí od súborov z inej úlohy, ktorá ešte nebola spustená. Všimnite si, že archivačné úlohy môžu závisieť iba od úloh, ktoré sú v zozname ďalej vpredu, takže možno budete musieť zmeniť ich poradie.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="681"/>
+        <location filename="../libs/librepcb/core/project/outputjobrunner.cpp" line="732"/>
         <source>No input jobs selected, thus the resulting archive will be empty.</source>
         <translation>Nie sú vybraté žiadne vstupné úlohy, takže výsledný archív bude prázdny.</translation>
     </message>
@@ -6387,37 +6395,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::TransactionalFileSystem</name>
     <message>
-        <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="174"/>
+        <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="172"/>
         <source>File &apos;%1&apos; does not exist.</source>
         <translation>Súbor &apos;%1&apos; neexistuje.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="240"/>
-        <source>Failed to open ZIP file &apos;%1&apos;.</source>
-        <translation>Chyba pri otváraní ZIP súboru &apos;%1&apos;.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="260"/>
-        <source>Failed to open the ZIP file &apos;%1&apos;.</source>
-        <translation>Chyba pri otváraní ZIP súboru &apos;%1&apos;.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="280"/>
-        <source>Failed to create ZIP file.</source>
-        <translation>Chyba pri vytváraní ZIP súboru.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="302"/>
-        <source>Failed to create the ZIP file &apos;%1&apos;.</source>
-        <translation>Chyba pri vytváraní ZIP súboru &apos;%1&apos;.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="478"/>
-        <source>Failed to write file &apos;%1&apos; to &apos;%2&apos;.</source>
-        <translation>Chyba pri zápise súboru &apos;%1&apos; do &apos;%2&apos;.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="490"/>
+        <location filename="../libs/librepcb/core/fileio/transactionalfilesystem.cpp" line="441"/>
         <source>File system is read-only.</source>
         <translation>Súborový systém nie je zapisovateľný.</translation>
     </message>
@@ -9389,12 +9372,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Prepojenie &apos;%1&apos; z relácie Specctra v tomto projekte neexistuje a bude ignorované.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="696"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="697"/>
         <source>Updated %1 components (%2 unmodified components skipped).</source>
         <translation>Aktualizovaných bolo %1 komponentov (%2 nebolo upravených a boli ignorované).</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="699"/>
+        <location filename="../libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="700"/>
         <source>Updated %1 net objects (%2 unmodified objects skipped).</source>
         <translation>Aktualizovaných bolo %1 prepojení (%2 nebolo upravených  a boli ignorované).</translation>
     </message>
@@ -13231,6 +13214,67 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     </message>
 </context>
 <context>
+    <name>librepcb::editor::InteractiveHtmlBomOutputJobWidget</name>
+    <message>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="14"/>
+        <source>Form</source>
+        <translation>Form</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="40"/>
+        <source>Interactive HTML bill of materials (BOM) export.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="57"/>
+        <source>Name:</source>
+        <translation>Názov:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="67"/>
+        <source>Output:</source>
+        <translation>Výstup:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="77"/>
+        <source>Custom Attributes:</source>
+        <translation>Užívateľské atribúty:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="84"/>
+        <source>Comma-separated attributes (optional)</source>
+        <translation>Čiarkou oddelené atribúty (nepovinné)</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="98"/>
+        <source>Boards:</source>
+        <translation>Dosky:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="112"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="179"/>
+        <source>All</source>
+        <translation>Všetko</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="122"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="189"/>
+        <source>Default</source>
+        <translation>Predvolené</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="132"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="199"/>
+        <source>Custom:</source>
+        <translation>Užívateľské:</translation>
+    </message>
+    <message>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="165"/>
+        <source>Assembly Variants:</source>
+        <translation>Alternatívne osadenia:</translation>
+    </message>
+</context>
+<context>
     <name>librepcb::editor::KeySequencesEditorWidget</name>
     <message>
         <location filename="../libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="123"/>
@@ -15058,103 +15102,103 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
         <translation>Odstrániť neznáme súbory z cieľového adresára výstupov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="106"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="108"/>
         <source>Click on the %1 button below to add output jobs. Or for a quick start, &lt;a href=&quot;%2&quot;&gt;add a default set&lt;/a&gt; of jobs.&lt;/p&gt;</source>
         <translation>Kliknutím na tlačidlo %1 nižšie pridáte úlohy na generovanie výstupov. Alebo pre rýchly začiatok, &lt;a href=&quot;%2&quot;&gt;pridajte predvolenú sadu &lt;/a&gt; úloh.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="198"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="200"/>
         <source>Discard Changes?</source>
         <translation>Zahodiť zmeny?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="199"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="201"/>
         <source>You made changes to output jobs which will be lost when closing the dialog. Are you sure to discard them?</source>
         <translation>V úlohách pre generovanie výstupov ste vykonali zmeny, ktoré budú zatvorením tohto okna stratené. Ste si istý, že chcete zahodiť tieto zmeny?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="224"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="226"/>
         <source>Documentation</source>
         <translation>Dokumentácia</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="226"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="228"/>
         <source>Schematic PDF/Image</source>
         <translation>PDF/obrázok schémy</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="229"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="231"/>
         <source>Board Assembly PDF/Image</source>
         <translation>Odsadzovací plán dosky ako PDF/obrázok</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="231"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="233"/>
         <source>Production Data</source>
         <translation>Produkčné dáta</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="237"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="239"/>
         <source>Protel Style</source>
         <translation>Štýl Protel</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="254"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="260"/>
         <source>Generic</source>
         <translation>Všeobecné</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="276"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="282"/>
         <source>(copy)</source>
         <translation>(kópia)</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="342"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="348"/>
         <source>No unknown files in output directory.</source>
         <translation>V cieľovom adresári výstupov sa nenachádza žiaden neznámy súbor.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="347"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="353"/>
         <source>Are you sure to remove the following files?</source>
         <translation>Naozaj chcete odstrániť nasledujúce súbory?</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="356"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="362"/>
         <source> • And %1 more files!</source>
         <translation> • A %1 viac súborov!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="359"/>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="363"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="365"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="369"/>
         <source>Remove Unknown Files</source>
         <translation>Odstrániť neznáme súbory</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="445"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="451"/>
         <source>Unknown files in output folder</source>
         <translation>Neznáme súbory v cieľovom adresári generovaných výstupov</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="451"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="457"/>
         <source>Finished with warnings!</source>
         <translation>Ukončené s upozorneniami!</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="531"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="542"/>
         <source>Unknown job type. You may need a more recent LibrePCB version to modify this job.</source>
         <translation>Neznámy typ úlohy. Zrejme bude potrebná novšia verzia LibrePCB pre úpravu tejto úlohy.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="576"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="587"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="675"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="686"/>
         <source>ERROR</source>
         <translation>CHYBA</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="681"/>
+        <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="692"/>
         <source>SUCCESS!</source>
         <translation>ÚSPEŠNÉ!</translation>
     </message>
@@ -17801,37 +17845,37 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
         <translation>Podrobnosti nájdete &lt;a href=&quot;%1&quot;&gt;tu&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="236"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="235"/>
         <source>Designator</source>
         <translation>Označenie</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="237"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="236"/>
         <source>Value</source>
         <translation>Hodnota</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="238"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="237"/>
         <source>Component</source>
         <translation>Komponent</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="249"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="248"/>
         <source>Place Devices [%1]</source>
         <translation>Neumiestnené súčiastky [%1]</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="377"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="376"/>
         <source>Default footprint.</source>
         <translation>Predvolené puzdro.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="456"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="455"/>
         <source>Add devices to board</source>
         <translation>Pridať súčiastky na dosku.</translation>
     </message>
     <message>
-        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="491"/>
+        <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="490"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
