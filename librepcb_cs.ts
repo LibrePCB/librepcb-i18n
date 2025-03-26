@@ -305,12 +305,12 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="184"/>
         <source>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Vyvést soubor pro automatický osazovací stroj pro horní stranu desky. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
+        <translation>Vyvést soubor pick&amp;place pro automatické osazení součástek pro horní stranu desky. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="190"/>
         <source>Export pick&amp;place file for automated assembly of the bottom board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Vyvést soubor pro automatický osazovací stroj pro spodní stranu desky. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
+        <translation>Vyvést soubor pick&amp;place pro automatické osazení součástek pro spodní stranu desky. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="197"/>
@@ -341,17 +341,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="220"/>
         <source>The name of the assembly variant(s) to export. Can be given multiple times. If not set, all assembly variants are exported.</source>
-        <translation>Název variant(y) sestavy k exportu. Lze podat vícekrát. Pokud není nastaveno, exportují se všechny varianty sestavy.</translation>
+        <translation>Název variant(y) osazení k vyvedení. Lze být zadáno více názvů. Pokud není nastaven žádný, vyvedou se všechny varianty sestavy.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="225"/>
         <source>Same as &apos;%1&apos;, but allows to specify assembly variants by index instead of by name.</source>
-        <translation>Stejné jako &apos;%1&apos;, ale umožňuje zadat varianty sestavení podle indexu namísto názvu.</translation>
+        <translation>Stejné jako &apos;%1&apos;, ale umožňuje zadat varianty osazení desky podle čísla namísto názvu.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="231"/>
         <source>Move the specified assembly variant to the top before executing all the other actions. Pass &apos;%1&apos; to save the modified project to disk.</source>
-        <translation>Před provedením všech ostatních akcí přesuňte určenou variantu sestavy nahoru. Předejte &apos;%1&apos; pro uložení upraveného projektu na disk.</translation>
+        <translation>Před provedením všech ostatních činností přesuňte určenou variantu osazení nahoru. Zadejte &apos;%1&apos; pro uložení upraveného projektu na disk.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="237"/>
@@ -466,23 +466,23 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="525"/>
         <source>Attention: Project has been upgraded to a newer file format!</source>
-        <translation type="unfinished"/>
+        <translation>Pozor: Projekt byl aktualizován na novější formát souborů!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="546"/>
         <source>Set default assembly variant to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Nastavit výchozí variantu osazení na &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="551"/>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="565"/>
         <source>ERROR: No assembly variant with the name &apos;%1&apos; found.</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA: Varianta osazení s názvem &apos;%1&apos; nenalezena.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="580"/>
         <source>ERROR: Assembly variant index &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA: Číslo varianty osazení &apos;%1&apos; je neplatné.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="602"/>
@@ -610,7 +610,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="948"/>
         <source>Export %1 assembly data to &apos;%2&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Vyvést %1 data osazení do &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="988"/>
@@ -1053,7 +1053,7 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="990"/>
         <source>A device is placed within the courtyard of another device, which might cause troubles during assembly of these parts.</source>
-        <translation>Součástka je usazena přes ohrádku jiné součástky. Toto může způsobit problémy při osazování těchto součástek.</translation>
+        <translation>Součástka je umístěna v manipulační oblasti jiné součástky. Toto může způsobit problémy při osazování těchto součástek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="993"/>
@@ -2306,7 +2306,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="580"/>
         <source>Generate pick&amp;place files for automated PCB assembly</source>
-        <translation>Generovat soubory &quot;pick&amp;place&quot; pro automatizovanou montáž DPS</translation>
+        <translation>Generovat soubory &quot;pick&amp;place&quot; pro automatizované osazování desky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="588"/>
@@ -3955,12 +3955,12 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="140"/>
         <source>Assembly Top</source>
-        <translation>Osazení horní</translation>
+        <translation>Osazení vrchní strany</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="143"/>
         <source>Assembly Bottom</source>
-        <translation>Osazení dolní</translation>
+        <translation>Osazení spodní strany</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/job/graphicsoutputjob.h" line="146"/>
@@ -4416,12 +4416,12 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="40"/>
         <source>Non-recommended assembly type</source>
-        <translation type="unfinished"/>
+        <translation>Nedoporučený typ osazení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="41"/>
         <source>The assembly type &apos;Auto-detect&apos; is not recommended as the detection might not be correct in every case. It&apos;s safer to specify the assembly type manually.</source>
-        <translation type="unfinished"/>
+        <translation>Typ sestavy „Automatické rozpoznání“ se nedoporučuje, protože rozpoznání nemusí být správné v každém případě. Je bezpečnější zadat typ osazení ručně.</translation>
     </message>
 </context>
 <context>
@@ -5014,12 +5014,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="53"/>
         <source>Suspicious assembly type</source>
-        <translation type="unfinished"/>
+        <translation>Podezřelý typ osazení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="54"/>
         <source>The specified assembly type differs from the assembly type which is auto-detected from the footprint contents. Double-check if the specified assembly type is really correct.</source>
-        <translation type="unfinished"/>
+        <translation>Zadaný typ sestavy se liší od typu sestavy, který je automaticky rozpoznán z toho, co obsahuje pouzdro. Překontrolujte, zda je zadaný typ osazení skutečně správný.</translation>
     </message>
 </context>
 <context>
@@ -5078,7 +5078,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="719"/>
         <source>The THT pad has solder paste enabled, which is very unusual since through-hole components are usually not reflow soldered. Also the solder paste could flow into the pads hole, possibly causing troubles during THT assembly. Double-check if this is really what you want.</source>
-        <translation type="unfinished"/>
+        <translation>Na desce s vývody THT je povolena pájecí pasta, což je velmi neobvyklé, protože součástky s průchozími otvory se obvykle nepájejí přetavením pomocí pasty. Pájecí pasta by také mohla vtékat do otvoru desky, což by mohlo způsobit problémy při následném vkládání THT. Dvakrát zkontrolujte, zda to tak opravdu chcete.</translation>
     </message>
 </context>
 <context>
@@ -6126,7 +6126,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="92"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="121"/>
         <source>There is already an assembly variant with the name &quot;%1&quot;!</source>
-        <translation>Varianta sestavení  &quot;%1&quot; již existuje!</translation>
+        <translation>Varianta osazení &quot;%1&quot; již existuje!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="154"/>
@@ -6254,7 +6254,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="557"/>
         <source>Board cutouts now have a dedicated layer, thus nested board outline polygons and circles have automatically been moved to the cutouts layer. As the auto-detection is not perfect, please check if each cutout has been converted correctly. The easiest way is to review the PCB in the 3D viewer.</source>
-        <translation>Výřezy v desce mají nyní dedikovanou vrstvu, tudíž podřízené obryy desky by měly být automaticky přesunuty do vrstvy výřezů. Protože autodetekce není perfektní, prosím zkontrolujte, zdali všechny výřezy byly správně zkonvertovány. Nejjednodušší je kontrola 3D zobrazení desky.</translation>
+        <translation>Výřezy v desce mají nyní dedikovanou vrstvu, tudíž podřízené obrysy desky by měly být automaticky přesunuty do vrstvy výřezů. Protože automatické rozpoznání není dokonalé, zkontrolujte, zdali všechny výřezy byly správně převedeny. Nejjednodušší je kontrola 3D zobrazení desky.</translation>
     </message>
 </context>
 <context>
@@ -10935,7 +10935,7 @@ Upozornění: Tento krok nelze vrátit zpět!</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="329"/>
         <source>Parts for Assembly (BOM/PnP)</source>
-        <translation>Části pro montáž (BOM/PnP)</translation>
+        <translation>Součástky pro osazení (BOM/PnP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="356"/>
@@ -12516,12 +12516,12 @@ Pozor: Zakřivené drážky nejsou v režimu G85 podporovány (vyvolá chybu).</
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="516"/>
         <source>Assembly Top</source>
-        <translation>Osazení horní</translation>
+        <translation>Osazení vrchní strany</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="531"/>
         <source>Assembly Bottom</source>
-        <translation>Osazení dolní</translation>
+        <translation>Osazení spodní strany</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="546"/>
@@ -12739,7 +12739,7 @@ Pozor: Zakřivené drážky nejsou v režimu G85 podporovány (vyvolá chybu).</
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="354"/>
         <source>Assembly Top/Bottom</source>
-        <translation>Osazení horní/spodní</translation>
+        <translation>Osazení vrchní/spodní</translation>
     </message>
 </context>
 <context>
@@ -14988,7 +14988,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="236"/>
         <source>Board Assembly PDF/Image</source>
-        <translation>Osazovák PDF/Obrázek</translation>
+        <translation>Osazovací plán desky jako PDF/obrázek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="238"/>
@@ -15679,7 +15679,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.ui" line="305"/>
         <source>Assembly:</source>
-        <translation>Montáž:</translation>
+        <translation>Osazení:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="246"/>
@@ -15709,7 +15709,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="259"/>
         <source>Auto-detect (not recommended)</source>
-        <translation>Autodetekce (nedoporučováno)</translation>
+        <translation>Automatické rozpoznání (nedoporučováno)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/packageeditorwidget.cpp" line="457"/>
