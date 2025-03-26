@@ -38,7 +38,7 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="164"/>
         <source>Pad:</source>
-        <translation type="unfinished"/>
+        <translation>Ploška vývodu:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="170"/>
@@ -48,7 +48,7 @@
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="176"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>Propojení:</translation>
     </message>
 </context>
 <context>
@@ -270,17 +270,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportovat schemata do příslušných souborů. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
+        <translation>Vyvést schemata do příslušných souborů. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="155"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportovat všeobecný kusovník do příslušného souboru. Pokud již soubor existuje, bude přepsán. Podporované přípony souborů: %1</translation>
+        <translation>Vyvést všeobecný kusovník do příslušného souboru. Pokud již soubor existuje, bude přepsán. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="161"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportovat kusovník pro konkrétní desku do příslušného souboru. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
+        <translation>Vyvést kusovník pro konkrétní desku do příslušného souboru. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="167"/>
@@ -305,17 +305,17 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="184"/>
         <source>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportovat soubor pro automatický osazovací stroj pro horní stranu desky. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
+        <translation>Vyvést soubor pro automatický osazovací stroj pro horní stranu desky. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="190"/>
         <source>Export pick&amp;place file for automated assembly of the bottom board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportovat soubor pro automatický osazovací stroj pro spodní stranu desky. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
+        <translation>Vyvést soubor pro automatický osazovací stroj pro spodní stranu desky. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="197"/>
         <source>Export netlist file for automated PCB testing. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportovat seznam propojení pro automatické testování plošného spoje. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
+        <translation>Vyvést seznam propojení pro automatické testování plošného spoje. Pokud již soubory existují, budou přepsány. Podporované přípony souborů: %1</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="202"/>
@@ -595,7 +595,7 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="625"/>
         <source>Clearance via ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Vzdálenost přechodu ↔ obrys desky &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="628"/>
@@ -869,12 +869,12 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1521"/>
         <source>Objects on disabled layer: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Počet předmětů ve vypnuté vrstvě: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1522"/>
         <source>The layer contains copper objects, but it is disabled in the board setup dialog and thus will be ignored in any production data exports. Either increase the layer count to get this layer exported, or remove all objects on this layer (by temporarily enabling this layer to see them).</source>
-        <translation type="unfinished"/>
+        <translation>Vrstva obsahuje měděné předměty, ale v dialogu nastavení desky je zakázána, a proto bude při ukládání výrobních dat přehlížena. Buď zvýšíte počet vrstev, aby se tato vrstva uložila, nebo odstraníte všechny předměty v této vrstvě (dočasným povolením této vrstvy, aby byly vidět).</translation>
     </message>
 </context>
 <context>
@@ -996,7 +996,7 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1391"/>
         <source>The drilled slot mode (G85) will not be available when generating production data.</source>
-        <translation>Vrtaný režim drážky (G85) nebude k dispozici při generování výrobních dat.</translation>
+        <translation>Vrtaný režim drážky (G85) nebude dostupný při vytváření výrobních dat.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1395"/>
@@ -1157,7 +1157,7 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1295"/>
         <source>Plated slot width: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Šířka pokovené drážky: %1 &lt; %2 %3</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1299"/>
@@ -1168,12 +1168,12 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1310"/>
         <source>The width of the plated slot is smaller than the minimum plated slot width configured in the DRC settings.</source>
-        <translation>Šířka prokoveného otvoru je menší než minimální šířka prokoveného otvoru nastavená v DRC nastavení.</translation>
+        <translation>Šířka prokoveného otvoru je menší než nejmenší šířka prokoveného otvoru nastavená v DRC nastavení.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1314"/>
         <source>The width of the non-plated slot is smaller than the minimum non-plated slot width configured in the DRC settings.</source>
-        <translation>Šířka neprokoveného otvoru je menší než minimální šířka neprokoveného otvoru nastavená v DRC nastavení.</translation>
+        <translation>Šířka neprokoveného otvoru je menší než nejmenší šířka neprokoveného otvoru nastavená v DRC nastavení.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1318"/>
@@ -1449,12 +1449,12 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1539"/>
         <source>Unused layer: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepoužívaná vrstva: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1540"/>
         <source>The layer contains no copper objects (except the automatically generated through-hole annular rings, if any) so it is useless. This is not critical, but if your intention is to flood it with copper, you need to add a plane manually. Or if you don&apos;t need this layer, you might want to reduce the layer count in the board setup dialog to avoid unnecessary production costs. Also some PCB manufacturers might be confused by empty layers.</source>
-        <translation type="unfinished"/>
+        <translation>Vrstva neobsahuje žádné měděné předměty (kromě automaticky vytvářených kroužků s průchozími otvory, pokud existují), takže je nepoužitelná. To není zásadní, ale pokud je vaším záměrem zalít ji mědí, musíte rovinu přidat ručně. Nebo pokud tuto vrstvu nepotřebujete, možná budete chtít snížit počet vrstev v dialogu nastavení desky, abyste se vyhnuli zbytečným výrobním nákladům. Některé výrobce desek plošných spojů by také mohly zmást prázdné vrstvy.</translation>
     </message>
 </context>
 <context>
@@ -1502,12 +1502,12 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="500"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
-        <translation type="unfinished"/>
+        <translation>Přerušovaná/tečkovaná čára není podporována, převádí se na spojitou.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagletypeconverter.cpp" line="505"/>
         <source>Flat line end is not supported, converting to round.</source>
-        <translation type="unfinished"/>
+        <translation>Plochý konec řádku není podporován, převádí se na kulatý.</translation>
     </message>
 </context>
 <context>
@@ -1926,97 +1926,97 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="450"/>
         <source>Import/Export</source>
-        <translation>Import/Export</translation>
+        <translation>Zavést/Vyvést</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="453"/>
         <source>Add Example Projects</source>
-        <translation type="unfinished"/>
+        <translation>Přidat ukázkové projekty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="454"/>
         <source>Add some example projects to the workspace</source>
-        <translation type="unfinished"/>
+        <translation>Přidat několik ukázkových projektů do pracovního prostoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="462"/>
         <source>Import DXF</source>
-        <translation>Import DXF</translation>
+        <translation>Zavést DXF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="463"/>
         <source>Import a 2D mechanical drawing</source>
-        <translation>Import 2D mechanického výkresu</translation>
+        <translation>Zavést 2D mechanický výkres</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="471"/>
         <source>Import EAGLE Library</source>
-        <translation>Import knihovny EAGLE</translation>
+        <translation>Zavést knihovnu EAGLE</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="472"/>
         <source>Import library elements from an EAGLE *.lbr file</source>
-        <translation>Import prvků knihovny EAGLE ze souboru *.lbr</translation>
+        <translation>Zavést prvky knihovny EAGLE ze souboru *.lbr</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="480"/>
         <source>Import EAGLE Project</source>
-        <translation>Import EAGLE projekt</translation>
+        <translation>Zavést EAGLE projekt</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="481"/>
         <source>Import schematic/board from EAGLE *.sch/*.brd files</source>
-        <translation type="unfinished"/>
+        <translation>Zavést schéma/desku ze souborů EAGLE *.sch/*.brd</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="489"/>
         <source>Import KiCad Library</source>
-        <translation type="unfinished"/>
+        <translation>Zavést knihovnu KiCad</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="490"/>
         <source>Import symbols and footprints from KiCad libraries</source>
-        <translation type="unfinished"/>
+        <translation>Zavést symboly a otisky z knihoven KiCad</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="498"/>
         <source>Import Specctra SES</source>
-        <translation type="unfinished"/>
+        <translation>Zavést Specctra SES</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="499"/>
         <source>Import a Specctra session, e.g. from external autorouters</source>
-        <translation type="unfinished"/>
+        <translation>Zavést sezení Specctra, např. z vnějších autorouterů</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="507"/>
         <source>Export *.lppz Archive</source>
-        <translation>Export archivu *.lppz</translation>
+        <translation>Vyvést archiv *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="508"/>
         <source>Export the project as a self-contained *.lppz archive</source>
-        <translation>Export projektu jako samostatný archiv *.lppz</translation>
+        <translation>Vyvést projekt jako samostatný archiv *.lppz</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="516"/>
         <source>Export Image</source>
-        <translation>Export obrázku</translation>
+        <translation>Vyvést obrázek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="517"/>
         <source>Export graphics as a pixmap</source>
-        <translation>Export grafiky jako pixmap</translation>
+        <translation>Vyvést grafiku jako pixmapu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="525"/>
         <source>Export PDF</source>
-        <translation>Export PDF</translation>
+        <translation>Vyvést PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="526"/>
         <source>Export graphics as a PDF</source>
-        <translation>Export grafiky jako PDF</translation>
+        <translation>Vyvést grafiku jako PDF</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="534"/>
@@ -2026,17 +2026,17 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="535"/>
         <source>Export PCB to Specctra format for external autorouters etc.</source>
-        <translation type="unfinished"/>
+        <translation>Vyvést DPS do formátu Specctra pro vnější autoroutery atd.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="543"/>
         <source>Export STEP Model</source>
-        <translation>Export STEP modelu</translation>
+        <translation>Vyvést STEP model</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="544"/>
         <source>Export PCB as a STEP file for loading it into MCAD software</source>
-        <translation>Export DPS jako soubor STEP model pro program MCAD</translation>
+        <translation>Vyvést DPS jako soubor STEP model pro program MCAD</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="552"/>
@@ -3556,7 +3556,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/core/export/excellongenerator.cpp" line="185"/>
         <source>Using the G85 slot command is not possible for curved slots. Either remove curved slots or disable the G85 export option.</source>
-        <translation type="unfinished"/>
+        <translation>Použití příkazu G85 nelze použít pro zaoblené drážky. Zaoblení drážek nejprve odstraňte, nebo použití příkazu G85 zakažte.</translation>
     </message>
 </context>
 <context>
@@ -4100,12 +4100,12 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="156"/>
         <source>&amp;Import</source>
-        <translation>&amp;Import</translation>
+        <translation>&amp;Zavést</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="161"/>
         <source>&amp;Export</source>
-        <translation>&amp;Export</translation>
+        <translation>&amp;Vyvést</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/utils/menubuilder.cpp" line="166"/>
@@ -5067,7 +5067,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="277"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>Propojení:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/graphicsitems/sgi_symbolpin.cpp" line="283"/>
@@ -5827,7 +5827,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1247"/>
         <source>Check NPTH slot widths...</source>
-        <translation type="unfinished"/>
+        <translation>Zkontrolovat šířku drážky NPTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1282"/>
@@ -5837,7 +5837,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1324"/>
         <source>Check PTH slot widths...</source>
-        <translation type="unfinished"/>
+        <translation>Zkontrolovat šířku drážky PTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1355"/>
@@ -5862,12 +5862,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1658"/>
         <source>Check for disallowed NPTH slots...</source>
-        <translation type="unfinished"/>
+        <translation>Zkontrolovat nepovolené drážky NPTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1691"/>
         <source>Check for disallowed PTH slots...</source>
-        <translation type="unfinished"/>
+        <translation>Zkontrolovat nepovolené drážky PTH...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1718"/>
@@ -6029,7 +6029,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="185"/>
         <source>No pages to export/print.</source>
-        <translation>Nejsou stránky k exportování/tisku.</translation>
+        <translation>Nejsou stránky k vyvedení/tisk.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/export/graphicsexport.cpp" line="369"/>
@@ -6331,7 +6331,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="110"/>
         <source>Exporting PCB...</source>
-        <translation>Exportuji PCB...</translation>
+        <translation>Vyvádí se PCB...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/3d/stepexport.cpp" line="152"/>
@@ -6731,7 +6731,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="257"/>
         <source>Import failed:</source>
-        <translation>Import selhal:</translation>
+        <translation>Zavedení selhalo:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="459"/>
@@ -6750,12 +6750,12 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="609"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
-        <translation type="unfinished"/>
+        <translation>Přerušovaná/tečkovaná čára není podporována, převod na spojitou.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="614"/>
         <source>Flat line end is not supported, converting to round.</source>
-        <translation type="unfinished"/>
+        <translation>Plochý konec řádku není podporován, převádí se na kulatý.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="626"/>
@@ -7764,7 +7764,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1736"/>
         <source>Export STEP Model</source>
-        <translation>Export STEP modelu</translation>
+        <translation>Vyvést STEP model</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1762"/>
@@ -7902,7 +7902,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="132"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>Propojení:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_addvia.cpp" line="149"/>
@@ -7943,7 +7943,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="89"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>Propojení:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fsm/boardeditorstate_drawplane.cpp" line="102"/>
@@ -9004,7 +9004,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="14"/>
         <source>Mass Import</source>
-        <translation type="unfinished"/>
+        <translation>Hromadné zavedení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="139"/>
@@ -11412,8 +11412,8 @@ Helps for example to avoid invalid board outline polygons.</source>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="134"/>
         <source>If checked, circles will be imported as drills.
 If unchecked (the default), circles will be imported as polygons.</source>
-        <translation>Pokud je zaškrtnuto, kružnice budou importovány jako vrtané otvory.
-Pokud není (výchozá nastavení), kružnice budou importovány jako mnohoúhelníky.</translation>
+        <translation>Pokud je zaškrtnuto, kružnice budou zavedeny jako vrtané otvory.
+Pokud není (výchozá nastavení), kružnice budou zavedeny jako mnohoúhelníky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="138"/>
@@ -11763,12 +11763,14 @@ Do you really want to close it?</source>
         <source>Export slots as drilled (G85) instead of routed (G00..G03).
 Not recommended unless the G00..G03 are causing troubles with the PCB manufacturer.
 Attention: Curved slots are not supported in G85 mode (will raise an error).</source>
-        <translation type="unfinished"/>
+        <translation>Vyvést drážky jako vrtané (G85) místo frézovaných (G00..G03).
+Nedoporučuje se, pokud G00..G03 nezpůsobují potíže s výrobcem desek plošných spojů.
+Pozor: Zakřivené drážky nejsou v režimu G85 podporovány (vyvolá chybu).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="57"/>
         <source>Use drilled slot command in Excellon files (G85)</source>
-        <translation type="unfinished"/>
+        <translation>V souborech Excellon použít příkaz pro vrtanou drážku (G85).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/fabricationoutputdialog.ui" line="74"/>
@@ -12236,12 +12238,14 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <source>Export slots as drilled (G85) instead of routed (G00..G03).
 Not recommended unless the G00..G03 are causing troubles with the PCB manufacturer.
 Attention: Curved slots are not supported in G85 mode (will raise an error).</source>
-        <translation type="unfinished"/>
+        <translation>Vyvést drážky jako vrtané (G85) místo frézovaných (G00..G03).
+Nedoporučuje se, pokud G00..G03 nezpůsobují potíže s výrobcem desek plošných spojů.
+Pozor: Zakřivené drážky nejsou v režimu G85 podporovány (vyvolá chybu).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="189"/>
         <source>Use drilled slot command in Excellon files (G85)</source>
-        <translation type="unfinished"/>
+        <translation>V souborech Excellon použít příkaz pro vrtanou drážku (G85).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="196"/>
@@ -12575,7 +12579,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="93"/>
         <source>Export Image</source>
-        <translation>Export obrázku</translation>
+        <translation>Vyvést obrázek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="96"/>
@@ -14902,7 +14906,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="155"/>
         <source>Exporting project...</source>
-        <translation>Exportuji projekt ...</translation>
+        <translation>Vyvádí se projekt...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/orderpcbdialog.cpp" line="175"/>
@@ -16399,7 +16403,7 @@ Chcete je před zavřením projektu uložit?</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/projectjsonoutputjobwidget.ui" line="40"/>
         <source>Export general project data to a machine-readable JSON file.</source>
-        <translation>Exportovat obecná data o projektu do strojově čitelného JSON souboru.</translation>
+        <translation>Vyvést obecná data o projektu do strojově čitelného souboru JSON.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/outputjobsdialog/projectjsonoutputjobwidget.ui" line="57"/>
@@ -17181,7 +17185,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="96"/>
         <source>Mass Import</source>
-        <translation type="unfinished"/>
+        <translation>Hromadné zavedení</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="119"/>
@@ -18355,7 +18359,7 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="685"/>
         <source>Importing libraries...</source>
-        <translation type="unfinished"/>
+        <translation>Zavádí se knihovny...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="784"/>
