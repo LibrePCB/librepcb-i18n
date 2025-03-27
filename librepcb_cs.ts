@@ -2657,7 +2657,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="905"/>
         <source>Set/Unset Background Image</source>
-        <translation type="unfinished"/>
+        <translation>Zapnout/Vypnout obrázek na pozadí</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="906"/>
@@ -2757,7 +2757,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="990"/>
         <source>Add graphical text objects for &apos;{{NAME}}&apos;</source>
-        <translation>Přidat grafické textové objekty pro &apos;{{NAME}}&apos;</translation>
+        <translation>Přidat grafické textové předměty pro &apos;{{NAME}}&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="998"/>
@@ -2767,7 +2767,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="999"/>
         <source>Add graphical text objects for &apos;{{VALUE}}&apos;</source>
-        <translation>Přidat grafické textové objekty pro &apos;{{VALUE}}&apos;</translation>
+        <translation>Přidat grafické textové předměty pro &apos;{{VALUE}}&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1007"/>
@@ -3658,7 +3658,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1805"/>
         <source>Various helper tools to generate or modify objects</source>
-        <translation type="unfinished"/>
+        <translation>Různé pomocné nástroje pro vytváření nebo úpravu předmětů</translation>
     </message>
 </context>
 <context>
@@ -6117,7 +6117,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2008"/>
         <source>Check for stale objects...</source>
-        <translation type="unfinished"/>
+        <translation>Ověřit stav předmětů...</translation>
     </message>
 </context>
 <context>
@@ -6645,7 +6645,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="184"/>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="267"/>
         <source>Skipped graphics object on layer %1 (%2).</source>
-        <translation type="unfinished"/>
+        <translation>Vynechán grafický předmět ve vrstvě %1 (%2).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="195"/>
@@ -6757,7 +6757,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="509"/>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="967"/>
         <source>Skipped graphics object on layer %1 (%2).</source>
-        <translation type="unfinished"/>
+        <translation>Vynechán grafický předmět ve vrstvě %1 (%2).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eagleprojectimport.cpp" line="609"/>
@@ -8309,7 +8309,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="272"/>
         <source>Note: These settings define the shape of board objects which are automatically generated (e.g. stop masks, where not manually overridden). They are not related to the design rule check (DRC) at all. In contrast to these settings, DRC parameters do not have any impact on the board.</source>
-        <translation>Poznámka: Tato nastavení definují tvary objektů na desce které jsou automaticky generované (například nepájivá maska), které nejsou ručně přepsané. Tyto vůbec nesouvisí s kontrolou návrhových pravidel (DRC). Naproti těmto nastavením, parametry DRC nemodifikují desku.</translation>
+        <translation>Poznámka: Tato nastavení určují tvary předmětů na desce, které jsou automaticky vytvářeny (například nepájivá maska, která nemůže být ručně změněna). Vůbec nesouvisí s kontrolou návrhových pravidel (DRC). Na rozdíl od těchto nastavení nemají parametry DRC žádný vliv na desku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="285"/>
@@ -9248,7 +9248,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="700"/>
         <source>Updated %1 net objects (%2 unmodified objects skipped).</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizováno %1 propojení (%2 nezměněných předmětů přeskočeno).</translation>
     </message>
 </context>
 <context>
@@ -9329,25 +9329,6 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <location filename="../libs/librepcb/editor/cmd/cmdcircleedit.cpp" line="40"/>
         <source>Edit circle</source>
         <translation>Upravit kruh</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::CmdCombineAllNetSignalsUnderSchematicNetPoint</name>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="61"/>
-        <source>Combine Schematic Items</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="135"/>
-        <source>There are multiple different nets with forced names at this position.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="198"/>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="202"/>
-        <source>Sorry, not yet implemented...</source>
-        <translation>Bohužel, tato funkce ještě není implementována...</translation>
     </message>
 </context>
 <context>
@@ -9866,14 +9847,6 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeledit.cpp" line="41"/>
         <source>Edit netlabel</source>
         <translation>Upravit název spoje</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::CmdSchematicNetLabelRemove</name>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabelremove.cpp" line="43"/>
-        <source>Remove netlabel</source>
-        <translation>Odstranit název spoje</translation>
     </message>
 </context>
 <context>
@@ -11230,7 +11203,7 @@ Upozornění: Tento krok nelze vrátit zpět!</translation>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="32"/>
         <source>The layer to set on the imported objects.</source>
-        <translation type="unfinished"/>
+        <translation>Nastavení vrstvy pro zavedené předměty.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="39"/>
@@ -11240,7 +11213,7 @@ Upozornění: Tento krok nelze vrátit zpět!</translation>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="46"/>
         <source>The line width to set on the imported objects.</source>
-        <translation type="unfinished"/>
+        <translation>Nastavení šířky čáry zavedených předmětů.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="53"/>
@@ -11262,7 +11235,8 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="87"/>
         <source>If checked (the default), you can interactively place the imported objects by cursor.
 If unchecked, you need to specify exact coordinates where the point (0,0) of the DXF will be located.</source>
-        <translation type="unfinished"/>
+        <translation>Pokud je tato možnost zaškrtnuta (výchozí nastavení), je možné zavedené předměty interaktivně umístit pomocí kurzoru.
+Je však třeba přesně zadat souřadnice, na kterých bude umístěn nulový bod DXF (0,0).</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="91"/>
@@ -11315,7 +11289,7 @@ Pokud není (výchozá nastavení), kružnice budou zavedeny jako mnohoúhelník
     <message>
         <location filename="../libs/librepcb/editor/dialogs/dxfimportdialog.cpp" line="174"/>
         <source>The selected file does not contain any objects to import.</source>
-        <translation type="unfinished"/>
+        <translation>Vybraný soubor neobsahuje žádné předměty k zavedení.</translation>
     </message>
 </context>
 <context>
@@ -14655,29 +14629,6 @@ For more information about licensing, click on this icon.</source>
     </message>
 </context>
 <context>
-    <name>librepcb::editor::NewProjectWizardPage_VersionControl</name>
-    <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_versioncontrol.ui" line="14"/>
-        <source>Version Control</source>
-        <translation>Správa verzí</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_versioncontrol.ui" line="17"/>
-        <source>Specify if the project should be put under version control.</source>
-        <translation>Stanovte, pokud projekt spadá pod správu verzí.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_versioncontrol.ui" line="23"/>
-        <source>Initialize Git repository</source>
-        <translation>Práce s úložištěm Git</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_versioncontrol.ui" line="35"/>
-        <source>This will create the files &quot;.gitignore&quot; and &quot;.gitattributes&quot; in the project&apos;s directory. Initializing a Git repository is not yet supported, so you need to do this by yourself ;)</source>
-        <translation>Toto vytvoří soubory &quot;.gitignore&quot; a &quot;.gitattributes&quot; v projektovém adresáři. Práce s úložišti Git ale zatím není podporována, takže to musíte udělat sami :-)</translation>
-    </message>
-</context>
-<context>
     <name>librepcb::editor::OnlineLibraryListWidgetItem</name>
     <message>
         <location filename="../libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.ui" line="14"/>
@@ -15571,7 +15522,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="871"/>
         <source>Apply the same geometry as the object in the clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Použít stejnou geometrii jako předmět ve schránce</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1041"/>
@@ -18011,7 +17962,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="705"/>
         <source>Objects</source>
-        <translation type="unfinished"/>
+        <translation>Předměty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="718"/>
@@ -18231,7 +18182,7 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="48"/>
         <source>Raise a DRC error if there are any copper objects (e.g. traces or vias) in this zone. Only planes are allowed to flood this zone without raising an error.</source>
-        <translation type="unfinished"/>
+        <translation>Vyhlasit chybu, pokud se v této oblasti nacházejí vodivé předměty (např. spoje nebo přechody). Bez vyhlášení chyby mohou tuto oblast zabírat pouze vyplněné plochy.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="51"/>

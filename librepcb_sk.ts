@@ -9350,25 +9350,6 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     </message>
 </context>
 <context>
-    <name>librepcb::editor::CmdCombineAllNetSignalsUnderSchematicNetPoint</name>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="61"/>
-        <source>Combine Schematic Items</source>
-        <translation>Skombinovať položky schémy</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="135"/>
-        <source>There are multiple different nets with forced names at this position.</source>
-        <translation>Na tejto pozícii je niekoľko rôznych prepojení s manuálne nastavenými názvami. </translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="198"/>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="202"/>
-        <source>Sorry, not yet implemented...</source>
-        <translation>Prepáčte, no toto nie je zatiaľ implementované...</translation>
-    </message>
-</context>
-<context>
     <name>librepcb::editor::CmdCombineBoardNetSegments</name>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombineboardnetsegments.cpp" line="49"/>
@@ -9884,14 +9865,6 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeledit.cpp" line="41"/>
         <source>Edit netlabel</source>
         <translation>Upraviť označenie prepojenia</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::CmdSchematicNetLabelRemove</name>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabelremove.cpp" line="43"/>
-        <source>Remove netlabel</source>
-        <translation>Odstrániť označenie prepojenia</translation>
     </message>
 </context>
 <context>
@@ -14700,29 +14673,6 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="276"/>
         <source>The project&apos;s directory exists already and is not empty.</source>
         <translation>Adresár projektu už existuje a nie je prázdny.</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::NewProjectWizardPage_VersionControl</name>
-    <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_versioncontrol.ui" line="14"/>
-        <source>Version Control</source>
-        <translation>Správa verzií</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_versioncontrol.ui" line="17"/>
-        <source>Specify if the project should be put under version control.</source>
-        <translation>Špecifikuj, ak projekt spadá pod správu verzií.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_versioncontrol.ui" line="23"/>
-        <source>Initialize Git repository</source>
-        <translation>Práca s Git repozitárom</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_versioncontrol.ui" line="35"/>
-        <source>This will create the files &quot;.gitignore&quot; and &quot;.gitattributes&quot; in the project&apos;s directory. Initializing a Git repository is not yet supported, so you need to do this by yourself ;)</source>
-        <translation>Toto vytvorí súbory &quot;.gitignore&quot; a &quot;.gitattributes&quot; v projektovom adresári. Práca s Git repozitármi ale zatiaľ nie je podporovaná, takže musíte to spraviť sami :-)</translation>
     </message>
 </context>
 <context>

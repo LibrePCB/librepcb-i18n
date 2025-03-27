@@ -9344,25 +9344,6 @@ You need at least LibrePCB %1 to open it.
     </message>
 </context>
 <context>
-    <name>librepcb::editor::CmdCombineAllNetSignalsUnderSchematicNetPoint</name>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="61"/>
-        <source>Combine Schematic Items</source>
-        <translation>Объединить элементы схемы</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="135"/>
-        <source>There are multiple different nets with forced names at this position.</source>
-        <translation>Есть несколько различных цепей с принудительными названиями на этой позиции.</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="198"/>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdcombineallnetsignalsunderschematicnetpoint.cpp" line="202"/>
-        <source>Sorry, not yet implemented...</source>
-        <translation>Извините, ещё не реализовано...</translation>
-    </message>
-</context>
-<context>
     <name>librepcb::editor::CmdCombineBoardNetSegments</name>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcombineboardnetsegments.cpp" line="49"/>
@@ -9878,14 +9859,6 @@ You need at least LibrePCB %1 to open it.
         <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabeledit.cpp" line="41"/>
         <source>Edit netlabel</source>
         <translation>Править метку цепи</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::CmdSchematicNetLabelRemove</name>
-    <message>
-        <location filename="../libs/librepcb/editor/project/cmd/cmdschematicnetlabelremove.cpp" line="43"/>
-        <source>Remove netlabel</source>
-        <translation>Удалить метку цепи</translation>
     </message>
 </context>
 <context>
@@ -14687,29 +14660,6 @@ For more information about licensing, click on this icon.</source>
         <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="276"/>
         <source>The project&apos;s directory exists already and is not empty.</source>
         <translation>Каталок проекта уже существует и не является пустым.</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::NewProjectWizardPage_VersionControl</name>
-    <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_versioncontrol.ui" line="14"/>
-        <source>Version Control</source>
-        <translation>Контроль версий</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_versioncontrol.ui" line="17"/>
-        <source>Specify if the project should be put under version control.</source>
-        <translation>Указанный проект встанет под контроль версий</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_versioncontrol.ui" line="23"/>
-        <source>Initialize Git repository</source>
-        <translation>Инициализировать репозиторий Git</translation>
-    </message>
-    <message>
-        <location filename="../libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_versioncontrol.ui" line="35"/>
-        <source>This will create the files &quot;.gitignore&quot; and &quot;.gitattributes&quot; in the project&apos;s directory. Initializing a Git repository is not yet supported, so you need to do this by yourself ;)</source>
-        <translation>В каталоге проекта будут созданы файлы &quot;.gitignore&quot; и &quot;.gitattributes&quot;. Инициализация Git репозитория пока не поддерживается, так что вам необходимо это сделать вручную ;)</translation>
     </message>
 </context>
 <context>
