@@ -492,7 +492,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="615"/>
         <source>ERROR: Board index &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA: Číslo desky &apos;%1&apos; není platné.</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="623"/>
@@ -531,7 +531,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="694"/>
         <source>Run DRC...</source>
-        <translation type="unfinished"/>
+        <translation>Spustit DRC...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="706"/>
@@ -615,7 +615,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="988"/>
         <source>Export netlist to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Vyvést seznam propojení do &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1013"/>
@@ -625,7 +625,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1034"/>
         <source>ERROR: The file &apos;%1&apos; was written multiple times!</source>
-        <translation type="unfinished"/>
+        <translation>CHYBA: Soubor &apos;%1&apos; byl zapsán vícekrát!</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1039"/>
@@ -961,12 +961,12 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="587"/>
         <source>The clearance between two copper objects of different nets is smaller than the minimum copper clearance configured in the DRC settings.</source>
-        <translation>Mezera mezi dvěma měděnými objekty je menší než minimální mezera měděných objektů nakonfigurovaná v DRC nastavení.</translation>
+        <translation>Mezera mezi dvěma měděnými předměty je menší než nejmenší mezera měděných předmětů nastavená v nastavení DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="591"/>
         <source>Check the DRC settings and move the objects to increase their clearance if needed.</source>
-        <translation>Zkontrolujte nastavení DRC a přesuňte objekty dále od sebe, pokud to bude potřeba.</translation>
+        <translation>Zkontrolujte nastavení DRC a přesuňte předměty dále od sebe, pokud to bude potřeba.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="613"/>
@@ -986,12 +986,12 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="790"/>
         <source>The clearance between a non-plated hole and copper objects is smaller than the hole clearance configured in the DRC settings.</source>
-        <translation>Mezera mezi neprokoveným otvorem a měděným objektem je menší než minimální mezera otvoru nakonfigurovaná v DRC nastavení.</translation>
+        <translation>Mezera mezi neprokoveným otvorem a měděným předmětem je menší než nejmenší mezera otvoru nastavená v nastavení DRC.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="793"/>
         <source>Check the DRC settings and move the copper objects away from the hole if needed.</source>
-        <translation>Zkontrolujte nastavení DRC a přesuňte měděné objekty dále od otvoru, pokud to bude potřeba.</translation>
+        <translation>Zkontrolujte nastavení DRC a přesuňte měděné předměty dále od otvoru, pokud to bude potřeba.</translation>
     </message>
 </context>
 <context>
@@ -1034,12 +1034,12 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="918"/>
         <source>There is a copper object within a copper keepout zone.</source>
-        <translation>Měďěný objekt v zakázané zóně mědi</translation>
+        <translation>Měďěný předmět v zakázané zóně mědi</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="919"/>
         <source>Move the object to outside the keepout zone.</source>
-        <translation>Přesunout objekt mimo zakázanou zónu.</translation>
+        <translation>Přesunout předmět mimo zakázanou zónu.</translation>
     </message>
 </context>
 <context>
@@ -1179,7 +1179,7 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1165"/>
         <source>Move the object to outside the keepout zone.</source>
-        <translation>Přesunout objekt mimo zakázanou zónu.</translation>
+        <translation>Přesunout předmět mimo zakázanou zónu.</translation>
     </message>
 </context>
 <context>
@@ -1278,12 +1278,12 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1460"/>
         <source>Invalid via in net &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
-        <translation type="unfinished"/>
+        <translation>Neplatný přechod v propojení &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1462"/>
         <source>The via is only drilled between one layer and is therefore invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Přechod je provrtán pouze mezi jednou vrstvou, a proto je neplatný.</translation>
     </message>
 </context>
 <context>
@@ -1795,7 +1795,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="123"/>
         <source>Select all visible objects</source>
-        <translation>Vybrat všechny viditelné objekty</translation>
+        <translation>Vybrat všechny viditelné předměty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="131"/>
@@ -1805,7 +1805,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="132"/>
         <source>Find or filter objects</source>
-        <translation>Hledat nebo filtrovat objekty</translation>
+        <translation>Hledat nebo filtrovat předměty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="140"/>
@@ -1815,7 +1815,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="141"/>
         <source>Go to the next found object</source>
-        <translation>Jít na další nalezený objekt</translation>
+        <translation>Jít na další nalezený předmět</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="149"/>
@@ -1825,7 +1825,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="150"/>
         <source>Go to the previous found object</source>
-        <translation>Jít na předchozí nalezený objekt</translation>
+        <translation>Jít na předchozí nalezený předmět</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="158"/>
@@ -2251,7 +2251,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="534"/>
         <source>Export Specctra DSN</source>
-        <translation type="unfinished"/>
+        <translation>Vyvést Specctra DNS</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="535"/>
@@ -2371,7 +2371,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="638"/>
         <source>Cut the selected object(s) to clipboard</source>
-        <translation>Vyjmout vybrané objekty do schránky</translation>
+        <translation>Vyjmout vybrané předměty do schránky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="646"/>
@@ -2381,7 +2381,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="647"/>
         <source>Copy the selected object(s) to clipboard</source>
-        <translation>Kopírovat vybrané objekty do schránky</translation>
+        <translation>Kopírovat vybrané předměty do schránky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="655"/>
@@ -2391,7 +2391,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="656"/>
         <source>Paste object(s) from the clipboard</source>
-        <translation>Vložit objekt(y) ze schránky</translation>
+        <translation>Vložit předmět(y) ze schránky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="664"/>
@@ -2401,7 +2401,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="665"/>
         <source>Move the selected object(s) to the left</source>
-        <translation>Posunout vybrané objekty doleva</translation>
+        <translation>Posunout vybrané předměty doleva</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="673"/>
@@ -2411,7 +2411,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="674"/>
         <source>Move the selected object(s) to the right</source>
-        <translation>Posunout vybrané objekty doprava</translation>
+        <translation>Posunout vybrané předměty doprava</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="682"/>
@@ -2421,7 +2421,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="683"/>
         <source>Move the selected object(s) up</source>
-        <translation>Posunout vybrané objekty nahoru</translation>
+        <translation>Posunout vybrané předměty nahoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="691"/>
@@ -2431,7 +2431,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="692"/>
         <source>Move the selected object(s) down</source>
-        <translation>Posunout vybrané objekty dolů</translation>
+        <translation>Posunout vybrané předměty dolů</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="700"/>
@@ -2441,7 +2441,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="701"/>
         <source>Rotate the selected object(s) counterclockwise</source>
-        <translation>Otočit vybraný objekt(y) proti směru hodinových ručiček</translation>
+        <translation>Otočit vybraný předmět(y) proti směru hodinových ručiček</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="709"/>
@@ -2451,7 +2451,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="710"/>
         <source>Rotate the selected object(s) clockwise</source>
-        <translation>Otočit vybraný objekt(y) po směru hodinových ručiček</translation>
+        <translation>Otočit vybraný předmět(y) po směru hodinových ručiček</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="718"/>
@@ -2461,7 +2461,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="719"/>
         <source>Mirror the selected object(s) horizontally</source>
-        <translation>Převrátit objekt(y) vodorovně</translation>
+        <translation>Převrátit předmět(y) vodorovně</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="727"/>
@@ -2471,7 +2471,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="728"/>
         <source>Mirror the selected object(s) vertically</source>
-        <translation>Převrátit objekt(y) svisle</translation>
+        <translation>Převrátit předmět(y) svisle</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="736"/>
@@ -2481,7 +2481,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="737"/>
         <source>Flip the selected object(s) horizontally to the other board side</source>
-        <translation>Převrátit vybraný objekt vodorovně na druhou stranu desky.</translation>
+        <translation>Převrátit vybraný předmět vodorovně na druhou stranu desky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="746"/>
@@ -2491,17 +2491,17 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="747"/>
         <source>Flip the selected object(s) vertically to the other board side</source>
-        <translation>Převrátit vybraný objekt svisle na druhou stranu desky.</translation>
+        <translation>Převrátit vybraný předmět svisle na druhou stranu desky.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="756"/>
         <source>Move/Align Objects</source>
-        <translation type="unfinished"/>
+        <translation>Přesunout/Zarovnat předměty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="757"/>
         <source>Move and/or align the selected object(s) vertically or horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Posunout a/nebo zarovnat vybraný předmět (předměty) ve svislém nebo vodorovném směru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="766"/>
@@ -2511,7 +2511,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="767"/>
         <source>Move the selected object(s) to snap the grid</source>
-        <translation>Přesunout vybrané objekty na mřížku</translation>
+        <translation>Přesunout vybrané předměty na mřížku</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="775"/>
@@ -2522,7 +2522,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="776"/>
         <source>Lock the placement of the selected object(s)</source>
-        <translation>Uzamčít pozici vybraných prvků proti pohybu.</translation>
+        <translation>Uzamknout umístění vybraných předmětů</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="784"/>
@@ -2532,7 +2532,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="785"/>
         <source>Unlock the placement of the selected object(s)</source>
-        <translation>Odemčít pozici vybraných prvků proti pohybu.</translation>
+        <translation>Odemknout umístění vybraných předmětů</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="793"/>
@@ -2542,7 +2542,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="794"/>
         <source>Change the line/trace/stroke width of the selected object(s)</source>
-        <translation>Změnit šířku čáry/spoje/tahu vybraného objektu/objektů</translation>
+        <translation>Změnit šířku čáry/spoje/tahu vybraného předmětu/předmětů</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="803"/>
@@ -2562,7 +2562,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="813"/>
         <source>View/modify the object properties</source>
-        <translation>Zobrazit/změnit vlastnosti objektu</translation>
+        <translation>Zobrazit/Upravit vlastnosti předmětu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="821"/>
@@ -2572,12 +2572,12 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="822"/>
         <source>Rename the selected object</source>
-        <translation>Přejmenovat vybraný objekt</translation>
+        <translation>Přejmenovat vybraný předmět</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="831"/>
         <source>Delete the selected object(s)</source>
-        <translation>Smazat vybrané objekty</translation>
+        <translation>Smazat vybraný předmět(y)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="838"/>
@@ -2687,7 +2687,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="927"/>
         <source>Select &amp; modify existing objects</source>
-        <translation>Výběr a modifikace existujících objektů</translation>
+        <translation>Vybrat a upravit stávající předměty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="935"/>
@@ -2747,7 +2747,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="981"/>
         <source>Add graphical text objects</source>
-        <translation>Přidat textové objekty</translation>
+        <translation>Přidat grafické textové předměty</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="989"/>
