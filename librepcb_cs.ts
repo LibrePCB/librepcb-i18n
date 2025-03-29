@@ -2662,7 +2662,7 @@ Použijte ukotvitelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="906"/>
         <source>Use a datasheet drawing as the background for verification</source>
-        <translation type="unfinished"/>
+        <translation>Jako podklad pro ověření použijte výkres z údajového listu.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="914"/>
@@ -3692,7 +3692,7 @@ Použijte ukotvitelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="119"/>
         <source>The component signal requires the attached net to be named &apos;%1&apos;, but it is named &apos;%2&apos;. Either rename the net manually or remove this connection.</source>
-        <translation type="unfinished"/>
+        <translation>Signál součásti vyžaduje připojení s názvem „%1“, ale to má název „%2“. Buď toto připojení ručně přejmenujte, nebo jej odstraňte.</translation>
     </message>
 </context>
 <context>
@@ -3739,7 +3739,7 @@ Použijte ukotvitelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="96"/>
         <source>The component signal is marked as required, but is not connected to any net. Add a wire to the corresponding symbol pin to connect it to a net.</source>
-        <translation type="unfinished"/>
+        <translation>Signál součásti je označen jako požadovaný, ale není připojen k žádnému propojení. Pro jeho připojení přidejte spoj k příslušnému vývodu symbolu.</translation>
     </message>
 </context>
 <context>
@@ -4831,7 +4831,9 @@ Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky přip
         <source>The chosen symbols contain pins, but none of them are connected to component signals. So when adding this component to a schematic, no wires can be attached to them.
 
 To fix this issue, connect the symbol pins to their corresponding component signals in the symbol variant editor dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Zvolené schematické značky obsahují vývody, ale žádný z nich není připojen k signálu součásti. Takže při přidávání této součásti do znázornění k nim nebude možné připojit spoje.
+
+Pokud chcete tento problém vyřešit, připojte vývody schematické značky k jejich odpovídajícím signálům součásti v dialogovém okně editoru variant schematické značky.</translation>
     </message>
 </context>
 <context>
@@ -6107,7 +6109,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1956"/>
         <source>Check for unplaced components...</source>
-        <translation type="unfinished"/>
+        <translation>Prověřit neumístěné součásti...</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1967"/>
@@ -6661,7 +6663,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="447"/>
         <source>Dependent component &quot;%1&quot; not imported.</source>
-        <translation type="unfinished"/>
+        <translation>Závislá součást „%1“ nebyla zavedena.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="455"/>
@@ -6684,7 +6686,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="398"/>
         <source>Skipped component due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Přeskočená součást z důvodu chyby: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="424"/>
@@ -6943,7 +6945,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="153"/>
         <source>This project relies on &lt;a href=&apos;%1&apos;&gt;many contributors&lt;/a&gt;, sponsors and other open-source components like software libraries or icons. Many thanks to all the people and projects supporting LibrePCB!</source>
-        <translation type="unfinished"/>
+        <translation>Tento projekt spoléhá na &lt;a href=&apos;%1&apos;&gt;mnoho prispevatelů&lt;/a&gt;, sponzorů a dalších součástí s otevřeným zdrojovým kódem, jako jsou softwarové knihovny nebo ikony. Děkujeme všem lidem a projektům, kteří podporují LibrePCB!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/dialogs/aboutdialog.cpp" line="159"/>
@@ -6981,7 +6983,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.ui" line="244"/>
         <source>If checked, this dialog will automatically be opened again after finishing placement of the current component.</source>
-        <translation type="unfinished"/>
+        <translation>Pokud je tato volba zaškrtnuta, otevře se tento dialog automaticky znovu po dokončení umístění nynější součásti.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.ui" line="247"/>
@@ -8331,7 +8333,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="332"/>
         <source>&lt;b&gt;Use with caution!&lt;/b&gt; If automatic annular rings are enabled for component-side pads, make sure all pads have set the &apos;component side&apos; property to the correct value. With a wrong configuration, soldering may not be possible due to too small pad area.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Používejte opatrně!&lt;/b&gt; Pokud jsou pro plošky vývodů na straně součásti povolena automatická mezikruží, ujistěte se, že všechny plošky vývodů mají nastavenu správnou hodnotu vlastnosti „strana součásti“. Při nesprávném nastavení nemusí být pájení možné kvůli příliš malé ploše plošky vývodu určené k pájení.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="402"/>
@@ -17704,7 +17706,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="64"/>
         <source>No device or package for the selected component found in the library! Please add a suitable device and package to your workspace library.</source>
-        <translation>Nebyla nalezena součástka ani pouzdro pro vybranou komponentu v knihovně! Prosím přidejte vhodnou součástku a pouzdro do vaší knihovny v pracovním prostoru.</translation>
+        <translation>Nebyla nalezena součástka ani pouzdro pro vybranou součást v knihovně! Prosím, přidejte vhodnou součástku a pouzdro do vaší knihovny v pracovním prostoru.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="92"/>
@@ -17719,7 +17721,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="105"/>
         <source>Use the selected device for all identical components and add them to the board.</source>
-        <translation>Použít vybranou součástku pro všechny identické komponenty a přidat je na desku.</translation>
+        <translation>Použít vybranou součástku pro všechny stejné součásti a přidat je na desku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="108"/>
@@ -17729,7 +17731,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="115"/>
         <source>Add all components to the board, using automatically determined devices.</source>
-        <translation>Přidat všechny komponenty na desku, s použitím automaticky pouužitých součástek.</translation>
+        <translation>Přidat všechny součásti na desku, s použitím automaticky použitých součástek.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.ui" line="118"/>
@@ -17754,7 +17756,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="236"/>
         <source>Component</source>
-        <translation>Komponenta</translation>
+        <translation>Součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/unplacedcomponentsdock.cpp" line="247"/>
@@ -18321,7 +18323,7 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="871"/>
         <source>Skipped component due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Přeskočená součást z důvodu chyby: %1</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="914"/>
