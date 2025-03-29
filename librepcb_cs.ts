@@ -4429,7 +4429,7 @@ Použijte ukotvitelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="36"/>
         <source>No part numbers added</source>
-        <translation>Nejsou přidány žádné části pro montáž</translation>
+        <translation>Není přidáno typové označení dílu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="37"/>
@@ -9004,7 +9004,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="163"/>
         <source>The component in the schematic does not specify the chosen device as compatible and is locked for modifications from the board editor. Either add a corresponding assembly option to the component in the schematic, or remove the lock from the component.</source>
-        <translation type="unfinished"/>
+        <translation>Součást ve znázornění nestanovuje vybranou součástku jako slučitelnou a je uzamknuta pro úpravy v editoru desek. Buď k součásti ve znázornění přidejte odpovídající volbu pro osazení:, nebo odstraňte zámek součásti.</translation>
     </message>
 </context>
 <context>
@@ -10041,17 +10041,17 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="98"/>
         <source>Add a new device assembly option</source>
-        <translation type="unfinished"/>
+        <translation>Přidat novou volbu pro osazení součástky</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="105"/>
         <source>Add a new (alternative) part by MPN</source>
-        <translation type="unfinished"/>
+        <translation>Přidat nový (alternativní) díl podle MPN</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="112"/>
         <source>Choose a different device or part</source>
-        <translation type="unfinished"/>
+        <translation>Vybrat jinou součástku nebo díl</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="119"/>
@@ -10910,7 +10910,7 @@ Upozornění: Tento krok nelze vrátit zpět!</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="329"/>
         <source>Parts for Assembly (BOM/PnP)</source>
-        <translation>Součástky pro osazení (BOM/PnP)</translation>
+        <translation>Díly pro osazení (BOM/PnP)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="356"/>
@@ -11027,7 +11027,7 @@ Upozornění: Tento krok nelze vrátit zpět!</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="503"/>
         <source>Attributes of Selected Part</source>
-        <translation>Atributy vybrané součástky</translation>
+        <translation>Vlastnosti vybraného dílu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="507"/>
@@ -11115,7 +11115,7 @@ Upozornění: Tento krok nelze vrátit zpět!</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="147"/>
         <source>Attributes of Selected Part</source>
-        <translation>Atributy vybrané součástky</translation>
+        <translation>Vlastnosti vybraného dílu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.cpp" line="150"/>
@@ -14093,7 +14093,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="152"/>
         <source>Represents the generic parts which are added to schematics</source>
-        <translation>Představuje všeobecnou součástku přidávanou do schémat</translation>
+        <translation>Představuje všeobecné díly přidávané do znázornění</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="155"/>
@@ -14105,7 +14105,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="182"/>
         <source>Represents the concrete parts which are added to boards and are exported to the BOM</source>
-        <translation>Představuje konkrétní součástku přidávanou na desku PS a vyvedenou v seznamu součástek</translation>
+        <translation>Představuje skutečné díly přidávané na desky a vyvedené v seznamu součástek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="185"/>
