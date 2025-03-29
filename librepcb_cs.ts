@@ -154,7 +154,7 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="107"/>
         <source>Component signal name</source>
-        <translation>Název signálu komponenty</translation>
+        <translation>Název signálu součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="113"/>
@@ -647,7 +647,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1078"/>
         <source>Process %1 component categories...</source>
-        <translation>Zpracovávají se %1 kategorie komponent...</translation>
+        <translation>Zpracovávají se %1 kategorie součástií...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1081"/>
@@ -677,7 +677,7 @@
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1154"/>
         <source>Process %1 components...</source>
-        <translation>Zpracovávají se %1 komponenty...</translation>
+        <translation>Zpracovávají se %1 součásti...</translation>
     </message>
     <message>
         <location filename="../apps/librepcb-cli/commandlineinterface.cpp" line="1173"/>
@@ -720,7 +720,7 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentprefix.h" line="56"/>
         <source>Invalid component prefix: &apos;%1&apos;</source>
-        <translation>Neplatný prefix komponentu: &apos;%1&apos;</translation>
+        <translation>Neplatná předpona součásti: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -728,7 +728,7 @@
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentsymbolvariantitemsuffix.h" line="57"/>
         <source>Invalid component symbol suffix: &apos;%1&apos;</source>
-        <translation>Neplatný sufix schématické značky komponentu: &apos;%1&apos;</translation>
+        <translation>Neplatná přípona schématické značky součásti: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -1587,9 +1587,9 @@ Všimněte si, že spoje musí být přichyceny k počátku plošek pouzdra, aby
         <source>There's a component in the schematics without a corresponding device in the board, so the circuit of the PCB is not complete.
 
 Use the &quot;Place Devices&quot; dock to add the device.</source>
-        <translation>V schématu je komponenta bez odpovídající součástky na desce, takže obvod plošného spoje není kompletní.
+        <translation>Ve znázornění je součást bez odpovídající součástky na desce, takže obvod plošného spoje není kompletní.
 
-Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání součástky.</translation>
+Použijte ukotvitelný dialog &quot;Umístit součástky&quot; k přidání součástky.</translation>
     </message>
 </context>
 <context>
@@ -2902,12 +2902,12 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1125"/>
         <source>Add Component</source>
-        <translation>Přidat součástku</translation>
+        <translation>Přidat součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1126"/>
         <source>Insert components from the workspace libraries</source>
-        <translation>Vložit komponenty z knihoven pracovního prostoru</translation>
+        <translation>Vložit součásti z knihoven pracovního prostoru</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1134"/>
@@ -3263,7 +3263,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1454"/>
         <source>Components</source>
-        <translation>Komponenty</translation>
+        <translation>Součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1457"/>
@@ -3273,7 +3273,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1458"/>
         <source>Add standard component: Resistor</source>
-        <translation>Přidat standardní komponentu: Rezistor</translation>
+        <translation>Přidat standardní součást: Rezistor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1466"/>
@@ -3283,7 +3283,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1467"/>
         <source>Add standard component: Inductor</source>
-        <translation>Přidat standardní komponentu: Cívka</translation>
+        <translation>Přidat standardní součást: Cívka</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1475"/>
@@ -3293,7 +3293,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1476"/>
         <source>Add standard component: Bipolar capacitor</source>
-        <translation>Přidat standardní komponentu: Polarizovaný kondenzátor</translation>
+        <translation>Přidat standardní součást: Polarizovaný kondenzátor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1484"/>
@@ -3303,7 +3303,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1485"/>
         <source>Add standard component: Unipolar capacitor</source>
-        <translation>Přidat standardní komponentu: Nepolarizovaný kondenzátor</translation>
+        <translation>Přidat standardní součást: Nepolarizovaný kondenzátor</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1493"/>
@@ -3313,7 +3313,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1494"/>
         <source>Add standard component: GND supply</source>
-        <translation>Přidat standardní komponentu: GND (napájení)</translation>
+        <translation>Přidat standardní součást: GND (napájení)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1502"/>
@@ -3323,7 +3323,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1503"/>
         <source>Add standard component: VCC supply</source>
-        <translation>Přidat standardní komponentu: VCC (napájení)</translation>
+        <translation>Přidat standardní součást: VCC (napájení)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/editorcommandset.h" line="1510"/>
@@ -3734,7 +3734,7 @@ Použijte dokovatelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="93"/>
         <source>Unconnected component signal: &apos;%1:%2&apos;</source>
-        <translation>Nepřipojený signál komponenty: &apos;%1:%2&apos;</translation>
+        <translation>Nepřipojený signál součásti: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="96"/>
@@ -4451,7 +4451,7 @@ If this device doesn&apos;t represent an orderable part, just ignore this messag
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
-        <translation>Všechny plošky vývodů pouzdra musí mít jedinečné názvy, jinak nebudou správně rozpoznány v editoru součástek. Pokud součástka obsahuje více vývodů se stejným významem (např. více GND vývodů), můžete je později všechny přiřadit jednomu signálu komponenty v editoru součástky.
+        <translation>Všechny plošky vývodů pouzdra musí mít jedinečné názvy, jinak nebudou správně rozpoznány v editoru součástek. Pokud součástka obsahuje více vývodů se stejným významem (např. více GND vývodů), můžete je později všechny přiřadit jednomu signálu součásti v editoru součástky.
 
 Pro všeobecná pouzdra (např. SOT23) platí, že plošky vývodů by měly být pojmenovány číselně a ne funkcionálně (např. názvy &apos;1&apos;, &apos;2&apos;, &apos;3&apos; a ne &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</translation>
     </message>
@@ -4466,7 +4466,7 @@ Pro všeobecná pouzdra (např. SOT23) platí, že plošky vývodů by měly bý
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="42"/>
         <source>All symbol pins must have unique names, otherwise they cannot be distinguished later in the component editor. If your part has several pins with same functionality (e.g. multiple GND pins), you should add only one of these pins to the symbol. The assignment to multiple leads should be done in the device editor instead.</source>
-        <translation>Všechny vývody schematické značky musí mít jedinečné názvy, jinak nebudou správně rozpoznány v editoru součástek. Pokud součástka obsahuje více vývodů se stejným významem (např. více GND vývodů), měli byste vytvořit jen jeden takový vývod ve sch. značce. Přiřazení více plošek vývodů pouzdra k tomuto jednomu vývodu sch. značky bude následně možné v editoru součástek.</translation>
+        <translation>Všechny vývody schematické značky musí mít jedinečné názvy, jinak nebudou správně rozpoznány v editoru součástí. Pokud součástka obsahuje více vývodů se stejným významem (např. více GND vývodů), měli byste vytvořit jen jeden takový vývod ve schematické značce. Přiřazení více plošek vývodů pouzdra k tomuto jednomu vývodu schematické značky bude následně možné v editoru součástek.</translation>
     </message>
 </context>
 <context>
@@ -4479,7 +4479,7 @@ Pro všeobecná pouzdra (např. SOT23) platí, že plošky vývodů by měly bý
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="42"/>
         <source>All component signals must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several pins which are electrically exactly equal (e.g. multiple GND pins), you should add only one of these pins as a component signal. The assignment to multiple pins should be done in the device editor instead.</source>
-        <translation>Všechny signály komponenty musí mít jedinečné názvy, jinak nebudou správně rozpoznány v editoru součástek. Pokud součástka obsahuje více vývodů se stejnou elektrickou funkcí (např. GND), měli byste vytvořit jen jeden takový vývod jako signál komponenty. Přiřazení více vývodů sch. značky k tomuto jednomu signálu bude následně možné v editoru součástek.</translation>
+        <translation>Všechny signály součásti musí mít jedinečné názvy, jinak nebudou správně rozpoznány v editoru součástek. Pokud součástka obsahuje více vývodů se stejnou elektrickou funkcí (např. GND), měli byste vytvořit jen jeden takový vývod jako signál komponenty. Přiřazení více vývodů schematické značky k tomuto jednomu signálu bude následně možné v editoru součástek.</translation>
     </message>
 </context>
 <context>
@@ -4631,9 +4631,9 @@ It looks like this rule is not followed in this footprint. However, for irregula
 Generic parts (e.g. a diode): %1
 Specific parts (e.g. a microcontroller): %2
 Passive parts: Using an attribute, e.g. %3</source>
-        <translation>Komponenty by měli mít nastavenu Výchozí hodnotu. Tato hodnota je prenášena v poli hodnota spolu s komponentou při přidávání do schématu. Hodnota může obsahovat i zvláštní zástupné znaky, které budou později změněny ve schématu. Běžně používanými výchozími hodnotami jsou:
+        <translation>Součásti by měly mít nastavenu Výchozí hodnotu. Tato hodnota je přenášena v poli hodnota spolu se součástí při přidávání do schématu. Hodnota může obsahovat i zvláštní zástupné znaky, které budou později změněny ve schématu. Běžně používanými výchozími hodnotami jsou:
 Všeobecné součástky (např. diody): %1
-Specifické součástky (např. mikrokontrolery): %2
+Zvláštní součástky (např. mikrokontrolery): %2
 Pasivní součástky: s použitím atributu, např. %3</translation>
     </message>
 </context>
@@ -4642,12 +4642,12 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="78"/>
         <source>No component prefix set</source>
-        <translation>Předpona komponenty není nastavena</translation>
+        <translation>Předpona součásti není nastavena</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="79"/>
         <source>Most components should have a prefix defined. The prefix is used to generate the component&apos;s name when adding it to a schematic. For example the prefix &apos;R&apos; (resistor) leads to component names &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos; etc.</source>
-        <translation>Komponenty by měly mít definovánu předponu. Předpona je použita při generování jejich názvu při přidání do schématu. Například předpona &apos;R&apos; (rezistor) zabezpečí vygenerování názvů &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos;, atď.</translation>
+        <translation>Součásti by měly mít stanovenu předponu. Předpona je použita při vytváření jejich názvu při přidání do znázornění. Například předpona &apos;R&apos; (rezistor) zabezpečí vytvoření názvů &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos;, atď.</translation>
     </message>
 </context>
 <context>
@@ -4704,7 +4704,7 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="344"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation>Pouzdra použitá na návrh DPS by měla obsahovat textový řetězec označující název součástky, jinak je nebude možné vidět na plošném spoji (jejich název nebude ve vrstvě popisu). Existuje jen pár výjimek, kdy není potřeba tento text zadat (např. pomocné komponenty nesouvisející se schématem). V těchto případech si této zprávy nevšímejte.</translation>
+        <translation>Pouzdra použitá na návrh DPS by měla obsahovat textový řetězec označující název součásti, jinak je nebude možné vidět na plošném spoji (jejich název nebude ve vrstvě popisu). Je jen pár výjimek, kdy není potřeba tento text zadat (např. pomocné součásti nesouvisející se znázorněním). V těchto případech si této zprávy nevšímejte.</translation>
     </message>
 </context>
 <context>
@@ -4717,7 +4717,7 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="366"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation>Pouzdra použitá na návrh DPS by měla obsahovat textový řetězec označující hodnotu součástky, jinak nebude zobrazena v popisné vrstvě na DPS. Existuje jen pár výjimek, kdy není potřeba tento text zadat (např. pomocné komponenty nesouvisející se schématem). V těchto případech si této zprávy nevšímejte.</translation>
+        <translation>Pouzdra použitá na návrh DPS by měla obsahovat textový řetězec označující hodnotu součásti, jinak nebude zobrazena v popisné vrstvě na DPS. Je jen pár výjimek, kdy není potřeba tento text zadat (např. pomocné součásti nesouvisející se znázorněním). V těchto případech si této zprávy nevšímejte.</translation>
     </message>
 </context>
 <context>
@@ -4743,7 +4743,7 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="58"/>
         <source>Most symbols should have a text element for the component&apos;s name, otherwise you won&apos;t see that name in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a name, for those you can ignore this message.</source>
-        <translation>Schematické značky by měly obsahovat textový řetězec označující název součástky, jinak nebude jejich název viditelný ve schématu. Existuje jen pár výjimek, kdy není potřeba tento text zadat (např. obrys schématu). V těchto případech si této zprávy nevšímejte.</translation>
+        <translation>Schematické značky by měly obsahovat textový řetězec označující název součásti, jinak nebude jejich název viditelný ve znázornění. Je jen pár výjimek, kdy není potřeba tento text zadat (např. obrys znázornění). V těchto případech si této zprávy nevšímejte.</translation>
     </message>
 </context>
 <context>
@@ -4756,7 +4756,7 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="72"/>
         <source>Most symbols should have a text element for the component&apos;s value, otherwise you won&apos;t see that value in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a value, for those you can ignore this message.</source>
-        <translation>Schematické značky by měly obsahovat textový řetězec označující hodnotu součástky, jinak nebude viditelná ve schématu. Existuje jen pár výjimek, kdy není potřeba tento text zadat (např. obrys schématu). V těchto případech si této zprávy nevšímejte.</translation>
+        <translation>Schematické značky by měly obsahovat textový řetězec označující hodnotu součásti, jinak nebude viditelná ve znázornění. Je jen pár výjimek, kdy není potřeba tento text zadat (např. obrys znázornění). V těchto případech si této zprávy nevšímejte.</translation>
     </message>
 </context>
 <context>
@@ -4769,7 +4769,7 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
     <message>
         <location filename="../libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="93"/>
         <source>Every component requires at least one symbol variant, otherwise it can&apos;t be added to schematics.</source>
-        <translation>Každá komponenta vyžaduje alespoň jednu variantu schematické značky, jinak nebude přidána do schématu.</translation>
+        <translation>Každá součást vyžaduje alespoň jednu variantu schematické značky, jinak nebude přidána do znázornění.</translation>
     </message>
 </context>
 <context>
@@ -4812,11 +4812,11 @@ Pasivní součástky: s použitím atributu, např. %3</translation>
 To fix this issue, connect the package pads to their corresponding component signals in the table widget.
 
 If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
-        <translation>Zvolené pouzdro obsahuje plošky ale žádná není připojena k signálu komponentu. Tyto plošky tak nemají žádnou elektrickou funkci a při přidání pouzdra na desku plošných spojů, nebude možné k nim připojit žádny spoj.
+        <translation>Zvolené pouzdro obsahuje plošky ale žádná není připojena k signálu součásti. Tyto plošky tak nemají žádnou elektrickou funkci a při přidání pouzdra na desku plošných spojů, nebude možné k nim připojit žádný spoj.
 
-Řešením je připojení plošek pouzdra k signálům komponentu pomocí tabulky.
+Řešením je připojení plošek pouzdra k signálům součásti pomocí tabulky.
 
-Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky připojovat, můžete tuto zprávu ignorovat.</translation>
+Pokud mají plošky pouze mechanickou funkci a nebude je třeba elektricky připojovat, nemusíte si této zprávy všímat.</translation>
     </message>
 </context>
 <context>
@@ -5078,7 +5078,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="719"/>
         <source>The THT pad has solder paste enabled, which is very unusual since through-hole components are usually not reflow soldered. Also the solder paste could flow into the pads hole, possibly causing troubles during THT assembly. Double-check if this is really what you want.</source>
-        <translation>Na desce s vývody THT je povolena pájecí pasta, což je velmi neobvyklé, protože součástky s průchozími otvory se obvykle nepájejí přetavením pomocí pasty. Pájecí pasta by také mohla vtékat do otvoru desky, což by mohlo způsobit problémy při následném vkládání THT. Dvakrát zkontrolujte, zda to tak opravdu chcete.</translation>
+        <translation>Na desce s vývody THT je povolena pájecí pasta, což je velmi neobvyklé, protože součásti s průchozími otvory se obvykle nepájejí přetavením pomocí pasty. Pájecí pasta by také mohla vtékat do otvoru desky, což by mohlo způsobit potíže při následném vkládání THT. Dvakrát zkontrolujte, zda to tak opravdu chcete.</translation>
     </message>
 </context>
 <context>
@@ -6144,7 +6144,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="309"/>
         <location filename="../libs/librepcb/core/project/circuit/circuit.cpp" line="339"/>
         <source>There is already a component with the name &quot;%1&quot;!</source>
-        <translation>Už existuje komponenta s názvem &quot;%1&quot;!</translation>
+        <translation>Už existuje součást s názvem &quot;%1&quot;!</translation>
     </message>
 </context>
 <context>
@@ -6152,12 +6152,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="203"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation>Komponenta &quot;%1&quot; nemůže být odstraněna, protože se stále používá!</translation>
+        <translation>Součást &quot;%1&quot; nemůže být odstraněna, protože se stále používá!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/componentinstance.cpp" line="241"/>
         <source>All symbols of a component must be placed in the same schematic.</source>
-        <translation>Všechny schematické značky komponenty musí být umístěny na stejném listu schématu.</translation>
+        <translation>Všechny schematické značky součásti musí být umístěny ve stejném listu znázornění.</translation>
     </message>
 </context>
 <context>
@@ -6165,12 +6165,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="118"/>
         <source>The net signal of the component signal &quot;%1:%2&quot; cannot be changed because it is still in use!</source>
-        <translation>Signál spoje komponentu &quot;%1:%2&quot; nemůže být změněn, protože se stále používá!</translation>
+        <translation>Signál spojící součást &quot;%1:%2&quot; nemůže být změněn, protože se stále používá!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="157"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation>Komponenta &quot;%1&quot; nemůže být odstraněna, protože se stále používá!</translation>
+        <translation>Součást &quot;%1&quot; nemůže být odstraněna, protože se stále používá!</translation>
     </message>
 </context>
 <context>
@@ -6224,7 +6224,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="506"/>
         <source>Components were automatically populated with assembly information required for the new, built-in MPN management and assembly variant mechanism. If the BOM or PnP export is used, please review the output and correct MPNs and attributes manually in the component properties dialog where needed.</source>
-        <translation type="unfinished"/>
+        <translation>Součásti byly automaticky naplněny informacemi o osazení, které jsou vyžadovány pro nový vestavěný mechanismus pro správu typových čísel výrobce (MPN) a alternativ osazování. Pokud se používá seznam dílů nebo ukládání dat pick&amp;place, zkontrolujte výstup a v případě potřeby ručně opravte MPN a atributy v dialogovém okně vlastností součásti.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="516"/>
@@ -6971,7 +6971,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.ui" line="14"/>
         <source>Add Component</source>
-        <translation>Přidání komponenty</translation>
+        <translation>Přidat součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.ui" line="34"/>
@@ -6991,7 +6991,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="788"/>
         <source>No component selected</source>
-        <translation>Není vybrána žádná komponenta</translation>
+        <translation>Není vybrána žádná součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="851"/>
@@ -7006,7 +7006,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/addcomponentdialog.cpp" line="1002"/>
         <source>Please select a component and a symbol variant.</source>
-        <translation>Vyberte, prosím, komponentu a variantu schematické značky.</translation>
+        <translation>Vyberte, prosím, součást a variantu schematické značky.</translation>
     </message>
 </context>
 <context>
@@ -7543,7 +7543,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The schematic contains components which are not placed yet on this board. You can add them with the &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Place Devices&lt;/span&gt;&lt;/a&gt; dock.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Schéma obsahuje komponenty, které nejsou zatím umístěny na desce s plošnými spoji. Přidáte je pomocí ukotvitelného dialogu &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Neumístěné součástky&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Znázornění obsahuje součásti, které nejsou zatím umístěny na desce s plošnými spoji. Přidáte je pomocí ukotvitelného dialogu &lt;a href=&quot;PlaceDevicesDock&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Umístit součástky&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="169"/>
@@ -8351,7 +8351,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="429"/>
         <source>Component Side Pads:</source>
-        <translation>Pájecí plošky vnější:</translation>
+        <translation>Plošky vývodů na straně součástí:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/boardsetupdialog.ui" line="451"/>
@@ -8969,12 +8969,12 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdaddcomponenttocircuit.cpp" line="52"/>
         <source>Add component</source>
-        <translation>Přidat komponentu</translation>
+        <translation>Přidat součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdaddcomponenttocircuit.cpp" line="88"/>
         <source>The component with the UUID &quot;%1&quot; does not exist in the workspace library!</source>
-        <translation>Komponenta s UUID &quot;%1&quot; se nenachází v knihovně pracovního prostoru!</translation>
+        <translation>Součást s UUID &quot;%1&quot; se nenachází v knihovně pracovního prostoru!</translation>
     </message>
 </context>
 <context>
@@ -9360,7 +9360,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcompsiginstsetnetsignal.cpp" line="41"/>
         <source>Change component signal net</source>
-        <translation>Změnit signál komponenty</translation>
+        <translation>Změnit signál součásti</translation>
     </message>
 </context>
 <context>
@@ -9368,7 +9368,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdcomponentedit.cpp" line="38"/>
         <source>Edit component metadata</source>
-        <translation>Upravit popisná data komponenty</translation>
+        <translation>Upravit popisná data součásti</translation>
     </message>
 </context>
 <context>
@@ -9377,12 +9377,12 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <location filename="../libs/librepcb/editor/project/cmd/cmdcomponentinstanceadd.cpp" line="46"/>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcomponentinstanceadd.cpp" line="56"/>
         <source>Add component</source>
-        <translation>Přidat komponentu</translation>
+        <translation>Přidat součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcomponentinstanceadd.cpp" line="78"/>
         <source>The component with the UUID &quot;%1&quot; does not exist in the project&apos;s library!</source>
-        <translation>Komponenta s UUID &quot;%1&quot; se nenachází v projektové knihovně.</translation>
+        <translation>Součást s UUID &quot;%1&quot; se nenachází v projektové knihovně.</translation>
     </message>
 </context>
 <context>
@@ -9390,7 +9390,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcomponentinstanceedit.cpp" line="42"/>
         <source>Edit Component</source>
-        <translation>Upravit komponentu</translation>
+        <translation>Upravit součást</translation>
     </message>
 </context>
 <context>
@@ -9398,7 +9398,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/project/cmd/cmdcomponentinstanceremove.cpp" line="42"/>
         <source>Remove component</source>
-        <translation>Odstranit komponentu</translation>
+        <translation>Odstranit součást</translation>
     </message>
 </context>
 <context>
@@ -9414,7 +9414,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdcomponentsignaledit.cpp" line="38"/>
         <source>Edit component signal</source>
-        <translation>Upravit signály komponenty</translation>
+        <translation>Upravit signály součásti</translation>
     </message>
 </context>
 <context>
@@ -9422,7 +9422,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdcomponentsymbolvariantedit.cpp" line="39"/>
         <source>Edit component symbol variant</source>
-        <translation>Upravit varianty schematické značky komponenty</translation>
+        <translation>Upravit variantu schematické značky součásti</translation>
     </message>
 </context>
 <context>
@@ -9430,7 +9430,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="../libs/librepcb/editor/library/cmd/cmdcomponentsymbolvariantitemedit.cpp" line="39"/>
         <source>Edit component symbol variant item</source>
-        <translation>Upravit položku varianty schematické značky komponenty</translation>
+        <translation>Upravit položku varianty schematické značky součásti</translation>
     </message>
 </context>
 <context>
@@ -10194,7 +10194,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.ui" line="17"/>
         <source>Choose Component</source>
-        <translation>Vybrat komponentu</translation>
+        <translation>Vybrat součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.ui" line="31"/>
@@ -10209,17 +10209,17 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="205"/>
         <source>Could not load components</source>
-        <translation>Nepodařilo se nahrát komponenty</translation>
+        <translation>Nepodařilo se nahrát součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="212"/>
         <source>No component selected</source>
-        <translation>Není vybrána žádná komponenta</translation>
+        <translation>Není vybrána žádná součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="222"/>
         <source>Could not load component metadata</source>
-        <translation>Nepodařilo se nahrát popisná data komponenty</translation>
+        <translation>Nepodařilo se nahrát popisná data součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="282"/>
@@ -10229,7 +10229,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="283"/>
         <source>Please select a component.</source>
-        <translation>Vyberte, prosím, komponentu.</translation>
+        <translation>Vyberte, prosím, součást.</translation>
     </message>
 </context>
 <context>
@@ -10287,7 +10287,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="267"/>
         <source>Component should no longer be used.</source>
-        <translation>Komponenta by se nadále neměla používat.</translation>
+        <translation>Součást by se nadále neměla používat.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="274"/>
@@ -10317,7 +10317,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="333"/>
         <source>Component cannot be used in devices.</source>
-        <translation>Komponenta nemůže být použita v součástkách.</translation>
+        <translation>Součást nemůže být použita v součástkách.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="340"/>
@@ -10352,7 +10352,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componenteditorwidget.cpp" line="353"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
-        <translation>Jedná se o (výrobcovu-)specifickou komponentu a ne o všeobecnou?</translation>
+        <translation>Jedná se o zvláštní součást (výrobce) a ne o všeobecnou?</translation>
     </message>
 </context>
 <context>
@@ -10382,7 +10382,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="273"/>
         <source>Component Signal</source>
-        <translation>Signál komponenty</translation>
+        <translation>Signál součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentpinsignalmapmodel.cpp" line="275"/>
@@ -10395,7 +10395,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="95"/>
         <source>Add component signal(s)</source>
-        <translation>Přidat signál(y) komponenty</translation>
+        <translation>Přidat signál(y) součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="108"/>
@@ -10455,7 +10455,7 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.ui" line="17"/>
         <source>Component Symbol Variant</source>
-        <translation>Varianta schematické značky komponenty</translation>
+        <translation>Varianta schematické značky součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/cmp/componentsymbolvarianteditdialog.ui" line="26"/>
@@ -10898,7 +10898,7 @@ Upozornění: Tento krok nelze vrátit zpět!</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="187"/>
         <source>Component</source>
-        <translation>Komponenta</translation>
+        <translation>Součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="298"/>
@@ -10994,17 +10994,17 @@ Upozornění: Tento krok nelze vrátit zpět!</translation>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="328"/>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="409"/>
         <source>Component not found!</source>
-        <translation>Komponenta nenalezena!</translation>
+        <translation>Součást nenalezena!</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="336"/>
         <source>Change component</source>
-        <translation>Změnit komponentu</translation>
+        <translation>Změnit součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="351"/>
         <source>Could not set component</source>
-        <translation>Nepodařilo se nastavit komponentu</translation>
+        <translation>Nepodařilo se nastavit součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="368"/>
@@ -11068,7 +11068,7 @@ Upozornění: Tento krok nelze vrátit zpět!</translation>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="101"/>
         <source>Component</source>
-        <translation>Komponenta</translation>
+        <translation>Součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/boardeditor/deviceinstancepropertiesdialog.ui" line="110"/>
@@ -11411,7 +11411,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="257"/>
         <source>Components</source>
-        <translation>Komponenty</translation>
+        <translation>Součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="260"/>
@@ -13283,7 +13283,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="358"/>
         <source>Components</source>
-        <translation>Komponenty</translation>
+        <translation>Součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="361"/>
@@ -13660,7 +13660,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="45"/>
         <source>Component Categories</source>
-        <translation>Kategorie komponenty</translation>
+        <translation>Kategorie součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="88"/>
@@ -13680,7 +13680,7 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="217"/>
         <source>Components</source>
-        <translation>Komponenty</translation>
+        <translation>Součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/lib/libraryoverviewwidget.ui" line="260"/>
@@ -14043,13 +14043,13 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="32"/>
         <source>Used to categorize symbols, components and devices</source>
-        <translation>Využívá se na třídění schematických značek, komponent a součástek</translation>
+        <translation>Využívá se na třídění schematických značek, součástí a součástek</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="35"/>
         <source>Component Category
 (e.g. OpAmps)</source>
-        <translation>Kategorie komponenty
+        <translation>Kategorie součásti
 (např. operační zesilovače)</translation>
     </message>
     <message>
@@ -14097,8 +14097,8 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="155"/>
         <source>Component
 (e.g. SingleOpAmp)</source>
-        <translation>Komponenta
-(např. SingleOpAmp)</translation>
+        <translation>Součást
+(např. Jednoduchý operační zesilovač)</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_choosetype.ui" line="182"/>
@@ -14134,12 +14134,12 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentpinsignalmap.ui" line="14"/>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentpinsignalmap.ui" line="17"/>
         <source>Component Pin-Signal-Map</source>
-        <translation>Mapa vývodů komponenty</translation>
+        <translation>Mapa vývodů součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentpinsignalmap.ui" line="20"/>
         <source>Connect the symbol pins to their corresponding component signals.</source>
-        <translation>Připojit značky vývodů k odpovídajícím signálům komponenty.</translation>
+        <translation>Připojit značky vývodů k odpovídajícím signálům součásti</translation>
     </message>
 </context>
 <context>
@@ -14148,12 +14148,12 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="14"/>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="17"/>
         <source>Component Properties</source>
-        <translation>Vlastnosti komponenty</translation>
+        <translation>Vlastnosti součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="20"/>
         <source>Set the component and the package of the new component.</source>
-        <translation>Nastavte komponentu a pouzdro pro novou komponentu.</translation>
+        <translation>Nastavte součást a pouzdro pro novou součást.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="29"/>
@@ -14163,7 +14163,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="36"/>
         <source>Component cannot be used in devices and boards.</source>
-        <translation>Komponenta nemůže být použita v součástkách a na deskách.</translation>
+        <translation>Součást nemůže být použita v součástkách a na deskách.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentproperties.ui" line="43"/>
@@ -14187,12 +14187,12 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentsignals.ui" line="14"/>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentsignals.ui" line="17"/>
         <source>Component Signals</source>
-        <translation>Signály komponenty</translation>
+        <translation>Signály součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentsignals.ui" line="20"/>
         <source>Define all electrical signals of the component (often equals to its symbol pins).</source>
-        <translation>Definujte všechny elektrické signály komponenty (obyčejně bývají stejné jako vývody schematické značky).</translation>
+        <translation>Stanovte všechny elektrické signály součásti (obyčejně bývají stejné jako vývody schematické značky).</translation>
     </message>
 </context>
 <context>
@@ -14201,12 +14201,12 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentsymbols.ui" line="14"/>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentsymbols.ui" line="17"/>
         <source>Component Symbols</source>
-        <translation>Schematické značky komponenty</translation>
+        <translation>Schematické značky součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_componentsymbols.ui" line="20"/>
         <source>Add all symbols which are required to represent this component.</source>
-        <translation>Přidat všechny schematické značky potřebné v této komponentě.</translation>
+        <translation>Přidat všechny schematické značky potřebné v této součásti.</translation>
     </message>
 </context>
 <context>
@@ -14234,12 +14234,12 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="20"/>
         <source>Set the component and the package of the new device.</source>
-        <translation>Nastavte komponentu a pouzdro pro novou součástku.</translation>
+        <translation>Nastavte součást a pouzdro pro novou součástku.</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="26"/>
         <source>Component</source>
-        <translation>Komponenta</translation>
+        <translation>Součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.ui" line="60"/>
@@ -14261,7 +14261,7 @@ Nastavení může být yrušeno v dialogu nastavení pracovního prostoru.</tran
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="114"/>
         <source>No component selected</source>
-        <translation>Není vybrána žádná komponenta</translation>
+        <translation>Není vybrána žádná součást</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/library/newelementwizard/newelementwizardpage_deviceproperties.cpp" line="142"/>
@@ -16741,7 +16741,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="745"/>
         <source>Components</source>
-        <translation>Komponenty</translation>
+        <translation>Součásti</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1045"/>
@@ -16816,12 +16816,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="351"/>
         <source>Add Component to Schematic</source>
-        <translation>Přidat komponentu do schématu</translation>
+        <translation>Přidat součást do schématu</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="429"/>
         <source>The component with the UUID &quot;%1&quot; does not have any symbol.</source>
-        <translation>Komponenta s UUID &quot;%1&quot; neobsahuje žádnou schematickou značku.</translation>
+        <translation>Součást s UUID &quot;%1&quot; neobsahuje žádnou schematickou značku.</translation>
     </message>
 </context>
 <context>
@@ -17420,7 +17420,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="46"/>
         <source>Component:</source>
-        <translation>Komponenta:</translation>
+        <translation>Součást:</translation>
     </message>
     <message>
         <location filename="../libs/librepcb/editor/project/schematiceditor/symbolinstancepropertiesdialog.ui" line="78"/>
