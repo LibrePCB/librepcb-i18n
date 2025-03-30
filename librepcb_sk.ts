@@ -1279,12 +1279,12 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1460"/>
         <source>Invalid via in net &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
-        <translation type="unfinished"/>
+        <translation>Neplatný prechod v prepojení: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1462"/>
         <source>The via is only drilled between one layer and is therefore invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Priechod je navŕtaná len v jednej vrstve a preto je neplatný.</translation>
     </message>
 </context>
 <context>
@@ -3424,12 +3424,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1599"/>
         <source>New Window</source>
-        <translation type="unfinished"/>
+        <translation>Nové okno</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1600"/>
         <source>Open a new window</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť v novom okne</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1608"/>
@@ -3509,32 +3509,32 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1675"/>
         <source>User Manual &amp;&amp; Tutorials</source>
-        <translation type="unfinished"/>
+        <translation>Používateľská príručka &amp;&amp; návody</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1676"/>
         <source>Open the online user manual in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť online používateľskú príručku v internetovom prehliadači</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1684"/>
         <source>Give Feedback &amp;&amp; Get Support</source>
-        <translation type="unfinished"/>
+        <translation>Poskytnúť spätnú väzbu &amp;&amp; získať podporu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1685"/>
         <source>Open the support page in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť stránky podpory v internetovom prehliadači</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1693"/>
         <source>Support the LibrePCB Project</source>
-        <translation type="unfinished"/>
+        <translation>Podporiť projekt LibrePCB</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1694"/>
         <source>Open the donation page in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Otvorenie darovacej stránky v internetovom prehliadači</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1702"/>
@@ -4005,12 +4005,12 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/job/interactivehtmlbomoutputjob.cpp" line="40"/>
         <source>Interactive Bill of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Interaktívny zoznam súčiastok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/interactivehtmlbomoutputjob.h" line="111"/>
         <source>Interactive Bill Of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Interaktívny zoznam súčiastok</translation>
     </message>
 </context>
 <context>
@@ -12699,22 +12699,22 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="110"/>
         <source>Older Application Version Used</source>
-        <translation type="unfinished"/>
+        <translation>Použitá staršia verzia aplikácie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="111"/>
         <source>This workspace was already used with a newer version of LibrePCB. This is fine, just note that any changes in libraries and workspace settings won&apos;t be available in newer versions of LibrePCB.</source>
-        <translation type="unfinished"/>
+        <translation>Tento pracovný priestor bol už použitý s novšou verziou LibrePCB. Je to v poriadku, len si uvedomte, že všetky zmeny v knižniciach a nastaveniach pracovného priestoru nebudú dostupné v novších verziách LibrePCB.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="124"/>
         <source>No Libraries Installed</source>
-        <translation type="unfinished"/>
+        <translation>Nie sú nainštalované žiadne knižnice</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="125"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should open the libraries panel to add some libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Tento pracovný priestor neobsahuje žiadne knižnice, ktoré sú nevyhnutné na tvorbu a úpravu projektov. Mali by ste otvoriť panel knižníc a pridať niektoré knižnice.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="128"/>
@@ -12724,12 +12724,12 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="141"/>
         <source>Application is Not Installed</source>
-        <translation type="unfinished"/>
+        <translation>Aplikácia nie je nainštalovaná</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="142"/>
         <source>This application executable does not seem to be integrated into your desktop environment. If desired, install it now to allow opening LibrePCB projects through the file manager. Click the button for details, or do it from the preferences dialog at any time.</source>
-        <translation type="unfinished"/>
+        <translation>Zdá sa, že tento spustiteľný súbor aplikácie nie je integrovaný do prostredia pracovnej plochy. V prípade potreby ho nainštalujte teraz, aby ste mohli otvárať projekty LibrePCB prostredníctvom správcu súborov. Kliknutím na tlačidlo získate podrobnosti, alebo to môžete kedykoľvek urobiť z dialógového okna predvolieb.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="146"/>
@@ -12739,17 +12739,17 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="161"/>
         <source>Scanning Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Skenovanie knižníc</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="162"/>
         <source>The internal libraries database is beeing updated. This may take a few minutes and in the mean time you might see outdated information about libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Interná databáza knižníc sa aktualizuje. Môže to trvať niekoľko minút a medzitým sa môžu zobraziť neaktuálne informácie o knižniciach.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="178"/>
         <source>Scanning Libraries Failed</source>
-        <translation type="unfinished"/>
+        <translation>Skenovanie knižníc zlyhalo</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="243"/>
@@ -13114,7 +13114,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="40"/>
         <source>Interactive HTML bill of materials (BOM) export.</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať interaktívny zoznam súčiastok (BOM)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="57"/>
@@ -18457,7 +18457,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <location filename="share/applications/org.librepcb.LibrePCB.desktop.i18n" line="2"/>
         <source>PCB Designer</source>
         <comment>GenericName key of *.desktop file</comment>
-        <translation type="unfinished"/>
+        <translation>Návrhár plošných spojov</translation>
     </message>
 </context>
 <context>
@@ -18473,12 +18473,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="231"/>
         <source>Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Rýchly prístup</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="251"/>
         <source>Workspace Projects</source>
-        <translation type="unfinished"/>
+        <translation>Projekty pracovnej plochy</translation>
     </message>
 </context>
 <context>
@@ -18486,27 +18486,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="134"/>
         <source>Support the LibrePCB project with a donation to keep the development and maintenance ongoing ‒ Thank you!</source>
-        <translation type="unfinished"/>
+        <translation>Podporte darom vývoj a údržbu projektu LibrePCB – Ďakujeme!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="42"/>
         <source>Get Started With LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>Začať pracovať s LibrePCB</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="73"/>
         <source>Video Tutorials</source>
-        <translation type="unfinished"/>
+        <translation>Video návody</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="74"/>
         <source>Open video tutorials in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť video návody v internetovom prehliadači</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="84"/>
         <source>User Manual &amp; Getting Started Guide</source>
-        <translation type="unfinished"/>
+        <translation>Používateľská príručka a úvodná príručka</translation>
     </message>
 </context>
 <context>
@@ -18514,7 +18514,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="106"/>
         <source>Open Workspace Folder</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť adresár prac. priestoru</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="145"/>
@@ -18545,12 +18545,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/notificationspopup.slint" line="167"/>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Upozornenia</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/notificationspopup.slint" line="216"/>
         <source>Too many notifications to display (%1 hidden).</source>
-        <translation type="unfinished"/>
+        <translation>Príliš veľa upozornení na zobrazenie (%1 skryté).</translation>
     </message>
 </context>
 <context>
@@ -18558,32 +18558,32 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="62"/>
         <source>Open the project</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť projekt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="72"/>
         <source>Pin to Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Pripnúť k rýchleho prístupu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="72"/>
         <source>Unpin from Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Odopnúť z rýchleho prístupu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="75"/>
         <source>Pin/unpin the project to the quick access</source>
-        <translation type="unfinished"/>
+        <translation>Pripnúť/odopnúť projekt z rýchleho prístupu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="86"/>
         <source>Remove From Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť z rýchleho prístupu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="88"/>
         <source>Remove the project from the quick access list</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť projekt zo zoznamu rýchleho prístupu</translation>
     </message>
 </context>
 <context>
@@ -18591,7 +18591,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/sidebar.slint" line="134"/>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Domov</translation>
     </message>
 </context>
 <context>
@@ -18604,7 +18604,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/treeview.slint" line="164"/>
         <source>Unpin</source>
-        <translation type="unfinished"/>
+        <translation>Odopnúť</translation>
     </message>
 </context>
 <context>
@@ -18612,7 +18612,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="140"/>
         <source>Open the file or project</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť súbor alebo projekt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="150"/>
@@ -18627,22 +18627,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="173"/>
         <source>Pin to Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Pripnúť k rýchleho prístupu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="173"/>
         <source>Unpin from Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Odopnúť z rýchleho prístupu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="176"/>
         <source>Pin/unpin the project to the quick access</source>
-        <translation type="unfinished"/>
+        <translation>Pripnúť/odopnúť projekt z panelu rýchleho prístupu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="189"/>
         <source>Remove the file or directory from the file system</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť súbor alebo adresár zo súborového systému</translation>
     </message>
 </context>
 </TS>
