@@ -1282,7 +1282,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1462"/>
         <source>The via is only drilled between one layer and is therefore invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Проходка просверлена только между одним слоем и поэтому недействительна.</translation>
     </message>
 </context>
 <context>
@@ -2197,22 +2197,22 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="489"/>
         <source>Import KiCad Library</source>
-        <translation type="unfinished"/>
+        <translation>Импорт библиотеки KiCad</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="490"/>
         <source>Import symbols and footprints from KiCad libraries</source>
-        <translation type="unfinished"/>
+        <translation>Импорт символов и чертежей из библиотек KiCad</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="498"/>
         <source>Import Specctra SES</source>
-        <translation type="unfinished"/>
+        <translation>Импорт Specctra SES</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="499"/>
         <source>Import a Specctra session, e.g. from external autorouters</source>
-        <translation type="unfinished"/>
+        <translation>Импорт сеанса Specctra, например, из внешних автомаршрутизаторов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="507"/>
@@ -2247,12 +2247,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="534"/>
         <source>Export Specctra DSN</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт Specctra DSN</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="535"/>
         <source>Export PCB to Specctra format for external autorouters etc.</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт печатных плат в формат Specctra для внешних авторулевых и т.д.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="543"/>
@@ -2653,12 +2653,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="905"/>
         <source>Set/Unset Background Image</source>
-        <translation type="unfinished"/>
+        <translation>Установить/отменить фоновое изображение</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="906"/>
         <source>Use a datasheet drawing as the background for verification</source>
-        <translation type="unfinished"/>
+        <translation>Используйте чертеж технического паспорта в качестве фона для проверки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="914"/>
