@@ -6871,144 +6871,6 @@ You need at least LibrePCB %1 to open it.
     </message>
 </context>
 <context>
-    <name>librepcb::editor::AboutDialog</name>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.ui" line="14"/>
-        <source>About LibrePCB</source>
-        <translation>Про LibrePCB</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.ui" line="101"/>
-        <source>About</source>
-        <translation>Про програму</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.ui" line="124"/>
-        <source>Contributing</source>
-        <translation>Співпраця</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.ui" line="147"/>
-        <source>Credits</source>
-        <translation>Подяки</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.ui" line="291"/>
-        <source>Details</source>
-        <translation>Деталі</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.ui" line="325"/>
-        <source>Click on the link to copy the text into the clipboard.</source>
-        <translation>Натисніть на посилання, щоб скопіювати текст у буфер обміну.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.ui" line="328"/>
-        <source>When reporting an issue, please &lt;a href=&apos;copy&apos;&gt;copy this text&lt;/a&gt; into the report.</source>
-        <translation>При повідомленні про проблему, будь ласка, &lt;a href=&apos;copy&apos;&gt;скопіюйте цей текст&lt;/a&gt; в звіт.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="60"/>
-        <source>Copied!</source>
-        <translation>Скопійовано!</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="88"/>
-        <source>LibrePCB is a free &amp;amp; open source schematic/layout-editor. It is mainly developed by Urban Bruhin, with the support of &lt;a href=&apos;%1&apos;&gt;many other contributors&lt;/a&gt;.</source>
-        <translation>LibrePCB - це безкоштовний &amp;amp; вільний редактор схеми / макету. Він розробляється в основному Urban Bruhin, з підтримкою &lt;a href=&apos;%1&apos;&gt;багатьох інших учасників&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="93"/>
-        <source>Links</source>
-        <translation>Посилання</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="95"/>
-        <source>For more information, check out &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; or our &lt;a href=&apos;%2&apos;&gt;GitHub repository&lt;/a&gt;.</source>
-        <translation>Для отримання додаткової інформації, перегляньте &lt;a href=&apos;%1&apos;&gt;librepcb.org&lt;/a&gt; або наш &lt;a href=&apos;%2&apos;&gt;репозиторій GitHub&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="101"/>
-        <source>Help</source>
-        <translation>Допомога</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="103"/>
-        <source>If you need help, please check out the &lt;a href=&apos;%1&apos;&gt;documentation&lt;/a&gt; or &lt;a href=&apos;%2&apos;&gt;contact us&lt;/a&gt;.</source>
-        <translation>Якщо вам потрібна допомога, будь ласка, перегляньте &lt;a href=&apos;%1&apos;&gt;документацію&lt;/a&gt; або &lt;a href=&apos;%2&apos;&gt;зв&apos;яжіться з нами&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="107"/>
-        <source>License</source>
-        <translation>Ліцензія</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="109"/>
-        <source>LibrePCB is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text &lt;a href=&apos;%1&apos;&gt;in our source code&lt;/a&gt;.</source>
-        <translation>LibrePCB - це вільне програмне забезпечення, що розповсюджується за ліцензією GNU General Public License (GPL) версії 3 або пізніше. Ви можете знайти повний текст ліцензії &lt;a href=&apos;%1&apos;&gt;в нашому вихідному коді&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="123"/>
-        <source>LibrePCB is a community project, and therefore it relies on contributions! There are different ways you can contribute:</source>
-        <translation>LibrePCB - це спільнотний проект, тому він залежить від внесків! Є різні способи, якими ви можете допомогти:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="126"/>
-        <source>Donate</source>
-        <translation>Пожертвувати</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="128"/>
-        <source>Support sustainable development of LibrePCB by donating financially via Patreon, PayPal, Bitcoin or other ways. Check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; for details.</source>
-        <translation>Підтримайте сталу розробку LibrePCB, пожертвувавши фінансово через Patreon, PayPal, Bitcoin або іншими способами. Деталі див. &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="133"/>
-        <source>Improve LibrePCB</source>
-        <translation>Покращити LibrePCB</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="135"/>
-        <source>If you&apos;re interested in helping us to develop LibrePCB, check out &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt; to see how you can contribute!</source>
-        <translation>Якщо ви зацікавлені у допомозі нам у розробці LibrePCB, перегляньте &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, щоб дізнатися, як ви можете допомогти!</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="140"/>
-        <source>Spread The Word</source>
-        <translation>Поширити Слово</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="142"/>
-        <source>Speak about LibrePCB with your friends and colleagues, or write about it in the internet! Write a blogpost, or create a video tutorial. We&apos;re happy if more people can get to know LibrePCB.</source>
-        <translation>Розкажіть про LibrePCB своїм друзям та колегам, або напишіть про це в Інтернеті! Напишіть блог, або створіть відео-посібник. Ми раді, якщо більше людей дізнається про LibrePCB.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="153"/>
-        <source>This project relies on &lt;a href=&apos;%1&apos;&gt;many contributors&lt;/a&gt;, sponsors and other open-source components like software libraries or icons. Many thanks to all the people and projects supporting LibrePCB!</source>
-        <translation>Цей проект залежить від &lt;a href=&apos;%1&apos;&gt;багатьох учасників&lt;/a&gt;, спонсорів та інших відкритих компонентів, таких як програмні бібліотеки або іконки. Багато подяк вісім людям та проектам, що підтримують LibrePCB!</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="159"/>
-        <source>Sponsors</source>
-        <translation>Спонсори</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="161"/>
-        <source>For the list of current sponsors, see &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</source>
-        <translation>Для списку поточних спонсорів див. &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="165"/>
-        <source>Icons</source>
-        <translation>Іконки</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/dialogs/aboutdialog.cpp" line="167"/>
-        <source>Some of the icons used in LibrePCB are provided by &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, thank you!</source>
-        <translation>Деякі з використаних у LibrePCB іконок надані &lt;a href=&apos;%1&apos;&gt;%2&lt;/a&gt;, дякуємо!</translation>
-    </message>
-</context>
-<context>
     <name>librepcb::editor::AddComponentDialog</name>
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.ui" line="14"/>
@@ -7598,145 +7460,145 @@ You need at least LibrePCB %1 to open it.
         <translation>%1 - Редактор плат LibrePCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="889"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="888"/>
         <source>File</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="908"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="907"/>
         <source>Edit</source>
         <translation>Редагувати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="921"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="920"/>
         <source>View</source>
         <translation>Перегляд</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="934"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="933"/>
         <source>Find device...</source>
         <translation>Знайти пристрій...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="948"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="947"/>
         <source>Command</source>
         <translation>Команда</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="957"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="956"/>
         <source>Tools</source>
         <translation>Інструменти</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1141"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1140"/>
         <source>Boards</source>
         <translation>Плати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1377"/>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1583"/>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1611"/>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1629"/>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1718"/>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1789"/>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1845"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1376"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1582"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1610"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1628"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1717"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1788"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1844"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1565"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1564"/>
         <source>Add New Board</source>
         <translation>Додати нову плату</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1565"/>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1593"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1564"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1592"/>
         <source>Choose a name:</source>
         <translation>Оберіть назву:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1566"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1565"/>
         <source>new_board</source>
         <translation>нова_плата</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1574"/>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1602"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1573"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1601"/>
         <source>Invalid name: &apos;%1&apos;</source>
         <translation>Неправильне ім&apos;я: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1593"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1592"/>
         <source>Copy Board</source>
         <translation>Копіювати плату</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1594"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1593"/>
         <source>copy_of_%1</source>
         <translation>копія_%1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1620"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1619"/>
         <source>Remove board</source>
         <translation>Видалити плату</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1621"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1620"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>Ви дійсно впевнені, що хочете видалити плату &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1692"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1691"/>
         <source>Preparing board...</source>
         <translation>Підготовка плати...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1692"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1691"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1735"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1734"/>
         <source>Export STEP Model</source>
         <translation>Експортувати модель у форматі STEP</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1761"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1760"/>
         <source>STEP Export Failure</source>
         <translation>Помилка експорту STEP</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1777"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1776"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>Експортувати IPC D-356A Netlist</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1843"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1842"/>
         <source>Success!</source>
         <translation>Успіх!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1855"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1854"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1888"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1887"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1897"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1896"/>
         <source>Import failed, no changes made to the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1902"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1901"/>
         <source>Specctra SES Import</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1912"/>
+        <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1911"/>
         <source>Close</source>
         <translation>Закрити</translation>
     </message>
@@ -12785,22 +12647,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation>Файли проектів LibrePCB (%1)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="376"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="382"/>
         <source>Could not open project</source>
         <translation>Не вдалося відкрити проект</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="514"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="525"/>
         <source>Restore autosave backup?</source>
         <translation>Відновити резервну копію автозбереження?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="515"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="526"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>Здається, що програма впала останній раз, коли ви відкривали цей проект. Чи хочете ви відновити останню автозбережену резервну копію?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="586"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="603"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -13513,32 +13375,32 @@ Do you want to save them before closing it?</source>
         <translation>Незбережені зміни</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="774"/>
+        <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="773"/>
         <source>File</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="786"/>
+        <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="785"/>
         <source>Edit</source>
         <translation>Редагувати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="799"/>
+        <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="798"/>
         <source>View</source>
         <translation>Перегляд</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="812"/>
+        <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="811"/>
         <source>Filter elements...</source>
         <translation>Фільтруючі елементи...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="827"/>
+        <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="826"/>
         <source>Command</source>
         <translation>Команда</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="835"/>
+        <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="834"/>
         <source>Tools</source>
         <translation>Інструменти</translation>
     </message>
@@ -16759,85 +16621,85 @@ Afterwards the project library can be updated.</source>
         <translation>Ця схема ще не містить жодних компонентів. Використовуйте діалогове вікно &lt;a href=&apos;%1&apos;&gt;Додати компонент&lt;/a&gt; для заповнення. Доброю ідеєю є &lt;a href=&apos;%2&apos;&gt;додати рамку схеми&lt;/a&gt; спочатку.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="664"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="663"/>
         <source>File</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="683"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="682"/>
         <source>Edit</source>
         <translation>Редагувати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="696"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="695"/>
         <source>View</source>
         <translation>Перегляд</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="708"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="707"/>
         <source>Find symbol...</source>
         <translation>Знайти символ...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="722"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="721"/>
         <source>Command</source>
         <translation>Команда</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="731"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="730"/>
         <source>Tools</source>
         <translation>Інструменти</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="744"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="743"/>
         <source>Components</source>
         <translation>Компоненти</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1044"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1043"/>
         <source>Add schematic page</source>
         <translation>Додати сторінку схеми</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1045"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1044"/>
         <source>Choose a name:</source>
         <translation>Оберіть назву:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1046"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1045"/>
         <source>New Page</source>
         <translation>Нова Сторінка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1054"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1053"/>
         <source>Invalid name: &apos;%1&apos;</source>
         <translation>Недійсне ім&apos;я: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1063"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1076"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1096"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1249"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1062"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1075"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1095"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1248"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1086"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1085"/>
         <source>Rename sheet</source>
         <translation>Перейменувати аркуш</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1086"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1085"/>
         <source>Choose new name:</source>
         <translation>Виберіть нову назву:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1221"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1220"/>
         <source>Preparing schematics...</source>
         <translation>Підготовка схем...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1221"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/schematiceditor.cpp" line="1220"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
@@ -17027,7 +16889,7 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::StandardEditorCommandHandler</name>
     <message>
-        <location filename="libs/librepcb/editor/utils/standardeditorcommandhandler.cpp" line="104"/>
+        <location filename="libs/librepcb/editor/utils/standardeditorcommandhandler.cpp" line="98"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -18436,6 +18298,79 @@ Attention: This will be applied immediately and cannot be undone!</source>
     </message>
 </context>
 <context>
+    <name>ui::AboutPanel</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="118"/>
+        <source>View Source Code</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="119"/>
+        <source>Open the source code in the web browser</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="155"/>
+        <source>Details</source>
+        <translation>Деталі</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="156"/>
+        <source>(please copy this into bug reports)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="163"/>
+        <source>Copied!</source>
+        <translation>Скопійовано!</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="163"/>
+        <source>Copy to Clipboard</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="205"/>
+        <source>Credits</source>
+        <translation>Подяки</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="213"/>
+        <source>LibrePCB relies on many contributors, sponsors, open-source software components and artwork.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="214"/>
+        <source>Many thanks to all the people supporting LibrePCB either directly or indirectly!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="226"/>
+        <source>For the list of current sponsors, see %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="266"/>
+        <source>License</source>
+        <translation>Ліцензія</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="277"/>
+        <source>This is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text in our source code.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="66"/>
+        <source>LibrePCB is a free &amp; open source community project. It is operated by %1 with the support of many other contributors.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="67"/>
+        <source>Please consider supporting our hard work with a donation ‒ thank you.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ui::DonateButton</name>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="11"/>
@@ -18487,22 +18422,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::MainMenuBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="106"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="108"/>
         <source>Open Workspace Folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="145"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="147"/>
         <source>View</source>
         <translation>Перегляд</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="174"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="176"/>
         <source>Help</source>
         <translation>Допомога</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="40"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="42"/>
         <source>File</source>
         <translation>Файл</translation>
     </message>
@@ -18566,6 +18501,11 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/sidebar.slint" line="134"/>
         <source>Home</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="170"/>
+        <source>Help / About</source>
         <translation type="unfinished"/>
     </message>
 </context>
