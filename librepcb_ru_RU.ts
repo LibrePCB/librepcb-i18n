@@ -7333,7 +7333,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="529"/>
         <source>Step %1:</source>
-        <translation type="unfinished"/>
+        <translation>Шаг %1:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="531"/>
@@ -7363,12 +7363,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="558"/>
         <source>Too few reference points (2 required).</source>
-        <translation type="unfinished"/>
+        <translation>Слишком мало опорных точек (требуется 2).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="561"/>
         <source>Specify the target coordinates for the chosen reference points.</source>
-        <translation type="unfinished"/>
+        <translation>Укажите целевые координаты для выбранных опорных точек.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="572"/>
@@ -7585,17 +7585,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1887"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Разбор сессии Specctra „%1“...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1896"/>
         <source>Import failed, no changes made to the board.</source>
-        <translation type="unfinished"/>
+        <translation>Импорт не удался, никаких изменений на плате не произошло.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1901"/>
         <source>Specctra SES Import</source>
-        <translation type="unfinished"/>
+        <translation>Specctra SES Импорт</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1911"/>
@@ -9112,47 +9112,47 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="115"/>
         <source>Import From Specctra Session</source>
-        <translation type="unfinished"/>
+        <translation>Импорт из сессии Specctra</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="124"/>
         <source>The specified file is not a Specctra session (SES).</source>
-        <translation type="unfinished"/>
+        <translation>Указанный файл не является сеансом Specctra (SES).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="266"/>
         <source>Specctra session file parsed successfully.</source>
-        <translation type="unfinished"/>
+        <translation>Файл сессии Specctra успешно разобран.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="440"/>
         <source>Component &apos;%1&apos; from Specctra session does not exist in this board.</source>
-        <translation type="unfinished"/>
+        <translation>Компонент „%1“ из сессии Specctra не существует на этой плате.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="448"/>
         <source>Component &apos;%1&apos; has been flipped, which is not supported yet.</source>
-        <translation type="unfinished"/>
+        <translation>Компонент „%1“ был перевернут, что пока не поддерживается.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="472"/>
         <source>The component &apos;%1&apos; does not exist in the Specctra session.</source>
-        <translation type="unfinished"/>
+        <translation>Компонент „%1“ не существует в сессии Specctra.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="483"/>
         <source>The net &apos;%1&apos; from Specctra session does not exist in this project, skipping it.</source>
-        <translation type="unfinished"/>
+        <translation>Сеть „%1“ из сессии Specctra не существует в этом проекте, пропуская ее.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="697"/>
         <source>Updated %1 components (%2 unmodified components skipped).</source>
-        <translation type="unfinished"/>
+        <translation>Обновлен %1 компонент (%2 немодифицированных компонента пропущены).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="700"/>
         <source>Updated %1 net objects (%2 unmodified objects skipped).</source>
-        <translation type="unfinished"/>
+        <translation>Обновлено %1 объектов сети (%2 немодифицированных объекта пропущены).</translation>
     </message>
 </context>
 <context>
@@ -10205,17 +10205,17 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="284"/>
         <source>Datasheet:</source>
-        <translation type="unfinished"/>
+        <translation>Технический паспорт:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="299"/>
         <source>Direct URL to online PDF</source>
-        <translation type="unfinished"/>
+        <translation>Прямой URL-адрес онлайнового PDF-файла</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="306"/>
         <source>Download &amp; open</source>
-        <translation type="unfinished"/>
+        <translation>Скачать и открыть</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componenteditorwidget.ui" line="326"/>
@@ -10713,17 +10713,17 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="548"/>
         <source>Datasheet</source>
-        <translation type="unfinished"/>
+        <translation>Технический паспорт</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="563"/>
         <source>Direct URL to online PDF</source>
-        <translation type="unfinished"/>
+        <translation>Прямой URL-адрес онлайнового PDF-файла</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="570"/>
         <source>Download &amp; open</source>
-        <translation type="unfinished"/>
+        <translation>Скачать и открыть</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/deviceeditorwidget.cpp" line="209"/>
