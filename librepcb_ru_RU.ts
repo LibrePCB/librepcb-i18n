@@ -38,7 +38,7 @@
     <message>
         <location filename="libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="164"/>
         <source>Pad:</source>
-        <translation type="unfinished"/>
+        <translation>Посадка:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/boardeditor/graphicsitems/bgi_footprintpad.cpp" line="170"/>
@@ -810,7 +810,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="625"/>
         <source>Clearance via ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Зазор по контуру платы ↔ &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="628"/>
@@ -1277,7 +1277,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1460"/>
         <source>Invalid via in net &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
-        <translation type="unfinished"/>
+        <translation>Недопустимый via в сети &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1462"/>
@@ -1386,7 +1386,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1295"/>
         <source>Plated slot width: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Ширина паза: %1 &lt; %2 %3</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1299"/>
@@ -4853,7 +4853,7 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="147"/>
         <source>No pins connected in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>В „%1“ нет подключенных контактов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="149"/>
@@ -5085,7 +5085,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="107"/>
         <source>Origin not in center</source>
-        <translation type="unfinished"/>
+        <translation>Происхождение не по центру</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="108"/>
@@ -6032,7 +6032,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="340"/>
         <source>Prepare &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Подготовить „%1“...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="356"/>
@@ -7248,17 +7248,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="14"/>
         <source>Set Background Image</source>
-        <translation type="unfinished"/>
+        <translation>Установить фоновое изображение</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="26"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Сделать скриншот</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="37"/>
         <source>Paste From Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Вставить из буфера обмена</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="48"/>
@@ -7268,62 +7268,62 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="65"/>
         <source>Discard image</source>
-        <translation type="unfinished"/>
+        <translation>Выбросить изображение</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="85"/>
         <source>Specify coordinates of reference points:</source>
-        <translation type="unfinished"/>
+        <translation>Задайте координаты опорных точек:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="324"/>
         <source>Screen %1</source>
-        <translation type="unfinished"/>
+        <translation>Экран %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="362"/>
         <source>Could not take a screenshot. Note that this feature does not work on some systems due to security mechanisms.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось сделать снимок экрана. Обратите внимание, что эта функция не работает на некоторых системах из-за механизмов безопасности.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="378"/>
         <source>No image found in the clipboard.</source>
-        <translation type="unfinished"/>
+        <translation>Изображение не найдено в буфере обмена.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="395"/>
         <source>Choose image</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать изображение</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="402"/>
         <source>Failed to open the selected image file.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось открыть выбранный файл изображения.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="460"/>
         <source>This tool allows you to set a background image (typically a datasheet drawing) in the footprint editor to easily verify the size &amp;amp; position of footprint pads etc. Note that the image won&apos;t appear on the board, it&apos;s only visible in the footprint editor.</source>
-        <translation type="unfinished"/>
+        <translation>Этот инструмент позволяет установить фоновое изображение (обычно чертеж из технического паспорта) в редакторе отпечатков, чтобы легко проверить размеры и расположение площадок для отпечатков и т. д. Обратите внимание, что изображение не будет отображаться на плате, оно будет видно только в редакторе отпечатков.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="468"/>
         <source>Load an image with one of the buttons on the left side.</source>
-        <translation type="unfinished"/>
+        <translation>Загрузите изображение с помощью одной из кнопок слева.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="470"/>
         <source>Draw a line around the footprint to cut out the relevant area.</source>
-        <translation type="unfinished"/>
+        <translation>Проведите линию вокруг отпечатка, чтобы вырезать соответствующую область.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="471"/>
         <source>Rotate/mirror the image.</source>
-        <translation type="unfinished"/>
+        <translation>Поворот/зеркальное отображение изображения.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="473"/>
         <source>Specify two reference points to calculate X/Y scale &amp; offset.</source>
-        <translation type="unfinished"/>
+        <translation>Укажите две опорные точки для расчета масштаба X/Y и смещения.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="479"/>
