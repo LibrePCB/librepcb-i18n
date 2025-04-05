@@ -13094,12 +13094,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="17"/>
         <source>Select Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Выберите библиотеки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="20"/>
         <source>Choose the directory containing KiCad libraries to import.</source>
-        <translation type="unfinished"/>
+        <translation>Выберите каталог, содержащий библиотеки KiCad для импорта.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="26"/>
@@ -13114,12 +13114,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="49"/>
         <source>Select root directory of libraries</source>
-        <translation type="unfinished"/>
+        <translation>Выберите корневой каталог библиотек</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.cpp" line="88"/>
         <source>Choose directory</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать каталог</translation>
     </message>
 </context>
 <context>
@@ -13127,12 +13127,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_parse.ui" line="17"/>
         <source>Scanning Directory</source>
-        <translation type="unfinished"/>
+        <translation>Каталог сканирования</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_parse.ui" line="20"/>
         <source>The selected directory will be scanned for KiCad libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Выбранный каталог будет просканирован на наличие библиотек KiCad.</translation>
     </message>
 </context>
 <context>
@@ -13155,22 +13155,22 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="108"/>
         <source>Assign reasonable categories</source>
-        <translation type="unfinished"/>
+        <translation>Присвоить разумные категории</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="109"/>
         <source>Review/correct pinouts of devices</source>
-        <translation type="unfinished"/>
+        <translation>Просмотр/корректировка распиновки устройств</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="111"/>
         <source>Review/rework geometry of symbols and footprints</source>
-        <translation type="unfinished"/>
+        <translation>Пересмотр/переработка геометрии символов и следов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="113"/>
         <source>Fix remaining warnings shown in the library editor</source>
-        <translation type="unfinished"/>
+        <translation>Исправьте оставшиеся предупреждения, отображаемые в редакторе библиотек</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="145"/>
@@ -13193,7 +13193,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="107"/>
         <source>Already imported</source>
-        <translation type="unfinished"/>
+        <translation>Уже импортировано</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="355"/>
@@ -15391,7 +15391,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="87"/>
         <source>Click on the next pad</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите на следующую панель</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="206"/>
@@ -16175,7 +16175,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="284"/>
         <source>Search datasheet for &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Поиск технического паспорта для &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="352"/>
@@ -16238,12 +16238,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="662"/>
         <source>No datasheet found</source>
-        <translation type="unfinished"/>
+        <translation>Технический паспорт не найден</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="663"/>
         <source>Sorry, no datasheet found for the requested part :-(</source>
-        <translation type="unfinished"/>
+        <translation>Извините, для запрашиваемой детали не найдено ни одного технического описания :-(</translation>
     </message>
 </context>
 <context>
@@ -18186,27 +18186,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="506"/>
         <source>Found %1 symbol libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Найдено %1 библиотек символов.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="507"/>
         <source>Found %1 footprints in %2 libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Найдено %1 отпечатков в %2 библиотеках.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="510"/>
         <source>Found %1 STEP files in %2 libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Найдено %1 файлов STEP в %2 библиотеках.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="530"/>
         <source>Waiting for background library scan to finish...</source>
-        <translation type="unfinished"/>
+        <translation>Ожидание завершения сканирования фоновой библиотеки...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="537"/>
         <source>Parsing libraries...</source>
-        <translation type="unfinished"/>
+        <translation>Парсинг библиотек...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="657"/>
