@@ -7328,7 +7328,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="479"/>
         <source>Important: Make sure to zoom in as much as possible when taking the screenshot, to get a reasonably high resolution!</source>
-        <translation type="unfinished"/>
+        <translation>Важно: при создании скриншота максимально увеличьте его масштаб, чтобы получить достаточно высокое разрешение!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="529"/>
@@ -7343,22 +7343,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="537"/>
         <source>Crop the image by drawing a line with the cursor around the footprint (single click to skip).</source>
-        <translation type="unfinished"/>
+        <translation>Отрежь изображение, проведя курсором линию вокруг отпечатка (для пропуска нажмите одну кнопку мыши).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="541"/>
         <source>Rotate/mirror the image to match the orientation of the footprint.</source>
-        <translation type="unfinished"/>
+        <translation>Поверните/отзеркальте изображение, чтобы оно соответствовало ориентации отпечатка.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="546"/>
         <source>Click into the image to select the first reference point with known X/Y coordinates.</source>
-        <translation type="unfinished"/>
+        <translation>Щелкните на изображении, чтобы выбрать первую опорную точку с известными координатами X/Y.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="552"/>
         <source>Click into the image to select the second reference point with known X/Y coordinates.</source>
-        <translation type="unfinished"/>
+        <translation>Щелкните на изображении, чтобы выбрать вторую опорную точку с известными координатами X/Y.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="558"/>
@@ -7378,7 +7378,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="576"/>
         <source>There is a high deviation between X- and Y scale factor. Please check the reference points.</source>
-        <translation type="unfinished"/>
+        <translation>Наблюдается большое отклонение между коэффициентами масштабирования X и Y. Проверьте опорные точки.</translation>
     </message>
 </context>
 <context>
@@ -13109,7 +13109,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="36"/>
         <source>Note: Currently this feature supports KiCad %1 libraries. Other versions may not work as intended.</source>
-        <translation type="unfinished"/>
+        <translation>Примечание: В настоящее время эта функция поддерживает библиотеки KiCad %1. В других версиях она может работать не так, как задумано.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="49"/>
@@ -13150,7 +13150,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="106"/>
         <source>It is highly recommended to review and rework the imported elements:</source>
-        <translation type="unfinished"/>
+        <translation>Настоятельно рекомендуется просмотреть и переработать импортированные элементы:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="108"/>
@@ -15386,7 +15386,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="82"/>
         <source>(press %1 for single-selection, %2 to change numbering mode, %3 to finish)</source>
-        <translation type="unfinished"/>
+        <translation>( нажать %1 для одиночного выбора, %2 для изменения режима нумерации, %3 для завершения)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="87"/>
@@ -18222,7 +18222,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="665"/>
         <source>Due to the large amount of elements, please be patient during the following steps.</source>
-        <translation type="unfinished"/>
+        <translation>Из-за большого количества элементов, пожалуйста, будьте терпеливы на следующих этапах.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="668"/>
@@ -18349,12 +18349,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="213"/>
         <source>LibrePCB relies on many contributors, sponsors, open-source software components and artwork.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB опирается на множество авторов, спонсоров, компонентов программного обеспечения с открытым исходным кодом и произведений искусства.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="214"/>
         <source>Many thanks to all the people supporting LibrePCB either directly or indirectly!</source>
-        <translation type="unfinished"/>
+        <translation>Большое спасибо всем, кто прямо или косвенно поддерживает LibrePCB!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="226"/>
