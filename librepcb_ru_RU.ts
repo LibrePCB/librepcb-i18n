@@ -12554,7 +12554,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="110"/>
         <source>Older Application Version Used</source>
-        <translation type="unfinished"/>
+        <translation>Используется более старая версия приложения</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="111"/>
@@ -12564,7 +12564,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="124"/>
         <source>No Libraries Installed</source>
-        <translation type="unfinished"/>
+        <translation>Библиотеки не установлены</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="125"/>
@@ -12579,7 +12579,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="141"/>
         <source>Application is Not Installed</source>
-        <translation type="unfinished"/>
+        <translation>Приложение не установлено</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="142"/>
@@ -12594,7 +12594,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="161"/>
         <source>Scanning Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Сканирование библиотек</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="162"/>
@@ -12604,7 +12604,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="178"/>
         <source>Scanning Libraries Failed</source>
-        <translation type="unfinished"/>
+        <translation>Сканирование библиотек не удалось</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="243"/>
@@ -12969,7 +12969,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="40"/>
         <source>Interactive HTML bill of materials (BOM) export.</source>
-        <translation type="unfinished"/>
+        <translation>Интерактивный экспорт спецификаций материалов (BOM) в формате HTML.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="57"/>
@@ -13061,7 +13061,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizard.ui" line="14"/>
         <source>KiCad Library Import</source>
-        <translation type="unfinished"/>
+        <translation>Импорт библиотеки KiCad</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizard.cpp" line="71"/>
@@ -13086,7 +13086,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardcontext.cpp" line="102"/>
         <source>No file or directory selected.</source>
-        <translation type="unfinished"/>
+        <translation>Не выбран файл или каталог.</translation>
     </message>
 </context>
 <context>
@@ -13281,7 +13281,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_start.ui" line="17"/>
         <source>KiCad Library Import</source>
-        <translation type="unfinished"/>
+        <translation>Импорт библиотеки KiCad</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_start.ui" line="20"/>
