@@ -4548,7 +4548,9 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
         <source>Generally the origin (0, 0) should be at the coordinate used for pick&amp;place which is typically in the center of the package body. It should even be (more or less) &lt;b&gt;exactly&lt;/b&gt; in the center, not aligned to a grid (off-grid pads are fine).
 
 It looks like this rule is not followed in this footprint. However, for irregular package shapes or other special cases this warning may not be justified. In such cases, just approve it.</source>
-        <translation type="unfinished"/>
+        <translation>Как правило, начало координат (0, 0) должно находиться в координатах, используемых для pick&amp;place, которые обычно находятся в центре корпуса пакета. Она даже должна быть (более или менее) &lt;b&gt;точно&lt;/b&gt; в центре, а не выровнена по сетке (смещенные площадки вполне подходят).
+
+Похоже, что в данном случае это правило не соблюдается. Однако для неправильных форм упаковки или других особых случаев это предупреждение может быть неоправданным. В таких случаях просто одобрите его.</translation>
     </message>
 </context>
 <context>
@@ -4860,7 +4862,9 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
         <source>The chosen symbols contain pins, but none of them are connected to component signals. So when adding this component to a schematic, no wires can be attached to them.
 
 To fix this issue, connect the symbol pins to their corresponding component signals in the symbol variant editor dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Выбранные символы содержат контакты, но ни один из них не подключен к сигналам компонента. Поэтому при добавлении этого компонента в схему к нему не могут быть подключены провода.
+
+Чтобы исправить эту проблему, подключите контакты символа к соответствующим сигналам компонента в диалоговом окне редактора вариантов символов.</translation>
     </message>
 </context>
 <context>
@@ -5092,7 +5096,9 @@ For THT pads, the origin must be located within a drill hole since on some layer
         <source>Generally the origin (0, 0) should be in the center of the symbol body (roughly, mapped to grid). It's not recommended to have it at pin-1 coordinate, top-left or something like that.
 
 It looks like this rule is not followed in this symbol. However, for irregular symbol shapes this warning may not be justified. In such cases, just approve it.</source>
-        <translation type="unfinished"/>
+        <translation>Как правило, начало координат (0, 0) должно находиться в центре тела символа (грубо говоря, отображаться на сетку). Не рекомендуется располагать его в координатах pin-1, top-left или что-то в этом роде.
+
+Похоже, что в данном символе это правило не соблюдается. Однако для символов неправильной формы это предупреждение может быть неоправданным. В таких случаях просто одобрите его.</translation>
     </message>
 </context>
 <context>
@@ -7003,7 +7009,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="264"/>
         <source>&lt;i&gt;&lt;b&gt;To import KiCad or Eagle libraries&lt;/b&gt;, create a new library called e.g. &lt;a href=&quot;%1&quot;&gt;KiCad Import&lt;/a&gt; or &lt;a href=&quot;%2&quot;&gt;Eagle Import&lt;/a&gt;. Then open the new library and start the import wizard via &amp;quot;File -&amp;gt; Import&amp;quot;.&lt;/i&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;i&gt;&lt;b&gt;Чтобы импортировать библиотеки KiCad или Eagle&lt;/b&gt;, создайте новую библиотеку, например, &lt;a href=&quot;%1&quot;&gt;KiCad Import&lt;/a&gt; или &lt;a href=&quot;%2&quot;&gt;Eagle Import&lt;/a&gt;. Затем откройте новую библиотеку и запустите мастер импорта с помощью команды &amp;quot;Файл -&amp;gt; Импорт&amp;quot;.&lt;/i&gt;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="275"/>
@@ -7338,7 +7344,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="531"/>
         <source>Note that the two points must be located diagonally to get a large distance in both X- and Y-direction.</source>
-        <translation type="unfinished"/>
+        <translation>Обратите внимание, что две точки должны быть расположены по диагонали, чтобы получить большое расстояние по оси X и Y.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="537"/>
@@ -7373,7 +7379,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="572"/>
         <source>There&apos;s not enough distance in either X- or Y direction. Choose reference points with a large distance in both directions.</source>
-        <translation type="unfinished"/>
+        <translation>Недостаточно расстояния в направлении X или Y. Выберите опорные точки с большим расстоянием в обоих направлениях.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="576"/>
@@ -7580,7 +7586,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1854"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
-        <translation type="unfinished"/>
+        <translation>Это новая функция, и мы смогли протестировать ее только на очень немногих внешних маршрутизаторах. Если у вас возникнут проблемы с совместимостью с вашим маршрутизатором, пожалуйста, сообщите нам об этом!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/boardeditor/boardeditor.cpp" line="1887"/>
@@ -12559,7 +12565,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="111"/>
         <source>This workspace was already used with a newer version of LibrePCB. This is fine, just note that any changes in libraries and workspace settings won&apos;t be available in newer versions of LibrePCB.</source>
-        <translation type="unfinished"/>
+        <translation>Это рабочее пространство уже использовалось в более новой версии LibrePCB. Это нормально, только учтите, что любые изменения в библиотеках и настройках рабочего пространства не будут доступны в новых версиях LibrePCB.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="124"/>
@@ -12569,7 +12575,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="125"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should open the libraries panel to add some libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Это рабочее пространство не содержит библиотек, которые необходимы для создания и изменения проектов. Чтобы добавить библиотеки, необходимо открыть панель библиотек.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="128"/>
@@ -12584,7 +12590,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="142"/>
         <source>This application executable does not seem to be integrated into your desktop environment. If desired, install it now to allow opening LibrePCB projects through the file manager. Click the button for details, or do it from the preferences dialog at any time.</source>
-        <translation type="unfinished"/>
+        <translation>Этот исполняемый файл приложения, похоже, не интегрирован в среду рабочего стола. При желании установите его сейчас, чтобы иметь возможность открывать проекты LibrePCB через файловый менеджер. Щелкните на кнопке, чтобы узнать подробности, или сделайте это из диалога настроек в любое время.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="146"/>
@@ -12599,7 +12605,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="162"/>
         <source>The internal libraries database is beeing updated. This may take a few minutes and in the mean time you might see outdated information about libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Внутренняя база данных библиотек обновляется. Это может занять несколько минут, и в это время вы можете увидеть устаревшую информацию о библиотеках.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="178"/>
@@ -13078,7 +13084,9 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <source>An operation is currently in progress. Closing this window will abort it.
 
 Do you really want to close it?</source>
-        <translation type="unfinished"/>
+        <translation>В настоящее время выполняется операция. Закрытие этого окна приведет к ее прерыванию.
+
+Вы действительно хотите закрыть его?</translation>
     </message>
 </context>
 <context>
@@ -13104,7 +13112,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="26"/>
         <source>Select the directory where all *.kicad_sym files, *.pretty folders and *.3dshapes folders are located. They may be located in a subdirectory (maximum 1 nesting level).</source>
-        <translation type="unfinished"/>
+        <translation>Выберите каталог, в котором находятся все файлы *.kicad_sym, папки *.pretty и *.3dshapes. Они могут быть расположены в подкаталоге (не более 1 уровня вложенности).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="36"/>
@@ -13286,7 +13294,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_start.ui" line="20"/>
         <source>Kick-start the migration from KiCad to LibrePCB by importing your KiCad library elements into the currently opened LibrePCB library.</source>
-        <translation type="unfinished"/>
+        <translation>Начните переход с KiCad на LibrePCB, импортировав элементы библиотеки KiCad в открытую в данный момент библиотеку LibrePCB.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_start.ui" line="32"/>
@@ -13296,7 +13304,12 @@ Do you really want to close it?</source>
   &lt;li&gt;Pins, pads and component signals should not be renamed after the import. Otherwise, future KiCad imports referencing these things will fail.&lt;/li&gt;
   &lt;li&gt;LibrePCB libraries are organized differently to KiCad libraries, thus the quality of the imported elements will likely not be as high as when creating them manually from scratch. Some manual rework might be needed after the import.&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Пожалуйста, примите во внимание эти важные замечания при использовании данного инструмента:
+&lt;ul&gt;
+&lt;li&gt;Настоятельно рекомендуется создать отдельную библиотеку LibrePCB для элементов KiCad, чтобы сохранить четкое разделение с неимпортируемыми элементами и избежать конфликтов имен.&lt;/li&gt;
+&lt;li&gt;Не следует переименовывать контакты, колодки и сигналы компонентов после импорта. В противном случае последующие импорты KiCad, ссылающиеся на эти элементы, будут неудачными.
+&lt;li&gt;Библиотеки LibrePCB организованы иначе, чем библиотеки KiCad, поэтому качество импортированных элементов, скорее всего, будет не таким высоким, как при создании их вручную с нуля. После импорта может потребоваться некоторая ручная доработка.&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
 </context>
 <context>
@@ -18272,7 +18285,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="942"/>
         <source>If you experience any issue, please &lt;a href=&quot;%1&quot;&gt;let us know&lt;/a&gt;. Thanks!</source>
-        <translation type="unfinished"/>
+        <translation>Если у вас возникнут какие-либо проблемы, пожалуйста&lt;a href=&quot;%1&quot;&gt;, сообщите нам&lt;/a&gt;. Спасибо!</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="948"/>
@@ -18369,17 +18382,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="277"/>
         <source>This is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text in our source code.</source>
-        <translation type="unfinished"/>
+        <translation>Это свободное программное обеспечение, выпускаемое под лицензией GNU General Public License (GPL) версии 3 или более поздней. Полный текст лицензии вы можете найти в нашем исходном коде.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="66"/>
         <source>LibrePCB is a free &amp; open source community project. It is operated by %1 with the support of many other contributors.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB - это свободный проект сообщества с открытым исходным кодом. Он управляется %1 при поддержке многих других участников.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="67"/>
         <source>Please consider supporting our hard work with a donation ‒ thank you.</source>
-        <translation type="unfinished"/>
+        <translation>Пожалуйста, поддержите наш труд пожертвованием  -  спасибо.</translation>
     </message>
 </context>
 <context>
@@ -18408,7 +18421,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="134"/>
         <source>Support the LibrePCB project with a donation to keep the development and maintenance ongoing ‒ Thank you!</source>
-        <translation type="unfinished"/>
+        <translation>Поддержите проект LibrePCB пожертвованием для продолжения разработки и обслуживания - спасибо!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="42"/>
