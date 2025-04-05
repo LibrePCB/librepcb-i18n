@@ -18212,12 +18212,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="657"/>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="935"/>
         <source>Aborted.</source>
-        <translation type="unfinished"/>
+        <translation>Прерван.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="660"/>
         <source>Found %1 symbols and %2 footprints.</source>
-        <translation type="unfinished"/>
+        <translation>Найдено %1 символов и %2 следов.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="665"/>
@@ -18227,17 +18227,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="668"/>
         <source>Please review the messages (if any) before continuing.</source>
-        <translation type="unfinished"/>
+        <translation>Прежде чем продолжить, просмотрите сообщения (если они есть).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="685"/>
         <source>Importing libraries...</source>
-        <translation type="unfinished"/>
+        <translation>Импорт библиотек...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="784"/>
         <source>Skipped footprint due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Пропущенный след из-за ошибки: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="839"/>
@@ -18257,17 +18257,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="923"/>
         <source>Skipped symbol library due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Пропущена библиотека символов из-за ошибки: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="939"/>
         <source>Done! Please check all messages (if any) before proceeding.</source>
-        <translation type="unfinished"/>
+        <translation>Готово! Пожалуйста, проверьте все сообщения (если они есть), прежде чем продолжить.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="941"/>
         <source>Note that the importer might not cover all cases correctly yet.</source>
-        <translation type="unfinished"/>
+        <translation>Обратите внимание, что импортер может пока не охватить все случаи корректно.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="942"/>
@@ -18306,7 +18306,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <location filename="share/applications/org.librepcb.LibrePCB.desktop.i18n" line="2"/>
         <source>PCB Designer</source>
         <comment>GenericName key of *.desktop file</comment>
-        <translation type="unfinished"/>
+        <translation>Дизайнер печатных плат</translation>
     </message>
 </context>
 <context>
@@ -18314,12 +18314,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="118"/>
         <source>View Source Code</source>
-        <translation type="unfinished"/>
+        <translation>Посмотреть исходный код</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="119"/>
         <source>Open the source code in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Откройте исходный код в веб-браузере</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="155"/>
@@ -18329,7 +18329,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="156"/>
         <source>(please copy this into bug reports)</source>
-        <translation type="unfinished"/>
+        <translation>(пожалуйста, скопируйте это в сообщения об ошибках)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="163"/>
@@ -18339,7 +18339,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="163"/>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Копировать в буфер обмена</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="205"/>
@@ -18359,7 +18359,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="226"/>
         <source>For the list of current sponsors, see %1.</source>
-        <translation type="unfinished"/>
+        <translation>Список текущих спонсоров см. в разделе %1.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="266"/>
@@ -18395,12 +18395,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="231"/>
         <source>Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Быстрый доступ</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="251"/>
         <source>Workspace Projects</source>
-        <translation type="unfinished"/>
+        <translation>Проекты рабочего пространства</translation>
     </message>
 </context>
 <context>
@@ -18413,22 +18413,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="42"/>
         <source>Get Started With LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>Начните работу с LibrePCB</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="73"/>
         <source>Video Tutorials</source>
-        <translation type="unfinished"/>
+        <translation>Видеоуроки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="74"/>
         <source>Open video tutorials in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Открыть видеоуроки в веб-браузере</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="84"/>
         <source>User Manual &amp; Getting Started Guide</source>
-        <translation type="unfinished"/>
+        <translation>Руководство пользователя и руководство по началу работы</translation>
     </message>
 </context>
 <context>
@@ -18436,7 +18436,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="108"/>
         <source>Open Workspace Folder</source>
-        <translation type="unfinished"/>
+        <translation>Открыть папку с рабочей областью</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="147"/>
@@ -18467,12 +18467,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/notificationspopup.slint" line="167"/>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Уведомления</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/notificationspopup.slint" line="216"/>
         <source>Too many notifications to display (%1 hidden).</source>
-        <translation type="unfinished"/>
+        <translation>Слишком много уведомлений для отображения (%1 скрыт).</translation>
     </message>
 </context>
 <context>
@@ -18480,32 +18480,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="62"/>
         <source>Open the project</source>
-        <translation type="unfinished"/>
+        <translation>Открыть проект</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="72"/>
         <source>Pin to Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Закрепить в быстром доступе</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="72"/>
         <source>Unpin from Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Открепить от быстрого доступа</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="75"/>
         <source>Pin/unpin the project to the quick access</source>
-        <translation type="unfinished"/>
+        <translation>Закрепить/открепить проект в быстром доступе</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="86"/>
         <source>Remove From Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Удалить из быстрого доступа</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="88"/>
         <source>Remove the project from the quick access list</source>
-        <translation type="unfinished"/>
+        <translation>Удалить проект из списка быстрого доступа</translation>
     </message>
 </context>
 <context>
@@ -18513,12 +18513,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/sidebar.slint" line="134"/>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Дом</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/sidebar.slint" line="170"/>
         <source>Help / About</source>
-        <translation type="unfinished"/>
+        <translation>Помощь / О программе</translation>
     </message>
 </context>
 <context>
@@ -18531,7 +18531,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/treeview.slint" line="164"/>
         <source>Unpin</source>
-        <translation type="unfinished"/>
+        <translation>Развернуть</translation>
     </message>
 </context>
 <context>
@@ -18539,7 +18539,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="140"/>
         <source>Open the file or project</source>
-        <translation type="unfinished"/>
+        <translation>Открыть файл или проект</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="150"/>
@@ -18554,22 +18554,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="173"/>
         <source>Pin to Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Закрепить в быстром доступе</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="173"/>
         <source>Unpin from Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Открепить от быстрого доступа</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="176"/>
         <source>Pin/unpin the project to the quick access</source>
-        <translation type="unfinished"/>
+        <translation>Закрепить/открепить проект в быстром доступе</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="189"/>
         <source>Remove the file or directory from the file system</source>
-        <translation type="unfinished"/>
+        <translation>Удалить файл или каталог из файловой системы</translation>
     </message>
 </context>
 </TS>
