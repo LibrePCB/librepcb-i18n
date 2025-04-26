@@ -1879,13 +1879,13 @@ Použijte ukotvitelný dialog &quot;Umístit součástky&quot; k přidání sou�
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="203"/>
-        <source>Library Manager</source>
-        <translation>Správce knihoven</translation>
+        <source>Libraries</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="204"/>
-        <source>Open the library manager window</source>
-        <translation>Otevřít manažer knihoven</translation>
+        <source>Manage installed part libraries</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="212"/>
@@ -3822,9 +3822,14 @@ Použijte ukotvitelný dialog &quot;Umístit součástky&quot; k přidání sou�
 <context>
     <name>FileProofName</name>
     <message>
-        <location filename="libs/librepcb/core/types/fileproofname.h" line="56"/>
+        <location filename="libs/librepcb/core/types/fileproofname.h" line="52"/>
         <source>Invalid name: &apos;%1&apos;</source>
         <translation>Neplatné jméno: &apos;%1&apos;</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="308"/>
+        <source>Suffix &apos;%1&apos; missing</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5055,6 +5060,21 @@ For THT pads, the origin must be located within a drill hole since on some layer
     </message>
 </context>
 <context>
+    <name>MsgSuspiciousForcedNets</name>
+    <message>
+        <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="167"/>
+        <source>Suspicious use of forced nets</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="168"/>
+        <source>At least one signal of this component has a forced net set, which is very unusal and can cause serious troubles if not used intentionally.
+
+Please consult the user manual to ensure this is what you want. If you&apos;re unsure, clear the forced net on all component signals.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>MsgSuspiciousPadFunction</name>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="690"/>
@@ -5440,6 +5460,19 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/core/types/simplestring.h" line="49"/>
         <source>Invalid name: &apos;%1&apos;</source>
         <translation>Neplatný název: &apos;%1&apos;</translation>
+    </message>
+</context>
+<context>
+    <name>SlintHelpers</name>
+    <message>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="271"/>
+        <source>Required</source>
+        <translation>Vyžadováno</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="273"/>
+        <source>Invalid</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5861,8 +5894,8 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <name>librepcb::ApiEndpoint</name>
     <message>
         <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="119"/>
-        <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="149"/>
-        <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="160"/>
+        <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="189"/>
+        <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="200"/>
         <source>Received JSON object is not valid.</source>
         <translation>Přijatý objekt JSON není platný.</translation>
     </message>
@@ -6901,221 +6934,6 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1002"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>Vyberte, prosím, součást a variantu schematické značky.</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::AddLibraryWidget</name>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="14"/>
-        <source>Form</source>
-        <translation>Formulář</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="39"/>
-        <source>Install Libraries</source>
-        <translation>Instalovat knihovny</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="45"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Browse, download and update libraries directly from the Internet!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Procházet, stahovat a akualizovat knihovny přímo z internetu!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="61"/>
-        <source>Select all</source>
-        <translation>Vybrat vše</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="68"/>
-        <source>Download and install/update selected libraries</source>
-        <translation>Stáhnout a instalovat/aktualizovat vybrané knihovny</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="78"/>
-        <source>Create Local Library</source>
-        <translation>Vytvořit místní knihovnu</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="87"/>
-        <source>Creates a new local library in the currently opened workspace.</source>
-        <translation>Vytvoří knihovnu v aktuálně otevřeném pracovním prostoru.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="104"/>
-        <source>Name:</source>
-        <translation>Název:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="118"/>
-        <source>Description:</source>
-        <translation>Popis:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="132"/>
-        <source>Author:</source>
-        <translation>Autor:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="146"/>
-        <source>Version:</source>
-        <translation>Verze:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="160"/>
-        <source>Directory:</source>
-        <translation>Adresář:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="177"/>
-        <source>Create Library</source>
-        <translation>Vytvořit knihovnu</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="184"/>
-        <source>License:</source>
-        <translation>Licence:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="208"/>
-        <source>Put library under the Public Domain License CC0-1.0 (mandatory to publish it on librepcb.org).</source>
-        <translation>Licencovat knihovnu pod Public Domain License CC0-1.0 (povinné pro zveřejnění na librepcb.org).</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="230"/>
-        <source>https://en.wikipedia.org/wiki/Creative_Commons_license</source>
-        <translation>https://en.wikipedia.org/wiki/Creative_Commons_license</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="245"/>
-        <source>URL:</source>
-        <translation>Adresa (URL):</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="264"/>
-        <source>&lt;i&gt;&lt;b&gt;To import KiCad or Eagle libraries&lt;/b&gt;, create a new library called e.g. &lt;a href=&quot;%1&quot;&gt;KiCad Import&lt;/a&gt; or &lt;a href=&quot;%2&quot;&gt;Eagle Import&lt;/a&gt;. Then open the new library and start the import wizard via &amp;quot;File -&amp;gt; Import&amp;quot;.&lt;/i&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="275"/>
-        <source>Download Manually</source>
-        <translation>Stáhnout ručně</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="284"/>
-        <source>&lt;p&gt;Downloads a zipped library from the internet and saves it as a local library. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Libraries which are downloaded this way cannot be updated automatically. It&apos;s highly recommended to use &amp;quot;Install Libraries&amp;quot; whenever possible. &lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="301"/>
-        <source>URL to ZIP file:</source>
-        <translation>Adresa URL ZIP souboru:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="318"/>
-        <source>Local directory:</source>
-        <translation>Místní adresář:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="335"/>
-        <source>Download Library</source>
-        <translation>Stáhnout knihovnu</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="354"/>
-        <source>Abort</source>
-        <translation>Zrušit</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.ui" line="368"/>
-        <source>No error.</source>
-        <translation>Bez chyby.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="95"/>
-        <source>e.g. the URL to the Git repository (optional)</source>
-        <translation>např.: adresa URL pro Git úložiště (nepovinné)</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="100"/>
-        <source>e.g. https://github.com/LibrePCB-Libraries/LibrePCB_Base.lplib/archive/master.zip</source>
-        <translation>např.: https://github.com/LibrePCB-Libraries/LibrePCB_Base.lplib/archive/master.zip</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="196"/>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="201"/>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="206"/>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="211"/>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="216"/>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="221"/>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="328"/>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="333"/>
-        <source>Invalid Input</source>
-        <translation>Neplatný vstup</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="197"/>
-        <source>Please enter a name.</source>
-        <translation>Zadejte, prosím, název.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="202"/>
-        <source>Please enter an author.</source>
-        <translation>Zadejte, prosím, jméno autora.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="207"/>
-        <source>The specified version number is not valid.</source>
-        <translation>Dané číslo verze není platné.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="212"/>
-        <source>The specified URL is not valid.</source>
-        <translation>Daná adresa URL, není platná.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="217"/>
-        <source>Please enter a directory name.</source>
-        <translation>Zadejte, prosím, název adresáře.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="222"/>
-        <source>The specified directory exists already.</source>
-        <translation>Daný adresář už existuje.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="305"/>
-        <source>Error</source>
-        <translation>Chyba</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="311"/>
-        <source>Busy</source>
-        <translation>Zaneprázdněn</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="312"/>
-        <source>A download is already running.</source>
-        <translation>Stahování už probíhá.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="329"/>
-        <source>Please enter a valid URL.</source>
-        <translation>Zadejte, prosím, platnou adresu (URL).</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="334"/>
-        <source>Please enter a valid directory.</source>
-        <translation>Zadejte, prosím, platný adresář.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="338"/>
-        <source>Directory exists already</source>
-        <translation>Adresář už existuje</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/addlibrarywidget.cpp" line="339"/>
-        <source>The directory &quot;%1&quot; exists already.</source>
-        <translation>Adresář &quot;%1&quot; už existuje.</translation>
     </message>
 </context>
 <context>
@@ -10622,6 +10440,19 @@ Jste si jisti, že pouzdro a jeho zapojení vývodů jsou slučitelné s danou s
     </message>
 </context>
 <context>
+    <name>librepcb::editor::CreateLibraryTab</name>
+    <message>
+        <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="83"/>
+        <source>New Library</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="227"/>
+        <source>Exists already</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::editor::DeviceEditorWidget</name>
     <message>
         <location filename="libs/librepcb/editor/library/dev/deviceeditorwidget.ui" line="14"/>
@@ -10924,6 +10755,19 @@ Jste si jisti, že pouzdro a jeho zapojení vývodů jsou slučitelné s danou s
         <location filename="libs/librepcb/editor/dialogs/directorylockhandlerdialog.cpp" line="58"/>
         <source>Open anyway</source>
         <translation>Přesto otevřít</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::DownloadLibraryTab</name>
+    <message>
+        <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="74"/>
+        <source>Download Library</source>
+        <translation>Stáhnout knihovnu</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="199"/>
+        <source>Exists already</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12526,117 +12370,117 @@ Pozor: Zakřivené drážky nejsou v režimu G85 podporovány (vyvolá chybu).</
 <context>
     <name>librepcb::editor::GuiApplication</name>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="110"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="109"/>
         <source>Older Application Version Used</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="111"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="110"/>
         <source>This workspace was already used with a newer version of LibrePCB. This is fine, just note that any changes in libraries and workspace settings won&apos;t be available in newer versions of LibrePCB.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="124"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="123"/>
         <source>No Libraries Installed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="125"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="124"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should open the libraries panel to add some libraries.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="128"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="127"/>
         <source>Open Library Manager</source>
         <translation>Otevřít správce knihoven</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="141"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="144"/>
         <source>Application is Not Installed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="142"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="145"/>
         <source>This application executable does not seem to be integrated into your desktop environment. If desired, install it now to allow opening LibrePCB projects through the file manager. Click the button for details, or do it from the preferences dialog at any time.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="146"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="149"/>
         <source>Install Desktop Integration</source>
         <translation>Nainstalovat integraci na plochu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="161"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="164"/>
         <source>Scanning Libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="162"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="165"/>
         <source>The internal libraries database is beeing updated. This may take a few minutes and in the mean time you might see outdated information about libraries.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="178"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="181"/>
         <source>Scanning Libraries Failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="243"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="249"/>
         <source>Workspace changed</source>
         <translation>Pracovní prostor byl změněn</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="244"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="250"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation>Je třeba restart programu pro použití tohoto pracovního prostoru.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="265"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="264"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="269"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="268"/>
         <source>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="272"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="271"/>
         <source>Add Example Projects</source>
         <translation>Přidat ukázkové projekty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="298"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="297"/>
         <source>Could not create project</source>
         <translation>Nepodařilo se vytvořit projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="313"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="312"/>
         <source>Open Project</source>
         <translation>Otevřít projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="314"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="313"/>
         <source>LibrePCB project files (%1)</source>
         <translation>Soubory projektu LibrePCB (%1)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="382"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="381"/>
         <source>Could not open project</source>
         <translation>Nepodařilo se otevřít projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="525"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="567"/>
         <source>Restore autosave backup?</source>
         <translation>Obnovit z automatické zálohy?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="526"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="568"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>Zdá se, že při posledním použití tohoto projektu selhala aplikace. Přejete si obnovit poslední automaticky uloženou zálohu?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="603"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="645"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -13089,7 +12933,7 @@ Do you really want to close it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.cpp" line="88"/>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.cpp" line="89"/>
         <source>Choose directory</source>
         <translation type="unfinished"/>
     </message>
@@ -13295,9 +13139,24 @@ Do you really want to close it?</source>
     </message>
 </context>
 <context>
+    <name>librepcb::editor::LibrariesModel</name>
+    <message>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="205"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="274"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="284"/>
+        <source>Error</source>
+        <translation>Chyba</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="436"/>
+        <source>Failed to fetch libraries from &apos;%1&apos;: %2</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::editor::LibraryDownload</name>
     <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/librarydownload.cpp" line="155"/>
+        <location filename="libs/librepcb/editor/library/librarydownload.cpp" line="155"/>
         <source>The downloaded ZIP file does not contain a LibrePCB library.</source>
         <translation>Stáhnutý ZIP soubor neobsahuje knihovnu LibrePCB.</translation>
     </message>
@@ -13378,117 +13237,6 @@ Chcete je před zavřením uložit?</translation>
     </message>
 </context>
 <context>
-    <name>librepcb::editor::LibraryInfoWidget</name>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="14"/>
-        <source>Form</source>
-        <translation>Formulář</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="69"/>
-        <source>Name:</source>
-        <translation>Název:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="92"/>
-        <source>Description:</source>
-        <translation>Popis:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="109"/>
-        <source>Version:</source>
-        <translation>Verze:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="123"/>
-        <source>Author:</source>
-        <translation>Autor:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="140"/>
-        <source>URL:</source>
-        <translation>Adresa (URL):</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="160"/>
-        <source>Created:</source>
-        <translation>Vytvořeno:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="174"/>
-        <source>Deprecated:</source>
-        <translation>Nepoužívat:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="195"/>
-        <source>Library Type:</source>
-        <translation>Typ knihovny:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="209"/>
-        <source>Dependencies:</source>
-        <translation>Závislosti:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="229"/>
-        <source>Directory:</source>
-        <translation>Adresář:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="256"/>
-        <source>Open Library Editor</source>
-        <translation>Otevřít editor knihovny</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.ui" line="263"/>
-        <source>Remove this Library</source>
-        <translation>Odstranit tuto knihovnu</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="90"/>
-        <source>Yes - Consider switching to another library.</source>
-        <translation>Ano - zvažte přepnutí na jinou knihovnu.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="91"/>
-        <source>No</source>
-        <translation>Ne</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="94"/>
-        <source>Remote</source>
-        <translation>Vzdálená</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="94"/>
-        <source>Local</source>
-        <translation>Místní</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="133"/>
-        <source>Remove Library</source>
-        <translation>Odstranit knihovnu</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="134"/>
-        <source>Attention! This will remove the whole library directory:
-
-%1
-
-Are you really sure to remove &quot;%2&quot;?</source>
-        <translation>Pozor! Toto způsobí odstranění celého adresáře knihovny:
-
-%1
-
-Opravdu chcete odstranit &quot;%2&quot;?</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/libraryinfowidget.cpp" line="145"/>
-        <source>Error</source>
-        <translation>Chyba</translation>
-    </message>
-</context>
-<context>
     <name>librepcb::editor::LibraryListEditorWidget</name>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarylisteditorwidget.ui" line="14"/>
@@ -13499,47 +13247,6 @@ Opravdu chcete odstranit &quot;%2&quot;?</translation>
         <location filename="libs/librepcb/editor/library/lib/librarylisteditorwidget.cpp" line="55"/>
         <source>Click here a add a new dependency</source>
         <translation>Klepněte sem pro přidání nové závislosti</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::LibraryListWidgetItem</name>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/librarylistwidgetitem.ui" line="20"/>
-        <source>Form</source>
-        <translation>Formulář</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/librarylistwidgetitem.cpp" line="68"/>
-        <source>Add a new library</source>
-        <translation>Přidat novou knihovnu</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/librarylistwidgetitem.cpp" line="69"/>
-        <source>Click here to add a new library.</source>
-        <translation>Klepněte sem pro přidání nové knihovny.</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::LibraryManager</name>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/librarymanager.ui" line="14"/>
-        <source>Workspace Library Manager</source>
-        <translation>Správce knihoven v pracovním prostoru</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/librarymanager.ui" line="75"/>
-        <source>Close</source>
-        <translation>Zavřít</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/librarymanager.cpp" line="155"/>
-        <source>Could not load library list</source>
-        <translation>Nepodařilo se nahrát seznam knihoven</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/librarymanager.cpp" line="206"/>
-        <source>Error</source>
-        <translation>Chyba</translation>
     </message>
 </context>
 <context>
@@ -14518,74 +14225,6 @@ For more information about licensing, click on this icon.</source>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="276"/>
         <source>The project&apos;s directory exists already and is not empty.</source>
         <translation>Adresář projektu už existuje a není prázdný.</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::OnlineLibraryListWidgetItem</name>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.ui" line="14"/>
-        <source>Form</source>
-        <translation>Formulář</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.ui" line="50"/>
-        <source>Icon</source>
-        <translation>Ikonka</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.ui" line="87"/>
-        <source>Name + Version</source>
-        <translation>Název + verze</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.ui" line="116"/>
-        <source>Installed Version</source>
-        <translation>Nainstalovaná verze</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.ui" line="139"/>
-        <source>Description</source>
-        <translation>Popis</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.ui" line="198"/>
-        <source>Author</source>
-        <translation>Autor</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="167"/>
-        <source>Download failed</source>
-        <translation>Nepodařilo se stáhnout</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="215"/>
-        <source>v%1</source>
-        <translation>v%1</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="217"/>
-        <source>Update</source>
-        <translation>Aktualizovat</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="220"/>
-        <source>Installed</source>
-        <translation>Nainstalováno</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="227"/>
-        <source>Recommended</source>
-        <translation>Dooručeno</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="233"/>
-        <source>Install</source>
-        <translation>Nainstalovat</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/librarymanager/onlinelibrarylistwidgetitem.cpp" line="241"/>
-        <source>Error: Invalid UUID</source>
-        <translation>Chyba: neplatný UUID</translation>
     </message>
 </context>
 <context>
@@ -18349,11 +17988,135 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
     </message>
 </context>
 <context>
+    <name>ui::CreateLibraryTab</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="110"/>
+        <source>Examples:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="133"/>
+        <source>Description:</source>
+        <translation>Popis:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="154"/>
+        <source>Author:</source>
+        <translation>Autor:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="175"/>
+        <source>Version:</source>
+        <translation>Verze:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="198"/>
+        <source>URL:</source>
+        <translation>Adresa (URL):</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="205"/>
+        <source>e.g. URL to the Git repository (optional)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="221"/>
+        <source>License:</source>
+        <translation>Licence:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="231"/>
+        <source>Put library under the Public Domain License CC0-1.0\n(mandatory to publish it on librepcb.org)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="261"/>
+        <source>Directory:</source>
+        <translation>Adresář:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="294"/>
+        <source>Create Library</source>
+        <translation>Vytvořit knihovnu</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="302"/>
+        <source>Cancel</source>
+        <translation>Zrušit</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="53"/>
+        <source>Create a new local library</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="63"/>
+        <source>To import KiCad or Eagle libraries, create a new library called e.g. &apos;KiCad Import&apos; or &apos;Eagle Import&apos;. Then open the new library and start the import wizard via &apos;File -&gt; Import&apos;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="77"/>
+        <source>Name:</source>
+        <translation>Název:</translation>
+    </message>
+</context>
+<context>
     <name>ui::DonateButton</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/hometab.slint" line="11"/>
+        <location filename="libs/librepcb/editor/ui/hometab.slint" line="12"/>
         <source>Donate</source>
         <translation>Dary</translation>
+    </message>
+</context>
+<context>
+    <name>ui::DownloadLibraryTab</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="116"/>
+        <source>URL does not seem to point to a ZIP file. Consider using this URL instead:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="136"/>
+        <source>Directory:</source>
+        <translation>Adresář:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="182"/>
+        <source>Download Library</source>
+        <translation>Stáhnout knihovnu</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="190"/>
+        <source>Cancel</source>
+        <translation>Zrušit</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="52"/>
+        <source>Download &amp; install a library by URL</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="61"/>
+        <source>Please note that this is not the preferred way to install libraries as they won&apos;t be kept up to date. For our official libraries, it&apos;s recommended to install them from the libraries panel instead, which allows to keep libraries up to date.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="75"/>
+        <source>URL:</source>
+        <translation>Adresa (URL):</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="82"/>
+        <source>URL to a zipped library (*.zip)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ui::FilterTermEdit</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/widgets/filtertermedit.slint" line="20"/>
+        <source>Filter:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18372,45 +18135,182 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
 <context>
     <name>ui::HomeTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/hometab.slint" line="134"/>
+        <location filename="libs/librepcb/editor/ui/hometab.slint" line="128"/>
         <source>Support the LibrePCB project with a donation to keep the development and maintenance ongoing ‒ Thank you!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/hometab.slint" line="42"/>
+        <location filename="libs/librepcb/editor/ui/hometab.slint" line="36"/>
         <source>Get Started With LibrePCB</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/hometab.slint" line="73"/>
+        <location filename="libs/librepcb/editor/ui/hometab.slint" line="67"/>
         <source>Video Tutorials</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/hometab.slint" line="74"/>
+        <location filename="libs/librepcb/editor/ui/hometab.slint" line="68"/>
         <source>Open video tutorials in the web browser</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/hometab.slint" line="84"/>
+        <location filename="libs/librepcb/editor/ui/hometab.slint" line="78"/>
         <source>User Manual &amp; Getting Started Guide</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ui::LibrariesPanel</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="498"/>
+        <source>Local Libraries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="513"/>
+        <source>Remote Libraries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="541"/>
+        <source>Pending Operations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="592"/>
+        <source>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="592"/>
+        <source>Warning</source>
+        <translation>Varování</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="608"/>
+        <source>Apply</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="608"/>
+        <source>Apply %n Modification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="621"/>
+        <source>Cancel</source>
+        <translation>Zrušit</translation>
+    </message>
+</context>
+<context>
+    <name>ui::LibrariesPanelSection</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="309"/>
+        <source>Download a Library by URL</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="320"/>
+        <source>Create a New Library</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="334"/>
+        <source>Toggle All</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="375"/>
+        <source>No remote part libraries are currently installed. To get parts like resistors, LEDs, microcontrollers etc., choose some libraries to be downloaded from the internet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="386"/>
+        <source>No local libraries exist in this workspace. In order to create your own parts, add a new local library first with the button above.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="396"/>
+        <source>No libraries matching the filter.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ui::LibraryListViewItem</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="205"/>
+        <source>Recommended</source>
+        <translation>Dooručeno</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="218"/>
+        <source>Uninstall</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="72"/>
+        <source>Outdated:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="77"/>
+        <source>Up-to-date:</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ui::LibraryUninstallPopup</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="26"/>
+        <source>Uninstall %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="35"/>
+        <source>Attention</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="35"/>
+        <source>This will remove the whole library directory and is not reversible:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="45"/>
+        <source>Are you really sure to remove &apos;%1&apos;?</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ui::MainMenuBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="108"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="101"/>
+        <source>Manually download an existing library from the Internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="121"/>
         <source>Open Workspace Folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="147"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="160"/>
         <source>View</source>
         <translation>Pohled</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="176"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="187"/>
+        <source>Split Window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="189"/>
+        <source>Split the current window into one more section</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="199"/>
         <source>Help</source>
         <translation>Nápověda</translation>
     </message>
@@ -18418,6 +18318,39 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="42"/>
         <source>File</source>
         <translation>Soubor</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="89"/>
+        <source>New Library</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="91"/>
+        <source>Create a new local workspace library</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="99"/>
+        <source>Download Library</source>
+        <translation>Stáhnout knihovnu</translation>
+    </message>
+</context>
+<context>
+    <name>ui::MessagePopup</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/widgets/messagepopup.slint" line="65"/>
+        <source>OK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/widgets/messagepopup.slint" line="74"/>
+        <source>Yes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/widgets/messagepopup.slint" line="83"/>
+        <source>Cancel</source>
+        <translation>Zrušit</translation>
     </message>
 </context>
 <context>
@@ -18477,12 +18410,12 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
 <context>
     <name>ui::SideBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="134"/>
+        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="152"/>
         <source>Home</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="170"/>
+        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="217"/>
         <source>Help / About</source>
         <translation type="unfinished"/>
     </message>
@@ -18497,6 +18430,19 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/treeview.slint" line="164"/>
         <source>Unpin</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ui::WindowSection</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="139"/>
+        <source>Split Section</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="152"/>
+        <source>Close Section</source>
         <translation type="unfinished"/>
     </message>
 </context>
