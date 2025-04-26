@@ -9933,7 +9933,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="98"/>
         <source>Add a new device assembly option</source>
-        <translation>Přidat novou volbu pro osazení součástky</translation>
+        <translation>Přidat novou možnost pro osazení součástky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="105"/>
@@ -9948,7 +9948,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="119"/>
         <source>Remove selected part or assembly option</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit vybraný díl nebo možnost osazení</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="130"/>
@@ -9997,7 +9997,9 @@ Are you sure the footprint and pinout of the selected device are compatible with
         <source>The selected part is taken from a different device than this assembly option is valid for, thus LibrePCB cannot validate if it is compatible!
 
 Are you sure the footprint and pinout of the selected part are compatible with the device?</source>
-        <translation type="unfinished"/>
+        <translation>Vybraný díl pochází z jiné součástky, než pro kterou platí tato možnost osazení, takže LibrePCB nemůže ověřit, zda je slučitelný!
+
+Jste si jisti, že pouzdro a jeho zapojení vývodů jsou slučitelné s danou součástkou?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="495"/>
