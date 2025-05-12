@@ -5216,12 +5216,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>Path</name>
     <message>
-        <location filename="libs/librepcb/core/geometry/path.h" line="213"/>
+        <location filename="libs/librepcb/core/geometry/path.h" line="214"/>
         <source>Path doesn&apos;t contain vertices!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/path.h" line="254"/>
+        <location filename="libs/librepcb/core/geometry/path.h" line="255"/>
         <source>Path is not fillable or contains arcs!</source>
         <translation type="unfinished"/>
     </message>
@@ -12434,17 +12434,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="567"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="566"/>
         <source>Restore autosave backup?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="568"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="567"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="645"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="644"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
@@ -16266,31 +16266,31 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicEditorState_AddComponent</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="95"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="97"/>
         <source>Value:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="159"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="177"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="222"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="300"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="480"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="161"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="179"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="224"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="302"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="503"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="259"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="261"/>
         <source>Add Symbol to Schematic</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="351"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="353"/>
         <source>Add Component to Schematic</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="429"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_addcomponent.cpp" line="431"/>
         <source>The component with the UUID &quot;%1&quot; does not have any symbol.</source>
         <translation type="unfinished"/>
     </message>
@@ -16402,29 +16402,30 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicEditorState_Select</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="270"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="394"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="424"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="433"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="670"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="691"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="712"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="728"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="280"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="404"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="434"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="443"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="701"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="722"/>
         <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="743"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="770"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="789"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="805"/>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="849"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="763"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="779"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="794"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="821"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="840"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="856"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="900"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="803"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="854"/>
         <source>Copied to clipboard!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="829"/>
+        <location filename="libs/librepcb/editor/project/schematiceditor/fsm/schematiceditorstate_select.cpp" line="880"/>
         <source>Paste Schematic Elements</source>
         <translation type="unfinished"/>
     </message>
@@ -18370,12 +18371,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::WindowSection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="139"/>
+        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="137"/>
         <source>Split Section</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="152"/>
+        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="150"/>
         <source>Close Section</source>
         <translation type="unfinished"/>
     </message>
