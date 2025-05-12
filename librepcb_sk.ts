@@ -729,7 +729,7 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentsymbolvariantitemsuffix.h" line="57"/>
         <source>Invalid component symbol suffix: &apos;%1&apos;</source>
-        <translation>Neplatný sufix sch. značky komponentu: &apos;%1&apos;</translation>
+        <translation>Neplatná prípona sch. značky komponentu: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -1876,12 +1876,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="203"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Knižnice</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="204"/>
         <source>Manage installed part libraries</source>
-        <translation type="unfinished"/>
+        <translation>Spravovať inštalované knižnice súčiastok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="212"/>
@@ -3826,7 +3826,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="308"/>
         <source>Suffix &apos;%1&apos; missing</source>
-        <translation type="unfinished"/>
+        <translation>Chýbajúca prípona &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -5071,14 +5071,16 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="167"/>
         <source>Suspicious use of forced nets</source>
-        <translation type="unfinished"/>
+        <translation>Podozrivé pripojenie signálov</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="168"/>
         <source>At least one signal of this component has a forced net set, which is very unusal and can cause serious troubles if not used intentionally.
 
 Please consult the user manual to ensure this is what you want. If you&apos;re unsure, clear the forced net on all component signals.</source>
-        <translation type="unfinished"/>
+        <translation>Minimálne jeden signál tohto komponentu má nastavené pripojenie k signálu, čo je veľmi nezvyčajné a môže spôsobiť vážne problémy, ak sa nepoužíva zámerne..
+
+Prečítajte si, prosím, používateľskú príručku, aby ste sa uistili, že je to, čo chcete. Ak si nie ste istí, vymažte pripojenie k signálu na všetkých signáloch komponentu.</translation>
     </message>
 </context>
 <context>
@@ -5486,7 +5488,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="273"/>
         <source>Invalid</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné</translation>
     </message>
 </context>
 <context>
@@ -10287,7 +10289,7 @@ Ste si istý, že puzdro a jeho zapojenie vývodov sú kompatibilné so súčias
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="355"/>
         <source>Suffix</source>
-        <translation>Sufix</translation>
+        <translation>Prípona</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsymbolvariantitemlistmodel.cpp" line="357"/>
@@ -10462,12 +10464,12 @@ Ste si istý, že puzdro a jeho zapojenie vývodov sú kompatibilné so súčias
     <message>
         <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="83"/>
         <source>New Library</source>
-        <translation type="unfinished"/>
+        <translation>Nová knižnica</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="227"/>
         <source>Exists already</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje</translation>
     </message>
 </context>
 <context>
@@ -10785,7 +10787,7 @@ Ste si istý, že puzdro a jeho zapojenie vývodov sú kompatibilné so súčias
     <message>
         <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="199"/>
         <source>Exists already</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje</translation>
     </message>
 </context>
 <context>
@@ -13192,7 +13194,7 @@ Naozaj chcete zavrieť toto okno?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="436"/>
         <source>Failed to fetch libraries from &apos;%1&apos;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Nepodarilo sa načítať knižnice z &apos;%1&apos;: %2</translation>
     </message>
 </context>
 <context>
@@ -17966,12 +17968,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="118"/>
         <source>View Source Code</source>
-        <translation type="unfinished"/>
+        <translation>Zobraziť zdrojový kód</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="119"/>
         <source>Open the source code in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť zdrojový kód v internetovom prehliadači</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="155"/>
@@ -17981,7 +17983,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="156"/>
         <source>(please copy this into bug reports)</source>
-        <translation type="unfinished"/>
+        <translation>(skopírujte to prosím do hlásení o chybách)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="163"/>
@@ -17991,7 +17993,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="163"/>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovať do schránky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="205"/>
@@ -18001,17 +18003,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="213"/>
         <source>LibrePCB relies on many contributors, sponsors, open-source software components and artwork.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB sa spolieha na mnohých prispievateľov, sponzorov, komponenty softvéru s otvoreným zdrojovým kódom a grafiky.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="214"/>
         <source>Many thanks to all the people supporting LibrePCB either directly or indirectly!</source>
-        <translation type="unfinished"/>
+        <translation>Veľká vďaka všetkým ľuďom, ktorí priamo alebo nepriamo podporujú LibrePCB!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="226"/>
         <source>For the list of current sponsors, see %1.</source>
-        <translation type="unfinished"/>
+        <translation>Zoznam aktuálnych sponzorov nájdete v %1.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="266"/>
@@ -18021,17 +18023,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="277"/>
         <source>This is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text in our source code.</source>
-        <translation type="unfinished"/>
+        <translation>Toto je slobodný softvér, vydaný pod licenciou GNU General Public License (GPL) verzie 3 alebo novšej. Úplný text licencie nájdete v našom zdrojovom kóde.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="66"/>
         <source>LibrePCB is a free &amp; open source community project. It is operated by %1 with the support of many other contributors.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB je bezplatný komunitný projekt s otvoreným zdrojovým kódom. Prevádzkuje ho %1 s podporou mnohých ďalších prispievateľov.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="67"/>
         <source>Please consider supporting our hard work with a donation ‒ thank you.</source>
-        <translation type="unfinished"/>
+        <translation>Zvážte, prosím, podporu našej tvrdej práce darom ‒ ďakujeme.</translation>
     </message>
 </context>
 <context>
@@ -18039,7 +18041,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="110"/>
         <source>Examples:</source>
-        <translation type="unfinished"/>
+        <translation>Príklady:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="133"/>
@@ -18064,7 +18066,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="205"/>
         <source>e.g. URL to the Git repository (optional)</source>
-        <translation type="unfinished"/>
+        <translation>napr.: adresa URL pre Git repozitár (nepovinné)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="221"/>
@@ -18074,7 +18076,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="231"/>
         <source>Put library under the Public Domain License CC0-1.0\n(mandatory to publish it on librepcb.org)</source>
-        <translation type="unfinished"/>
+        <translation>Prezentujte knižnicu pod licenciou Public Domain License CC0-1.0\n(povinnosť zverejniť na librepcb.org).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="261"/>
@@ -18094,12 +18096,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="53"/>
         <source>Create a new local library</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť novú lokálnu knižnicu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="63"/>
         <source>To import KiCad or Eagle libraries, create a new library called e.g. &apos;KiCad Import&apos; or &apos;Eagle Import&apos;. Then open the new library and start the import wizard via &apos;File -&gt; Import&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Pre importovanie knižníc KiCad alebo Eagle, vytvorte novú knižnicu nazvanú napríklad: &apos;KiCad Import&apos; alebo &apos;Eagle Import&apos;. Následne otvorte túto novú knižnicu a spustite sprievodcu importom pomocou &apos;Súbor -&gt; Importovať&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="77"/>
@@ -18120,7 +18122,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="116"/>
         <source>URL does not seem to point to a ZIP file. Consider using this URL instead:</source>
-        <translation type="unfinished"/>
+        <translation>Zdá sa, že URL adresa neodkazuje na súbor ZIP. Zvážte použitie tejto URL adresy:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="136"/>
@@ -18140,12 +18142,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="52"/>
         <source>Download &amp; install a library by URL</source>
-        <translation type="unfinished"/>
+        <translation>Stiahnutie a inštalácia knižnice podľa URL adresy</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="61"/>
         <source>Please note that this is not the preferred way to install libraries as they won&apos;t be kept up to date. For our official libraries, it&apos;s recommended to install them from the libraries panel instead, which allows to keep libraries up to date.</source>
-        <translation type="unfinished"/>
+        <translation>Upozorňujeme, že toto nie je preferovaný spôsob inštalácie knižníc, pretože nebudú aktualizované. Naše oficiálne knižnice sa odporúča inštalovať z panela knižníc, čo umožňuje udržiavať ich aktuálne.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="75"/>
@@ -18155,7 +18157,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="82"/>
         <source>URL to a zipped library (*.zip)</source>
-        <translation type="unfinished"/>
+        <translation>URL adresa zabalenej knižnice (*.zip)</translation>
     </message>
 </context>
 <context>
@@ -18163,7 +18165,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/filtertermedit.slint" line="20"/>
         <source>Filter:</source>
-        <translation type="unfinished"/>
+        <translation>Filter:</translation>
     </message>
 </context>
 <context>
@@ -18212,22 +18214,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="498"/>
         <source>Local Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Lokálne knižnice</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="513"/>
         <source>Remote Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialené knižnice</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="541"/>
         <source>Pending Operations</source>
-        <translation type="unfinished"/>
+        <translation>Čakajúce operácie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="592"/>
         <source>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</source>
-        <translation type="unfinished"/>
+        <translation>Niektoré knižnice, označené na odinštalovanie, momentálne nie sú k dispozícii na inštaláciu, preto ich odstránenie nebude možné zvrátiť!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="592"/>
@@ -18242,7 +18244,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="608"/>
         <source>Apply %n Modification</source>
-        <translation type="unfinished"/>
+        <translation>Použiť %n úprav</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="621"/>
@@ -18255,12 +18257,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="309"/>
         <source>Download a Library by URL</source>
-        <translation type="unfinished"/>
+        <translation>Stiahnutie knižnice podľa URL adresy</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="320"/>
         <source>Create a New Library</source>
-        <translation type="unfinished"/>
+        <translation>Vytvoriť novú knižnicu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="334"/>
@@ -18369,7 +18371,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="89"/>
         <source>New Library</source>
-        <translation type="unfinished"/>
+        <translation>Nová knižnica</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="91"/>
