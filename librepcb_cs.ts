@@ -1880,12 +1880,12 @@ Použijte ukotvitelný dialog &quot;Umístit součástky&quot; k přidání sou�
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="203"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Knihovny</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="204"/>
         <source>Manage installed part libraries</source>
-        <translation type="unfinished"/>
+        <translation>Spravovat nainstalované knihovny součástek</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="212"/>

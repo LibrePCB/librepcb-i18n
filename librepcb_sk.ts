@@ -2207,7 +2207,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="498"/>
         <source>Import Specctra SES</source>
-        <translation>Import súboru Specctra SES</translation>
+        <translation>Importovať súbor Specctra SES</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="499"/>
@@ -11206,12 +11206,12 @@ Naozaj si želáte zatvoriť toto okno?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/editorwidgetbase.cpp" line="239"/>
         <source>User name not set</source>
-        <translation>Meno užívateľa nie je nastavené</translation>
+        <translation>Meno používateľa nie je nastavené</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/editorwidgetbase.cpp" line="240"/>
         <source>No user name defined in workspace settings. Please open workspace settings to set the default user name.</source>
-        <translation>Meno užívateľa nie je v nastavení pracovného priestoru zadané. Prosím, otvorte nastavenie prac. priestoru a zadajte meno užívateľa.</translation>
+        <translation>Meno používateľa nie je v nastavení pracovného priestoru zadané. Prosím, otvorte nastavenie prac. priestoru a zadajte meno používateľa.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/editorwidgetbase.cpp" line="253"/>
@@ -12659,7 +12659,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="51"/>
         <source>User Name:</source>
-        <translation>Meno užívateľa:</translation>
+        <translation>Meno používateľa:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="81"/>
@@ -17386,7 +17386,7 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="96"/>
         <source>User Name:</source>
-        <translation>Meno užívateľa:</translation>
+        <translation>Meno používateľa:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="117"/>
