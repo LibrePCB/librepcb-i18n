@@ -177,12 +177,12 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="95"/>
         <source>Open a symbol to execute symbol-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť schematickú značku pre vykonanie akcií v nej.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="98"/>
         <source>Open a package to execute package-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Otvoriť puzdro pre vykonanie akcií v ňom.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="101"/>
