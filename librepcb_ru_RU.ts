@@ -34,19 +34,19 @@
     </message>
 </context>
 <context>
-    <name>BGI_FootprintPad</name>
+    <name>BGI_Pad</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_footprintpad.cpp" line="164"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="179"/>
         <source>Pad:</source>
         <translation>Посадка:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_footprintpad.cpp" line="170"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="185"/>
         <source>Signal:</source>
         <translation>Сигнал:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_footprintpad.cpp" line="176"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="191"/>
         <source>Net:</source>
         <translation>Цепь:</translation>
     </message>
@@ -920,168 +920,173 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgCopperBoardClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="625"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="659"/>
         <source>Clearance via ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Зазор по контуру платы ↔ &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="628"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="662"/>
         <source>The clearance between a via and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Зазор между сквозным отверстием и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="632"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="666"/>
         <source>Check the DRC settings and move the via away from the board outline if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости переместите переход от контура платы.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="647"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="681"/>
         <source>Clearance trace ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Зазор дорожка ↔ контур платы &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="650"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="684"/>
         <source>The clearance between a trace and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Зазор между дорожкой и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="654"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="688"/>
         <source>Check the DRC settings and move the trace away from the board outline if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости переместите дорожку в сторону от контура платы.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="670"/>
-        <source>Clearance pad ↔ board outline &lt; %1 %2</source>
-        <comment>Placeholders: Clearance value, unit</comment>
-        <translation>Зазорная площадка ↔ контур платы &lt; %1 %2</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="673"/>
-        <source>The clearance between a footprint pad and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation>Зазор между посад. площадкой и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="677"/>
-        <source>Check the DRC settings and move the device away from the board outline if needed.</source>
-        <translation>Проверьте настройки DRC и при необходимости переместите устройство подальше от контура платы.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="692"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="717"/>
         <source>Clearance plane ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Зазор плоскость ↔ контур платы &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="695"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="720"/>
         <source>The clearance between a plane and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Зазор между плоскостью и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="699"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="724"/>
         <source>Check the DRC settings and increase the configured plane clearance if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости увеличьте сконфигурированный зазор в плоскости.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="713"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="738"/>
         <source>Clearance copper polygon ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Зазор фольгированного многоугольника ↔ контур платы &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="716"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="741"/>
         <source>The clearance between a polygon and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Зазор между многоугольником и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="719"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="744"/>
         <source>Check the DRC settings and move the polygon away from the board outline if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости переместите многоугольник в сторону от контура платы.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="736"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="761"/>
         <source>Clearance copper circle ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Зазор фольгированного круга ↔ контур платы &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="739"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="764"/>
         <source>The clearance between a circle and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Зазор между окружностью и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="742"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="767"/>
         <source>Check the DRC settings and move the circle away from the board outline if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости сместите круг от контура платы.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="758"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="783"/>
         <source>Clearance copper text ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Зазор фольгированного текста ↔ контур платы &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="761"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="786"/>
         <source>The clearance between a stroke text and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Зазор между текстом обводки и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="765"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="790"/>
         <source>Check the DRC settings and move the stroke text away from the board outline if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости переместите текст обводки в сторону от контура платы.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="805"/>
+        <source>Clearance pad ↔ board outline &lt; %1 %2</source>
+        <comment>Placeholders: Clearance value, unit</comment>
+        <translation>Зазорная площадка ↔ контур платы &lt; %1 %2</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="813"/>
+        <source>The clearance between a pad and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="817"/>
+        <source>Check the DRC settings and move the pad away from the board outline if needed.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>DrcMsgCopperCopperClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="503"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="516"/>
+        <source>pad</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="518"/>
         <source>trace</source>
         <translation>дорожка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="505"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="520"/>
         <source>via</source>
         <translation>переходное отверстие</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="507"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="522"/>
         <source>plane</source>
         <translation>плоскость</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="509"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="524"/>
         <source>polygon</source>
         <translation>многоугольник</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="511"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="526"/>
         <source>circle</source>
         <translation>круг</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="513"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="528"/>
         <source>text</source>
         <translation>текст</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="582"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="603"/>
         <source>Clearance on %1: %2 ↔ %3 &lt; %4 %5</source>
         <comment>Placeholders: Layer name, object name, object name, Clearance value, unit</comment>
         <translation>Зазор на %1: %2 ↔ %3 &lt; %4 %5</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="587"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="608"/>
         <source>The clearance between two copper objects of different nets is smaller than the minimum copper clearance configured in the DRC settings.</source>
         <translation>Зазор между двумя фольгированными объектами разных цепей меньше минимального зазора между медью, настроенного в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="591"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="612"/>
         <source>Check the DRC settings and move the objects to increase their clearance if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости переместите объекты для увеличения расстояния между ними.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="613"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="634"/>
         <source>%1 layers</source>
         <comment>Placeholder is a number &gt; 1.</comment>
         <translation>%1 слой</translation>
@@ -1090,18 +1095,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgCopperHoleClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="787"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="831"/>
         <source>Clearance copper ↔ hole &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Зазор медь ↔ отверстие &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="790"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="834"/>
         <source>The clearance between a non-plated hole and copper objects is smaller than the hole clearance configured in the DRC settings.</source>
         <translation>Зазор между отверстием без покрытия и медными объектами меньше, чем зазор между отверстиями, заданный в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="793"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="837"/>
         <source>Check the DRC settings and move the copper objects away from the hole if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости переместите медные объекты подальше от отверстия.</translation>
     </message>
@@ -1109,47 +1114,47 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgCopperInKeepoutZone</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="816"/>
-        <source>Pad in copper keepout zone: &apos;%1&apos;</source>
-        <comment>Placeholder is pad name</comment>
-        <translation>Площадка в зоне сохранения меди: &apos;%1&apos;</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="833"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="890"/>
         <source>Via in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
         <translation>Участок в зоне сохранения меди: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="850"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="907"/>
         <source>Trace in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
         <translation>Дорожка в зоне сохранения меди: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="864"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="921"/>
         <source>Polygon in copper keepout zone</source>
         <translation>Многоугольник в зоне сохранения меди</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="878"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="936"/>
         <source>Polygon in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
         <translation>Многоугольник в зоне сохранения меди: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="895"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="953"/>
         <source>Circle in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
         <translation>Круг в зоне сохранения меди: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="918"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="984"/>
+        <source>Pad in copper keepout zone: &apos;%1&apos;</source>
+        <comment>Placeholder is pad- or net name</comment>
+        <translation>Площадка в зоне сохранения меди: &apos;%1&apos;</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="990"/>
         <source>There is a copper object within a copper keepout zone.</source>
         <translation>В запретной зоне находится медный предмет.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="919"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="991"/>
         <source>Move the object to outside the keepout zone.</source>
         <translation>Переместите объект за пределы запретной зоны.</translation>
     </message>
@@ -1157,18 +1162,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgDeviceInCourtyard</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="986"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1058"/>
         <source>Device in courtyard: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
         <translation>Устройство в обл. установки: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="990"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1062"/>
         <source>A device is placed within the courtyard of another device, which might cause troubles during assembly of these parts.</source>
         <translation>Устройство находится в обл. установки другого устройства, что может привести к проблемам при сборке этих деталей.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="993"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1065"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems.</source>
         <translation>Либо переместите устройства, чтобы увеличить их зазор, либо одобрите это сообщение, если вы уверены, что их можно собрать без проблем.</translation>
     </message>
@@ -1176,18 +1181,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgDeviceInKeepoutZone</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1042"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1114"/>
         <source>Device in keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
         <translation>Устройство в зоне отключения: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1063"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1135"/>
         <source>There is a device within a keepout zone.</source>
         <translation>В запретной зоне находится устройство.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1064"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1136"/>
         <source>Move the device to outside the keepout zone.</source>
         <translation>Переместите устройство за пределы запретной зоны.</translation>
     </message>
@@ -1195,12 +1200,12 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgDisabledLayer</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1541"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1723"/>
         <source>Objects on disabled layer: &apos;%1&apos;</source>
         <translation>Объекты на отключенном слое: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1542"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1724"/>
         <source>The layer contains copper objects, but it is disabled in the board setup dialog and thus will be ignored in any production data exports. Either increase the layer count to get this layer exported, or remove all objects on this layer (by temporarily enabling this layer to see them).</source>
         <translation>Слой содержит медные объекты, но он отключен в диалоге настройки платы и поэтому будет проигнорирован при экспорте производственных данных. Либо увеличьте количество слоев, чтобы экспортировать этот слой, либо удалите все объекты на этом слое (временно включив этот слой для их просмотра).</translation>
     </message>
@@ -1208,18 +1213,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgDrillBoardClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="962"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1034"/>
         <source>Clearance drill ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Сверло с зазором ↔ контур платы &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="965"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1037"/>
         <source>The clearance between a drill and the board outline is smaller than the drill clearance configured in the DRC settings.</source>
         <translation>Зазор между сверлом и контуром платы меньше, чем зазор между сверлами, заданный в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="968"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1040"/>
         <source>Check the DRC settings and move the drill away from the board outline if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости переместите сверло в сторону от контура платы.</translation>
     </message>
@@ -1227,18 +1232,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgDrillDrillClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="930"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1002"/>
         <source>Clearance drill ↔ drill &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Сверло для очистки ↔ сверло &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="933"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1005"/>
         <source>The clearance between two drills is smaller than the drill clearance configured in the DRC settings.</source>
         <translation>Зазор между двумя сверлами меньше, чем зазор между сверлами, заданный в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="936"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1008"/>
         <source>Check the DRC settings and move the drills to increase their distance if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости переместите буры на большее расстояние.</translation>
     </message>
@@ -1246,7 +1251,7 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgEmptyNetSegment</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="276"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="289"/>
         <source>Empty segment of net &apos;%1&apos;: &apos;%2&apos;</source>
         <comment>Placeholders: Net name, segment UUID</comment>
         <translation>Пустой сегмент цепи &apos;%1&apos;: &apos;%2&apos;</translation>
@@ -1255,41 +1260,41 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgExposureInKeepoutZone</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1078"/>
-        <source>Pad in exposure keepout zone: &apos;%1&apos;</source>
-        <comment>Placeholder is pad name</comment>
-        <translation>Площадка в зоне сохранения экспозиции: &apos;%1&apos;</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1095"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1180"/>
         <source>Via in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
         <translation>Участок в зоне сохранения экспозиции: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1109"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1194"/>
         <source>Polygon in exposure keepout zone</source>
         <translation>Многоугольник в зоне сохранения экспозиции</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1122"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1208"/>
         <source>Polygon in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
         <translation>Многоугольник в зоне сохранения экспозиции: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1139"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1226"/>
         <source>Circle in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
         <translation>Круг в зоне сохранения экспозиции: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1163"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1259"/>
+        <source>Pad in exposure keepout zone: &apos;%1&apos;</source>
+        <comment>Placeholder is pad- or net name</comment>
+        <translation>Площадка в зоне сохранения экспозиции: &apos;%1&apos;</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1265"/>
         <source>There is a solder resist opening within an exposure keepout zone.</source>
         <translation>В зоне сохранения экспозиции имеется отверстие для паяльного резиста.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1165"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1267"/>
         <source>Move the object to outside the keepout zone.</source>
         <translation>Переместите объект за пределы запретной зоны.</translation>
     </message>
@@ -1297,47 +1302,47 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgForbiddenSlot</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1375"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1557"/>
         <source>Hole is a slot with curves</source>
         <translation>Отверстие представляет собой прорезь с изгибами</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1377"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1559"/>
         <source>Hole is a multi-segment slot</source>
         <translation>Отверстие - это многосегментная прорезь</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1379"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1561"/>
         <source>Hole is a slot</source>
         <translation>Отверстие - это прорезь</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1386"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1568"/>
         <source>Either avoid them or check if your PCB manufacturer supports them.</source>
         <translation>Либо избегайте их, либо проверьте, поддерживает ли их производитель вашей печатной платы.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1388"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1570"/>
         <source>Choose the desired Excellon slot mode when generating the production data (G85 vs. G00..G03).</source>
         <translation>Выберите нужный режим слота Excellon при генерации производственных данных (G85 против G00...G03).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1391"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1573"/>
         <source>The drilled slot mode (G85) will not be available when generating production data.</source>
         <translation>Режим пробуренной щели (G85) не будет доступен при генерации данных о добыче.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1395"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1577"/>
         <source>Curved slots are a very unusual thing and may cause troubles with many PCB manufacturers.</source>
         <translation>Изогнутые прорези это очень необычная вещь, которая может вызвать проблемы у многих производителей печатных плат.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1399"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1581"/>
         <source>Multi-segment slots are a rather unusual thing and may cause troubles with some PCB manufacturers.</source>
         <translation>Многосегментные прорези это довольно необычная вещь, которая может вызвать проблемы у некоторых производителей печатных плат.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1403"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1585"/>
         <source>Slots may cause troubles with some PCB manufacturers.</source>
         <translation>Прорези могут вызвать проблемы у некоторых производителей печатных плат.</translation>
     </message>
@@ -1345,27 +1350,27 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgForbiddenVia</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1428"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1610"/>
         <source>Blind via in net &apos;%1&apos;</source>
         <translation>Cлепое переходное отверстие в цепи &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1430"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1612"/>
         <source>Buried via in net &apos;%1&apos;</source>
         <translation>Переходное отверстие, соединяющее внутренние слои в цепи&apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1437"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1619"/>
         <source>Either avoid them or check if your PCB manufacturer supports them and adjust the DRC settings accordingly.</source>
         <translation>Либо избегайте их, либо проверьте, поддерживает ли их производитель вашей печатной платы, и соответствующим образом настройте параметры DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1440"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1622"/>
         <source>Blind vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
         <translation>Слепые отверстия дороги в производстве, и не каждый производитель печатных плат способен их создать.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1444"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1626"/>
         <source>Buried vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
         <translation>Заглубленные проходы дороги в производстве, и не каждый производитель печатных плат может их создать.</translation>
     </message>
@@ -1373,13 +1378,13 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgInvalidPadConnection</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1332"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1500"/>
         <source>Invalid connection of pad &apos;%1&apos; on &apos;%2&apos;</source>
-        <comment>Placeholders: Pad name, layer name</comment>
+        <comment>Placeholders: Pad- or net name, layer name</comment>
         <translation>Неверное подключение площадки &apos;%1&apos; к &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1335"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1506"/>
         <source>The pad origin must be located within the pads copper area, or for THT pads within a hole. Otherwise traces might not beconnected fully. This issue needs to be fixed in the library.</source>
         <translation>Место установки площадки должно находиться в пределах медной области площадки, а для площадок THT - в отверстии. В противном случае, дорожки могут быть соединены не полностью. Эта проблема должна быть исправлена в библиотеке.</translation>
     </message>
@@ -1387,13 +1392,13 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgInvalidVia</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1458"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1640"/>
         <source>Invalid via in net &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
         <translation>Недопустимый via в сети &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1460"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1642"/>
         <source>The via is only drilled between one layer and is therefore invalid.</source>
         <translation>Проходка просверлена только между одним слоем и поэтому недействительна.</translation>
     </message>
@@ -1401,34 +1406,34 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumAnnularRingViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1178"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1280"/>
         <source>Via annular ring of &apos;%1&apos; &lt; %2 %3</source>
         <comment>Placeholders: Net name, minimum annular width, unit</comment>
         <translation>Через кольцевое отверстие &apos;%1&apos; &lt; %2 %3</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1182"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1284"/>
         <source>The via annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
         <translation>Ширина кольцевого кольца (т. е. меди вокруг отверстия) меньше минимальной ширины кольца, заданной в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1186"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1288"/>
         <source>Check the DRC settings and increase the via size if needed.</source>
         <translation>Проверьте настройки DRC и, при необходимости, увеличьте размер файла.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1202"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1339"/>
         <source>Pad annular ring of &apos;%1&apos; &lt; %2 %3</source>
-        <comment>Placeholders: Net name, minimum annular width, unit</comment>
+        <comment>Placeholders: Pad- or net name, minimum annular width, unit</comment>
         <translation>Кольцевое кольцо колодки &apos;%1&apos; &lt; %2 %3</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1206"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1347"/>
         <source>The through-hole pad annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
         <translation>Ширина кольцевого кольца сквозной площадки (т. е. меди вокруг отверстия) меньше минимальной ширины кольца, заданной в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1210"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1351"/>
         <source>Check the DRC settings and increase the pad size if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости увеличьте размер пэда.</translation>
     </message>
@@ -1436,18 +1441,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumBoardOutlineInnerRadiusViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="256"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="269"/>
         <source>Board outline inner radius &lt; %1 %2</source>
         <comment>Placeholders: Minimum radius, unit</comment>
         <translation>Внутренний радиус контура платы &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="259"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="272"/>
         <source>The board outline polygon is not manufacturable with the minimum tool diameter configured in the DRC settings due to edges with a smaller radius. Thus the actually produced board outline might contain larger edge radii and too small cutouts might even be missing completely.</source>
         <translation>Многоугольник контура платы не может быть изготовлен с минимальным диаметром инструмента, заданным в настройках DRC, из-за кромок с меньшим радиусом. Таким образом, фактически изготовленный контур платы может содержать большие радиусы кромок, а слишком маленькие вырезы могут даже полностью отсутствовать.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="265"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="278"/>
         <source>Check the DRC settings and add/increase the radius of inner board edges if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости добавьте/увеличьте радиус внутренних краев платы.</translation>
     </message>
@@ -1455,40 +1460,40 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumDrillDiameterViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1237"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1372"/>
         <source>Via drill diameter of &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Net name, actual diameter, minimum diameter</comment>
         <translation>Диаметр сверловки переходного отверстия &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1242"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1377"/>
         <source>Pad drill diameter of &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Net name, actual diameter, minimum diameter</comment>
         <translation>Диаметр сверла &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1247"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1382"/>
         <source>NPTH drill diameter: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual diameter, minimum diameter, unit</comment>
         <translation>Диаметр сверла NPTH: %1 &lt; %2 %3</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1258"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1393"/>
         <source>The drill diameter of the via is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
         <translation>Диаметр сверления проходного отверстия меньше минимального диаметра сверления с покрытием, заданного в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1262"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1397"/>
         <source>The drill diameter of the through-hole pad is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
         <translation>Диаметр сверла в прокладке сквозного отверстия меньше минимального диаметра сверла с покрытием, заданного в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1266"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1401"/>
         <source>The drill diameter of the non-plated hole is smaller than the minimum non-plated drill diameter configured in the DRC settings.</source>
         <translation>Диаметр бурения неплакированного отверстия меньше минимального диаметра неплакированного бурения, заданного в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1270"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1405"/>
         <source>Check the DRC settings and increase the drill diameter if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости увеличьте диаметр сверла.</translation>
     </message>
@@ -1496,29 +1501,29 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumSlotWidthViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1295"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1430"/>
         <source>Plated slot width: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual width, minimum width, unit</comment>
         <translation>Ширина паза: %1 &lt; %2 %3</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1299"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1434"/>
         <source>NPTH slot width: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual width, minimum width, unit</comment>
         <translation>Ширина прорези NPTH: %1 &lt; %2 %3</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1310"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1445"/>
         <source>The width of the plated slot is smaller than the minimum plated slot width configured in the DRC settings.</source>
         <translation>Ширина пластинчатого паза меньше минимальной ширины пластинчатого паза, заданной в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1314"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1449"/>
         <source>The width of the non-plated slot is smaller than the minimum non-plated slot width configured in the DRC settings.</source>
         <translation>Ширина неплакированной прорези меньше минимальной ширины неплакированной прорези, заданной в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1318"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1453"/>
         <source>Check the DRC settings and increase the slot width if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости увеличьте ширину прорези.</translation>
     </message>
@@ -1526,18 +1531,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumTextHeightViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="321"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="334"/>
         <source>Text height on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual height, minimum height, unit</comment>
         <translation>Высота текста на &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="325"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="338"/>
         <source>The text height is smaller than the minimum height configured in the DRC settings. If the text is smaller than the minimum height specified by the PCB manufacturer, it may not be readable after production.</source>
         <translation>Высота текста меньше минимальной высоты, заданной в настройках DRC. Если высота текста меньше минимальной высоты, указанной производителем печатной платы, он может быть нечитаемым после изготовления.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="330"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="343"/>
         <source>Check the DRC settings and increase the text height if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости увеличьте высоту текста.</translation>
     </message>
@@ -1545,90 +1550,90 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumWidthViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="351"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="364"/>
         <source>Trace width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
         <translation>Толщина дорожки на &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="355"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="368"/>
         <source>The trace is thinner than the minimum copper width configured in the DRC settings.</source>
         <translation>Дорожка тоньше, чем минимальная ширина меди, заданная в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="358"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="371"/>
         <source>Check the DRC settings and increase the trace width if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости увеличьте толщину дорожки.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="373"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="386"/>
         <source>Min. plane width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
         <translation>Минимальная ширина плоскости на &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="377"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="390"/>
         <source>The configured minimum width of the plane is smaller than the minimum copper width configured in the DRC settings.</source>
         <translation>Настроенная минимальная ширина плоскости меньше минимальной ширины меди, заданной в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="380"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="393"/>
         <source>Check the DRC settings and increase the minimum plane width in its properties if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости увеличьте минимальную ширину плоскости в ее свойствах.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="393"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="406"/>
         <source>Polygon width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
         <translation>Ширина многоугольника на &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="397"/>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="447"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="410"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="460"/>
         <source>The polygon line width is smaller than the minimum width configured in the DRC settings.</source>
         <translation>Толщина линии многоугольника меньше минимальной толщины, заданной в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="400"/>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="451"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="413"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="464"/>
         <source>Check the DRC settings and increase the polygon line width if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости увеличьте толщину линии многоугольника.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="414"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="427"/>
         <source>Stroke width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
         <translation>Ширина штриха на &apos;%1&apos;: %2 &lt; %3 %4</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="418"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="431"/>
         <source>The text stroke width is smaller than the minimum width configured in the DRC settings.</source>
         <translation>Ширина обводки текста меньше минимальной ширины, заданной в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="421"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="434"/>
         <source>Check the DRC settings and increase the text stroke width if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости увеличьте ширину обводки текста.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="439"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="452"/>
         <source>Polygon width of &apos;%1&apos; on &apos;%2&apos;: %3 &lt; %4 %5</source>
         <comment>Placeholders: Device name, layer name, actual width, minimum width, unit</comment>
         <translation>Ширина многоугольника &apos;%1&apos; на &apos;%2&apos;: %3 &lt; %4 %5</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="466"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="479"/>
         <source>Circle width of &apos;%1&apos; on &apos;%2&apos;: %3 &lt; %4 %5</source>
         <comment>Placeholders: Device name, layer name, actual width, minimum width, unit</comment>
         <translation>Ширина окружности &apos;%1&apos; на &apos;%2&apos;: %3 &lt; %4 %5</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="474"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="487"/>
         <source>The circle line width is smaller than the minimum width configured in the DRC settings.</source>
         <translation>Толщина линии окружности меньше минимальной толщины, заданной в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="477"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="490"/>
         <source>Check the DRC settings and increase the circle line width if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости увеличьте толщину линии окружности.</translation>
     </message>
@@ -1636,17 +1641,17 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMissingBoardOutline</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="196"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="209"/>
         <source>Missing board outline</source>
         <translation>Отсутствующий контур платы</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="197"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="210"/>
         <source>There&apos;s no board outline defined at all, so the board cannot be manufactured.</source>
         <translation>Контур платы вообще не определен, поэтому ее нельзя изготовить.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="200"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="213"/>
         <source>Add a closed, zero-width polygon on the layer &apos;%1&apos; to draw the board outline.</source>
         <translation>Добавьте замкнутый многоугольник нулевой толщины на слой &quot;%1&quot;, чтобы нарисовать контур платы.</translation>
     </message>
@@ -1654,23 +1659,28 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMissingConnection</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="132"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="140"/>
+        <source>Pad</source>
+        <translation>Контактная площадка</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="142"/>
         <source>Via</source>
         <translation>Переход</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="134"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="144"/>
         <source>Trace</source>
         <translation>Трассировка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="166"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="179"/>
         <source>Missing connection in &apos;%1&apos;: %2 ↔ %3</source>
         <comment>Placeholders: Net name, connection count</comment>
         <translation>Отсутствующее соединение в &apos;%1&apos;: %2 ↔ %3</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="169"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="182"/>
         <source>There is a missing connection in the net, i.e. not all net items are connected together.
 
 Add traces and/or planes to create the missing connections.
@@ -1686,13 +1696,13 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
 <context>
     <name>DrcMsgMissingDevice</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="109"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="117"/>
         <source>Missing device: &apos;%1&apos;</source>
         <comment>Placeholders: Device name</comment>
         <translation>Отсутствующее устройство: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="110"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="118"/>
         <source>There's a component in the schematics without a corresponding device in the board, so the circuit of the PCB is not complete.
 
 Use the &quot;Place Devices&quot; dock to add the device.</source>
@@ -1704,17 +1714,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgMultipleBoardOutlines</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="213"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="226"/>
         <source>Multiple board outlines</source>
         <translation>Несколько контуров платы</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="214"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="227"/>
         <source>There are multiple, independent board outlines defined.</source>
         <translation>Определены несколько независимых контуров совета.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="215"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="228"/>
         <source>Either add only a single board outline or make sure the PCB manufacturer can handle production data containing multiple PCBs.</source>
         <translation>Либо добавьте только один контур платы, либо убедитесь, что производитель печатных плат может обрабатывать производственные данные, содержащие несколько печатных плат.</translation>
     </message>
@@ -1722,17 +1732,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgOpenBoardOutlinePolygon</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="229"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="242"/>
         <source>Non-closed board outline</source>
         <translation>Незакрытый контур платы</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="230"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="243"/>
         <source>The board outline polygon is not closed, i.e. the last vertex is not at the same coordinate as the first vertex.</source>
         <translation>Многоугольник контура платы не замкнут, т.е. последняя вершина не находится в той же координате, что и первая вершина.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="233"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="246"/>
         <source>Replace multiple coincident polygons with a single, connected polygon and append an explicit last vertex to make the polygon closed.</source>
         <translation>Замените несколько совпадающих многоугольников одним соединенным многоугольником и добавьте явную последнюю вершину, чтобы сделать многоугольник замкнутым.</translation>
     </message>
@@ -1740,18 +1750,18 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgOverlappingDevices</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1014"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1086"/>
         <source>Device overlap: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
         <translation>Перекрытие устройств: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1018"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1090"/>
         <source>Two devices are overlapping and thus probably cannot be assembled both at the same time.</source>
         <translation>Два устройства накладываются друг на друга и поэтому, вероятно, не могут быть собраны одновременно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1021"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1093"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems (or only one of them gets assembled).</source>
         <translation>Либо переместите устройства, чтобы увеличить зазор, либо одобрите это сообщение, если вы уверены, что они могут быть собраны без проблем (или только одно из них будет собрано).</translation>
     </message>
@@ -1759,18 +1769,18 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgSilkscreenClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1479"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1661"/>
         <source>Clearance silkscreen text ↔ stop mask &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Зазор текст шелкографии ↔ стоп-маска &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1482"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1664"/>
         <source>The clearance between a silkscreen text and a solder resist opening is smaller than the minimum clearance configured in the DRC settings. This could lead to clipped silkscreen during production.</source>
         <translation>Зазор между текстом шелкографии и отверстием паяльного резиста меньше минимального зазора, заданного в настройках DRC. Это может привести к обрыву шелкографии во время производства.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1487"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1669"/>
         <source>Check the DRC settings and move the text away from the solder resist opening if needed.</source>
         <translation>Проверьте настройки DRC и при необходимости переместите текст в сторону от отверстия для паяльного резиста.</translation>
     </message>
@@ -1778,7 +1788,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgUnconnectedJunction</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="298"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="311"/>
         <source>Unconnected junction in net: &apos;%1&apos;</source>
         <translation>Неподключенное соединение в цепи: &apos;%1&apos;</translation>
     </message>
@@ -1786,12 +1796,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgUnusedLayer</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1559"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1741"/>
         <source>Unused layer: &apos;%1&apos;</source>
         <translation>Неиспользованный слой: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1560"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1742"/>
         <source>The layer contains no copper objects (except the automatically generated through-hole annular rings, if any) so it is useless. This is not critical, but if your intention is to flood it with copper, you need to add a plane manually. Or if you don&apos;t need this layer, you might want to reduce the layer count in the board setup dialog to avoid unnecessary production costs. Also some PCB manufacturers might be confused by empty layers.</source>
         <translation>Слой не содержит никаких медных объектов (кроме автоматически сгенерированных кольцевых колец со сквозными отверстиями, если таковые имеются), поэтому он бесполезен. Это не критично, но если вы собираетесь заполнить его медью, вам нужно добавить плоскость вручную. Или, если вам не нужен этот слой, вы можете уменьшить количество слоев в диалоге настройки платы, чтобы избежать лишних затрат на производство. Кроме того, некоторых производителей печатных плат могут смутить пустые слои.</translation>
     </message>
@@ -1799,13 +1809,13 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgUselessVia</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1522"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1704"/>
         <source>Useless via in net &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
         <translation>Ненужное переходное отверстие в цепи &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1524"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1706"/>
         <source>The via is connected on less than two layers, thus it seems to be useless.</source>
         <translation>Через него проходит менее двух слоев, поэтому он кажется бесполезным.</translation>
     </message>
@@ -1813,12 +1823,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgUselessZone</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1506"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1688"/>
         <source>Useless zone</source>
         <translation>Бесполезная зона</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1507"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1689"/>
         <source>The zone has no layer or rule enabled so it is useless.</source>
         <translation>В зоне нет ни одного включенного слоя или правила, поэтому она бесполезна.</translation>
     </message>
@@ -3983,54 +3993,6 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     </message>
 </context>
 <context>
-    <name>FootprintPad</name>
-    <message>
-        <location filename="libs/librepcb/core/library/pkg/footprintpad.cpp" line="572"/>
-        <source>Not Specified</source>
-        <translation>Не указано</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/library/pkg/footprintpad.cpp" line="574"/>
-        <source>Standard Pad (soldered)</source>
-        <translation>Стандартная колодка (припаяна)</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/library/pkg/footprintpad.cpp" line="576"/>
-        <source>Press-Fit Pad (THT, soldered)</source>
-        <translation>Прижимная колодка (THT, припаяна)</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/library/pkg/footprintpad.cpp" line="578"/>
-        <source>Thermal Pad (SMT, soldered)</source>
-        <translation>Тепловая панель (SMT, паяная)</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/library/pkg/footprintpad.cpp" line="580"/>
-        <source>BGA Pad (SMT, soldered)</source>
-        <translation>Площадка BGA (SMT, паяная)</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/library/pkg/footprintpad.cpp" line="582"/>
-        <source>Edge Connector Pad (SMT, no soldering)</source>
-        <translation>Краевая соединительная колодка (SMT, без пайки)</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/library/pkg/footprintpad.cpp" line="584"/>
-        <source>Test Pad (SMT, no soldering)</source>
-        <translation>Тестовая контактная площадка  (SMT, без пайки)</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/library/pkg/footprintpad.cpp" line="586"/>
-        <source>Local Footprint Fiducial (SMT, no soldering)</source>
-        <translation>Локальные реперные знаки посад. площадки (SMT, без пайки)</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/library/pkg/footprintpad.cpp" line="588"/>
-        <source>Global Board Fiducial (SMT, no soldering)</source>
-        <translation>Глобальные реперные знаки платы (SMT, без пайки)</translation>
-    </message>
-</context>
-<context>
     <name>GerberExcellonOutputJob</name>
     <message>
         <location filename="libs/librepcb/core/job/gerberexcellonoutputjob.cpp" line="41"/>
@@ -5325,6 +5287,54 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     </message>
 </context>
 <context>
+    <name>Pad</name>
+    <message>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="377"/>
+        <source>Not Specified</source>
+        <translation>Не указано</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="379"/>
+        <source>Standard Pad (soldered)</source>
+        <translation>Стандартная колодка (припаяна)</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="381"/>
+        <source>Press-Fit Pad (THT, soldered)</source>
+        <translation>Прижимная колодка (THT, припаяна)</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="383"/>
+        <source>Thermal Pad (SMT, soldered)</source>
+        <translation>Тепловая панель (SMT, паяная)</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="385"/>
+        <source>BGA Pad (SMT, soldered)</source>
+        <translation>Площадка BGA (SMT, паяная)</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="387"/>
+        <source>Edge Connector Pad (SMT, no soldering)</source>
+        <translation>Краевая соединительная колодка (SMT, без пайки)</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="389"/>
+        <source>Test Pad (SMT, no soldering)</source>
+        <translation>Тестовая контактная площадка  (SMT, без пайки)</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="391"/>
+        <source>Local Footprint Fiducial (SMT, no soldering)</source>
+        <translation>Локальные реперные знаки посад. площадки (SMT, без пайки)</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="393"/>
+        <source>Global Board Fiducial (SMT, no soldering)</source>
+        <translation>Глобальные реперные знаки платы (SMT, без пайки)</translation>
+    </message>
+</context>
+<context>
     <name>Path</name>
     <message>
         <location filename="libs/librepcb/core/geometry/path.h" line="214"/>
@@ -5510,12 +5520,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>SerializableObjectList</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/serializableobjectlist.h" line="474"/>
+        <location filename="libs/librepcb/core/serialization/serializableobjectlist.h" line="482"/>
         <source>There is no element of type &quot;%1&quot; with the UUID &quot;%2&quot; in the list.</source>
         <translation>В списке нет элемента типа &quot;%1&quot; с UUID &quot;%2&quot;.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/serializableobjectlist.h" line="483"/>
+        <location filename="libs/librepcb/core/serialization/serializableobjectlist.h" line="491"/>
         <source>There is no element of type &quot;%1&quot; with the name &quot;%2&quot; in the list.</source>
         <translation>В списке нет элемента типа &quot;%1&quot; с именем &quot;%2&quot;.</translation>
     </message>
@@ -6189,122 +6199,122 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <translation>Проверка зазоров между медью...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="681"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="688"/>
         <source>Check board clearances...</source>
         <translation>Проверка зазоров платы...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="830"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="851"/>
         <source>Check hole clearances...</source>
         <translation>Проверьте зазоры в отверстиях...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="887"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="908"/>
         <source>Check drill clearances...</source>
         <translation>Проверьте зазоры в сверлах...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="974"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1002"/>
         <source>Check drill to board edge clearances...</source>
         <translation>Проверьте зазоры между сверлом и краем доски...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1054"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1092"/>
         <source>Check silkscreen to stopmask clearances...</source>
         <translation>Проверьте зазоры между шелкографией и стоп-маской...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1144"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1182"/>
         <source>Check copper widths...</source>
         <translation>Проверьте ширину меди...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1160"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1198"/>
         <source>Check PTH annular rings...</source>
         <translation>Проверьте кольцевые кольца PTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1229"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1282"/>
         <source>Check NPTH drill diameters...</source>
         <translation>Проверьте диаметры сверл NPTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1265"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1318"/>
         <source>Check NPTH slot widths...</source>
         <translation>Проверьте ширину прорезей NPTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1300"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1353"/>
         <source>Check PTH drill diameters...</source>
         <translation>Проверьте диаметры сверл PTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1342"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1408"/>
         <source>Check PTH slot widths...</source>
         <translation>Проверьте ширину прорезей PTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1373"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1454"/>
         <source>Check silkscreen widths...</source>
         <translation>Проверьте ширину шелкографии...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1391"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1472"/>
         <source>Check silkscreen text heights...</source>
         <translation>Проверьте высоту текста, нанесенного методом шелкографии...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1412"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1493"/>
         <source>Check keepout zones...</source>
         <translation>Проверьте зоны сохранения...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1657"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1749"/>
         <source>Check for useless or disallowed vias...</source>
         <translation>Проверьте, нет ли бесполезных или запрещенных виа...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1690"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1782"/>
         <source>Check for disallowed NPTH slots...</source>
         <translation>Проверьте наличие запрещённых прорезей NPTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1723"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1815"/>
         <source>Check for disallowed PTH slots...</source>
         <translation>Проверьте наличие запрещённых прорезей PTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1750"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1855"/>
         <source>Check pad connections...</source>
         <translation>Проверьте соединения колодок...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1777"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1900"/>
         <source>Check device clearances...</source>
         <translation>Проверьте зазоры в устройствах...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1832"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1955"/>
         <source>Check board outline...</source>
         <translation>Проверьте контур платы...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1908"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2031"/>
         <source>Check used layers...</source>
         <translation>Проверьте используемые элементы...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1971"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2094"/>
         <source>Check for unplaced components...</source>
         <translation>Проверьте наличие неустановленных компонентов...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1982"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2105"/>
         <source>Check for missing connections...</source>
         <translation>Проверка на отсутствующие соединения...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2023"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2152"/>
         <source>Check for stale objects...</source>
         <translation>Проверьте, не залежались ли объекты...</translation>
     </message>
@@ -7359,71 +7369,72 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1172"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1249"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1174"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1318"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1251"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1284"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1576"/>
         <source>None</source>
         <translation>Отсутствует</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1895"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2153"/>
         <source>Add devices to board</source>
         <translation>Добавить устройство на плату</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1923"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1975"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2006"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2060"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2181"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2233"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2264"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2318"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1941"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2199"/>
         <source>Preparing board...</source>
         <translation>Подготовка платы...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1941"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2199"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1994"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2252"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>Экспорт списка цепей IPC D-356A</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2058"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2316"/>
         <source>Success!</source>
         <translation>Успешно!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2067"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2325"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation>Это новая функция, и мы смогли протестировать ее только на очень немногих внешних маршрутизаторах. Если у вас возникнут проблемы с совместимостью с вашим маршрутизатором, пожалуйста, сообщите нам об этом!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2105"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2363"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation>Разбор сессии Specctra „%1“...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2114"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2372"/>
         <source>Import failed, no changes made to the board.</source>
         <translation>Импорт не удался, никаких изменений на плате не произошло.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2119"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2377"/>
         <source>Specctra SES Import</source>
         <translation>Specctra SES Импорт</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2129"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2387"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -7563,6 +7574,22 @@ You need at least LibrePCB %1 to open it.
     </message>
 </context>
 <context>
+    <name>librepcb::editor::BoardEditorState_AddPad</name>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="380"/>
+        <source>Add Pad to Board</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="402"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="432"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="457"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="477"/>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+</context>
+<context>
     <name>librepcb::editor::BoardEditorState_AddStrokeText</name>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="221"/>
@@ -7628,26 +7655,26 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawTrace</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="339"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="342"/>
         <source>Draw Board Trace</source>
         <translation>Нарисовать дорожку на плате</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="347"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="350"/>
         <source>Invalid layer selected.</source>
         <translation>Выбран недопустимый слой.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="354"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="358"/>
         <source>This pad is not connected to any net, therefore no trace can be attached to it. To allow attaching a trace, first connect this pad to a net in the schematics. So this is a problem of the schematics, not of the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="489"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="657"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="678"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="703"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="808"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="505"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="677"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="698"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="728"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="843"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -7671,75 +7698,306 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_Select</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="252"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="351"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="579"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="663"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="672"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="681"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="690"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="830"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="857"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="887"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1254"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1274"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1290"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1306"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1322"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1411"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1427"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1442"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1471"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1497"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1519"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1537"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1555"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1573"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1588"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1659"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1747"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="254"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="353"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="586"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="670"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="679"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="688"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="697"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="837"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="864"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="894"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1261"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1281"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1297"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1313"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1329"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1418"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1434"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1451"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1480"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1506"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1528"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1546"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1564"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1582"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1597"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1668"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1756"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="874"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="881"/>
         <source>None</source>
         <translation>Отсутствует</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1382"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1389"/>
         <source>Set Width</source>
         <translation>Заданная ширина</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1586"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1595"/>
         <source>Copied to clipboard!</source>
         <translation>Скопировано в буфер обмена!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1600"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1609"/>
         <source>Paste board elements</source>
         <translation>Вставить элементы платы</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1758"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1767"/>
         <source>Measurement Result</source>
         <translation>Результат измерения</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1760"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1769"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
         <translation><numerusform>Общая длина %n сегмента дорожек: %2 мм / %3 дюймов</numerusform><numerusform>Общая длина %n сегментов дорожек: %2 мм / %3 дюймов</numerusform><numerusform>Общая длина %n сегментов дорожек: %2 мм / %3 дюймов</numerusform><numerusform>Общая длина %n сегментов дорожек: %2 мм / %3 дюймов</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1768"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1777"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
         <translation>ПРЕДУПРЕЖДЕНИЕ: Выбран %1 сегмент трассы, но не все из них соединены!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1797"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1806"/>
         <source>Selected trace segments may not branch!</source>
         <translation>Выбранные сегменты трассировки могут не разветвляться!</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::BoardPadPropertiesDialog</name>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="14"/>
+        <source>Pad Properties</source>
+        <translation>Свойства контактной площадки</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="24"/>
+        <source>General</source>
+        <translation>Общие</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="33"/>
+        <source>Net:</source>
+        <translation>Цепь:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="40"/>
+        <source>Component Side:</source>
+        <translation>Сторона компонента:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="47"/>
+        <source>Shape:</source>
+        <translation>Фигура:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="54"/>
+        <source>Hole Diameter:</source>
+        <translation>Диаметр отверстия:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="66"/>
+        <source>Multiple holes, see &lt;a href=&quot;tab&quot;&gt;here&lt;/a&gt;.</source>
+        <translation>Множество отверстий, см. &lt;a href=&quot;tab&quot;&gt;здесь&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="79"/>
+        <source>Convert to SMT</source>
+        <translation>Сконвертировать в SMT</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="101"/>
+        <source>Position:</source>
+        <translation>Положение:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="118"/>
+        <source>Rotation:</source>
+        <translation>Вращение:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="128"/>
+        <source>Corner Radius:</source>
+        <translation>Радиус угла:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="153"/>
+        <source>Top</source>
+        <translation>Верх</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="178"/>
+        <source>Bottom</source>
+        <translation>Низ</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="207"/>
+        <source>Obround</source>
+        <translation>Овальный</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="233"/>
+        <source>Rounded rectangle</source>
+        <translation>Закругленный прямоугольник</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="259"/>
+        <source>Rectangle</source>
+        <translation>Прямоугольник</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="285"/>
+        <source>Octagon</source>
+        <translation>Восьмиугольник</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="311"/>
+        <source>Custom shape outline as defined on next tab</source>
+        <translation>Пользовательский контур фигуры, как указано на следующей вкладке</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="314"/>
+        <source>Custom</source>
+        <translation>Пользов.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="335"/>
+        <source>Size:</source>
+        <translation>Размер:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="352"/>
+        <source>Function:</source>
+        <translation>Функция:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="362"/>
+        <source>TextLabel</source>
+        <translation>ТекстоваяМетка</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="369"/>
+        <source>Options:</source>
+        <translation>Опции:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="378"/>
+        <source>Lock</source>
+        <translation>Блокировка (фиксация)</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="388"/>
+        <source>Plated Holes</source>
+        <translation>Метал. отверстия</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="406"/>
+        <source>Select previous hole</source>
+        <translation>Выбрать предыдущее отверстие</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="419"/>
+        <source>Select next hole</source>
+        <translation>Выбрать следующее отверстие</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="432"/>
+        <source>Remove current hole</source>
+        <translation>Удалить текущее отверстие</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="443"/>
+        <source>Add new hole</source>
+        <translation>Добавить новое отверстие</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="483"/>
+        <source>Clearances</source>
+        <translation>Зазоры</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="492"/>
+        <source>Stop Mask:</source>
+        <translation>Стоп-маска:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="507"/>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="573"/>
+        <source>Off</source>
+        <translation>Выкл.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="523"/>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="589"/>
+        <source>From Design Rules</source>
+        <translation>Из правил проектирования</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="539"/>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="605"/>
+        <source>Manual:</source>
+        <translation>Ручной:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="558"/>
+        <source>Solder Paste:</source>
+        <translation>Паяльная паста:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="629"/>
+        <source>Note: For THT pads the solder paste should usually be set to &apos;Off&apos;. But if enabled anyway, the solder paste is added only to the solder side of the pad.</source>
+        <translation>Примечание: Для площадок THT паяльная паста обычно должна быть отключена. Но если это значение включено, паяльная паста будет добавлена только на паяльную сторону площадки.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="642"/>
+        <source>Copper Keepout:</source>
+        <translation>Отступ от меди:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="657"/>
+        <source>Note: Intended to keep copper away from fiducials.</source>
+        <translation>Примечание: Предназначен для того, чтобы держать медь подальше от реперных знаков.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="671"/>
+        <source>Custom Shape</source>
+        <translation>Пользов. форма</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="685"/>
+        <source>Coordinates are relative to the pad origin and before rotation.</source>
+        <translation>Координаты указаны относительно начала координат площадки и до вращения.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="374"/>
+        <source>Hole %1 of %2</source>
+        <translation>Отверстие %1 из %2</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="378"/>
+        <source>Pad has no holes</source>
+        <translation>Контактная площадка не имеет отверстий</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="421"/>
+        <source>Invalid outline</source>
+        <translation>Неправильный контур</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="422"/>
+        <source>The custom pad outline does not represent a valid area.</source>
+        <translation>Контур пользовательской площадки не является правильной областью.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="476"/>
+        <source>Error</source>
+        <translation>Ошибка</translation>
     </message>
 </context>
 <context>
@@ -8756,8 +9014,8 @@ You need at least LibrePCB %1 to open it.
     <name>librepcb::editor::CmdBoardNetSegmentAddElements</name>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardnetsegmentaddelements.cpp" line="43"/>
-        <source>Add net segment elements</source>
-        <translation>Добавить элементы сегмента цепи</translation>
+        <source>Add Vias/Pads/Traces</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8780,8 +9038,16 @@ You need at least LibrePCB %1 to open it.
     <name>librepcb::editor::CmdBoardNetSegmentRemoveElements</name>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardnetsegmentremoveelements.cpp" line="44"/>
-        <source>Remove net segment elements</source>
-        <translation>Удалить элементы сегмента цепи</translation>
+        <source>Remove Vias/Pads/Traces</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::CmdBoardPadEdit</name>
+    <message>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardpadedit.cpp" line="41"/>
+        <source>Edit Pad</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8858,32 +9124,32 @@ You need at least LibrePCB %1 to open it.
         <translation>Файл сессии Specctra успешно разобран.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="440"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="451"/>
         <source>Component &apos;%1&apos; from Specctra session does not exist in this board.</source>
         <translation>Компонент „%1“ из сессии Specctra не существует на этой плате.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="448"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="459"/>
         <source>Component &apos;%1&apos; has been flipped, which is not supported yet.</source>
         <translation>Компонент „%1“ был перевернут, что пока не поддерживается.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="472"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="483"/>
         <source>The component &apos;%1&apos; does not exist in the Specctra session.</source>
         <translation>Компонент „%1“ не существует в сессии Specctra.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="483"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="500"/>
         <source>The net &apos;%1&apos; from Specctra session does not exist in this project, skipping it.</source>
         <translation>Сеть „%1“ из сессии Specctra не существует в этом проекте, пропуская ее.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="697"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="753"/>
         <source>Updated %1 components (%2 unmodified components skipped).</source>
         <translation>Обновлен %1 компонент (%2 немодифицированных компонента пропущены).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="700"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="756"/>
         <source>Updated %1 net objects (%2 unmodified objects skipped).</source>
         <translation>Обновлено %1 объектов сети (%2 немодифицированных объекта пропущены).</translation>
     </message>
@@ -9145,7 +9411,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdDragSelectedBoardItems</name>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmddragselectedboarditems.cpp" line="64"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmddragselectedboarditems.cpp" line="66"/>
         <source>Drag Board Elements</source>
         <translation>Перетащить элементы платы</translation>
     </message>
@@ -9177,7 +9443,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdFlipSelectedBoardItems</name>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdflipselectedboarditems.cpp" line="72"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdflipselectedboarditems.cpp" line="73"/>
         <source>Flip Board Elements</source>
         <translation>Отразить элементы платы</translation>
     </message>
@@ -9369,7 +9635,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdPasteBoardItems</name>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdpasteboarditems.cpp" line="86"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdpasteboarditems.cpp" line="87"/>
         <source>Paste Board Elements</source>
         <translation>Вставить элементы платы</translation>
     </message>
@@ -9613,6 +9879,22 @@ You need at least LibrePCB %1 to open it.
         <location filename="libs/librepcb/editor/project/cmd/cmdschematictextremove.cpp" line="41"/>
         <source>Remove schematic text</source>
         <translation>Удалить текст схемы</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::CmdSimplifyBoardNetSegments</name>
+    <message>
+        <location filename="libs/librepcb/editor/project/cmd/cmdsimplifyboardnetsegments.cpp" line="51"/>
+        <source>Simplify Board Net Segments</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::CmdSimplifySchematicNetSegments</name>
+    <message>
+        <location filename="libs/librepcb/editor/project/cmd/cmdsimplifyschematicnetsegments.cpp" line="49"/>
+        <source>Simplify Schematic Net Segments</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13389,14 +13671,14 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_AddPads</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="343"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="342"/>
         <source>Add footprint pad</source>
         <translation>Добавить площадку посад. места</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="369"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="389"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="404"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="368"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="388"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="403"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -13698,47 +13980,47 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="671"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="680"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2397"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2436"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2490"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="670"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="679"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2390"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2429"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2483"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="989"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="983"/>
         <source>Save Changes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="990"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="984"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1611"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1605"/>
         <source>(unconnected)</source>
         <translation>(не подключен)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1999"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1993"/>
         <source>New Line Width</source>
         <translation>Новая толщина линии</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2206"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2200"/>
         <source>Apply to all unspecified pads</source>
         <translation>Применить для всех неопределенных контактных площадок</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2228"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2222"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>Исправить  функции неопределенных контактных площадок</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2567"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2560"/>
         <source>Please select a footprint.</source>
         <translation>Пожалуйста, выберите посадочное место.</translation>
     </message>
@@ -14546,27 +14828,27 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicEditorState_DrawWire</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="247"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="249"/>
         <source>Draw Wire</source>
         <translation>Рисовать дорожку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="279"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="546"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="281"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="548"/>
         <source>Invalid net name</source>
         <translation>Недопустимое имя цепи</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="280"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="548"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="282"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="550"/>
         <source>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</source>
         <translation>Не удалось принудительно применить имя, поскольку &apos;%1&apos; не является допустимым именем цепи.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="379"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="560"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="578"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="601"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="562"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="580"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="608"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -14574,31 +14856,31 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicEditorState_Select</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="321"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="467"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="498"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="507"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="516"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="774"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="795"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="816"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="836"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="852"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="867"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="894"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="913"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="928"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1011"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="322"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="468"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="499"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="508"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="517"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="775"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="796"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="817"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="837"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="853"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="870"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="897"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="916"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="931"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1014"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="926"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="929"/>
         <source>Copied to clipboard!</source>
         <translation>Скопировано в буфер обмена!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="991"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="994"/>
         <source>Paste Schematic Elements</source>
         <translation>Вставить элементы схемы</translation>
     </message>
@@ -15946,6 +16228,49 @@ Attention: This will be applied immediately and cannot be undone!</source>
     </message>
 </context>
 <context>
+    <name>ui::AddPadToolBar</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="121"/>
+        <source>Copper Clearance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="121"/>
+        <source>Height</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="144"/>
+        <source>Drill Diameter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="169"/>
+        <source>Corner Radius</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="189"/>
+        <source>Press-Fit</source>
+        <translation>Пресс-фит</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="190"/>
+        <source>Mark this pad as a press-fit pad</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="92"/>
+        <source>Diameter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="92"/>
+        <source>Width</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ui::AddStrokeTextToolBar</name>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/addstroketexttoolbar.slint" line="31"/>
@@ -16060,67 +16385,67 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="157"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="179"/>
         <source>Empty Schematics</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="163"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="185"/>
         <source>Only components existing in the schematics can be added to a board, but the schematics of this project are currently empty. Please draw the schematics first before starting with the board design.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="173"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="195"/>
         <source>Learn how to create schematics</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="192"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="214"/>
         <source>Get Started</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="198"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="220"/>
         <source>Start designing the board by placing all devices which are part of the schematics.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="208"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="230"/>
         <source>Select an unplaced component in the list.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="214"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="236"/>
         <source>Choose the desired device (which defines the package to use).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="220"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="242"/>
         <source>Choose the desired footprint variant if there are multiple.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="226"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="248"/>
         <source>Confirm with the button and place the device interactively with the cursor.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="232"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="254"/>
         <source>Place Devices</source>
         <translation>Разместить устройства</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="246"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="268"/>
         <source>Learn how to create boards</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="438"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="551"/>
         <source>DRC Messages: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="449"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="562"/>
         <source>Unplaced: %1</source>
         <translation type="unfinished"/>
     </message>
@@ -16152,6 +16477,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <name>ui::BoardSideSelector</name>
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintpadtoolbar.slint" line="44"/>
+        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="44"/>
         <source>Board Side</source>
         <translation type="unfinished"/>
     </message>
