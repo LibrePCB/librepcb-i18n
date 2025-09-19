@@ -17,7 +17,7 @@
     <message>
         <location filename="libs/librepcb/core/attribute/attributekey.h" line="50"/>
         <source>Invalid attribute key: &apos;%1&apos;</source>
-        <translation>Nesprávny kľúč atribútu: &apos;%1&apos;</translation>
+        <translation>Neplatný kľúč atribútu: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -30,7 +30,7 @@
     <message>
         <location filename="libs/librepcb/core/attribute/attributetype.cpp" line="124"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
-        <translation>Nesprávny typ atribútu: &quot;%1&quot;</translation>
+        <translation>Neplatný typ atribútu: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -136,7 +136,7 @@
     <message>
         <location filename="libs/librepcb/core/types/circuitidentifier.h" line="53"/>
         <source>Invalid identifier: &apos;%1&apos;</source>
-        <translation>Nesprávny identifikátor: &apos;%1&apos;</translation>
+        <translation>Neplatný identifikátor: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -545,7 +545,7 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="716"/>
         <source>ERROR: Board index &apos;%1&apos; is invalid.</source>
-        <translation>CHYBA: Index dosky &apos;%1&apos; nie je platný.</translation>
+        <translation>CHYBA: Index dosky &apos;%1&apos; je neplatný.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="724"/>
@@ -2355,7 +2355,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="562"/>
         <source>Open the project&apos;s bill of materials (BOM) to see part availability, prices etc.</source>
-        <translation type="unfinished"/>
+        <translation>Otvorte zoznam súčiastok projektu (BOM) a pozrite si dostupnosť komponentov, ceny atď.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="571"/>
@@ -2841,12 +2841,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1008"/>
         <source>Add Image</source>
-        <translation type="unfinished"/>
+        <translation>Pridať obrázok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1009"/>
         <source>Add graphical image objects (e.g. a logo)</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie grafického obrázkového objektu (napr. logo)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1017"/>
@@ -4007,12 +4007,12 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/job/gerberx3outputjob.cpp" line="40"/>
         <source>Pick&amp;Place / Glue Mask</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;Place / Maska lepidla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/gerberx3outputjob.h" line="98"/>
         <source>Pick&amp;Place / Glue Mask (Gerber X3)</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;Place / Maska lepidla (Gerber X3)</translation>
     </message>
 </context>
 <context>
@@ -4030,7 +4030,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.cpp" line="216"/>
         <source>Board Rendering PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF s vykreslením dosky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="122"/>
@@ -4050,12 +4050,12 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="152"/>
         <source>Rendering Top</source>
-        <translation type="unfinished"/>
+        <translation>Vykreslenie vrchnej strany</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="156"/>
         <source>Rendering Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Vykreslenie spodnej strany</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="160"/>
@@ -4073,7 +4073,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/geometry/image.cpp" line="265"/>
         <source>Unsupported image file format &apos;%1&apos;. Supported formats are: %2</source>
-        <translation type="unfinished"/>
+        <translation>Nepodporovaný formát súboru obrázku &apos;%1&apos;. Podporované formáty sú: %2</translation>
     </message>
 </context>
 <context>
@@ -4081,32 +4081,32 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="149"/>
         <source>Image Files</source>
-        <translation type="unfinished"/>
+        <translation>Súbory obrázku</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="151"/>
         <source>Choose Image File</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť súbor s obrázkom</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="190"/>
         <source>The image will be copied into the symbol as a %1 file.</source>
-        <translation type="unfinished"/>
+        <translation>Obrázok sa skopíruje do schematickej značky ako súbor %1.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="193"/>
         <source>The image will be copied into the project as a %1 file.</source>
-        <translation type="unfinished"/>
+        <translation>Obrázok sa skopíruje do projektu ako súbor %1.</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="197"/>
         <source>Basename of the new file (max. %n characters):</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Východzí názov nového súboru (max. %n znakov):</numerusform><numerusform>Východzí názov nových súborov (max. %n znakov):</numerusform><numerusform>Východzí názov nových súborov (max. %n znakov):</numerusform><numerusform>Východzí názov nových súborov (max. %n znakov):</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="200"/>
         <source>Image Name</source>
-        <translation type="unfinished"/>
+        <translation>Názov obrázku</translation>
     </message>
 </context>
 <context>
@@ -4610,27 +4610,27 @@ Zdá sa, že toto pravidlo sa pri tomto puzdre nedodržiava. V prípade nepravid
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="64"/>
         <source>Missing image file: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Chýbajúci súbor obrázku: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="66"/>
         <source>Unsupported image format: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepodporovaný formát obrázku: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="67"/>
         <source>Invalid image file: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný formát obrázku: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="74"/>
         <source>The referenced file of an image does either not exist in the symbol or is not a valid image file. Try removing and re-adding the image from the symbol.</source>
-        <translation type="unfinished"/>
+        <translation>Odkazovaný súbor obrázka v schematickej značke neexistuje, alebo nie je platným súborom obrázka. Skúste obrázok zo sch. značky odstrániť a znova pridať.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="78"/>
         <source>Details:</source>
-        <translation type="unfinished"/>
+        <translation>Podrobnosti:</translation>
     </message>
 </context>
 <context>
@@ -5659,7 +5659,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="82"/>
         <source>3D View</source>
-        <translation type="unfinished"/>
+        <translation>3D Zobrazenie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="83"/>
@@ -5714,7 +5714,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="92"/>
         <source>Image Borders</source>
-        <translation type="unfinished"/>
+        <translation>Okraje obrázka</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="93"/>
@@ -5978,7 +5978,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="193"/>
         <source>Background/Foreground</source>
-        <translation type="unfinished"/>
+        <translation>Pozadie/Popredie</translation>
     </message>
 </context>
 <context>
@@ -6010,7 +6010,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/types/version.cpp" line="97"/>
         <source>Invalid version number: &quot;%1&quot;</source>
-        <translation>Nesprávne číslo verzie: &quot;%1&quot;</translation>
+        <translation>Neplatné číslo verzie: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -6463,12 +6463,12 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="229"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings.</source>
-        <translation type="unfinished"/>
+        <translation>Špeciálne dialógové okno generátora Gerber/Excellon bolo odstránené v z dôvodu prítomnosti úloh generovania výstupov. Zodpovedajúce nastavenia výstupu budú z dosiek odstránené v nadchádzajúcom vydaní. Odporúča sa pridať výstupnú úlohu Gerber/Excellon už teraz, čo umožní migrovať staré nastavenia exportu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="291"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
-        <translation type="unfinished"/>
+        <translation>Projekt má nastavené vlastné atribúty pre export zoznamu súčiastok (%1). Ale v LibrePCB 2.0 bol manuálny export kusovníka odstránený z dôvodu prítomnosti výkonnejšej funkcie generovania výstupných úloh. Na generovanie zoznamu materiálu teraz použite úlohy generovania výstupov. Ak pridáte novú výstupnú úlohu tvorby zoznamu súčiastok, tieto vlastné atribúty budú automaticky importované.</translation>
     </message>
 </context>
 <context>
@@ -6481,12 +6481,12 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/export/graphicsexport.cpp" line="372"/>
         <source>Failed to export image &apos;%1&apos; due to unknown file extension. Supported extensions: %2</source>
-        <translation type="unfinished"/>
+        <translation>Nepodarilo sa exportovať obrázok &apos;%1&apos; z dôvodu neznámej prípony súboru. Podporované prípony: %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/export/graphicsexport.cpp" line="379"/>
         <source>Failed to export image &apos;%1&apos;. Check file permissions.</source>
-        <translation type="unfinished"/>
+        <translation>Nepodarilo sa exportovať obrázok &apos;%1&apos;. Skontrolujte povolenia súboru.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/export/graphicsexport.cpp" line="401"/>
@@ -6652,17 +6652,17 @@ Potrebujete najnovšiu verziu LibrePCB %1 pre jeho otvorenie.
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="117"/>
         <source>The output file path &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Cesta k výstupnému súboru &apos;%1&apos; je neplatná.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="125"/>
         <source>Attempted to write file &apos;%1&apos; outside the output directory, which is not allowed!</source>
-        <translation type="unfinished"/>
+        <translation>Pokus o zápis súboru &apos;%1&apos; mimo nastaveného výstupného adresára, nie je povolený!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="134"/>
         <source>The file path &apos;%1&apos; is absolute, but only relative paths are allowed!</source>
-        <translation type="unfinished"/>
+        <translation>Cesta k súboru &apos;%1&apos; je nastavená ako absolútna, ale povolené sú iba relatívne cesty!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="156"/>
@@ -6788,7 +6788,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/core/sqlitedatabase.cpp" line="72"/>
         <source>Invalid database: &quot;%1&quot;</source>
-        <translation>Nesprávna databáza: &quot;%1&quot;</translation>
+        <translation>Neplatná databáza: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/sqlitedatabase.cpp" line="80"/>
@@ -9479,7 +9479,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdimageadd.cpp" line="42"/>
         <source>Add Image</source>
-        <translation type="unfinished"/>
+        <translation>Pridať obrázok</translation>
     </message>
 </context>
 <context>
