@@ -404,22 +404,22 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="278"/>
         <source>Run the symbol check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Spustí kontrolu schematických značiek, vypíšte všetky neschválené oznámenia a oznámi zlyhanie (ukončovací kód = 1), ak existujú neschválené oznámenia.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="282"/>
         <source>Export the symbol to a graphical file. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Exportuje schematickú značku do grafického súboru. Podporované prípony súborov: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="290"/>
         <source>Run the package check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Spustí kontrolu puzdier, vypíšte všetky neschválené oznámenia a oznámi zlyhanie (ukončovací kód = 1), ak existujú neschválené oznámenia.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="294"/>
         <source>Export the contained footprint(s) to a graphical file. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Exportuje puzdro, alebo puzdra do grafického súboru. Podporované prípony súborov: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="302"/>
@@ -439,7 +439,7 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="321"/>
         <source>Deprecated, replaced by:</source>
-        <translation type="unfinished"/>
+        <translation>Zastarané, teraz nahradené:</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="340"/>
@@ -469,12 +469,12 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="402"/>
         <source>Path to symbol directory (containing *.lp).</source>
-        <translation type="unfinished"/>
+        <translation>Cesta do adresára so schematickou značkou (obsahujúci *.lp).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="410"/>
         <source>Path to package directory (containing *.lp).</source>
-        <translation type="unfinished"/>
+        <translation>Cesta do adresára s puzdrom (obsahujúci *.lp).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="418"/>
@@ -731,7 +731,7 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1325"/>
         <source>Run checks...</source>
-        <translation type="unfinished"/>
+        <translation>Spustenie kontroly...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1334"/>
@@ -761,7 +761,7 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1409"/>
         <source>Run checks for &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Spustenie kontroly &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1432"/>
@@ -771,37 +771,37 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1453"/>
         <source>Open symbol &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Otvorenie schematickej značky &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1460"/>
         <source>Opened symbol: %1</source>
-        <translation type="unfinished"/>
+        <translation>Otvorená schematická značka: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1478"/>
         <source>Export symbol to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Exportovanie schematickej značky do &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1551"/>
         <source>Open package &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Otvorenie puzdra &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1558"/>
         <source>Opened package: %1</source>
-        <translation type="unfinished"/>
+        <translation>Otvorené puzdro: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1576"/>
         <source>Export footprint(s) to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Exportovanie puzdra/puzdier do &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1660"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For footprint output files, you could add a placeholder like &apos;%1&apos; to the path.</source>
-        <translation type="unfinished"/>
+        <translation>POZNÁMKA: Aby ste sa vyhli prepisovaniu súborov, uistite sa, že všetkým exportným funkciám zadávate jedinečné cesty k súborom. Pre výstupné súbory s puzdrami môžete k ceste pridať zástupný symbol, napríklad &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1798"/>
@@ -816,17 +816,17 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1827"/>
         <source>The command or option &apos;%1&apos; is deprecated and will be removed in a future release.</source>
-        <translation type="unfinished"/>
+        <translation>Príkaz, alebo možnosť &apos;%1&apos; je zastaraná a v ďalšom vydaní bude odstránená.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1832"/>
         <source>Please see &apos;%1&apos; for a possible replacement.</source>
-        <translation type="unfinished"/>
+        <translation>Pre možnú náhradu pozrite &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1835"/>
         <source>For now, the command will be executed, but the CLI will return with a nonzero exit code. As a temporary workaround, this warning and the nonzero exit code can be suppressed with the environment variable &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Príkaz sa zatiaľ vykoná, ale rozhranie príkazového riadku vráti nenulový ukončovací kód. Ako dočasné riešenie je možné toto varovanie a nenulový ukončovací kód potlačiť pomocou premennej prostredia &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1026,12 +1026,12 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="813"/>
         <source>The clearance between a pad and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Vzdialenosť medzi plôškou vývodu a obrysom dosky je menšia ako je nastavená vzdialenosť od obrysu dosky v návrhových pravidlách (DRC).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="817"/>
         <source>Check the DRC settings and move the pad away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolujte nastavenie v návrhových pravidlách (DRC) a ak je to potrebné, presuňte plôšku vývodu ďalej od obrysu dosky.</translation>
     </message>
 </context>
 <context>
@@ -1039,7 +1039,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="516"/>
         <source>pad</source>
-        <translation type="unfinished"/>
+        <translation>plôška vývodu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="518"/>
