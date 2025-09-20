@@ -916,7 +916,7 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <message>
         <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="170"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
-        <translation>Adresár &quot;%1&quot; sa nedá uzamknúť, pretože už je uzamknutý pomocou &quot;%2&quot;. Zatvorte aplikáciu používajúcu tento adresár a skúste to znova.</translation>
+        <translation>Adresár &quot;%1&quot; sa nedá zamknúť, pretože už je zamknutý pomocou &quot;%2&quot;. Zatvorte aplikáciu používajúcu tento adresár a skúste to znova.</translation>
     </message>
 </context>
 <context>
@@ -2721,7 +2721,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="898"/>
         <source>Allow dragging locked items</source>
-        <translation>Povoliť ťahanie uzamknutých položiek</translation>
+        <translation>Povoliť ťahanie zamknutých položiek</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="906"/>
@@ -7502,12 +7502,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="220"/>
         <source>Running Quick Check</source>
-        <translation type="unfinished"/>
+        <translation>Prebieha rýchla kontrola</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="220"/>
         <source>Running Design Rule Check</source>
-        <translation type="unfinished"/>
+        <translation>Prebieha kontrola podľa návrhových pravidiel (DRC)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="275"/>
@@ -7527,7 +7527,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="343"/>
         <source>Success! Please continue in the web browser:</source>
-        <translation type="unfinished"/>
+        <translation>Úspešné! Prosím, pokračujte vo webovom prehliadači:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="429"/>
@@ -7580,7 +7580,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="380"/>
         <source>Add Pad to Board</source>
-        <translation type="unfinished"/>
+        <translation>Pridať plôšku vývodu na dosku</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="402"/>
@@ -7669,7 +7669,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="358"/>
         <source>This pad is not connected to any net, therefore no trace can be attached to it. To allow attaching a trace, first connect this pad to a net in the schematics. So this is a problem of the schematics, not of the board.</source>
-        <translation type="unfinished"/>
+        <translation>Táto plôška vývodu nie je pripojená k žiadnemu prepojeniu, preto k nej nie je možné pripojiť žiadny spoj. Ak chcete pripojiť spoj, najskôr ju pripojte k prepojeniu v schéme. Toto je problém schémy, nie dosky.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="505"/>
@@ -7959,7 +7959,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="642"/>
         <source>Copper Keepout:</source>
-        <translation>Zakázaná oblasť spojov:</translation>
+        <translation>Zakázaná oblasť vodivých prvkov:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="657"/>
@@ -8899,7 +8899,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="163"/>
         <source>The component in the schematic does not specify the chosen device as compatible and is locked for modifications from the board editor. Either add a corresponding assembly option to the component in the schematic, or remove the lock from the component.</source>
-        <translation>Komponent v schéme nešpecifikuje zvolenú súčiastku ako kompatibilnú a pre úpravy je uzamknutý v editore dosky. Buď pridajte zodpovedajúcu možnosť montáže ku komponentu v schéme, alebo odstráňte uzamknutie komponentu.</translation>
+        <translation>Komponent v schéme nešpecifikuje zvolenú súčiastku ako kompatibilnú a pre úpravy je zamknutý v editore dosky. Buď pridajte zodpovedajúcu možnosť montáže ku komponentu v schéme, alebo odstráňte uzamknutie komponentu.</translation>
     </message>
 </context>
 <context>
@@ -10516,7 +10516,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/directorylockhandlerdialog.ui" line="14"/>
         <source>Directory is locked</source>
-        <translation>Adresár je uzamknutý</translation>
+        <translation>Adresár je zamknutý</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/directorylockhandlerdialog.ui" line="35"/>
