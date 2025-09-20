@@ -12699,12 +12699,12 @@ Do you really want to close it?</source>
 <context>
     <name>librepcb::editor::LibrariesModel</name>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="207"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="211"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="408"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="413"/>
         <source>Failed to fetch libraries from &apos;%1&apos;: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -18939,7 +18939,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="404"/>
+        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="407"/>
         <source>Help / About</source>
         <translation>Помощь / О программе</translation>
     </message>

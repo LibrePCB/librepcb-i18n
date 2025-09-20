@@ -12705,12 +12705,12 @@ Naozaj chcete zavrieť toto okno?</translation>
 <context>
     <name>librepcb::editor::LibrariesModel</name>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="207"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="211"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="408"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="413"/>
         <source>Failed to fetch libraries from &apos;%1&apos;: %2</source>
         <translation>Nepodarilo sa načítať knižnice z &apos;%1&apos;: %2</translation>
     </message>
@@ -16432,12 +16432,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="242"/>
         <source>Choose the desired footprint variant if there are multiple.</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte požadovaný variant puzdra ak ich je viac.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="248"/>
         <source>Confirm with the button and place the device interactively with the cursor.</source>
-        <translation type="unfinished"/>
+        <translation>Potvrďte tlačidlom a interaktívne kurzorom umiestnite súčiastku.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="254"/>
@@ -16447,12 +16447,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="268"/>
         <source>Learn how to create boards</source>
-        <translation type="unfinished"/>
+        <translation>Naučte sa, ako vytvárať dosky.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="551"/>
         <source>DRC Messages: %1</source>
-        <translation type="unfinished"/>
+        <translation>Oznámenia kontroly návrhových pravidiel: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="562"/>
@@ -16502,7 +16502,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="4"/>
         <source>You have changed some important properties of this library element. This is a serious issue as it breaks all dependent library elements! If this library element is already used somewhere, it is highly recommended to create a new one instead of modifying this one.</source>
-        <translation type="unfinished"/>
+        <translation>Zmenili ste niektoré dôležité vlastnosti tohto prvku knižnice. Toto je vážny problém, pretože to poškodí všetky na ňom závislé knižničné prvky! Dôrazne sa odporúča vytvoriť nový prvok knižnice, ak je  tento už niekde použitý, .</translation>
     </message>
 </context>
 <context>
@@ -16531,7 +16531,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="8"/>
         <source>This library element contains serious errors. Please review them in the rule check panel.</source>
-        <translation type="unfinished"/>
+        <translation>Tento prvok knižnice obsahuje závažné chyby. Skontrolujte ich v paneli kontroly pravidiel.</translation>
     </message>
 </context>
 <context>
@@ -18893,7 +18893,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="160"/>
         <source>Learn how to create parts by yourself</source>
-        <translation type="unfinished"/>
+        <translation>Naučte sa, ako si vytvárať súčiastky.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="179"/>
@@ -18949,7 +18949,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>Knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="404"/>
+        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="407"/>
         <source>Help / About</source>
         <translation>Pomocník / O nás</translation>
     </message>
@@ -18987,7 +18987,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="393"/>
         <source>Learn how to create symbols</source>
-        <translation type="unfinished"/>
+        <translation>Naučte sa, ako vytvárať schematické značky.</translation>
     </message>
 </context>
 <context>
