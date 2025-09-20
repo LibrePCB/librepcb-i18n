@@ -8648,7 +8648,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="14"/>
         <source>Review BOM</source>
-        <translation type="unfinished"/>
+        <translation>Prezrieť zoznam súčiastok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="23"/>
@@ -8944,7 +8944,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdattributeedit.cpp" line="38"/>
         <source>Edit Attribute</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť atribút</translation>
     </message>
 </context>
 <context>
@@ -9017,7 +9017,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardnetsegmentaddelements.cpp" line="43"/>
         <source>Add Vias/Pads/Traces</source>
-        <translation type="unfinished"/>
+        <translation>Pridať Prechod/Plôšku vývodu/Spoj</translation>
     </message>
 </context>
 <context>
@@ -9591,7 +9591,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdpackageedit.cpp" line="38"/>
         <source>Edit Package Properties</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť vlastnosti puzdra</translation>
     </message>
 </context>
 <context>
@@ -9767,7 +9767,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicimageadd.cpp" line="45"/>
         <source>Add Image to Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Pridať obrázok do schémy</translation>
     </message>
 </context>
 <context>
@@ -9775,7 +9775,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicimageremove.cpp" line="44"/>
         <source>Remove Image from Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť obrázok zo schémy</translation>
     </message>
 </context>
 <context>
@@ -9888,7 +9888,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdsimplifyboardnetsegments.cpp" line="51"/>
         <source>Simplify Board Net Segments</source>
-        <translation type="unfinished"/>
+        <translation>Zjednodušiť segmenty prepojenia dosky</translation>
     </message>
 </context>
 <context>
@@ -9896,7 +9896,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdsimplifyschematicnetsegments.cpp" line="49"/>
         <source>Simplify Schematic Net Segments</source>
-        <translation type="unfinished"/>
+        <translation>Zjednodušiť segmenty prepojenia schémy</translation>
     </message>
 </context>
 <context>
@@ -10092,7 +10092,8 @@ Ste si istý, že puzdro a jeho zapojenie vývodov sú kompatibilné so súčias
         <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="241"/>
         <source>The component category '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>Kategória komponentu &apos;%1&apos;  obsahuje neuložené zmeny.
+Chcete ich uložiť pred zatvorením?</translation>
     </message>
 </context>
 <context>
@@ -10159,7 +10160,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="93"/>
         <source>Add Component Signal(s)</source>
-        <translation type="unfinished"/>
+        <translation>Pridať signál(y) komponentu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="105"/>
@@ -10169,7 +10170,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="168"/>
         <source>Delete Component Signal</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť signál komponentu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="288"/>
@@ -10204,7 +10205,8 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="381"/>
         <source>The component '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>Komponent &apos;%1&apos;  obsahuje neuložené zmeny.
+Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="484"/>
@@ -10222,7 +10224,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="121"/>
         <source>There is already a variant with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje variant s názvom &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="138"/>
@@ -10232,7 +10234,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="164"/>
         <source>Auto-Assign Component Signals</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky priradiť signály komponentu</translation>
     </message>
 </context>
 <context>
@@ -10240,12 +10242,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentvariantlistmodel.cpp" line="141"/>
         <source>Variant %1</source>
-        <translation type="unfinished"/>
+        <translation>Variant %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentvariantlistmodel.cpp" line="204"/>
         <source>Set Default Component Variant</source>
-        <translation type="unfinished"/>
+        <translation>Nastaviť predvolený variant komponentu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentvariantlistmodel.cpp" line="219"/>
@@ -10498,17 +10500,18 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="516"/>
         <source>The device '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>Súčiastka &apos;%1&apos;  obsahuje neuložené zmeny.
+Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="833"/>
         <source>Change Component</source>
-        <translation type="unfinished"/>
+        <translation>Vymeniť komponent</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="870"/>
         <source>Change Package</source>
-        <translation type="unfinished"/>
+        <translation>Vymeniť puzdro</translation>
     </message>
 </context>
 <context>
@@ -11380,7 +11383,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="40"/>
         <source>Gerber X3 pick&amp;place position file &amp; glue mask (RS-274X) export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Exportovať pick&amp;place súbor formátu Gerber X3 a masky lepidla (RS-274X) dosky.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="57"/>
@@ -11390,12 +11393,12 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="67"/>
         <source>Top Components:</source>
-        <translation type="unfinished"/>
+        <translation>Vrchné komponenty:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="80"/>
         <source>Bottom Components:</source>
-        <translation type="unfinished"/>
+        <translation>Spodné komponenty:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="100"/>
@@ -11428,17 +11431,17 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="234"/>
         <source>Top Glue Mask:</source>
-        <translation type="unfinished"/>
+        <translation>Vrchná maska lepidla:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="244"/>
         <source>Bottom Glue Mask:</source>
-        <translation type="unfinished"/>
+        <translation>Spodná maska lepidla:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="260"/>
         <source>&lt;b&gt;Please note that support for glue export is considered experimental&lt;/b&gt; since we do not yet have much experience with this process. If you have experience with application of glue for assembly, please let us know how we can improve LibrePCB in this regard.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Upozorňujeme, že podpora exportu masky lepidla je experimentálna&lt;/b&gt;, pretože s týmto procesom zatiaľ nemáme veľa skúseností. Ak máte skúsenosti s aplikáciou lepidla pri osadzovaní, dajte nám vedieť, ako môžeme v tomto smere vylepšiť LibrePCB.</translation>
     </message>
 </context>
 <context>
@@ -11910,7 +11913,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="366"/>
         <source>Rendering Top/Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Vykreslenie Vrch/Spodok</translation>
     </message>
 </context>
 <context>
@@ -12004,12 +12007,12 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="367"/>
         <source>It seems that the application crashed the last time you opened this library. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Zdá sa, že pri poslednom otvorení tejto knižnice došlo k zlyhaniu aplikácie. Chcete obnoviť poslednú zálohu automatického ukladania?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="401"/>
         <source>Failed to open library</source>
-        <translation type="unfinished"/>
+        <translation>Nepodarilo sa otvoriť knižnicu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="449"/>
