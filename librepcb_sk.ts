@@ -12329,7 +12329,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="62"/>
         <source>&lt;p&gt;Website: &lt;a href=&quot;https://librepcb.org&quot;&gt;https://librepcb.org&lt;/a&gt;&lt;/p&gt;&lt;p&gt;GitHub Project: &lt;a href=&quot;https://github.com/LibrePCB&quot;&gt;https://github.com/LibrePCB&lt;/a&gt;&lt;/p&gt;&lt;p&gt;LibrePCB is published under the &lt;a href=&quot;http://www.gnu.org/licenses/gpl-3.0.html&quot;&gt;GNU GPLv3&lt;/a&gt; License.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>WEB stránka: &lt;a href=&quot;https://librepcb.org&quot;&gt;https://librepcb.org&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Projekt na GitHube: &lt;a href=&quot;https://github.com/LibrePCB&quot;&gt;https://github.com/LibrePCB&lt;/a&gt;&lt;/p&gt;&lt;p&gt;LibrePCB je publikovaný pod licenciou &lt;a href=&quot;http://www.gnu.org/licenses/gpl-3.0.html&quot;&gt;GNU GPLv3&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -12734,7 +12734,8 @@ Naozaj chcete zavrieť toto okno?</translation>
         <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="123"/>
         <source>The library '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>Knižnica &apos;%1&apos;  obsahuje neuložené zmeny.
+Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="162"/>
@@ -12752,7 +12753,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="130"/>
         <source>No user name is defined in the workspace settings. Please open the workspace settings to set a default user name.</source>
-        <translation type="unfinished"/>
+        <translation>Meno používateľa nie je v nastavení pracovného priestoru zadané. Prosím, otvorte nastavenie prac. priestoru a zadajte predvolené meno používateľa.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="147"/>
@@ -12765,17 +12766,17 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/libraryelementcache.cpp" line="142"/>
         <source>Library element &apos;%1&apos; with UUID &apos;%2&apos; not found in workspace library.</source>
-        <translation type="unfinished"/>
+        <translation>Prvok knižnice &apos;%1&apos; s UUID &apos;%2&apos; sa nenachádza v knižnici prac. priestoru.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryelementcache.cpp" line="148"/>
         <source>Please try again after the background library rescan has completed.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím, skúste to znova po dokončení skenovania knižníc bežiacom na pozadí.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryelementcache.cpp" line="152"/>
         <source>Please make sure that all dependent libraries are installed.</source>
-        <translation type="unfinished"/>
+        <translation>Prosím uistite sa, že sú nainštalované všetky závislé knižnice.</translation>
     </message>
 </context>
 <context>
@@ -12792,7 +12793,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="344"/>
         <source>Choose Library Icon</source>
-        <translation type="unfinished"/>
+        <translation>Zvoliť ikonu knižnice</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="346"/>
@@ -12822,7 +12823,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="916"/>
         <source>Move %1 Elements</source>
-        <translation type="unfinished"/>
+        <translation>Presunúť %1 elementov</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="941"/>
@@ -12845,7 +12846,7 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1013"/>
         <source>Remove %1 Elements</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť %1 elementov</translation>
     </message>
 </context>
 <context>
@@ -13464,22 +13465,22 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="254"/>
         <source>New since LibrePCB 2.0: The fabrication output dialog has been removed in favor of the more powerful output jobs feature.</source>
-        <translation type="unfinished"/>
+        <translation>Novinka LibrePCB od verzie 2.0: Dialógové okno pre generovanie výstupov bolo odstránené z dôvodu ich združenia vo výkonnejšej funkcie - úlohy generovania výstupov.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="258"/>
         <source>The project does not have a fabrication output job configured yet. At the bottom left of this dialog you can add one of the two pre-configured Gerber/Excellon output jobs and adjust it according your needs.</source>
-        <translation type="unfinished"/>
+        <translation>Projekt ešte nemá nakonfigurovanú žiadnu úlohu generovania výstupov. V ľavom dolnom rohu tohto dialógového okna môžete pridať jednu z dvoch predkonfigurovaných úloh Gerber/Excellon a upraviť ju podľa svojich potrieb.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="264"/>
         <source>Or you can import the old settings from LibrePCB 1.x.</source>
-        <translation type="unfinished"/>
+        <translation>Alebo môžete importovať staré nastavenia z LibrePCB 1.x.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="269"/>
         <source>Since this project does not have any output jobs at all yet, you may even add a complete set of output jobs instead with the link at the bottom left. Just try it out!</source>
-        <translation type="unfinished"/>
+        <translation>Keďže tento projekt zatiaľ nemá žiadne úlohy generovania výstupov, môžete pridať kompletnú sadu predkonfigurovaných úloh pomocou odkazu vľavo dole. Len to skúste!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="274"/>
@@ -13514,7 +13515,7 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="317"/>
         <source>Board Rendering PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>Vykreslenie dosky do PDF/Obrázku</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="319"/>
@@ -13612,7 +13613,8 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
         <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="241"/>
         <source>The package category '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>Kategória puzdra &apos;%1&apos;  obsahuje neuložené zmeny.
+Chcete ich uložiť pred zatvorením?</translation>
     </message>
 </context>
 <context>
@@ -13663,7 +13665,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="133"/>
         <source>Add Footprint Hole</source>
-        <translation type="unfinished"/>
+        <translation>Pridať otvor do puzdra</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="146"/>
@@ -13693,7 +13695,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="186"/>
         <source>Add Footprint Circle</source>
-        <translation type="unfinished"/>
+        <translation>Pridať kružnicu do puzdra</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="199"/>
@@ -13709,7 +13711,7 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="257"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="350"/>
         <source>Add Footprint Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Pridať polygón do puzdra</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="272"/>
@@ -13769,7 +13771,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="284"/>
         <source>Add Footprint Text</source>
-        <translation type="unfinished"/>
+        <translation>Pridať text do puzdra</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="297"/>
@@ -13785,7 +13787,7 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="206"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="278"/>
         <source>Add Footprint Zone</source>
-        <translation type="unfinished"/>
+        <translation>Pridať oblasť do puzdra</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="221"/>
