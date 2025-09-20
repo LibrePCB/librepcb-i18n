@@ -394,7 +394,7 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="268"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
-        <translation>Uložiť knižnicu (a obsahujúce položky ak &apos;--all&apos; bol zadaný) pred jej uzavretím (užitočné pre inováciu formátu knižnice).</translation>
+        <translation>Uložiť knižnicu (a obsahujúce položky ak bol parameter &apos;--all&apos; zadaný) pred jej uzavretím (užitočné pre inováciu formátu knižnice).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="272"/>
@@ -12262,12 +12262,12 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="14"/>
         <source>Upgrade Workspace</source>
-        <translation>Aktualizovať pracovnú plochu</translation>
+        <translation>Inovovať pracovný priestor</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="17"/>
         <source>Upgrade the workspace to the latest file format.</source>
-        <translation>Inovovať pracovnú plochu na najnovšiu verziu.</translation>
+        <translation>Inovuje pracovný priestor na najnovšiu verziu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="55"/>
@@ -12296,7 +12296,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="52"/>
         <source>Upgrade</source>
-        <translation>Aktualizovať</translation>
+        <translation>Inovovať</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="86"/>
@@ -13971,7 +13971,7 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="95"/>
         <source>Add Package Pad(s)</source>
-        <translation>Pridať plôšky vývody do puzdra</translation>
+        <translation>Pridať plôšku vývodu (vývodov) do puzdra</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="105"/>
@@ -14004,7 +14004,8 @@ Chcete ich uložiť pred zatvorením?</translation>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="984"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>Puzdro &apos;%1&apos;  obsahuje neuložené zmeny.
+Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1605"/>
@@ -14310,17 +14311,17 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="149"/>
         <source>The project &apos;%1&apos; has been upgraded to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</source>
-        <translation type="unfinished"/>
+        <translation>Projekt &apos;%1&apos; bol inovovaný na nový formát súboru. Po uložení ho yž nebude možné otvoriť v staršej verzii LibrePCB!</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="155"/>
         <source>The upgrade produced %n message(s), please review before proceeding.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Inovácia vytvorila %n oznámenie. Pred pokračovaním ho najskôr prezrite.</numerusform><numerusform>Inovácia vytvorila %n oznámenia. Pred pokračovaním ich najskôr prezrite.</numerusform><numerusform>Inovácia vytvorila %n oznámení. Prosím prezrite ich pred pokračovaním.</numerusform><numerusform>Inovácia vytvorila %n oznámenia. Pred pokračovaním ich najskôr prezrite.</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="161"/>
         <source>ATTENTION: Project File Format Upgraded</source>
-        <translation type="unfinished"/>
+        <translation>UPOZORNENIE: Formát projektového súboru bol inovovaný</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="162"/>
@@ -14336,7 +14337,8 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="362"/>
         <source>The project '%1' contains unsaved changes.
 Do you want to save them before closing the project?</source>
-        <translation type="unfinished"/>
+        <translation>Projekt &apos;%1&apos;  obsahuje neuložené zmeny.
+Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="405"/>
@@ -14356,7 +14358,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="521"/>
         <source>Export succeeded!</source>
-        <translation type="unfinished"/>
+        <translation>Export bol úspešný!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="524"/>
@@ -14381,7 +14383,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="536"/>
         <source>Choose a name for the new schematic page:</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte názov pre nový schematický list:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="545"/>
@@ -14437,7 +14439,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="690"/>
         <source>File Format Upgrade Messages</source>
-        <translation>Správy o aktualizácii formátu súboru</translation>
+        <translation>Oznámenia o inovácii formátu súboru</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
@@ -14543,8 +14545,8 @@ p, li { white-space: pre-wrap; }
 Please upgrade it to the latest file format first, review the upgrade messages and then save the project.
 Afterwards the project library can be updated.</source>
         <translation>Projekt používa zastaraný formát súboru.
-Prosím, najskôr ho aktualizujte na najnovší formát, skontrolujte oznámenia o úspešnosti aktualizácie a následne projekt uložte.
-Až potom môže byť knižnica projektu aktualizovaná.</translation>
+Prosím, najskôr ho inovujte na najnovší formát, skontrolujte oznámenia o úspešnosti a následne projekt uložte.
+Až potom môže byť knižnica projektu inovovaná.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/projectlibraryupdater/projectlibraryupdater.cpp" line="123"/>
@@ -14776,7 +14778,7 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addimage.cpp" line="232"/>
         <source>Add Schematic Image</source>
-        <translation type="unfinished"/>
+        <translation>Pridať obrázok schémy</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addimage.cpp" line="246"/>
@@ -15050,7 +15052,7 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addimage.cpp" line="215"/>
         <source>Add Symbol Image</source>
-        <translation type="unfinished"/>
+        <translation>Pridať obrázok sch. značky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addimage.cpp" line="229"/>
@@ -15401,7 +15403,8 @@ Až potom môže byť knižnica projektu aktualizovaná.</translation>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="656"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>Schematická značka &apos;%1&apos;  obsahuje neuložené zmeny.
+Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1453"/>
@@ -16154,7 +16157,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/schematic/addcomponenttoolbar.slint" line="20"/>
         <source>Enter value here...</source>
-        <translation type="unfinished"/>
+        <translation>Zadajte hodnotu...</translation>
     </message>
 </context>
 <context>
