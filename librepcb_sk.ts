@@ -16373,7 +16373,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/attributelistview.slint" line="52"/>
         <source>Type to add a new attribute...</source>
-        <translation type="unfinished"/>
+        <translation>Písaním pridáte nový atribút....</translation>
     </message>
 </context>
 <context>
@@ -16397,22 +16397,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="179"/>
         <source>Empty Schematics</source>
-        <translation type="unfinished"/>
+        <translation>Prázdna schéma</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="185"/>
         <source>Only components existing in the schematics can be added to a board, but the schematics of this project are currently empty. Please draw the schematics first before starting with the board design.</source>
-        <translation type="unfinished"/>
+        <translation>Na dosku je možné pridať iba komponenty vyskytujúce sa v schémach, ale schémy tohto projektu sú momentálne prázdne. Pred začatím návrhu dosky si najskôr nakreslite schémy.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="195"/>
         <source>Learn how to create schematics</source>
-        <translation type="unfinished"/>
+        <translation>Naučte sa, ako vytvárať schémy</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="214"/>
         <source>Get Started</source>
-        <translation type="unfinished"/>
+        <translation>Začať</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="220"/>
@@ -18898,7 +18898,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="179"/>
         <source>Get Started</source>
-        <translation type="unfinished"/>
+        <translation>Začať</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="185"/>
@@ -18913,7 +18913,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="204"/>
         <source>Learn how to create schematics</source>
-        <translation type="unfinished"/>
+        <translation>Naučte sa, ako vytvárať schémy</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="419"/>
