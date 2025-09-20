@@ -15621,7 +15621,7 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="520"/>
         <source>Type to filter...</source>
-        <translation>Písaním filtrovanie....</translation>
+        <translation>Písaním filtrujete....</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="531"/>
@@ -16198,7 +16198,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintpadtoolbar.slint" line="191"/>
         <source>Mark this pad as a press-fit pad</source>
-        <translation type="unfinished"/>
+        <translation>Označiť túto plôšku vývodu ako lisovaciu (Press-Fit)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintpadtoolbar.slint" line="93"/>
@@ -16267,7 +16267,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="190"/>
         <source>Mark this pad as a press-fit pad</source>
-        <translation type="unfinished"/>
+        <translation>Označiť túto plôšku vývodu ako lisovaciu (Press-Fit)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="92"/>
@@ -17160,7 +17160,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="279"/>
         <source>Type to filter signals...</source>
-        <translation>Písaním filtrovanie signálov....</translation>
+        <translation>Písaním filtrujete signály....</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="365"/>
@@ -18661,7 +18661,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/partlistview.slint" line="105"/>
         <source>Type to add a new part...</source>
-        <translation>Písaním pridať novú súčiastku....</translation>
+        <translation>Písaním pridáte novú súčiastku....</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/partlistview.slint" line="147"/>
