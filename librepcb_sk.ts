@@ -16417,17 +16417,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="220"/>
         <source>Start designing the board by placing all devices which are part of the schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Začnite navrhovať dosku umiestnením všetkých súčiastok, ktoré sú v schéme.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="230"/>
         <source>Select an unplaced component in the list.</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte si neumiestnený komponent v zozname.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="236"/>
         <source>Choose the desired device (which defines the package to use).</source>
-        <translation type="unfinished"/>
+        <translation>Zvoľte požadovanú súčiastku (ktoré definuje puzdro, ktoré sa má použiť).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="242"/>
