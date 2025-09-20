@@ -13971,7 +13971,7 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="95"/>
         <source>Add Package Pad(s)</source>
-        <translation type="unfinished"/>
+        <translation>Pridať plôšky vývody do puzdra</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="105"/>
