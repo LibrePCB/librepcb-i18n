@@ -16825,33 +16825,33 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="500"/>
         <source>Component Preview Placement</source>
-        <translation type="unfinished"/>
+        <translation>Náhľad umiestnenia komponentu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="641"/>
         <source>This variant contains no gate!</source>
-        <translation type="unfinished"/>
+        <translation>Tento variant neobsahuje sekcie!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="645"/>
         <source>Add gates to this component by choosing the corresponding symbols.</source>
-        <translation type="unfinished"/>
+        <translation>Pridajte sekcie do tohto komponentu výberom príslušných sch. symbolov.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="646"/>
         <source>Most components consist of only one gate, but for example a 4-channel ADC could be built up with four single-channel ADC gates.</source>
-        <translation type="unfinished"/>
+        <translation>Väčšina súčiastok pozostáva iba z jednej sekcie, ale napríklad 4-kanálový ADC by sa dal zostaviť zo štyroch jednokanálových ADC sekcií.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="647"/>
         <source>Those gates are all part of the same component, but can be placed individually in the schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Tieto sekcie sú súčasťou toho istého komponentu, ale v schémach ich možno umiestniť samostatne.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="656"/>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="673"/>
         <source>Add Gate</source>
-        <translation type="unfinished"/>
+        <translation>Pridať sekciu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="682"/>
@@ -16996,7 +16996,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="441"/>
         <source>URL to online datasheet (optional)</source>
-        <translation type="unfinished"/>
+        <translation>URL adresa k online dátovému listu (nepovinné)</translation>
     </message>
 </context>
 <context>
@@ -17020,7 +17020,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="234"/>
         <source>Add Dependency</source>
-        <translation type="unfinished"/>
+        <translation>Pridať závislosť</translation>
     </message>
 </context>
 <context>
@@ -17036,7 +17036,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="110"/>
         <source>Check this if this library element should no longer be used.</source>
-        <translation type="unfinished"/>
+        <translation>Zaškrtnite túto možnosť, ak sa tento prvok knižnice už nemá ďalej používať.</translation>
     </message>
 </context>
 <context>
@@ -17060,12 +17060,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="330"/>
         <source>Define the pinout, i.e. connect package pads with component signals. This can be done either manually pad-by-pad or in an automated way by using one of the buttons below.</source>
-        <translation type="unfinished"/>
+        <translation>Definujte zapojenie vývodov, t. j. prepojte vývody puzdra so signálmi komponentu. Toto je možné vykonať buď manuálne vývod po vývode, alebo automaticky pomocou jedného z tlačidiel nižšie.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="338"/>
         <source>Optionally, specify concrete part numbers of this device. These can then be used to generate a bill of materials (BOM) from a project.</source>
-        <translation type="unfinished"/>
+        <translation>Nepovinne môžete zadať konkrétne typové označenie tejto súčiastky. Tieto typové označenia sa potom dajú použiť na vytvorenie presnejšieho zoznamu súčiastok (BOM) z projektu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="420"/>
@@ -17101,7 +17101,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="55"/>
         <source>Select the package &amp; component of the new device.</source>
-        <translation type="unfinished"/>
+        <translation>Voľte puzdro a komponent novej súčiastky.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="92"/>
