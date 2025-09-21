@@ -5118,16 +5118,16 @@ V prípade plôšok vývodu typu THT, musí byť tento začiatok umiestnený vo 
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="167"/>
         <source>Suspicious use of forced nets</source>
-        <translation>Podozrivé pripojenie signálov</translation>
+        <translation>Podozrivé použitie vynúteného el. prepojenia</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="168"/>
         <source>At least one signal of this component has a forced net set, which is very unusal and can cause serious troubles if not used intentionally.
 
 Please consult the user manual to ensure this is what you want. If you&apos;re unsure, clear the forced net on all component signals.</source>
-        <translation>Minimálne jeden signál tohto komponentu má nastavené pripojenie k signálu, čo je veľmi nezvyčajné a môže spôsobiť vážne problémy, ak sa nepoužíva zámerne..
+        <translation>Minimálne jeden signál tohto komponentu má nastavené vynútené prepojenie, čo je veľmi nezvyčajné a môže spôsobiť vážne problémy, ak sa nepoužíva zámerne..
 
-Prečítajte si, prosím, používateľskú príručku, aby ste sa uistili, že je to, čo chcete. Ak si nie ste istí, vymažte pripojenie k signálu na všetkých signáloch komponentu.</translation>
+Prečítajte si, prosím, používateľskú príručku, aby ste sa uistili, že je to, čo chcete. Ak si nie ste istí, vymažte vynútené el. prepojenie na všetkých signáloch komponentu.</translation>
     </message>
 </context>
 <context>
@@ -10506,12 +10506,12 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="833"/>
         <source>Change Component</source>
-        <translation>Vymeniť komponent</translation>
+        <translation>Zameniť komponent</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="870"/>
         <source>Change Package</source>
-        <translation>Vymeniť puzdro</translation>
+        <translation>Zameniť puzdro</translation>
     </message>
 </context>
 <context>
@@ -14851,7 +14851,7 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="282"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="550"/>
         <source>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</source>
-        <translation>Nie je možné manuálne nastaviť názov prepojenia &apos;%1&apos;, pretože názov nie je platný.</translation>
+        <translation>Nie je možné použiť vynútené el. prepojenie &apos;%1&apos;, pretože názov prepojenia nie je platný.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="379"/>
@@ -16531,7 +16531,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="8"/>
         <source>This library element contains serious errors. Please review them in the rule check panel.</source>
-        <translation>Tento prvok knižnice obsahuje závažné chyby. Skontrolujte ich v paneli kontroly pravidiel.</translation>
+        <translation>Tento prvok knižnice obsahuje závažné chyby. Prezrite ich v paneli kontroly pravidiel.</translation>
     </message>
 </context>
 <context>
@@ -16575,7 +16575,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="133"/>
         <source>Auto-Connect all Pins by Name</source>
-        <translation type="unfinished"/>
+        <translation>Automatické prepojenie všetkých vývodov podľa názvov</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="151"/>
@@ -16600,7 +16600,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="205"/>
         <source>If marked as required, an ERC error is raised when this gate is not placed in the schematics</source>
-        <translation type="unfinished"/>
+        <translation>Ak je označené ako povinné, vyvolá sa chyba ERC, ak táto ďalšia časť komponentu nebude umiestnená v schéme.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="232"/>
@@ -16610,7 +16610,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="234"/>
         <source>When added to a schematic, hide this pin name</source>
-        <translation type="unfinished"/>
+        <translation>Pri pridaní do schémy, bude tento názov vývodu skrytý</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="246"/>
@@ -16620,7 +16620,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="248"/>
         <source>When added to a schematic, display the pin name</source>
-        <translation type="unfinished"/>
+        <translation>Pri pridaní do schémy, bude tento názov vývodu zobrazený</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="260"/>
@@ -16630,7 +16630,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="262"/>
         <source>When added to a schematic, display the signal name (default)</source>
-        <translation type="unfinished"/>
+        <translation>Pri pridaní do schémy, bude zobrazený tento názov signálu (predvolené)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="274"/>
@@ -16640,12 +16640,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="276"/>
         <source>When added to a schematic, display the name of the net connected to this pin (if any)</source>
-        <translation type="unfinished"/>
+        <translation>Pri pridaní do schémy, bude zobrazený názov pripojeného prepojenia (ak bude)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="299"/>
         <source>Change Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Zameniť schematickú značku</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="308"/>
@@ -16663,27 +16663,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="221"/>
         <source>Check this if this component cannot be placed on boards (e.g. supply symbols, sheet frames, ...).</source>
-        <translation type="unfinished"/>
+        <translation>Zaškrtnite túto možnosť, ak sa tento komponent nemá umiestňovať dosku (napr. značky napájania, rámy hárkov atď.).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="240"/>
         <source>E.g. \&quot;%1\&quot; for resistors, or \&quot;%2\&quot; for integrated circuits</source>
-        <translation type="unfinished"/>
+        <translation>Napr. \&quot;%1\&quot; pre rezistory, alebo \&quot;%2\&quot; pre integrované obvody</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="277"/>
         <source>The VALUE the component gets when added to the schematics.</source>
-        <translation type="unfinished"/>
+        <translation>HODNOTA bude nastavená po pridaní do schémy.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="288"/>
         <source>For specific components (e.g. \&quot;ESP32-S3R2\&quot;):</source>
-        <translation type="unfinished"/>
+        <translation>Pre špecifické komponenty (napr. \&quot;ESP32-S3R2\&quot;):</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="311"/>
         <source>For generic components (e.g. \&quot;OpAmp\&quot;):</source>
-        <translation type="unfinished"/>
+        <translation>Pre všeobecné komponenty (Napr. \&quot;OpAmp\&quot;):</translation>
     </message>
 </context>
 <context>
@@ -16706,22 +16706,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentsignallistview.slint" line="173"/>
         <source>If checked, an ERC error is raised when this signal is left unconnected in the schematics</source>
-        <translation type="unfinished"/>
+        <translation>Ak je možnosť zaškrtnutá, vyvolá sa chyba ERC, ak tento signál zostane v schéme nezapojený.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentsignallistview.slint" line="199"/>
         <source>Forced Net Name</source>
-        <translation type="unfinished"/>
+        <translation>Vynútený názov el. prepojenia</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentsignallistview.slint" line="297"/>
         <source>This package contains no signals (yet).</source>
-        <translation type="unfinished"/>
+        <translation>Toto puzdro (zatiaľ) neobsahuje žiadne signály.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentsignallistview.slint" line="316"/>
         <source>Set Forced Net Name</source>
-        <translation>Nastaviť prepojenie s manuálne nastaveným názvom</translation>
+        <translation>Nastaviť vynútený názov el. prepojenia</translation>
     </message>
 </context>
 <context>
