@@ -12408,7 +12408,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="154"/>
         <source>Apply</source>
-        <translation>Aplikovať</translation>
+        <translation>Použiť</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="161"/>
@@ -14020,7 +14020,7 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2200"/>
         <source>Apply to all unspecified pads</source>
-        <translation>Aplikovať na všetky nešpecifikované plôšky vývodov.</translation>
+        <translation>Použiť na všetky nešpecifikované plôšky vývodov.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2222"/>
@@ -17701,7 +17701,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="609"/>
         <source>Apply</source>
-        <translation>Aplikovať</translation>
+        <translation>Použiť</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="609"/>
@@ -18551,17 +18551,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="254"/>
         <source>Add all (potentially solderable) package pads which are electrically independent, no matter if they actually have an electrical function in a particular part.</source>
-        <translation type="unfinished"/>
+        <translation>Pridajte všetky (potenciálne spájkovateľné) plôšky vývodov puzdra, ktoré sú elektricky nezávislé, bez ohľadu na to, či v danej časti skutočne majú elektrickú funkciu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="255"/>
         <source>For example, a thermal pad should be listed here, even though it may not have an electrical function.</source>
-        <translation type="unfinished"/>
+        <translation>Napríklad by tu mala byť tepelnú plôška vývodu, aj keď nemusí mať elektrickú funkciu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="256"/>
         <source>Once the package is finished, it is *not* possible anymore to add or remove pads.</source>
-        <translation type="unfinished"/>
+        <translation>Po dokončení puzdra už *nie* je možné pridávať ani odoberať plôšky vývodov.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="261"/>
@@ -18684,27 +18684,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="104"/>
         <source>All components from the schematics have been added to the board. To add more components to the board, add them to the schematics first which will make them appearing here for placement.</source>
-        <translation type="unfinished"/>
+        <translation>Všetky komponenty zo schém boli pridané na dosku. Ak chcete na dosku pridať ďalšie komponenty, najskôr ich pridajte do schém, čím sa zobrazia tu na umiestnenie.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="137"/>
         <source>No device or package found</source>
-        <translation type="unfinished"/>
+        <translation>Nie je zvolená súčiastka alebo puzdro</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="151"/>
         <source>No compatible device was found for the selected component. Please install a library providing a suitable device or create a new device on your own in a local library.</source>
-        <translation type="unfinished"/>
+        <translation>Pre vybraný komponent sa nenašla žiadne kompatibilná súčiastka. Nainštalujte si knižnicu, ktorá poskytuje vhodné súčiastky, alebo si vytvorte novú súčiastku v lokálnej knižnici.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="159"/>
         <source>More information &amp; device creation guide</source>
-        <translation type="unfinished"/>
+        <translation>Viac informácií a sprievodca vytvorením súčiastky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="172"/>
         <source>I installed all libraries, why I still get this error?</source>
-        <translation type="unfinished"/>
+        <translation>Nainštaloval som všetky knižnice, prečo sa mi stále zobrazuje túto chybu?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="182"/>
@@ -18719,7 +18719,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="238"/>
         <source>Interactively place the component with the selected device &amp; footprint on the board</source>
-        <translation type="unfinished"/>
+        <translation>Interaktívne umiestnite komponent s vybranou súčiastkou a puzdrom na dosku</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="249"/>
@@ -18729,7 +18729,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="250"/>
         <source>Automatically add all components of the same kind to the board, using the currently selected device &amp; footprint</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky pridať všetky komponenty rovnakého druhu na dosku s použitím aktuálne zvolenou súčiastkou a puzdrom</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="258"/>
@@ -18739,7 +18739,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="259"/>
         <source>Automatically add all components to the board, guessing their device &amp; footprint (not recommended)</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky pridať všetky komponenty na dosku s odhadom súčiastky a puzdra (neodporúča sa)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="92"/>
@@ -18814,7 +18814,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="81"/>
         <source>Apply Automatic Fix</source>
-        <translation type="unfinished"/>
+        <translation>Použiť automatickú opravu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="92"/>
@@ -18832,12 +18832,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="172"/>
         <source>Possibly Outdated Data</source>
-        <translation type="unfinished"/>
+        <translation>Eventuálne zastarané údaje</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="172"/>
         <source>Trigger the checks again to refresh the messages.</source>
-        <translation type="unfinished"/>
+        <translation>Znovu spustite kontroly, aby sa oznámenia obnovili.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="203"/>
@@ -18852,12 +18852,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="239"/>
         <source>No checks run yet. Trigger them with one of the buttons above.</source>
-        <translation type="unfinished"/>
+        <translation>Zatiaľ neboli spustené žiadne kontroly. Spustite ich pomocou jedného z tlačidiel vyššie.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="241"/>
         <source>Running, hang on...</source>
-        <translation type="unfinished"/>
+        <translation>Prebieha, čakajte...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="243"/>
@@ -18883,7 +18883,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="141"/>
         <source>In order to add components to this schematic, you first need to install some part libraries or create parts by yourself in your own library.</source>
-        <translation type="unfinished"/>
+        <translation>Ak chcete do tejto schémy pridať komponenty, musíte najprv nainštalovať niektoré knižnice súčiastok alebo si súčiastky vytvoriť sami vo vlastnej knižnici.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="146"/>
@@ -18903,12 +18903,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="185"/>
         <source>It&apos;s recommended to start a new schematic with adding a drawing frame to it. Then add other components the usual way with the toolbar at the left.</source>
-        <translation type="unfinished"/>
+        <translation>Odporúča sa začať novú schému pridaním orámovania výkresu. Potom pridajte ďalšie komponenty zvyčajným spôsobom pomocou panela nástrojov vľavo.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="190"/>
         <source>Add Drawing Frame</source>
-        <translation type="unfinished"/>
+        <translation>Pridať orámovanie výkresu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="204"/>
@@ -18972,17 +18972,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="368"/>
         <source>Import Pins From Datasheet</source>
-        <translation type="unfinished"/>
+        <translation>Importovanie definície vývodov z údajového listu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="374"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
-        <translation type="unfinished"/>
+        <translation>Odporúča sa začať kreslenie nového symbolu pridaním všetkých vývodov. Najmä v prípade väčších symbolov je najrýchlejším spôsobom ich import z technického listu alebo akejkoľvek inej dokumentácie k súčiastke.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="379"/>
         <source>Import Pins</source>
-        <translation type="unfinished"/>
+        <translation>Importovať vývody</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="393"/>
@@ -19000,7 +19000,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="675"/>
         <source>Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Grafické objekty</translation>
     </message>
 </context>
 <context>
