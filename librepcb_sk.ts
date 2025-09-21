@@ -3870,12 +3870,12 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="250"/>
         <source>Unplaced gate: &apos;%1:%2&apos;</source>
-        <translation>Neumiestnené ďalšie časti komponentu: &apos;%1:%2&apos;</translation>
+        <translation>Neumiestnené sekcie komponentu: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="252"/>
         <source>The optional gate &apos;%1&apos; of &apos;%2&apos; is not added to the schematic.</source>
-        <translation>Voliteľná ďalšia časť komponentu &apos;%1&apos; z &apos;%2&apos; nebola pridaná do schémy.</translation>
+        <translation>Voliteľná sekcia &apos;%1&apos; z &apos;%2&apos; nebola pridaná do schémy.</translation>
     </message>
 </context>
 <context>
@@ -3883,12 +3883,12 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="226"/>
         <source>Unplaced required gate: &apos;%1:%2&apos;</source>
-        <translation>Vyžadovaná ďalšia časť komponentu nebola umiestnená: &apos;%1:%2&apos;</translation>
+        <translation>Vyžadovaná sekcia nebola umiestnená: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="228"/>
         <source>The gate &apos;%1&apos; of &apos;%2&apos; is marked as required, but it is not added to the schematic.</source>
-        <translation>Ďalšia časť komponentu  &apos;%1&apos; z &apos;%2&apos; je označená ako vyžadovaná, ale nebola pridaná do schémy.</translation>
+        <translation>Sekcia  &apos;%1&apos; z &apos;%2&apos; je označená ako vyžadovaná, ale nebola pridaná do schémy.</translation>
     </message>
 </context>
 <context>
@@ -4166,7 +4166,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="708"/>
         <source>Unsupported symbol gate child: &apos;%1&apos;</source>
-        <translation>Nepodporovaná ďalšia časť sch. značky: &apos;%1&apos;</translation>
+        <translation>Nepodporovaná sekcia sch. značky: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -9335,7 +9335,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdcomponentsymbolvariantitemedit.cpp" line="39"/>
         <source>Edit Component Gate</source>
-        <translation>Upraviť ďalšie časti komponentu</translation>
+        <translation>Upraviť sekcie komponentu</translation>
     </message>
 </context>
 <context>
@@ -10144,7 +10144,7 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentgateeditor.cpp" line="167"/>
         <source>Edit Component Gate</source>
-        <translation>Upraviť ďalšie časti komponentu</translation>
+        <translation>Upraviť sekciu komponentu</translation>
     </message>
 </context>
 <context>
@@ -16590,17 +16590,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="203"/>
         <source>Gate is Optional</source>
-        <translation>Ďalšia časť komponentu nie je povinná</translation>
+        <translation>Sekcia nie je povinná</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="203"/>
         <source>Gate is Required</source>
-        <translation>Ďalšia časť komponentu je vyžadovaná</translation>
+        <translation>Sekcia je vyžadovaná</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="205"/>
         <source>If marked as required, an ERC error is raised when this gate is not placed in the schematics</source>
-        <translation>Ak je označené ako povinné, vyvolá sa chyba ERC, ak táto ďalšia časť komponentu nebude umiestnená v schéme.</translation>
+        <translation>Ak je označené ako povinné, vyvolá sa chyba ERC, ak táto sekcia nebude umiestnená v schéme.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="232"/>
@@ -16655,7 +16655,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="69"/>
         <source>Gate</source>
-        <translation>Ďalšia časť komponentu</translation>
+        <translation>Sekcia</translation>
     </message>
 </context>
 <context>
@@ -16729,27 +16729,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="440"/>
         <source>Now review &amp; correct the list of signals, if needed (often it is not needed, then just proceed).</source>
-        <translation type="unfinished"/>
+        <translation>Teraz prezrite a opravte zoznam signálov, ak je to potrebné (často to nie je potrebné, potom jednoducho pokračujte).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="441"/>
         <source>If you add or remove any signals, don&apos;t forget to update the pinout afterwards (on the next step)!</source>
-        <translation type="unfinished"/>
+        <translation>Ak pridáte alebo odstránite nejaké signály, nezabudnite následne (v ďalšom kroku) aktualizovať zapojenie vývodov!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="447"/>
         <source>This signal list should represent the *electrical* interface of the component, not the *mechanical* pads.</source>
-        <translation type="unfinished"/>
+        <translation>Tento zoznam signálov by mal predstavovať *elektrické* rozhranie komponentu, nie *mechanické* vývody.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="448"/>
         <source>For example, if an IC has two or more GND pads which are internally connected, only one GND signal should be added here.</source>
-        <translation type="unfinished"/>
+        <translation>Napríklad, ak má integrovaný obvod dva alebo viac GND vývodov, ktoré sú interne prepojené, mal by sa sem pridať iba jeden GND signál.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="449"/>
         <source>Note that once the component is finished, it is *not* possible anymore to add or remove signals.</source>
-        <translation type="unfinished"/>
+        <translation>Upozorňujeme, že po dokončení komponentu už *nebude* možné pridať ani odstrániť signály.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="452"/>
@@ -16764,7 +16764,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="467"/>
         <source>Signal name (may contain ranges like \&quot;1..5\&quot;; use prefix \&quot;!\&quot; for inverted signals)</source>
-        <translation type="unfinished"/>
+        <translation>Názov signálu (môže obsahovať rozsahy ako \&quot;1..5\&quot;; pre invertované signály použite prefix \&quot;!\&quot;)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="516"/>
@@ -16792,7 +16792,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="582"/>
         <source>Variants &amp; Gates</source>
-        <translation type="unfinished"/>
+        <translation>Varianty a sekcie</translation>
     </message>
 </context>
 <context>
@@ -16800,12 +16800,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="356"/>
         <source>Now define the names of the electrical signals of the component in the table below. Usually you can just keep the names from the symbol pins.</source>
-        <translation type="unfinished"/>
+        <translation>Teraz definujte názvy elektrických signálov komponentu v tabuľke nižšie. Bežne môžete použiť názvy z vývodov sch. značky.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="357"/>
         <source>Note that unconnected or inter-connected pins (i.e. duplicate signal names) are not allowed in this step, but you can rework them on the following pages.</source>
-        <translation type="unfinished"/>
+        <translation>Upozorňujeme, že neprepojené alebo vzájomne prepojené vývody (t. j. duplicitné názvy signálov) nie sú v tomto kroku povolené, ale môžete ich prepracovať na nasledujúcich stranách.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="375"/>
