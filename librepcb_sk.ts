@@ -1874,7 +1874,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="87"/>
         <source>Add a new item</source>
-        <translation>Pridať novú položku</translation>
+        <translation>Pridanie novej položky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="95"/>
@@ -1884,7 +1884,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="96"/>
         <source>Open the selected item(s)</source>
-        <translation>Otvoriť zvolenú položku(-ky)</translation>
+        <translation>Otvorenie zvolenej položky (položiek)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="104"/>
@@ -1894,7 +1894,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="105"/>
         <source>Save changes to filesystem</source>
-        <translation>Uložiť zmeny</translation>
+        <translation>Uloženie zmien do súborového systému</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="113"/>
@@ -1904,7 +1904,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="114"/>
         <source>Save all elements to filesystem</source>
-        <translation>Uložiť všetky elementy</translation>
+        <translation>Uloženie všetkých elementov do súborového systému</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="122"/>
@@ -1914,7 +1914,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="123"/>
         <source>Select all visible objects</source>
-        <translation>Vybrať všetky viditeľné objekty</translation>
+        <translation>Vybranie všetkých viditeľných objektov</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="131"/>
@@ -1924,7 +1924,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="132"/>
         <source>Find or filter objects</source>
-        <translation>Vyhľadať alebo filtrovať objekty</translation>
+        <translation>Vyhľadanie alebo filtrovanie objektov</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="140"/>
@@ -1934,7 +1934,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="141"/>
         <source>Go to the next found object</source>
-        <translation>Prejsť na nasledujúci nájdený objekt</translation>
+        <translation>Prechod na nasledujúci nájdený objekt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="149"/>
@@ -1944,7 +1944,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="150"/>
         <source>Go to the previous found object</source>
-        <translation>Prejsť na predchádzajúci nájdený objekt</translation>
+        <translation>Prechod na predchádzajúci nájdený objekt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="158"/>
@@ -1954,7 +1954,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="159"/>
         <source>Open the directory in the file manager</source>
-        <translation>Otvoriť adresár v prehliadači súborov</translation>
+        <translation>Otvorenie adresára v prehliadači súborov</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="167"/>
@@ -1964,7 +1964,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="168"/>
         <source>Choose another workspace to open</source>
-        <translation>Zvoľte iný pracovný priestor, ktorý chcete otvoriť</translation>
+        <translation>Zvolenie iného pracovného priestoru pre otvorenie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="176"/>
@@ -1974,7 +1974,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="177"/>
         <source>Open the workspace settings dialog</source>
-        <translation>Otvoriť dialógové okno nastavenia pracovnej plochy</translation>
+        <translation>Otvorenie dialógového okna s nastaveniami pracovnej plochy</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="185"/>
@@ -1984,7 +1984,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="186"/>
         <source>Scan all workspace libraries to update the cache</source>
-        <translation>Skenovať všetky knižnice pracovného priestoru pre aktualizovanie cache</translation>
+        <translation>Skenovanie všetkých knižníc pracovného priestoru pre aktualizáciu cache</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="194"/>
@@ -1994,7 +1994,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="195"/>
         <source>Manage installed part libraries</source>
-        <translation>Spravovať inštalované knižnice súčiastok</translation>
+        <translation>Spravovanie inštalovaných knižníc súčiastok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="212"/>
@@ -2004,7 +2004,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="213"/>
         <source>Create a new element by duplicating this one</source>
-        <translation>Vytvoriť nový element duplikovaním tohto</translation>
+        <translation>Vytvorenie nového elementu duplikovaním tohto</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="221"/>
@@ -2014,7 +2014,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="222"/>
         <source>Create a new project</source>
-        <translation>Vytvoriť nový projekt</translation>
+        <translation>Vytvorenie nového projektu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="230"/>
@@ -2024,7 +2024,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="231"/>
         <source>Open an existing project</source>
-        <translation>Otvoriť jestvujúci projekt</translation>
+        <translation>Otvorenie jestvujúceho projektu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="248"/>
@@ -2034,7 +2034,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="249"/>
         <source>View/modify the project setup</source>
-        <translation>Zobraziť/upraviť nastavenie projektu</translation>
+        <translation>Zobrazenie/upravenie nastavení projektu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="257"/>
@@ -2044,7 +2044,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="258"/>
         <source>View/modify the grid properties</source>
-        <translation>Zobraziť/upraviť vlastnosti rastra</translation>
+        <translation>Zobrazenie/upravenie vlastnosti rastra</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="266"/>
@@ -2054,7 +2054,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="267"/>
         <source>View/modify the board setup</source>
-        <translation>Zobraziť/upraviť nastavenie dosky</translation>
+        <translation>Zobrazenie/upravenie nastavení dosky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="275"/>
@@ -2069,22 +2069,22 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="284"/>
         <source>Run Design Rule Check</source>
-        <translation>Spustenie kontroly návrhových pravidiel</translation>
+        <translation>Spustiť kontrolu návrhových pravidiel</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="285"/>
         <source>Run the design rule check (DRC)</source>
-        <translation>Spustiť kontrolu podľa návrhových pravidiel (DRC)</translation>
+        <translation>Spustenie kontroly podľa návrhových pravidiel (DRC)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="293"/>
         <source>Update Project Library</source>
-        <translation>Aktualizácia projektovej knižnice</translation>
+        <translation>Inovovať projektovú knižnicu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="294"/>
         <source>Update the project&apos;s library elements from workspace libraries</source>
-        <translation>Aktualizovať elementy projektovej knižnice z knižníc pracovného priestoru</translation>
+        <translation>Inovovanie elementov projektovej knižnice z knižníc pracovného priestoru</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="312"/>
@@ -2094,7 +2094,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="313"/>
         <source>Add a new schematic sheet to the project</source>
-        <translation>Pridať nový schematický výkres do projektu</translation>
+        <translation>Pridanie nového schematického výkresu do projektu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="321"/>
@@ -2104,7 +2104,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="322"/>
         <source>Rename the current schematic sheet</source>
-        <translation>Premenovať aktuálny schematický výkres</translation>
+        <translation>Premenovanie aktuálneho schematického výkresu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="330"/>
@@ -2114,7 +2114,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="331"/>
         <source>Remove the current schematic sheet from the project</source>
-        <translation>Odstrániť aktuálny schematický výkres z projektu</translation>
+        <translation>Odstránenie aktuálneho schematického výkresu z projektu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="348"/>
@@ -2124,7 +2124,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="349"/>
         <source>Add a new board to the project</source>
-        <translation>Pridať novú dosku do projektu</translation>
+        <translation>Pridanie novej dosky do projektu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="357"/>
@@ -2134,7 +2134,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="358"/>
         <source>Add a copy of the current board to the project</source>
-        <translation>Pridať kópiu aktuálnej dosky do projektu</translation>
+        <translation>Pridanie kópie aktuálnej dosky do projektu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="366"/>
@@ -2144,7 +2144,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="367"/>
         <source>Remove the current board from the project</source>
-        <translation>Odstrániť aktuálnu dosku z projektu</translation>
+        <translation>Odstránenie aktuálnej dosky z projektu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="375"/>
@@ -2154,7 +2154,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="376"/>
         <source>Make the filled areas of all planes visible</source>
-        <translation>Nastaviť všetky oblasti vyplnených plôch na viditeľné</translation>
+        <translation>Nastavenie všetkých oblastí s vyplnenými plochami ako viditeľných</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="384"/>
@@ -2164,7 +2164,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="385"/>
         <source>Make the filled areas of all planes invisible</source>
-        <translation>Nastaviť všetky oblasti vyplnených plôch na neviditeľné</translation>
+        <translation>Nastavenie všetkých oblastí s vyplnenými plochami ako neviditeľných</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="393"/>
@@ -2174,7 +2174,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="394"/>
         <source>Re-calculate the filled areas of all planes</source>
-        <translation>Pregenerovať všetky oblasti vyplnených plôch</translation>
+        <translation>Pregenerovanie všetkých oblastí s vyplnenými plochami</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="402"/>
@@ -2189,7 +2189,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="406"/>
         <source>Open file or directory browser</source>
-        <translation>Otvoriť prehliadač súborov a adresárov</translation>
+        <translation>Otvorienie prehliadača súborov a adresárov</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="414"/>
@@ -2199,7 +2199,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="415"/>
         <source>Change the measurement unit of the text input</source>
-        <translation>Zmena mernej jednotky textového vstupu</translation>
+        <translation>Zmenenie mernej jednotky textového vstupu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="423"/>
@@ -2210,7 +2210,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="424"/>
         <source>Remove this item</source>
-        <translation>Odstrániť túto položku</translation>
+        <translation>Odstránenie tejto položky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="432"/>
@@ -2235,7 +2235,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="445"/>
         <source>Add some example projects to the workspace</source>
-        <translation>Pridajú sa vzorové projekty do pracovného priestoru</translation>
+        <translation>Pridanie vzorových projektov do pracovného priestoru</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="453"/>
@@ -2265,7 +2265,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="472"/>
         <source>Import schematic/board from EAGLE *.sch/*.brd files</source>
-        <translation>Importovať schému/dosku z EAGLE súborov *.sch/*.brd</translation>
+        <translation>Importovanie schémy/dosky z EAGLE súborov *.sch/*.brd</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="480"/>
@@ -2275,7 +2275,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="481"/>
         <source>Import symbols and footprints from KiCad libraries</source>
-        <translation>Import sch. značiek a puzdier z knižníc KiCad</translation>
+        <translation>Importovanie schematických značiek a puzdier z KiCad knižníc</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="489"/>
@@ -2345,7 +2345,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="544"/>
         <source>Send graphics to a printer</source>
-        <translation>Odoslať do tlačiarne</translation>
+        <translation>Odoslanie do tlačiarne</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="561"/>
@@ -2355,7 +2355,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="562"/>
         <source>Open the project&apos;s bill of materials (BOM) to see part availability, prices etc.</source>
-        <translation>Otvorte zoznam súčiastok projektu (BOM) a pozrite si dostupnosť komponentov, ceny atď.</translation>
+        <translation>Otvorenie zoznamu súčiastok projektu (BOM) pre náhľad dostupnosti komponentov, cien atď.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="571"/>
@@ -2385,7 +2385,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="590"/>
         <source>Generate netlist file for automated PCB testing</source>
-        <translation>Generovať zoznam spojov pre automatizované testovanie DPS</translation>
+        <translation>Generovanie zoznamu spojov pre automatizované testovanie DPS</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="598"/>
@@ -2395,7 +2395,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="599"/>
         <source>Modify or run output jobs</source>
-        <translation>Upraviť, alebo spustiť úlohy generovania výstupov</translation>
+        <translation>Upravenie, alebo spustenie úlohy generovania výstupov</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="607"/>
@@ -2405,7 +2405,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="608"/>
         <source>Start ordering the PCB online</source>
-        <translation>Spustiť online objednávanie dosky</translation>
+        <translation>Spustenie online objednávania dosky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="615"/>
@@ -18339,12 +18339,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="201"/>
         <source>Open web browser after upload</source>
-        <translation type="unfinished"/>
+        <translation>Otvoreniť webový prehliadač po nahraní </translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="218"/>
         <source>Finished the PCB design? Let it manufacture by one of our fabrication partners - easy, safe and fast!</source>
-        <translation type="unfinished"/>
+        <translation>Dokončili ste návrh DPS? Nechajte si ho vyrobiť u jedného z našich výrobných partnerov – jednoducho, bezpečne a rýchlo!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="226"/>
@@ -18374,17 +18374,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="328"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. The project directory will be exported to a *.lppz archive and uploaded to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser, e.g. to choose the preferred manufacturing partner. Just try it!</source>
-        <translation type="unfinished"/>
+        <translation>Tento nástroj vám pomôže rýchlejšie a jednoduchšie vyrobiť navrhnutú dosku plošných spojov. Adresár projektu bude exportovaný do archívu *.lppz a nahraný na API server nakonfigurovaný vo Vašom pracovnom priestore. Následne môžete pokračovať v procese objednávky vo webovom prehliadači, napr. vybrať si preferovaného výrobného partnera. Len to skúste!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="333"/>
         <source>Privacy Policy</source>
-        <translation type="unfinished"/>
+        <translation>Zásady ochrany osobných údajov</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="344"/>
         <source>Privacy and transparency are important to us. Details about how this feature works behind the scenes are available here:</source>
-        <translation type="unfinished"/>
+        <translation>Súkromie a transparentnosť sú pre nás dôležité. Podrobnosti o tom, ako táto funkcia funguje v zákulisí, nájdete tu:</translation>
     </message>
 </context>
 <context>
@@ -18538,7 +18538,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/packagepadlistview.slint" line="181"/>
         <source>This package contains no pads (yet).</source>
-        <translation type="unfinished"/>
+        <translation>Toto puzdro (zatiaľ) neobsahuje žiadne plôšky vývodov.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/packagepadlistview.slint" line="88"/>
