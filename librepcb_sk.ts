@@ -12866,7 +12866,7 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="944"/>
         <source>Important: This operation copies the selected library elements while retaining their UUIDs, so they must not be modified to represent a different part afterwards. The main purpose of this operation is to override library elements from a read-only library with minor adjustments, which is only possible in local, writable libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Dôležité: Táto operácia skopíruje zvolené prvky knižnice a zároveň zachová ich UUID, takže nesmú byť následne upravené tak, aby predstavovali inú súčiastku. Hlavným účelom tejto operácie je prepísať prvky knižnice z knižnice iba na čítanie s malými úpravami, čo je možné iba v lokálnych knižniciach s možnosťou zapisovania.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="954"/>
@@ -17997,7 +17997,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="563"/>
         <source>Copy library element(s) to another library while keeping all UUIDs, e.g. for overriding a read-only element</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovať prvky knižnice do inej knižnice so zachovaním všetkých UUID, napr. na prepísanie prvku iba na čítanie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="570"/>
@@ -18007,7 +18007,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="572"/>
         <source>Move library element(s) to another library</source>
-        <translation type="unfinished"/>
+        <translation>Presunúť prvok (prvky) knižnice do inej knižnice</translation>
     </message>
 </context>
 <context>
