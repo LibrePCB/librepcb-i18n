@@ -4193,7 +4193,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
         <location filename="libs/librepcb/core/types/layer.cpp" line="111"/>
         <location filename="libs/librepcb/core/types/layer.cpp" line="198"/>
         <source>Guide</source>
-        <translation>Rozvrhnutie</translation>
+        <translation>Sprievodné informácie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="117"/>
@@ -4243,7 +4243,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="180"/>
         <source>Alignment</source>
-        <translation>Zarovnanie</translation>
+        <translation>Zapolohovanie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="204"/>
@@ -5732,7 +5732,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="95"/>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="123"/>
         <source>Guide</source>
-        <translation>Rozvrhnutie</translation>
+        <translation>Sprievodné informácie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="96"/>
@@ -5828,7 +5828,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="120"/>
         <source>Alignment</source>
-        <translation>Zarovnanie</translation>
+        <translation>Zapolohovanie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="124"/>
@@ -11356,7 +11356,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="225"/>
         <source>Outlines:</source>
-        <translation>Obrys:</translation>
+        <translation>Obrys dosky:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="252"/>
@@ -11393,7 +11393,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="371"/>
         <source>Gerber (RS-274X) / Excellon (XNC) PCB production data export for boards.</source>
-        <translation>Exportovať súbory výrobných dát Gerber (RS-274X) / Excellon (XNC) dosiek.</translation>
+        <translation>Exportovanie výrobných dát Gerber (RS-274X) / Excellon (XNC) z dosiek do súborov.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.cpp" line="56"/>
