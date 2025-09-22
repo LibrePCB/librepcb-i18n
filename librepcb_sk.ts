@@ -4198,7 +4198,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="117"/>
         <source>Outlines</source>
-        <translation>Obrysy sch.značiek</translation>
+        <translation>Obrys dosky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="123"/>
@@ -5354,7 +5354,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="82"/>
         <source>Black</source>
-        <translation>Čierne</translation>
+        <translation>Čierna</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="89"/>
@@ -5688,7 +5688,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="87"/>
         <source>References</source>
-        <translation>Referencie</translation>
+        <translation>Referenčné body (značky)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="88"/>
@@ -5738,7 +5738,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="96"/>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="112"/>
         <source>Outlines</source>
-        <translation>Obrysy sch. značiek</translation>
+        <translation>Obrys dosky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="97"/>
@@ -5783,7 +5783,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="105"/>
         <source>Pin Numbers</source>
-        <translation>Číslo vývodu</translation>
+        <translation>Čísla vývodov</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="109"/>
@@ -5913,12 +5913,12 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="140"/>
         <source>References Top</source>
-        <translation>Referencie vrchné</translation>
+        <translation>Referenčné body vrchné</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="141"/>
         <source>References Bottom</source>
-        <translation>Referencie spodné</translation>
+        <translation>Referenčné body spodné</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="142"/>
@@ -8297,7 +8297,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="285"/>
         <source>Solder Paste Clearance:</source>
-        <translation>Vzdialenosť masky spájkovacej pasty:</translation>
+        <translation>Odsadenie masky spájkovacej pasty:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="297"/>
@@ -8324,7 +8324,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="409"/>
         <source>Stop Mask Clearance:</source>
-        <translation>Vzdialenosť nesp. masky od plôšky:</translation>
+        <translation>Odsadenie nesp. masky od plôšky:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="416"/>
@@ -8444,7 +8444,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="753"/>
         <source>Outline Tool Diameter:</source>
-        <translation>Priemer nástroja obrysu:</translation>
+        <translation>Priemer nástroja fréz. obrysu:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="781"/>
@@ -14354,7 +14354,7 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="149"/>
         <source>The project &apos;%1&apos; has been upgraded to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</source>
-        <translation>Projekt &apos;%1&apos; bol inovovaný na nový formát súboru. Po uložení ho yž nebude možné otvoriť v staršej verzii LibrePCB!</translation>
+        <translation>Projekt &apos;%1&apos; bol inovovaný na nový formát súboru. Po uložení ho už nebude možné otvoriť v staršej verzii LibrePCB!</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="155"/>
@@ -18966,7 +18966,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="419"/>
         <source>Pin Numbers</source>
-        <translation>Číslo vývodu</translation>
+        <translation>Čísla vývodov</translation>
     </message>
 </context>
 <context>
