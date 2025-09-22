@@ -2731,7 +2731,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="907"/>
         <source>Use a datasheet drawing as the background for verification</source>
-        <translation>Použite výkresu z údajového listu ako pozadie pre kontrolu</translation>
+        <translation>Použite výkresu z technického listu ako pozadie pre kontrolu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="915"/>
@@ -3765,17 +3765,17 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="311"/>
         <source>Search datasheet for &apos;%1&apos;</source>
-        <translation>Hľadať údajový list pre &apos;%1&apos;</translation>
+        <translation>Hľadať technický list pre &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="398"/>
         <source>No datasheet found</source>
-        <translation>Údajový list nenájdený</translation>
+        <translation>Technický list nenájdený</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="399"/>
         <source>Sorry, no datasheet found for the requested part :-(</source>
-        <translation>Prepáčte, ale neexistuje údajový list pre požadovanú súčiastku :-(</translation>
+        <translation>Prepáčte, ale neexistuje technický list pre požadovanú súčiastku :-(</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="412"/>
@@ -4933,7 +4933,7 @@ Ak chcete tento problém vyriešiť, pripojte vývody sch. značky k ich zodpove
 It&apos;s recommended to prefix inverted signal names with &apos;%1&apos;, regardless of the inversion sign used in the parts datasheet.</source>
         <translation>Zdá sa, že názov signálu začína znakom inverzie, ale LibrePCB používa na označenie inverzie iný znak.
 
-Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1&apos;, bez ohľadu na použitý inverzný znak v datasheete.</translation>
+Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1&apos;, bez ohľadu na použitý inverzný znak v technickom liste.</translation>
     </message>
 </context>
 <context>
@@ -4950,7 +4950,7 @@ Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1
 It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardless of the inversion sign used in the parts datasheet.</source>
         <translation>Zdá sa, že názov vývodu začína znakom inverzie, ale LibrePCB používa na označenie inverzie iný znak.
 
-Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1&apos;, bez ohľadu na použitý inverzný znak v datasheete.</translation>
+Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1&apos;, bez ohľadu na použitý inverzný znak v technickom liste.</translation>
     </message>
 </context>
 <context>
@@ -7328,7 +7328,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="468"/>
         <source>This tool allows you to set a background image (typically a datasheet drawing) in the footprint editor to easily verify the size &amp;amp; position of footprint pads etc. Note that the image won&apos;t appear on the board, it&apos;s only visible in the footprint editor.</source>
-        <translation>Tento nástroj umožňuje nastaviť obrázok na pozadie (zvyčajne výkres z údajového listu) v editore puzdier, aby ste si mohli jednoducho overiť veľkosť &amp;amp; polohu plôšok vývodov atď. Poznámka: obrázok bude viditeľný iba v editore puzdier a nebude zobrazený na doske spojov.</translation>
+        <translation>Tento nástroj umožňuje nastaviť obrázok na pozadie (zvyčajne výkres z technického listu) v editore puzdier, aby ste si mohli jednoducho overiť veľkosť &amp;amp; polohu plôšok vývodov atď. Poznámka: obrázok bude viditeľný iba v editore puzdier a nebude zobrazený na doske spojov.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="476"/>
@@ -8856,7 +8856,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="126"/>
         <source>To copy values e.g. from a datasheet PDF, two modes are available:</source>
-        <translation>Na kopírovanie hodnôt napr. z údajového listu PDF sú k dispozícii dva režimy:</translation>
+        <translation>Na kopírovanie hodnôt napr. z technického listu PDF sú k dispozícii dva režimy:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="130"/>
@@ -17034,7 +17034,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="441"/>
         <source>URL to online datasheet (optional)</source>
-        <translation>URL adresa k online dátovému listu (nepovinné)</translation>
+        <translation>URL adresa k technickému listu (nepovinné)</translation>
     </message>
 </context>
 <context>
@@ -17042,7 +17042,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="436"/>
         <source>Datasheet:</source>
-        <translation>Údajový list:</translation>
+        <translation>Technický list:</translation>
     </message>
 </context>
 <context>
@@ -17178,7 +17178,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="212"/>
         <source>Open Datasheet</source>
-        <translation>Otvoriť údajový list</translation>
+        <translation>Otvoriť technický list</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="225"/>
@@ -19020,7 +19020,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="368"/>
         <source>Import Pins From Datasheet</source>
-        <translation>Importovanie definície vývodov z údajového listu</translation>
+        <translation>Importovanie definície vývodov z technického listu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="374"/>
