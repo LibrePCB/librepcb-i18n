@@ -2936,7 +2936,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1090"/>
         <source>Add special SMT pads used as global fiducials</source>
-        <translation>Pridať špeciálnu SMT plôšku vývodu, určenú ako globálnu zameriavaciu značku</translation>
+        <translation>Pridanie špeciálnej SMT plôšky vývodu, určenú ako globálnu zameriavaciu značku</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1098"/>
@@ -3071,7 +3071,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1211"/>
         <source>Move the focus into the command toolbar</source>
-        <translation>Presunutie aktivitu do panelu s príkazmi</translation>
+        <translation>Presunutie aktivity do panelu s príkazmi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1219"/>
@@ -3582,7 +3582,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1685"/>
         <source>User Manual &amp;&amp; Tutorials</source>
-        <translation>Používateľská príručka &amp;&amp; návody</translation>
+        <translation>Používateľská príručka a návody</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1686"/>
@@ -3592,7 +3592,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1694"/>
         <source>Give Feedback &amp;&amp; Get Support</source>
-        <translation>Poskytnúť spätnú väzbu &amp;&amp; získať podporu</translation>
+        <translation>Poskytnúť spätnú väzbu a získať podporu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1695"/>
@@ -3607,7 +3607,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1704"/>
         <source>Open the donation page in the web browser</source>
-        <translation>Otvorenie darovacej stránky v internetovom prehliadači</translation>
+        <translation>Otvorenie stránky v internetovom prehliadači, s možnosťou poskytnúť finančný dar slebo inak prispieť LibrePCB </translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1712"/>
@@ -3875,7 +3875,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="252"/>
         <source>The optional gate &apos;%1&apos; of &apos;%2&apos; is not added to the schematic.</source>
-        <translation>Voliteľná sekcia &apos;%1&apos; z &apos;%2&apos; nebola pridaná do schémy.</translation>
+        <translation>Nepovinná sekcia &apos;%1&apos; z &apos;%2&apos; nebola pridaná do schémy.</translation>
     </message>
 </context>
 <context>
@@ -5449,7 +5449,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="78"/>
         <source>Return</source>
-        <translation>Návrat</translation>
+        <translation>Enter</translation>
     </message>
 </context>
 <context>
@@ -12212,7 +12212,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="14"/>
         <source>Select Workspace Path</source>
-        <translation>Zvoliť cestu k pracovnému priestoru</translation>
+        <translation>Zvolenie cesty k pracovnému priestoru</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="17"/>
@@ -12223,7 +12223,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="29"/>
         <source>&lt;p&gt;LibrePCB stores settings, libraries and (optionally) projects in a directory called &lt;i&gt;workspace&lt;/i&gt;.&lt;/p&gt;
 &lt;p&gt;Workspaces are platform independent, so they can be used across different operating systems.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;LibrePCB ukladá nastavenia, knižnice a projekty (voliteľne) v adresári s názvom pracovný priestor -&lt;i&gt;workspace&lt;/i&gt;.&lt;/p&gt;
+        <translation>&lt;p&gt;LibrePCB ukladá nastavenia, knižnice a projekty (nepovinné) v adresári s názvom pracovný priestor -&lt;i&gt;workspace&lt;/i&gt;.&lt;/p&gt;
 &lt;p&gt;Pracovné priestory nie sú závislé od použitej platformy, takže môžu byť využité naprieč viacerými rôznymi operačnými systémami.&lt;/p&gt;</translation>
     </message>
     <message>
@@ -12249,7 +12249,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="125"/>
         <source>New workspace will be created.</source>
-        <translation>Bude vytvorená nová pracovná plocha.</translation>
+        <translation>Bude vytvorený nový pracovný priestor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="127"/>
@@ -15611,7 +15611,7 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="439"/>
         <source>You can add multiple commands to make the same settings working on multiple computers. LibrePCB will iterate through the list of commands until one of them succeeds. If none succeeds, the system&apos;s default application will be used.</source>
-        <translation>Môžete pridať viacero príkazov, aby rovnaké nastavenia fungovali na viacerých počítačoch. LibrePCB bude iterovať zoznam príkazov, kým jeden z nich neuspeje. Ak sa nič nepodarí, použije sa predvolená aplikácia systému.</translation>
+        <translation>Môžete pridať viacero príkazov, aby rovnaké nastavenia fungovali na viacerých počítačoch. LibrePCB bude iterovať zoznam príkazov, kým s jedným z nich neuspeje. Ak sa nič nepodarí, použije sa predvolená aplikácia systému.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="455"/>
@@ -16099,7 +16099,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="121"/>
         <source>Open the source code in the web browser</source>
-        <translation>Otvoriť zdrojový kód v internetovom prehliadači</translation>
+        <translation>Otvorenie internetového prehliadača so zdrojovým kódom</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="157"/>
@@ -17624,7 +17624,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="36"/>
         <source>Get Started With LibrePCB</source>
-        <translation>Začať pracovať s LibrePCB</translation>
+        <translation>Začíname pracovať s LibrePCB</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="67"/>
@@ -17634,12 +17634,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="68"/>
         <source>Open video tutorials in the web browser</source>
-        <translation>Otvoriť video návody v internetovom prehliadači</translation>
+        <translation>Otvorenie video návodov v internetovom prehliadači</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="78"/>
         <source>User Manual &amp; Getting Started Guide</source>
-        <translation>Používateľská príručka a úvodná príručka</translation>
+        <translation>Používateľská príručka a sprievodca začiatkom</translation>
     </message>
 </context>
 <context>
