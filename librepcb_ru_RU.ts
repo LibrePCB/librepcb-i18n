@@ -54,32 +54,32 @@
 <context>
     <name>BGI_Via</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="249"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="250"/>
         <source>Through-Hole Via</source>
         <translation>Переходное отверстие через несколько слоёв</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="251"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="252"/>
         <source>Blind Via</source>
         <translation>Глухое переходное отверстие</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="253"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="254"/>
         <source>Buried Via</source>
         <translation>Внутреннее переходное отверстие</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="255"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="256"/>
         <source>Net: %1</source>
         <translation>Цепь: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="257"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="258"/>
         <source>Start Layer: %1</source>
         <translation>Начальный слой: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="258"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="259"/>
         <source>End Layer: %1</source>
         <translation>Конечный слой: %1</translation>
     </message>
@@ -5434,7 +5434,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="356"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="77"/>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="517"/>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="462"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="457"/>
         <location filename="libs/librepcb/editor/widgets/openglview.cpp" line="95"/>
         <source>Shift</source>
         <translation>Смена</translation>
@@ -6165,12 +6165,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::BI_Via</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/items/bi_via.cpp" line="104"/>
+        <location filename="libs/librepcb/core/project/board/items/bi_via.cpp" line="108"/>
         <source>Could not change the vias start/end layers because there are still traces connected on other layers.</source>
         <translation>Не удалось изменить начальный/конечный слои vias, так как на других слоях все еще остаются подключенные трассы.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/items/bi_via.cpp" line="193"/>
+        <location filename="libs/librepcb/core/project/board/items/bi_via.cpp" line="191"/>
         <source>Failed to connect trace to via because it&apos;s a blind- or buried via which doesn&apos;t include the corresponding layer.</source>
         <translation>Не удалось подключить дорожку к перех. отв., поскольку оно глухое или скрытое, не включающий соответствующий слой.</translation>
     </message>
@@ -6459,12 +6459,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::FileFormatMigrationV1</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="229"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="230"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="311"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="312"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
         <translation type="unfinished"/>
     </message>
@@ -6982,14 +6982,14 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="459"/>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="523"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="875"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="989"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="878"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="992"/>
         <source>Skipped text on layer %1 (%2).</source>
         <translation>Пропущен текст на слое %1 (%2).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="510"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="968"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="971"/>
         <source>Skipped graphics object on layer %1 (%2).</source>
         <translation>Пропущен графический объект на слое %1 (%2).</translation>
     </message>
@@ -7014,22 +7014,22 @@ You need at least LibrePCB %1 to open it.
         <translation><numerusform>Пропущено %n шина, потому что она ещё не поддерживается!</numerusform><numerusform>Пропущено %n шин, потому что они ещё не поддерживаются!</numerusform><numerusform>Пропущено %n шин, потому что они ещё не поддерживаются!</numerusform><numerusform>Пропущено %n шин, потому что они ещё не поддерживаются!</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1073"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1085"/>
         <source>Square/octagon via shape not supported, converting to circular.</source>
         <translation>Квадрат/октагон через форму не поддерживается, преобразовывается в круглую.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1147"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1159"/>
         <source>Dashed/dotted trace is not supported, converting to continuous.</source>
         <translation>Пунктирная/точечная трассировка не поддерживается, преобразуется в непрерывную.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1152"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1164"/>
         <source>Flat trace end is not supported, converting to round.</source>
         <translation>Плоский конец трассировки не поддерживается, преобразовывается в круглый.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1156"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1168"/>
         <source>Curved trace is not supported, converting to straight.</source>
         <translation>Изогнутая трассировка не поддерживается, преобразуйте ее в прямую.</translation>
     </message>
@@ -7407,72 +7407,72 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1249"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1264"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1251"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1284"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1576"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1266"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1299"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1591"/>
         <source>None</source>
         <translation>Отсутствует</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2153"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2168"/>
         <source>Add devices to board</source>
         <translation>Добавить устройство на плату</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2181"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2233"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2264"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2318"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2196"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2248"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2279"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2333"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2199"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2214"/>
         <source>Preparing board...</source>
         <translation>Подготовка платы...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2199"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2214"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2252"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2267"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>Экспорт списка цепей IPC D-356A</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2316"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2331"/>
         <source>Success!</source>
         <translation>Успешно!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2325"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2340"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation>Это новая функция, и мы смогли протестировать ее только на очень немногих внешних маршрутизаторах. Если у вас возникнут проблемы с совместимостью с вашим маршрутизатором, пожалуйста, сообщите нам об этом!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2363"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2378"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation>Разбор сессии Specctra „%1“...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2372"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2387"/>
         <source>Import failed, no changes made to the board.</source>
         <translation>Импорт не удался, никаких изменений на плате не произошло.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2377"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2392"/>
         <source>Specctra SES Import</source>
         <translation>Specctra SES Импорт</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2387"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2402"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -7645,15 +7645,15 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_AddVia</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="217"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="239"/>
         <source>Add via to board</source>
         <translation>Добавить перех. отв. на плату</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="238"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="350"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="375"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="395"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="260"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="372"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="397"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="417"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -7693,26 +7693,26 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawTrace</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="342"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="363"/>
         <source>Draw Board Trace</source>
         <translation>Нарисовать дорожку на плате</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="350"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="371"/>
         <source>Invalid layer selected.</source>
         <translation>Выбран недопустимый слой.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="358"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="379"/>
         <source>This pad is not connected to any net, therefore no trace can be attached to it. To allow attaching a trace, first connect this pad to a net in the schematics. So this is a problem of the schematics, not of the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="505"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="677"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="526"/>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="698"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="728"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="843"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="719"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="749"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="864"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -8554,61 +8554,62 @@ You need at least LibrePCB %1 to open it.
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="56"/>
-        <source>Outer Diameter:</source>
-        <translation>Внешний диаметр:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="66"/>
         <source>Drill Diameter:</source>
         <translation>Диаметр отверстия:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="76"/>
-        <source>Start Layer:</source>
-        <translation>Начальный слой:</translation>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="66"/>
+        <source>Outer Diameter:</source>
+        <translation>Внешний диаметр:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="86"/>
-        <source>End Layer:</source>
-        <translation>Конечный слой:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="96"/>
-        <source>Exposure:</source>
-        <translation>Экспозиция:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="105"/>
-        <source>The copper area of the via is covered with solder resist, i.e. not exposed.</source>
-        <translation>Медная часть сквозного отверстия покрыта припоем, т.е. не обнажена.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="108"/>
-        <source>Off</source>
-        <translation>Выкл.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="115"/>
-        <source>A solder resist opening is created to expose the via. The clearance is taken from the board design rules.</source>
-        <translation>Создается отверстие для защиты от припоя, чтобы обнажить сквозное отверстие. Зазор взят из правил проектирования платы.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="118"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="78"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="129"/>
         <source>From Design Rules</source>
         <translation>Из правил проектирования</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="125"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="87"/>
+        <source>Start Layer:</source>
+        <translation>Начальный слой:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="97"/>
+        <source>End Layer:</source>
+        <translation>Конечный слой:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="107"/>
+        <source>Exposure:</source>
+        <translation>Экспозиция:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="116"/>
+        <source>The copper area of the via is covered with solder resist, i.e. not exposed.</source>
+        <translation>Медная часть сквозного отверстия покрыта припоем, т.е. не обнажена.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="119"/>
+        <source>Off</source>
+        <translation>Выкл.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="126"/>
+        <source>A solder resist opening is created to expose the via. The clearance is taken from the board design rules.</source>
+        <translation>Создается отверстие для защиты от припоя, чтобы обнажить сквозное отверстие. Зазор взят из правил проектирования платы.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="136"/>
         <source>A solder resist opening with a custom clearance is created to expose the via.</source>
         <translation>Для обнажения сквозного отверстия создается отверстие для припоя с пользовательским зазором.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="128"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="139"/>
         <source>Manual:</source>
         <translation>Ручной:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="181"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="208"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -9182,12 +9183,12 @@ You need at least LibrePCB %1 to open it.
         <translation>Сеть „%1“ из сессии Specctra не существует в этом проекте, пропуская ее.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="753"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="759"/>
         <source>Updated %1 components (%2 unmodified components skipped).</source>
         <translation>Обновлен %1 компонент (%2 немодифицированных компонента пропущены).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="756"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="762"/>
         <source>Updated %1 net objects (%2 unmodified objects skipped).</source>
         <translation>Обновлено %1 объектов сети (%2 немодифицированных объекта пропущены).</translation>
     </message>
@@ -12942,27 +12943,27 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::MeasureTool</name>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="251"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="246"/>
         <source>Copied to clipboard: %1</source>
         <translation>Скопировать в буфер обмена: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="461"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="456"/>
         <source>(press %1 to disable snap)</source>
         <translation>(нажмите %1 для отключения привязки)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="466"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="461"/>
         <source>Press %1 to copy the value to clipboard or %2 to clear the measurement</source>
         <translation>Нажмите %1, чтобы скопировать значение в буфер обмена, или %2, чтобы очистить измерение.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="471"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="466"/>
         <source>Click to specify the end point</source>
         <translation>Нажмите, чтобы указать конечную точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="474"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="469"/>
         <source>Click to specify the start point</source>
         <translation>Нажмите, чтобы указать начальную точку</translation>
     </message>
@@ -16374,12 +16375,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <name>ui::AddViaToolBar</name>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="29"/>
-        <source>Via Outer Diameter</source>
+        <source>Via Drill Diameter</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="52"/>
-        <source>Via Drill Diameter</source>
+        <source>Via Outer Diameter</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -16423,67 +16424,67 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="179"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="180"/>
         <source>Empty Schematics</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="185"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="186"/>
         <source>Only components existing in the schematics can be added to a board, but the schematics of this project are currently empty. Please draw the schematics first before starting with the board design.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="195"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="196"/>
         <source>Learn how to create schematics</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="214"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="215"/>
         <source>Get Started</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="220"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="221"/>
         <source>Start designing the board by placing all devices which are part of the schematics.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="230"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="231"/>
         <source>Select an unplaced component in the list.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="236"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="237"/>
         <source>Choose the desired device (which defines the package to use).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="242"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="243"/>
         <source>Choose the desired footprint variant if there are multiple.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="248"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="249"/>
         <source>Confirm with the button and place the device interactively with the cursor.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="254"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="255"/>
         <source>Place Devices</source>
         <translation>Разместить устройства</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="268"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="269"/>
         <source>Learn how to create boards</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="551"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="552"/>
         <source>DRC Messages: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="562"/>
+        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="563"/>
         <source>Unplaced: %1</source>
         <translation type="unfinished"/>
     </message>
@@ -17458,18 +17459,18 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::DrawTraceToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="33"/>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="32"/>
         <source>Trace Width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="62"/>
-        <source>Via Outer Diameter</source>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="61"/>
+        <source>Via Drill Diameter</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="85"/>
-        <source>Via Drill Diameter</source>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="84"/>
+        <source>Via Outer Diameter</source>
         <translation type="unfinished"/>
     </message>
 </context>
