@@ -11952,123 +11952,123 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
 <context>
     <name>librepcb::editor::GuiApplication</name>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="158"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="171"/>
         <source>Older Application Version Used</source>
         <translation>Используется более старая версия приложения</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="159"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="172"/>
         <source>This workspace was already used with a newer version of LibrePCB. This is fine, just note that any changes in libraries and workspace settings won&apos;t be available in newer versions of LibrePCB.</source>
         <translation>Это рабочее пространство уже использовалось в более новой версии LibrePCB. Это нормально, только учтите, что любые изменения в библиотеках и настройках рабочего пространства не будут доступны в новых версиях LibrePCB.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="172"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="185"/>
         <source>No Libraries Installed</source>
         <translation>Библиотеки не установлены</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="173"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="186"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should open the libraries panel to add some libraries.</source>
         <translation>Это рабочее пространство не содержит библиотек, которые необходимы для создания и изменения проектов. Чтобы добавить библиотеки, необходимо открыть панель библиотек.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="176"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="189"/>
         <source>Open Library Manager</source>
         <translation>Открыть менеджер библиотек</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="193"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="206"/>
         <source>Application is Not Installed</source>
         <translation>Приложение не установлено</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="194"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="207"/>
         <source>This application executable does not seem to be integrated into your desktop environment. If desired, install it now to allow opening LibrePCB projects through the file manager. Click the button for details, or do it from the preferences dialog at any time.</source>
         <translation>Этот исполняемый файл приложения, похоже, не интегрирован в среду рабочего стола. При желании установите его сейчас, чтобы иметь возможность открывать проекты LibrePCB через файловый менеджер. Щелкните на кнопке, чтобы узнать подробности, или сделайте это из диалога настроек в любое время.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="198"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="211"/>
         <source>Install Desktop Integration</source>
         <translation>Установите интеграцию с рабочим столом</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="213"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="226"/>
         <source>Scanning Libraries</source>
         <translation>Сканирование библиотек</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="214"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="227"/>
         <source>The internal libraries database is beeing updated. This may take a few minutes and in the mean time you might see outdated information about libraries.</source>
         <translation>Внутренняя база данных библиотек обновляется. Это может занять несколько минут, и в это время вы можете увидеть устаревшую информацию о библиотеках.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="230"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="243"/>
         <source>Scanning Libraries Failed</source>
         <translation>Сканирование библиотек не удалось</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="303"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="316"/>
         <source>Workspace changed</source>
         <translation>Рабочее пространство изменено</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="304"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="317"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation>Выбранное рабочее пространство будет использоваться после перезапуска приложения.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="318"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="331"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
         <translation>Это загружает несколько примеров проектов из Интернета и копирует их в рабочее пространство, чтобы помочь вам оценить LibrePCB с реальными проектами.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="322"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="335"/>
         <source>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</source>
         <translation>Когда они вам больше не понадобятся, просто удалите каталог примеров, чтобы избавиться от них.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="325"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="338"/>
         <source>Add Example Projects</source>
         <translation>Добавить примеры проектов</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="366"/>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="496"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="379"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="509"/>
         <source>Restore autosave backup?</source>
         <translation>Восстановить резервную копию из авто-сохранения?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="367"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="380"/>
         <source>It seems that the application crashed the last time you opened this library. Do you want to restore the last autosave backup?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="401"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="414"/>
         <source>Failed to open library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="449"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="462"/>
         <source>Could not create project</source>
         <translation>Не удалось создать проект</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="463"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="476"/>
         <source>Open Project</source>
         <translation>Открыть проект</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="464"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="477"/>
         <source>LibrePCB project files (%1)</source>
         <translation>Файлы проекта LibrePCB (%1)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="497"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="510"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>Похоже, произошел сбой приложения при прошлом открытии этого проекта. Хотите ли вы восстановить последнюю автоматически сохранённую резервную копию?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="560"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="573"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -14132,11 +14132,6 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/project/partinformationtooltip.ui" line="194"/>
         <source>Source:</source>
         <translation>Источник:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/partinformationtooltip.ui" line="247"/>
-        <source>lblSourceDetails</source>
-        <translation>lblSourceDetails</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/partinformationtooltip.cpp" line="134"/>
@@ -17734,7 +17729,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="609"/>
-        <source>Apply %n Modifications</source>
+        <source>Apply %n Modification(s)</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -17880,7 +17875,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <name>ui::LibraryRuleCheckLink</name>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/library/libraryrulechecklink.slint" line="11"/>
-        <source>%n approved messages</source>
+        <source>%n approved message(s)</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -17890,7 +17885,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/library/libraryrulechecklink.slint" line="9"/>
-        <source>%n warnings</source>
+        <source>%n warning(s)</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
 </context>
@@ -17977,7 +17972,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <name>ui::LibraryTreeViewToolBar</name>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="547"/>
-        <source>%n selected items</source>
+        <source>%n selected item(s)</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -18445,7 +18440,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="45"/>
-        <source>%n Messages</source>
+        <source>%n Message(s)</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
