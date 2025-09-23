@@ -1777,7 +1777,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1664"/>
         <source>The clearance between a silkscreen text and a solder resist opening is smaller than the minimum clearance configured in the DRC settings. This could lead to clipped silkscreen during production.</source>
-        <translation>Vzdialenosť medzi textom popisu a prerušením v nesp. maske je menšia ako je nastavená v návrhových pravidlách (DRC). To by mohlo viesť k orezaniu popisu počas výroby.</translation>
+        <translation>Vzdialenosť medzi textom potlače a prerušením v nesp. maske je menšia ako je nastavená v návrhových pravidlách (DRC). To by mohlo viesť k orezaniu popisu počas výroby.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1669"/>
@@ -4268,12 +4268,12 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="228"/>
         <source>Top Legend</source>
-        <translation>Vrchné popisy DPS</translation>
+        <translation>Vrchné popisy dosky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="234"/>
         <source>Bottom Legend</source>
-        <translation>Spodný popis DPS</translation>
+        <translation>Spodné popisy dosky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="240"/>
@@ -4787,7 +4787,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="345"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation>Puzdrá použité na návrh DPS, by mali obsahovať textový reťazec označujúci názov súčiastky, Inak ich nebude možné identifikovať na plošnom spoji (ich názov nebude vo vrstve popisu). Existuje len pár výnimiek, kedy nie je potrebné takýto text zadať (napr. pomocné komponenty nesúvisiace so schémou). V týchto prípadoch ignorujte túto správu.</translation>
+        <translation>Puzdrá použité na návrh DPS, by mali obsahovať textový reťazec označujúci názov súčiastky, Inak ich nebude možné identifikovať na plošnom spoji (ich názov nebude vo vrstve potlače). Existuje len pár výnimiek, kedy nie je potrebné takýto text zadať (napr. pomocné komponenty nesúvisiace so schémou). V týchto prípadoch ignorujte túto správu.</translation>
     </message>
 </context>
 <context>
@@ -4800,7 +4800,7 @@ Pasívne súčiastky: s použitím atribútu, napr. %3</translation>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="367"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation>Puzdrá použité na návrh DPS, by mali obsahovať textový reťazec označujúci hodnotu súčiastky, inak nebude zobrazená v popisnej vrstve na DPS. Existuje len pár výnimiek, kedy nie je potrebné tento text zadať (napr. pomocné komponenty nesúvisiace so schémou). V týchto prípadoch ignorujte túto správu.</translation>
+        <translation>Puzdrá použité na návrh DPS, by mali obsahovať textový reťazec označujúci hodnotu súčiastky, inak nebude zobrazená na DPS (vo vrstve potlače). Existuje len pár výnimiek, kedy nie je potrebné tento text zadať (napr. pomocné komponenty nesúvisiace so schémou). V týchto prípadoch ignorujte túto správu.</translation>
     </message>
 </context>
 <context>
@@ -5853,12 +5853,12 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="128"/>
         <source>Legend Top</source>
-        <translation>Popisy DPS vrchné</translation>
+        <translation>Potlač dosky vrchná</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="129"/>
         <source>Legend Bottom</source>
-        <translation>Popisy DPS spodné</translation>
+        <translation>Potlač dosky spodná</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="130"/>
@@ -5973,7 +5973,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="189"/>
         <source>Copper Bottom</source>
-        <translation>Spoje spodnej strany</translation>
+        <translation>Spoje spodné</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="193"/>
@@ -11744,7 +11744,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="567"/>
         <source>Copper Bottom</source>
-        <translation>Spoje spodnej strany</translation>
+        <translation>Spoje spodné</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="888"/>
