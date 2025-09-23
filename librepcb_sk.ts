@@ -7130,7 +7130,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="229"/>
         <source>URL</source>
-        <translation type="unfinished"/>
+        <translation>URL adresa</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="231"/>
@@ -7140,7 +7140,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="233"/>
         <source>Parts Info</source>
-        <translation type="unfinished"/>
+        <translation>Info o súčiastke</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="235"/>
@@ -12862,7 +12862,7 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="938"/>
         <source>Note: This operation cannot be easily undone, except by opening the destination library and moving the library elements back the same way.</source>
-        <translation type="unfinished"/>
+        <translation>Poznámka: Túto operáciu nemožno ľahko vrátiť späť, s výnimkou otvorenia cieľovej knižnice a presunutia prvkov knižnice späť rovnakým spôsobom.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="944"/>
@@ -17740,7 +17740,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="609"/>
         <source>Apply %n Modification(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Použiť %n modifikáciu</numerusform><numerusform>Použiť %n modifikácie</numerusform><numerusform>Použiť %n modifikácii</numerusform><numerusform>Použiť %n modifikácii</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="622"/>
@@ -17886,7 +17886,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/library/libraryrulechecklink.slint" line="11"/>
         <source>%n approved message(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n schválené oznámenie</numerusform><numerusform>%n schválené oznámenia</numerusform><numerusform>%n schválených oznámení</numerusform><numerusform>%n schválených oznámení</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/libraryrulechecklink.slint" line="13"/>
@@ -17896,7 +17896,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/library/libraryrulechecklink.slint" line="9"/>
         <source>%n warning(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n upozornenie</numerusform><numerusform>%n upozornenia</numerusform><numerusform>%n upozornení</numerusform><numerusform>%n upozornení</numerusform></translation>
     </message>
 </context>
 <context>
@@ -17983,7 +17983,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="547"/>
         <source>%n selected item(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n zvolených položka</numerusform><numerusform>%n zvolené položky</numerusform><numerusform>%n zvolených položiek</numerusform><numerusform>%n zvolených položiek</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="561"/>
@@ -18451,7 +18451,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="45"/>
         <source>%n Message(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n oznámenie</numerusform><numerusform>%n oznámenia</numerusform><numerusform>%n oznámení</numerusform><numerusform>%n oznámení</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="47"/>
