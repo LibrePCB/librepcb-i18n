@@ -17535,7 +17535,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="128"/>
         <source>Support the LibrePCB project with a donation to keep the development and maintenance ongoing ‒ Thank you!</source>
-        <translation type="unfinished"/>
+        <translation>Unterstütze das LibrePCB Projekt mit einer Spende, um die Weiterentwicklung und den Betrieb der Software aufrecht zu erhalten ‒ Vielen Dank!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="36"/>
@@ -17622,7 +17622,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="609"/>
         <source>Apply %n Modifications</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n Änderung anwenden</numerusform><numerusform>%n Änderungen anwenden</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="622"/>
