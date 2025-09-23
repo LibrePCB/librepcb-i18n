@@ -12872,7 +12872,7 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="954"/>
         <source>Move %1 Elements</source>
-        <translation>Presunúť %1 elementov</translation>
+        <translation>Presunutie %1 elementov</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="998"/>
