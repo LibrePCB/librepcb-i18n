@@ -8148,7 +8148,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="49"/>
         <source>Min. Copper Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Min. vzdialenosť vodivých prvkov:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="56"/>
@@ -8203,12 +8203,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="139"/>
         <source>Min. Board Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Min. vzdialenosť od obrysu dosky:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="146"/>
         <source>Min. Hole Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Min. vzdialenosť otvorov:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="96"/>
