@@ -6982,14 +6982,14 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="459"/>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="523"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="878"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="992"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="882"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="996"/>
         <source>Skipped text on layer %1 (%2).</source>
         <translation>Пропущен текст на слое %1 (%2).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="510"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="971"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="975"/>
         <source>Skipped graphics object on layer %1 (%2).</source>
         <translation>Пропущен графический объект на слое %1 (%2).</translation>
     </message>
@@ -7014,22 +7014,22 @@ You need at least LibrePCB %1 to open it.
         <translation><numerusform>Пропущено %n шина, потому что она ещё не поддерживается!</numerusform><numerusform>Пропущено %n шин, потому что они ещё не поддерживаются!</numerusform><numerusform>Пропущено %n шин, потому что они ещё не поддерживаются!</numerusform><numerusform>Пропущено %n шин, потому что они ещё не поддерживаются!</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1085"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1089"/>
         <source>Square/octagon via shape not supported, converting to circular.</source>
         <translation>Квадрат/октагон через форму не поддерживается, преобразовывается в круглую.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1159"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1163"/>
         <source>Dashed/dotted trace is not supported, converting to continuous.</source>
         <translation>Пунктирная/точечная трассировка не поддерживается, преобразуется в непрерывную.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1164"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1168"/>
         <source>Flat trace end is not supported, converting to round.</source>
         <translation>Плоский конец трассировки не поддерживается, преобразовывается в круглый.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1168"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1172"/>
         <source>Curved trace is not supported, converting to straight.</source>
         <translation>Изогнутая трассировка не поддерживается, преобразуйте ее в прямую.</translation>
     </message>
@@ -8145,8 +8145,8 @@ You need at least LibrePCB %1 to open it.
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="49"/>
-        <source>Min. Clearance:</source>
-        <translation>Мин. зазор:</translation>
+        <source>Min. Copper Clearance:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="56"/>
@@ -8199,23 +8199,33 @@ You need at least LibrePCB %1 to open it.
         <translation>Термические спицы:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="89"/>
-        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="107"/>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="139"/>
+        <source>Min. Board Clearance:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="146"/>
+        <source>Min. Hole Clearance:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="96"/>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="116"/>
         <source>None</source>
         <translation>Отсутствует</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="110"/>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="119"/>
         <source>Thermal Relief</source>
         <translation>Термическая разгрузка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="113"/>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="122"/>
         <source>Solid</source>
         <translation>Твердый</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="219"/>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="230"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>

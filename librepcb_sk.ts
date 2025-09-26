@@ -6984,14 +6984,14 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="459"/>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="523"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="878"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="992"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="882"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="996"/>
         <source>Skipped text on layer %1 (%2).</source>
         <translation>Vynechaný text na vrstve %1 (%2).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="510"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="971"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="975"/>
         <source>Skipped graphics object on layer %1 (%2).</source>
         <translation>Vynechaný grafický objekt na vrstve layer %1 (%2).</translation>
     </message>
@@ -7016,22 +7016,22 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation><numerusform>Bola vynechaná %n zbernica, pretože zbernice zatiaľ nie sú podporované!</numerusform><numerusform>Boli vynechané %n zbernice, pretože zbernice zatiaľ nie sú podporované!</numerusform><numerusform>Bolo vynechaných %n zberníc, pretože zbernice zatiaľ nie sú podporované!</numerusform><numerusform>Bolo vynechaných %n zberníc, pretože zbernice zatiaľ nie sú podporované!</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1085"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1089"/>
         <source>Square/octagon via shape not supported, converting to circular.</source>
         <translation>Štvoruholníkový/osemuholníkový tvar prechodu nie je podporovaný a bude zmenený za okrúhly.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1159"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1163"/>
         <source>Dashed/dotted trace is not supported, converting to continuous.</source>
         <translation>Čiarkované/bodkované spoje nie sú podporované a budú skonvertované na plné.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1164"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1168"/>
         <source>Flat trace end is not supported, converting to round.</source>
         <translation>Ploché ukončenie spojov nie je podporované a bude zmenené na zaoblené.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1168"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1172"/>
         <source>Curved trace is not supported, converting to straight.</source>
         <translation>Oblúkové spoje nie sú podporované a budú zmenené za priame.</translation>
     </message>
@@ -8147,8 +8147,8 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="49"/>
-        <source>Min. Clearance:</source>
-        <translation>Min. vzdialenosť:</translation>
+        <source>Min. Copper Clearance:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="56"/>
@@ -8201,23 +8201,33 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Pripojenie tepelného prepoja:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="89"/>
-        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="107"/>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="139"/>
+        <source>Min. Board Clearance:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="146"/>
+        <source>Min. Hole Clearance:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="96"/>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="116"/>
         <source>None</source>
         <translation>Žiadne</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="110"/>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="119"/>
         <source>Thermal Relief</source>
         <translation>Teplotné prepojenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="113"/>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="122"/>
         <source>Solid</source>
         <translation>Súvislá</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="219"/>
+        <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="230"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
