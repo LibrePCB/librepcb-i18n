@@ -6315,19 +6315,19 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     </message>
     <message>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="154"/>
-        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="180"/>
+        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="183"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
         <translation>Už existuje třída spojů s názvem &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="233"/>
-        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="260"/>
+        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="236"/>
+        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="263"/>
         <source>There is already a net signal with the name &quot;%1&quot;!</source>
         <translation>Už existuje signál s názvem &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="309"/>
-        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="339"/>
+        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="312"/>
+        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="342"/>
         <source>There is already a component with the name &quot;%1&quot;!</source>
         <translation>Už existuje součást s názvem &quot;%1&quot;!</translation>
     </message>
@@ -6505,7 +6505,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::NetClass</name>
     <message>
-        <location filename="libs/librepcb/core/project/circuit/netclass.cpp" line="81"/>
+        <location filename="libs/librepcb/core/project/circuit/netclass.cpp" line="117"/>
         <source>The net class &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation>Třída spojů &quot;%1&quot; nemůže být odstraněna, protože se stále používá!</translation>
     </message>
@@ -7391,72 +7391,72 @@ Na otevření potřebujete alespoň LibrePCB %1.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1264"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1289"/>
         <source>Auto</source>
         <translation>Automaticky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1266"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1299"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1591"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1291"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1324"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1616"/>
         <source>None</source>
         <translation>Žádný</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2168"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2193"/>
         <source>Add devices to board</source>
         <translation>Přidat součástky na desku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2196"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2248"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2279"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2333"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2221"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2273"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2304"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2358"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2214"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2239"/>
         <source>Preparing board...</source>
         <translation>Připravuji desku...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2214"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2239"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2267"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2292"/>
         <source>Export IPC D-356A Netlist</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2331"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2356"/>
         <source>Success!</source>
         <translation>Úspěch!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2340"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2365"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2378"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2403"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2387"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2412"/>
         <source>Import failed, no changes made to the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2392"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2417"/>
         <source>Specctra SES Import</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2402"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2427"/>
         <source>Close</source>
         <translation>Zavřít</translation>
     </message>
@@ -7677,26 +7677,26 @@ Na otevření potřebujete alespoň LibrePCB %1.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawTrace</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="363"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="411"/>
         <source>Draw Board Trace</source>
         <translation>Kreslit spoj na desce</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="371"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="419"/>
         <source>Invalid layer selected.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="379"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="427"/>
         <source>This pad is not connected to any net, therefore no trace can be attached to it. To allow attaching a trace, first connect this pad to a net in the schematics. So this is a problem of the schematics, not of the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="526"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="698"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="719"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="749"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="864"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="590"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="762"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="783"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="813"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="930"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -8267,214 +8267,219 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <translation>Návrhová pravidla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="231"/>
-        <source>Ratio (% of Diameter)</source>
-        <translation>Poměr (% průměru)</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="247"/>
-        <source>Vias Annular Ring:</source>
-        <translation>Mezikruží prokovů:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="254"/>
-        <source>Inner Layer Pads:</source>
-        <translation>Pájecí plošky vnitřní:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="272"/>
-        <source>Note: These settings define the shape of board objects which are automatically generated (e.g. stop masks, where not manually overridden). They are not related to the design rule check (DRC) at all. In contrast to these settings, DRC parameters do not have any impact on the board.</source>
-        <translation>Poznámka: Tato nastavení určují tvary předmětů na desce, které jsou automaticky vytvářeny (například nepájivá maska, která nemůže být ručně změněna). Vůbec nesouvisí s kontrolou návrhových pravidel (DRC). Na rozdíl od těchto nastavení nemají parametry DRC žádný vliv na desku.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="285"/>
-        <source>Solder Paste Clearance:</source>
-        <translation>Mezera pájecí pasty:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="297"/>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="377"/>
-        <source>Full Shape</source>
-        <translation>Úplný tvar</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="310"/>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="387"/>
-        <source>Automatic Annular Ring</source>
-        <translation>Automatické mezikruží</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="332"/>
-        <source>&lt;b&gt;Use with caution!&lt;/b&gt; If automatic annular rings are enabled for component-side pads, make sure all pads have set the &apos;component side&apos; property to the correct value. With a wrong configuration, soldering may not be possible due to too small pad area.</source>
-        <translation>&lt;b&gt;Používejte opatrně!&lt;/b&gt; Pokud jsou pro plošky vývodů na straně součásti povolena automatická mezikruží, ujistěte se, že všechny plošky vývodů mají nastavenu správnou hodnotu vlastnosti „strana součásti“. Při nesprávném nastavení nemusí být pájení možné kvůli příliš malé ploše plošky vývodu určené k pájení.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="402"/>
-        <source>Autom. Pads Annular Ring:</source>
-        <translation>Autom. mezikruží plošek:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="409"/>
-        <source>Stop Mask Clearance:</source>
-        <translation>Odsazení nesp. masky od plošky:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="416"/>
-        <source>Maximum</source>
-        <translation>Maximálně</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="429"/>
-        <source>Component Side Pads:</source>
-        <translation>Plošky vývodů na straně součástí:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="451"/>
-        <source>Minimum</source>
-        <translation>Minimálně</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="464"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="237"/>
         <source>Vias with a drill diameter up to this diameter will be covered with solder resist (if not manually overridden). For larger vias, a stop mask opening is added.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="467"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="240"/>
         <source>Tented Vias Diameter:</source>
         <translation>Průměr vyplněných prokovů:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="478"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="250"/>
+        <source>Component Side Pads:</source>
+        <translation>Plošky vývodů na straně součástí:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="257"/>
+        <source>Stop Mask Clearance:</source>
+        <translation>Odsazení nesp. masky od plošky:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="267"/>
+        <source>Solder Paste Clearance:</source>
+        <translation>Mezera pájecí pasty:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="274"/>
+        <source>Inner Layer Pads:</source>
+        <translation>Pájecí plošky vnitřní:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="292"/>
+        <source>Note: These settings define the shape of board objects which are automatically generated (e.g. stop masks, where not manually overridden). They are not related to the design rule check (DRC) at all. In contrast to these settings, DRC parameters do not have any impact on the board.</source>
+        <translation>Poznámka: Tato nastavení určují tvary předmětů na desce, které jsou automaticky vytvářeny (například nepájivá maska, která nemůže být ručně změněna). Vůbec nesouvisí s kontrolou návrhových pravidel (DRC). Na rozdíl od těchto nastavení nemají parametry DRC žádný vliv na desku.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="314"/>
+        <source>Vias Annular Ring:</source>
+        <translation>Mezikruží prokovů:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="324"/>
+        <source>Minimum</source>
+        <translation>Minimálně</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="352"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="425"/>
+        <source>Full Shape</source>
+        <translation>Úplný tvar</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="362"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="438"/>
+        <source>Automatic Annular Ring</source>
+        <translation>Automatické mezikruží</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="380"/>
+        <source>Ratio (% of Diameter)</source>
+        <translation>Poměr (% průměru)</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="393"/>
+        <source>Default Trace Width:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="400"/>
+        <source>Autom. Pads Annular Ring:</source>
+        <translation>Autom. mezikruží plošek:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="407"/>
+        <source>Maximum</source>
+        <translation>Maximálně</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="460"/>
+        <source>&lt;b&gt;Use with caution!&lt;/b&gt; If automatic annular rings are enabled for component-side pads, make sure all pads have set the &apos;component side&apos; property to the correct value. With a wrong configuration, soldering may not be possible due to too small pad area.</source>
+        <translation>&lt;b&gt;Používejte opatrně!&lt;/b&gt; Pokud jsou pro plošky vývodů na straně součásti povolena automatická mezikruží, ujistěte se, že všechny plošky vývodů mají nastavenu správnou hodnotu vlastnosti „strana součásti“. Při nesprávném nastavení nemusí být pájení možné kvůli příliš malé ploše plošky vývodu určené k pájení.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="504"/>
         <source>DRC Settings</source>
         <translation>Nastavení DRC</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="552"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="578"/>
         <source>NPTH Drill Diameter:</source>
         <translation>Průměr vrtání NPTH:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="559"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="585"/>
         <source>Copper ↔ Board Edge:</source>
         <translation>Měď ↔ Okraj:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="572"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="598"/>
         <source>PTH Slot Width:</source>
         <translation>Šířka prokovené drážky:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="579"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="605"/>
         <source>Via Types:</source>
         <translation>Typy prokovů:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="586"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="612"/>
         <source>Copper Width:</source>
         <translation>Šířka spoje:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="619"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="644"/>
         <source>Minimum Sizes</source>
         <translation>Nejmenší velikosti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="641"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="666"/>
         <source>PTH Slots:</source>
         <translation>Prokovené drážky:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="665"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="689"/>
         <source>Allowed Features</source>
         <translation>Povolené vlastnosti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="687"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="711"/>
         <source>Copper ↔ Copper:</source>
         <translation>Měď ↔ Měď:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="694"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="718"/>
         <source>NPTH Slots:</source>
         <translation>Neprokovené drážky:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="704"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="728"/>
         <source>NPTH Slot Width:</source>
         <translation>Šířka neprokovené drážky:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="711"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="735"/>
         <source>Allow vias whith either start or end on an inner copper layer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="714"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="738"/>
         <source>Blind Vias</source>
         <translation>Slepé prokovy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="724"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="748"/>
         <source>PTH Annular Ring:</source>
         <translation>Mezikruží PTH:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="731"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="755"/>
         <source>Allow vias which start and end on inner copper layers.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="734"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="758"/>
         <source>Buried Vias</source>
         <translation>Pohřbené prokovy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="750"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="774"/>
         <source>Minimum board outline milling tool diameter. Restricts the radius of inner board edges.</source>
         <translation>Minimální velikost frézy pro obrys desky. Omezuje poloměry vnitřních rohů desky.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="753"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="777"/>
         <source>Outline Tool Diameter:</source>
         <translation>Průměr frézy obrysu:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="781"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="804"/>
         <source>Clearances</source>
         <translation>Vzdálenosti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="803"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="826"/>
         <source>Silkscreen ↔ Stopmask:</source>
         <translation>Popis ↔ Maska:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="810"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="833"/>
         <source>Drill ↔ Board Edge:</source>
         <translation>Vrtání ↔ Okraj:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="817"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="840"/>
         <source>Drill ↔ Drill:</source>
         <translation>Vrtání ↔ Vrtání:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="824"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="847"/>
         <source>Silkscreen Width:</source>
         <translation>Šířka potisku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="834"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="857"/>
         <source>Copper ↔ Holes:</source>
         <translation>Měď ↔ Otvory:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="841"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="864"/>
         <source>PTH Drill Diameter:</source>
         <translation>Průměr vrtání PTH:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="871"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="894"/>
         <source>Silkscreen Text Height:</source>
         <translation type="unfinished"/>
     </message>
@@ -8494,37 +8499,37 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <translation>Výchozí</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="134"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="137"/>
         <source>&lt;p&gt;Always use the full pad shape as defined in the footprint from the library.&lt;/p&gt;&lt;p&gt;This is the safer and thus preferred option, but requires more space for the pads.&lt;/p&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="141"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="144"/>
         <source>&lt;p&gt;Don&apos;t use the defined pad shape, but automatic annular rings calculated by the parameters below. The annular ring of unconnected pads is reduced to the specified mimimum value.&lt;/p&gt;&lt;p&gt;This option is more space-efficient, but works only reliable if the entered parameters comply with the PCB manufacturers capabilities.&lt;/p&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="218"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="221"/>
         <source>None</source>
         <translation>Žádný</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="221"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="224"/>
         <source>Only Simple Oblongs</source>
         <translation>Pouze obdélníky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="225"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="228"/>
         <source>Any Without Curves</source>
         <translation>Jakékoliv bez křivek</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="229"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="232"/>
         <source>Any</source>
         <translation>Jakékoliv</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="450"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="455"/>
         <source>Could not apply settings</source>
         <translation>Nastavenie se nepodařilo použít</translation>
     </message>
@@ -9581,8 +9586,8 @@ Na otevření potřebujete alespoň LibrePCB %1.
     <name>librepcb::editor::CmdNetClassEdit</name>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdnetclassedit.cpp" line="41"/>
-        <source>Edit netclass</source>
-        <translation>Upravit třídu spojů</translation>
+        <source>Edit Net Class</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17417,18 +17422,38 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
 <context>
     <name>ui::DrawTraceToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="32"/>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="122"/>
+        <source>Via Outer Diameter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="36"/>
         <source>Trace Width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="61"/>
-        <source>Via Drill Diameter</source>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="75"/>
+        <source>Set as Default in Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="84"/>
-        <source>Via Outer Diameter</source>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="76"/>
+        <source>Saves the entered value in the board design rules as default value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="85"/>
+        <source>Set as Default in Net Class &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="86"/>
+        <source>Saves the entered value as default value for the current net class</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="99"/>
+        <source>Via Drill Diameter</source>
         <translation type="unfinished"/>
     </message>
 </context>
