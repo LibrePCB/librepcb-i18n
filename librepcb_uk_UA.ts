@@ -54,32 +54,32 @@
 <context>
     <name>BGI_Via</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="250"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="259"/>
         <source>Through-Hole Via</source>
         <translation>Сквозний перехідний отвір</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="252"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="261"/>
         <source>Blind Via</source>
         <translation>Глухий перехідний отвір</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="254"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="263"/>
         <source>Buried Via</source>
         <translation>Схований перехідний отвір</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="256"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="265"/>
         <source>Net: %1</source>
         <translation>Мережа: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="258"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="267"/>
         <source>Start Layer: %1</source>
         <translation>Початковий шар: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="259"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="268"/>
         <source>End Layer: %1</source>
         <translation>Кінцевий шар: %1</translation>
     </message>
@@ -6159,12 +6159,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::BI_Via</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/items/bi_via.cpp" line="108"/>
+        <location filename="libs/librepcb/core/project/board/items/bi_via.cpp" line="112"/>
         <source>Could not change the vias start/end layers because there are still traces connected on other layers.</source>
         <translation>Не вдалось змінити початковий/кінцевий шар переходу, оскільки на інших шарах все ще підключені сліди.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/items/bi_via.cpp" line="191"/>
+        <location filename="libs/librepcb/core/project/board/items/bi_via.cpp" line="201"/>
         <source>Failed to connect trace to via because it&apos;s a blind- or buried via which doesn&apos;t include the corresponding layer.</source>
         <translation>Не вдалось підключити слід до переходу, оскільки це сліпий або зарублений перехід, який не включає відповідний шар.</translation>
     </message>
@@ -6323,19 +6323,19 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     </message>
     <message>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="154"/>
-        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="183"/>
+        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="187"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
         <translation>Вже існує клас мережі з ім&apos;ям &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="236"/>
-        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="263"/>
+        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="240"/>
+        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="267"/>
         <source>There is already a net signal with the name &quot;%1&quot;!</source>
         <translation>Вже існує сигнал мережі з ім&apos;ям &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="312"/>
-        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="342"/>
+        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="316"/>
+        <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="346"/>
         <source>There is already a component with the name &quot;%1&quot;!</source>
         <translation>Вже існує компонент з ім&apos;ям &quot;%1&quot;!</translation>
     </message>
@@ -6516,7 +6516,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::NetClass</name>
     <message>
-        <location filename="libs/librepcb/core/project/circuit/netclass.cpp" line="117"/>
+        <location filename="libs/librepcb/core/project/circuit/netclass.cpp" line="129"/>
         <source>The net class &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation>Клас мережі &quot;%1&quot; не може бути видалений, оскільки він все ще використовується!</translation>
     </message>
@@ -7401,72 +7401,72 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1289"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1326"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1291"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1324"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1616"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1328"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1366"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1658"/>
         <source>None</source>
         <translation>Немає</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2193"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2235"/>
         <source>Add devices to board</source>
         <translation>Додати пристрої до плати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2221"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2273"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2304"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2358"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2263"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2315"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2346"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2400"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2239"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2281"/>
         <source>Preparing board...</source>
         <translation>Підготовка плати...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2239"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2281"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2292"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2334"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>Експортувати IPC D-356A Netlist</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2356"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2398"/>
         <source>Success!</source>
         <translation>Успіх!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2365"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2407"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2403"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2445"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2412"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2454"/>
         <source>Import failed, no changes made to the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2417"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2459"/>
         <source>Specctra SES Import</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2427"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2469"/>
         <source>Close</source>
         <translation>Закрити</translation>
     </message>
@@ -7639,15 +7639,15 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_AddVia</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="239"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="312"/>
         <source>Add via to board</source>
         <translation>Додати перехідний отвір на плату</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="260"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="372"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="397"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="417"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="333"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="445"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="470"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="490"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -7687,26 +7687,26 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawTrace</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="411"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="475"/>
         <source>Draw Board Trace</source>
         <translation>Малювати доріжку плати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="419"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="483"/>
         <source>Invalid layer selected.</source>
         <translation>Обрано недійсний шар.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="427"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="491"/>
         <source>This pad is not connected to any net, therefore no trace can be attached to it. To allow attaching a trace, first connect this pad to a net in the schematics. So this is a problem of the schematics, not of the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="590"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="762"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="783"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="813"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="930"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="654"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="826"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="847"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="877"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="994"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -8277,219 +8277,224 @@ You need at least LibrePCB %1 to open it.
         <translation>Правила Проектування</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="237"/>
-        <source>Vias with a drill diameter up to this diameter will be covered with solder resist (if not manually overridden). For larger vias, a stop mask opening is added.</source>
-        <translation>Перехідні отвори до цього діаметру будуть покриті припойною маскою (якщо не перевизначено вручну). Для більших перехідних отворів буде додано стоп-маску.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="240"/>
-        <source>Tented Vias Diameter:</source>
-        <translation>Діаметр Вкритих Отворів:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="250"/>
-        <source>Component Side Pads:</source>
-        <translation>Підкладки Зі Сторони Компоненту:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="257"/>
-        <source>Stop Mask Clearance:</source>
-        <translation>Кліренс Стоп-маски:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="267"/>
-        <source>Solder Paste Clearance:</source>
-        <translation>Кліренс Паяльної Пасти:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="274"/>
-        <source>Inner Layer Pads:</source>
-        <translation>Підкладки Внутрішнього Шару:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="292"/>
-        <source>Note: These settings define the shape of board objects which are automatically generated (e.g. stop masks, where not manually overridden). They are not related to the design rule check (DRC) at all. In contrast to these settings, DRC parameters do not have any impact on the board.</source>
-        <translation>Примітка: Ці налаштування визначають форму об&apos;єктів плати, які генеруються автоматично (наприклад, маски зупинки, де не вручну перевизначені). Вони не пов&apos;язані з перевіркою правил проектування (DRC) взагалі. На відміну від цих налаштувань, параметри DRC не мають жодного впливу на плату.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="314"/>
-        <source>Vias Annular Ring:</source>
-        <translation>Кільце Перехідного Отвору:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="324"/>
-        <source>Minimum</source>
-        <translation>Мінімальний</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="352"/>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="425"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="239"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="419"/>
         <source>Full Shape</source>
         <translation>Повна Форма</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="362"/>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="438"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="249"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="432"/>
         <source>Automatic Annular Ring</source>
         <translation>Автоматиче Кільце</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="380"/>
-        <source>Ratio (% of Diameter)</source>
-        <translation>Відношення (% діаметра)</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="393"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="267"/>
         <source>Default Trace Width:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="400"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="280"/>
         <source>Autom. Pads Annular Ring:</source>
         <translation>Автоматична Кільце Підкладки:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="407"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="298"/>
+        <source>Note: These settings define the shape of board objects which are automatically generated (e.g. stop masks, where not manually overridden). They are not related to the design rule check (DRC) at all. In contrast to these settings, DRC parameters do not have any impact on the board.</source>
+        <translation>Примітка: Ці налаштування визначають форму об&apos;єктів плати, які генеруються автоматично (наприклад, маски зупинки, де не вручну перевизначені). Вони не пов&apos;язані з перевіркою правил проектування (DRC) взагалі. На відміну від цих налаштувань, параметри DRC не мають жодного впливу на плату.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="311"/>
+        <source>Stop Mask Clearance:</source>
+        <translation>Кліренс Стоп-маски:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="318"/>
+        <source>Vias Annular Ring:</source>
+        <translation>Кільце Перехідного Отвору:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="325"/>
+        <source>Minimum</source>
+        <translation>Мінімальний</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="335"/>
         <source>Maximum</source>
         <translation>Максимальний</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="460"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="345"/>
+        <source>Solder Paste Clearance:</source>
+        <translation>Кліренс Паяльної Пасти:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="355"/>
+        <source>Inner Layer Pads:</source>
+        <translation>Підкладки Внутрішнього Шару:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="365"/>
+        <source>Default Via Drill Diameter:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="372"/>
+        <source>Ratio (% of Diameter)</source>
+        <translation>Відношення (% діаметра)</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="388"/>
+        <source>Component Side Pads:</source>
+        <translation>Підкладки Зі Сторони Компоненту:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="404"/>
+        <source>Vias with a drill diameter up to this diameter will be covered with solder resist (if not manually overridden). For larger vias, a stop mask opening is added.</source>
+        <translation>Перехідні отвори до цього діаметру будуть покриті припойною маскою (якщо не перевизначено вручну). Для більших перехідних отворів буде додано стоп-маску.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="407"/>
+        <source>Tented Vias Diameter:</source>
+        <translation>Діаметр Вкритих Отворів:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="454"/>
         <source>&lt;b&gt;Use with caution!&lt;/b&gt; If automatic annular rings are enabled for component-side pads, make sure all pads have set the &apos;component side&apos; property to the correct value. With a wrong configuration, soldering may not be possible due to too small pad area.</source>
         <translation>&lt;b&gt;Використовуйте з обережністю!&lt;/b&gt; Якщо автоматичні кільця включені для підкладок сторони компонениів, переконайтеся, що всім підкладкам встановили властивість &apos;сторона компонента&apos; в правильне значення. З неправильною конфігурацією паяння може бути неможливим через занадто малу площу підкладки.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="504"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="514"/>
         <source>DRC Settings</source>
         <translation>Налаштування DRC</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="578"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="588"/>
         <source>NPTH Drill Diameter:</source>
         <translation>Діаметр NPTH отворів:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="585"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="595"/>
         <source>Copper ↔ Board Edge:</source>
         <translation>Мідь ↔ Край плати:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="598"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="608"/>
         <source>PTH Slot Width:</source>
         <translation>Ширина PTH Слоту:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="605"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="615"/>
         <source>Via Types:</source>
         <translation>Типи Перехідних Отворів:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="612"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="622"/>
         <source>Copper Width:</source>
         <translation>Ширина Міді:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="644"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="655"/>
         <source>Minimum Sizes</source>
         <translation>Мінімальні Розміри</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="666"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="677"/>
         <source>PTH Slots:</source>
         <translation>PTH Cлоти:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="689"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="701"/>
         <source>Allowed Features</source>
         <translation>Дозволені Особливості</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="711"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="723"/>
         <source>Copper ↔ Copper:</source>
         <translation>Мідь ↔ Мідь:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="718"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="730"/>
         <source>NPTH Slots:</source>
         <translation>NPTH Cлоти:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="728"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="740"/>
         <source>NPTH Slot Width:</source>
         <translation>Ширина NPTH Слоту:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="735"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="747"/>
         <source>Allow vias whith either start or end on an inner copper layer.</source>
         <translation>Дозволити переходні отвори з початком або кінцем на внутрішньому мідному шарі.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="738"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="750"/>
         <source>Blind Vias</source>
         <translation>Глухі Перехідні Отвори</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="748"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="760"/>
         <source>PTH Annular Ring:</source>
         <translation>PTH Кільце Отвору:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="755"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="767"/>
         <source>Allow vias which start and end on inner copper layers.</source>
         <translation>Дозволити переходні отвори, які починаються і закінчуються на внутрішніх мідних шарах.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="758"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="770"/>
         <source>Buried Vias</source>
         <translation>Сховані перехідні отвори</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="774"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="786"/>
         <source>Minimum board outline milling tool diameter. Restricts the radius of inner board edges.</source>
         <translation>Мінімальний діаметр фрези для контуру плати. Обмежує радіус внутрішніх країв плати.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="777"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="789"/>
         <source>Outline Tool Diameter:</source>
         <translation>Діаметр Інструменту Контуру Плати:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="804"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="817"/>
         <source>Clearances</source>
         <translation>Кліренси</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="826"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="839"/>
         <source>Silkscreen ↔ Stopmask:</source>
         <translation>Маркування ↔ Стоп-маска:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="833"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="846"/>
         <source>Drill ↔ Board Edge:</source>
         <translation>Отвір ↔ Край плати:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="840"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="853"/>
         <source>Drill ↔ Drill:</source>
         <translation>Отвір ↔ Отвір:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="847"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="860"/>
         <source>Silkscreen Width:</source>
         <translation>Ширина Маркування:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="857"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="870"/>
         <source>Copper ↔ Holes:</source>
         <translation>Мідь ↔ Отвори:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="864"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="877"/>
         <source>PTH Drill Diameter:</source>
         <translation>Діаметр PTH Отвору:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="894"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="907"/>
         <source>Silkscreen Text Height:</source>
         <translation type="unfinished"/>
     </message>
@@ -8509,37 +8514,37 @@ You need at least LibrePCB %1 to open it.
         <translation>стандартний</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="137"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="140"/>
         <source>&lt;p&gt;Always use the full pad shape as defined in the footprint from the library.&lt;/p&gt;&lt;p&gt;This is the safer and thus preferred option, but requires more space for the pads.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Завжди використовуйте повну форму пластини, визначену в сліді з бібліотеки.&lt;/p&gt;&lt;p&gt;Це безпечніший і тому бажаний варіант, але вимагає більше місця для пластин.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="144"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="147"/>
         <source>&lt;p&gt;Don&apos;t use the defined pad shape, but automatic annular rings calculated by the parameters below. The annular ring of unconnected pads is reduced to the specified mimimum value.&lt;/p&gt;&lt;p&gt;This option is more space-efficient, but works only reliable if the entered parameters comply with the PCB manufacturers capabilities.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Не використовуйте визначену форму пластини, але автоматичні кільцеві кільця, розраховані за параметрами нижче. Кільцеве кільце не підключених пластин зменшується до вказаного мінімального значення.&lt;/p&gt;&lt;p&gt;Цей параметр ефективніший за простором, але працює надійно, якщо введені параметри відповідають можливостям виробника печатних плат.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="221"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="224"/>
         <source>None</source>
         <translation>Нічого</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="224"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="227"/>
         <source>Only Simple Oblongs</source>
         <translation>Тільки Прості Прямокутники</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="228"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="231"/>
         <source>Any Without Curves</source>
         <translation>Будь-яка Без Кривих</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="232"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="235"/>
         <source>Any</source>
         <translation>Будь-який</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="455"/>
+        <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="460"/>
         <source>Could not apply settings</source>
         <translation>Не вдається застосувати налаштування</translation>
     </message>
@@ -8567,58 +8572,59 @@ You need at least LibrePCB %1 to open it.
         <translation>Діаметр Свердла:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="66"/>
-        <source>Outer Diameter:</source>
-        <translation>Зовнішній Діаметр:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="78"/>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="129"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="68"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="89"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="140"/>
         <source>From Design Rules</source>
         <translation>З правил проектування</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="87"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="77"/>
+        <source>Outer Diameter:</source>
+        <translation>Зовнішній Діаметр:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="98"/>
         <source>Start Layer:</source>
         <translation>Початковий Шар:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="97"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="108"/>
         <source>End Layer:</source>
         <translation>Кінцевий Шар:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="107"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="118"/>
         <source>Exposure:</source>
         <translation>Відкритість:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="116"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="127"/>
         <source>The copper area of the via is covered with solder resist, i.e. not exposed.</source>
         <translation>Мідна область переходного отвору покрита захисним лаком, тобто не відкрита.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="119"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="130"/>
         <source>Off</source>
         <translation>Вимкнено</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="126"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="137"/>
         <source>A solder resist opening is created to expose the via. The clearance is taken from the board design rules.</source>
         <translation>Створюється відкриття захисного лаку, щоб відкрити перехідний отвір. Дозвіл береться з правил проектування плати.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="136"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="147"/>
         <source>A solder resist opening with a custom clearance is created to expose the via.</source>
         <translation>Створюється відкриття захисного лаку з власним дозволом, щоб відкрити перехідний отвір.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="139"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="150"/>
         <source>Manual:</source>
         <translation>Інструкція:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="208"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="230"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -9192,12 +9198,12 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="759"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="766"/>
         <source>Updated %1 components (%2 unmodified components skipped).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="762"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="769"/>
         <source>Updated %1 net objects (%2 unmodified objects skipped).</source>
         <translation type="unfinished"/>
     </message>
@@ -16359,12 +16365,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::AddViaToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="29"/>
+        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="33"/>
         <source>Via Drill Diameter</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="52"/>
+        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="72"/>
+        <source>Set as Default in Board</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="73"/>
+        <source>Saves the entered value in the board design rules as default value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="82"/>
+        <source>Set as Default in Net Class &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="83"/>
+        <source>Saves the entered value as default value for the current net class</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="96"/>
         <source>Via Outer Diameter</source>
         <translation type="unfinished"/>
     </message>
@@ -17444,7 +17470,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::DrawTraceToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="122"/>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="162"/>
         <source>Via Outer Diameter</source>
         <translation type="unfinished"/>
     </message>
@@ -17455,21 +17481,25 @@ Attention: This will be applied immediately and cannot be undone!</source>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="75"/>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="138"/>
         <source>Set as Default in Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="76"/>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="139"/>
         <source>Saves the entered value in the board design rules as default value</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="85"/>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="148"/>
         <source>Set as Default in Net Class &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="86"/>
+        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="149"/>
         <source>Saves the entered value as default value for the current net class</source>
         <translation type="unfinished"/>
     </message>
