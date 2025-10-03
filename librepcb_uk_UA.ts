@@ -6415,37 +6415,37 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::FileFormatMigrationV01</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="506"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="525"/>
         <source>Components were automatically populated with assembly information required for the new, built-in MPN management and assembly variant mechanism. If the BOM or PnP export is used, please review the output and correct MPNs and attributes manually in the component properties dialog where needed.</source>
         <translation>Компоненти автоматично заповнюються інформацією про збірку, необхідною для нового вбудованого механізму управління MPN та варіантами збірки. Якщо використовується експорт BOM або PnP, будь ласка, перегляньте вихідні дані та вручну виправте MPN та атрибути за потреби в діалозі властивостей компонента.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="516"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="535"/>
         <source>Some particular ERC message approvals cannot be migrated and therefore have been removed. Please check the remaining ERC messages and approve them if desired.</source>
         <translation>Деякі певні повідомлення ERC не можуть бути перенесені, тому вони були видалені. Будь ласка, перевірте залишені повідомлення ERC та схваліть їх, якщо потрібно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="524"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="543"/>
         <source>All non-plated holes (NPTH) now have automatic solder resist openings added on both board sides. The expansion value is configured in the board design rules but can be overridden in the hole properties dialog.</source>
         <translation>У всіх не металізованих отворах (NPTH) тепер на обох сторонах плати додані автоматичні відкриття для захисного лаку. Значення розширення налаштовується в правилах проекту плати, але може бути перевизначено в вікні властивостей отвору.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="533"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="552"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
         <translation>Некруглі форми переходів більше не підтримуються, всі переходи були змінені на круглі.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="540"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="559"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
         <translation>Розрахунки площини площин були скориговані, рекомендується ручний перегляд та запуск DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="547"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="566"/>
         <source>Vias within planes with connect style &apos;None&apos; are now fully connected to the planes since the connect style is no longer respected for vias. You might want to remove traces now which are no longer needed to connect these vias.</source>
         <translation>Переходи всередині площин зі стилем підключення &quot;Немає&quot; тепер повністю підключені до площин, оскільки стиль підключення більше не враховується для переходів. Ви можете видалити сліди, які більше не потрібно підключати до цих переходів.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="557"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="576"/>
         <source>Board cutouts now have a dedicated layer, thus nested board outline polygons and circles have automatically been moved to the cutouts layer. As the auto-detection is not perfect, please check if each cutout has been converted correctly. The easiest way is to review the PCB in the 3D viewer.</source>
         <translation>Вирізи плати тепер мають окремий шар, тому вкладені полігони та кола контуру плати автоматично були переміщені на шар вирізів. Оскільки автоматичне виявлення не є ідеальним, перевірте, чи кожен виріз був перетворений правильно. Найпростіший спосіб - переглянути плату в 3D-переглядачі.</translation>
     </message>
@@ -6453,12 +6453,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::FileFormatMigrationV1</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="230"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="252"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="312"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="334"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
         <translation type="unfinished"/>
     </message>
@@ -14474,27 +14474,27 @@ Do you want to save them before closing the project?</source>
         <translation>Ви дійсно впевнені, що хочете видалити плату &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="690"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="692"/>
         <source>File Format Upgrade Messages</source>
         <translation>Повідомлення про оновлення формату файлу</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
         <source>Severity</source>
         <translation>Важливість</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
         <source>Version</source>
         <translation>Версія</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
         <source>Occurrences</source>
         <translation>Випадки</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
         <source>Message</source>
         <translation>Повідомлення</translation>
     </message>

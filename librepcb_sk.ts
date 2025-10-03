@@ -6423,37 +6423,37 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
 <context>
     <name>librepcb::FileFormatMigrationV01</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="506"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="525"/>
         <source>Components were automatically populated with assembly information required for the new, built-in MPN management and assembly variant mechanism. If the BOM or PnP export is used, please review the output and correct MPNs and attributes manually in the component properties dialog where needed.</source>
         <translation>Komponenty boli automaticky vyplnené informáciami o osádzaní, ktoré sú potrebné pre nový, zabudovaný mechanizmus správy typových čísiel výrobcu (MPN) a osadzovacej alternatívy. Ak sa použije export zoznamu súčiastok alebo pick&amp;place dát, skontrolujte výstup a v prípade potreby manuálne opravte MPN a atribúty v dialógovom okne vlastností komponentu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="516"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="535"/>
         <source>Some particular ERC message approvals cannot be migrated and therefore have been removed. Please check the remaining ERC messages and approve them if desired.</source>
         <translation>Niektoré konkrétne schválené správy ERC nemožno migrovať, a preto boli odstránené. Skontrolujte zostávajúce správy ERC a ak chcete, schváľte ich.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="524"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="543"/>
         <source>All non-plated holes (NPTH) now have automatic solder resist openings added on both board sides. The expansion value is configured in the board design rules but can be overridden in the hole properties dialog.</source>
         <translation>Všetky nepokovované otvory (NPTH) majú automaticky pridanú vynechanú oblasť v nespájkovateľnej maske na oboch stranách dosky. Hodnota odstupu masky od otvoru je definovaná v návrhových pravidlách dosky, ale pre konkrétny otvor ju je možné zmeniť vo vlastnostiach otvoru.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="533"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="552"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
         <translation>Nekruhové tvary prechodov už nie sú podporované, všetky prechody sa teraz zmenili na kruhové.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="540"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="559"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
         <translation>Výpočty plochy výplne boli upravené, odporúča sa manuálna kontrola a spustenie kontroly DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="547"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="566"/>
         <source>Vias within planes with connect style &apos;None&apos; are now fully connected to the planes since the connect style is no longer respected for vias. You might want to remove traces now which are no longer needed to connect these vias.</source>
         <translation>Prechody vo vyplnených plochách s typom napojenia „Žiadne“ sú teraz plne spojené s rovinami, pretože štýl spojenia už nie je pre prechody akceptovaný. Možno budete chcieť teraz odstrániť spoje, ktoré už nie sú potrebné na pripojenie týchto prechodov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="557"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="576"/>
         <source>Board cutouts now have a dedicated layer, thus nested board outline polygons and circles have automatically been moved to the cutouts layer. As the auto-detection is not perfect, please check if each cutout has been converted correctly. The easiest way is to review the PCB in the 3D viewer.</source>
         <translation>Výrezy dosky majú teraz vyhradenú vrstvu, takže vnorené obrysové polygóny a kruhy boli automaticky presunuté do vrstvy výrezov dosky. Keďže automatická detekcia nie je dokonalá, skontrolujte, či bol každý výrez správne prevedený. Najjednoduchším spôsobom je skontrolovať PCB v 3D prehliadači.</translation>
     </message>
@@ -6461,12 +6461,12 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
 <context>
     <name>librepcb::FileFormatMigrationV1</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="230"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="252"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings.</source>
         <translation>Špeciálne dialógové okno generátora Gerber/Excellon bolo odstránené v z dôvodu prítomnosti úloh generovania výstupov. Zodpovedajúce nastavenia výstupu budú z dosiek odstránené v nadchádzajúcom vydaní. Odporúča sa pridať výstupnú úlohu Gerber/Excellon už teraz, čo umožní migrovať staré nastavenia exportu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="312"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="334"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
         <translation>Projekt má nastavené vlastné atribúty pre export zoznamu súčiastok (%1). Ale v LibrePCB 2.0 bol manuálny export kusovníka odstránený z dôvodu prítomnosti výkonnejšej funkcie generovania výstupných úloh. Na generovanie zoznamu materiálu teraz použite úlohy generovania výstupov. Ak pridáte novú výstupnú úlohu tvorby zoznamu súčiastok, tieto vlastné atribúty budú automaticky importované.</translation>
     </message>
@@ -14497,27 +14497,27 @@ Chcete ich uložiť pred zatvorením?</translation>
         <translation>Naozaj chcete odstrániť dosku &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="690"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="692"/>
         <source>File Format Upgrade Messages</source>
         <translation>Oznámenia o inovácii formátu súboru</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
         <source>Severity</source>
         <translation>Dôležitosť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
         <source>Version</source>
         <translation>Verzia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
         <source>Occurrences</source>
         <translation>Výskyt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
         <source>Message</source>
         <translation>Správa</translation>
     </message>

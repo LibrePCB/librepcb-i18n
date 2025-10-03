@@ -6394,37 +6394,37 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::FileFormatMigrationV01</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="506"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="525"/>
         <source>Components were automatically populated with assembly information required for the new, built-in MPN management and assembly variant mechanism. If the BOM or PnP export is used, please review the output and correct MPNs and attributes manually in the component properties dialog where needed.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="516"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="535"/>
         <source>Some particular ERC message approvals cannot be migrated and therefore have been removed. Please check the remaining ERC messages and approve them if desired.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="524"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="543"/>
         <source>All non-plated holes (NPTH) now have automatic solder resist openings added on both board sides. The expansion value is configured in the board design rules but can be overridden in the hole properties dialog.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="533"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="552"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="540"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="559"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="547"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="566"/>
         <source>Vias within planes with connect style &apos;None&apos; are now fully connected to the planes since the connect style is no longer respected for vias. You might want to remove traces now which are no longer needed to connect these vias.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="557"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="576"/>
         <source>Board cutouts now have a dedicated layer, thus nested board outline polygons and circles have automatically been moved to the cutouts layer. As the auto-detection is not perfect, please check if each cutout has been converted correctly. The easiest way is to review the PCB in the 3D viewer.</source>
         <translation type="unfinished"/>
     </message>
@@ -6432,12 +6432,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::FileFormatMigrationV1</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="230"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="252"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="312"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="334"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
         <translation type="unfinished"/>
     </message>
@@ -14422,27 +14422,27 @@ Do you want to save them before closing the project?</source>
         <translation>您確定要移除電路板&quot;%1&quot;嗎？</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="690"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="692"/>
         <source>File Format Upgrade Messages</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
         <source>Severity</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
         <source>Version</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
         <source>Occurrences</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
         <source>Message</source>
         <translation type="unfinished"/>
     </message>
