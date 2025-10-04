@@ -6194,127 +6194,127 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <translation>Подготовить „%1“...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="371"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="377"/>
         <source>Check copper clearances...</source>
         <translation>Проверка зазоров между медью...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="688"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="714"/>
         <source>Check board clearances...</source>
         <translation>Проверка зазоров платы...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="851"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="877"/>
         <source>Check hole clearances...</source>
         <translation>Проверьте зазоры в отверстиях...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="908"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="934"/>
         <source>Check drill clearances...</source>
         <translation>Проверьте зазоры в сверлах...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1002"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1028"/>
         <source>Check drill to board edge clearances...</source>
         <translation>Проверьте зазоры между сверлом и краем доски...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1092"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1118"/>
         <source>Check silkscreen to stopmask clearances...</source>
         <translation>Проверьте зазоры между шелкографией и стоп-маской...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1182"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1202"/>
         <source>Check copper widths...</source>
         <translation>Проверьте ширину меди...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1198"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1219"/>
         <source>Check PTH annular rings...</source>
         <translation>Проверьте кольцевые кольца PTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1282"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1303"/>
         <source>Check NPTH drill diameters...</source>
         <translation>Проверьте диаметры сверл NPTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1318"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1339"/>
         <source>Check NPTH slot widths...</source>
         <translation>Проверьте ширину прорезей NPTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1353"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1368"/>
         <source>Check PTH drill diameters...</source>
         <translation>Проверьте диаметры сверл PTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1408"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1425"/>
         <source>Check PTH slot widths...</source>
         <translation>Проверьте ширину прорезей PTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1454"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1471"/>
         <source>Check silkscreen widths...</source>
         <translation>Проверьте ширину шелкографии...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1472"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1489"/>
         <source>Check silkscreen text heights...</source>
         <translation>Проверьте высоту текста, нанесенного методом шелкографии...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1493"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1510"/>
         <source>Check keepout zones...</source>
         <translation>Проверьте зоны сохранения...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1749"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1766"/>
         <source>Check for useless or disallowed vias...</source>
         <translation>Проверьте, нет ли бесполезных или запрещенных виа...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1782"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1799"/>
         <source>Check for disallowed NPTH slots...</source>
         <translation>Проверьте наличие запрещённых прорезей NPTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1815"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1832"/>
         <source>Check for disallowed PTH slots...</source>
         <translation>Проверьте наличие запрещённых прорезей PTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1855"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1872"/>
         <source>Check pad connections...</source>
         <translation>Проверьте соединения колодок...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1900"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1917"/>
         <source>Check device clearances...</source>
         <translation>Проверьте зазоры в устройствах...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1955"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1972"/>
         <source>Check board outline...</source>
         <translation>Проверьте контур платы...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2031"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2048"/>
         <source>Check used layers...</source>
         <translation>Проверьте используемые элементы...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2094"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2111"/>
         <source>Check for unplaced components...</source>
         <translation>Проверьте наличие неустановленных компонентов...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2105"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2122"/>
         <source>Check for missing connections...</source>
         <translation>Проверка на отсутствующие соединения...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2152"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2169"/>
         <source>Check for stale objects...</source>
         <translation>Проверьте, не залежались ли объекты...</translation>
     </message>
@@ -6522,7 +6522,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::NetClass</name>
     <message>
-        <location filename="libs/librepcb/core/project/circuit/netclass.cpp" line="129"/>
+        <location filename="libs/librepcb/core/project/circuit/netclass.cpp" line="151"/>
         <source>The net class &quot;%1&quot; cannot be removed because it is still in use!</source>
         <translation>Класс сети &quot;%1&quot; не может быть удален, потому что он все еще используется!</translation>
     </message>
@@ -7661,17 +7661,21 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawPlane</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="198"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="239"/>
-        <source>Draw board plane</source>
-        <translation>Нарисовать плоскость на плате</translation>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="203"/>
+        <source>Draw Board Plane</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="214"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="253"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="287"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="220"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="259"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="325"/>
         <source>Error</source>
         <translation>Ошибка</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="245"/>
+        <source>Draw board plane</source>
+        <translation>Нарисовать плоскость на плате</translation>
     </message>
 </context>
 <context>
@@ -12951,12 +12955,12 @@ Are you still sure to delete the following library elements?</source>
     </message>
     <message>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="675"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="965"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1004"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1084"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1214"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1300"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1342"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="966"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1006"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1088"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1220"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1308"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1352"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
