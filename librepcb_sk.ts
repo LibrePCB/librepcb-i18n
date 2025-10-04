@@ -5001,8 +5001,8 @@ Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="486"/>
-        <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
-        <translation>Plôšky vývodov by mali byť od seba vzdialené minimálne %1. V niektorých prípadoch je potrebná menšia vzdialenosť, ale pamätajte, že nie každý výrobca DPS je schopný túto vzdialenosť akceptovať.</translation>
+        <source>Pads must have at least %1 clearance between each other, as configured in the package. Either increase the clearance between those pads, or reduce the configured minimum clearance value if you are sure the PCB manufacturer can reliably handle it.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6461,12 +6461,12 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
 <context>
     <name>librepcb::FileFormatMigrationV1</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="252"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="253"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings.</source>
         <translation>Špeciálne dialógové okno generátora Gerber/Excellon bolo odstránené v z dôvodu prítomnosti úloh generovania výstupov. Zodpovedajúce nastavenia výstupu budú z dosiek odstránené v nadchádzajúcom vydaní. Odporúča sa pridať výstupnú úlohu Gerber/Excellon už teraz, čo umožní migrovať staré nastavenia exportu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="334"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="335"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
         <translation>Projekt má nastavené vlastné atribúty pre export zoznamu súčiastok (%1). Ale v LibrePCB 2.0 bol manuálny export kusovníka odstránený z dôvodu prítomnosti výkonnejšej funkcie generovania výstupných úloh. Na generovanie zoznamu materiálu teraz použite úlohy generovania výstupov. Ak pridáte novú výstupnú úlohu tvorby zoznamu súčiastok, tieto vlastné atribúty budú automaticky importované.</translation>
     </message>
@@ -12964,9 +12964,9 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="966"/>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="1006"/>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="1088"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1220"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1308"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1352"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1221"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1309"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1353"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -14056,48 +14056,48 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="670"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="679"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2390"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2429"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2483"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="677"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="686"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2402"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2441"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2495"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="983"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="990"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="984"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="991"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Puzdro &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1605"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1612"/>
         <source>(unconnected)</source>
         <translation>(nepripojený)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1993"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2000"/>
         <source>New Line Width</source>
         <translation>Nová šírka čiary</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2200"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2207"/>
         <source>Apply to all unspecified pads</source>
         <translation>Použiť na všetky nešpecifikované plôšky vývodov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2222"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2229"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>Opraviť nešpecifikované funkcie plôšok vývodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2560"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2572"/>
         <source>Please select a footprint.</source>
         <translation>Prosím, zvoľte puzdro.</translation>
     </message>
@@ -18925,17 +18925,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::RuleCheckListItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="81"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="87"/>
         <source>Apply Automatic Fix</source>
         <translation>Použiť automatickú opravu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="92"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="98"/>
         <source>Approve</source>
         <translation>Schváliť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="92"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="98"/>
         <source>Remove Approval</source>
         <translation>Odstrániť schválené</translation>
     </message>
@@ -18943,37 +18943,67 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::RuleCheckPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="172"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="179"/>
         <source>Possibly Outdated Data</source>
         <translation>Eventuálne zastarané údaje</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="172"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="179"/>
         <source>Trigger the checks again to refresh the messages.</source>
         <translation>Znovu spustite kontroly, aby sa oznámenia obnovili.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="203"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="210"/>
         <source>DRC Settings</source>
         <translation>Nastavenia DRC</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="215"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="222"/>
+        <source>Settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="234"/>
         <source>Zoom to Location</source>
         <translation>Priblížiť lokalitu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="239"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="267"/>
+        <source>These settings are stored in the currently opened package and don&apos;t affect other packages.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="277"/>
+        <source>Min. Copper Clearance:</source>
+        <translation>Min. vzdialenosť vodivých prvkov:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="287"/>
+        <source>Recommended: %1 (default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="287"/>
+        <source>Reduce it for packages with very small pitch</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="311"/>
+        <source>Apply</source>
+        <translation>Použiť</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="332"/>
         <source>No checks run yet. Trigger them with one of the buttons above.</source>
         <translation>Zatiaľ neboli spustené žiadne kontroly. Spustite ich pomocou jedného z tlačidiel vyššie.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="241"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="334"/>
         <source>Running, hang on...</source>
         <translation>Prebieha, čakajte...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="243"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="336"/>
         <source>No messages.</source>
         <translation>Žiadne oznámenia.</translation>
     </message>

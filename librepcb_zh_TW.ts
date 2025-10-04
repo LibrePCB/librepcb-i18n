@@ -4983,8 +4983,8 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="486"/>
-        <source>Pads should have at least %1 clearance between each other. In some situations it might be needed to use smaller clearances but not all PCB manufacturers are able to reliably produce such small clearances, so usually this should be avoided.</source>
-        <translation>焊墊之間必須保留至少 %1 的間隙。在某些狀況下將會需要更少的間隙，但並非每間板廠都有能力可靠得生產出來，所以通常會避免使用太小的間隙。</translation>
+        <source>Pads must have at least %1 clearance between each other, as configured in the package. Either increase the clearance between those pads, or reduce the configured minimum clearance value if you are sure the PCB manufacturer can reliably handle it.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6432,12 +6432,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::FileFormatMigrationV1</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="252"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="253"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="334"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="335"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
         <translation type="unfinished"/>
     </message>
@@ -12894,9 +12894,9 @@ Are you still sure to delete the following library elements?</source>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="966"/>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="1006"/>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="1088"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1220"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1308"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1352"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1221"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1309"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1353"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -13983,47 +13983,47 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="670"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="679"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2390"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2429"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2483"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="677"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="686"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2402"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2441"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2495"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="983"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="990"/>
         <source>Save Changes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="984"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="991"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1605"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1612"/>
         <source>(unconnected)</source>
         <translation>（未連接）</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1993"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2000"/>
         <source>New Line Width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2200"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2207"/>
         <source>Apply to all unspecified pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2222"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2229"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2560"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2572"/>
         <source>Please select a footprint.</source>
         <translation>請選取一個腳位圖。</translation>
     </message>
@@ -18843,17 +18843,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::RuleCheckListItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="81"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="87"/>
         <source>Apply Automatic Fix</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="92"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="98"/>
         <source>Approve</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="92"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="98"/>
         <source>Remove Approval</source>
         <translation type="unfinished"/>
     </message>
@@ -18861,37 +18861,67 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::RuleCheckPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="172"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="179"/>
         <source>Possibly Outdated Data</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="172"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="179"/>
         <source>Trigger the checks again to refresh the messages.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="203"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="210"/>
         <source>DRC Settings</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="215"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="222"/>
+        <source>Settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="234"/>
         <source>Zoom to Location</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="239"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="267"/>
+        <source>These settings are stored in the currently opened package and don&apos;t affect other packages.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="277"/>
+        <source>Min. Copper Clearance:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="287"/>
+        <source>Recommended: %1 (default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="287"/>
+        <source>Reduce it for packages with very small pitch</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="311"/>
+        <source>Apply</source>
+        <translation>套用</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="332"/>
         <source>No checks run yet. Trigger them with one of the buttons above.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="241"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="334"/>
         <source>Running, hang on...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="243"/>
+        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="336"/>
         <source>No messages.</source>
         <translation type="unfinished"/>
     </message>
