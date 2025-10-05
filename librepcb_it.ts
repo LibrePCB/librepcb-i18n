@@ -514,7 +514,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="604"/>
         <source>Open project &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Apri progetto %1... </translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="626"/>
