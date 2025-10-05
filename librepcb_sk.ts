@@ -6029,14 +6029,14 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
 <context>
     <name>librepcb::ApiEndpoint</name>
     <message>
-        <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="119"/>
-        <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="189"/>
-        <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="200"/>
+        <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="128"/>
+        <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="198"/>
+        <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="209"/>
         <source>Received JSON object is not valid.</source>
         <translation>Prijatý objekt JSON nie je platný.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="137"/>
+        <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="146"/>
         <source>Received JSON object does not contain any results.</source>
         <translation>Prijatý objekt JSON neobsahuje žiaden výsledok.</translation>
     </message>
@@ -12769,12 +12769,12 @@ Naozaj chcete zavrieť toto okno?</translation>
 <context>
     <name>librepcb::editor::LibrariesModel</name>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="223"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="237"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="428"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="442"/>
         <source>Failed to fetch libraries from &apos;%1&apos;: %2</source>
         <translation>Nepodarilo sa načítať knižnice z &apos;%1&apos;: %2</translation>
     </message>
@@ -12960,13 +12960,13 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Kopírovať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="675"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="966"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1006"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1088"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1221"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1309"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1353"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="683"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="974"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1014"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1096"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1229"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1317"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1361"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -17777,42 +17777,42 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibrariesPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="499"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="524"/>
         <source>Local Libraries</source>
         <translation>Lokálne knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="514"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="539"/>
         <source>Remote Libraries</source>
         <translation>Vzdialené knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="542"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="567"/>
         <source>Pending Operations</source>
         <translation>Čakajúce operácie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="593"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="618"/>
         <source>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</source>
         <translation>Niektoré knižnice, označené na odinštalovanie, momentálne nie sú k dispozícii na inštaláciu, preto ich odstránenie nebude možné zvrátiť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="593"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="618"/>
         <source>Warning</source>
         <translation>Upozornenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="609"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="634"/>
         <source>Apply</source>
         <translation>Použiť</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="609"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="634"/>
         <source>Apply %n Modification(s)</source>
         <translation><numerusform>Použiť %n modifikáciu</numerusform><numerusform>Použiť %n modifikácie</numerusform><numerusform>Použiť %n modifikácii</numerusform><numerusform>Použiť %n modifikácii</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="622"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="647"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
@@ -17820,32 +17820,42 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibrariesPanelSection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="310"/>
-        <source>Download a Library by URL</source>
-        <translation>Stiahnúť knižnicu z URL adresy</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="321"/>
-        <source>Create a New Library</source>
-        <translation>Vytvoriť novú knižnicu</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="335"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="312"/>
         <source>Toggle All</source>
         <translation>Prepnúť všetko</translation>
     </message>
     <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="339"/>
+        <source>Download a Library by URL</source>
+        <translation>Stiahnúť knižnicu z URL adresy</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="350"/>
+        <source>Create a New Library</source>
+        <translation>Vytvoriť novú knižnicu</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="363"/>
+        <source>Check For Updates</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="376"/>
+        <source>Cancel Update Check</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="401"/>
         <source>No remote part libraries are currently installed. To get parts like resistors, LEDs, microcontrollers etc., choose some libraries to be downloaded from the internet.</source>
         <translation>Momentálne nie sú nainštalované žiadne vzdialené knižnice súčiastok. Ak chcete získať súčiastky ako rezistory, LED diódy, mikrokontroléry atď., vyberte si niektoré knižnice, ktoré sa majú stiahnuť z internetu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="387"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="412"/>
         <source>No local libraries exist in this workspace. In order to create your own parts, add a new local library first with the button above.</source>
         <translation>V tomto pracovnom priestore neexistujú žiadne lokálne knižnice. Ak chcete vytvoriť vlastné súčiastky, najprv pridajte novú lokálnu knižnicu pomocou tlačidla vyššie.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="397"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="422"/>
         <source>No libraries matching the filter.</source>
         <translation>Žiadne knižnice nezodpovedajú filtru.</translation>
     </message>
