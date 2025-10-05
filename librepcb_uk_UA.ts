@@ -6738,7 +6738,7 @@ You need at least LibrePCB %1 to open it.
         <translation>Вже є плата з іменем каталогу &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/project.cpp" line="532"/>
+        <location filename="libs/librepcb/core/project/project.cpp" line="540"/>
         <source>The directory &quot;%1&quot; already contains a LibrePCB project.</source>
         <translation>Каталог &quot;%1&quot; вже містить проект LibrePCB.</translation>
     </message>

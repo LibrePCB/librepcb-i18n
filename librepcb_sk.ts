@@ -6746,7 +6746,7 @@ Potrebujete najnovšiu verziu LibrePCB %1 pre jeho otvorenie.
         <translation>Doska už existuje v adresári s názvom &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/project.cpp" line="532"/>
+        <location filename="libs/librepcb/core/project/project.cpp" line="540"/>
         <source>The directory &quot;%1&quot; already contains a LibrePCB project.</source>
         <translation>Adresár &quot;%1&quot; už obsahuje projekt LibrePCB.</translation>
     </message>

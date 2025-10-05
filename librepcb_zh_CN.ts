@@ -6715,7 +6715,7 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/project.cpp" line="532"/>
+        <location filename="libs/librepcb/core/project/project.cpp" line="540"/>
         <source>The directory &quot;%1&quot; already contains a LibrePCB project.</source>
         <translation type="unfinished"/>
     </message>
