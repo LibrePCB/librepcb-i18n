@@ -570,7 +570,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="801"/>
         <source>Run DRC...</source>
-        <translation type="unfinished"/>
+        <translation>Esegui DRC...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="813"/>
