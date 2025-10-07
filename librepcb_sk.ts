@@ -9958,7 +9958,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::CmdSimplifySchematicNetSegments</name>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdsimplifyschematicnetsegments.cpp" line="49"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdsimplifyschematicnetsegments.cpp" line="53"/>
         <source>Simplify Schematic Net Segments</source>
         <translation>Zjednodušiť segmenty prepojenia schémy</translation>
     </message>
@@ -12849,8 +12849,8 @@ Chcete ich uložiť pred zatvorením?</translation>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="339"/>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="348"/>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="507"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="974"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1024"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="979"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1030"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -12900,7 +12900,7 @@ Chcete ich uložiť pred zatvorením?</translation>
         <translation>Presunutie %1 elementov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="998"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1004"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -12908,12 +12908,12 @@ Are you still sure to delete the following library elements?</source>
 Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1011"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1017"/>
         <source>This cannot be undone!</source>
         <translation>Túto zmenu nemožno vrátiť späť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1015"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1021"/>
         <source>Remove %1 Elements</source>
         <translation>Odstrániť %1 elementov</translation>
     </message>
