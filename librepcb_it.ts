@@ -38,7 +38,7 @@
     <message>
         <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="179"/>
         <source>Pad:</source>
-        <translation type="unfinished"/>
+        <translation>Piazzola:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="185"/>
@@ -107,7 +107,7 @@
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="64"/>
         <source>(no net)</source>
-        <translation type="unfinished"/>
+        <translation>(nessun collegamento)</translation>
     </message>
 </context>
 <context>
@@ -524,7 +524,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="647"/>
         <source>Set default assembly variant to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Imposta la variante di assemblaggio predefinita a &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="652"/>
@@ -582,7 +582,7 @@
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="819"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1033"/>
         <source>Board &apos;%1&apos;:</source>
-        <translation type="unfinished"/>
+        <translation>Scheda &apos;%1&apos;:</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="859"/>
@@ -641,12 +641,12 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1056"/>
         <source>top</source>
-        <translation type="unfinished"/>
+        <translation>sopra</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1060"/>
         <source>bottom</source>
-        <translation type="unfinished"/>
+        <translation>sotto</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1064"/>
@@ -855,7 +855,7 @@
     <message>
         <location filename="libs/librepcb/core/job/copyoutputjob.h" line="78"/>
         <source>File Copy</source>
-        <translation type="unfinished"/>
+        <translation>Copia File</translation>
     </message>
 </context>
 <context>
@@ -6126,7 +6126,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/project/board/items/bi_netsegment.cpp" line="68"/>
         <source>(no net)</source>
-        <translation type="unfinished"/>
+        <translation>(nessun collegamento)</translation>
     </message>
 </context>
 <context>
