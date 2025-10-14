@@ -12683,12 +12683,12 @@ Do you really want to close it?</source>
 <context>
     <name>librepcb::editor::LibrariesModel</name>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="237"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="264"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="442"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="469"/>
         <source>Failed to fetch libraries from &apos;%1&apos;: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -12872,13 +12872,13 @@ Are you still sure to delete the following library elements?</source>
         <translation>Copiar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="683"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="974"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1014"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1096"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1229"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1317"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1361"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="687"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="978"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1018"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1100"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1233"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1321"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1365"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -17660,42 +17660,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibrariesPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="524"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="517"/>
         <source>Local Libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="539"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="532"/>
         <source>Remote Libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="567"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="560"/>
         <source>Pending Operations</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="618"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="611"/>
         <source>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="618"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="611"/>
         <source>Warning</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="634"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="627"/>
         <source>Apply</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="634"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="627"/>
         <source>Apply %n Modification(s)</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="647"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="640"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
@@ -17703,42 +17703,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibrariesPanelSection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="312"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="306"/>
         <source>Toggle All</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="339"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="333"/>
         <source>Download a Library by URL</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="350"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="344"/>
         <source>Create a New Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="363"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="357"/>
         <source>Check For Updates</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="376"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="370"/>
         <source>Cancel Update Check</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="401"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="395"/>
         <source>No remote part libraries are currently installed. To get parts like resistors, LEDs, microcontrollers etc., choose some libraries to be downloaded from the internet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="412"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="406"/>
         <source>No local libraries exist in this workspace. In order to create your own parts, add a new local library first with the button above.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="422"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="416"/>
         <source>No libraries matching the filter.</source>
         <translation type="unfinished"/>
     </message>
@@ -17810,22 +17810,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibraryListViewItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="207"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="202"/>
         <source>Recommended</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="219"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="214"/>
         <source>Uninstall</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="73"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="72"/>
         <source>Outdated:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="78"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="77"/>
         <source>Up-to-date:</source>
         <translation type="unfinished"/>
     </message>
