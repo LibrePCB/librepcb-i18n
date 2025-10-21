@@ -9696,6 +9696,14 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     </message>
 </context>
 <context>
+    <name>librepcb::editor::CmdPackageReload</name>
+    <message>
+        <location filename="libs/librepcb/editor/library/cmd/cmdpackagereload.cpp" line="53"/>
+        <source>Reload Package</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::editor::CmdPartEdit</name>
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdpartedit.cpp" line="38"/>
@@ -10041,6 +10049,14 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     </message>
 </context>
 <context>
+    <name>librepcb::editor::CmdSymbolReload</name>
+    <message>
+        <location filename="libs/librepcb/editor/library/cmd/cmdsymbolreload.cpp" line="41"/>
+        <source>Reload Symbol</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>librepcb::editor::CmdTextEdit</name>
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdtextedit.cpp" line="38"/>
@@ -10260,8 +10276,8 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="318"/>
         <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="327"/>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="681"/>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="720"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="682"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="721"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -12815,17 +12831,17 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::LibraryEditorTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="129"/>
+        <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="179"/>
         <source>User name not set</source>
         <translation>Meno používateľa nie je nastavené</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="130"/>
+        <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="180"/>
         <source>No user name is defined in the workspace settings. Please open the workspace settings to set a default user name.</source>
         <translation>Meno používateľa nie je v nastavení pracovného priestoru zadané. Prosím, otvorte nastavenie prac. priestoru a zadajte predvolené meno používateľa.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="147"/>
+        <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="197"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -14061,48 +14077,49 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="677"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="686"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2431"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2470"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2524"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="681"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="690"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="699"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2478"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2516"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2583"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="990"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1003"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="991"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1004"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Puzdro &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1612"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1625"/>
         <source>(unconnected)</source>
         <translation>(nepripojený)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2010"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2057"/>
         <source>New Line Width</source>
         <translation>Nová šírka čiary</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2233"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2280"/>
         <source>Apply to all unspecified pads</source>
         <translation>Použiť na všetky nešpecifikované plôšky vývodov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2255"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2302"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>Opraviť nešpecifikované funkcie plôšok vývodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2601"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2660"/>
         <source>Please select a footprint.</source>
         <translation>Prosím, zvoľte puzdro.</translation>
     </message>
@@ -15455,28 +15472,29 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
 <context>
     <name>librepcb::editor::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="427"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="436"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1484"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1522"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1568"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="432"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="441"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="450"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1518"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1557"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1615"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="655"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="669"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="656"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="670"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Schematická značka &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1465"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1499"/>
         <source>Edit Symbol Properties</source>
         <translation>Upraviť vlastnosti sch. značky</translation>
     </message>
@@ -16579,12 +16597,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::BreakingChangesMessageBanner</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="4"/>
+        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="7"/>
         <source>Attention</source>
         <translation>Upozornenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="4"/>
+        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="7"/>
         <source>You have changed some important properties of this library element. This is a serious issue as it breaks all dependent library elements! If this library element is already used somewhere, it is highly recommended to create a new one instead of modifying this one.</source>
         <translation>Zmenili ste niektoré dôležité vlastnosti tohto prvku knižnice. Toto je vážny problém, pretože to poškodí všetky na ňom závislé knižničné prvky! Dôrazne sa odporúča vytvoriť nový prvok knižnice, ak je  tento už niekde použitý, .</translation>
     </message>
@@ -16608,12 +16626,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::CheckErrorsMessageBanner</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="8"/>
+        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="11"/>
         <source>Attention</source>
         <translation>Upozornenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="8"/>
+        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="11"/>
         <source>This library element contains serious errors. Please review them in the rule check panel.</source>
         <translation>Tento prvok knižnice obsahuje závažné chyby. Prezrite ich v paneli kontroly pravidiel.</translation>
     </message>
@@ -17590,6 +17608,29 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     </message>
 </context>
 <context>
+    <name>ui::FilesModifiedMessageBanner</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="30"/>
+        <source>The files have been modified on disk. It is recommended to close and reopen this tab to see the modifications.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="38"/>
+        <source>Note that the reload feature is currently considered experimental.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="45"/>
+        <source>Reload</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="46"/>
+        <source>Discard modifications (if any) and reload the modified files from disk</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ui::FilterTermEdit</name>
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/filtertermedit.slint" line="20"/>
@@ -18121,32 +18162,37 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>Súbor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1000"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1011"/>
+        <source>Save Device</source>
+        <translation>Uložiť súčiastku</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1020"/>
         <source>Close Device</source>
         <translation>Zavrieť súčiastku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1001"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1021"/>
         <source>Close the currently opened device</source>
         <translation>Uzavretie práve otvorenej súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1020"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1040"/>
         <source>Project</source>
         <translation>Projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1051"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1071"/>
         <source>Save Project</source>
         <translation>Uložiť projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1206"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1226"/>
         <source>Help</source>
         <translation>Pomoc</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1317"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1337"/>
         <source>read-only</source>
         <translation> iba na čítanie</translation>
     </message>
@@ -18161,14 +18207,14 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>Vytvoriť novú lokálnu knižnicu pracovného priestoru</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1532"/>
-        <source>Quick Find</source>
-        <translation>Rýchle hľadanie</translation>
-    </message>
-    <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="155"/>
         <source>Download Library</source>
         <translation>Stiahnúť knižnicu</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1552"/>
+        <source>Quick Find</source>
+        <translation>Rýchle hľadanie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="157"/>
@@ -18311,54 +18357,69 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>Zavrieť aktuálne otvorenú sc. značku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="894"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="884"/>
+        <source>Reload Symbol From Disk</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="885"/>
+        <source>Discard all modifications and reload the currently opened symbol from disk</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="904"/>
         <source>Package</source>
         <translation>Puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="907"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="917"/>
         <source>Save Package</source>
         <translation>Uložiť puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="916"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="926"/>
         <source>Close Package</source>
         <translation>Zavrieť puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="917"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="927"/>
         <source>Close the currently opened package</source>
         <translation>Zavrieť aktuálne otvorené puzdro</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="936"/>
+        <source>Reload Package From Disk</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="937"/>
+        <source>Discard all modifications and reload the currently opened package from disk</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="956"/>
         <source>Component</source>
         <translation>Komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="949"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="969"/>
         <source>Save Component</source>
         <translation>Uložiť komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="958"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="978"/>
         <source>Close Component</source>
         <translation>Zavrieť komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="959"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="979"/>
         <source>Close the currently opened component</source>
         <translation>Zavrieť aktuálne otvorený komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="978"/>
+        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="998"/>
         <source>Device</source>
         <translation>Súčiastka</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="991"/>
-        <source>Save Device</source>
-        <translation>Uložiť súčiastku</translation>
     </message>
 </context>
 <context>
@@ -18631,27 +18692,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackageEditorTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="739"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="740"/>
         <source>Helper Tools</source>
         <translation>Pomocné nástroje</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="854"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="855"/>
         <source>Devices</source>
         <translation>Súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="867"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="868"/>
         <source>Solder Paste</source>
         <translation>Spájkovacia pasta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="880"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="881"/>
         <source>Silkscreen</source>
         <translation>Potlač dosky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="893"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="894"/>
         <source>Solder Resist</source>
         <translation>Nespájkovateľná maska</translation>
     </message>
@@ -18677,42 +18738,42 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackagePadsEditorTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="254"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="255"/>
         <source>Add all (potentially solderable) package pads which are electrically independent, no matter if they actually have an electrical function in a particular part.</source>
         <translation>Pridajte všetky (potenciálne spájkovateľné) plôšky vývodov puzdra, ktoré sú elektricky nezávislé, bez ohľadu na to, či v danej časti skutočne majú elektrickú funkciu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="255"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="256"/>
         <source>For example, a thermal pad should be listed here, even though it may not have an electrical function.</source>
         <translation>Napríklad by tu mala byť tepelnú plôška vývodu, aj keď nemusí mať elektrickú funkciu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="256"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="257"/>
         <source>Once the package is finished, it is *not* possible anymore to add or remove pads.</source>
         <translation>Po dokončení puzdra už *nie* je možné pridávať ani odoberať plôšky vývodov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="261"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="262"/>
         <source>Important:</source>
         <translation>Dôležité:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="271"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="272"/>
         <source>Add Pads:</source>
         <translation>Pridať plôšky vývodov:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="276"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="277"/>
         <source>Pad name (may contain ranges like \&quot;1..5\&quot;)</source>
         <translation>Názov plôšky vývodu (môže obsahovať rozsahy ako  \&quot;1..5\&quot;)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="324"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="325"/>
         <source>Finish</source>
         <translation>Povrchové úpravy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="334"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="335"/>
         <source>Back</source>
         <translation>Späť</translation>
     </message>
@@ -18720,22 +18781,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1034"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1043"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1035"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1044"/>
         <source>Pads</source>
         <translation>Plôšky vývodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1036"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1045"/>
         <source>Footprints</source>
         <translation>Puzdrá</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1037"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1046"/>
         <source>3D Models</source>
         <translation>3D modely</translation>
     </message>
@@ -19133,22 +19194,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="368"/>
+        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="369"/>
         <source>Import Pins From Datasheet</source>
         <translation>Importovanie definície vývodov z technického listu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="374"/>
+        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="375"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation>Odporúča sa začať kreslenie nového symbolu pridaním všetkých vývodov. Najmä v prípade väčších symbolov je najrýchlejším spôsobom ich import z technického listu alebo akejkoľvek inej dokumentácie k súčiastke.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="379"/>
+        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="380"/>
         <source>Import Pins</source>
         <translation>Importovať vývody</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="393"/>
+        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="394"/>
         <source>Learn how to create symbols</source>
         <translation>Naučte sa, ako vytvárať schematické značky.</translation>
     </message>
@@ -19156,12 +19217,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="674"/>
+        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="683"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="675"/>
+        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="684"/>
         <source>Graphics</source>
         <translation>Grafické objekty</translation>
     </message>
