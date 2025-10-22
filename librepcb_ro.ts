@@ -17243,12 +17243,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="183"/>
+        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="182"/>
         <source>Download Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="191"/>
+        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="190"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
@@ -17701,42 +17701,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibrariesPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="517"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="515"/>
         <source>Local Libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="532"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="530"/>
         <source>Remote Libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="560"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="558"/>
         <source>Pending Operations</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="611"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="609"/>
         <source>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="611"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="609"/>
         <source>Warning</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="627"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="625"/>
         <source>Apply</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="627"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="625"/>
         <source>Apply %n Modification(s)</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="640"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="638"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
@@ -17744,42 +17744,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibrariesPanelSection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="306"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="304"/>
         <source>Toggle All</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="333"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="331"/>
         <source>Download a Library by URL</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="344"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="342"/>
         <source>Create a New Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="357"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="355"/>
         <source>Check For Updates</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="370"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="368"/>
         <source>Cancel Update Check</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="395"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="393"/>
         <source>No remote part libraries are currently installed. To get parts like resistors, LEDs, microcontrollers etc., choose some libraries to be downloaded from the internet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="406"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="404"/>
         <source>No local libraries exist in this workspace. In order to create your own parts, add a new local library first with the button above.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="416"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="414"/>
         <source>No libraries matching the filter.</source>
         <translation type="unfinished"/>
     </message>
@@ -17851,12 +17851,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibraryListViewItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="202"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="200"/>
         <source>Recommended</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="214"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="212"/>
         <source>Uninstall</source>
         <translation type="unfinished"/>
     </message>
@@ -18521,7 +18521,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageEditorFootprintsPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="284"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="283"/>
         <source>Add Footprint</source>
         <translation type="unfinished"/>
     </message>
@@ -18529,7 +18529,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageEditorModelsPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="338"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="337"/>
         <source>Add 3D Model</source>
         <translation type="unfinished"/>
     </message>
@@ -18537,33 +18537,33 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageEditorPanelListItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="100"/>
-        <source>Enter name &amp; press Return</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="143"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="142"/>
         <source>Move Up</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="159"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="158"/>
         <source>Rename</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="175"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="174"/>
         <source>Duplicate</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="191"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="190"/>
         <source>Load From File</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="207"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="206"/>
         <source>Remove</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="99"/>
+        <source>Enter name &amp; press Return</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -18764,47 +18764,47 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="159"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="158"/>
         <source>More information &amp; device creation guide</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="172"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="170"/>
         <source>I installed all libraries, why I still get this error?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="182"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="180"/>
         <source>Install or Create Libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="237"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="235"/>
         <source>Place Selected Device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="238"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="236"/>
         <source>Interactively place the component with the selected device &amp; footprint on the board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="249"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="247"/>
         <source>Place Similar</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="250"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="248"/>
         <source>Automatically add all components of the same kind to the board, using the currently selected device &amp; footprint</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="258"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="256"/>
         <source>Place All</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="259"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="257"/>
         <source>Automatically add all components to the board, guessing their device &amp; footprint (not recommended)</source>
         <translation type="unfinished"/>
     </message>
@@ -19116,12 +19116,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::TreeView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/treeview.slint" line="140"/>
+        <location filename="libs/librepcb/editor/ui/widgets/treeview.slint" line="139"/>
         <source>Pin</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/treeview.slint" line="140"/>
+        <location filename="libs/librepcb/editor/ui/widgets/treeview.slint" line="139"/>
         <source>Unpin</source>
         <translation type="unfinished"/>
     </message>
