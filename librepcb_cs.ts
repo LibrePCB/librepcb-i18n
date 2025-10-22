@@ -12933,13 +12933,13 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
         <translation>Kopírovat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="687"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="978"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1018"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1100"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1233"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1321"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1365"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="690"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="981"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1021"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1103"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1236"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1324"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1368"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
