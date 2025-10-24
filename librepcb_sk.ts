@@ -5535,17 +5535,17 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
         <translation>Signál:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/graphicsitems/sgi_symbolpin.cpp" line="276"/>
+        <location filename="libs/librepcb/editor/project/schematic/graphicsitems/sgi_symbolpin.cpp" line="272"/>
         <source>Net:</source>
         <translation>Prepojenie:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/graphicsitems/sgi_symbolpin.cpp" line="282"/>
+        <location filename="libs/librepcb/editor/project/schematic/graphicsitems/sgi_symbolpin.cpp" line="278"/>
         <source>Pin:</source>
         <translation>Vývod:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/graphicsitems/sgi_symbolpin.cpp" line="283"/>
+        <location filename="libs/librepcb/editor/project/schematic/graphicsitems/sgi_symbolpin.cpp" line="279"/>
         <source>Pad(s):</source>
         <translation>Plôška vývodu:</translation>
     </message>
@@ -7068,54 +7068,54 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="459"/>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="523"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="882"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="996"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="883"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="997"/>
         <source>Skipped text on layer %1 (%2).</source>
         <translation>Vynechaný text na vrstve %1 (%2).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="510"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="975"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="976"/>
         <source>Skipped graphics object on layer %1 (%2).</source>
         <translation>Vynechaný grafický objekt na vrstve layer %1 (%2).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="610"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="611"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
         <translation>Čiarkované a bodkované čiary nie sú podporované a budú skonvertované na plné čiary.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="615"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="616"/>
         <source>Flat line end is not supported, converting to round.</source>
         <translation>Ploché ukončenie čiar nie je podporované a bude zmenené na zaoblené.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="627"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="628"/>
         <source>XRef-style net label is not supported, converting to normal net label.</source>
         <translation>Rozšírené označenie prepojení (XRef) nie je podporované a bude zmenené za jednoduché označenie prepojení.</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="681"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="682"/>
         <source>Skipped %n bus(es) because they are not supported yet!</source>
         <translation><numerusform>Bola vynechaná %n zbernica, pretože zbernice zatiaľ nie sú podporované!</numerusform><numerusform>Boli vynechané %n zbernice, pretože zbernice zatiaľ nie sú podporované!</numerusform><numerusform>Bolo vynechaných %n zberníc, pretože zbernice zatiaľ nie sú podporované!</numerusform><numerusform>Bolo vynechaných %n zberníc, pretože zbernice zatiaľ nie sú podporované!</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1089"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1090"/>
         <source>Square/octagon via shape not supported, converting to circular.</source>
         <translation>Štvoruholníkový/osemuholníkový tvar prechodu nie je podporovaný a bude zmenený za okrúhly.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1163"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1164"/>
         <source>Dashed/dotted trace is not supported, converting to continuous.</source>
         <translation>Čiarkované/bodkované spoje nie sú podporované a budú skonvertované na plné.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1168"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1169"/>
         <source>Flat trace end is not supported, converting to round.</source>
         <translation>Ploché ukončenie spojov nie je podporované a bude zmenené na zaoblené.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1172"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1173"/>
         <source>Curved trace is not supported, converting to straight.</source>
         <translation>Oblúkové spoje nie sú podporované a budú zmenené za priame.</translation>
     </message>
@@ -7176,17 +7176,17 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Nie je zvolený komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="856"/>
+        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="857"/>
         <source>No device selected</source>
         <translation>Nie je zvolená súčiastka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1006"/>
+        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1007"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výber</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1007"/>
+        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1008"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>Prosím, zvoľte komponent a variantu sch. značky.</translation>
     </message>
@@ -10653,10 +10653,10 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="429"/>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="438"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="782"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="817"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="854"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="895"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="783"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="818"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="855"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="896"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -10673,12 +10673,12 @@ Do you want to save them before closing it?</source>
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="839"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="840"/>
         <source>Change Component</source>
         <translation>Zameniť komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="876"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="877"/>
         <source>Change Package</source>
         <translation>Zameniť puzdro</translation>
     </message>
@@ -14988,21 +14988,21 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="281"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="548"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="545"/>
         <source>Invalid net name</source>
         <translation>Neplatný názov prepojenia</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="282"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="550"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="547"/>
         <source>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</source>
         <translation>Nie je možné použiť vynútené el. prepojenie &apos;%1&apos;, pretože názov prepojenia nie je platný.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="379"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="562"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="580"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="608"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="377"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="559"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="577"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="605"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -15177,17 +15177,17 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
         <translation>Nie je zvolená schematická značka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="251"/>
+        <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="252"/>
         <source>Could not load symbol</source>
         <translation>Nedá sa načítať sch. značka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="258"/>
+        <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="259"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výber</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="259"/>
+        <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="260"/>
         <source>Please select a symbol.</source>
         <translation>Prosím, zvoľte sch. značku.</translation>
     </message>
@@ -15531,29 +15531,29 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
 <context>
     <name>librepcb::editor::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="432"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="441"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="450"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1518"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1557"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1615"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="433"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="442"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="451"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1519"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1558"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1616"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="669"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="670"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="670"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="671"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Schematická značka &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1499"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1500"/>
         <source>Edit Symbol Properties</source>
         <translation>Upraviť vlastnosti sch. značky</translation>
     </message>
