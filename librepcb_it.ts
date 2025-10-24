@@ -518,313 +518,313 @@
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="626"/>
-        <source>Attention: Project has been upgraded to a newer file format!</source>
+        <source>Attention: Project has been migrated to a newer file format!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="647"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="640"/>
         <source>Set default assembly variant to &apos;%1&apos;...</source>
         <translation>Imposta la variante di assemblaggio predefinita a &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="652"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="666"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="645"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="659"/>
         <source>ERROR: No assembly variant with the name &apos;%1&apos; found.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="681"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="674"/>
         <source>ERROR: Assembly variant index &apos;%1&apos; is invalid.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="703"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="696"/>
         <source>ERROR: No board with the name &apos;%1&apos; found.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="716"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="709"/>
         <source>ERROR: Board index &apos;%1&apos; is invalid.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="724"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="717"/>
         <source>Remove other boards...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="753"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="746"/>
         <source>Check for non-canonical files...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="756"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="749"/>
         <source>ERROR: The option &apos;--strict&apos; is not available for *.lppz files!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="779"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="772"/>
         <source>Run ERC...</source>
         <translation>Eseguire ERC</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="801"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="794"/>
         <source>Run DRC...</source>
         <translation>Esegui DRC...</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="813"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1027"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="806"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1020"/>
         <source>ERROR: Failed to load custom settings: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="819"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1033"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="812"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1026"/>
         <source>Board &apos;%1&apos;:</source>
         <translation>Scheda &apos;%1&apos;:</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="859"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="852"/>
         <source>ERROR: Failed to load custom output jobs: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="875"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="868"/>
         <source>ERROR: No output job with the name &apos;%1&apos; found.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="886"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="879"/>
         <source>Run output job &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="905"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="898"/>
         <source>ERROR:</source>
         <translation>ERRORE:</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="913"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="906"/>
         <source>Export schematics to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="941"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1530"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1641"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="934"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1523"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1634"/>
         <source>ERROR</source>
         <translation>ERRORE</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="970"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="963"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="973"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="966"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1003"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1094"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1121"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="996"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1087"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1114"/>
         <source>ERROR: Unknown extension &apos;%1&apos;.</source>
         <translation>ERRORE: Estensione sconosciuta &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1013"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1006"/>
         <source>Export PCB fabrication data...</source>
         <translation>Esporta dati fabbricazione PCB </translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1056"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1049"/>
         <source>top</source>
         <translation>sopra</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1060"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1053"/>
         <source>bottom</source>
         <translation>sotto</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1064"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1057"/>
         <source>Export %1 assembly data to &apos;%2&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1104"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1097"/>
         <source>Export netlist to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1129"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1122"/>
         <source>Save project...</source>
         <translation>Salvare progetto...</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1150"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1654"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1143"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1647"/>
         <source>ERROR: The file &apos;%1&apos; was written multiple times!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1155"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1148"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1166"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1306"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1537"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1670"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1746"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1159"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1299"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1530"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1663"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1739"/>
         <source>ERROR: %1</source>
         <translation>ERRORE: %1</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1179"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1172"/>
         <source>Open library &apos;%1&apos;...</source>
         <translation>Apri libreria &apos;%1&apos;... </translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1194"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1187"/>
         <source>Process %1 component categories...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1197"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1216"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1235"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1254"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1273"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1292"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1190"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1209"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1228"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1247"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1266"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1285"/>
         <source>Open &apos;%1&apos;...</source>
         <translation>Apri &apos;%1&apos;... </translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1213"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1206"/>
         <source>Process %1 package categories...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1232"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1225"/>
         <source>Process %1 symbols...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1251"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1244"/>
         <source>Process %1 packages...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1270"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1263"/>
         <source>Process %1 components...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1289"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1282"/>
         <source>Process %1 devices...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1325"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1318"/>
         <source>Run checks...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1334"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1327"/>
         <source>Approved messages: %1</source>
         <translation>Messaggi accettati: %1</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1335"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1328"/>
         <source>Non-approved messages: %1</source>
         <translation>Messaggi non accettati: %1</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1364"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1357"/>
         <source>Minify STEP model &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1370"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1363"/>
         <source>  - Minified &apos;%1&apos; from %2 to %3 bytes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1389"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1382"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
         <translation>Controlla &apos;% 1&apos; per i file non canonici ...</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1409"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1402"/>
         <source>Run checks for &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1432"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1425"/>
         <source>Save &apos;%1&apos;...</source>
         <translation>Salva &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1453"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1446"/>
         <source>Open symbol &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1460"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1453"/>
         <source>Opened symbol: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1478"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1471"/>
         <source>Export symbol to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1551"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1544"/>
         <source>Open package &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1558"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1551"/>
         <source>Opened package: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1576"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1569"/>
         <source>Export footprint(s) to &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1660"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1653"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For footprint output files, you could add a placeholder like &apos;%1&apos; to the path.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1798"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1791"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
         <translation>Questa versione dell&apos;applicazione è INSTABILE! L&apos;opzione &apos;% 1&apos; è disabilitata per evitare di interrompere progetti o librerie. Utilizza invece una versione stabile.</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1826"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1819"/>
         <source>Warning</source>
         <translation>Avviso</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1827"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1820"/>
         <source>The command or option &apos;%1&apos; is deprecated and will be removed in a future release.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1832"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1825"/>
         <source>Please see &apos;%1&apos; for a possible replacement.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1835"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1828"/>
         <source>For now, the command will be executed, but the CLI will return with a nonzero exit code. As a temporary workaround, this warning and the nonzero exit code can be suppressed with the environment variable &apos;%1&apos;.</source>
         <translation type="unfinished"/>
     </message>
@@ -6707,17 +6707,17 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="734"/>
+        <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="736"/>
         <source>The input file must be located within the project directory, specified by a relative file path.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="769"/>
+        <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="771"/>
         <source>The archive job depends on files from another job which was not run yet. Note that archive jobs can only depend on jobs further ahead in the list so you might need to reorder them.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="781"/>
+        <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="783"/>
         <source>No input jobs selected, thus the resulting archive will be empty.</source>
         <translation type="unfinished"/>
     </message>
@@ -6763,17 +6763,52 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::ProjectLoader</name>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="105"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="128"/>
+        <source>Note: This is a temporary file since the project has not been saved to disk yet. When you save the project, this log will be written to the projects &apos;%1&apos; directory.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="135"/>
+        <source>Attention: After saving the project, the file format migration cannot be reverted. Check if everything looks good before saving the project.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="143"/>
+        <source>The project has been migrated from file format &lt;strong&gt;%1 to %2&lt;/strong&gt;, which emitted the following messages:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="153"/>
+        <source>No messages emitted.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="170"/>
+        <source>Version</source>
+        <translation>Versione</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="171"/>
+        <source>Occurrences</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="172"/>
+        <source>Message</source>
+        <translation>Messaggio:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="213"/>
         <source>File does not exist: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="111"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="219"/>
         <source>Directory does not contain a LibrePCB project: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="123"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="231"/>
         <source>This project was created with a newer application version.
 You need at least LibrePCB %1 to open it.
 
@@ -7574,12 +7609,12 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="435"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="436"/>
         <source>Uploading project...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="517"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="518"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -14351,156 +14386,131 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::ProjectEditor</name>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="149"/>
-        <source>The project &apos;%1&apos; has been upgraded to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</source>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="151"/>
+        <source>The project &apos;%1&apos; has been migrated to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="155"/>
-        <source>The upgrade produced %n message(s), please review before proceeding.</source>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="157"/>
+        <source>The migration produced %n message(s), please review before proceeding.</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="161"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="163"/>
         <source>ATTENTION: Project File Format Upgraded</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="162"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="164"/>
         <source>Show Messages</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="361"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="362"/>
         <source>Save Project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="362"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="363"/>
         <source>The project '%1' contains unsaved changes.
 Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="405"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="406"/>
         <source>Project saved!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="411"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="412"/>
         <source>Error while saving the project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="493"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="494"/>
         <source>Export project to *.lppz</source>
         <translation>Esporta progetto come *.lppz </translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="521"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="524"/>
         <source>Export succeeded!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="524"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="555"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="577"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="590"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="636"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="656"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="527"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="558"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="580"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="593"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="639"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="659"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="529"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="532"/>
         <source>Sheet %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="535"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="538"/>
         <source>New Sheet</source>
         <translation>Nuovo foglio</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="536"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="539"/>
         <source>Choose a name for the new schematic page:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="545"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="627"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="548"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="630"/>
         <source>Invalid name: &apos;%1&apos;</source>
         <translation>Nome non valido: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="566"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="569"/>
         <source>Rename sheet</source>
         <translation>Rinomina foglio</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="566"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="569"/>
         <source>Choose new name:</source>
         <translation>Scegli un nuovo nome:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="603"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="606"/>
         <source>Board %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="605"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="608"/>
         <source>Copy of %1</source>
         <translation>Copia di %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="616"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="619"/>
         <source>Copy Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="616"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="619"/>
         <source>Add New Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="617"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="620"/>
         <source>Choose a name:</source>
         <translation>Scegli un nome:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="646"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="649"/>
         <source>Remove board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="647"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="650"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="692"/>
-        <source>File Format Upgrade Messages</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
-        <source>Severity</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
-        <source>Version</source>
-        <translation>Versione</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
-        <source>Occurrences</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="697"/>
-        <source>Message</source>
-        <translation>Messaggio:</translation>
     </message>
 </context>
 <context>
@@ -18714,22 +18724,22 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>ui::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1043"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1038"/>
         <source>Metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1044"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1039"/>
         <source>Pads</source>
         <translation>Piazzole</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1045"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1040"/>
         <source>Footprints</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1046"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1041"/>
         <source>3D Models</source>
         <translation>Modelli 3D</translation>
     </message>
