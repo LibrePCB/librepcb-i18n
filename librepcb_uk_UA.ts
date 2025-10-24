@@ -920,114 +920,114 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgCopperBoardClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="661"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="791"/>
         <source>Clearance via ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="664"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="794"/>
         <source>The clearance between a via and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Відстань між перехідним отвором і контуром плати менша, ніж у налаштуванях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="668"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="798"/>
         <source>Check the DRC settings and move the via away from the board outline if needed.</source>
         <translation>Перевірте налаштування DRC та перемістіть via від місця контура плати, якщо потрібно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="683"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="813"/>
         <source>Clearance trace ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Відстань доріжка ↔ контур плати &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="686"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="816"/>
         <source>The clearance between a trace and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Відстань між доріжкою та контуром плати менший, ніж у налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="690"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="820"/>
         <source>Check the DRC settings and move the trace away from the board outline if needed.</source>
         <translation>Перевірте налаштування DRC та перемістіть доріжку від плати, якщо це необхідно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="719"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="849"/>
         <source>Clearance plane ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Відстань площина ↔ контур плати &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="722"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="852"/>
         <source>The clearance between a plane and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Відстань між площиною та контуром плати менше, ніж відстань контуру плати, що налаштована у налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="726"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="856"/>
         <source>Check the DRC settings and increase the configured plane clearance if needed.</source>
         <translation>Перевірте налаштування DRC та збільшіть налаштований відстань площини, якщо потрібно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="740"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="870"/>
         <source>Clearance copper polygon ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Відстань мідний полігон ↔ контур плати &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="743"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="873"/>
         <source>The clearance between a polygon and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Відстань між полігоном та контуром плати менше, ніж відстань контуру плати, налаштований в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="746"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="876"/>
         <source>Check the DRC settings and move the polygon away from the board outline if needed.</source>
         <translation>Перевірте налаштування DRC та перемістіть полігон від межі плати за необхідності.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="763"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="893"/>
         <source>Clearance copper circle ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Очищення мідної круглої області ↔ контур плати &lt;%1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="766"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="896"/>
         <source>The clearance between a circle and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Відстань між колом та контуром плати менший, ніж відстань, що налаштована в DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="769"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="899"/>
         <source>Check the DRC settings and move the circle away from the board outline if needed.</source>
         <translation>Перевірте налаштування DRC і, якщо потрібно, перемістіть коло від меж плати.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="785"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="915"/>
         <source>Clearance copper text ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Відстань мідний текст ↔ контур плати &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="788"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="918"/>
         <source>The clearance between a stroke text and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation>Відстань між текстом з контуром та контуром палвти менший, ніж відстань контуру плати, що налаштована у налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="792"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="922"/>
         <source>Check the DRC settings and move the stroke text away from the board outline if needed.</source>
         <translation>Перевірте налаштування DRC та перемістіть обведення тексту від меж плати, якщо потрібно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="807"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="937"/>
         <source>Clearance pad ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Відстань підкладка ↔ контур плати &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="815"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="945"/>
         <source>The clearance between a pad and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="819"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="949"/>
         <source>Check the DRC settings and move the pad away from the board outline if needed.</source>
         <translation type="unfinished"/>
     </message>
@@ -1035,58 +1035,58 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgCopperCopperClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="518"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="648"/>
         <source>pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="520"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="650"/>
         <source>trace</source>
         <translation>доріжка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="522"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="652"/>
         <source>via</source>
         <translation>Перехідний отвір</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="524"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="654"/>
         <source>plane</source>
         <translation>площина</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="526"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="656"/>
         <source>polygon</source>
         <translation>полігон</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="528"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="658"/>
         <source>circle</source>
         <translation>коло</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="530"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="660"/>
         <source>text</source>
         <translation>текст</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="605"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="735"/>
         <source>Clearance on %1: %2 ↔ %3 &lt; %4 %5</source>
         <comment>Placeholders: Layer name, object name, object name, Clearance value, unit</comment>
         <translation>Відстань між %1: %2 ↔ %3 &lt; %4 %5</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="610"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="740"/>
         <source>The clearance between two copper objects of different nets is smaller than the minimum copper clearance configured in the DRC settings.</source>
         <translation>Кліренс між двома мідними предметами різних мереж менший, ніж мінімальна відстань міді, налаштований в налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="614"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="744"/>
         <source>Check the DRC settings and move the objects to increase their clearance if needed.</source>
         <translation>Перевірте налаштування DRC та перемістіть об&apos;єкти, щоб збільшити їх відстань, якщо потрібно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="636"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="766"/>
         <source>%1 layers</source>
         <comment>Placeholder is a number &gt; 1.</comment>
         <translation>%1 шарів</translation>
@@ -1095,18 +1095,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgCopperHoleClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="833"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="963"/>
         <source>Clearance copper ↔ hole &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Кліренс мідь → отвір &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="836"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="966"/>
         <source>The clearance between a non-plated hole and copper objects is smaller than the hole clearance configured in the DRC settings.</source>
         <translation>Кліренс між непокритим отвором і мідними об&apos;єктами менший, ніж у налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="839"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="969"/>
         <source>Check the DRC settings and move the copper objects away from the hole if needed.</source>
         <translation>Перевірте налаштування DRC і перемістіть мідні об&apos;єкти від отвору, якщо потрібно.</translation>
     </message>
@@ -1114,47 +1114,47 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgCopperInKeepoutZone</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="892"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1022"/>
         <source>Via in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
         <translation>Перехідний отвір в зоні заборони міді: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="909"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1039"/>
         <source>Trace in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
         <translation>Доріжка в зоні заборони міді: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="923"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1053"/>
         <source>Polygon in copper keepout zone</source>
         <translation>Полігон в зоні заборони міді</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="938"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1068"/>
         <source>Polygon in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
         <translation>Полігон в зоні заборони міді: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="955"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1085"/>
         <source>Circle in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
         <translation>Коло в зоні заборони міді: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="986"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1116"/>
         <source>Pad in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is pad- or net name</comment>
         <translation>Підкладка у зоні заборони міді: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="992"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1122"/>
         <source>There is a copper object within a copper keepout zone.</source>
         <translation>Мідний об&apos;єкт в зоні заборони міді.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="993"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1123"/>
         <source>Move the object to outside the keepout zone.</source>
         <translation>Перемістіть об&apos;єкт за межі зони заборони.</translation>
     </message>
@@ -1162,18 +1162,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgDeviceInCourtyard</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1060"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1190"/>
         <source>Device in courtyard: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
         <translation>Пристрій у подвір&apos;ї: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1064"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1194"/>
         <source>A device is placed within the courtyard of another device, which might cause troubles during assembly of these parts.</source>
         <translation>Пристрій розміщено у подвір&apos;ї іншого пристрою, що може призвести до проблем під час зборки цих частин.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1067"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1197"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems.</source>
         <translation>Перемістіть пристрої, щоб збільшити їх відстань або схваліть це повідомлення, якщо ви впевнені, що їх можна зібрати без проблем.</translation>
     </message>
@@ -1181,18 +1181,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgDeviceInKeepoutZone</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1116"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1246"/>
         <source>Device in keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
         <translation>Пристрій в зоні заборони: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1137"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1267"/>
         <source>There is a device within a keepout zone.</source>
         <translation>Пристрій в забороненій зоні.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1138"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1268"/>
         <source>Move the device to outside the keepout zone.</source>
         <translation>Перемістіть пристрій за межі забороненої зони.</translation>
     </message>
@@ -1200,12 +1200,12 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgDisabledLayer</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1725"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1855"/>
         <source>Objects on disabled layer: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1726"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1856"/>
         <source>The layer contains copper objects, but it is disabled in the board setup dialog and thus will be ignored in any production data exports. Either increase the layer count to get this layer exported, or remove all objects on this layer (by temporarily enabling this layer to see them).</source>
         <translation type="unfinished"/>
     </message>
@@ -1213,18 +1213,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgDrillBoardClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1036"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1166"/>
         <source>Clearance drill ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Відстань бурильного отвору ↔ контур плати &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1039"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1169"/>
         <source>The clearance between a drill and the board outline is smaller than the drill clearance configured in the DRC settings.</source>
         <translation>Кліренс між свердлом та контуром плати менший, ніж відстань свердленого отвору, що сконфігурована в налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1042"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1172"/>
         <source>Check the DRC settings and move the drill away from the board outline if needed.</source>
         <translation>Перевірте налаштування DRC і перемістіть свердлений отвір від контуру плати, якщо потрібно.</translation>
     </message>
@@ -1232,18 +1232,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgDrillDrillClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1004"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1134"/>
         <source>Clearance drill ↔ drill &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Відстань свердлений отворір ↔ свердлений отвір &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1007"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1137"/>
         <source>The clearance between two drills is smaller than the drill clearance configured in the DRC settings.</source>
         <translation>Відстань між двома свердленими отворами менша, ніж відстань свердленого отвору, що сконфігурована в налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1010"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1140"/>
         <source>Check the DRC settings and move the drills to increase their distance if needed.</source>
         <translation>Перевірте налаштування DRC та перемістіть отвори, щоб збільшити їх відстань, якщо це необхідно.</translation>
     </message>
@@ -1251,7 +1251,7 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgEmptyNetSegment</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="290"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="420"/>
         <source>Empty segment of net &apos;%1&apos;: &apos;%2&apos;</source>
         <comment>Placeholders: Net name, segment UUID</comment>
         <translation>Порожній сегмент мережі &apos;%1&apos;: &apos;%2&apos;</translation>
@@ -1260,41 +1260,41 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgExposureInKeepoutZone</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1182"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1312"/>
         <source>Via in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
         <translation>Перехідний отвір в зоні заборони експозиції: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1196"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1326"/>
         <source>Polygon in exposure keepout zone</source>
         <translation>Багатокутник в зоні заборони експозиції</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1210"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1340"/>
         <source>Polygon in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
         <translation>Багатокутник в зоні заборони експозиції: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1228"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1358"/>
         <source>Circle in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
         <translation>Коло в зоні заборони експозиції: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1261"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1391"/>
         <source>Pad in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is pad- or net name</comment>
         <translation>Підкладка у зоні заборони експозиції: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1267"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1397"/>
         <source>There is a solder resist opening within an exposure keepout zone.</source>
         <translation>Є відкриття захисного покриття припою в зоні заборони експозиції.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1269"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1399"/>
         <source>Move the object to outside the keepout zone.</source>
         <translation>Перемістіть об&apos;єкт за межі зони заборони.</translation>
     </message>
@@ -1302,47 +1302,47 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgForbiddenSlot</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1559"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1689"/>
         <source>Hole is a slot with curves</source>
         <translation>Отвір - це слот з кривими</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1561"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1691"/>
         <source>Hole is a multi-segment slot</source>
         <translation>Отвір є багатосекційним жолобом</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1563"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1693"/>
         <source>Hole is a slot</source>
         <translation>Отвір - це проріз</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1570"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1700"/>
         <source>Either avoid them or check if your PCB manufacturer supports them.</source>
         <translation>Або уникайте їх, або перевірте, чи підтримує їх ваш виробник плат.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1572"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1702"/>
         <source>Choose the desired Excellon slot mode when generating the production data (G85 vs. G00..G03).</source>
         <translation>Оберіть потрібний режим слотів Excellon при генерації виробничих даних (G85 або G00..G03).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1575"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1705"/>
         <source>The drilled slot mode (G85) will not be available when generating production data.</source>
         <translation>Режим свердління слоту (G85) не буде доступний при генеруванні виробничих даних.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1579"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1709"/>
         <source>Curved slots are a very unusual thing and may cause troubles with many PCB manufacturers.</source>
         <translation>Закривлені слоти є дуже незвичайною річчю і можуть спричинити проблеми з багатьма виробниками плат PCB.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1583"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1713"/>
         <source>Multi-segment slots are a rather unusual thing and may cause troubles with some PCB manufacturers.</source>
         <translation>Багатосегментні слоти - це досить незвичайна річ, яка може створювати проблеми деяким виробникам плат.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1587"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1717"/>
         <source>Slots may cause troubles with some PCB manufacturers.</source>
         <translation>Шліці можуть спричинити проблеми з деякими виробниками плат PCB.</translation>
     </message>
@@ -1350,27 +1350,27 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgForbiddenVia</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1612"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1742"/>
         <source>Blind via in net &apos;%1&apos;</source>
         <translation>Сліпий перехідний отвір в мережі &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1614"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1744"/>
         <source>Buried via in net &apos;%1&apos;</source>
         <translation>Закопаний перехідний отвір в мережі &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1621"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1751"/>
         <source>Either avoid them or check if your PCB manufacturer supports them and adjust the DRC settings accordingly.</source>
         <translation>Або уникайте їх, або перевірте, чи підтримує їх ваш виробник PCB та налаштуйте параметри DRC відповідно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1624"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1754"/>
         <source>Blind vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
         <translation>Створення глухих перехідних отворів є дорогим і не кожен виробник плат PCB здатен їх створювати.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1628"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1758"/>
         <source>Buried vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
         <translation>Внутрешні перехідні отвори є дорогими у виробництві, і не кожен виробник плат зможе створити їх.</translation>
     </message>
@@ -1378,13 +1378,13 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgInvalidPadConnection</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1502"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1632"/>
         <source>Invalid connection of pad &apos;%1&apos; on &apos;%2&apos;</source>
         <comment>Placeholders: Pad- or net name, layer name</comment>
         <translation>Недійсне з&apos;єднання підкладки &apos;%1&apos; на платі &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1508"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1638"/>
         <source>The pad origin must be located within the pads copper area, or for THT pads within a hole. Otherwise traces might not beconnected fully. This issue needs to be fixed in the library.</source>
         <translation>Початкова точка доріжки повинна розташовуватися всередині мідної області підкладки, або для підкладок з ТВЧ всередині отвору. Інакше сліди можуть не бути повністю з&apos;єднані. Цю проблему потрібно виправити в бібліотеці.</translation>
     </message>
@@ -1392,13 +1392,13 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgInvalidVia</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1642"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1772"/>
         <source>Invalid via in net &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1644"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1774"/>
         <source>The via is only drilled between one layer and is therefore invalid.</source>
         <translation type="unfinished"/>
     </message>
@@ -1406,34 +1406,34 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumAnnularRingViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1282"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1412"/>
         <source>Via annular ring of &apos;%1&apos; &lt; %2 %3</source>
         <comment>Placeholders: Net name, minimum annular width, unit</comment>
         <translation>Перехідний отвір через кільцеву область плати &apos;%1&apos; &lt; %2 %3.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1286"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1416"/>
         <source>The via annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
         <translation>Ширина кільця на перехідному отворі (тобто міді навколо отвору) менше за мінімальну налаштовану ширину кільця в налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1290"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1420"/>
         <source>Check the DRC settings and increase the via size if needed.</source>
         <translation>Перевірте налаштування DRC та збільшіть розмір отворів (vias), якщо потрібно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1341"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1471"/>
         <source>Pad annular ring of &apos;%1&apos; &lt; %2 %3</source>
         <comment>Placeholders: Pad- or net name, minimum annular width, unit</comment>
         <translation>Кільцева область підкладки &apos;%1&apos; &lt; %2 %3.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1349"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1479"/>
         <source>The through-hole pad annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
         <translation>Кільцева область підкладки (тобто міді навколо отвору) менше за мінімальну налаштовану ширину кільця в налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1353"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1483"/>
         <source>Check the DRC settings and increase the pad size if needed.</source>
         <translation>Перевірте налаштування DRC та, якщо потрібно, збільшіть розмір площки.</translation>
     </message>
@@ -1460,40 +1460,40 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumDrillDiameterViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1374"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1504"/>
         <source>Via drill diameter of &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Net name, actual diameter, minimum diameter</comment>
         <translation>Діаметр свердла для перехідного отвору: %2 менше %3 %4 з діаметром плати &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1379"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1509"/>
         <source>Pad drill diameter of &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Net name, actual diameter, minimum diameter</comment>
         <translation>Діаметр свердла для підкладок &apos;%1&apos;: %2 &lt; %3 %4.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1384"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1514"/>
         <source>NPTH drill diameter: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual diameter, minimum diameter, unit</comment>
         <translation>Діаметр свердла для NPTH: %1 менше %2 %3</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1395"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1525"/>
         <source>The drill diameter of the via is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
         <translation>Діаметр свердла переходного отвору менший за мінімальний діаметр золоченого свердла, налаштований в параметрах DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1399"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1529"/>
         <source>The drill diameter of the through-hole pad is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
         <translation>Діаметр свердла отвору на поверхні плати менший за мінімальний діаметр, який встановлено в налаштуваннях правил перевірки дизайну (DRC) для покриття міді.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1403"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1533"/>
         <source>The drill diameter of the non-plated hole is smaller than the minimum non-plated drill diameter configured in the DRC settings.</source>
         <translation>Діаметр свердла непозначеного отвору менший, ніж мінімальний діаметр свердла для непозначених отворів, налаштований в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1407"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1537"/>
         <source>Check the DRC settings and increase the drill diameter if needed.</source>
         <translation>Перевірити налаштування DRC і, якщо необхідно, збільшити діаметр свердла.</translation>
     </message>
@@ -1501,29 +1501,29 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumSlotWidthViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1432"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1562"/>
         <source>Plated slot width: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual width, minimum width, unit</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1436"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1566"/>
         <source>NPTH slot width: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual width, minimum width, unit</comment>
         <translation>Ширина NPTH пазу: %1 &lt; %2 %3</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1447"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1577"/>
         <source>The width of the plated slot is smaller than the minimum plated slot width configured in the DRC settings.</source>
         <translation>Ширина мідного отвору менша, ніж мінімальна ширина мідного отвору, налаштована в налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1451"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1581"/>
         <source>The width of the non-plated slot is smaller than the minimum non-plated slot width configured in the DRC settings.</source>
         <translation>Ширина непокритого отвору менша, ніж мінімальна ширина непокритого отвору, налаштована в налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1455"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1585"/>
         <source>Check the DRC settings and increase the slot width if needed.</source>
         <translation>Перевірте налаштування DRC та, якщо потрібно, збільште ширину слоту.</translation>
     </message>
@@ -1531,18 +1531,18 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumTextHeightViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="336"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="466"/>
         <source>Text height on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual height, minimum height, unit</comment>
         <translation>Висота тексту на &apos;%1&apos;: %2 &lt; %3 %4.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="340"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="470"/>
         <source>The text height is smaller than the minimum height configured in the DRC settings. If the text is smaller than the minimum height specified by the PCB manufacturer, it may not be readable after production.</source>
         <translation>Висота тексту менша за мінімальну висоту, встановлену в налаштуваннях DRC. Якщо текст менший за мінімальну висоту, вказану виробником плат, після виробництва його може бути неможливо прочитати.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="345"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="475"/>
         <source>Check the DRC settings and increase the text height if needed.</source>
         <translation>Перевірте налаштування DRC та, якщо потрібно, збільшіть висоту тексту.</translation>
     </message>
@@ -1550,90 +1550,90 @@ Please make sure this tool is available in PATH.</source>
 <context>
     <name>DrcMsgMinimumWidthViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="366"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="496"/>
         <source>Trace width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
         <translation>Ширина траси на платі &apos;%1&apos;: %2 &lt; %3 %4.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="370"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="500"/>
         <source>The trace is thinner than the minimum copper width configured in the DRC settings.</source>
         <translation>Траса тонша за мінімальну ширину міді, встановлену в налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="373"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="503"/>
         <source>Check the DRC settings and increase the trace width if needed.</source>
         <translation>Перевірте налаштування DRC та збільшіть ширину відвіду, якщо потрібно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="388"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="518"/>
         <source>Min. plane width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
         <translation>Мінімальна ширина площини на &apos;%1&apos;: %2 &lt; %3 %4.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="392"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="522"/>
         <source>The configured minimum width of the plane is smaller than the minimum copper width configured in the DRC settings.</source>
         <translation>Налаштована мінімальна ширина площини менша за мінімальну ширину міді, налаштовану в настройках DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="395"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="525"/>
         <source>Check the DRC settings and increase the minimum plane width in its properties if needed.</source>
         <translation>Перевірте налаштування DRC та збільшіть мінімальну ширину площини в її властивостях, якщо потрібно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="408"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="538"/>
         <source>Polygon width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
         <translation>Ширина полігона на &apos;%1&apos;: %2 &lt; %3 %4.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="412"/>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="462"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="542"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="592"/>
         <source>The polygon line width is smaller than the minimum width configured in the DRC settings.</source>
         <translation>Ширина лінії полігона менша за мінімальну ширину, встановлену в налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="415"/>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="466"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="545"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="596"/>
         <source>Check the DRC settings and increase the polygon line width if needed.</source>
         <translation>Перевірте налаштування DRC та збільшіть ширину лінії полігона, якщо потрібно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="429"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="559"/>
         <source>Stroke width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
         <translation>Ширина лінії на «%1»: %2 менше ніж %3 %4</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="433"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="563"/>
         <source>The text stroke width is smaller than the minimum width configured in the DRC settings.</source>
         <translation>Ширина хода тексту менша за мінімальну ширину, встановлену в налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="436"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="566"/>
         <source>Check the DRC settings and increase the text stroke width if needed.</source>
         <translation>Перевірте налаштування DRC та збільште ширину хода тексту, якщо необхідно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="454"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="584"/>
         <source>Polygon width of &apos;%1&apos; on &apos;%2&apos;: %3 &lt; %4 %5</source>
         <comment>Placeholders: Device name, layer name, actual width, minimum width, unit</comment>
         <translation>Ширина полігона &apos;%1&apos; на &apos;%2&apos;: %3 &lt; %4 %5.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="481"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="611"/>
         <source>Circle width of &apos;%1&apos; on &apos;%2&apos;: %3 &lt; %4 %5</source>
         <comment>Placeholders: Device name, layer name, actual width, minimum width, unit</comment>
         <translation>Ширина кола &apos;%1&apos; на &apos;%2&apos;: %3 &lt; %4 %5.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="489"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="619"/>
         <source>The circle line width is smaller than the minimum width configured in the DRC settings.</source>
         <translation>Ширина лінії кола менша за мінімальну ширину, встановлену в налаштуваннях DRC.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="492"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="622"/>
         <source>Check the DRC settings and increase the circle line width if needed.</source>
         <translation>Перевірте налаштування DRC та збільшіть ширину лінії кола, якщо потрібно.</translation>
     </message>
@@ -1728,6 +1728,35 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
         <source>Either add only a single board outline or make sure the PCB manufacturer can handle production data containing multiple PCBs.</source>
         <translation>Додайте лише один контур плати або переконайтеся, що виробник плат може обробляти виробничі дані, що містять кілька плат.&quot;</translation>
     </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="290"/>
+        <source>Plated cutouts detected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="291"/>
+        <source>The board contains plated cutouts with arbitrary shape (polygons or circles). Those are currently considered EXPERIMENTAL because of the issues described below. In future releases, they might behave differently.
+
+1. Unfortunately, there is no standardized way to let PCB manufacturers know that those cutouts need to be plated. The Gerber export just includes those cutouts in the normal board outlines layer (together with the non-plated cutouts), therefore you need to ensure that the manufacturer will recognize them correctly. Some manufacturers automatically detect plated vs. non-plated cutouts by the existence of copper on the top &amp; bottom layers along the cutout path. The DRC will raise a separate warning if this is not the case, but you should check if your manufacturer will follow this convention.
+
+2. The DRC does not yet detect every possible problem with such cutouts, you have to be careful not to accidentally create short-circuits with plated cutouts as the DRC won&apos;t warn you about this.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DrcMsgNonPlatedCutoutWithCopper</name>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="398"/>
+        <source>Non-plated cutout intersects with copper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="402"/>
+        <source>Plated- and non-plated cutouts are exported to the same Gerber file because there is no standardized way to send plated cutouts to manufacturers. Some manufacturers just detect plated vs. non-plated cutouts by the existence of copper along their outline.
+
+This cutout is on the &quot;%1&quot; layer but intersects with copper layers along its outline, therefore this detection might fail, possibly leading to wrong manufacturing. It is recommended to remove any copper along the cutouts outline.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>DrcMsgOpenBoardOutlinePolygon</name>
@@ -1750,37 +1779,52 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgOverlappingDevices</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1088"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1218"/>
         <source>Device overlap: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
         <translation>Накладання пристроїв: &apos;%1&apos; ↔ &apos;%2&apos;.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1092"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1222"/>
         <source>Two devices are overlapping and thus probably cannot be assembled both at the same time.</source>
         <translation>Два пристрої накладаються один на одного і, ймовірно, не можуть бути зібрані одночасно.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1095"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1225"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems (or only one of them gets assembled).</source>
         <translation>Перемістіть пристрої, щоб збільшити проміжок між ними, або схваліть це повідомлення, якщо ви впевнені, що їх можна зібрати без проблем (або збирається лише один з них).</translation>
     </message>
 </context>
 <context>
+    <name>DrcMsgPlatedCutoutWithoutCopper</name>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="347"/>
+        <source>Plated cutout not surrounded by copper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="351"/>
+        <source>Plated- and non-plated cutouts are exported to the same Gerber file because there is no standardized way to send plated cutouts to manufacturers. Some manufacturers just detect plated vs. non-plated cutouts by the existence of copper along their outline.
+
+This cutout is on the &quot;%1&quot; layer but does not have copper on both top &amp; bottom layers along its complete outline, therefore this detection might fail, possibly leading to wrong manufacturing. It is recommended to draw copper along the complete cutout outline.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>DrcMsgSilkscreenClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1663"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1793"/>
         <source>Clearance silkscreen text ↔ stop mask &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Відстань між текстом шовкодруку та стоп-маскою &lt; %1 %2.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1666"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1796"/>
         <source>The clearance between a silkscreen text and a solder resist opening is smaller than the minimum clearance configured in the DRC settings. This could lead to clipped silkscreen during production.</source>
         <translation>Відстань між текстом шовкодруку та відкриттям захисного лаку менша за мінімальну відстань, встановлену в налаштуваннях DRC. Це може призвести до обрізаного шовкодруку під час виробництва.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1671"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1801"/>
         <source>Check the DRC settings and move the text away from the solder resist opening if needed.</source>
         <translation>Перевірте налаштування DRC та, якщо потрібно, віддаліть текст від відкриття захисного лаку.</translation>
     </message>
@@ -1788,7 +1832,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgUnconnectedJunction</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="313"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="443"/>
         <source>Unconnected junction in net: &apos;%1&apos;</source>
         <translation>Нез&apos;єднаний з&apos;єднувальний вузол в мережі: &apos;%1&apos;</translation>
     </message>
@@ -1796,12 +1840,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgUnusedLayer</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1743"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1873"/>
         <source>Unused layer: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1744"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1874"/>
         <source>The layer contains no copper objects (except the automatically generated through-hole annular rings, if any) so it is useless. This is not critical, but if your intention is to flood it with copper, you need to add a plane manually. Or if you don&apos;t need this layer, you might want to reduce the layer count in the board setup dialog to avoid unnecessary production costs. Also some PCB manufacturers might be confused by empty layers.</source>
         <translation type="unfinished"/>
     </message>
@@ -1809,13 +1853,13 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgUselessVia</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1706"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1836"/>
         <source>Useless via in net &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
         <translation>%1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1708"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1838"/>
         <source>The via is connected on less than two layers, thus it seems to be useless.</source>
         <translation>Перехідний отвір з&apos;єднаний менше ніж з двома шарами, тому здається безглуздим.</translation>
     </message>
@@ -1823,12 +1867,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 <context>
     <name>DrcMsgUselessZone</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1690"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1820"/>
         <source>Useless zone</source>
         <translation>Не потрібна зона</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1691"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1821"/>
         <source>The zone has no layer or rule enabled so it is useless.</source>
         <translation>Зона не має активованих шарів або правил, тому вона не потрібна.</translation>
     </message>
@@ -6177,138 +6221,143 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <translation>Перебудова площин...</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="344"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="345"/>
         <source>Finished with %1 message(s)!</source>
         <comment>Count of messages</comment>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="355"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="356"/>
         <source>Prepare &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="377"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="378"/>
         <source>Check copper clearances...</source>
         <translation>Перевірка відстаней міді...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="714"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="715"/>
         <source>Check board clearances...</source>
         <translation>Перевірка відстаней плати...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="877"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="878"/>
         <source>Check hole clearances...</source>
         <translation>Перевірка відстаней отворів...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="934"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="935"/>
         <source>Check drill clearances...</source>
         <translation>Перевірка відстаней свердлованих отворів...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1028"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1029"/>
         <source>Check drill to board edge clearances...</source>
         <translation>Перевірка відстаней від свердлованих отворів до краю плати...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1118"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1119"/>
         <source>Check silkscreen to stopmask clearances...</source>
         <translation>Перевірка відстаней від шовкодруку до стоп-маски...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1202"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1203"/>
         <source>Check copper widths...</source>
         <translation>Перевірка ширин міді...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1219"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1220"/>
         <source>Check PTH annular rings...</source>
         <translation>Перевірка кілець PTH отворів...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1303"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1304"/>
         <source>Check NPTH drill diameters...</source>
         <translation>Перевірка діаметрів NPTH отворів...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1339"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1340"/>
         <source>Check NPTH slot widths...</source>
         <translation>Перевірка ширини NPTH слотів...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1368"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1369"/>
         <source>Check PTH drill diameters...</source>
         <translation>Перевірка діаметрів PTH отворів...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1425"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1426"/>
         <source>Check PTH slot widths...</source>
         <translation>Перевірка ширини PTH слотів...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1471"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1472"/>
         <source>Check silkscreen widths...</source>
         <translation>Перевірка ширини шовкодруку...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1489"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1490"/>
         <source>Check silkscreen text heights...</source>
         <translation>Перевірка висоти тексту шовкодруку...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1510"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1511"/>
         <source>Check keepout zones...</source>
         <translation>Перевірка заборонених зон...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1766"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1767"/>
         <source>Check for useless or disallowed vias...</source>
         <translation>Перевірка на непотрібні або заборонені перехідні отвори...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1799"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1800"/>
         <source>Check for disallowed NPTH slots...</source>
         <translation>Перевірка заборонених NPTH слотів...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1832"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1833"/>
         <source>Check for disallowed PTH slots...</source>
         <translation>Перевірка на заборонені PTH слоти...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1872"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1873"/>
         <source>Check pad connections...</source>
         <translation>Перевірка підключень підкладок...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1917"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1918"/>
         <source>Check device clearances...</source>
         <translation>Перевірка відстаней пристроїв...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1972"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1973"/>
         <source>Check board outline...</source>
         <translation>Перевірка контуру плати...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2048"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2051"/>
+        <source>Check board cutouts...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2180"/>
         <source>Check used layers...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2111"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2243"/>
         <source>Check for unplaced components...</source>
         <translation>Перевірка нерозміщених компонентів...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2122"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2254"/>
         <source>Check for missing connections...</source>
         <translation>Перевірка відсутніх з&apos;єднань...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2169"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2301"/>
         <source>Check for stale objects...</source>
         <translation>Перевірка застарілих об&apos;єктів...</translation>
     </message>
