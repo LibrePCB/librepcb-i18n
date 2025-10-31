@@ -1885,13 +1885,8 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
 <context>
     <name>EagleTypeConverter</name>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagletypeconverter.cpp" line="500"/>
+        <location filename="libs/librepcb/eagleimport/eagletypeconverter.cpp" line="529"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/eagleimport/eagletypeconverter.cpp" line="505"/>
-        <source>Flat line end is not supported, converting to round.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5355,12 +5350,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>Path</name>
     <message>
-        <location filename="libs/librepcb/core/geometry/path.h" line="214"/>
+        <location filename="libs/librepcb/core/geometry/path.h" line="219"/>
         <source>Path doesn&apos;t contain vertices!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/path.h" line="255"/>
+        <location filename="libs/librepcb/core/geometry/path.h" line="260"/>
         <source>Path is not fillable or contains arcs!</source>
         <translation type="unfinished"/>
     </message>
