@@ -6477,12 +6477,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::FileFormatMigrationV1</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="253"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="263"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="335"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="345"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
         <translation type="unfinished"/>
     </message>
@@ -12993,9 +12993,9 @@ Are you still sure to delete the following library elements?</source>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="981"/>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="1021"/>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="1103"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1236"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1324"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1368"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1237"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1325"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1369"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -13864,14 +13864,14 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawTextBase</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="284"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="285"/>
         <source>Add Footprint Text</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="297"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="319"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="333"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="298"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="320"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="334"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>

@@ -6505,12 +6505,12 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
 <context>
     <name>librepcb::FileFormatMigrationV1</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="253"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="263"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings.</source>
         <translation>Špeciálne dialógové okno generátora Gerber/Excellon bolo odstránené v z dôvodu prítomnosti úloh generovania výstupov. Zodpovedajúce nastavenia výstupu budú z dosiek odstránené v nadchádzajúcom vydaní. Odporúča sa pridať výstupnú úlohu Gerber/Excellon už teraz, čo umožní migrovať staré nastavenia exportu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="335"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="345"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
         <translation>Projekt má nastavené vlastné atribúty pre export zoznamu súčiastok (%1). Ale v LibrePCB 2.0 bol manuálny export kusovníka odstránený z dôvodu prítomnosti výkonnejšej funkcie generovania výstupných úloh. Na generovanie zoznamu materiálu teraz použite úlohy generovania výstupov. Ak pridáte novú výstupnú úlohu tvorby zoznamu súčiastok, tieto vlastné atribúty budú automaticky importované.</translation>
     </message>
@@ -13064,9 +13064,9 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="981"/>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="1021"/>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="1103"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1236"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1324"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1368"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1237"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1325"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1369"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -13938,14 +13938,14 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawTextBase</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="284"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="285"/>
         <source>Add Footprint Text</source>
         <translation>Pridať text do puzdra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="297"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="319"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="333"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="298"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="320"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="334"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
