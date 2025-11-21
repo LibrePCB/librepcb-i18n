@@ -12129,8 +12129,8 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="244"/>
-        <source>The internal libraries database is beeing updated. This may take a few minutes and in the mean time you might see outdated information about libraries.</source>
-        <translation>Interná databáza knižníc sa aktualizuje. Môže to trvať niekoľko minút a medzitým sa môžu zobraziť neaktuálne informácie o knižniciach.</translation>
+        <source>The internal libraries database is being updated. This may take a few minutes and in the mean time you might see outdated information about libraries.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="260"/>
