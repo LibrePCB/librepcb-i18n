@@ -10089,7 +10089,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::CmdSimplifySchematicNetSegments</name>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdsimplifyschematicnetsegments.cpp" line="53"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdsimplifyschematicnetsegments.cpp" line="54"/>
         <source>Simplify Schematic Net Segments</source>
         <translation>Zjednodušiť segmenty prepojenia schémy</translation>
     </message>

@@ -10053,7 +10053,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdSimplifySchematicNetSegments</name>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdsimplifyschematicnetsegments.cpp" line="53"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdsimplifyschematicnetsegments.cpp" line="54"/>
         <source>Simplify Schematic Net Segments</source>
         <translation type="unfinished"/>
     </message>
