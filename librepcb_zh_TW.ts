@@ -2621,7 +2621,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="776"/>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1799"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1812"/>
         <source>Lock Placement</source>
         <translation type="unfinished"/>
     </message>
@@ -2711,1088 +2711,1088 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <translation>增加縮放等級</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="861"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="864"/>
         <source>Zoom Out</source>
         <translation>縮小</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="862"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="865"/>
         <source>Decrease the zoom level</source>
         <translation>減少縮放等級</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="870"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="873"/>
         <source>Increase Grid Interval</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="871"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="874"/>
         <source>Increase the grid interval</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="879"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="887"/>
         <source>Decrease Grid Interval</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="880"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="888"/>
         <source>Decrease the grid interval</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="888"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="901"/>
         <source>Show Pin Numbers</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="889"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="902"/>
         <source>Show or hide symbol pin numbers</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="897"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="910"/>
         <source>Ignore Placement Locks</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="898"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="911"/>
         <source>Allow dragging locked items</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="906"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="919"/>
         <source>Set/Unset Background Image</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="907"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="920"/>
         <source>Use a datasheet drawing as the background for verification</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="915"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="928"/>
         <source>Toggle 2D/3D Mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="916"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="929"/>
         <source>Switch between 2D and 3D viewer mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="923"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="936"/>
         <source>Tools</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="927"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="940"/>
         <source>Select</source>
         <translation>選取</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="928"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="941"/>
         <source>Select &amp; modify existing objects</source>
         <translation>選取並編輯物件</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="936"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="949"/>
         <source>Draw Line</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="937"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="950"/>
         <source>Draw graphical lines</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="945"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="958"/>
         <source>Draw Rectangle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="946"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="959"/>
         <source>Draw graphical rectangles</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="954"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="967"/>
         <source>Draw Polygon</source>
         <translation>繪製多邊形</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="955"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="968"/>
         <source>Draw graphical polygons</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="963"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="976"/>
         <source>Draw Circle</source>
         <translation>繪製圓形</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="964"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="977"/>
         <source>Draw graphical circles</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="972"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="985"/>
         <source>Draw Arc</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="973"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="986"/>
         <source>Draw graphical arcs</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="981"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="994"/>
         <source>Add Text</source>
         <translation>加入文字</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="982"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="995"/>
         <source>Add graphical text objects</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="990"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1003"/>
         <source>Add Name</source>
         <translation>加入名稱</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="991"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1004"/>
         <source>Add graphical text objects for &apos;{{NAME}}&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="999"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1012"/>
         <source>Add Value</source>
         <translation>加入數值</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1000"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1013"/>
         <source>Add graphical text objects for &apos;{{VALUE}}&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1008"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1021"/>
         <source>Add Image</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1009"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1022"/>
         <source>Add graphical image objects (e.g. a logo)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1017"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1030"/>
         <source>Add Pin</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1018"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1031"/>
         <source>Add symbol pins (electrical connections for schematics)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1026"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1039"/>
         <source>Add THT Pad</source>
         <translation>加入 THT 焊墊</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1027"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1040"/>
         <source>Add plated through-hole copper pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1035"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1048"/>
         <source>Add SMT Pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1036"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1049"/>
         <source>Add surface mounted (single layer) copper pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1044"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1057"/>
         <source>Add Thermal Pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1045"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1058"/>
         <source>Add special SMT pads used as heat sink</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1053"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1066"/>
         <source>Add BGA Pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1054"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1067"/>
         <source>Add special SMT pads used for ball grid arrays</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1062"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1075"/>
         <source>Add Edge Connector Pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1063"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1076"/>
         <source>Add special SMT pads used as edge connector</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1071"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1084"/>
         <source>Add Test Pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1072"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1085"/>
         <source>Add special SMT pads used as test points</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1080"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1093"/>
         <source>Add Local Fiducial Pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1081"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1094"/>
         <source>Add special SMT pads used as local fiducials</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1089"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1102"/>
         <source>Add Global Fiducial Pad</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1090"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1103"/>
         <source>Add special SMT pads used as global fiducials</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1098"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1111"/>
         <source>Draw Keepout Zone</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1099"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1112"/>
         <source>Draw keep-out zones</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1107"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1120"/>
         <source>Add Hole</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1108"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1121"/>
         <source>Add non-plated holes (NPTH drills)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1116"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1129"/>
         <source>Draw Wire</source>
         <translation>繪製導線</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1117"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1130"/>
         <source>Draw wires to create electrical connections between symbol pins</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1126"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1139"/>
         <source>Add Net Label</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1127"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1140"/>
         <source>Add net labels to explicitly specify the net of wires</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1135"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1148"/>
         <source>Add Component</source>
         <translation>加入元件</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1136"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1149"/>
         <source>Insert components from the workspace libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1144"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1157"/>
         <source>Draw Trace</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1145"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1158"/>
         <source>Draw copper traces to interconnect devices</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1153"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1166"/>
         <source>Add Via</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1154"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1167"/>
         <source>Add plated through-hole vias</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1162"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1175"/>
         <source>Draw Plane</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1163"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1176"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1171"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1184"/>
         <source>Generate Outline</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1172"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1185"/>
         <source>Automatically generate the outline polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1180"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1193"/>
         <source>Generate Courtyard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1181"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1194"/>
         <source>Automatically generate the courtyard polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1189"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1202"/>
         <source>Re-Number Pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1190"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1203"/>
         <source>Helper tool to interactively change pad numbers</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1198"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1211"/>
         <source>Measure Distance</source>
         <translation>測量距離</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1199"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1212"/>
         <source>Measure the distance between two points</source>
         <translation>測量兩點之間的距離</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1207"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1220"/>
         <source>Commands</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1210"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1223"/>
         <source>Go To Command Toolbar</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1211"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1224"/>
         <source>Move the focus into the command toolbar</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1219"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1232"/>
         <source>Abort Command</source>
         <translation>終止指令</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1220"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1233"/>
         <source>Abort the currently active command</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1228"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1241"/>
         <source>Layer Up</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1229"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1242"/>
         <source>Switch to the next higher layer (bottom-&gt;top)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1237"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1250"/>
         <source>Layer Down</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1238"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1251"/>
         <source>Switch to the next lower layer (top-&gt;bottom)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1246"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1259"/>
         <source>Increase Line Width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1247"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1260"/>
         <source>Increase the line/trace/stroke/pad width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1255"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1268"/>
         <source>Decrease Line Width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1256"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1269"/>
         <source>Decrease the line/trace/stroke/pad width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1264"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1277"/>
         <source>Increase Size</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1265"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1278"/>
         <source>Increase the via/pad/pin/text size</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1273"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1286"/>
         <source>Decrease Size</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1274"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1287"/>
         <source>Decrease the via/pad/pin/text size</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1282"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1295"/>
         <source>Increase Drill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1283"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1296"/>
         <source>Increase the via/pad/hole drill diameter</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1291"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1304"/>
         <source>Decrease Drill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1292"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1305"/>
         <source>Decrease the via/pad/hole drill diameter</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1300"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1313"/>
         <source>Toggle Auto-Width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1301"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1314"/>
         <source>Toggle the auto-width property state</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1309"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1322"/>
         <source>Toggle Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1310"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1323"/>
         <source>Toggle the fill property state</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1318"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1331"/>
         <source>Toggle Grab Area</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1319"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1332"/>
         <source>Toggle the grab area property state</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1327"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1340"/>
         <source>Align Left</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1328"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1341"/>
         <source>Horizontal alignment: Left</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1336"/>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1363"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1349"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1376"/>
         <source>Align Center</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1337"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1350"/>
         <source>Horizontal alignment: Center</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1345"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1358"/>
         <source>Align Right</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1346"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1359"/>
         <source>Horizontal alignment: Right</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1354"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1367"/>
         <source>Align Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1355"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1368"/>
         <source>Vertical alignment: Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1364"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1377"/>
         <source>Vertical alignment: Center</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1372"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1385"/>
         <source>Align Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1373"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1386"/>
         <source>Vertical alignment: Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1381"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1394"/>
         <source>Horizontal - Vertical</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1382"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1395"/>
         <source>Wire mode: First segment horizontal, second segment vertical</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1391"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1404"/>
         <source>Vertical - Horizontal</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1392"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1405"/>
         <source>Wire mode: First segment vertical, second segment horizontal</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1401"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1414"/>
         <source>90° - 45°</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1402"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1415"/>
         <source>Wire mode: First segment 90°, second segment 45°</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1410"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1423"/>
         <source>45° - 90°</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1411"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1424"/>
         <source>Wire mode: First segment 45°, second segment 90°</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1419"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1432"/>
         <source>Straight</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1420"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1433"/>
         <source>Wire mode: Straight line</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1428"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1441"/>
         <source>Round</source>
         <translation>圓形</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1429"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1442"/>
         <source>Shape: Round</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1437"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1450"/>
         <source>Rounded Rectangle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1438"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1451"/>
         <source>Shape: Rounded Rectangle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1446"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1459"/>
         <source>Rectangle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1447"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1460"/>
         <source>Shape: Rectangle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1455"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1468"/>
         <source>Octagon</source>
         <translation>八邊形</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1456"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1469"/>
         <source>Shape: Octagon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1464"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1477"/>
         <source>Components</source>
         <translation>元件</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1467"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1480"/>
         <source>Resistor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1468"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1481"/>
         <source>Add standard component: Resistor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1476"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1489"/>
         <source>Inductor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1477"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1490"/>
         <source>Add standard component: Inductor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1485"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1498"/>
         <source>Bipolar Capacitor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1486"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1499"/>
         <source>Add standard component: Bipolar capacitor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1494"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1507"/>
         <source>Unipolar Capacitor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1495"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1508"/>
         <source>Add standard component: Unipolar capacitor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1503"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1516"/>
         <source>GND Supply</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1504"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1517"/>
         <source>Add standard component: GND supply</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1512"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1525"/>
         <source>VCC Supply</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1513"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1526"/>
         <source>Add standard component: VCC supply</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1520"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1533"/>
         <source>Docks</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1533"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1546"/>
         <source>Electrical Rule Check (ERC)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1534"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1547"/>
         <source>Go to the ERC messages dock</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1542"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1555"/>
         <source>Design Rule Check (DRC)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1543"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1556"/>
         <source>Go to the DRC messages dock</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1551"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1564"/>
         <source>Layers</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1552"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1565"/>
         <source>Go to the layers dock</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1560"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1573"/>
         <source>Place Devices</source>
         <translation>放置裝置</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1561"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1574"/>
         <source>Go to the dock for placing devices</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1569"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1582"/>
         <source>Window Management</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1573"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1586"/>
         <source>Next Tab/Page</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1574"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1587"/>
         <source>Navigate to the next tab or page</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1582"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1595"/>
         <source>Previous Tab/Page</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1583"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1596"/>
         <source>Navigate to the previous tab or page</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1591"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1604"/>
         <source>Close Tab</source>
         <translation>關閉分頁</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1592"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1605"/>
         <source>Close the currently opened tab</source>
         <translation>關閉目前開啟的分頁</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1600"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1613"/>
         <source>Close All Tabs</source>
         <translation>關閉所有分頁</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1601"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1614"/>
         <source>Close all currently opened tabs</source>
         <translation>關閉所有已開啟的分頁</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1609"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1622"/>
         <source>New Window</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1610"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1623"/>
         <source>Open a new window</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1618"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1631"/>
         <source>Close Window</source>
         <translation>關閉視窗</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1619"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1632"/>
         <source>Close this window</source>
         <translation>關閉此視窗</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1627"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1640"/>
         <source>Close Project</source>
         <translation>關閉專案</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1628"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1641"/>
         <source>Close the currently opened project</source>
         <translation>關閉目前已開啟的專案</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1637"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1650"/>
         <source>Close All Projects</source>
         <translation>關閉所有專案</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1638"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1651"/>
         <source>Close all currently opened projects</source>
         <translation>關閉所有已開啟的專案</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1646"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1659"/>
         <source>Quit</source>
         <translation>結束</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1647"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1660"/>
         <source>Close the whole application</source>
         <translation>關閉整個程式</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1654"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1667"/>
         <source>Help</source>
         <translation>求助</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1658"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1671"/>
         <source>About LibrePCB</source>
         <translation>關於 LibrePCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1659"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1672"/>
         <source>Show information about the application</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1667"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1680"/>
         <source>About Qt</source>
         <translation>關於 Qt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1668"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1681"/>
         <source>Show information about Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1676"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1689"/>
         <source>LibrePCB Website</source>
         <translation>LibrePCB 網站</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1677"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1690"/>
         <source>Open the LibrePCB website in the web browser</source>
         <translation>在網頁瀏覽器中開啟 LibrePCB 網站</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1685"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1698"/>
         <source>User Manual &amp;&amp; Tutorials</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1686"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1699"/>
         <source>Open the online user manual in the web browser</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1694"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1707"/>
         <source>Give Feedback &amp;&amp; Get Support</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1695"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1708"/>
         <source>Open the support page in the web browser</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1703"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1716"/>
         <source>Support the LibrePCB Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1704"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1717"/>
         <source>Open the donation page in the web browser</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1712"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1725"/>
         <source>Keyboard Shortcuts Reference</source>
         <translation>鍵盤快速鍵參考</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1713"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1726"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
         <translation>開啟鍵盤快速鍵的參考文件</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1721"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1734"/>
         <source>Context Menu</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1725"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1738"/>
         <source>New Folder</source>
         <translation>新增資料夾</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1726"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1739"/>
         <source>Create a new folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1735"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1748"/>
         <source>Add To Favorites</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1736"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1749"/>
         <source>Add project to favorites</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1745"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1758"/>
         <source>Remove From Favorites</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1746"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1759"/>
         <source>Remove project from favorites</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1754"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1767"/>
         <source>Add Vertex</source>
         <translation>加入頂點</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1755"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1768"/>
         <source>Insert a new vertex into the selected polygon edge</source>
         <translation>插入一個新頂點至選取多邊形的一個邊上</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1763"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1776"/>
         <source>Remove Vertex</source>
         <translation>移除頂點</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1764"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1777"/>
         <source>Remove the selected vertex from the polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1772"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1785"/>
         <source>Select Whole Trace</source>
         <translation>選取整條走線</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1773"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1786"/>
         <source>Select the whole trace</source>
         <translation>選取一整條走線</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1781"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1794"/>
         <source>Measure Selected Segments Length</source>
         <translation>測量選擇的線段長度</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1782"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1795"/>
         <source>Measure the total length of all selected trace segments</source>
         <translation>測量所選擇線段的總長度</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1790"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1803"/>
         <source>Remove Whole Trace</source>
         <translation>移除整條走線</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1791"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1804"/>
         <source>Remove the whole trace</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1800"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1813"/>
         <source>Toggle placement lock</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1808"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1821"/>
         <source>Visible</source>
         <translation>可見的</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1809"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1822"/>
         <source>Toggle visibility</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1817"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1830"/>
         <source>Copy MPN to Clipboard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1818"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1831"/>
         <source>Copy this MPN into the clipboard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1826"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1839"/>
         <source>Open Product Website</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1827"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1840"/>
         <source>Open product details about this part in the web browser</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1835"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1848"/>
         <source>Open Pricing Website</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1836"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1849"/>
         <source>Open pricing details about this part in the web browser</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1845"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1858"/>
         <source>Generate Content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1846"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1859"/>
         <source>Various helper tools to generate or modify objects</source>
         <translation type="unfinished"/>
     </message>
@@ -17858,12 +17858,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::HomePanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="225"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="224"/>
         <source>Quick Access</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="245"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="244"/>
         <source>Workspace Projects</source>
         <translation type="unfinished"/>
     </message>
@@ -19166,32 +19166,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::QuickAccessListView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="62"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="61"/>
         <source>Open the project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="72"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="71"/>
         <source>Pin to Quick Access</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="72"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="71"/>
         <source>Unpin from Quick Access</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="75"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="74"/>
         <source>Pin/unpin the project to the quick access</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="86"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="85"/>
         <source>Remove From Quick Access</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="88"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="87"/>
         <source>Remove the project from the quick access list</source>
         <translation type="unfinished"/>
     </message>
@@ -19509,37 +19509,37 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::WorkspaceFolderTreeView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="139"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="138"/>
         <source>Open the file or project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="149"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="148"/>
         <source>New Folder</source>
         <translation>新增資料夾</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="151"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="150"/>
         <source>Create a new folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="171"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="170"/>
         <source>Pin to Quick Access</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="171"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="170"/>
         <source>Unpin from Quick Access</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="174"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="173"/>
         <source>Pin/unpin the project to the quick access</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="187"/>
+        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="186"/>
         <source>Remove the file or directory from the file system</source>
         <translation type="unfinished"/>
     </message>
