@@ -12536,22 +12536,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
 <context>
     <name>librepcb::editor::KeySequencesEditorWidget</name>
     <message>
-        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="123"/>
+        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="131"/>
         <source>Remove this shortcut</source>
         <translation>移除此快速鍵</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="135"/>
+        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="143"/>
         <source>Restore default shortcut(s)</source>
         <translation>還原預設快速鍵</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="154"/>
+        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="162"/>
         <source>Apply</source>
         <translation>套用</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="161"/>
+        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="169"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>

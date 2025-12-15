@@ -12599,22 +12599,22 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
 <context>
     <name>librepcb::editor::KeySequencesEditorWidget</name>
     <message>
-        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="123"/>
+        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="131"/>
         <source>Remove this shortcut</source>
         <translation>Odstrániť túto klávesovú skratku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="135"/>
+        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="143"/>
         <source>Restore default shortcut(s)</source>
         <translation>Obnoviť predvolené klávesové skratky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="154"/>
+        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="162"/>
         <source>Apply</source>
         <translation>Použiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="161"/>
+        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="169"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>

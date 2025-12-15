@@ -12559,22 +12559,22 @@ Pozor: Zakřivené drážky nejsou v režimu G85 podporovány (vyvolá chybu).</
 <context>
     <name>librepcb::editor::KeySequencesEditorWidget</name>
     <message>
-        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="123"/>
+        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="131"/>
         <source>Remove this shortcut</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="135"/>
+        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="143"/>
         <source>Restore default shortcut(s)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="154"/>
+        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="162"/>
         <source>Apply</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="161"/>
+        <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="169"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
