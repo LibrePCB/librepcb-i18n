@@ -12373,68 +12373,73 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation>Сканирование библиотек не удалось</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="334"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="262"/>
+        <source>Clear Cache</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="337"/>
         <source>Workspace changed</source>
         <translation>Рабочее пространство изменено</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="335"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="338"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation>Выбранное рабочее пространство будет использоваться после перезапуска приложения.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="349"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="352"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
         <translation>Это загружает несколько примеров проектов из Интернета и копирует их в рабочее пространство, чтобы помочь вам оценить LibrePCB с реальными проектами.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="353"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="356"/>
         <source>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</source>
         <translation>Когда они вам больше не понадобятся, просто удалите каталог примеров, чтобы избавиться от них.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="356"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="359"/>
         <source>Add Example Projects</source>
         <translation>Добавить примеры проектов</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="397"/>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="527"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="400"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="530"/>
         <source>Restore autosave backup?</source>
         <translation>Восстановить резервную копию из авто-сохранения?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="398"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="401"/>
         <source>It seems that the application crashed the last time you opened this library. Do you want to restore the last autosave backup?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="432"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="435"/>
         <source>Failed to open library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="480"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="483"/>
         <source>Could not create project</source>
         <translation>Не удалось создать проект</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="494"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="497"/>
         <source>Open Project</source>
         <translation>Открыть проект</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="495"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="498"/>
         <source>LibrePCB project files (%1)</source>
         <translation>Файлы проекта LibrePCB (%1)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="528"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="531"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>Похоже, произошел сбой приложения при прошлом открытии этого проекта. Хотите ли вы восстановить последнюю автоматически сохранённую резервную копию?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="591"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="594"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -13183,8 +13188,8 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="345"/>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="354"/>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="518"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1034"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1085"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1035"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1086"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -13209,32 +13214,32 @@ Do you want to save them before closing it?</source>
         <translation>Неизвестный</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="975"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="976"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation>Вы уверены что хотите переместить эти элементы в библиотеку &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="980"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="981"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="993"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="994"/>
         <source>Note: This operation cannot be easily undone, except by opening the destination library and moving the library elements back the same way.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="999"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1000"/>
         <source>Important: This operation copies the selected library elements while retaining their UUIDs, so they must not be modified to represent a different part afterwards. The main purpose of this operation is to override library elements from a read-only library with minor adjustments, which is only possible in local, writable libraries.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1009"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1010"/>
         <source>Move %1 Elements</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1059"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1060"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -13243,12 +13248,12 @@ Are you still sure to delete the following library elements?</source>
 Вы по прежнему хотите удалить эти элементы библиотеки?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1072"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1073"/>
         <source>This cannot be undone!</source>
         <translation>Это не может быть отменено!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1076"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1077"/>
         <source>Remove %1 Elements</source>
         <translation type="unfinished"/>
     </message>
