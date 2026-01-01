@@ -19823,12 +19823,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::TreeView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/treeview.slint" line="139"/>
+        <location filename="libs/librepcb/editor/ui/widgets/treeview.slint" line="143"/>
         <source>Pin</source>
         <translation>Вывод</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/treeview.slint" line="139"/>
+        <location filename="libs/librepcb/editor/ui/widgets/treeview.slint" line="143"/>
         <source>Unpin</source>
         <translation>Развернуть</translation>
     </message>
@@ -19870,12 +19870,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::WindowSection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="200"/>
+        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="204"/>
         <source>Split Section</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="213"/>
+        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="217"/>
         <source>Close Section</source>
         <translation type="unfinished"/>
     </message>
