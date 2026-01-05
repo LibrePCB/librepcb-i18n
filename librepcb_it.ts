@@ -4572,14 +4572,27 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     </message>
 </context>
 <context>
+    <name>MsgAmbiguousFootprintTags</name>
+    <message>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="41"/>
+        <source>Ambiguous footprint tags</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="42"/>
+        <source>The package provides multiple footprints, but they don&apos;t specify (enough) tags to make them uniquely identifiable just by their tags. This is not a problem at all, but adding unique tags to the footprints would make the automatic footprint selection of the board editor more sophisticated.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>MsgDeprecatedAssemblyType</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="40"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="55"/>
         <source>Non-recommended assembly type</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="41"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="56"/>
         <source>The assembly type &apos;Auto-detect&apos; is not recommended as the detection might not be correct in every case. It&apos;s safer to specify the assembly type manually.</source>
         <translation type="unfinished"/>
     </message>
@@ -4602,12 +4615,12 @@ If this device doesn&apos;t represent an orderable part, just ignore this messag
 <context>
     <name>MsgDuplicatePadName</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="66"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="81"/>
         <source>Duplicate pad name: &apos;%1&apos;</source>
         <translation>Nome pad duplicato: &apos;% 1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="67"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="82"/>
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
@@ -4644,12 +4657,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
 <context>
     <name>MsgFiducialClearanceLessThanStopMask</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="87"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="102"/>
         <source>Small copper clearance on fiducial in &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="89"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="104"/>
         <source>The copper clearance of the fiducial pad is less than its stop mask expansion, which is unusual. Typically the copper clearance should be equal to or greater than the stop mask expansion to avoid copper located within the stop mask opening.</source>
         <translation type="unfinished"/>
     </message>
@@ -4657,12 +4670,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
 <context>
     <name>MsgFiducialStopMaskNotSet</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="112"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="127"/>
         <source>Stop mask not set on fiducial in &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="114"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="129"/>
         <source>The stop mask expansion of the fiducial pad is set to automatic, which is unusual. Typically the stop mask expansion of fiducials need to be manually set to a much larger value.</source>
         <translation type="unfinished"/>
     </message>
@@ -4670,12 +4683,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
 <context>
     <name>MsgFootprintOriginNotInCenter</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="409"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="424"/>
         <source>Origin of &apos;%1&apos; not in center</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="411"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="426"/>
         <source>Generally the origin (0, 0) should be at the coordinate used for pick&amp;place which is typically in the center of the package body. It should even be (more or less) &lt;b&gt;exactly&lt;/b&gt; in the center, not aligned to a grid (off-grid pads are fine).
 
 It looks like this rule is not followed in this footprint. However, for irregular package shapes or other special cases this warning may not be justified. In such cases, just approve it.</source>
@@ -4685,13 +4698,13 @@ It looks like this rule is not followed in this footprint. However, for irregula
 <context>
     <name>MsgHoleWithoutStopMask</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="136"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="151"/>
         <source>No stop mask on %1 hole in &apos;%2&apos;</source>
         <comment>First placeholder is the hole diameter.</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="140"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="155"/>
         <source>Non-plated holes should have a stop mask opening to avoid solder resist flowing into the hole. An automatic stop mask opening can be enabled in the hole properties.</source>
         <translation type="unfinished"/>
     </message>
@@ -4699,12 +4712,12 @@ It looks like this rule is not followed in this footprint. However, for irregula
 <context>
     <name>MsgInvalidCustomPadOutline</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="162"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="177"/>
         <source>Invalid custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="164"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="179"/>
         <source>The pad has set a custom outline which does not represent a valid area. Either choose a different pad shape or specify a valid custom outline.</source>
         <translation type="unfinished"/>
     </message>
@@ -4740,12 +4753,12 @@ It looks like this rule is not followed in this footprint. However, for irregula
 <context>
     <name>MsgInvalidPadConnection</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="186"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="201"/>
         <source>Invalid pad connection in &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="188"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="203"/>
         <source>A footprint pad is connected to a package pad which doesn&apos;t exist. Check all pads for proper connections.</source>
         <translation type="unfinished"/>
     </message>
@@ -4753,27 +4766,27 @@ It looks like this rule is not followed in this footprint. However, for irregula
 <context>
     <name>MsgMinimumWidthViolation</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="209"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="224"/>
         <source>It is recommended that polygons on layer &apos;%1&apos; have a line width of at least %2.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="229"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="244"/>
         <source>It is recommended that circles on layer &apos;%1&apos; have a line width of at least %2.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="249"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="264"/>
         <source>It is recommended that stroke texts on layer &apos;%1&apos; have a stroke width of at least %2.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="266"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="281"/>
         <source>Minimum width of &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="272"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="287"/>
         <source>Otherwise it could lead to manufacturing problems in some cases (depending on board settings and/or the capabilities of the PCB manufacturer).</source>
         <translation type="unfinished"/>
     </message>
@@ -4838,17 +4851,17 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>MsgMissingCourtyard</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="286"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="301"/>
         <source>Missing courtyard in footprint &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="288"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="303"/>
         <source>It is recommended to draw the package courtyard with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if another device is placed within the courtyard of this device (i.e. too close).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="294"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="309"/>
         <source>Often this is identical to the package outline but with a small offset. If you&apos;re unsure, just ignore this message.</source>
         <translation type="unfinished"/>
     </message>
@@ -4856,12 +4869,12 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>MsgMissingFootprint</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="309"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="324"/>
         <source>No footprint defined</source>
         <translation>Nessuna impronta definita</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="310"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="325"/>
         <source>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</source>
         <translation>Ogni pacchetto deve avere almeno un&apos;impronta, altrimenti non può essere aggiunto a una bacheca.</translation>
     </message>
@@ -4869,12 +4882,12 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>MsgMissingFootprintModel</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="323"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="338"/>
         <source>No 3D model defined for &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="325"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="340"/>
         <source>The footprint has no 3D model specified, so the package will be missing in the 3D viewer and in 3D data exports. However, this has no impact on the PCB production data.</source>
         <translation type="unfinished"/>
     </message>
@@ -4882,12 +4895,12 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>MsgMissingFootprintName</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="343"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="358"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
         <translation>Testo mancante &apos;%1&apos; nel footprint &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="345"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="360"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
         <translation type="unfinished"/>
     </message>
@@ -4895,12 +4908,12 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>MsgMissingFootprintValue</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="365"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="380"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
         <translation>Testo mancante &apos;%1&apos; nel footprint &apos;%2&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="367"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="382"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
         <translation type="unfinished"/>
     </message>
@@ -4908,12 +4921,12 @@ Passive parts: Using an attribute, e.g. %3</source>
 <context>
     <name>MsgMissingPackageOutline</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="387"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="402"/>
         <source>Missing outline in footprint &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="389"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="404"/>
         <source>It is recommended to draw the package outline with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if this device is placed within the courtyard of another device (i.e. too close).</source>
         <translation type="unfinished"/>
     </message>
@@ -5048,12 +5061,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
 <context>
     <name>MsgOverlappingPads</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="434"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="449"/>
         <source>Overlapping pads &apos;%1&apos; and &apos;%2&apos; in &apos;%3&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="437"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="452"/>
         <source>The copper area of two pads overlap. This can lead to serious issues with the design rule check and probably leads to a short circuit in the board so this really needs to be fixed.</source>
         <translation type="unfinished"/>
     </message>
@@ -5074,12 +5087,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
 <context>
     <name>MsgPadAnnularRingViolation</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="456"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="471"/>
         <source>Annular ring of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="458"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="473"/>
         <source>Pads should have at least %1 annular ring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</source>
         <translation type="unfinished"/>
     </message>
@@ -5087,12 +5100,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
 <context>
     <name>MsgPadClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="483"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="498"/>
         <source>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="486"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="501"/>
         <source>Pads must have at least %1 clearance between each other, as configured in the package. Either increase the clearance between those pads, or reduce the configured minimum clearance value if you are sure the PCB manufacturer can reliably handle it.</source>
         <translation type="unfinished"/>
     </message>
@@ -5100,12 +5113,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
 <context>
     <name>MsgPadHoleOutsideCopper</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="513"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="528"/>
         <source>Hole outside copper of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="515"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="530"/>
         <source>All THT pad holes must be fully surrounded by copper, otherwise they could lead to serious issues during the design rule check or manufacturing process.</source>
         <translation type="unfinished"/>
     </message>
@@ -5113,12 +5126,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
 <context>
     <name>MsgPadOriginOutsideCopper</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="537"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="552"/>
         <source>Invalid origin of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="539"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="554"/>
         <source>The origin of each pad must be located within its copper area, otherwise traces won't be connected properly.
 
 For THT pads, the origin must be located within a drill hole since on some layers the pad might only have a small annular ring instead of the full pad shape.</source>
@@ -5128,12 +5141,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgPadOverlapsWithLegend</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="564"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="579"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to legend</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="566"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="581"/>
         <source>Pads should have at least %1 clearance to drawings on the legend because these drawings would be cropped during the Gerber export when used as silkscreen.</source>
         <translation type="unfinished"/>
     </message>
@@ -5141,12 +5154,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgPadStopMaskOff</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="589"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="604"/>
         <source>Solder resist on pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="591"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="606"/>
         <source>There&apos;s no stop mask opening enabled on the pad, so the copper pad will be covered by solder resist and is thus not functional. This is very unusual, you should double-check if this is really what you want.</source>
         <translation type="unfinished"/>
     </message>
@@ -5154,12 +5167,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgPadWithCopperClearance</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="614"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="629"/>
         <source>Copper clearance &gt;0 on pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="616"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="631"/>
         <source>There is a custom copper clearance enabled on the pad, which is unusual for pads which do not represent a fiducial. Note that the clearance value from the board design rules is applied to all pads anyway, thus manual clearance values are usually not needed. If this pad is a fiducial, make sure to set its function to the corresponding value.</source>
         <translation type="unfinished"/>
     </message>
@@ -5167,12 +5180,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgSmtPadWithSolderPaste</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="641"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="656"/>
         <source>Solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="643"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="658"/>
         <source>The SMT pad has solder paste enabled, but its function indicates that there&apos;s no lead to be soldered on it (e.g. a fiducial). Usually solder paste is not desired on such special pads which won&apos;t be soldered.</source>
         <translation type="unfinished"/>
     </message>
@@ -5180,12 +5193,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgSmtPadWithoutSolderPaste</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="666"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="681"/>
         <source>No solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="668"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="683"/>
         <source>The SMT pad has no solder paste enabled, which is unusual since without solder paste the pad cannot be reflow soldered. Only use this if there&apos;s no lead to be soldered on that pad, or if you have drawn a manual solder paste area.</source>
         <translation type="unfinished"/>
     </message>
@@ -5193,12 +5206,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
 <context>
     <name>MsgSuspiciousAssemblyType</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="53"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="68"/>
         <source>Suspicious assembly type</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="54"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="69"/>
         <source>The specified assembly type differs from the assembly type which is auto-detected from the footprint contents. Double-check if the specified assembly type is really correct.</source>
         <translation type="unfinished"/>
     </message>
@@ -5221,12 +5234,12 @@ Please consult the user manual to ensure this is what you want. If you&apos;re u
 <context>
     <name>MsgSuspiciousPadFunction</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="691"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="706"/>
         <source>Suspicious function of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="693"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="708"/>
         <source>The configured pad function does not match other properties of the pad and thus looks suspicious. Possible reasons:
 
  - Function is intended for THT pads but pad is SMT
@@ -5267,12 +5280,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>MsgThtPadWithSolderPaste</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="718"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="733"/>
         <source>Solder paste on THT pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="720"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="735"/>
         <source>The THT pad has solder paste enabled, which is very unusual since through-hole components are usually not reflow soldered. Also the solder paste could flow into the pads hole, possibly causing troubles during THT assembly. Double-check if this is really what you want.</source>
         <translation type="unfinished"/>
     </message>
@@ -5280,17 +5293,17 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>MsgUnspecifiedPadFunction</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="744"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="759"/>
         <source>Unspecified function of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="746"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="761"/>
         <source>The function of the pad is not specified, which could lead to inaccurate or wrong data in exports (e.g. pick&amp;place files). Also the automatic checks can detect more potential issues if the function is specified. Thus it&apos;s recommended to explicitly specify the function of each pad.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="752"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="767"/>
         <source>However, the image data of a PCB is not affected by the pad function.</source>
         <translation type="unfinished"/>
     </message>
@@ -5298,12 +5311,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>MsgUnusedCustomPadOutline</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="773"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="788"/>
         <source>Unused custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="775"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="790"/>
         <source>The pad has set a custom outline but it isn&apos;t used as the shape. So it has no effect and should be removed to avoid confusion.</source>
         <translation type="unfinished"/>
     </message>
@@ -5311,12 +5324,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>MsgUselessZone</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="795"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="810"/>
         <source>Useless keepout zone in &apos;%2&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="797"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="812"/>
         <source>The keepout zone has no layer or rule enabled so it has no effect. Either correct its properties or remove it from the footprint.</source>
         <translation type="unfinished"/>
     </message>
@@ -5324,12 +5337,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>MsgWrongFootprintTextLayer</name>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="818"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="833"/>
         <source>Layer of &apos;%1&apos; in &apos;%2&apos; is not &apos;%3&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="821"/>
+        <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="836"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
         <translation type="unfinished"/>
     </message>
@@ -5723,6 +5736,14 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/systeminfo.cpp" line="374"/>
         <source>Could not determine the process name of another process.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Tag</name>
+    <message>
+        <location filename="libs/librepcb/core/types/tag.h" line="53"/>
+        <source>Invalid tag: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6564,12 +6585,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::FileFormatMigrationV1</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="268"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="292"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings (choose &quot;Import Old Settings&quot;).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="351"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="375"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
         <translation type="unfinished"/>
     </message>
@@ -7539,72 +7560,72 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1343"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1350"/>
         <source>Auto</source>
         <translation>Auto</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1345"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1383"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1675"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1352"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1390"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1682"/>
         <source>None</source>
         <translation>Nessuno</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2299"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2327"/>
         <source>Add devices to board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2327"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2379"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2410"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2464"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2355"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2407"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2438"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2492"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2345"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2373"/>
         <source>Preparing board...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2345"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2373"/>
         <source>Cancel</source>
         <translation>Cancella</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2398"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2426"/>
         <source>Export IPC D-356A Netlist</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2462"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2490"/>
         <source>Success!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2471"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2499"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2509"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2537"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2518"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2546"/>
         <source>Import failed, no changes made to the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2523"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2551"/>
         <source>Specctra SES Import</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2533"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2561"/>
         <source>Close</source>
         <translation>Chiudi</translation>
     </message>
@@ -7668,42 +7689,42 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditor</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="227"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="316"/>
         <source>Running Quick Check</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="227"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="316"/>
         <source>Running Design Rule Check</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="282"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="371"/>
         <source>Export STEP Model</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="307"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="396"/>
         <source>STEP Export Failure</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="322"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="411"/>
         <source>This feature is not available because there is no API server configured in your workspace settings.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="349"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="438"/>
         <source>Success! Please continue in the web browser:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="436"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="525"/>
         <source>Uploading project...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="518"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="685"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -11328,12 +11349,12 @@ Warning: This cannot be undone!</source>
 <context>
     <name>librepcb::editor::FootprintListModel</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="98"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="100"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="311"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="347"/>
         <source>There is already a footprint with the name &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
@@ -18186,6 +18207,29 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
     </message>
 </context>
 <context>
+    <name>ui::IpcDensityLevelSelector</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/widgets/ipcdensitylevelselector.slint" line="30"/>
+        <source>IPC Density Level A (max protrusion)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/widgets/ipcdensitylevelselector.slint" line="32"/>
+        <source>IPC Density Level B (medium protrusion)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/widgets/ipcdensitylevelselector.slint" line="34"/>
+        <source>IPC Density Level C (min protrusion)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/widgets/ipcdensitylevelselector.slint" line="36"/>
+        <source>No density level preference</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ui::KeywordsRowHeader</name>
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="82"/>
@@ -19139,28 +19183,41 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>ui::PackageEditorTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="740"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="741"/>
         <source>Helper Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="855"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="856"/>
         <source>Devices</source>
         <translation>Dispositivi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="868"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="869"/>
         <source>Solder Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="881"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="882"/>
         <source>Silkscreen</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="894"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="895"/>
         <source>Solder Resist</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ui::PackageEditorTagsPanel</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditortagspanel.slint" line="109"/>
+        <source>Type to add a new tag...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditortagspanel.slint" line="84"/>
+        <source>Suggested Tags:</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -19185,42 +19242,42 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>ui::PackagePadsEditorTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="255"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="256"/>
         <source>Add all (potentially solderable) package pads which are electrically independent, no matter if they actually have an electrical function in a particular part.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="256"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="257"/>
         <source>For example, a thermal pad should be listed here, even though it may not have an electrical function.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="257"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="258"/>
         <source>Once the package is finished, it is *not* possible anymore to add or remove pads.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="262"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="263"/>
         <source>Important:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="272"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="273"/>
         <source>Add Pads:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="277"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="278"/>
         <source>Pad name (may contain ranges like \&quot;1..5\&quot;)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="325"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="326"/>
         <source>Finish</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="335"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="336"/>
         <source>Back</source>
         <translation type="unfinished"/>
     </message>
@@ -19228,22 +19285,22 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>ui::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1038"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1049"/>
         <source>Metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1039"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1050"/>
         <source>Pads</source>
         <translation>Piazzole</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1040"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1051"/>
         <source>Footprints</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1041"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1052"/>
         <source>3D Models</source>
         <translation>Modelli 3D</translation>
     </message>
@@ -19342,68 +19399,88 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>ui::PlaceDevicesPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="104"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="101"/>
+        <source>Place Devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="131"/>
+        <source>Settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="162"/>
+        <source>THT Pads:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="191"/>
+        <source>SMT Pads:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="220"/>
+        <source>Density:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="263"/>
         <source>All components from the schematics have been added to the board. To add more components to the board, add them to the schematics first which will make them appearing here for placement.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="137"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="296"/>
         <source>No device or package found</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="151"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="310"/>
         <source>No compatible device was found for the selected component. Please install a library providing a suitable device or create a new device on your own in a local library.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="158"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="317"/>
         <source>More information &amp; device creation guide</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="170"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="329"/>
         <source>I installed all libraries, why I still get this error?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="180"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="339"/>
         <source>Install or Create Libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="235"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="394"/>
         <source>Place Selected Device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="236"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="395"/>
         <source>Interactively place the component with the selected device &amp; footprint on the board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="247"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="406"/>
         <source>Place Similar</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="248"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="407"/>
         <source>Automatically add all components of the same kind to the board, using the currently selected device &amp; footprint</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="256"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="415"/>
         <source>Place All</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="257"/>
+        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="416"/>
         <source>Automatically add all components to the board, guessing their device &amp; footprint (not recommended)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="92"/>
-        <source>Place Devices</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -19654,6 +19731,34 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
     <message>
         <location filename="libs/librepcb/editor/ui/sidebar.slint" line="407"/>
         <source>Help / About</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ui::SolderTechnologySelector</name>
+    <message>
+        <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="32"/>
+        <source>Prefer easy hand-soldering</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="34"/>
+        <source>Prefer hand-soldering</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="36"/>
+        <source>Prefer reflow-soldering</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="38"/>
+        <source>Prefer wave-soldering</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="40"/>
+        <source>No soldering preference</source>
         <translation type="unfinished"/>
     </message>
 </context>
