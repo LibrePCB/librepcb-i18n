@@ -2469,7 +2469,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="615"/>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Modifier</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="619"/>
@@ -5628,7 +5628,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/types/signalrole.h" line="87"/>
         <source>Passive</source>
-        <translation type="unfinished"/>
+        <translation>Passif</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/signalrole.h" line="93"/>
@@ -5782,7 +5782,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="86"/>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="111"/>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Selection</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="87"/>
@@ -5917,7 +5917,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="118"/>
         <source>Zones</source>
-        <translation type="unfinished"/>
+        <translation>Zones</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="119"/>
@@ -6188,7 +6188,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/attribute/attrtypecapacitance.cpp" line="39"/>
         <source>Capacitance</source>
-        <translation type="unfinished"/>
+        <translation>Capacité</translation>
     </message>
 </context>
 <context>
@@ -6212,7 +6212,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/attribute/attrtypeinductance.cpp" line="39"/>
         <source>Inductance</source>
-        <translation type="unfinished"/>
+        <translation>Inductance</translation>
     </message>
 </context>
 <context>
@@ -6236,7 +6236,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/attribute/attrtypestring.cpp" line="37"/>
         <source>String</source>
-        <translation type="unfinished"/>
+        <translation>Chaîne de caractères</translation>
     </message>
 </context>
 <context>
@@ -6948,7 +6948,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="99"/>
         <source>Preparing...</source>
-        <translation type="unfinished"/>
+        <translation>Préparation...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="110"/>
@@ -7325,7 +7325,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="77"/>
         <source>Content:</source>
-        <translation type="unfinished"/>
+        <translation>Contenu :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="126"/>
@@ -7558,7 +7558,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1350"/>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Automatique</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1352"/>
@@ -7653,7 +7653,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="94"/>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="154"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Par défaut</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="104"/>
@@ -8083,7 +8083,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="378"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Verrouiller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="388"/>
@@ -8136,7 +8136,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="539"/>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="605"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Manuel :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="558"/>
@@ -8229,7 +8229,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="61"/>
         <source>Format:</source>
-        <translation type="unfinished"/>
+        <translation>Format :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="73"/>
@@ -8292,7 +8292,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="35"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Couche :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="42"/>
@@ -8332,7 +8332,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="101"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Verrouiller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="110"/>
@@ -8378,7 +8378,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="122"/>
         <source>Solid</source>
-        <translation type="unfinished"/>
+        <translation>Solide</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="230"/>
@@ -8668,7 +8668,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="73"/>
         <source>Default:</source>
-        <translation type="unfinished"/>
+        <translation>Par defaut :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="78"/>
@@ -8783,7 +8783,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="118"/>
         <source>Exposure:</source>
-        <translation type="unfinished"/>
+        <translation>Exposition :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="127"/>
@@ -8808,7 +8808,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="150"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Manuel :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="230"/>
@@ -8863,7 +8863,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="122"/>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="189"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Par défaut</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="132"/>
@@ -8984,7 +8984,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="25"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Couche :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="32"/>
@@ -8994,7 +8994,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="41"/>
         <source>Filled</source>
-        <translation type="unfinished"/>
+        <translation>Rempli</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="48"/>
@@ -10409,7 +10409,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="136"/>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="233"/>
@@ -10678,7 +10678,7 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="132"/>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="199"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Par défaut</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="142"/>
@@ -10721,7 +10721,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="28"/>
         <source>Placement</source>
-        <translation type="unfinished"/>
+        <translation>Placement</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="37"/>
@@ -10756,7 +10756,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="120"/>
         <source>Value:</source>
-        <translation type="unfinished"/>
+        <translation>Valeur :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="149"/>
@@ -10936,7 +10936,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="25"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Couche :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="32"/>
@@ -10978,17 +10978,17 @@ If unchecked, you need to specify exact coordinates where the point (0,0) of the
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="91"/>
         <source>Interactive</source>
-        <translation type="unfinished"/>
+        <translation>Interactif</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="100"/>
         <source>X-coordinate.</source>
-        <translation type="unfinished"/>
+        <translation>Coordonnée X.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="107"/>
         <source>Y-coordinate.</source>
-        <translation type="unfinished"/>
+        <translation>Coordonnée Y.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="116"/>
@@ -11175,7 +11175,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="26"/>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>Préfixe</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="47"/>
@@ -11513,7 +11513,7 @@ Warning: This cannot be undone!</source>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="517"/>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="583"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Manuel :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="536"/>
@@ -11674,7 +11674,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="259"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Par défaut</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="266"/>
@@ -11760,7 +11760,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="124"/>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="191"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Par défaut</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="134"/>
@@ -11799,7 +11799,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="35"/>
         <source>Printer:</source>
-        <translation type="unfinished"/>
+        <translation>Imprimante :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="45"/>
@@ -11814,27 +11814,27 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="81"/>
         <source>Resolution:</source>
-        <translation type="unfinished"/>
+        <translation>Résolution :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="107"/>
         <source>Orientation:</source>
-        <translation type="unfinished"/>
+        <translation>Orientation :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="122"/>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Automatique</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="141"/>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Paysage</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="157"/>
         <source>Portrait</source>
-        <translation type="unfinished"/>
+        <translation>Portrait</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="169"/>
@@ -11869,17 +11869,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="255"/>
         <source>Margins:</source>
-        <translation type="unfinished"/>
+        <translation>Marges :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="314"/>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="323"/>
         <source>Transformation:</source>
-        <translation type="unfinished"/>
+        <translation>Transformation :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="332"/>
@@ -11890,7 +11890,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="339"/>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="508"/>
         <source>Mirror</source>
-        <translation type="unfinished"/>
+        <translation>Miroir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="348"/>
@@ -11900,22 +11900,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="358"/>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Couleurs :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="365"/>
         <source>Black/White</source>
-        <translation type="unfinished"/>
+        <translation>Noir/Blanc</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="378"/>
         <source>Copies:</source>
-        <translation type="unfinished"/>
+        <translation>Copies :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="404"/>
         <source>Content:</source>
-        <translation type="unfinished"/>
+        <translation>Contenu :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="411"/>
@@ -11925,22 +11925,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="419"/>
         <source>Colors</source>
-        <translation type="unfinished"/>
+        <translation>Couleurs</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="454"/>
         <source>Content</source>
-        <translation type="unfinished"/>
+        <translation>Contenu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="503"/>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Page</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="517"/>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Pages</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="526"/>
@@ -12138,27 +12138,27 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="264"/>
         <source>Resolution:</source>
-        <translation type="unfinished"/>
+        <translation>Résolution :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="290"/>
         <source>Orientation:</source>
-        <translation type="unfinished"/>
+        <translation>Orientation :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="308"/>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Automatique</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="327"/>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Paysage</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="343"/>
         <source>Portrait</source>
-        <translation type="unfinished"/>
+        <translation>Portrait</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="355"/>
@@ -12193,17 +12193,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="441"/>
         <source>Margins:</source>
-        <translation type="unfinished"/>
+        <translation>Marges :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="500"/>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="524"/>
         <source>Transformation:</source>
-        <translation type="unfinished"/>
+        <translation>Transformation :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="533"/>
@@ -12213,7 +12213,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="540"/>
         <source>Mirror</source>
-        <translation type="unfinished"/>
+        <translation>Miroir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="549"/>
@@ -12223,12 +12223,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="559"/>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Couleurs :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="566"/>
         <source>Monochrome</source>
-        <translation type="unfinished"/>
+        <translation>Monochrome</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="574"/>
@@ -12405,7 +12405,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="72"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Verrouiller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="85"/>
@@ -12435,7 +12435,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="168"/>
         <source>Length:</source>
-        <translation type="unfinished"/>
+        <translation>Longueur :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="176"/>
@@ -12463,7 +12463,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="34"/>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="43"/>
@@ -12483,7 +12483,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="66"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Manuel :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.cpp" line="159"/>
@@ -12519,7 +12519,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="23"/>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Langage :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="37"/>
@@ -12628,7 +12628,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="106"/>
         <source>Source:</source>
-        <translation type="unfinished"/>
+        <translation>Source :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="144"/>
@@ -12648,7 +12648,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="86"/>
         <source>Error:</source>
-        <translation type="unfinished"/>
+        <translation>Erreur :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="88"/>
@@ -12726,7 +12726,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="122"/>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="189"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Par défaut</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="132"/>
@@ -12768,7 +12768,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/modelview/keyboardshortcutsmodel.cpp" line="182"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Par défaut</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/keyboardshortcutsmodel.cpp" line="252"/>
@@ -12951,7 +12951,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="26"/>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>Préfixe</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="47"/>
@@ -13308,7 +13308,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="38"/>
         <source>Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Mode :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="47"/>
@@ -13323,7 +13323,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="66"/>
         <source>X:</source>
-        <translation type="unfinished"/>
+        <translation>X :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="81"/>
@@ -13333,7 +13333,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="97"/>
         <source>Y:</source>
-        <translation type="unfinished"/>
+        <translation>Y :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="112"/>
@@ -13348,7 +13348,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="155"/>
         <source>ΔX:</source>
-        <translation type="unfinished"/>
+        <translation>ΔX :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="174"/>
@@ -13358,7 +13358,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="187"/>
         <source>ΔY:</source>
-        <translation type="unfinished"/>
+        <translation>ΔY :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="206"/>
@@ -13401,7 +13401,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="105"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Par défaut</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="112"/>
@@ -13500,7 +13500,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="14"/>
         <source>Initialization</source>
-        <translation type="unfinished"/>
+        <translation>Initialisation</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="17"/>
@@ -13561,7 +13561,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="66"/>
         <source>License:</source>
-        <translation type="unfinished"/>
+        <translation>Licence :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="97"/>
@@ -13947,7 +13947,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="449"/>
         <source>(copy)</source>
-        <translation type="unfinished"/>
+        <translation>(copie)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="515"/>
@@ -13998,7 +13998,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="870"/>
         <source>SUCCESS!</source>
-        <translation type="unfinished"/>
+        <translation>SUCCÈS !</translation>
     </message>
 </context>
 <context>
@@ -14501,7 +14501,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/partinformationtooltip.ui" line="194"/>
         <source>Source:</source>
-        <translation type="unfinished"/>
+        <translation>Source :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/partinformationtooltip.cpp" line="134"/>
@@ -14540,7 +14540,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/modelview/pathmodel.cpp" line="198"/>
         <source>Angle</source>
-        <translation type="unfinished"/>
+        <translation>Angle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/pathmodel.cpp" line="200"/>
@@ -14595,7 +14595,7 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="101"/>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="168"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Par défaut</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="111"/>
@@ -14636,7 +14636,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="261"/>
         <source>Technologies:</source>
-        <translation type="unfinished"/>
+        <translation>Technologies :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="270"/>
@@ -14674,7 +14674,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="25"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Couche :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="35"/>
@@ -14699,7 +14699,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="68"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Verrouiller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.cpp" line="154"/>
@@ -14982,12 +14982,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="71"/>
         <source>Created:</source>
-        <translation type="unfinished"/>
+        <translation>Créé(e) :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="86"/>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="111"/>
@@ -15385,22 +15385,22 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="31"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Texte :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="45"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Couche :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="55"/>
         <source>Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>Alignement :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="65"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Hauteur :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="75"/>
@@ -15416,7 +15416,7 @@ Afterwards the project library can be updated.</source>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="97"/>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="118"/>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Automatique</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="106"/>
@@ -15446,12 +15446,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="174"/>
         <source>Mirror</source>
-        <translation type="unfinished"/>
+        <translation>Miroir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="181"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Verrouiller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.cpp" line="203"/>
@@ -15671,12 +15671,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="46"/>
         <source>Component:</source>
-        <translation type="unfinished"/>
+        <translation>Composant :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="78"/>
         <source>Symbol:</source>
-        <translation type="unfinished"/>
+        <translation>Symbole :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="143"/>
@@ -15707,7 +15707,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="193"/>
         <source>Mirror:</source>
-        <translation type="unfinished"/>
+        <translation>Miroir :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="225"/>
@@ -15717,7 +15717,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="244"/>
         <source>Value:</source>
-        <translation type="unfinished"/>
+        <translation>Valeur :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="273"/>
@@ -15785,7 +15785,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="35"/>
         <source>Length:</source>
-        <translation type="unfinished"/>
+        <translation>Longueur :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="47"/>
@@ -15877,22 +15877,22 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="31"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Texte :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="45"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Couche :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="52"/>
         <source>Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>Alignement :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="62"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Hauteur :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="72"/>
@@ -15912,7 +15912,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="111"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Verrouiller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.cpp" line="142"/>
@@ -15992,12 +15992,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="180"/>
         <source>Install...</source>
-        <translation type="unfinished"/>
+        <translation>Installer...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="187"/>
         <source>Uninstall...</source>
-        <translation type="unfinished"/>
+        <translation>Désinstaller...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="212"/>
@@ -16012,7 +16012,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="232"/>
         <source>Appearance</source>
-        <translation type="unfinished"/>
+        <translation>Apparence</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="241"/>
@@ -16079,7 +16079,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="531"/>
         <source>Themes</source>
-        <translation type="unfinished"/>
+        <translation>Thèmes</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="548"/>
@@ -16119,7 +16119,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="705"/>
         <source>Objects</source>
-        <translation type="unfinished"/>
+        <translation>Objets</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="718"/>
@@ -16219,13 +16219,13 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="279"/>
         <source>Dots</source>
         <comment>Grid style</comment>
-        <translation type="unfinished"/>
+        <translation>Points</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="281"/>
         <source>Lines</source>
         <comment>Grid style</comment>
-        <translation type="unfinished"/>
+        <translation>Lignes</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="285"/>
@@ -16257,7 +16257,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="480"/>
         <source>Example:</source>
-        <translation type="unfinished"/>
+        <translation>Exemple :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="507"/>
@@ -16302,7 +16302,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="622"/>
         <source>Installed</source>
-        <translation type="unfinished"/>
+        <translation>Installé</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="627"/>
@@ -16370,12 +16370,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="91"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="109"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Verrouiller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="121"/>
@@ -16576,7 +16576,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="242"/>
         <source>License</source>
-        <translation type="unfinished"/>
+        <translation>Licence</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="253"/>
@@ -17408,7 +17408,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="110"/>
         <source>Examples:</source>
-        <translation type="unfinished"/>
+        <translation>Exemples :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="133"/>
@@ -17438,7 +17438,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="221"/>
         <source>License:</source>
-        <translation type="unfinished"/>
+        <translation>Licence :</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="231"/>
@@ -19358,7 +19358,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/partlistview.slint" line="198"/>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Attributs</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/partlistview.slint" line="76"/>
