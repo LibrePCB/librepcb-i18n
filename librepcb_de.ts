@@ -2148,7 +2148,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="312"/>
         <source>New Sheet</source>
-        <translation>Neue Schemaseite</translation>
+        <translation>Neue Schaltplanseite</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="313"/>
@@ -2158,7 +2158,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="321"/>
         <source>Rename Sheet</source>
-        <translation>Schemaseite umbenennen</translation>
+        <translation>Schaltplanseite umbenennen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="322"/>
@@ -2168,7 +2168,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="330"/>
         <source>Remove Sheet</source>
-        <translation>Schemaseite löschen</translation>
+        <translation>Schaltplanseite löschen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="331"/>
@@ -6881,7 +6881,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="148"/>
         <source>The project has been migrated from file format &lt;strong&gt;%1 to %2&lt;/strong&gt;, which emitted the following messages:</source>
-        <translation type="unfinished"/>
+        <translation>Das Projekt wurde von Dateiformat &lt;strong&gt;%1 auf %2&lt;/strong&gt; migriert, was folgende Meldungen produzierte:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="158"/>
@@ -8902,7 +8902,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="37"/>
         <source>Attributes:</source>
-        <translation type="unfinished"/>
+        <translation>Attribute:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="57"/>
@@ -10404,12 +10404,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="135"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"/>
+        <translation>Hersteller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="136"/>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Attribute</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="233"/>
@@ -14712,7 +14712,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="163"/>
         <source>The project &apos;%1&apos; has been migrated to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</source>
-        <translation type="unfinished"/>
+        <translation>Das Projekt &apos;%1&apos; wurde auf ein neues Dateiformat migriert. Nach dem Speichern wird es nicht mehr möglich sein, es mit einer älteren LibrePCB Version zu öffnen!</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="169"/>
@@ -14722,7 +14722,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="175"/>
         <source>ATTENTION: Project File Format Upgraded</source>
-        <translation type="unfinished"/>
+        <translation>ACHTUNG: Projekt-Dateiformat wurde migriert</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="176"/>
@@ -14778,7 +14778,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="556"/>
         <source>New Sheet</source>
-        <translation>Neue Schemaseite</translation>
+        <translation>Neue Schaltplanseite</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="557"/>
@@ -14987,7 +14987,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="86"/>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Attribute</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="111"/>
@@ -16536,7 +16536,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="120"/>
         <source>View Source Code</source>
-        <translation type="unfinished"/>
+        <translation>Quellcode anschauen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="121"/>
@@ -16586,12 +16586,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="68"/>
         <source>LibrePCB is a free &amp; open source community project. It is operated by %1 with the support of many other contributors.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB ist ein kostenloses Open-Source Community-Projekt. Es wird von %1 bereitgestellt, mit Unterstützung vieler weiterer Mitwirkender.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="69"/>
         <source>Please consider supporting our hard work with a donation ‒ thank you.</source>
-        <translation type="unfinished"/>
+        <translation>Bitte unterstütze unsere harte Arbeit mit einer Spende ‒ vielen Dank.</translation>
     </message>
 </context>
 <context>
@@ -16851,7 +16851,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="425"/>
         <source>Attributes:</source>
-        <translation type="unfinished"/>
+        <translation>Attribute:</translation>
     </message>
 </context>
 <context>
@@ -17272,12 +17272,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="581"/>
         <source>Signals</source>
-        <translation type="unfinished"/>
+        <translation>Signale</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="582"/>
         <source>Variants &amp; Gates</source>
-        <translation type="unfinished"/>
+        <translation>Varianten &amp; Gatter</translation>
     </message>
 </context>
 <context>
@@ -17615,7 +17615,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="194"/>
         <source>Pinout</source>
-        <translation type="unfinished"/>
+        <translation>Pinbelegung</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="201"/>
@@ -17716,7 +17716,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="525"/>
         <source>Pinout &amp; Parts</source>
-        <translation type="unfinished"/>
+        <translation>Pinbelegung &amp; Teilenummern</translation>
     </message>
 </context>
 <context>
@@ -18266,7 +18266,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="625"/>
         <source>Apply %n Modification(s)</source>
-        <translation><numerusform>Änderung anwenden</numerusform><numerusform>%n Änderungen anwenden</numerusform></translation>
+        <translation><numerusform>%n Änderung anwenden</numerusform><numerusform>%n Änderungen anwenden</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="638"/>
@@ -18427,7 +18427,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/library/libraryrulechecklink.slint" line="13"/>
         <source>All checks passed!</source>
-        <translation type="unfinished"/>
+        <translation>Alle Überprüfungen bestanden!</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/ui/library/libraryrulechecklink.slint" line="9"/>
@@ -18898,7 +18898,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="224"/>
         <source>Manufacturer:</source>
-        <translation type="unfinished"/>
+        <translation>Hersteller</translation>
     </message>
 </context>
 <context>
@@ -19340,7 +19340,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="228"/>
         <source>Parent:</source>
-        <translation type="unfinished"/>
+        <translation>Elternkategorie:</translation>
     </message>
 </context>
 <context>
@@ -19353,17 +19353,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/partlistview.slint" line="147"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"/>
+        <translation>Hersteller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/partlistview.slint" line="198"/>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Attribute</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/dev/partlistview.slint" line="76"/>
         <source>Part Number (MPN)</source>
-        <translation type="unfinished"/>
+        <translation>Teilenummer (MPN)</translation>
     </message>
 </context>
 <context>
