@@ -1923,17 +1923,17 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="82"/>
         <source>Editor</source>
-        <translation type="unfinished"/>
+        <translation>Editor</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="86"/>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Neu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="87"/>
         <source>Add a new item</source>
-        <translation type="unfinished"/>
+        <translation>Neues Element hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="95"/>
@@ -1943,12 +1943,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="96"/>
         <source>Open the selected item(s)</source>
-        <translation type="unfinished"/>
+        <translation>Ausgewählte(s) Element(e) öffnen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="104"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="105"/>
@@ -1978,7 +1978,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="131"/>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Suchen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="132"/>
@@ -1988,7 +1988,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="140"/>
         <source>Find Next</source>
-        <translation type="unfinished"/>
+        <translation>Nächstes suchen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="141"/>
@@ -1998,7 +1998,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="149"/>
         <source>Find Previous</source>
-        <translation type="unfinished"/>
+        <translation>Vorheriges suchen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="150"/>
@@ -2008,7 +2008,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="158"/>
         <source>Show in File Manager</source>
-        <translation type="unfinished"/>
+        <translation>In Dateimanager anzeigen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="159"/>
@@ -2018,7 +2018,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="167"/>
         <source>Switch Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Workspace wechseln</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="168"/>
@@ -2038,7 +2038,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="185"/>
         <source>Rescan Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Bibliotheken neu einlesen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="186"/>
@@ -2048,7 +2048,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="194"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Bibliotheken</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="195"/>
@@ -2058,7 +2058,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="212"/>
         <source>Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Duplizieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="213"/>
@@ -2088,7 +2088,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="248"/>
         <source>Project Setup</source>
-        <translation type="unfinished"/>
+        <translation>Projekt einrichten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="249"/>
@@ -2098,7 +2098,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="257"/>
         <source>Grid Properties</source>
-        <translation type="unfinished"/>
+        <translation>Raster konfigurieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="258"/>
@@ -2118,7 +2118,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="275"/>
         <source>Run Quick Check</source>
-        <translation type="unfinished"/>
+        <translation>Quick Check ausführen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="276"/>
@@ -2128,7 +2128,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="284"/>
         <source>Run Design Rule Check</source>
-        <translation type="unfinished"/>
+        <translation>Design Rule Check ausführen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="285"/>
@@ -2138,7 +2138,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="293"/>
         <source>Update Project Library</source>
-        <translation type="unfinished"/>
+        <translation>Projektbibliothek aktualisieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="294"/>
@@ -2148,7 +2148,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="312"/>
         <source>New Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Neue Schemaseite</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="313"/>
@@ -2158,7 +2158,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="321"/>
         <source>Rename Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Schemaseite umbenennen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="322"/>
@@ -2168,7 +2168,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="330"/>
         <source>Remove Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Schemaseite löschen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="331"/>
@@ -2178,7 +2178,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="348"/>
         <source>New Board</source>
-        <translation type="unfinished"/>
+        <translation>Neues Board</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="349"/>
@@ -2188,7 +2188,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="357"/>
         <source>Copy Board</source>
-        <translation type="unfinished"/>
+        <translation>Board kopieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="358"/>
@@ -2198,7 +2198,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="366"/>
         <source>Remove Board</source>
-        <translation type="unfinished"/>
+        <translation>Board löschen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="367"/>
@@ -2208,7 +2208,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="375"/>
         <source>Show All Planes</source>
-        <translation type="unfinished"/>
+        <translation>Zeige alle Kupferflächen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="376"/>
@@ -2218,7 +2218,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="384"/>
         <source>Hide All Planes</source>
-        <translation type="unfinished"/>
+        <translation>Verstecke alle Kupferflächen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="385"/>
@@ -2228,7 +2228,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="393"/>
         <source>Rebuild All Planes</source>
-        <translation type="unfinished"/>
+        <translation>Berechne alle Kupferflächen neu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="394"/>
@@ -2238,12 +2238,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="402"/>
         <source>Text Input</source>
-        <translation type="unfinished"/>
+        <translation>Texteingabe</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="405"/>
         <source>Browse</source>
-        <translation type="unfinished"/>
+        <translation>Durchsuchen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="406"/>
@@ -2289,7 +2289,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="444"/>
         <source>Add Example Projects</source>
-        <translation type="unfinished"/>
+        <translation>Beispielprojekte hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="445"/>
@@ -2299,7 +2299,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="453"/>
         <source>Import DXF</source>
-        <translation type="unfinished"/>
+        <translation>DXF importieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="454"/>
@@ -2309,7 +2309,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="462"/>
         <source>Import EAGLE Library</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE Bibliothek importieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="463"/>
@@ -2319,7 +2319,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="471"/>
         <source>Import EAGLE Project</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE Projekt importieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="472"/>
@@ -2329,7 +2329,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="480"/>
         <source>Import KiCad Library</source>
-        <translation type="unfinished"/>
+        <translation>KiCad Bibliothek importieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="481"/>
@@ -2339,7 +2339,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="489"/>
         <source>Import Specctra SES</source>
-        <translation type="unfinished"/>
+        <translation>Specctra SES importieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="490"/>
@@ -2349,7 +2349,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="498"/>
         <source>Export *.lppz Archive</source>
-        <translation type="unfinished"/>
+        <translation>*.lppz Archiv exportieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="499"/>
@@ -2359,7 +2359,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="507"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>Grafik exportieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="508"/>
@@ -2369,7 +2369,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="516"/>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF exportieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="517"/>
@@ -2379,7 +2379,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="525"/>
         <source>Export Specctra DSN</source>
-        <translation type="unfinished"/>
+        <translation>Specctra DSN exportieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="526"/>
@@ -2389,7 +2389,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="534"/>
         <source>Export STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>STEP Modell exportieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="535"/>
@@ -2399,7 +2399,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="543"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Drucken</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="544"/>
@@ -2419,7 +2419,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="571"/>
         <source>Generate Fabrication Data</source>
-        <translation type="unfinished"/>
+        <translation>Produktionsdaten generieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="572"/>
@@ -2429,7 +2429,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="580"/>
         <source>Generate Pick&amp;&amp;Place Files</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;&amp;Place Daten generieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="581"/>
@@ -2439,7 +2439,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="589"/>
         <source>Generate IPC-D-356A Netlist</source>
-        <translation type="unfinished"/>
+        <translation>IPC-D-356A Netzliste generieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="590"/>
@@ -2459,7 +2459,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="607"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>Platine bestellen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="608"/>
@@ -2469,7 +2469,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="615"/>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Editieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="619"/>
@@ -2514,7 +2514,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="656"/>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="657"/>
@@ -2564,7 +2564,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="701"/>
         <source>Rotate Counterclockwise</source>
-        <translation type="unfinished"/>
+        <translation>Im Gegenuhrzeigersinn drehen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="702"/>
@@ -2574,7 +2574,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="710"/>
         <source>Rotate Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Im Uhrzeigersinn drehen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="711"/>
@@ -2584,7 +2584,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="719"/>
         <source>Mirror Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal spiegeln</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="720"/>
@@ -2594,7 +2594,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="728"/>
         <source>Mirror Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal spiegeln</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="729"/>
@@ -2604,7 +2604,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="737"/>
         <source>Flip Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal umdrehen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="738"/>
@@ -2614,7 +2614,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="747"/>
         <source>Flip Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal umdrehen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="748"/>
@@ -2624,7 +2624,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="757"/>
         <source>Move/Align Objects</source>
-        <translation type="unfinished"/>
+        <translation>Objekte verschieben/ausrichten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="758"/>
@@ -2634,7 +2634,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="767"/>
         <source>Snap to Grid</source>
-        <translation type="unfinished"/>
+        <translation>Am Raster ausrichten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="768"/>
@@ -2645,7 +2645,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <location filename="libs/librepcb/editor/editorcommandset.h" line="776"/>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1821"/>
         <source>Lock Placement</source>
-        <translation type="unfinished"/>
+        <translation>Platzierung sperren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="777"/>
@@ -2655,7 +2655,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="785"/>
         <source>Unlock Placement</source>
-        <translation type="unfinished"/>
+        <translation>Platzierung entsperren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="786"/>
@@ -2665,7 +2665,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="794"/>
         <source>Set Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Linienbreite setzen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="795"/>
@@ -2675,7 +2675,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="804"/>
         <source>Reset All Texts</source>
-        <translation type="unfinished"/>
+        <translation>Alle Texte zurücksetzen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="805"/>
@@ -2695,7 +2695,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="822"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="823"/>
@@ -2715,7 +2715,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="843"/>
         <source>Zoom to Fit Contents</source>
-        <translation type="unfinished"/>
+        <translation>Inhalt anpassen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="844"/>
@@ -2725,7 +2725,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="852"/>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>Vergrössern</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="853"/>
@@ -2735,7 +2735,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="864"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>Verkleinern</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="865"/>
@@ -2745,7 +2745,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="873"/>
         <source>Increase Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>Rasterabstand erhöhen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="874"/>
@@ -2755,7 +2755,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="887"/>
         <source>Decrease Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>Rasterabstand reduzieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="888"/>
@@ -2765,7 +2765,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="901"/>
         <source>Show Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Pin-Nummern anzeigen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="902"/>
@@ -2785,7 +2785,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="919"/>
         <source>Set/Unset Background Image</source>
-        <translation type="unfinished"/>
+        <translation>Hintergrundbild wählen/verwerfen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="920"/>
@@ -2810,7 +2810,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="940"/>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Selektieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="941"/>
@@ -2820,7 +2820,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="949"/>
         <source>Draw Line</source>
-        <translation type="unfinished"/>
+        <translation>Zeichne Linie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="950"/>
@@ -2830,7 +2830,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="958"/>
         <source>Draw Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Zeichne Rechteck</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="959"/>
@@ -2850,7 +2850,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="976"/>
         <source>Draw Circle</source>
-        <translation type="unfinished"/>
+        <translation>Zeichne Kreis</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="977"/>
@@ -2860,7 +2860,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="985"/>
         <source>Draw Arc</source>
-        <translation type="unfinished"/>
+        <translation>Zeichne Kreissegment</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="986"/>
@@ -2870,7 +2870,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="994"/>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>Text hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="995"/>
@@ -2880,7 +2880,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1003"/>
         <source>Add Name</source>
-        <translation type="unfinished"/>
+        <translation>Name hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1004"/>
@@ -2890,7 +2890,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1012"/>
         <source>Add Value</source>
-        <translation type="unfinished"/>
+        <translation>Wert hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1013"/>
@@ -2900,7 +2900,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1021"/>
         <source>Add Image</source>
-        <translation type="unfinished"/>
+        <translation>Bild hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1022"/>
@@ -2910,7 +2910,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1030"/>
         <source>Add Pin</source>
-        <translation type="unfinished"/>
+        <translation>Pin hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1031"/>
@@ -2920,7 +2920,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1039"/>
         <source>Add THT Pad</source>
-        <translation type="unfinished"/>
+        <translation>THT Pad hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1040"/>
@@ -2930,7 +2930,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1048"/>
         <source>Add SMT Pad</source>
-        <translation type="unfinished"/>
+        <translation>SMT Pad hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1049"/>
@@ -3010,7 +3010,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1120"/>
         <source>Add Hole</source>
-        <translation type="unfinished"/>
+        <translation>Bohrung hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1121"/>
@@ -3020,7 +3020,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1129"/>
         <source>Draw Wire</source>
-        <translation type="unfinished"/>
+        <translation>Netzverbindung zeichnen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1130"/>
@@ -3030,7 +3030,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1139"/>
         <source>Draw Bus</source>
-        <translation type="unfinished"/>
+        <translation>Bus zeichnen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1140"/>
@@ -3040,7 +3040,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1148"/>
         <source>Add Label to Net or Bus</source>
-        <translation type="unfinished"/>
+        <translation>Netz oder Bus beschriften</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1149"/>
@@ -3050,7 +3050,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1157"/>
         <source>Add Component</source>
-        <translation type="unfinished"/>
+        <translation>Komponente hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1158"/>
@@ -3060,7 +3060,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1166"/>
         <source>Draw Trace</source>
-        <translation type="unfinished"/>
+        <translation>Leiterbahn zeichnen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1167"/>
@@ -3070,7 +3070,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1175"/>
         <source>Add Via</source>
-        <translation type="unfinished"/>
+        <translation>Via hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1176"/>
@@ -3080,7 +3080,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1184"/>
         <source>Draw Plane</source>
-        <translation type="unfinished"/>
+        <translation>Kupferfläche zeichnen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1185"/>
@@ -3175,7 +3175,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1268"/>
         <source>Increase Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Linienbreite erhöhen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1269"/>
@@ -3185,7 +3185,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1277"/>
         <source>Decrease Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Linienbreite reduzieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1278"/>
@@ -3416,7 +3416,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1489"/>
         <source>Resistor</source>
-        <translation type="unfinished"/>
+        <translation>Widerstand</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1490"/>
@@ -3426,7 +3426,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1498"/>
         <source>Inductor</source>
-        <translation type="unfinished"/>
+        <translation>Induktivität</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1499"/>
@@ -3436,7 +3436,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1507"/>
         <source>Bipolar Capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Bipolarer Kondensator</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1508"/>
@@ -3446,7 +3446,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1516"/>
         <source>Unipolar Capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Unipolarer Kondensator</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1517"/>
@@ -3456,7 +3456,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1525"/>
         <source>GND Supply</source>
-        <translation type="unfinished"/>
+        <translation>GND Versorgung</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1526"/>
@@ -3466,7 +3466,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1534"/>
         <source>VCC Supply</source>
-        <translation type="unfinished"/>
+        <translation>VCC Versorgung</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1535"/>
@@ -3511,7 +3511,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1582"/>
         <source>Place Devices</source>
-        <translation type="unfinished"/>
+        <translation>Bauteile platzieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1583"/>
@@ -3566,7 +3566,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1631"/>
         <source>New Window</source>
-        <translation type="unfinished"/>
+        <translation>Neues Fenster</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1632"/>
@@ -3576,7 +3576,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1640"/>
         <source>Close Window</source>
-        <translation type="unfinished"/>
+        <translation>Fenster schliessen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1641"/>
@@ -3606,7 +3606,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1668"/>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Beenden</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1669"/>
@@ -3641,7 +3641,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1698"/>
         <source>LibrePCB Website</source>
-        <translation>LibrePCB Website</translation>
+        <translation>LibrePCB Webseite</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1699"/>
@@ -3651,7 +3651,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1707"/>
         <source>User Manual &amp;&amp; Tutorials</source>
-        <translation type="unfinished"/>
+        <translation>Benutzerhandbuch &amp;&amp; Tutorials</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1708"/>
@@ -3661,7 +3661,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1716"/>
         <source>Give Feedback &amp;&amp; Get Support</source>
-        <translation type="unfinished"/>
+        <translation>Feedback geben &amp;&amp; Support erhalten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1717"/>
@@ -3671,7 +3671,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1725"/>
         <source>Support the LibrePCB Project</source>
-        <translation type="unfinished"/>
+        <translation>Unterstütze das LibrePCB Projekt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1726"/>
@@ -3681,7 +3681,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1734"/>
         <source>Keyboard Shortcuts Reference</source>
-        <translation type="unfinished"/>
+        <translation>Tastenkürzel-Referenz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1735"/>
@@ -3691,7 +3691,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1743"/>
         <source>Context Menu</source>
-        <translation type="unfinished"/>
+        <translation>Kontextmenü</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1747"/>
@@ -3701,17 +3701,17 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1748"/>
         <source>Create a new folder</source>
-        <translation type="unfinished"/>
+        <translation>Neuen Ordner erstellen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1757"/>
         <source>Add To Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Zu Favoriten hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1758"/>
         <source>Add project to favorites</source>
-        <translation type="unfinished"/>
+        <translation>Projekt zu Favoriten hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1767"/>
@@ -5679,7 +5679,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="299"/>
         <source>Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Duplizieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="303"/>
@@ -7216,7 +7216,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.ui" line="14"/>
         <source>Add Component</source>
-        <translation type="unfinished"/>
+        <translation>Komponente hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.ui" line="34"/>
@@ -7282,7 +7282,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="231"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Bibliotheken</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="233"/>
@@ -7292,7 +7292,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="235"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>Platine bestellen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="243"/>
@@ -7697,7 +7697,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="371"/>
         <source>Export STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>STEP Modell exportieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="396"/>
@@ -9767,7 +9767,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdimageadd.cpp" line="42"/>
         <source>Add Image</source>
-        <translation type="unfinished"/>
+        <translation>Bild hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -10703,7 +10703,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="82"/>
         <source>New Library</source>
-        <translation type="unfinished"/>
+        <translation>Neue Bibliothek</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="228"/>
@@ -11277,7 +11277,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/widgets/editabletablewidget.cpp" line="199"/>
         <source>Browse</source>
-        <translation type="unfinished"/>
+        <translation>Durchsuchen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/editabletablewidget.cpp" line="219"/>
@@ -11920,7 +11920,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="411"/>
         <source>Show Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Pin-Nummern anzeigen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="419"/>
@@ -11985,17 +11985,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="93"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>Grafik exportieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="96"/>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF exportieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="99"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Drucken</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="117"/>
@@ -12346,7 +12346,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="359"/>
         <source>Add Example Projects</source>
-        <translation type="unfinished"/>
+        <translation>Beispielprojekte hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="400"/>
@@ -12501,7 +12501,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard.cpp" line="53"/>
         <source>Switch Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Workspace wechseln</translation>
     </message>
 </context>
 <context>
@@ -13887,7 +13887,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="281"/>
         <source>Generate Fabrication Data</source>
-        <translation type="unfinished"/>
+        <translation>Produktionsdaten generieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="290"/>
@@ -14778,7 +14778,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="556"/>
         <source>New Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Neue Schemaseite</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="557"/>
@@ -14814,7 +14814,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="637"/>
         <source>Copy Board</source>
-        <translation type="unfinished"/>
+        <translation>Board kopieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="637"/>
@@ -14952,7 +14952,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="14"/>
         <source>Project Setup</source>
-        <translation type="unfinished"/>
+        <translation>Projekt einrichten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="24"/>
@@ -15252,7 +15252,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="253"/>
         <source>Draw Wire</source>
-        <translation type="unfinished"/>
+        <translation>Verbindung zeichnen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="353"/>
@@ -15284,7 +15284,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="261"/>
         <source>Draw Wire</source>
-        <translation type="unfinished"/>
+        <translation>Verbindung zeichnen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="301"/>
@@ -16927,7 +16927,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="359"/>
         <source>Place Devices</source>
-        <translation type="unfinished"/>
+        <translation>Bauteile platzieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="373"/>
@@ -18143,12 +18143,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="224"/>
         <source>Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Schnellzugriff</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="244"/>
         <source>Workspace Projects</source>
-        <translation type="unfinished"/>
+        <translation>Workspace-Projekte</translation>
     </message>
 </context>
 <context>
@@ -18161,7 +18161,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="36"/>
         <source>Get Started With LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>Erste Schritte mit LibrePCB</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/hometab.slint" line="67"/>
@@ -18670,7 +18670,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="146"/>
         <source>New Library</source>
-        <translation type="unfinished"/>
+        <translation>Neue Bibliothek</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="148"/>
@@ -18690,12 +18690,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1660"/>
         <source>Quick Find</source>
-        <translation type="unfinished"/>
+        <translation>Schnellsuche</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="283"/>
         <source>Open Workspace Folder</source>
-        <translation type="unfinished"/>
+        <translation>Workspace-Ordner öffnen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="312"/>
@@ -18725,7 +18725,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="378"/>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="380"/>
@@ -18740,7 +18740,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="597"/>
         <source>Split Window</source>
-        <translation type="unfinished"/>
+        <translation>Fenster teilen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="599"/>
@@ -18937,7 +18937,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="539"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="549"/>
@@ -18966,7 +18966,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/notificationspopup.slint" line="166"/>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Benachrichtigungen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/notificationspopup.slint" line="214"/>
@@ -18989,12 +18989,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="146"/>
         <source>There may be some issues with your schematics or board, please check the messages above before continuing.</source>
-        <translation type="unfinished"/>
+        <translation>Möglicherweise gibt es Probleme mit deinem Schaltplan oder der Platine. Bitte überprüfe die oben stehenden Meldungen, bevor du die Bestellung tätigst.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="183"/>
         <source>Order %1</source>
-        <translation type="unfinished"/>
+        <translation>Bestelle %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="201"/>
@@ -19004,7 +19004,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="218"/>
         <source>Finished the PCB design? Let it manufacture by one of our fabrication partners - easy, safe and fast!</source>
-        <translation type="unfinished"/>
+        <translation>PCB-Design abgeschlossen? Lasse es von einem unserer Fertigungspartner herstellen – einfach, sicher und schnell!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="226"/>
@@ -19019,7 +19019,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="260"/>
         <source>Upload Project</source>
-        <translation type="unfinished"/>
+        <translation>Projekt hochladen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="286"/>
@@ -19151,12 +19151,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="158"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="174"/>
         <source>Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Duplizieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="190"/>
@@ -19395,7 +19395,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="101"/>
         <source>Place Devices</source>
-        <translation type="unfinished"/>
+        <translation>Bauteile platzieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="131"/>
@@ -19621,7 +19621,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="332"/>
         <source>No checks run yet. Trigger them with one of the buttons above.</source>
-        <translation type="unfinished"/>
+        <translation>Es wurden noch keine Checks durchgeführt. Starte sie mit einer der Schaltflächen oben.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="334"/>
@@ -19705,7 +19705,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/sidebar.slint" line="181"/>
         <source>Open Documents</source>
-        <translation type="unfinished"/>
+        <translation>Geöffnete Dokumente</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/sidebar.slint" line="198"/>
@@ -19715,12 +19715,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/sidebar.slint" line="222"/>
         <source>Place Devices</source>
-        <translation type="unfinished"/>
+        <translation>Bauteile platzieren</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/sidebar.slint" line="353"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Bibliotheken</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/sidebar.slint" line="407"/>
@@ -19761,7 +19761,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/statusbar.slint" line="275"/>
         <source>Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>Rasterabstand</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/statusbar.slint" line="312"/>
@@ -19888,7 +19888,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="150"/>
         <source>Create a new folder</source>
-        <translation type="unfinished"/>
+        <translation>Neuen Ordner erstellen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/homepanel.slint" line="170"/>
