@@ -6625,7 +6625,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="375"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="376"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
         <translation>Projekt má nastavené vlastné atribúty pre export zoznamu súčiastok (%1). Ale v LibrePCB 2.0 bol manuálny export kusovníka odstránený z dôvodu prítomnosti výkonnejšej funkcie generovania výstupných úloh. Na generovanie zoznamu materiálu teraz použite úlohy generovania výstupov. Ak pridáte novú výstupnú úlohu tvorby zoznamu súčiastok, tieto vlastné atribúty budú automaticky importované.</translation>
     </message>
