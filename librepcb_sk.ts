@@ -269,7 +269,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
         <source>Run all existing output jobs.</source>
-        <translation>Spustenie všetkých jestvujúcich úloh pre generovanie výstupov.</translation>
+        <translation>Spustenie všetkých existujúcich úloh pre generovanie výstupov.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="149"/>
@@ -324,17 +324,17 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="194"/>
         <source>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportuje súbor pick&amp;place pre automatické osádzanie súčiastok, pre vrchnú stranu dosky. Jestvujúce súbory budú prepísané. Podporované prípony súborov: %1</translation>
+        <translation>Exportuje súbor pick&amp;place pre automatické osádzanie súčiastok, pre vrchnú stranu dosky. Existujúce súbory budú prepísané. Podporované prípony súborov: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="200"/>
         <source>Export pick&amp;place file for automated assembly of the bottom board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportuje súbor pick&amp;place pre automatické osádzanie súčiastok, pre spodnú stranu dosky. Jestvujúce súbory budú prepísané. Podporované prípony súborov: %1</translation>
+        <translation>Exportuje súbor pick&amp;place pre automatické osádzanie súčiastok, pre spodnú stranu dosky. Existujúce súbory budú prepísané. Podporované prípony súborov: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="207"/>
         <source>Export netlist file for automated PCB testing. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation>Exportuje zoznam prepojení pre automatizované testovanie DPS. Jestvujúce súbory budú prepísané. Podporované prípony súborov: %1</translation>
+        <translation>Exportuje zoznam prepojení pre automatizované testovanie DPS. Existujúce súbory budú prepísané. Podporované prípony súborov: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="212"/>
@@ -390,7 +390,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="261"/>
         <source>Run the library element check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation>Spustenie kontroly knižničných prvkov, zobrazenie všetkých neschválených upozornení a oznámenie chýb (exit code = 1) ak jestvujú neschválené oznámenia.</translation>
+        <translation>Spustenie kontroly knižničných prvkov, zobrazenie všetkých neschválených upozornení a oznámenie chýb (exit code = 1) ak existujú neschválené oznámenia.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="265"/>
@@ -1768,7 +1768,11 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 1. Unfortunately, there is no standardized way to let PCB manufacturers know that those cutouts need to be plated. The Gerber export just includes those cutouts in the normal board outlines layer (together with the non-plated cutouts), therefore you need to ensure that the manufacturer will recognize them correctly. Some manufacturers automatically detect plated vs. non-plated cutouts by the existence of copper on the top &amp; bottom layers along the cutout path. The DRC will raise a separate warning if this is not the case, but you should check if your manufacturer will follow this convention.
 
 2. The DRC does not yet detect every possible problem with such cutouts, you have to be careful not to accidentally create short-circuits with plated cutouts as the DRC won&apos;t warn you about this.</source>
-        <translation type="unfinished"/>
+        <translation>Doska obsahuje pokovované výrezy s rôznym tvarom (polygóny alebo kruhy). Tieto sa momentálne považujú za EXPERIMENTÁLNE kvôli problémom opísaným nižšie. V budúcich vydaniach sa môžu správať odlišne.
+
+1. Bohužiaľ, neexistuje štandardizovaný spôsob, ako informovať výrobcov DPS, že tieto výrezy je potrebné pokovovať. Exportované dáta (Gerber) zahŕňajú tieto výrezy iba v normálnej vrstve obrysov dosky (spolu s nepokovovanými výrezmi), preto sa musíte uistiť, že ich výrobca správne rozpozná. Niektorí výrobcovia automaticky rozpoznávajú pokovované a nepokovované výrezy podľa prítomnosti medi na hornej a spodnej vrstve pozdĺž dráhy výrezu. DRC vydá samostatné varovanie, ak to tak nie je, ale mali by ste skontrolovať, či váš výrobca bude túto konvenciu dodržiavať.
+
+2. DRC zatiaľ nedetekuje všetky možné problémy s takýmito výrezmi, musíte si dávať pozor, aby ste náhodou nevytvorili skraty s pokovovanými výrezmi, pretože DRC vás na to neupozorní.</translation>
     </message>
 </context>
 <context>
@@ -1776,14 +1780,16 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="424"/>
         <source>Non-plated cutout intersects with copper</source>
-        <translation type="unfinished"/>
+        <translation>Nepokovovaný výrez sa pretína s meďou</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="428"/>
         <source>Plated- and non-plated cutouts are exported to the same Gerber file because there is no standardized way to send plated cutouts to manufacturers. Some manufacturers just detect plated vs. non-plated cutouts by the existence of copper along their outline.
 
 This cutout is on the &quot;%1&quot; layer but intersects with copper layers along its outline, therefore this detection might fail, possibly leading to wrong manufacturing. It is recommended to remove any copper along the cutouts outline.</source>
-        <translation type="unfinished"/>
+        <translation>Pokovované a nepokovované výrezy sa exportujú do rovnakého súboru výrobných dát (Gerber), pretože neexistuje štandardizovaný spôsob odosielania pokovovaných výrezov výrobcom. Niektorí výrobcovia rozpoznajú pokovované a nepokovované výrezy iba na základe prítomnosti medi pozdĺž ich obrysu.
+
+Tento výrez sa nachádza na vrstve &quot;%1“, ale pozdĺž svojho obrysu sa pretína s medenými vrstvami, preto táto detekcia môže zlyhať, čo môže viesť k nesprávnej výrobe. Odporúča sa odstrániť všetku meď pozdĺž obrysu výrezov.</translation>
     </message>
 </context>
 <context>
@@ -1828,14 +1834,16 @@ This cutout is on the &quot;%1&quot; layer but intersects with copper layers alo
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="373"/>
         <source>Plated cutout not surrounded by copper</source>
-        <translation type="unfinished"/>
+        <translation>Pokovovaný výrez nie je obklopený meďou</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="377"/>
         <source>Plated- and non-plated cutouts are exported to the same Gerber file because there is no standardized way to send plated cutouts to manufacturers. Some manufacturers just detect plated vs. non-plated cutouts by the existence of copper along their outline.
 
 This cutout is on the &quot;%1&quot; layer but does not have copper on both top &amp; bottom layers along its complete outline, therefore this detection might fail, possibly leading to wrong manufacturing. It is recommended to draw copper along the complete cutout outline.</source>
-        <translation type="unfinished"/>
+        <translation>Pokovované a nepokovované výrezy sa exportujú do rovnakého súboru výrobných dát (Gerber), pretože neexistuje štandardizovaný spôsob odosielania pokovovaných výrezov výrobcom. Niektorí výrobcovia rozpoznajú pokovované a nepokovované výrezy iba na základe prítomnosti medi pozdĺž ich obrysu.
+
+Tento výrez sa nachádza na vrstve &quot;%1“, ale nemá meď na vrchnej aj spodnej vrstve pozdĺž celého obrysu, preto táto detekcia môže zlyhať, čo môže viesť k nesprávnej výrobe. Odporúča sa nakresliť meď pozdĺž celého obrysu výrezu.</translation>
     </message>
 </context>
 <context>
@@ -2091,7 +2099,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="231"/>
         <source>Open an existing project</source>
-        <translation>Otvorenie jestvujúceho projektu</translation>
+        <translation>Otvorenie existujúceho projektu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="248"/>
@@ -2823,7 +2831,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="941"/>
         <source>Select &amp; modify existing objects</source>
-        <translation>Zvolenie a úprava jestvujúcich objektov</translation>
+        <translation>Zvolenie a úprava existujúcich objektov</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="949"/>
@@ -3043,17 +3051,17 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1140"/>
         <source>Draw buses to route several related nets with a single wire</source>
-        <translation type="unfinished"/>
+        <translation>Kreslenie zbernice na zlúčenie viacerých súvisiacich prepojení jedným vodičom</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1148"/>
         <source>Add Label to Net or Bus</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie označenia k prepojeniu alebo k zbernici</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1149"/>
         <source>Add labels to explicitly specify the net or bus of wires</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie označení na explicitné špecifikovanie prepojania alebo zbernice prepojení</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1157"/>
@@ -3912,12 +3920,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="174"/>
         <source>Bus contains unused net: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Zbernica obsahuje nepoužívané prepojenie: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="176"/>
         <source>The net is connected to the bus, but is not leaving the bus ^anywhere. Check if you missed to make a connection.</source>
-        <translation type="unfinished"/>
+        <translation>Prepojenie je pripojené k zbernici, ale nikam z nej neodchádza. Skontrolujte, či ste neprehliadli možnosť vytvorenia prepojenia.</translation>
     </message>
 </context>
 <context>
@@ -3944,7 +3952,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="386"/>
         <source>Unconnected junction in bus: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepripojený uzol v zbernici: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -3965,12 +3973,12 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="196"/>
         <source>Bus contains unnamed net: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Zbernica obsahuje nepomenované prepojenie: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="198"/>
         <source>A wire without a net label is connected to the bus, which makes it impossible for this net to leave the bus somewhere else. Add a net label to the wire to explicitly specify the net.</source>
-        <translation type="unfinished"/>
+        <translation>K zbernici je pripojený spoj bez označenia, čo znemožňuje, aby tento spoj opustil zbernicu niekde inde. Pridajte k spoju označenie, aby ste explicitne určili prepojenie.</translation>
     </message>
 </context>
 <context>
@@ -4004,7 +4012,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="142"/>
         <source>Unused bus: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nepoužitá zbernica: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4583,7 +4591,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="41"/>
         <source>Ambiguous footprint tags</source>
-        <translation type="unfinished"/>
+        <translation>Nejednoznačné značky púzdra</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="42"/>
@@ -4772,7 +4780,7 @@ Zdá sa, že toto pravidlo sa pri tomto puzdre nedodržiava. V prípade nepravid
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="203"/>
         <source>A footprint pad is connected to a package pad which doesn&apos;t exist. Check all pads for proper connections.</source>
-        <translation>Plôška vývodu značky puzdra, je pripojené na nejestvujúcu plôšku puzdra. Skontrolujte správnosť pripojenia všetkých plôšok.</translation>
+        <translation>Plôška vývodu značky puzdra, je pripojené na neexistujúcu plôšku puzdra. Skontrolujte správnosť pripojenia všetkých plôšok.</translation>
     </message>
 </context>
 <context>
@@ -5131,7 +5139,7 @@ Odporúča sa uvádzať pred invertovanými názvami signálov predponu &apos;%1
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="501"/>
         <source>Pads must have at least %1 clearance between each other, as configured in the package. Either increase the clearance between those pads, or reduce the configured minimum clearance value if you are sure the PCB manufacturer can reliably handle it.</source>
-        <translation type="unfinished"/>
+        <translation>Plôšky vývodov musia mať medzi sebou vzdialenosť aspoň %1, ako je nakonfigurované v puzdre. Ak ste si istí, že výrobca dosky plošných spojov to dokáže spoľahlivo zvládnuť, buď zväčšite vôľu medzi týmito ploškami, alebo znížte nakonfigurovanú minimálnu hodnotu vzdialenosti.</translation>
     </message>
 </context>
 <context>
@@ -5779,7 +5787,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/types/tag.h" line="53"/>
         <source>Invalid tag: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná značka: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -6446,7 +6454,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2052"/>
         <source>Check board cutouts...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola výrezov na doske...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2181"/>
@@ -6466,7 +6474,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2301"/>
         <source>Check for impossible connections...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola nemožných pripojení...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2319"/>
@@ -6498,7 +6506,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="316"/>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="341"/>
         <source>There is already a bus with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Už existuje zbernica s názvom &quot;%1“!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="390"/>
@@ -6622,7 +6630,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="292"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings (choose &quot;Import Old Settings&quot;).</source>
-        <translation type="unfinished"/>
+        <translation>Špeciálne dialógové okno generátora výstupov Gerber/Excellon bolo odstránené v prospech výkonnejších výstupných úloh a zodpovedajúce nastavenia výstupu budú z dosiek odstránené v nadchádzajúcom vydaní. Odporúča sa pridať výstupnú úlohu Gerber/Excellon teraz, pretože to umožňuje migrovať staré nastavenia exportu (vyberte možnosť &quot;Importovať staré nastavenia“).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="376"/>
@@ -6915,22 +6923,22 @@ Potrebujete najnovšiu verziu LibrePCB %1 pre jeho otvorenie.
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="133"/>
         <source>Note: This is a temporary file since the project has not been saved to disk yet. When you save the project, this log will be written to the projects &apos;%1&apos; directory.</source>
-        <translation type="unfinished"/>
+        <translation>Poznámka: Toto je dočasný súbor, pretože projekt ešte nebol uložený na disk. Po uložení projektu sa tento protokol bude zapísaný do adresára projektu &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="140"/>
         <source>Attention: After saving the project, the file format migration cannot be reverted. Check if everything looks good before saving the project.</source>
-        <translation type="unfinished"/>
+        <translation>Upozornenie: Po uložení projektu migráciu formátu súboru nebude možné vrátiť späť. Pred uložením projektu skontrolujte, či všetko vyzerá v poriadku.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="148"/>
         <source>The project has been migrated from file format &lt;strong&gt;%1 to %2&lt;/strong&gt;, which emitted the following messages:</source>
-        <translation type="unfinished"/>
+        <translation>Projekt bol migrovaný z formátu súbou &lt;strong&gt;%1 do %2&lt;/strong&gt;, čo  spôsobilo nasledujúce oznámenia:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="158"/>
         <source>No messages emitted.</source>
-        <translation type="unfinished"/>
+        <translation>Žiadne oznámenia.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="175"/>
@@ -7864,7 +7872,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="203"/>
         <source>Draw Board Plane</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť vyplnenú plochu dosky</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="220"/>
@@ -15270,7 +15278,7 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamenetsegmentdialog.cpp" line="184"/>
         <source>The segment will be moved to the existing net &apos;%1&apos;.</source>
-        <translation>Segment bude presunutý do jestvujúceho prepojenia &apos;%1&apos;.</translation>
+        <translation>Segment bude presunutý do existujúceho prepojenia &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamenetsegmentdialog.cpp" line="189"/>
