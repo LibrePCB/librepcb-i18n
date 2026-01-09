@@ -8510,7 +8510,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="267"/>
         <source>Default Trace Width:</source>
-        <translation type="unfinished"/>
+        <translation>Predvolená šírka spoja:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="280"/>
@@ -8555,7 +8555,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="365"/>
         <source>Default Via Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Predvolený priemer otvoru prechodu:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="372"/>
@@ -8595,7 +8595,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="644"/>
         <source>Load Settings...</source>
-        <translation type="unfinished"/>
+        <translation>Načítavanie nastavení...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="656"/>
@@ -8775,17 +8775,17 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="414"/>
         <source>Load Preset:</source>
-        <translation type="unfinished"/>
+        <translation>Načítané nastavenie:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="471"/>
         <source>Reset to Default Settings</source>
-        <translation type="unfinished"/>
+        <translation>Obnoviť pôvodné nastavenia</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="474"/>
         <source>Remove Link to Imported Settings</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť prepojenie s importovanými nastaveniami</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="617"/>
@@ -9546,7 +9546,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdchangebusofschematicbussegment.cpp" line="50"/>
         <source>Change Bus Of Segment</source>
-        <translation type="unfinished"/>
+        <translation>Zmeniť segment zbernice</translation>
     </message>
 </context>
 <context>
@@ -9594,7 +9594,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdcombineschematicbussegments.cpp" line="56"/>
         <source>Merge Bus Segments</source>
-        <translation type="unfinished"/>
+        <translation>Zlúčiť segmenty zbernice</translation>
     </message>
 </context>
 <context>
@@ -9896,7 +9896,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdnetclassedit.cpp" line="41"/>
         <source>Edit Net Class</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť triedu prepojenia</translation>
     </message>
 </context>
 <context>
@@ -10096,7 +10096,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdremoveunusednetsignalsandbuses.cpp" line="48"/>
         <source>Remove Unused Nets &amp; Buses</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť nepoužité prepojenia a zbernice</translation>
     </message>
 </context>
 <context>
@@ -10120,7 +10120,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbusjunctionedit.cpp" line="41"/>
         <source>Edit Bus Junction</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť uzol zbernice</translation>
     </message>
 </context>
 <context>
@@ -10322,7 +10322,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdsimplifyschematicsegments.cpp" line="60"/>
         <source>Simplify Schematic Net/Bus Segments</source>
-        <translation type="unfinished"/>
+        <translation>Zjednodušiť segmenty prepojenia/zbernice v schéme</translation>
     </message>
 </context>
 <context>
@@ -10402,7 +10402,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdsymbolreload.cpp" line="41"/>
         <source>Reload Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Znova načítať schematické značky</translation>
     </message>
 </context>
 <context>
@@ -12400,7 +12400,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="245"/>
         <source>The internal libraries database is being updated. This may take a few minutes and in the mean time you might see outdated information about libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Interná databáza knižníc sa aktualizuje. Môže to trvať niekoľko minút a medzitým sa môžu zobrazovať neaktuálne informácie o knižniciach.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="261"/>
@@ -14035,12 +14035,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="372"/>
         <source>Generic Default Settings (*.gbr)</source>
-        <translation type="unfinished"/>
+        <translation>Všeobecné predvolené nastavenia (*.gbr)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="375"/>
         <source>Generic Default Settings (Protel Style)</source>
-        <translation type="unfinished"/>
+        <translation>Všeobecné predvolené nastavenia (v štýle Protel)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="427"/>
@@ -14817,12 +14817,12 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="163"/>
         <source>The project &apos;%1&apos; has been migrated to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</source>
-        <translation type="unfinished"/>
+        <translation>Projekt &apos;%1&apos; bol migrovaný do nového formátu súboru. Po uložení ho už nebude možné otvoriť so staršou verziou LibrePCB!</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="169"/>
         <source>The migration produced %n message(s), please review before proceeding.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Migrácia vytvorila %n oznámenie. Pred pokračovaním ich najskôr prezrite.</numerusform><numerusform>Migrácia vytvorila %n oznámenia. Pred pokračovaním ich najskôr prezrite.</numerusform><numerusform>Migrácia vytvorila %n oznámení. Pred pokračovaním ich najskôr prezrite.</numerusform><numerusform>Migrácia vytvorila %n oznámení. Pred pokračovaním ich najskôr prezrite.</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="175"/>
@@ -15168,7 +15168,7 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.ui" line="20"/>
         <source>Rename Bus Segment</source>
-        <translation type="unfinished"/>
+        <translation>Premenovať segment zbernice</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.ui" line="28"/>
@@ -15178,18 +15178,18 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.ui" line="50"/>
         <source>Rename only this bus segment</source>
-        <translation type="unfinished"/>
+        <translation>Premenovať len tento segment zbernice</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.ui" line="60"/>
         <source>Rename whole bus (%1 segments)</source>
         <extracomment>Number of segments (&gt;=1)</extracomment>
-        <translation type="unfinished"/>
+        <translation>Premenovať celú zbernicu (%1 častí)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="134"/>
         <source>Change Bus of Bus Segment</source>
-        <translation type="unfinished"/>
+        <translation>Zmeniť zbernicu segmentu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="151"/>
@@ -15204,22 +15204,22 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="171"/>
         <source>The whole bus &apos;%1&apos; will be merged into the bus &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Celá zbernica &apos;%1&apos; bude zlúčená do zbernice &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="175"/>
         <source>The whole bus &apos;%1&apos; will be renamed to &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Celá zbernica &apos;%1&apos; bude premenované na &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="179"/>
         <source>The segment will be moved to the existing bus &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Segment bude presunutý do existujúcej zbernice &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="184"/>
         <source>The segment will be moved to the new bus &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Segment bude presunutý do novej zbernice &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="195"/>
@@ -15232,7 +15232,7 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamenetsegmentdialog.ui" line="20"/>
         <source>Rename net segment</source>
-        <translation>Premenovať časť prepojenia</translation>
+        <translation>Premenovať segment prepojenia</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamenetsegmentdialog.ui" line="28"/>
@@ -15242,18 +15242,18 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamenetsegmentdialog.ui" line="50"/>
         <source>Rename only this net segment</source>
-        <translation>Premenovať len túto časť prepojenia</translation>
+        <translation>Premenovať len tento segment prepojenia</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamenetsegmentdialog.ui" line="60"/>
         <source>Rename whole net (%1 segments)</source>
         <extracomment>Number of segments (&gt;=1)</extracomment>
-        <translation>Premenovať celé prepojenie (%1 častí)</translation>
+        <translation>Premenovať celé prepojenie (%1 segmentov)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamenetsegmentdialog.cpp" line="136"/>
         <source>Change net of net segment</source>
-        <translation>Zmeniť prepojenie</translation>
+        <translation>Zmeniť prepojenie segmentu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamenetsegmentdialog.cpp" line="156"/>
@@ -15338,7 +15338,7 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="181"/>
         <source>Add Bus Label to Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie označenia zbernice do schémy</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="195"/>
@@ -15430,7 +15430,7 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="853"/>
         <source>Add New Bus Member</source>
-        <translation type="unfinished"/>
+        <translation>Pridanie nového člena zbernice</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="865"/>
@@ -16924,22 +16924,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="72"/>
         <source>Set as Default in Board</source>
-        <translation type="unfinished"/>
+        <translation>Nastaviť ako predvolené pre dosku</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="73"/>
         <source>Saves the entered value in the board design rules as default value</source>
-        <translation type="unfinished"/>
+        <translation>Uloženie zadanej hodnoty do pravidiel návrhu dosky ako predvolenú hodnotu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="82"/>
         <source>Set as Default in Net Class &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nastaviť ako predvolené v triede prepojenia &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="83"/>
         <source>Saves the entered value as default value for the current net class</source>
-        <translation type="unfinished"/>
+        <translation>Uloženie zadanú hodnotu ako predvolenú hodnotu pre aktuálnu triedu prepojenia</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="96"/>
@@ -16952,7 +16952,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="514"/>
         <source>Assembly Service:</source>
-        <translation type="unfinished"/>
+        <translation>Služba osadzovania:</translation>
     </message>
 </context>
 <context>
@@ -17012,17 +17012,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="216"/>
         <source>Set Up Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenie návrhových pravidiel</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="222"/>
         <source>Before starting with the board design, it is highly recommended to set up the design rules to be used for this board. Just choose one of the presets below, or manually specify the rules.</source>
-        <translation type="unfinished"/>
+        <translation>Pred začatím návrhu dosky sa dôrazne odporúča nastaviť pravidlá návrhu, ktoré sa majú pre túto dosku použiť. Stačí si vybrať jednu z predvolieb nižšie alebo pravidlá zadať manuálne.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="245"/>
         <source>Default rules, suitable for most PCB manufacturers</source>
-        <translation type="unfinished"/>
+        <translation>Predvolené pravidlá, vhodné pre väčšinu výrobcov plošných spojov</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="319"/>
@@ -18058,25 +18058,25 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="75"/>
         <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="138"/>
         <source>Set as Default in Board</source>
-        <translation type="unfinished"/>
+        <translation>Nastaviť ako predvolené pre dosku</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="76"/>
         <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="139"/>
         <source>Saves the entered value in the board design rules as default value</source>
-        <translation type="unfinished"/>
+        <translation>Uloží zadanú hodnotu do pravidiel návrhu dosky ako predvolenú hodnotu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="85"/>
         <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="148"/>
         <source>Set as Default in Net Class &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nastaviť ako predvolené v triede prepojenia &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="86"/>
         <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="149"/>
         <source>Saves the entered value as default value for the current net class</source>
-        <translation type="unfinished"/>
+        <translation>Uloženie zadanú hodnotu ako predvolenú hodnotu pre aktuálnu triedu prepojenia</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="99"/>
@@ -18125,22 +18125,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="30"/>
         <source>The files have been modified on disk. It is recommended to close and reopen this tab to see the modifications.</source>
-        <translation type="unfinished"/>
+        <translation>Súbory na disku boli upravené. Odporúča sa zatvoriť a znova otvoriť túto kartu, aby ste videli úpravy.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="38"/>
         <source>Note that the reload feature is currently considered experimental.</source>
-        <translation type="unfinished"/>
+        <translation>Upozorňujeme, že funkcia opätovného načítania sa momentálne považuje za experimentálnu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="45"/>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Znova načítať</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="46"/>
         <source>Discard modifications (if any) and reload the modified files from disk</source>
-        <translation type="unfinished"/>
+        <translation>Zahodiť úpravy (ak nejaké existujú) a znova načítať upravené súbory z disku</translation>
     </message>
 </context>
 <context>
@@ -18335,22 +18335,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/ipcdensitylevelselector.slint" line="30"/>
         <source>IPC Density Level A (max protrusion)</source>
-        <translation type="unfinished"/>
+        <translation>Úroveň hustoty IPC A (maximálny presah)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/ipcdensitylevelselector.slint" line="32"/>
         <source>IPC Density Level B (medium protrusion)</source>
-        <translation type="unfinished"/>
+        <translation>Úroveň hustoty IPC B (stredne veľký presah)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/ipcdensitylevelselector.slint" line="34"/>
         <source>IPC Density Level C (min protrusion)</source>
-        <translation type="unfinished"/>
+        <translation>Úroveň hustoty IPC C (minimálny presah)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/ipcdensitylevelselector.slint" line="36"/>
         <source>No density level preference</source>
-        <translation type="unfinished"/>
+        <translation>Preferencie pre nedefinovanú úroveň hustoty</translation>
     </message>
 </context>
 <context>
@@ -18424,12 +18424,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="355"/>
         <source>Check For Updates</source>
-        <translation type="unfinished"/>
+        <translation>Skontrolovať aktualizácie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="368"/>
         <source>Cancel Update Check</source>
-        <translation type="unfinished"/>
+        <translation>Zrušiť kontrolu aktualizácie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="393"/>
@@ -18452,7 +18452,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="623"/>
         <source>New Component Category</source>
-        <translation type="unfinished"/>
+        <translation>Nová kategória komponentu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="635"/>
@@ -18915,7 +18915,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="807"/>
         <source>New Component Category</source>
-        <translation type="unfinished"/>
+        <translation>Nová kategória komponentu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="81"/>
