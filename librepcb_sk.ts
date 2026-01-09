@@ -136,7 +136,7 @@
     <message>
         <location filename="libs/librepcb/core/types/busname.h" line="52"/>
         <source>Invalid bus name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Neplatný názov zbernice: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -527,7 +527,7 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="627"/>
         <source>Attention: Project has been migrated to a newer file format!</source>
-        <translation type="unfinished"/>
+        <translation>Upozornenie: Projekt bol migrovaný do novšieho formátu súboru!</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="641"/>
@@ -1397,12 +1397,12 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="214"/>
         <source>Impossible connection in &apos;%1&apos;: &apos;%2:%3&apos;</source>
         <comment>Placeholders: Net name, Component name, Signal name</comment>
-        <translation type="unfinished"/>
+        <translation>Nemožné prepojenie v &apos;%1&apos;: &apos;%2:%3&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="217"/>
         <source>The pin of this device is connected to a net in the schematics, but the footprint doesn&apos;t expose a pad for it. Therefore it is impossible to make the electrical connection in the board. Check if another footprint or another device exposes a corresponding pad.</source>
-        <translation type="unfinished"/>
+        <translation>Pin tohto zariadenia je v schéme pripojený k prepojeniu, ale puzdro neobsahuje preň plôšku vývodu. Preto nie je možné vykonať elektrické pripojenie na doske. Skontrolujte, či iné puzdro alebo iná súčiastka neobsahuje zodpovedajúcu plôšku vývodu.</translation>
     </message>
 </context>
 <context>
@@ -1759,7 +1759,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="316"/>
         <source>Plated cutouts detected</source>
-        <translation type="unfinished"/>
+        <translation>Zistené pokovované výrezy</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="317"/>
@@ -10153,7 +10153,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbussegmentedit.cpp" line="41"/>
         <source>Edit Bus Segment</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť segment zbernice</translation>
     </message>
 </context>
 <context>
@@ -10161,7 +10161,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbussegmentremove.cpp" line="42"/>
         <source>Remove Bus Segment</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť segment zbernice</translation>
     </message>
 </context>
 <context>
@@ -10169,7 +10169,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbussegmentremoveelements.cpp" line="44"/>
         <source>Remove Bus Segment Elements</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť elementy segmentu zbernice</translation>
     </message>
 </context>
 <context>
@@ -12402,7 +12402,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="262"/>
         <source>Clear Cache</source>
-        <translation type="unfinished"/>
+        <translation>Vymazať vyrovnávaciu pamäť</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="337"/>
@@ -13791,12 +13791,12 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationpcbdesignrulesmodel.cpp" line="201"/>
         <source>PCB Design Rules Name</source>
-        <translation type="unfinished"/>
+        <translation>Pomenovanie návrhových pravidiel</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationpcbdesignrulesmodel.cpp" line="202"/>
         <source>Name of the PCB design rules:</source>
-        <translation type="unfinished"/>
+        <translation>Názov návrhových pravidiel dosky:</translation>
     </message>
 </context>
 <context>
@@ -13804,7 +13804,7 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="89"/>
         <source>PCB Design Rules: %1</source>
-        <translation type="unfinished"/>
+        <translation>Návrhové pravidlá dosky: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="228"/>
@@ -15165,7 +15165,7 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.ui" line="28"/>
         <source>Bus name:</source>
-        <translation type="unfinished"/>
+        <translation>Názov zbernice:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.ui" line="50"/>
