@@ -15181,7 +15181,7 @@ Afterwards the project library can be updated.</source>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="146"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="192"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="268"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="543"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="546"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
@@ -15196,7 +15196,7 @@ Afterwards the project library can be updated.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="470"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="473"/>
         <source>The component with the UUID &quot;%1&quot; does not have any symbol.</source>
         <translation type="unfinished"/>
     </message>

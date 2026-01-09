@@ -3038,7 +3038,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1139"/>
         <source>Draw Bus</source>
-        <translation type="unfinished"/>
+        <translation>Kresliť zbernicu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1140"/>
@@ -5847,12 +5847,12 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="91"/>
         <source>Buses</source>
-        <translation type="unfinished"/>
+        <translation>Zbernice</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="92"/>
         <source>Bus Labels</source>
-        <translation type="unfinished"/>
+        <translation>Označenie zberníc</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="93"/>
@@ -9514,7 +9514,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="libs/librepcb/editor/project/cmd/cmdbusadd.cpp" line="41"/>
         <location filename="libs/librepcb/editor/project/cmd/cmdbusadd.cpp" line="45"/>
         <source>Add Bus</source>
-        <translation type="unfinished"/>
+        <translation>Pridať zbernicu</translation>
     </message>
 </context>
 <context>
@@ -9522,7 +9522,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdbusedit.cpp" line="41"/>
         <source>Edit Bus</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť zbernicu</translation>
     </message>
 </context>
 <context>
@@ -9530,7 +9530,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdbusremove.cpp" line="41"/>
         <source>Remove Bus</source>
-        <translation type="unfinished"/>
+        <translation>Odstrániť zbernicu</translation>
     </message>
 </context>
 <context>
@@ -10120,7 +10120,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbuslabeladd.cpp" line="41"/>
         <source>Add Bus Label</source>
-        <translation type="unfinished"/>
+        <translation>Pridať označenie zbernice</translation>
     </message>
 </context>
 <context>
@@ -10128,7 +10128,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbuslabeledit.cpp" line="40"/>
         <source>Edit Bus Label</source>
-        <translation type="unfinished"/>
+        <translation>Upraviť označenie zbernice</translation>
     </message>
 </context>
 <context>
@@ -10137,7 +10137,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbussegmentadd.cpp" line="42"/>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbussegmentadd.cpp" line="50"/>
         <source>Add Bus Segment</source>
-        <translation type="unfinished"/>
+        <translation>Pridať segment zbernice</translation>
     </message>
 </context>
 <context>
@@ -10145,7 +10145,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbussegmentaddelements.cpp" line="43"/>
         <source>Add Bus Segment Elements</source>
-        <translation type="unfinished"/>
+        <translation>Pridať elementy segmentu zbernice</translation>
     </message>
 </context>
 <context>
@@ -15290,7 +15290,7 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="146"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="192"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="268"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="543"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="546"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -15305,7 +15305,7 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
         <translation>Pridať komponent do schémy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="470"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="473"/>
         <source>The component with the UUID &quot;%1&quot; does not have any symbol.</source>
         <translation>Komponent s UUID &quot;%1&quot; neobsahuje žiadnu sch. značku.</translation>
     </message>
