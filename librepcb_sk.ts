@@ -18457,7 +18457,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="635"/>
         <source>New Package Category</source>
-        <translation type="unfinished"/>
+        <translation>Nová kategória puzdra</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="727"/>
@@ -18467,22 +18467,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="742"/>
         <source>New Device</source>
-        <translation type="unfinished"/>
+        <translation>Nová súčiastka</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="753"/>
         <source>New Component</source>
-        <translation type="unfinished"/>
+        <translation>Nový komponent</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="765"/>
         <source>New Package</source>
-        <translation type="unfinished"/>
+        <translation>Nové puzdro</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="776"/>
         <source>New Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Nová schematická značka</translation>
     </message>
 </context>
 <context>
@@ -18705,12 +18705,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1002"/>
         <source>Reload Package From Disk</source>
-        <translation type="unfinished"/>
+        <translation>Znova načítať puzdro z disku</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1003"/>
         <source>Discard all modifications and reload the currently opened package from disk</source>
-        <translation type="unfinished"/>
+        <translation>Zahodenie úprav a znova načítanie otvoreného puzdra z disku</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="101"/>
@@ -18925,27 +18925,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="816"/>
         <source>New Package Category</source>
-        <translation type="unfinished"/>
+        <translation>Nová kategória puzdra</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="825"/>
         <source>New Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Nová schematická značka</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="834"/>
         <source>New Package</source>
-        <translation type="unfinished"/>
+        <translation>Nové puzdro</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="843"/>
         <source>New Component</source>
-        <translation type="unfinished"/>
+        <translation>Nový komponent</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="852"/>
         <source>New Device</source>
-        <translation type="unfinished"/>
+        <translation>Nová súčiastka</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="861"/>
@@ -18995,12 +18995,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="950"/>
         <source>Reload Symbol From Disk</source>
-        <translation type="unfinished"/>
+        <translation>Znova načítať schematický symbol z disku</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="951"/>
         <source>Discard all modifications and reload the currently opened symbol from disk</source>
-        <translation type="unfinished"/>
+        <translation>Zahodenie úprav a znova načítanie otvorenej schematickej značky z disku</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="970"/>
@@ -19221,12 +19221,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <location filename="libs/librepcb/editor/ui/library/org/organizationtab.slint" line="247"/>
         <location filename="libs/librepcb/editor/ui/library/org/organizationtab.slint" line="259"/>
         <source>%n output job(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n úloha generovania výstupov</numerusform><numerusform>%n úlohy generovania výstupov</numerusform><numerusform>%n úloh generovania výstupov</numerusform><numerusform>%n úloh generovania výstupov</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/org/organizationtab.slint" line="46"/>
         <source>Note: This is currently an experimental feature which will be polished in upcoming releases.</source>
-        <translation type="unfinished"/>
+        <translation>Poznámka: Toto je momentálne experimentálna funkcia, ktorá bude v nasledujúcich vydaniach vylepšená.</translation>
     </message>
 </context>
 <context>
@@ -19337,12 +19337,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/packageeditortagspanel.slint" line="109"/>
         <source>Type to add a new tag...</source>
-        <translation type="unfinished"/>
+        <translation>Písaním pridáte novú značku....</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/library/pkg/packageeditortagspanel.slint" line="84"/>
         <source>Suggested Tags:</source>
-        <translation type="unfinished"/>
+        <translation>Navrhované značky:</translation>
     </message>
 </context>
 <context>
@@ -19501,7 +19501,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="500"/>
         <source>New Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Nové návrhové pravidlá</translation>
     </message>
 </context>
 <context>
@@ -19509,7 +19509,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="433"/>
         <source>PCB Design Rules:</source>
-        <translation type="unfinished"/>
+        <translation>Návrhové pravidlá dosky:</translation>
     </message>
 </context>
 <context>
@@ -19517,7 +19517,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="510"/>
         <source>PCB Service:</source>
-        <translation type="unfinished"/>
+        <translation>Výrobca dosky:</translation>
     </message>
 </context>
 <context>
@@ -19530,22 +19530,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="131"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenia</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="162"/>
         <source>THT Pads:</source>
-        <translation type="unfinished"/>
+        <translation>THT plôšky vývodov:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="191"/>
         <source>SMT Pads:</source>
-        <translation type="unfinished"/>
+        <translation>SMT plôšky vývodov:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="220"/>
         <source>Density:</source>
-        <translation type="unfinished"/>
+        <translation>Hustota:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="263"/>
@@ -19716,7 +19716,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="222"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavenia</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="234"/>
@@ -19726,7 +19726,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="267"/>
         <source>These settings are stored in the currently opened package and don&apos;t affect other packages.</source>
-        <translation type="unfinished"/>
+        <translation>Tieto nastavenia sú uložené v aktuálne otvorenom puzdre a neovplyvňujú ostatné puzdra.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="277"/>
@@ -19736,12 +19736,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="287"/>
         <source>Recommended: %1 (default)</source>
-        <translation type="unfinished"/>
+        <translation>Odporúčané: %1 (predvolené)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="287"/>
         <source>Reduce it for packages with very small pitch</source>
-        <translation type="unfinished"/>
+        <translation>Zmenšite to pre puzdrá s veľmi malým rozstupom</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="311"/>
@@ -19766,7 +19766,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="388"/>
         <source>This message is marked as fixed. Run the checks again to verify the message is really resolved and disappears.</source>
-        <translation type="unfinished"/>
+        <translation>Táto správa je označená ako vybavená. Znova spustite kontroly, aby ste overili, či je správa skutočne vyriešená a zmizla.</translation>
     </message>
 </context>
 <context>
@@ -19863,27 +19863,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="32"/>
         <source>Prefer easy hand-soldering</source>
-        <translation type="unfinished"/>
+        <translation>Uprednostňované pre jednoduché ručné spájkovanie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="34"/>
         <source>Prefer hand-soldering</source>
-        <translation type="unfinished"/>
+        <translation>Uprednostňované pre ručné spájkovanie</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="36"/>
         <source>Prefer reflow-soldering</source>
-        <translation type="unfinished"/>
+        <translation>Uprednostňované pre spájkovanie pretavením (reflow)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="38"/>
         <source>Prefer wave-soldering</source>
-        <translation type="unfinished"/>
+        <translation>Uprednostňované pre spájkovanie vlnou (wave)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="40"/>
         <source>No soldering preference</source>
-        <translation type="unfinished"/>
+        <translation>Bez spájkovacích preferencií</translation>
     </message>
 </context>
 <context>
