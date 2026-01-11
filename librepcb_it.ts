@@ -6585,12 +6585,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::FileFormatMigrationV1</name>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="292"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="306"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings (choose &quot;Import Old Settings&quot;).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="376"/>
+        <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="390"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
         <translation type="unfinished"/>
     </message>
