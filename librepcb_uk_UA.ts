@@ -13117,12 +13117,12 @@ Do you really want to close it?</source>
 <context>
     <name>librepcb::editor::LibrariesModel</name>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="264"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="269"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="469"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="474"/>
         <source>Failed to fetch libraries from &apos;%1&apos;: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -13308,14 +13308,14 @@ Are you still sure to delete the following library elements?</source>
         <translation>Копіювати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="692"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="991"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1031"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1113"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1247"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1335"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1379"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1427"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="994"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1034"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1116"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1250"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1338"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1382"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1430"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
