@@ -12385,7 +12385,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="594"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="602"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>

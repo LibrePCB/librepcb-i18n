@@ -12428,7 +12428,7 @@ Pozor: Zakřivené drážky nejsou v režimu G85 podporovány (vyvolá chybu).</
         <translation>Zdá se, že při posledním použití tohoto projektu selhala aplikace. Přejete si obnovit poslední automaticky uloženou zálohu?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="594"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="602"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
