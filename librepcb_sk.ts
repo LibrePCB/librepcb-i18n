@@ -6923,7 +6923,7 @@ Potrebujete najnovšiu verziu LibrePCB %1 pre jeho otvorenie.
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="133"/>
         <source>Note: This is a temporary file since the project has not been saved to disk yet. When you save the project, this log will be written to the projects &apos;%1&apos; directory.</source>
-        <translation>Poznámka: Toto je dočasný súbor, pretože projekt ešte nebol uložený na disk. Po uložení projektu sa tento protokol bude zapísaný do adresára projektu &apos;%1&apos;.</translation>
+        <translation>Poznámka: Toto je dočasný súbor, pretože projekt ešte nebol uložený na disk. Po uložení projektu, bude tento protokol zapísaný do adresára projektu &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="140"/>
@@ -16721,7 +16721,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="69"/>
         <source>Please consider supporting our hard work with a donation ‒ thank you.</source>
-        <translation>Zvážte, prosím, podporu našej tvrdej práce darom ‒ ďakujeme.</translation>
+        <translation>Zvážte prosím podporu tejto tvrdej práce darom ‒ ďakujeme.</translation>
     </message>
 </context>
 <context>
