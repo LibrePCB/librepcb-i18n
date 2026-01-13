@@ -2154,7 +2154,7 @@ Tento výrez sa nachádza na vrstve &quot;%1“, ale nemá meď na vrchnej aj sp
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="293"/>
         <source>Update Project Library</source>
-        <translation>Inovovať projektovú knižnicu</translation>
+        <translation>Aktualizovať projektovú knižnicu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="294"/>
@@ -3056,7 +3056,7 @@ Tento výrez sa nachádza na vrstve &quot;%1“, ale nemá meď na vrchnej aj sp
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1148"/>
         <source>Add Label to Net or Bus</source>
-        <translation>Pridanie označenia k prepojeniu alebo k zbernici</translation>
+        <translation>Pridať označenie k prepojeniu alebo k zbernici</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1149"/>
@@ -12701,7 +12701,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="14"/>
         <source>Upgrade Workspace</source>
-        <translation>Inovovať pracovný priestor</translation>
+        <translation>Aktualizovať pracovný priestor</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="17"/>
@@ -12735,7 +12735,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="52"/>
         <source>Upgrade</source>
-        <translation>Inovovať</translation>
+        <translation>Aktualizovať</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="86"/>
@@ -18865,7 +18865,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="570"/>
         <source>View</source>
-        <translation>Zobrazenie</translation>
+        <translation>Zobraziť</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="597"/>
