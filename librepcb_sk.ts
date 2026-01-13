@@ -19993,12 +19993,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::WindowSection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="204"/>
+        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="205"/>
         <source>Split Section</source>
         <translation>Rozdeliť sekciu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="217"/>
+        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="218"/>
         <source>Close Section</source>
         <translation>Zavrieť sekciu</translation>
     </message>

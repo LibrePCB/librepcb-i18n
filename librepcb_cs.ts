@@ -19928,12 +19928,12 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
 <context>
     <name>ui::WindowSection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="204"/>
+        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="205"/>
         <source>Split Section</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="217"/>
+        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="218"/>
         <source>Close Section</source>
         <translation type="unfinished"/>
     </message>
