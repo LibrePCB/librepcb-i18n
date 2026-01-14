@@ -10593,17 +10593,17 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::ComponentVariantEditor</name>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="121"/>
+        <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="136"/>
         <source>There is already a variant with the name &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="138"/>
+        <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="153"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="165"/>
+        <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="180"/>
         <source>Auto-Assign Component Signals</source>
         <translation type="unfinished"/>
     </message>
@@ -17313,38 +17313,38 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="641"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="644"/>
         <source>This variant contains no gate!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="645"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="648"/>
         <source>Add gates to this component by choosing the corresponding symbols.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="646"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="649"/>
         <source>Most components consist of only one gate, but for example a 4-channel ADC could be built up with four single-channel ADC gates.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="647"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="650"/>
         <source>Those gates are all part of the same component, but can be placed individually in the schematics.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="656"/>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="673"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="659"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="676"/>
         <source>Add Gate</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="682"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="685"/>
         <source>Move Up</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="692"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="695"/>
         <source>Set as Default</source>
         <translation type="unfinished"/>
     </message>
@@ -17352,7 +17352,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::ComponentVariantListView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="747"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="750"/>
         <source>Add Variant</source>
         <translation type="unfinished"/>
     </message>

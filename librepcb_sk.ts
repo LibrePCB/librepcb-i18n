@@ -10656,17 +10656,17 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::ComponentVariantEditor</name>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="121"/>
+        <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="136"/>
         <source>There is already a variant with the name &quot;%1&quot;.</source>
         <translation>Už existuje variant s názvom &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="138"/>
+        <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="153"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="165"/>
+        <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="180"/>
         <source>Auto-Assign Component Signals</source>
         <translation>Automaticky priradiť signály komponentu</translation>
     </message>
@@ -17443,38 +17443,38 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>Náhľad umiestnenia komponentu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="641"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="644"/>
         <source>This variant contains no gate!</source>
         <translation>Tento variant neobsahuje sekcie!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="645"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="648"/>
         <source>Add gates to this component by choosing the corresponding symbols.</source>
         <translation>Pridajte sekcie do tohto komponentu výberom príslušných sch. symbolov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="646"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="649"/>
         <source>Most components consist of only one gate, but for example a 4-channel ADC could be built up with four single-channel ADC gates.</source>
         <translation>Väčšina súčiastok pozostáva iba z jednej sekcie, ale napríklad 4-kanálový ADC by sa dal zostaviť zo štyroch jednokanálových ADC sekcií.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="647"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="650"/>
         <source>Those gates are all part of the same component, but can be placed individually in the schematics.</source>
         <translation>Tieto sekcie sú súčasťou toho istého komponentu, ale v schémach ich možno umiestniť samostatne.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="656"/>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="673"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="659"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="676"/>
         <source>Add Gate</source>
         <translation>Pridať sekciu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="682"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="685"/>
         <source>Move Up</source>
         <translation>Presunúť nahor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="692"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="695"/>
         <source>Set as Default</source>
         <translation>Nastaviť ako predvolené</translation>
     </message>
@@ -17482,7 +17482,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ComponentVariantListView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="747"/>
+        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="750"/>
         <source>Add Variant</source>
         <translation>Pridať variant</translation>
     </message>
