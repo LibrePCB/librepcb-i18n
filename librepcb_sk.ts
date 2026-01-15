@@ -17852,7 +17852,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DocumentsListItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="104"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="105"/>
         <source>Open 3D View</source>
         <translation>Otvoriť 3D zobrazenie</translation>
     </message>
@@ -18568,17 +18568,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibrarySection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="286"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="294"/>
         <source>Close Library</source>
         <translation>Zavrieť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="287"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="295"/>
         <source>Close this library and all its opened tabs</source>
         <translation>Zatrieť túto knižnicu a všetky jej otvorené karty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="309"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="317"/>
         <source>Library Overview</source>
         <translation>Prehľad knižnice</translation>
     </message>
@@ -19627,9 +19627,19 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ProjectSection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="166"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="167"/>
         <source>save</source>
         <translation>uložiť</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="229"/>
+        <source>Schematic</source>
+        <translation>Schéma</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="249"/>
+        <source>Board</source>
+        <translation>Doska</translation>
     </message>
 </context>
 <context>

@@ -17728,7 +17728,7 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>ui::DocumentsListItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="104"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="105"/>
         <source>Open 3D View</source>
         <translation type="unfinished"/>
     </message>
@@ -18444,17 +18444,17 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>ui::LibrarySection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="286"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="294"/>
         <source>Close Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="287"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="295"/>
         <source>Close this library and all its opened tabs</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="309"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="317"/>
         <source>Library Overview</source>
         <translation type="unfinished"/>
     </message>
@@ -19503,8 +19503,18 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>ui::ProjectSection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="166"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="167"/>
         <source>save</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="229"/>
+        <source>Schematic</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="249"/>
+        <source>Board</source>
         <translation type="unfinished"/>
     </message>
 </context>
