@@ -19289,27 +19289,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageEditorTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="741"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="743"/>
         <source>Helper Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="856"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="858"/>
         <source>Devices</source>
         <translation>Устройства</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="869"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="871"/>
         <source>Solder Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="882"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="884"/>
         <source>Silkscreen</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="895"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="897"/>
         <source>Solder Resist</source>
         <translation type="unfinished"/>
     </message>
@@ -19348,42 +19348,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackagePadsEditorTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="256"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="258"/>
         <source>Add all (potentially solderable) package pads which are electrically independent, no matter if they actually have an electrical function in a particular part.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="257"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="259"/>
         <source>For example, a thermal pad should be listed here, even though it may not have an electrical function.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="258"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="260"/>
         <source>Once the package is finished, it is *not* possible anymore to add or remove pads.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="263"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="265"/>
         <source>Important:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="273"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="275"/>
         <source>Add Pads:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="278"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="280"/>
         <source>Pad name (may contain ranges like \&quot;1..5\&quot;)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="326"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="328"/>
         <source>Finish</source>
         <translation>Finish</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="336"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="338"/>
         <source>Back</source>
         <translation type="unfinished"/>
     </message>
@@ -19391,22 +19391,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1049"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1051"/>
         <source>Metadata</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1050"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1052"/>
         <source>Pads</source>
         <translation>Контактные площадки</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1051"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1053"/>
         <source>Footprints</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1052"/>
+        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1054"/>
         <source>3D Models</source>
         <translation>3D-модели</translation>
     </message>
