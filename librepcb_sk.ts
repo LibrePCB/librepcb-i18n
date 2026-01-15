@@ -17511,8 +17511,8 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/api/constants.slint" line="8"/>
-        <source>None (excluded from BOM/PnP</source>
-        <translation>Žiadne (vylúčené z BOM/PnP</translation>
+        <source>None (excluded from BOM/PnP)</source>
+        <translation>Žiadne (vylúčené z BOM/PnP)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/api/constants.slint" line="9"/>
