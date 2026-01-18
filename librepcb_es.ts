@@ -13234,14 +13234,14 @@ Are you still sure to delete the following library elements?</source>
         <translation>Copiar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="695"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="994"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1034"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1116"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1250"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1338"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1382"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1430"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="706"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1005"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1045"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1127"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1261"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1349"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1393"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1441"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
