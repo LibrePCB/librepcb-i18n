@@ -18364,42 +18364,42 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibrariesPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="515"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="520"/>
         <source>Local Libraries</source>
         <translation>Lokálne knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="530"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="535"/>
         <source>Remote Libraries</source>
         <translation>Vzdialené knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="558"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="563"/>
         <source>Pending Operations</source>
         <translation>Čakajúce operácie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="609"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="614"/>
         <source>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</source>
         <translation>Niektoré knižnice, označené na odinštalovanie, momentálne nie sú k dispozícii na inštaláciu, preto ich odstránenie nebude možné zvrátiť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="609"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="614"/>
         <source>Warning</source>
         <translation>Upozornenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="625"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="630"/>
         <source>Apply</source>
         <translation>Použiť</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="625"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="630"/>
         <source>Apply %n Modification(s)</source>
         <translation><numerusform>Použiť %n modifikáciu</numerusform><numerusform>Použiť %n modifikácie</numerusform><numerusform>Použiť %n modifikácii</numerusform><numerusform>Použiť %n modifikácii</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="638"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="643"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
@@ -18432,17 +18432,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>Zrušiť kontrolu aktualizácie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="393"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="398"/>
         <source>No remote part libraries are currently installed. To get parts like resistors, LEDs, microcontrollers etc., choose some libraries to be downloaded from the internet.</source>
         <translation>Momentálne nie sú nainštalované žiadne vzdialené knižnice súčiastok. Ak chcete získať súčiastky ako rezistory, LED diódy, mikrokontroléry atď., vyberte si niektoré knižnice, ktoré sa majú stiahnuť z internetu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="404"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="409"/>
         <source>No local libraries exist in this workspace. In order to create your own parts, add a new local library first with the button above.</source>
         <translation>V tomto pracovnom priestore neexistujú žiadne lokálne knižnice. Ak chcete vytvoriť vlastné súčiastky, najprv pridajte novú lokálnu knižnicu pomocou tlačidla vyššie.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="414"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="419"/>
         <source>No libraries matching the filter.</source>
         <translation>Žiadne knižnice nezodpovedajú filtru.</translation>
     </message>

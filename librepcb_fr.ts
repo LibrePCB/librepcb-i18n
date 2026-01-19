@@ -18234,42 +18234,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibrariesPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="515"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="520"/>
         <source>Local Libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="530"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="535"/>
         <source>Remote Libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="558"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="563"/>
         <source>Pending Operations</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="609"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="614"/>
         <source>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="609"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="614"/>
         <source>Warning</source>
         <translation>Avertissement</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="625"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="630"/>
         <source>Apply</source>
         <translation>Appliquer</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="625"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="630"/>
         <source>Apply %n Modification(s)</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="638"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="643"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
@@ -18302,17 +18302,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="393"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="398"/>
         <source>No remote part libraries are currently installed. To get parts like resistors, LEDs, microcontrollers etc., choose some libraries to be downloaded from the internet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="404"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="409"/>
         <source>No local libraries exist in this workspace. In order to create your own parts, add a new local library first with the button above.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="414"/>
+        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="419"/>
         <source>No libraries matching the filter.</source>
         <translation type="unfinished"/>
     </message>
