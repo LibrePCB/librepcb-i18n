@@ -619,8 +619,8 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="935"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1543"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1654"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1550"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1661"/>
         <source>ERROR</source>
         <translation>CHYBA</translation>
     </message>
@@ -673,7 +673,7 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1144"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1667"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1674"/>
         <source>ERROR: The file &apos;%1&apos; was written multiple times!</source>
         <translation>CHYBA: Súbor &apos;%1&apos; bol viac krát prepísaný!</translation>
     </message>
@@ -685,9 +685,9 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1160"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1319"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1550"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1683"/>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1759"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1557"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1690"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1766"/>
         <source>ERROR: %1</source>
         <translation>CHYBA: %1</translation>
     </message>
@@ -773,72 +773,77 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
         <translation>Kontrolovanie &apos;%1&apos; na ne-kanonické súbory...</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1422"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1423"/>
+        <source>Skip checks for &apos;%1&apos; (deprecated)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1428"/>
         <source>Run checks for &apos;%1&apos;...</source>
         <translation>Spustenie kontroly &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1445"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1452"/>
         <source>Save &apos;%1&apos;...</source>
         <translation>Ukladanie &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1466"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1473"/>
         <source>Open symbol &apos;%1&apos;...</source>
         <translation>Otvorenie schematickej značky &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1473"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1480"/>
         <source>Opened symbol: %1</source>
         <translation>Otvorená schematická značka: %1</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1491"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1498"/>
         <source>Export symbol to &apos;%1&apos;...</source>
         <translation>Exportovanie schematickej značky do &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1564"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1571"/>
         <source>Open package &apos;%1&apos;...</source>
         <translation>Otvorenie puzdra &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1571"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1578"/>
         <source>Opened package: %1</source>
         <translation>Otvorené puzdro: %1</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1589"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1596"/>
         <source>Export footprint(s) to &apos;%1&apos;...</source>
         <translation>Exportovanie puzdra/puzdier do &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1673"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1680"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For footprint output files, you could add a placeholder like &apos;%1&apos; to the path.</source>
         <translation>POZNÁMKA: Aby ste sa vyhli prepisovaniu súborov, uistite sa, že všetkým exportným funkciám zadávate jedinečné cesty k súborom. Pre výstupné súbory s puzdrami môžete k ceste pridať zástupný symbol, napríklad &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1811"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1818"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
         <translation>Táto verzia aplikácie je NESTABILNÁ! Možnosť &apos;%1&apos; je deaktivovaná, aby nedošlo k poškodeniu projektov alebo knižníc. Namiesto toho použite prosím stabilnú verziu.</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1839"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1846"/>
         <source>Warning</source>
         <translation>Upozornenie</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1840"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1847"/>
         <source>The command or option &apos;%1&apos; is deprecated and will be removed in a future release.</source>
         <translation>Príkaz, alebo možnosť &apos;%1&apos; je zastaraná a v ďalšom vydaní bude odstránená.</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1845"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1852"/>
         <source>Please see &apos;%1&apos; for a possible replacement.</source>
         <translation>Pre možnú náhradu pozrite &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1848"/>
+        <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1855"/>
         <source>For now, the command will be executed, but the CLI will return with a nonzero exit code. As a temporary workaround, this warning and the nonzero exit code can be suppressed with the environment variable &apos;%1&apos;.</source>
         <translation>Príkaz sa zatiaľ vykoná, ale rozhranie príkazového riadku vráti nenulový ukončovací kód. Ako dočasné riešenie je možné toto varovanie a nenulový ukončovací kód potlačiť pomocou premennej prostredia &apos;%1&apos;.</translation>
     </message>
