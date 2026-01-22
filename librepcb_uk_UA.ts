@@ -5417,47 +5417,47 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>Pad</name>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="377"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="387"/>
         <source>Not Specified</source>
         <translation>Не Вказано</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="379"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="389"/>
         <source>Standard Pad (soldered)</source>
         <translation>Стандартні підкладки (паяні)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="381"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="391"/>
         <source>Press-Fit Pad (THT, soldered)</source>
         <translation>Підкладка Press-Fit (THT, паяні)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="383"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="393"/>
         <source>Thermal Pad (SMT, soldered)</source>
         <translation>Термопідкладки (SMT, паяні)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="385"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="395"/>
         <source>BGA Pad (SMT, soldered)</source>
         <translation>Підкладка BGA (SMT, паяні)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="387"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="397"/>
         <source>Edge Connector Pad (SMT, no soldering)</source>
         <translation>Підкладка Краєвого Роз&apos;єму (SMT, без паяння)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="389"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="399"/>
         <source>Test Pad (SMT, no soldering)</source>
         <translation>Тестові підкладки (SMT, без паяння)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="391"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="401"/>
         <source>Local Footprint Fiducial (SMT, no soldering)</source>
         <translation>Локальний фідуціал відбитка (SMT, без паяння)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="393"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="403"/>
         <source>Global Board Fiducial (SMT, no soldering)</source>
         <translation>Глобальний фідуціал плати (SMT, без паяння)</translation>
     </message>

@@ -5423,47 +5423,47 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>Pad</name>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="377"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="387"/>
         <source>Not Specified</source>
         <translation>Не указано</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="379"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="389"/>
         <source>Standard Pad (soldered)</source>
         <translation>Стандартная колодка (припаяна)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="381"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="391"/>
         <source>Press-Fit Pad (THT, soldered)</source>
         <translation>Прижимная колодка (THT, припаяна)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="383"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="393"/>
         <source>Thermal Pad (SMT, soldered)</source>
         <translation>Тепловая панель (SMT, паяная)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="385"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="395"/>
         <source>BGA Pad (SMT, soldered)</source>
         <translation>Площадка BGA (SMT, паяная)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="387"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="397"/>
         <source>Edge Connector Pad (SMT, no soldering)</source>
         <translation>Краевая соединительная колодка (SMT, без пайки)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="389"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="399"/>
         <source>Test Pad (SMT, no soldering)</source>
         <translation>Тестовая контактная площадка  (SMT, без пайки)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="391"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="401"/>
         <source>Local Footprint Fiducial (SMT, no soldering)</source>
         <translation>Локальные реперные знаки посад. площадки (SMT, без пайки)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="393"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="403"/>
         <source>Global Board Fiducial (SMT, no soldering)</source>
         <translation>Глобальные реперные знаки платы (SMT, без пайки)</translation>
     </message>
