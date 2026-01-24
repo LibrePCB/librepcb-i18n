@@ -13133,8 +13133,8 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="345"/>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="354"/>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="518"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1035"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1086"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1047"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1098"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -13154,49 +13154,49 @@ Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="664"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="667"/>
         <source>Unknown</source>
         <translation>Sconosciuto</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="976"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="988"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="981"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="993"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="994"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1006"/>
         <source>Note: This operation cannot be easily undone, except by opening the destination library and moving the library elements back the same way.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1000"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1012"/>
         <source>Important: This operation copies the selected library elements while retaining their UUIDs, so they must not be modified to represent a different part afterwards. The main purpose of this operation is to override library elements from a read-only library with minor adjustments, which is only possible in local, writable libraries.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1010"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1022"/>
         <source>Move %1 Elements</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1060"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1072"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1073"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1085"/>
         <source>This cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1077"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1089"/>
         <source>Remove %1 Elements</source>
         <translation type="unfinished"/>
     </message>
@@ -18485,48 +18485,53 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>ui::LibraryTreeView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="166"/>
+        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="168"/>
         <source>All Elements</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="168"/>
+        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="170"/>
         <source>Uncategorized</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="170"/>
+        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="172"/>
         <source>Component Categories</source>
         <translation>Categorie di Componenenti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="172"/>
+        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="174"/>
         <source>Package Categories</source>
         <translation>Categorie di contenitori</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="174"/>
+        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="176"/>
         <source>Symbols</source>
         <translation>Simboli</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="176"/>
+        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="178"/>
         <source>Packages</source>
         <translation>Contenitori</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="178"/>
+        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="180"/>
         <source>Components</source>
         <translation>Componenti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="180"/>
+        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="182"/>
         <source>Devices</source>
         <translation>Dispositivi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="182"/>
+        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="184"/>
         <source>Organizations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="200"/>
+        <source>Deprecated</source>
         <translation type="unfinished"/>
     </message>
 </context>
