@@ -775,7 +775,7 @@ Minimalizuje všetky STEP modely. Funguje iba v spojení s &apos;--all&apos;. Ak
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1423"/>
         <source>Skip checks for &apos;%1&apos; (deprecated)</source>
-        <translation type="unfinished"/>
+        <translation>Preskočiť kontroly &apos;%1&apos; (zastarané)</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1428"/>
