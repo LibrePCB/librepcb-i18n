@@ -13240,13 +13240,13 @@ Are you still sure to delete the following library elements?</source>
     </message>
     <message>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="706"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1005"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1045"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1127"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1261"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1349"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1393"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1441"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1006"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1046"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1128"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1262"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1350"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1394"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1442"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -17727,7 +17727,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::DocumentsListItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="105"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="111"/>
         <source>Open 3D View</source>
         <translation type="unfinished"/>
     </message>
@@ -18443,17 +18443,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibrarySection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="294"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="300"/>
         <source>Close Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="295"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="301"/>
         <source>Close this library and all its opened tabs</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="317"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="323"/>
         <source>Library Overview</source>
         <translation type="unfinished"/>
     </message>
@@ -19507,17 +19507,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::ProjectSection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="167"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="173"/>
         <source>save</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="229"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="235"/>
         <source>Schematic</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="249"/>
+        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="255"/>
         <source>Board</source>
         <translation type="unfinished"/>
     </message>
