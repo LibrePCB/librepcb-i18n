@@ -8414,7 +8414,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="123"/>
         <source>Thermal Spokes:</source>
-        <translation>Pripojenie tepelného prepoja:</translation>
+        <translation>Ramená tepelného prepojenia:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="139"/>
