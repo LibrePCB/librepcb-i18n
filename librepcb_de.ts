@@ -4147,7 +4147,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="122"/>
         <source>Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Schaltplan</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="146"/>
@@ -5753,7 +5753,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="80"/>
         <source>Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Schaltplan</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="81"/>
@@ -12248,7 +12248,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="342"/>
         <source>Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Schaltplan</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="348"/>
@@ -19514,7 +19514,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="235"/>
         <source>Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Schaltplan</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="255"/>
