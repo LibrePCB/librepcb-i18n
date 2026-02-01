@@ -10729,7 +10729,7 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="94"/>
         <source>Substitute Variables</source>
-        <translation>Nahradiť premenné</translation>
+        <translation>Nahradzovacie premenné</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="108"/>
