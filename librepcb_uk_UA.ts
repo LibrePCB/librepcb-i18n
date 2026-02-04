@@ -19866,12 +19866,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::StatusBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/statusbar.slint" line="275"/>
+        <location filename="libs/librepcb/editor/ui/statusbar.slint" line="277"/>
         <source>Grid Interval</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/statusbar.slint" line="312"/>
+        <location filename="libs/librepcb/editor/ui/statusbar.slint" line="277"/>
+        <source>scroll up/down on hover</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/statusbar.slint" line="314"/>
         <source>Grid Style</source>
         <translation type="unfinished"/>
     </message>

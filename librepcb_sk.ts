@@ -19909,12 +19909,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::StatusBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/statusbar.slint" line="275"/>
+        <location filename="libs/librepcb/editor/ui/statusbar.slint" line="277"/>
         <source>Grid Interval</source>
         <translation>Interval rastra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/statusbar.slint" line="312"/>
+        <location filename="libs/librepcb/editor/ui/statusbar.slint" line="277"/>
+        <source>scroll up/down on hover</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/ui/statusbar.slint" line="314"/>
         <source>Grid Style</source>
         <translation>Štýl Rastra</translation>
     </message>
