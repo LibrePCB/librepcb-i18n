@@ -12479,7 +12479,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
         <translation>Zdá sa, že pri poslednom použití tohto projektu zlyhala aplikácia. Želáte si obnoviť poslednú automaticky uloženú zálohu?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="602"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="608"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>

@@ -12459,7 +12459,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation>Здається, що програма впала останній раз, коли ви відкривали цей проект. Чи хочете ви відновити останню автозбережену резервну копію?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="602"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="608"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
