@@ -16669,62 +16669,62 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AboutPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="120"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="120"/>
         <source>View Source Code</source>
         <translation>Zobraziť zdrojový kód</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="121"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="121"/>
         <source>Open the source code in the web browser</source>
         <translation>Otvorenie internetového prehliadača so zdrojovým kódom</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="157"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="157"/>
         <source>Details</source>
         <translation>Podrobnosti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="158"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="158"/>
         <source>(please copy this into bug reports)</source>
         <translation>(skopírujte to prosím do hlásení o chybách)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="188"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="188"/>
         <source>Credits</source>
         <translation>Poďakovanie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="196"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="196"/>
         <source>LibrePCB relies on many contributors, sponsors, open-source software components and artwork.</source>
         <translation>LibrePCB sa spolieha na mnohých prispievateľov, sponzorov, komponenty softvéru s otvoreným zdrojovým kódom a grafiky.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="197"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="197"/>
         <source>Many thanks to all the people supporting LibrePCB either directly or indirectly!</source>
         <translation>Veľká vďaka všetkým ľuďom, ktorí priamo alebo nepriamo podporujú LibrePCB!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="209"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="209"/>
         <source>For the list of current sponsors, see %1.</source>
         <translation>Zoznam aktuálnych sponzorov nájdete v %1.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="242"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="242"/>
         <source>License</source>
         <translation>Licencia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="253"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="253"/>
         <source>This is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text in our source code.</source>
         <translation>Toto je slobodný softvér, vydaný pod licenciou GNU General Public License (GPL) verzie 3 alebo novšej. Úplný text licencie nájdete v našom zdrojovom kóde.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="68"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="68"/>
         <source>LibrePCB is a free &amp; open source community project. It is operated by %1 with the support of many other contributors.</source>
         <translation>LibrePCB je bezplatný komunitný projekt s otvoreným zdrojovým kódom. Prevádzkuje ho %1 s podporou mnohých ďalších prispievateľov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/aboutpanel.slint" line="69"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="69"/>
         <source>Please consider supporting our hard work with a donation ‒ thank you.</source>
         <translation>Zvážte prosím podporu tejto tvrdej práce darom ‒ ďakujeme.</translation>
     </message>
@@ -16732,7 +16732,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AddComponentToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/schematic/addcomponenttoolbar.slint" line="20"/>
+        <location filename="libs/librepcb/ui/project/schematic/addcomponenttoolbar.slint" line="20"/>
         <source>Enter value here...</source>
         <translation>Zadajte hodnotu...</translation>
     </message>
@@ -16740,7 +16740,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AddFootprintHoleToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintholetoolbar.slint" line="17"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintholetoolbar.slint" line="17"/>
         <source>Hole Diameter</source>
         <translation>Priemer otvoru</translation>
     </message>
@@ -16748,42 +16748,42 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AddFootprintPadToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintpadtoolbar.slint" line="122"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="122"/>
         <source>Copper Clearance</source>
         <translation>Vzdialenosť vodivých prvkov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintpadtoolbar.slint" line="122"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="122"/>
         <source>Height</source>
         <translation>Výška</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintpadtoolbar.slint" line="145"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="145"/>
         <source>Drill Diameter</source>
         <translation>Priemer vrtáku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintpadtoolbar.slint" line="170"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="170"/>
         <source>Corner Radius</source>
         <translation>Polomer oblúka rohu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintpadtoolbar.slint" line="190"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="190"/>
         <source>Press-Fit</source>
         <translation>Press-Fit</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintpadtoolbar.slint" line="191"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="191"/>
         <source>Mark this pad as a press-fit pad</source>
         <translation>Označiť túto plôšku vývodu ako lisovaciu (Press-Fit)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintpadtoolbar.slint" line="93"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="93"/>
         <source>Diameter</source>
         <translation>Priemer</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintpadtoolbar.slint" line="93"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="93"/>
         <source>Width</source>
         <translation>Šírka</translation>
     </message>
@@ -16791,17 +16791,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AddFootprintStrokeTextToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="35"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="35"/>
         <source>Enter text here...</source>
         <translation>Zadajte text...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="46"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="46"/>
         <source>Text Height</source>
         <translation>Výška textu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="69"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="69"/>
         <source>Stroke Width</source>
         <translation>Šírka</translation>
     </message>
@@ -16809,7 +16809,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AddHoleToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addholetoolbar.slint" line="17"/>
+        <location filename="libs/librepcb/ui/project/board/addholetoolbar.slint" line="17"/>
         <source>Via Drill Diameter</source>
         <translation>Priemer vrtáku prechodu</translation>
     </message>
@@ -16817,42 +16817,42 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AddPadToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="121"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="121"/>
         <source>Copper Clearance</source>
         <translation>Vzdialenosť vodivých prvkov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="121"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="121"/>
         <source>Height</source>
         <translation>Výška</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="144"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="144"/>
         <source>Drill Diameter</source>
         <translation>Priemer vrtáku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="169"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="169"/>
         <source>Corner Radius</source>
         <translation>Polomer oblúka rohu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="189"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="189"/>
         <source>Press-Fit</source>
         <translation>Press-Fit</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="190"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="190"/>
         <source>Mark this pad as a press-fit pad</source>
         <translation>Označiť túto plôšku vývodu ako lisovaciu (Press-Fit)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="92"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="92"/>
         <source>Diameter</source>
         <translation>Priemer</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="92"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="92"/>
         <source>Width</source>
         <translation>Šírka</translation>
     </message>
@@ -16860,17 +16860,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AddStrokeTextToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addstroketexttoolbar.slint" line="31"/>
+        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="31"/>
         <source>Enter text here...</source>
         <translation>Zadajte text...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addstroketexttoolbar.slint" line="42"/>
+        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="42"/>
         <source>Text Height</source>
         <translation>Výška textu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addstroketexttoolbar.slint" line="65"/>
+        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="65"/>
         <source>Mirror Text</source>
         <translation>Zrkadliť text</translation>
     </message>
@@ -16878,17 +16878,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AddSymbolPinToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/addsymbolpintoolbar.slint" line="23"/>
+        <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="23"/>
         <source>Pin Name</source>
         <translation>Názov vývodu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/addsymbolpintoolbar.slint" line="33"/>
+        <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="33"/>
         <source>Pin Length</source>
         <translation>Dĺžka vývodu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/addsymbolpintoolbar.slint" line="55"/>
+        <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="55"/>
         <source>Mass Import</source>
         <translation>Hromadný import</translation>
     </message>
@@ -16896,12 +16896,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AddSymbolTextToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/addsymboltexttoolbar.slint" line="34"/>
+        <location filename="libs/librepcb/ui/library/sym/addsymboltexttoolbar.slint" line="34"/>
         <source>Enter text here...</source>
         <translation>Zadajte text...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/addsymboltexttoolbar.slint" line="45"/>
+        <location filename="libs/librepcb/ui/library/sym/addsymboltexttoolbar.slint" line="45"/>
         <source>Text Height</source>
         <translation>Výška textu</translation>
     </message>
@@ -16909,12 +16909,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AddTextToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/schematic/addtexttoolbar.slint" line="31"/>
+        <location filename="libs/librepcb/ui/project/schematic/addtexttoolbar.slint" line="31"/>
         <source>Enter text here...</source>
         <translation>Zadajte text...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/schematic/addtexttoolbar.slint" line="42"/>
+        <location filename="libs/librepcb/ui/project/schematic/addtexttoolbar.slint" line="42"/>
         <source>Text Height</source>
         <translation>Výška textu</translation>
     </message>
@@ -16922,32 +16922,32 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AddViaToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="33"/>
+        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="33"/>
         <source>Via Drill Diameter</source>
         <translation>Priemer vrtáku prechodu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="72"/>
+        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="72"/>
         <source>Set as Default in Board</source>
         <translation>Nastaviť ako predvolené pre dosku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="73"/>
+        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="73"/>
         <source>Saves the entered value in the board design rules as default value</source>
         <translation>Uloženie zadanej hodnoty do pravidiel návrhu dosky ako predvolenú hodnotu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="82"/>
+        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="82"/>
         <source>Set as Default in Net Class &apos;%1&apos;</source>
         <translation>Nastaviť ako predvolené v triede prepojenia &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="83"/>
+        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="83"/>
         <source>Saves the entered value as default value for the current net class</source>
         <translation>Uloženie zadanú hodnotu ako predvolenú hodnotu pre aktuálnu triedu prepojenia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/addviatoolbar.slint" line="96"/>
+        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="96"/>
         <source>Via Outer Diameter</source>
         <translation>Vonkajší priemer prechodu</translation>
     </message>
@@ -16955,7 +16955,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AssemblyOutputJobsRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="514"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="514"/>
         <source>Assembly Service:</source>
         <translation>Služba osadzovania:</translation>
     </message>
@@ -16963,7 +16963,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AssemblyTypeRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="401"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="401"/>
         <source>Assembly:</source>
         <translation>Osadenie:</translation>
     </message>
@@ -16971,12 +16971,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AttributeListView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/attributelistview.slint" line="119"/>
+        <location filename="libs/librepcb/ui/widgets/attributelistview.slint" line="119"/>
         <source>(no value set)</source>
         <translation>(hodnota nenastavená)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/attributelistview.slint" line="52"/>
+        <location filename="libs/librepcb/ui/widgets/attributelistview.slint" line="52"/>
         <source>Type to add a new attribute...</source>
         <translation>Písaním pridáte nový atribút....</translation>
     </message>
@@ -16984,7 +16984,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AttributesRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="425"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="425"/>
         <source>Attributes:</source>
         <translation>Atribúty:</translation>
     </message>
@@ -16992,7 +16992,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::AuthorRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="86"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="86"/>
         <source>Author:</source>
         <translation>Autor:</translation>
     </message>
@@ -17000,82 +17000,82 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="181"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="181"/>
         <source>Empty Schematics</source>
         <translation>Prázdna schéma</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="187"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="187"/>
         <source>Only components existing in the schematics can be added to a board, but the schematics of this project are currently empty. Please draw the schematics first before starting with the board design.</source>
         <translation>Na dosku je možné pridať iba komponenty vyskytujúce sa v schémach, ale schémy tohto projektu sú momentálne prázdne. Pred začatím návrhu dosky si najskôr nakreslite schémy.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="197"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="197"/>
         <source>Learn how to create schematics</source>
         <translation>Naučte sa, ako vytvárať schémy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="216"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="216"/>
         <source>Set Up Design Rules</source>
         <translation>Nastavenie návrhových pravidiel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="222"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="222"/>
         <source>Before starting with the board design, it is highly recommended to set up the design rules to be used for this board. Just choose one of the presets below, or manually specify the rules.</source>
         <translation>Pred začatím návrhu dosky sa dôrazne odporúča nastaviť pravidlá návrhu, ktoré sa majú pre túto dosku použiť. Stačí si vybrať jednu z predvolieb nižšie alebo pravidlá zadať manuálne.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="245"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="245"/>
         <source>Default rules, suitable for most PCB manufacturers</source>
         <translation>Predvolené pravidlá, vhodné pre väčšinu výrobcov plošných spojov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="319"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="319"/>
         <source>Get Started</source>
         <translation>Začať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="325"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="325"/>
         <source>Start designing the board by placing all devices which are part of the schematics.</source>
         <translation>Začnite navrhovať dosku umiestnením všetkých súčiastok, ktoré sú v schéme.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="335"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="335"/>
         <source>Select an unplaced component in the list.</source>
         <translation>Zvoľte si neumiestnený komponent v zozname.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="341"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="341"/>
         <source>Choose the desired device (which defines the package to use).</source>
         <translation>Zvoľte požadovanú súčiastku (ktoré definuje puzdro, ktoré sa má použiť).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="347"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="347"/>
         <source>Choose the desired footprint variant if there are multiple.</source>
         <translation>Zvoľte požadovaný variant puzdra ak ich je viac.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="353"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="353"/>
         <source>Confirm with the button and place the device interactively with the cursor.</source>
         <translation>Potvrďte tlačidlom a interaktívne kurzorom umiestnite súčiastku.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="359"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="359"/>
         <source>Place Devices</source>
         <translation>Umiestniť súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="373"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="373"/>
         <source>Learn how to create boards</source>
         <translation>Naučte sa, ako vytvárať dosky.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="656"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="656"/>
         <source>DRC Messages: %1</source>
         <translation>Oznámenia kontroly návrhových pravidiel: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board2dtab.slint" line="667"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="667"/>
         <source>Unplaced: %1</source>
         <translation>Neumiestnené: %1</translation>
     </message>
@@ -17083,22 +17083,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::Board3dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board3dtab.slint" line="111"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="111"/>
         <source>Solder Paste</source>
         <translation>Spájkovacia pasta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board3dtab.slint" line="124"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="124"/>
         <source>Silkscreen</source>
         <translation>Potlač dosky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board3dtab.slint" line="137"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="137"/>
         <source>Solder Resist</source>
         <translation>Nespájkovateľná maska</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/board3dtab.slint" line="98"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="98"/>
         <source>Devices</source>
         <translation>Súčiastky</translation>
     </message>
@@ -17106,8 +17106,8 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::BoardSideSelector</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/addfootprintpadtoolbar.slint" line="44"/>
-        <location filename="libs/librepcb/editor/ui/project/board/addpadtoolbar.slint" line="44"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="44"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="44"/>
         <source>Board Side</source>
         <translation>Strana dosky</translation>
     </message>
@@ -17115,12 +17115,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::BreakingChangesMessageBanner</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="7"/>
+        <location filename="libs/librepcb/ui/library/messagebanners.slint" line="7"/>
         <source>Attention</source>
         <translation>Upozornenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="7"/>
+        <location filename="libs/librepcb/ui/library/messagebanners.slint" line="7"/>
         <source>You have changed some important properties of this library element. This is a serious issue as it breaks all dependent library elements! If this library element is already used somewhere, it is highly recommended to create a new one instead of modifying this one.</source>
         <translation>Zmenili ste niektoré dôležité vlastnosti tohto prvku knižnice. Toto je vážny problém, pretože to poškodí všetky na ňom závislé knižničné prvky! Dôrazne sa odporúča vytvoriť nový prvok knižnice, ak je  tento už niekde použitý, .</translation>
     </message>
@@ -17128,7 +17128,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::CategoriesRowCell</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="367"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="367"/>
         <source>Add Category</source>
         <translation>Pridať kategóriu</translation>
     </message>
@@ -17136,7 +17136,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::CategoriesRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="270"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="270"/>
         <source>Categories:</source>
         <translation>Kategórie:</translation>
     </message>
@@ -17144,12 +17144,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::CheckErrorsMessageBanner</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="11"/>
+        <location filename="libs/librepcb/ui/library/messagebanners.slint" line="11"/>
         <source>Attention</source>
         <translation>Upozornenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="11"/>
+        <location filename="libs/librepcb/ui/library/messagebanners.slint" line="11"/>
         <source>This library element contains serious errors. Please review them in the rule check panel.</source>
         <translation>Tento prvok knižnice obsahuje závažné chyby. Prezrite ich v paneli kontroly pravidiel.</translation>
     </message>
@@ -17157,17 +17157,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ComponentAddGatesTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="404"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="404"/>
         <source>Next</source>
         <translation>Ďalej</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="404"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="404"/>
         <source>Skip</source>
         <translation>Vynechať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="415"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="415"/>
         <source>Back</source>
         <translation>Späť</translation>
     </message>
@@ -17175,17 +17175,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ComponentCard</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicedependencycards.slint" line="123"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="123"/>
         <source>Component</source>
         <translation>Komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicedependencycards.slint" line="125"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="125"/>
         <source>Failed to load component</source>
         <translation>Chyba pri načítavaní komponentu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicedependencycards.slint" line="126"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="126"/>
         <source>No component selected</source>
         <translation>Nie je zvolený komponent</translation>
     </message>
@@ -17193,87 +17193,87 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ComponentGateListItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="133"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="133"/>
         <source>Auto-Connect all Pins by Name</source>
         <translation>Automatické prepojenie všetkých vývodov podľa názvov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="151"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="151"/>
         <source>Suffix</source>
         <translation>Prípona</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="160"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="160"/>
         <source>Label</source>
         <translation>Označenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="203"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="203"/>
         <source>Gate is Optional</source>
         <translation>Sekcia nie je povinná</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="203"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="203"/>
         <source>Gate is Required</source>
         <translation>Sekcia je vyžadovaná</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="205"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="205"/>
         <source>If marked as required, an ERC error is raised when this gate is not placed in the schematics</source>
         <translation>Ak je označené ako povinné, vyvolá sa chyba ERC, ak táto sekcia nebude umiestnená v schéme.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="232"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="232"/>
         <source>None</source>
         <translation>Žiadne</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="234"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="234"/>
         <source>When added to a schematic, hide this pin name</source>
         <translation>Pri pridaní do schémy, bude tento názov vývodu skrytý</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="246"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="246"/>
         <source>Pin</source>
         <translation>Vývod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="248"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="248"/>
         <source>When added to a schematic, display the pin name</source>
         <translation>Pri pridaní do schémy, bude tento názov vývodu zobrazený</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="260"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="260"/>
         <source>Signal</source>
         <translation>Signál</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="262"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="262"/>
         <source>When added to a schematic, display the signal name (default)</source>
         <translation>Pri pridaní do schémy, bude zobrazený tento názov signálu (predvolené)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="274"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="274"/>
         <source>Net</source>
         <translation>Prepojenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="276"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="276"/>
         <source>When added to a schematic, display the name of the net connected to this pin (if any)</source>
         <translation>Pri pridaní do schémy, bude zobrazený názov pripojeného prepojenia (ak bude)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="299"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="299"/>
         <source>Change Symbol</source>
         <translation>Zameniť schematickú značku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="308"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="308"/>
         <source>Move Up</source>
         <translation>Presunúť nahor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="69"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="69"/>
         <source>Gate</source>
         <translation>Sekcia</translation>
     </message>
@@ -17281,27 +17281,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ComponentMetadataTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="221"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="221"/>
         <source>Check this if this component cannot be placed on boards (e.g. supply symbols, sheet frames, ...).</source>
         <translation>Zaškrtnite túto možnosť, ak sa tento komponent nemá umiestňovať dosku (napr. značky napájania, rámy hárkov atď.).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="240"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="240"/>
         <source>E.g. \&quot;%1\&quot; for resistors, or \&quot;%2\&quot; for integrated circuits</source>
         <translation>Napr. \&quot;%1\&quot; pre rezistory, alebo \&quot;%2\&quot; pre integrované obvody</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="277"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="277"/>
         <source>The VALUE the component gets when added to the schematics.</source>
         <translation>HODNOTA bude nastavená po pridaní do schémy.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="288"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="288"/>
         <source>For specific components (e.g. \&quot;ESP32-S3R2\&quot;):</source>
         <translation>Pre špecifické komponenty (napr. \&quot;ESP32-S3R2\&quot;):</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="311"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="311"/>
         <source>For generic components (e.g. \&quot;OpAmp\&quot;):</source>
         <translation>Pre všeobecné komponenty (Napr. \&quot;OpAmp\&quot;):</translation>
     </message>
@@ -17309,37 +17309,37 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ComponentSignalListView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentsignallistview.slint" line="101"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="101"/>
         <source>ID</source>
         <translation>ID</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentsignallistview.slint" line="125"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="125"/>
         <source>Name</source>
         <translation>Názov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentsignallistview.slint" line="160"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="160"/>
         <source>Required</source>
         <translation>Vyžadovaný</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentsignallistview.slint" line="173"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="173"/>
         <source>If checked, an ERC error is raised when this signal is left unconnected in the schematics</source>
         <translation>Ak je možnosť zaškrtnutá, vyvolá sa chyba ERC, ak tento signál zostane v schéme nezapojený.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentsignallistview.slint" line="199"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="199"/>
         <source>Forced Net Name</source>
         <translation>Vynútený názov el. prepojenia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentsignallistview.slint" line="297"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="297"/>
         <source>This package contains no signals (yet).</source>
         <translation>Toto puzdro (zatiaľ) neobsahuje žiadne signály.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentsignallistview.slint" line="316"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="316"/>
         <source>Set Forced Net Name</source>
         <translation>Nastaviť vynútený názov el. prepojenia</translation>
     </message>
@@ -17347,52 +17347,52 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ComponentSignalsEditorTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="440"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="440"/>
         <source>Now review &amp; correct the list of signals, if needed (often it is not needed, then just proceed).</source>
         <translation>Teraz prezrite a opravte zoznam signálov, ak je to potrebné (často to nie je potrebné, potom jednoducho pokračujte).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="441"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="441"/>
         <source>If you add or remove any signals, don&apos;t forget to update the pinout afterwards (on the next step)!</source>
         <translation>Ak pridáte alebo odstránite nejaké signály, nezabudnite následne (v ďalšom kroku) aktualizovať zapojenie vývodov!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="447"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="447"/>
         <source>This signal list should represent the *electrical* interface of the component, not the *mechanical* pads.</source>
         <translation>Tento zoznam signálov by mal predstavovať *elektrické* rozhranie komponentu, nie *mechanické* vývody.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="448"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="448"/>
         <source>For example, if an IC has two or more GND pads which are internally connected, only one GND signal should be added here.</source>
         <translation>Napríklad, ak má integrovaný obvod dva alebo viac GND vývodov, ktoré sú interne prepojené, mal by sa sem pridať iba jeden GND signál.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="449"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="449"/>
         <source>Note that once the component is finished, it is *not* possible anymore to add or remove signals.</source>
         <translation>Upozorňujeme, že po dokončení komponentu už *nebude* možné pridať ani odstrániť signály.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="452"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="452"/>
         <source>Important:</source>
         <translation>Dôležité:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="462"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="462"/>
         <source>Add Signals:</source>
         <translation>Pridať signál prepojenia:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="467"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="467"/>
         <source>Signal name (may contain ranges like \&quot;1..5\&quot;; use prefix \&quot;!\&quot; for inverted signals)</source>
         <translation>Názov signálu (môže obsahovať rozsahy ako \&quot;1..5\&quot;; pre invertované signály použite prefix \&quot;!\&quot;)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="516"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="516"/>
         <source>Finish</source>
         <translation>Povrchové úpravy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="526"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="526"/>
         <source>Back</source>
         <translation>Späť</translation>
     </message>
@@ -17400,17 +17400,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ComponentTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="580"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="580"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="581"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="581"/>
         <source>Signals</source>
         <translation>Signály</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componenttab.slint" line="582"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="582"/>
         <source>Variants &amp; Gates</source>
         <translation>Varianty a sekcie</translation>
     </message>
@@ -17418,68 +17418,68 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ComponentVariantListItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="356"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="356"/>
         <source>Now define the names of the electrical signals of the component in the table below. Usually you can just keep the names from the symbol pins.</source>
         <translation>Teraz definujte názvy elektrických signálov komponentu v tabuľke nižšie. Bežne môžete použiť názvy z vývodov sch. značky.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="357"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="357"/>
         <source>Note that unconnected or inter-connected pins (i.e. duplicate signal names) are not allowed in this step, but you can rework them on the following pages.</source>
         <translation>Upozorňujeme, že neprepojené alebo vzájomne prepojené vývody (t. j. duplicitné názvy signálov) nie sú v tomto kroku povolené, ale môžete ich prepracovať na nasledujúcich stranách.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="375"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="375"/>
         <source>Variant</source>
         <translation>Variant</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="402"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="402"/>
         <source>Description</source>
         <translation>Popis</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="427"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="427"/>
         <source>Norm</source>
         <translation>Norma</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="500"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="500"/>
         <source>Component Preview Placement</source>
         <translation>Náhľad umiestnenia komponentu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="644"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="644"/>
         <source>This variant contains no gate!</source>
         <translation>Tento variant neobsahuje sekcie!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="648"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="648"/>
         <source>Add gates to this component by choosing the corresponding symbols.</source>
         <translation>Pridajte sekcie do tohto komponentu výberom príslušných sch. symbolov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="649"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="649"/>
         <source>Most components consist of only one gate, but for example a 4-channel ADC could be built up with four single-channel ADC gates.</source>
         <translation>Väčšina súčiastok pozostáva iba z jednej sekcie, ale napríklad 4-kanálový ADC by sa dal zostaviť zo štyroch jednokanálových ADC sekcií.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="650"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="650"/>
         <source>Those gates are all part of the same component, but can be placed individually in the schematics.</source>
         <translation>Tieto sekcie sú súčasťou toho istého komponentu, ale v schémach ich možno umiestniť samostatne.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="659"/>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="676"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="659"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="676"/>
         <source>Add Gate</source>
         <translation>Pridať sekciu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="685"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="685"/>
         <source>Move Up</source>
         <translation>Presunúť nahor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="695"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="695"/>
         <source>Set as Default</source>
         <translation>Nastaviť ako predvolené</translation>
     </message>
@@ -17487,7 +17487,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ComponentVariantListView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/cmp/componentvariantlistview.slint" line="750"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="750"/>
         <source>Add Variant</source>
         <translation>Pridať variant</translation>
     </message>
@@ -17495,32 +17495,32 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::Constants</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/constants.slint" line="4"/>
+        <location filename="libs/librepcb/ui/api/constants.slint" line="4"/>
         <source>THT (all leads)</source>
         <translation>THT (všetky vývody)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/constants.slint" line="5"/>
+        <location filename="libs/librepcb/ui/api/constants.slint" line="5"/>
         <source>SMT (all leads)</source>
         <translation>SMT (všetky vývody)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/constants.slint" line="6"/>
+        <location filename="libs/librepcb/ui/api/constants.slint" line="6"/>
         <source>THT+SMT (mixed leads)</source>
         <translation>THT+SMT (oba typy vývodov)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/constants.slint" line="7"/>
+        <location filename="libs/librepcb/ui/api/constants.slint" line="7"/>
         <source>Other (included in BOM/PnP)</source>
         <translation>Iné (zahrnuté v BOM/PnP)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/constants.slint" line="8"/>
+        <location filename="libs/librepcb/ui/api/constants.slint" line="8"/>
         <source>None (excluded from BOM/PnP)</source>
         <translation>Žiadne (vylúčené z BOM/PnP)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/constants.slint" line="9"/>
+        <location filename="libs/librepcb/ui/api/constants.slint" line="9"/>
         <source>Auto-detect (not recommended)</source>
         <translation>Automatické zisťovanie (neodporúčané)</translation>
     </message>
@@ -17528,12 +17528,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::CopyToClipboardIconButton</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/iconbutton.slint" line="147"/>
+        <location filename="libs/librepcb/ui/widgets/iconbutton.slint" line="147"/>
         <source>Copied!</source>
         <translation>Skopírované!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/iconbutton.slint" line="147"/>
+        <location filename="libs/librepcb/ui/widgets/iconbutton.slint" line="147"/>
         <source>Copy to Clipboard</source>
         <translation>Kopírovať do schránky</translation>
     </message>
@@ -17541,72 +17541,72 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::CreateLibraryTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="110"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="110"/>
         <source>Examples:</source>
         <translation>Príklady:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="133"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="133"/>
         <source>Description:</source>
         <translation>Popis:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="154"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="154"/>
         <source>Author:</source>
         <translation>Autor:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="175"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="175"/>
         <source>Version:</source>
         <translation>Verzia:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="198"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="198"/>
         <source>URL:</source>
         <translation>URL:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="205"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="205"/>
         <source>e.g. URL to the Git repository (optional)</source>
         <translation>napr.: adresa URL pre Git repozitár (nepovinné)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="221"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="221"/>
         <source>License:</source>
         <translation>Licencia:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="231"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="231"/>
         <source>Put library under the Public Domain License CC0-1.0\n(mandatory to publish it on librepcb.org)</source>
         <translation>Prezentujte knižnicu pod licenciou Public Domain License CC0-1.0\n(povinnosť zverejniť na librepcb.org).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="260"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="260"/>
         <source>Directory:</source>
         <translation>Adresár:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="293"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="293"/>
         <source>Create Library</source>
         <translation>Vytvoriť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="301"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="301"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="53"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="53"/>
         <source>Create a new local library</source>
         <translation>Vytvoriť novú lokálnu knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="63"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="63"/>
         <source>To import KiCad or Eagle libraries, create a new library called e.g. &apos;KiCad Import&apos; or &apos;Eagle Import&apos;. Then open the new library and start the import wizard via &apos;File -&gt; Import&apos;.</source>
         <translation>Pre importovanie knižníc KiCad alebo Eagle, vytvorte novú knižnicu nazvanú napríklad: &apos;KiCad Import&apos; alebo &apos;Eagle Import&apos;. Následne otvorte túto novú knižnicu a spustite sprievodcu importom pomocou &apos;Súbor -&gt; Importovať&apos;.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/createlibrarytab.slint" line="77"/>
+        <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="77"/>
         <source>Name:</source>
         <translation>Názov:</translation>
     </message>
@@ -17614,7 +17614,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DatasheetRowCell</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="409"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="409"/>
         <source>URL to online datasheet (optional)</source>
         <translation>URL adresa k technickému listu (nepovinné)</translation>
     </message>
@@ -17622,7 +17622,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DatasheetRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="405"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="405"/>
         <source>Datasheet:</source>
         <translation>Technický list:</translation>
     </message>
@@ -17630,7 +17630,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DefaultValueRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="421"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="421"/>
         <source>Default Value:</source>
         <translation>Predvolená hodnota:</translation>
     </message>
@@ -17638,7 +17638,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DependenciesRowCell</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="217"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="217"/>
         <source>Add Dependency</source>
         <translation>Pridať závislosť</translation>
     </message>
@@ -17646,7 +17646,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DependenciesRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="149"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="149"/>
         <source>Dependencies:</source>
         <translation>Závislosti:</translation>
     </message>
@@ -17654,7 +17654,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DeprecatedRowCell</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="99"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="99"/>
         <source>Check this if this library element should no longer be used.</source>
         <translation>Zaškrtnite túto možnosť, ak sa tento prvok knižnice už nemá ďalej používať.</translation>
     </message>
@@ -17662,7 +17662,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DeprecatedRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="94"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="94"/>
         <source>Deprecated:</source>
         <translation>Nepoužívať:</translation>
     </message>
@@ -17670,7 +17670,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DescriptionRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="78"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="78"/>
         <source>Description:</source>
         <translation>Popis:</translation>
     </message>
@@ -17678,32 +17678,32 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DeviceContentTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="330"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="330"/>
         <source>Define the pinout, i.e. connect package pads with component signals. This can be done either manually pad-by-pad or in an automated way by using one of the buttons below.</source>
         <translation>Definujte zapojenie vývodov, t. j. prepojte vývody puzdra so signálmi komponentu. Toto je možné vykonať buď manuálne vývod po vývode, alebo automaticky pomocou jedného z tlačidiel nižšie.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="338"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="338"/>
         <source>Optionally, specify concrete part numbers of this device. These can then be used to generate a bill of materials (BOM) from a project.</source>
         <translation>Nepovinne môžete zadať konkrétne typové označenie tejto súčiastky. Tieto typové označenia sa potom dajú použiť na vytvorenie presnejšieho zoznamu súčiastok (BOM) z projektu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="420"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="420"/>
         <source>Finish</source>
         <translation>Povrchové úpravy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="422"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="422"/>
         <source>Next</source>
         <translation>Ďalej</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="424"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="424"/>
         <source>Skip</source>
         <translation>Vynechať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="436"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="436"/>
         <source>Back</source>
         <translation>Späť</translation>
     </message>
@@ -17711,7 +17711,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DeviceDependencyCard</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicedependencycards.slint" line="21"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="21"/>
         <source>Choose %1</source>
         <translation>Zvoliť %1</translation>
     </message>
@@ -17719,12 +17719,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DeviceInitTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="55"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="55"/>
         <source>Select the package &amp; component of the new device.</source>
         <translation>Voľte puzdro a komponent novej súčiastky.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="92"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="92"/>
         <source>Next</source>
         <translation>Ďalej</translation>
     </message>
@@ -17732,7 +17732,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DeviceInteractiveSignalListView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="156"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="156"/>
         <source>(unconnected)</source>
         <translation>(nepripojený)</translation>
     </message>
@@ -17740,7 +17740,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DeviceMetadataTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="116"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="116"/>
         <source>Specify the metadata of the device. Some values have already been initialized from the selected package &amp; component, you may need to adjust it accordingly.</source>
         <translation>Zadajte metadáta súčiastky. Niektoré hodnoty už boli predvyplnené zo zvoleného puzdra a z komponentu, možno ich budete musieť zodpovedajúcim spôsobom upraviť.</translation>
     </message>
@@ -17748,67 +17748,67 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DevicePinoutPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="194"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="194"/>
         <source>Pinout</source>
         <translation>Zapojenie vývodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="201"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="201"/>
         <source>Pad %1/%2</source>
         <translation>Plôška vývodu 1/%2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="212"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="212"/>
         <source>Open Datasheet</source>
         <translation>Otvoriť technický list</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="225"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="225"/>
         <source>Reset All Connections</source>
         <translation>Obnoviť všetky prepojenia na pôvodné nastavenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="227"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="227"/>
         <source>Reset all pads to &apos;unconnected&apos; state</source>
         <translation>Obnoviť všetky plôšky vývodov do stavu &apos;nepripojené&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="239"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="239"/>
         <source>Exit Interactive Mode</source>
         <translation>Opustiť interaktívny režim</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="279"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="279"/>
         <source>Type to filter signals...</source>
         <translation>Písaním filtrujete signály....</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="365"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="365"/>
         <source>Auto-Connect By Names</source>
         <translation>Automatické prepojenie podľa názvov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="367"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="367"/>
         <source>Try to automatically connect pads to signals by their name</source>
         <translation>Automatické prepojenie plôšok vývodov so signálmi podľa ich názvov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="376"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="376"/>
         <source>Connect Interactively</source>
         <translation>Prepojiť interaktívne</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="378"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="378"/>
         <source>Connect the remaining pads one by one in an interactive mode</source>
         <translation>Pripojiť zostávajúce plôšky vývodov jednu po druhej v interaktívnom režime</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="387"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="387"/>
         <source>Load From File</source>
         <translation>Načítať zo súboru</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="389"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="389"/>
         <source>Import the pinout from a CSV file with these columns:</source>
         <translation>Importovať zapojenie vývodov zo súboru CSV s nasledujúcimi stĺpcami:</translation>
     </message>
@@ -17816,27 +17816,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DevicePinoutShortcutsOverlay</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="32"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="32"/>
         <source>Next/previous signal:</source>
         <translation>Nasledujúci/predchádzajúci signál:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="44"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="44"/>
         <source>Select \&quot;(unconnected)\&quot;:</source>
         <translation>Zvoliť \&quot;(nepripojený)\&quot;:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="56"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="56"/>
         <source>Confirm selected signal:</source>
         <translation>Potvrdiť zvolený signál:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="68"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="68"/>
         <source>Exit interactive mode:</source>
         <translation>Opustiť interaktívny režim:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicepinoutpanel.slint" line="80"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="80"/>
         <source>Or assign by mouse:</source>
         <translation>Alebo priradiť myšou:</translation>
     </message>
@@ -17844,12 +17844,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="524"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="524"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicetab.slint" line="525"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="525"/>
         <source>Pinout &amp; Parts</source>
         <translation>Zapojenie vývodov a súčiastky</translation>
     </message>
@@ -17857,7 +17857,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DocumentsListItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="111"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="111"/>
         <source>Open 3D View</source>
         <translation>Otvoriť 3D zobrazenie</translation>
     </message>
@@ -17865,7 +17865,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DonateButton</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/hometab.slint" line="12"/>
+        <location filename="libs/librepcb/ui/hometab.slint" line="12"/>
         <source>Donate</source>
         <translation>Finančný dar</translation>
     </message>
@@ -17873,42 +17873,42 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DownloadLibraryTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="117"/>
+        <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="117"/>
         <source>URL does not seem to point to a ZIP file. Consider using this URL instead:</source>
         <translation>Zdá sa, že URL adresa neodkazuje na súbor ZIP. Zvážte použitie tejto URL adresy:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="137"/>
+        <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="137"/>
         <source>Directory:</source>
         <translation>Adresár:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="182"/>
+        <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="182"/>
         <source>Download Library</source>
         <translation>Stiahnúť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="190"/>
+        <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="190"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="53"/>
+        <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="53"/>
         <source>Download &amp; install a library by URL</source>
         <translation>Stiahnutie a inštalácia knižnice podľa URL adresy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="62"/>
+        <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="62"/>
         <source>Please note that this is not the preferred way to install libraries as they won&apos;t be kept up to date. For our official libraries, it&apos;s recommended to install them from the libraries panel instead, which allows to keep libraries up to date.</source>
         <translation>Upozorňujeme, že toto nie je preferovaný spôsob inštalácie knižníc, pretože nebudú aktualizované. Naše oficiálne knižnice sa odporúča inštalovať z panela knižníc, čo umožňuje udržiavať ich aktuálne.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="76"/>
+        <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="76"/>
         <source>URL:</source>
         <translation>URL:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/downloadlibrarytab.slint" line="83"/>
+        <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="83"/>
         <source>URL to a zipped library (*.zip)</source>
         <translation>URL adresa zabalenej knižnice (*.zip)</translation>
     </message>
@@ -17916,32 +17916,32 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DrawFootprintPolygonToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="35"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="35"/>
         <source>Line Width</source>
         <translation>Šírka čiary</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="57"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="57"/>
         <source>Arc Angle</source>
         <translation>Uhol oblúka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="76"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="76"/>
         <source>Fill Area</source>
         <translation>Vyplniť oblasť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="77"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="77"/>
         <source>Fill the polygon with its outline color (only when closed)</source>
         <translation>Vyplní polygón farbou jeho obrysu (iba keď je zatvorený)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="95"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="95"/>
         <source>Grab Area</source>
         <translation>Oblasť uchopenia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="96"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="96"/>
         <source>Allow grabbing the footprint within the polygon&apos;s area</source>
         <translation>Povoliť uchopenie puzdra v oblasti polygónu</translation>
     </message>
@@ -17949,52 +17949,52 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DrawFootprintZoneToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintzonetoolbar.slint" line="16"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="16"/>
         <source>Layers</source>
         <translation>Vrstvy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintzonetoolbar.slint" line="19"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="19"/>
         <source>Top</source>
         <translation>Vrchná</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintzonetoolbar.slint" line="23"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="23"/>
         <source>Inner</source>
         <translation>Vnútorná</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintzonetoolbar.slint" line="27"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="27"/>
         <source>Bottom</source>
         <translation>Spodná</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintzonetoolbar.slint" line="44"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="44"/>
         <source>Keepout</source>
         <translation>Zakázaná oblasť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintzonetoolbar.slint" line="47"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="47"/>
         <source>Copper</source>
         <translation>Vodiný prvok</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintzonetoolbar.slint" line="51"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="51"/>
         <source>Planes</source>
         <translation>Vyplnené plochy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintzonetoolbar.slint" line="55"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="55"/>
         <source>Exposures</source>
         <translation>Odmaskovanie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintzonetoolbar.slint" line="59"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="59"/>
         <source>Devices</source>
         <translation>Súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/drawfootprintzonetoolbar.slint" line="79"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="79"/>
         <source>Arc Angle</source>
         <translation>Uhol oblúka</translation>
     </message>
@@ -18002,14 +18002,14 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DrawPolygonToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawpolygontoolbar.slint" line="30"/>
-        <location filename="libs/librepcb/editor/ui/project/schematic/drawpolygontoolbar.slint" line="30"/>
+        <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="30"/>
+        <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="30"/>
         <source>Line Width</source>
         <translation>Šírka čiary</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawpolygontoolbar.slint" line="53"/>
-        <location filename="libs/librepcb/editor/ui/project/schematic/drawpolygontoolbar.slint" line="53"/>
+        <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="53"/>
+        <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="53"/>
         <source>Fill Area</source>
         <translation>Vyplniť oblasť</translation>
     </message>
@@ -18017,32 +18017,32 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DrawSymbolPolygonToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/drawsymbolpolygontoolbar.slint" line="34"/>
+        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="34"/>
         <source>Line Width</source>
         <translation>Šírka čiary</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/drawsymbolpolygontoolbar.slint" line="56"/>
+        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="56"/>
         <source>Arc Angle</source>
         <translation>Uhol oblúka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/drawsymbolpolygontoolbar.slint" line="75"/>
+        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="75"/>
         <source>Fill Area</source>
         <translation>Vyplniť oblasť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/drawsymbolpolygontoolbar.slint" line="76"/>
+        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="76"/>
         <source>Fill the polygon with its outline color (only when closed)</source>
         <translation>Vyplní polygón farbou jeho obrysu (iba keď je zatvorený)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/drawsymbolpolygontoolbar.slint" line="94"/>
+        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="94"/>
         <source>Grab Area</source>
         <translation>Oblasť uchopenia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/drawsymbolpolygontoolbar.slint" line="95"/>
+        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="95"/>
         <source>Allow grabbing the symbol within the polygon&apos;s area</source>
         <translation>Povoliť uchopenie schematickej značky v oblasti polygónu</translation>
     </message>
@@ -18050,41 +18050,41 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DrawTraceToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="162"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="162"/>
         <source>Via Outer Diameter</source>
         <translation>Vonkajší priemer prechodu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="36"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="36"/>
         <source>Trace Width</source>
         <translation>Šírka spoja</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="75"/>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="138"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="75"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="138"/>
         <source>Set as Default in Board</source>
         <translation>Nastaviť ako predvolené pre dosku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="76"/>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="139"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="76"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="139"/>
         <source>Saves the entered value in the board design rules as default value</source>
         <translation>Uloží zadanú hodnotu do pravidiel návrhu dosky ako predvolenú hodnotu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="85"/>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="148"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="85"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="148"/>
         <source>Set as Default in Net Class &apos;%1&apos;</source>
         <translation>Nastaviť ako predvolené v triede prepojenia &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="86"/>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="149"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="86"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="149"/>
         <source>Saves the entered value as default value for the current net class</source>
         <translation>Uloženie zadanú hodnotu ako predvolenú hodnotu pre aktuálnu triedu prepojenia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawtracetoolbar.slint" line="99"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="99"/>
         <source>Via Drill Diameter</source>
         <translation>Priemer vrtáku prechodu</translation>
     </message>
@@ -18092,27 +18092,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DrawZoneToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawzonetoolbar.slint" line="25"/>
+        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="25"/>
         <source>Keepout</source>
         <translation>Zakázaná oblasť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawzonetoolbar.slint" line="28"/>
+        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="28"/>
         <source>Copper</source>
         <translation>Vodiný prvok</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawzonetoolbar.slint" line="32"/>
+        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="32"/>
         <source>Planes</source>
         <translation>Vyplnené plochy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawzonetoolbar.slint" line="36"/>
+        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="36"/>
         <source>Exposures</source>
         <translation>Odmaskovanie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/board/drawzonetoolbar.slint" line="40"/>
+        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="40"/>
         <source>Devices</source>
         <translation>Súčiastky</translation>
     </message>
@@ -18120,7 +18120,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DropDownPopup</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/dropdownpopup.slint" line="116"/>
+        <location filename="libs/librepcb/ui/widgets/dropdownpopup.slint" line="116"/>
         <source>default</source>
         <translation>Predvolené</translation>
     </message>
@@ -18128,22 +18128,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::FilesModifiedMessageBanner</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="30"/>
+        <location filename="libs/librepcb/ui/library/messagebanners.slint" line="30"/>
         <source>The files have been modified on disk. It is recommended to close and reopen this tab to see the modifications.</source>
         <translation>Súbory na disku boli upravené. Odporúča sa zatvoriť a znova otvoriť túto kartu, aby ste videli úpravy.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="38"/>
+        <location filename="libs/librepcb/ui/library/messagebanners.slint" line="38"/>
         <source>Note that the reload feature is currently considered experimental.</source>
         <translation>Upozorňujeme, že funkcia opätovného načítania sa momentálne považuje za experimentálnu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="45"/>
+        <location filename="libs/librepcb/ui/library/messagebanners.slint" line="45"/>
         <source>Reload</source>
         <translation>Znova načítať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/messagebanners.slint" line="46"/>
+        <location filename="libs/librepcb/ui/library/messagebanners.slint" line="46"/>
         <source>Discard modifications (if any) and reload the modified files from disk</source>
         <translation>Zahodiť úpravy (ak nejaké existujú) a znova načítať upravené súbory z disku</translation>
     </message>
@@ -18151,7 +18151,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::FilterTermEdit</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/filtertermedit.slint" line="20"/>
+        <location filename="libs/librepcb/ui/widgets/filtertermedit.slint" line="20"/>
         <source>Filter:</source>
         <translation>Filter:</translation>
     </message>
@@ -18159,7 +18159,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::GraphicsLayerListItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/graphicslayerspanel.slint" line="66"/>
+        <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="66"/>
         <source>Toggle Visibility</source>
         <translation>Prepnutie viditeľnosti</translation>
     </message>
@@ -18167,37 +18167,37 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::GraphicsLayersPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/graphicslayerspanel.slint" line="112"/>
+        <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="112"/>
         <source>Layers</source>
         <translation>Vrstvy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/graphicslayerspanel.slint" line="119"/>
+        <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="119"/>
         <source>Top Layers</source>
         <translation>Vrchné vrstvy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/graphicslayerspanel.slint" line="130"/>
+        <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="130"/>
         <source>Bottom Layers</source>
         <translation>Spodné vrstvy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/graphicslayerspanel.slint" line="141"/>
+        <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="141"/>
         <source>Top + Bottom Layers</source>
         <translation>Vrchne + spodné vrstvy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/graphicslayerspanel.slint" line="152"/>
+        <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="152"/>
         <source>Show All</source>
         <translation>Zobraziť všetko</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/graphicslayerspanel.slint" line="163"/>
+        <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="163"/>
         <source>Hide All</source>
         <translation>Skryť všetko</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/graphicslayerspanel.slint" line="174"/>
+        <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="174"/>
         <source>Layer Setup</source>
         <translation>Nastavenie vrstiev</translation>
     </message>
@@ -18205,17 +18205,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::HAlignSelector</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/alignmentselector.slint" line="53"/>
+        <location filename="libs/librepcb/ui/widgets/alignmentselector.slint" line="53"/>
         <source>Align Left</source>
         <translation>Zarovnanie vľavo</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/alignmentselector.slint" line="54"/>
+        <location filename="libs/librepcb/ui/widgets/alignmentselector.slint" line="54"/>
         <source>Align Center</source>
         <translation>Zarovnanie na stred</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/alignmentselector.slint" line="55"/>
+        <location filename="libs/librepcb/ui/widgets/alignmentselector.slint" line="55"/>
         <source>Align Right</source>
         <translation>Zarovnanie vpravo</translation>
     </message>
@@ -18223,52 +18223,52 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::Helpers</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/helpers.slint" line="208"/>
+        <location filename="libs/librepcb/ui/api/helpers.slint" line="208"/>
         <source>Electrical Rule Check</source>
         <translation>Kontrola elektrických pravidiel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/helpers.slint" line="210"/>
+        <location filename="libs/librepcb/ui/api/helpers.slint" line="210"/>
         <source>Design Rule Check</source>
         <translation>Kontrola návrhových pravidiel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/helpers.slint" line="212"/>
+        <location filename="libs/librepcb/ui/api/helpers.slint" line="212"/>
         <source>Library Check</source>
         <translation>Kontrola knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/helpers.slint" line="214"/>
+        <location filename="libs/librepcb/ui/api/helpers.slint" line="214"/>
         <source>Component Category Check</source>
         <translation>Kontrola kategórie komponentu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/helpers.slint" line="216"/>
+        <location filename="libs/librepcb/ui/api/helpers.slint" line="216"/>
         <source>Package Category Check</source>
         <translation>Kontrola kategórie puzdra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/helpers.slint" line="218"/>
+        <location filename="libs/librepcb/ui/api/helpers.slint" line="218"/>
         <source>Symbol Check</source>
         <translation>Kontrola schematickej značky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/helpers.slint" line="220"/>
+        <location filename="libs/librepcb/ui/api/helpers.slint" line="220"/>
         <source>Package Check</source>
         <translation>Kontrola puzdra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/helpers.slint" line="222"/>
+        <location filename="libs/librepcb/ui/api/helpers.slint" line="222"/>
         <source>Component Check</source>
         <translation>Kontrola komponentu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/helpers.slint" line="224"/>
+        <location filename="libs/librepcb/ui/api/helpers.slint" line="224"/>
         <source>Device Check</source>
         <translation>Kontrola súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/api/helpers.slint" line="226"/>
+        <location filename="libs/librepcb/ui/api/helpers.slint" line="226"/>
         <source>Organization Check</source>
         <translation type="unfinished"/>
     </message>
@@ -18276,12 +18276,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::HomePanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="224"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="224"/>
         <source>Quick Access</source>
         <translation>Rýchly prístup</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="244"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="244"/>
         <source>Workspace Projects</source>
         <translation>Projekty pracovnej plochy</translation>
     </message>
@@ -18289,27 +18289,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::HomeTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/hometab.slint" line="128"/>
+        <location filename="libs/librepcb/ui/hometab.slint" line="128"/>
         <source>Support the LibrePCB project with a donation to keep the development and maintenance ongoing ‒ Thank you!</source>
         <translation>Podporte darom vývoj a údržbu projektu LibrePCB – Ďakujeme!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/hometab.slint" line="36"/>
+        <location filename="libs/librepcb/ui/hometab.slint" line="36"/>
         <source>Get Started With LibrePCB</source>
         <translation>Začíname pracovať s LibrePCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/hometab.slint" line="67"/>
+        <location filename="libs/librepcb/ui/hometab.slint" line="67"/>
         <source>Video Tutorials</source>
         <translation>Video návody</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/hometab.slint" line="68"/>
+        <location filename="libs/librepcb/ui/hometab.slint" line="68"/>
         <source>Open video tutorials in the web browser</source>
         <translation>Otvorenie video návodov v internetovom prehliadači</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/hometab.slint" line="78"/>
+        <location filename="libs/librepcb/ui/hometab.slint" line="78"/>
         <source>User Manual &amp; Getting Started Guide</source>
         <translation>Používateľská príručka a sprievodca začiatkom</translation>
     </message>
@@ -18317,12 +18317,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::IconRowCell</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="68"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="68"/>
         <source>Click to change the icon.</source>
         <translation>Kliknite pre zmenu ikony.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="68"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="68"/>
         <source>Preferred:</source>
         <translation>Preferované:</translation>
     </message>
@@ -18330,7 +18330,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::IconRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="34"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="34"/>
         <source>Icon:</source>
         <translation>Ikona:</translation>
     </message>
@@ -18338,22 +18338,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::IpcDensityLevelSelector</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/ipcdensitylevelselector.slint" line="30"/>
+        <location filename="libs/librepcb/ui/widgets/ipcdensitylevelselector.slint" line="30"/>
         <source>IPC Density Level A (max protrusion)</source>
         <translation>Úroveň hustoty IPC A (maximálny presah)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/ipcdensitylevelselector.slint" line="32"/>
+        <location filename="libs/librepcb/ui/widgets/ipcdensitylevelselector.slint" line="32"/>
         <source>IPC Density Level B (medium protrusion)</source>
         <translation>Úroveň hustoty IPC B (stredne veľký presah)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/ipcdensitylevelselector.slint" line="34"/>
+        <location filename="libs/librepcb/ui/widgets/ipcdensitylevelselector.slint" line="34"/>
         <source>IPC Density Level C (min protrusion)</source>
         <translation>Úroveň hustoty IPC C (minimálny presah)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/ipcdensitylevelselector.slint" line="36"/>
+        <location filename="libs/librepcb/ui/widgets/ipcdensitylevelselector.slint" line="36"/>
         <source>No density level preference</source>
         <translation>Preferencie pre nedefinovanú úroveň hustoty</translation>
     </message>
@@ -18361,7 +18361,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::KeywordsRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="82"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="82"/>
         <source>Keywords:</source>
         <translation>Kľúčové slová:</translation>
     </message>
@@ -18369,42 +18369,42 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibrariesPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="520"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="520"/>
         <source>Local Libraries</source>
         <translation>Lokálne knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="535"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="535"/>
         <source>Remote Libraries</source>
         <translation>Vzdialené knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="563"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="563"/>
         <source>Pending Operations</source>
         <translation>Čakajúce operácie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="614"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="614"/>
         <source>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</source>
         <translation>Niektoré knižnice, označené na odinštalovanie, momentálne nie sú k dispozícii na inštaláciu, preto ich odstránenie nebude možné zvrátiť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="614"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="614"/>
         <source>Warning</source>
         <translation>Upozornenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="630"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="630"/>
         <source>Apply</source>
         <translation>Použiť</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="630"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="630"/>
         <source>Apply %n Modification(s)</source>
         <translation><numerusform>Použiť %n modifikáciu</numerusform><numerusform>Použiť %n modifikácie</numerusform><numerusform>Použiť %n modifikácii</numerusform><numerusform>Použiť %n modifikácii</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="643"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="643"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
@@ -18412,42 +18412,42 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibrariesPanelSection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="304"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="304"/>
         <source>Toggle All</source>
         <translation>Prepnúť všetko</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="331"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="331"/>
         <source>Download a Library by URL</source>
         <translation>Stiahnúť knižnicu z URL adresy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="342"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="342"/>
         <source>Create a New Library</source>
         <translation>Vytvoriť novú knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="355"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="355"/>
         <source>Check For Updates</source>
         <translation>Skontrolovať aktualizácie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="368"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="368"/>
         <source>Cancel Update Check</source>
         <translation>Zrušiť kontrolu aktualizácie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="398"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="398"/>
         <source>No remote part libraries are currently installed. To get parts like resistors, LEDs, microcontrollers etc., choose some libraries to be downloaded from the internet.</source>
         <translation>Momentálne nie sú nainštalované žiadne vzdialené knižnice súčiastok. Ak chcete získať súčiastky ako rezistory, LED diódy, mikrokontroléry atď., vyberte si niektoré knižnice, ktoré sa majú stiahnuť z internetu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="409"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="409"/>
         <source>No local libraries exist in this workspace. In order to create your own parts, add a new local library first with the button above.</source>
         <translation>V tomto pracovnom priestore neexistujú žiadne lokálne knižnice. Ak chcete vytvoriť vlastné súčiastky, najprv pridajte novú lokálnu knižnicu pomocou tlačidla vyššie.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="419"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="419"/>
         <source>No libraries matching the filter.</source>
         <translation>Žiadne knižnice nezodpovedajú filtru.</translation>
     </message>
@@ -18455,37 +18455,37 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryContentTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="623"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="623"/>
         <source>New Component Category</source>
         <translation>Nová kategória komponentu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="635"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="635"/>
         <source>New Package Category</source>
         <translation>Nová kategória puzdra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="727"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="727"/>
         <source>The selected category does not contain any library elements.</source>
         <translation>Zvolená kategória neobsahuje žiadne prvky knižnice.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="742"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="742"/>
         <source>New Device</source>
         <translation>Nová súčiastka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="753"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="753"/>
         <source>New Component</source>
         <translation>Nový komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="765"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="765"/>
         <source>New Package</source>
         <translation>Nové puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="776"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="776"/>
         <source>New Symbol</source>
         <translation>Nová schematická značka</translation>
     </message>
@@ -18493,12 +18493,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryImportButton</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="429"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="429"/>
         <source>Import %1 Libraries</source>
         <translation>Importovanie %1 knižníc</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="442"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="442"/>
         <source>Start populating this library by importing %1 library elements.</source>
         <translation>Začnite napĺňať túto knižnicu importovaním %1 prvkov.</translation>
     </message>
@@ -18506,12 +18506,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryImportTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="489"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="489"/>
         <source>Finish</source>
         <translation>Povrchové úpravy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="499"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="499"/>
         <source>Back</source>
         <translation>Späť</translation>
     </message>
@@ -18519,22 +18519,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryListViewItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="200"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="200"/>
         <source>Recommended</source>
         <translation>Odporúčaná</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="212"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="212"/>
         <source>Uninstall</source>
         <translation>Odinštalovať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="72"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="72"/>
         <source>Outdated:</source>
         <translation>Neaktuálne:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="77"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="77"/>
         <source>Up-to-date:</source>
         <translation>Aktuálne:</translation>
     </message>
@@ -18542,12 +18542,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryMetadataTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="295"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="295"/>
         <source>Check this if this library should no longer be used.</source>
         <translation>Zaškrtnite túto možnosť, ak sa táto knižnica už nemá ďalej používať.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="345"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="345"/>
         <source>If this is a manufacturer-specific library (optional)</source>
         <translation>Ak sa jedná o špecifickú knižnicu výrobcu (nepovinné)</translation>
     </message>
@@ -18555,17 +18555,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryRuleCheckLink</name>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/ui/library/libraryrulechecklink.slint" line="11"/>
+        <location filename="libs/librepcb/ui/library/libraryrulechecklink.slint" line="11"/>
         <source>%n approved message(s)</source>
         <translation><numerusform>%n schválené oznámenie</numerusform><numerusform>%n schválené oznámenia</numerusform><numerusform>%n schválených oznámení</numerusform><numerusform>%n schválených oznámení</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/libraryrulechecklink.slint" line="13"/>
+        <location filename="libs/librepcb/ui/library/libraryrulechecklink.slint" line="13"/>
         <source>All checks passed!</source>
         <translation>Všetky kontroly prešli!</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/ui/library/libraryrulechecklink.slint" line="9"/>
+        <location filename="libs/librepcb/ui/library/libraryrulechecklink.slint" line="9"/>
         <source>%n warning(s)</source>
         <translation><numerusform>%n upozornenie</numerusform><numerusform>%n upozornenia</numerusform><numerusform>%n upozornení</numerusform><numerusform>%n upozornení</numerusform></translation>
     </message>
@@ -18573,17 +18573,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibrarySection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="300"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="300"/>
         <source>Close Library</source>
         <translation>Zavrieť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="301"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="301"/>
         <source>Close this library and all its opened tabs</source>
         <translation>Zatrieť túto knižnicu a všetky jej otvorené karty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="323"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="323"/>
         <source>Library Overview</source>
         <translation>Prehľad knižnice</translation>
     </message>
@@ -18591,17 +18591,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="895"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="895"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="896"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="896"/>
         <source>Import</source>
         <translation>Importovať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="897"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="897"/>
         <source>Library Content</source>
         <translation>Obsah knižnice</translation>
     </message>
@@ -18609,52 +18609,52 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryTreeView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="168"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="168"/>
         <source>All Elements</source>
         <translation>Všetky elementy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="170"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="170"/>
         <source>Uncategorized</source>
         <translation>Nekategorizované</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="172"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="172"/>
         <source>Component Categories</source>
         <translation>Kategórie komponentu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="174"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="174"/>
         <source>Package Categories</source>
         <translation>Kategórie puzdra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="176"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="176"/>
         <source>Symbols</source>
         <translation>Schematické značky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="178"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="178"/>
         <source>Packages</source>
         <translation>Puzdrá</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="180"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="180"/>
         <source>Components</source>
         <translation>Komponenty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="182"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="182"/>
         <source>Devices</source>
         <translation>Súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="184"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="184"/>
         <source>Organizations</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librarytreeview.slint" line="200"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="200"/>
         <source>Deprecated</source>
         <translation type="unfinished"/>
     </message>
@@ -18662,27 +18662,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryTreeViewToolBar</name>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="549"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="549"/>
         <source>%n selected item(s)</source>
         <translation><numerusform>%n zvolených položka</numerusform><numerusform>%n zvolené položky</numerusform><numerusform>%n zvolených položiek</numerusform><numerusform>%n zvolených položiek</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="563"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="563"/>
         <source>Copy to Other Library</source>
         <translation>Kopírovať do inej knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="565"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="565"/>
         <source>Copy library element(s) to another library while keeping all UUIDs, e.g. for overriding a read-only element</source>
         <translation>Kopírovať prvky knižnice do inej knižnice so zachovaním všetkých UUID, napr. na prepísanie prvku iba na čítanie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="572"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="572"/>
         <source>Move to Other Library</source>
         <translation>Presunúť do inej knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/lib/librarytab.slint" line="574"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="574"/>
         <source>Move library element(s) to another library</source>
         <translation>Presunúť prvok (prvky) knižnice do inej knižnice</translation>
     </message>
@@ -18690,22 +18690,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryUninstallPopup</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="27"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="27"/>
         <source>Uninstall %1</source>
         <translation>Odinštalovať %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="36"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="36"/>
         <source>Attention</source>
         <translation>Upozornenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="36"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="36"/>
         <source>This will remove the whole library directory and is not reversible:</source>
         <translation>Toto odstráni celý adresár knižnice a nie je to vratné:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/librariespanel.slint" line="46"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="46"/>
         <source>Are you really sure to remove &apos;%1&apos;?</source>
         <translation>Naozaj chcete odstrániť &apos;%1&apos;?</translation>
     </message>
@@ -18713,322 +18713,322 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::MainMenuBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1006"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1006"/>
         <source>Category</source>
         <translation>Kategória</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1024"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1024"/>
         <source>Save Category</source>
         <translation>Uložiť kategóriu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1034"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1034"/>
         <source>Close Category</source>
         <translation>Zatvoriť kategóriu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1035"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1035"/>
         <source>Close the currently opened category</source>
         <translation>Uzavretie práve otvorenej kategórie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1060"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1060"/>
         <source>Symbol</source>
         <translation>Sch. značka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1078"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1078"/>
         <source>Save Symbol</source>
         <translation>Uložiť schematickú značku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1088"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1088"/>
         <source>Close Symbol</source>
         <translation>Zavrieť schematickú značku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1089"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1089"/>
         <source>Close the currently opened symbol</source>
         <translation>Zavrieť aktuálne otvorenú sc. značku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1099"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1099"/>
         <source>Reload Symbol From Disk</source>
         <translation>Znova načítať schematický symbol z disku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1100"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1100"/>
         <source>Discard all modifications and reload the currently opened symbol from disk</source>
         <translation>Zahodenie úprav a znova načítanie otvorenej schematickej značky z disku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1121"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1121"/>
         <source>Package</source>
         <translation>Puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1139"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1139"/>
         <source>Save Package</source>
         <translation>Uložiť puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1149"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1149"/>
         <source>Close Package</source>
         <translation>Zavrieť puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1150"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1150"/>
         <source>Close the currently opened package</source>
         <translation>Zavrieť aktuálne otvorené puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1160"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1160"/>
         <source>Reload Package From Disk</source>
         <translation>Znova načítať puzdro z disku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1161"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1161"/>
         <source>Discard all modifications and reload the currently opened package from disk</source>
         <translation>Zahodenie úprav a znova načítanie otvoreného puzdra z disku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1182"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1182"/>
         <source>Component</source>
         <translation>Komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1200"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1200"/>
         <source>Save Component</source>
         <translation>Uložiť komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1210"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1210"/>
         <source>Close Component</source>
         <translation>Zavrieť komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1211"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1211"/>
         <source>Close the currently opened component</source>
         <translation>Zavrieť aktuálne otvorený komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1232"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1232"/>
         <source>Device</source>
         <translation>Súčiastka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1250"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1250"/>
         <source>Save Device</source>
         <translation>Uložiť súčiastku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1260"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1260"/>
         <source>Close Device</source>
         <translation>Zavrieť súčiastku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1261"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1261"/>
         <source>Close the currently opened device</source>
         <translation>Uzavretie práve otvorenej súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1282"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1282"/>
         <source>Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1300"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1300"/>
         <source>Save Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1310"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1310"/>
         <source>Close Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1311"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1311"/>
         <source>Close the currently opened organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1332"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1332"/>
         <source>Project</source>
         <translation>Projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1370"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1370"/>
         <source>Save Project</source>
         <translation>Uložiť projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="142"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="142"/>
         <source>File</source>
         <translation>Súbor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1541"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1541"/>
         <source>Help</source>
         <translation>Pomoc</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1663"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1663"/>
         <source>read-only</source>
         <translation> iba na čítanie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="1878"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1878"/>
         <source>Quick Find</source>
         <translation>Rýchle hľadanie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="196"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="196"/>
         <source>New Library</source>
         <translation>Nová knižnica</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="198"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="198"/>
         <source>Create a new local workspace library</source>
         <translation>Vytvoriť novú lokálnu knižnicu pracovného priestoru</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="207"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="207"/>
         <source>Download Library</source>
         <translation>Stiahnúť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="209"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="209"/>
         <source>Manually download an existing library from the Internet</source>
         <translation>Manuálne stiahnúť existujúcu knižnicu z internetu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="347"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="347"/>
         <source>Open Workspace Folder</source>
         <translation>Otvoriť adresár prac. priestoru</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="379"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="379"/>
         <source>Edit</source>
         <translation>Upraviť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="429"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="429"/>
         <source>Cut</source>
         <translation>Vystrihnúť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="431"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="431"/>
         <source>Cut the selected object(s) to clipboard</source>
         <translation>Vystrihnutie zvoleného objektu/objektov do schránky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="442"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="442"/>
         <source>Copy</source>
         <translation>Kopírovať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="444"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="444"/>
         <source>Copy the selected object(s) to clipboard</source>
         <translation>Kopírovanie zvoleného objektu/objektov do schránky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="455"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="455"/>
         <source>Paste</source>
         <translation>Vložiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="457"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="457"/>
         <source>Paste object(s) from the clipboard</source>
         <translation>Vloženie objektu/objektov zo schránky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="666"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="666"/>
         <source>View</source>
         <translation>Zobraziť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="700"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="700"/>
         <source>Split Window</source>
         <translation>Rozdeliť okno</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="702"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="702"/>
         <source>Split the current window into one more section</source>
         <translation>Rozdeliť aktuálne okno na ďalšiu časť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="82"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="82"/>
         <source>Undo</source>
         <translation>Späť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="84"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="84"/>
         <source>Undo: %1</source>
         <translation>Späť: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="864"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="864"/>
         <source>Library</source>
         <translation>Knižnica</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="882"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="882"/>
         <source>Save Library</source>
         <translation>Uložiť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="89"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="89"/>
         <source>Redo</source>
         <translation>Opakovať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="892"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="892"/>
         <source>Close Library</source>
         <translation>Zavrieť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="893"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="893"/>
         <source>Close the currently opened library</source>
         <translation>Uzavretie práve otvorenej knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="91"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="91"/>
         <source>Redo: %1</source>
         <translation>Opakovať: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="934"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="934"/>
         <source>New Component Category</source>
         <translation>Nová kategória komponentu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="944"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="944"/>
         <source>New Package Category</source>
         <translation>Nová kategória puzdra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="954"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="954"/>
         <source>New Symbol</source>
         <translation>Nová schematická značka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="964"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="964"/>
         <source>New Package</source>
         <translation>Nové puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="974"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="974"/>
         <source>New Component</source>
         <translation>Nový komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="984"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="984"/>
         <source>New Device</source>
         <translation>Nová súčiastka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/mainmenubar.slint" line="994"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="994"/>
         <source>New Organization</source>
         <translation type="unfinished"/>
     </message>
@@ -19036,7 +19036,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ManufacturerRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="224"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="224"/>
         <source>Manufacturer:</source>
         <translation>Výrobca:</translation>
     </message>
@@ -19044,7 +19044,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::MessageBox</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/messagebox.slint" line="40"/>
+        <location filename="libs/librepcb/ui/widgets/messagebox.slint" line="40"/>
         <source>Don&apos;t show again</source>
         <translation>Viac nezobrazovať</translation>
     </message>
@@ -19052,17 +19052,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::MessagePopup</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/messagepopup.slint" line="65"/>
+        <location filename="libs/librepcb/ui/widgets/messagepopup.slint" line="65"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/messagepopup.slint" line="74"/>
+        <location filename="libs/librepcb/ui/widgets/messagepopup.slint" line="74"/>
         <source>Yes</source>
         <translation>Áno</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/messagepopup.slint" line="83"/>
+        <location filename="libs/librepcb/ui/widgets/messagepopup.slint" line="83"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
@@ -19070,17 +19070,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::MetadataFooterRowCell</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="539"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="539"/>
         <source>Next</source>
         <translation>Ďalej</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="539"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="539"/>
         <source>Save</source>
         <translation>Uložiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="549"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="549"/>
         <source>Back</source>
         <translation>Späť</translation>
     </message>
@@ -19088,7 +19088,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::NameRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="74"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="74"/>
         <source>Name:</source>
         <translation>Názov:</translation>
     </message>
@@ -19096,7 +19096,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::NotificationItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/notificationspopup.slint" line="112"/>
+        <location filename="libs/librepcb/ui/notificationspopup.slint" line="112"/>
         <source>Don&apos;t show again</source>
         <translation>Viac nezobrazovať</translation>
     </message>
@@ -19104,12 +19104,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::NotificationsPopup</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/notificationspopup.slint" line="166"/>
+        <location filename="libs/librepcb/ui/notificationspopup.slint" line="166"/>
         <source>Notifications</source>
         <translation>Upozornenia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/notificationspopup.slint" line="214"/>
+        <location filename="libs/librepcb/ui/notificationspopup.slint" line="214"/>
         <source>Too many notifications to display (%1 hidden).</source>
         <translation>Príliš veľa upozornení na zobrazenie (%1 skryté).</translation>
     </message>
@@ -19117,72 +19117,72 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::OrderPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="142"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="142"/>
         <source>This project does not contain any board, so there&apos;s nothing you could order.</source>
         <translation>Tento projekt neobsahuje žiadnu dosku, takže nie je čo objednať.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="144"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="144"/>
         <source>Please open the board you like to order.</source>
         <translation>Prosím, otvorte dosku, ktorú si želáte objednať.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="146"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="146"/>
         <source>There may be some issues with your schematics or board, please check the messages above before continuing.</source>
         <translation>Môžu sa vyskytnúť problémy so schémami alebo doskou, pred pokračovaním si prosím skontrolujte vyššie uvedené oznámenia.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="183"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="183"/>
         <source>Order %1</source>
         <translation>Objednávka %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="201"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="201"/>
         <source>Open web browser after upload</source>
         <translation>Otvoreniť webový prehliadač po nahraní </translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="218"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="218"/>
         <source>Finished the PCB design? Let it manufacture by one of our fabrication partners - easy, safe and fast!</source>
         <translation>Dokončili ste návrh DPS? Nechajte si ho vyrobiť u jedného z našich výrobných partnerov – jednoducho, bezpečne a rýchlo!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="226"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="226"/>
         <source>Electrical Rule Check</source>
         <translation>Kontrola elektrických pravidiel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="236"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="236"/>
         <source>Design Rule Check</source>
         <translation>Kontrola návrhových pravidiel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="260"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="260"/>
         <source>Upload Project</source>
         <translation>Nahrať projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="286"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="286"/>
         <source>Checking availability</source>
         <translation>Kontrolovanie dostupnosti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="317"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="317"/>
         <source>Details</source>
         <translation>Podrobnosti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="328"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="328"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. The project directory will be exported to a *.lppz archive and uploaded to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser, e.g. to choose the preferred manufacturing partner. Just try it!</source>
         <translation>Tento nástroj vám pomôže rýchlejšie a jednoduchšie vyrobiť navrhnutú dosku plošných spojov. Adresár projektu bude exportovaný do archívu *.lppz a nahraný na API server nakonfigurovaný vo Vašom pracovnom priestore. Následne môžete pokračovať v procese objednávky vo webovom prehliadači, napr. vybrať si preferovaného výrobného partnera. Len to skúste!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="333"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="333"/>
         <source>Privacy Policy</source>
         <translation>Zásady ochrany osobných údajov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="344"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="344"/>
         <source>Privacy and transparency are important to us. Details about how this feature works behind the scenes are available here:</source>
         <translation>Súkromie a transparentnosť sú pre nás dôležité. Podrobnosti o tom, ako táto funkcia funguje v zákulisí, nájdete tu:</translation>
     </message>
@@ -19190,37 +19190,37 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::OrderPreCheckRow</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="108"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="108"/>
         <source>Refresh</source>
         <translation>Obnoviť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="41"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="41"/>
         <source>Running...</source>
         <translation>Spustené...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="43"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="43"/>
         <source>Successful</source>
         <translation>Úspešné</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="45"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="45"/>
         <source>%n Message(s)</source>
         <translation><numerusform>%n oznámenie</numerusform><numerusform>%n oznámenia</numerusform><numerusform>%n oznámení</numerusform><numerusform>%n oznámení</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="47"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="47"/>
         <source>Outdated</source>
         <translation>Neaktuálne</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="49"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="49"/>
         <source>Unknown</source>
         <translation>Neznámy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/orderpanel.slint" line="90"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="90"/>
         <source>No board selected</source>
         <translation>Nie je zvolená doska</translation>
     </message>
@@ -19228,13 +19228,13 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::OrganizationTab</name>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/ui/library/org/organizationtab.slint" line="247"/>
-        <location filename="libs/librepcb/editor/ui/library/org/organizationtab.slint" line="259"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="247"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="259"/>
         <source>%n output job(s)</source>
         <translation><numerusform>%n úloha generovania výstupov</numerusform><numerusform>%n úlohy generovania výstupov</numerusform><numerusform>%n úloh generovania výstupov</numerusform><numerusform>%n úloh generovania výstupov</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/org/organizationtab.slint" line="46"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="46"/>
         <source>Note: This is currently an experimental feature which will be polished in upcoming releases.</source>
         <translation>Poznámka: Toto je momentálne experimentálna funkcia, ktorá bude v nasledujúcich vydaniach vylepšená.</translation>
     </message>
@@ -19242,7 +19242,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::OverlayDialog</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/overlaydialog.slint" line="53"/>
+        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="53"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -19250,17 +19250,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackageCard</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicedependencycards.slint" line="145"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="145"/>
         <source>Package</source>
         <translation>Puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicedependencycards.slint" line="147"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="147"/>
         <source>Failed to load package</source>
         <translation>Nedá sa načítať puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/devicedependencycards.slint" line="148"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="148"/>
         <source>No package selected</source>
         <translation>Nie je zvolené puzdro</translation>
     </message>
@@ -19268,7 +19268,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackageEditorFootprintsPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="283"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="283"/>
         <source>Add Footprint</source>
         <translation>Pridať puzdro</translation>
     </message>
@@ -19276,7 +19276,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackageEditorModelsPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="337"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="337"/>
         <source>Add 3D Model</source>
         <translation>Pridať 3D model</translation>
     </message>
@@ -19284,32 +19284,32 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackageEditorPanelListItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="142"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="142"/>
         <source>Move Up</source>
         <translation>Presunúť nahor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="158"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="158"/>
         <source>Rename</source>
         <translation>Premenovať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="174"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="174"/>
         <source>Duplicate</source>
         <translation>Duplikovať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="190"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="190"/>
         <source>Load From File</source>
         <translation>Načítať zo súboru</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="206"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="206"/>
         <source>Remove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditorlistpanels.slint" line="99"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="99"/>
         <source>Enter name &amp; press Return</source>
         <translation>Zadajte názov a stačte Enter</translation>
     </message>
@@ -19317,27 +19317,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackageEditorTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="743"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="743"/>
         <source>Helper Tools</source>
         <translation>Pomocné nástroje</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="858"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="858"/>
         <source>Devices</source>
         <translation>Súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="871"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="871"/>
         <source>Solder Paste</source>
         <translation>Spájkovacia pasta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="884"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="884"/>
         <source>Silkscreen</source>
         <translation>Potlač dosky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="897"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="897"/>
         <source>Solder Resist</source>
         <translation>Nespájkovateľná maska</translation>
     </message>
@@ -19345,12 +19345,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackageEditorTagsPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditortagspanel.slint" line="109"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditortagspanel.slint" line="109"/>
         <source>Type to add a new tag...</source>
         <translation>Písaním pridáte novú značku....</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packageeditortagspanel.slint" line="84"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditortagspanel.slint" line="84"/>
         <source>Suggested Tags:</source>
         <translation>Navrhované značky:</translation>
     </message>
@@ -19358,17 +19358,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackagePadListView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagepadlistview.slint" line="112"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagepadlistview.slint" line="112"/>
         <source>Name</source>
         <translation>Názov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagepadlistview.slint" line="181"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagepadlistview.slint" line="181"/>
         <source>This package contains no pads (yet).</source>
         <translation>Toto puzdro (zatiaľ) neobsahuje žiadne plôšky vývodov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagepadlistview.slint" line="88"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagepadlistview.slint" line="88"/>
         <source>ID</source>
         <translation>ID</translation>
     </message>
@@ -19376,42 +19376,42 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackagePadsEditorTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="258"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="258"/>
         <source>Add all (potentially solderable) package pads which are electrically independent, no matter if they actually have an electrical function in a particular part.</source>
         <translation>Pridajte všetky (potenciálne spájkovateľné) plôšky vývodov puzdra, ktoré sú elektricky nezávislé, bez ohľadu na to, či v danej časti skutočne majú elektrickú funkciu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="259"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="259"/>
         <source>For example, a thermal pad should be listed here, even though it may not have an electrical function.</source>
         <translation>Napríklad by tu mala byť tepelnú plôška vývodu, aj keď nemusí mať elektrickú funkciu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="260"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="260"/>
         <source>Once the package is finished, it is *not* possible anymore to add or remove pads.</source>
         <translation>Po dokončení puzdra už *nie* je možné pridávať ani odoberať plôšky vývodov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="265"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="265"/>
         <source>Important:</source>
         <translation>Dôležité:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="275"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="275"/>
         <source>Add Pads:</source>
         <translation>Pridať plôšky vývodov:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="280"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="280"/>
         <source>Pad name (may contain ranges like \&quot;1..5\&quot;)</source>
         <translation>Názov plôšky vývodu (môže obsahovať rozsahy ako  \&quot;1..5\&quot;)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="328"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="328"/>
         <source>Finish</source>
         <translation>Povrchové úpravy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="338"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="338"/>
         <source>Back</source>
         <translation>Späť</translation>
     </message>
@@ -19419,22 +19419,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1051"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1051"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1052"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1052"/>
         <source>Pads</source>
         <translation>Plôšky vývodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1053"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1053"/>
         <source>Footprints</source>
         <translation>Puzdrá</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/packagetab.slint" line="1054"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1054"/>
         <source>3D Models</source>
         <translation>3D modely</translation>
     </message>
@@ -19442,27 +19442,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PadShapeSelector</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/padshapeselector.slint" line="19"/>
+        <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="19"/>
         <source>Round</source>
         <translation>Kruhový</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/padshapeselector.slint" line="25"/>
+        <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="25"/>
         <source>Rounded Rect</source>
         <translation>Zaoblený štvoruholník</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/padshapeselector.slint" line="31"/>
+        <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="31"/>
         <source>Rectangular</source>
         <translation>Obdĺžnikový</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/padshapeselector.slint" line="37"/>
+        <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="37"/>
         <source>Octagon</source>
         <translation>Osemuholníkový</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/padshapeselector.slint" line="77"/>
+        <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="77"/>
         <source>Shape</source>
         <translation>Tvar</translation>
     </message>
@@ -19470,7 +19470,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ParentRowCell</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="260"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="260"/>
         <source>Choose Parent Category</source>
         <translation>Zvoliť nadradenú kategóriu</translation>
     </message>
@@ -19478,7 +19478,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ParentRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="228"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="228"/>
         <source>Parent:</source>
         <translation>Nadradený:</translation>
     </message>
@@ -19486,22 +19486,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PartListView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/partlistview.slint" line="105"/>
+        <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="105"/>
         <source>Type to add a new part...</source>
         <translation>Písaním pridáte novú súčiastku....</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/partlistview.slint" line="147"/>
+        <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="147"/>
         <source>Manufacturer</source>
         <translation>Výrobca</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/partlistview.slint" line="198"/>
+        <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="198"/>
         <source>Attributes</source>
         <translation>Atribúty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/dev/partlistview.slint" line="76"/>
+        <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="76"/>
         <source>Part Number (MPN)</source>
         <translation>Typové označenie (MPN)</translation>
     </message>
@@ -19509,7 +19509,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PcbDesignRulesRowCell</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="500"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="500"/>
         <source>New Design Rules</source>
         <translation>Nové návrhové pravidlá</translation>
     </message>
@@ -19517,7 +19517,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PcbDesignRulesRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="433"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="433"/>
         <source>PCB Design Rules:</source>
         <translation>Návrhové pravidlá dosky:</translation>
     </message>
@@ -19525,7 +19525,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PcbOutputJobsRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="510"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="510"/>
         <source>PCB Service:</source>
         <translation>Výrobca dosky:</translation>
     </message>
@@ -19533,87 +19533,87 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PlaceDevicesPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="101"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="101"/>
         <source>Place Devices</source>
         <translation>Umiestniť súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="131"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="131"/>
         <source>Settings</source>
         <translation>Nastavenia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="162"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="162"/>
         <source>THT Pads:</source>
         <translation>THT plôšky vývodov:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="191"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="191"/>
         <source>SMT Pads:</source>
         <translation>SMT plôšky vývodov:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="220"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="220"/>
         <source>Density:</source>
         <translation>Hustota:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="263"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="263"/>
         <source>All components from the schematics have been added to the board. To add more components to the board, add them to the schematics first which will make them appearing here for placement.</source>
         <translation>Všetky komponenty zo schém boli pridané na dosku. Ak chcete na dosku pridať ďalšie komponenty, najskôr ich pridajte do schém, čím sa zobrazia tu na umiestnenie.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="296"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="296"/>
         <source>No device or package found</source>
         <translation>Nie je zvolená súčiastka alebo puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="310"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="310"/>
         <source>No compatible device was found for the selected component. Please install a library providing a suitable device or create a new device on your own in a local library.</source>
         <translation>Pre vybraný komponent sa nenašla žiadne kompatibilná súčiastka. Nainštalujte si knižnicu, ktorá poskytuje vhodné súčiastky, alebo si vytvorte novú súčiastku v lokálnej knižnici.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="317"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="317"/>
         <source>More information &amp; device creation guide</source>
         <translation>Viac informácií a sprievodca vytvorením súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="329"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="329"/>
         <source>I installed all libraries, why I still get this error?</source>
         <translation>Nainštaloval som všetky knižnice, prečo sa mi stále zobrazuje túto chybu?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="339"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="339"/>
         <source>Install or Create Libraries</source>
         <translation>Inštalovať alebo vytvoriť knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="394"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="394"/>
         <source>Place Selected Device</source>
         <translation>Umiestniť zvolenú súčiastku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="395"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="395"/>
         <source>Interactively place the component with the selected device &amp; footprint on the board</source>
         <translation>Interaktívne umiestnite komponent s vybranou súčiastkou a puzdrom na dosku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="406"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="406"/>
         <source>Place Similar</source>
         <translation>Pridať podobné</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="407"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="407"/>
         <source>Automatically add all components of the same kind to the board, using the currently selected device &amp; footprint</source>
         <translation>Automaticky pridať všetky komponenty rovnakého druhu na dosku s použitím aktuálne zvolenou súčiastkou a puzdrom</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="415"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="415"/>
         <source>Place All</source>
         <translation>Pridať všetko</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/placedevicespanel.slint" line="416"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="416"/>
         <source>Automatically add all components to the board, guessing their device &amp; footprint (not recommended)</source>
         <translation>Automaticky pridať všetky komponenty na dosku s odhadom súčiastky a puzdra (neodporúča sa)</translation>
     </message>
@@ -19621,7 +19621,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PrefixRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="417"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="417"/>
         <source>Prefix:</source>
         <translation>Prefix:</translation>
     </message>
@@ -19629,7 +19629,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PriorityRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="429"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="429"/>
         <source>Priority:</source>
         <translation>Priorita:</translation>
     </message>
@@ -19637,17 +19637,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ProjectSection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="173"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="173"/>
         <source>save</source>
         <translation>uložiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="235"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="235"/>
         <source>Schematic</source>
         <translation>Schéma</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/documentspanel.slint" line="255"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="255"/>
         <source>Board</source>
         <translation>Doska</translation>
     </message>
@@ -19655,32 +19655,32 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::QuickAccessListView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="61"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="61"/>
         <source>Open the project</source>
         <translation>Otvoriť projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="71"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="71"/>
         <source>Pin to Quick Access</source>
         <translation>Pripnúť k rýchleho prístupu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="71"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="71"/>
         <source>Unpin from Quick Access</source>
         <translation>Odopnúť z rýchleho prístupu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="74"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="74"/>
         <source>Pin/unpin the project to the quick access</source>
         <translation>Pripnúť/odopnúť projekt z rýchleho prístupu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="85"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="85"/>
         <source>Remove From Quick Access</source>
         <translation>Odstrániť z rýchleho prístupu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="87"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="87"/>
         <source>Remove the project from the quick access list</source>
         <translation>Odstrániť projekt zo zoznamu rýchleho prístupu</translation>
     </message>
@@ -19688,12 +19688,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ReNumberPadsToolBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/renumberpadstoolbar.slint" line="19"/>
+        <location filename="libs/librepcb/ui/library/pkg/renumberpadstoolbar.slint" line="19"/>
         <source>Accept</source>
         <translation>Akceptovať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/pkg/renumberpadstoolbar.slint" line="29"/>
+        <location filename="libs/librepcb/ui/library/pkg/renumberpadstoolbar.slint" line="29"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
@@ -19701,17 +19701,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::RuleCheckListItem</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="87"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="87"/>
         <source>Apply Automatic Fix</source>
         <translation>Použiť automatickú opravu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="98"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="98"/>
         <source>Approve</source>
         <translation>Schváliť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="98"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="98"/>
         <source>Remove Approval</source>
         <translation>Odstrániť schválené</translation>
     </message>
@@ -19719,72 +19719,72 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::RuleCheckPanel</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="179"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="179"/>
         <source>Possibly Outdated Data</source>
         <translation>Eventuálne zastarané údaje</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="179"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="179"/>
         <source>Trigger the checks again to refresh the messages.</source>
         <translation>Znovu spustite kontroly, aby sa oznámenia obnovili.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="210"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="210"/>
         <source>DRC Settings</source>
         <translation>Nastavenia DRC</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="222"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="222"/>
         <source>Settings</source>
         <translation>Nastavenia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="234"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="234"/>
         <source>Zoom to Location</source>
         <translation>Priblížiť lokalitu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="267"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="267"/>
         <source>These settings are stored in the currently opened package and don&apos;t affect other packages.</source>
         <translation>Tieto nastavenia sú uložené v aktuálne otvorenom puzdre a neovplyvňujú ostatné puzdra.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="277"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="277"/>
         <source>Min. Copper Clearance:</source>
         <translation>Min. vzdialenosť vodivých prvkov:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="287"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="287"/>
         <source>Recommended: %1 (default)</source>
         <translation>Odporúčané: %1 (predvolené)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="287"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="287"/>
         <source>Reduce it for packages with very small pitch</source>
         <translation>Zmenšite to pre puzdrá s veľmi malým rozstupom</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="311"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="311"/>
         <source>Apply</source>
         <translation>Použiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="332"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="332"/>
         <source>No checks run yet. Trigger them with one of the buttons above.</source>
         <translation>Zatiaľ neboli spustené žiadne kontroly. Spustite ich pomocou jedného z tlačidiel vyššie.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="334"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="334"/>
         <source>Running, hang on...</source>
         <translation>Prebieha, čakajte...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="336"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="336"/>
         <source>No messages.</source>
         <translation>Žiadne oznámenia.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/rulecheckpanel.slint" line="388"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="388"/>
         <source>This message is marked as fixed. Run the checks again to verify the message is really resolved and disappears.</source>
         <translation>Táto správa je označená ako vybavená. Znova spustite kontroly, aby ste overili, či je správa skutočne vyriešená a zmizla.</translation>
     </message>
@@ -19792,7 +19792,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SchematicOnlyRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="413"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="413"/>
         <source>Schematic-Only:</source>
         <translation>Iba v schéme:</translation>
     </message>
@@ -19800,47 +19800,47 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="143"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="143"/>
         <source>No Libraries Installed</source>
         <translation>Nie sú nainštalované žiadne knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="149"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="149"/>
         <source>In order to add components to this schematic, you first need to install some part libraries or create parts by yourself in your own library.</source>
         <translation>Ak chcete do tejto schémy pridať komponenty, musíte najprv nainštalovať niektoré knižnice súčiastok alebo si súčiastky vytvoriť sami vo vlastnej knižnici.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="154"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="154"/>
         <source>Install Libraries</source>
         <translation>Inštalovať knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="168"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="168"/>
         <source>Learn how to create parts by yourself</source>
         <translation>Naučte sa, ako si vytvárať súčiastky.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="187"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="187"/>
         <source>Get Started</source>
         <translation>Začať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="193"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="193"/>
         <source>It&apos;s recommended to start a new schematic with adding a drawing frame to it. Then add other components the usual way with the toolbar at the left.</source>
         <translation>Odporúča sa začať novú schému pridaním orámovania výkresu. Potom pridajte ďalšie komponenty zvyčajným spôsobom pomocou panela nástrojov vľavo.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="198"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="198"/>
         <source>Add Drawing Frame</source>
         <translation>Pridať orámovanie výkresu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="212"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="212"/>
         <source>Learn how to create schematics</source>
         <translation>Naučte sa, ako vytvárať schémy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/project/schematic/schematictab.slint" line="458"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="458"/>
         <source>Pin Numbers</source>
         <translation>Čísla vývodov</translation>
     </message>
@@ -19848,32 +19848,32 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SideBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="171"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="171"/>
         <source>Home</source>
         <translation>Domov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="181"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="181"/>
         <source>Open Documents</source>
         <translation>Otvoriť dokumenty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="198"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="198"/>
         <source>Layers</source>
         <translation>Vrstvy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="222"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="222"/>
         <source>Place Devices</source>
         <translation>Umiestniť súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="353"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="353"/>
         <source>Libraries</source>
         <translation>Knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/sidebar.slint" line="407"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="407"/>
         <source>Help / About</source>
         <translation>Pomocník / O nás</translation>
     </message>
@@ -19881,27 +19881,27 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SolderTechnologySelector</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="32"/>
+        <location filename="libs/librepcb/ui/widgets/soldertechnologyselector.slint" line="32"/>
         <source>Prefer easy hand-soldering</source>
         <translation>Uprednostňované pre jednoduché ručné spájkovanie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="34"/>
+        <location filename="libs/librepcb/ui/widgets/soldertechnologyselector.slint" line="34"/>
         <source>Prefer hand-soldering</source>
         <translation>Uprednostňované pre ručné spájkovanie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="36"/>
+        <location filename="libs/librepcb/ui/widgets/soldertechnologyselector.slint" line="36"/>
         <source>Prefer reflow-soldering</source>
         <translation>Uprednostňované pre spájkovanie pretavením (reflow)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="38"/>
+        <location filename="libs/librepcb/ui/widgets/soldertechnologyselector.slint" line="38"/>
         <source>Prefer wave-soldering</source>
         <translation>Uprednostňované pre spájkovanie vlnou (wave)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/soldertechnologyselector.slint" line="40"/>
+        <location filename="libs/librepcb/ui/widgets/soldertechnologyselector.slint" line="40"/>
         <source>No soldering preference</source>
         <translation>Bez spájkovacích preferencií</translation>
     </message>
@@ -19909,17 +19909,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::StatusBar</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/statusbar.slint" line="277"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="277"/>
         <source>Grid Interval</source>
         <translation>Interval rastra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/statusbar.slint" line="277"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="277"/>
         <source>scroll up/down on hover</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/statusbar.slint" line="314"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="314"/>
         <source>Grid Style</source>
         <translation>Štýl Rastra</translation>
     </message>
@@ -19927,22 +19927,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="369"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="369"/>
         <source>Import Pins From Datasheet</source>
         <translation>Importovanie definície vývodov z technického listu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="375"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="375"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation>Odporúča sa začať kreslenie nového symbolu pridaním všetkých vývodov. Najmä v prípade väčších symbolov je najrýchlejším spôsobom ich import z technického listu alebo akejkoľvek inej dokumentácie k súčiastke.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="380"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="380"/>
         <source>Import Pins</source>
         <translation>Importovať vývody</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="394"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="394"/>
         <source>Learn how to create symbols</source>
         <translation>Naučte sa, ako vytvárať schematické značky.</translation>
     </message>
@@ -19950,12 +19950,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="683"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="683"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/sym/symboltab.slint" line="684"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="684"/>
         <source>Graphics</source>
         <translation>Grafické objekty</translation>
     </message>
@@ -19963,7 +19963,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ToolButton</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/toolbutton.slint" line="63"/>
+        <location filename="libs/librepcb/ui/widgets/toolbutton.slint" line="63"/>
         <source>right-click for menu</source>
         <translation>pravé kliknutie pre menu</translation>
     </message>
@@ -19971,12 +19971,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::TreeView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/treeview.slint" line="143"/>
+        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="143"/>
         <source>Pin</source>
         <translation>Vývod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/treeview.slint" line="143"/>
+        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="143"/>
         <source>Unpin</source>
         <translation>Odopnúť</translation>
     </message>
@@ -19984,7 +19984,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::UrlRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="104"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="104"/>
         <source>URL:</source>
         <translation>URL:</translation>
     </message>
@@ -19992,17 +19992,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::VAlignSelector</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/alignmentselector.slint" line="92"/>
+        <location filename="libs/librepcb/ui/widgets/alignmentselector.slint" line="92"/>
         <source>Align Bottom</source>
         <translation>Zarovnanie nadol</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/alignmentselector.slint" line="93"/>
+        <location filename="libs/librepcb/ui/widgets/alignmentselector.slint" line="93"/>
         <source>Align Center</source>
         <translation>Zarovnanie na stred</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/widgets/alignmentselector.slint" line="94"/>
+        <location filename="libs/librepcb/ui/widgets/alignmentselector.slint" line="94"/>
         <source>Align Top</source>
         <translation>Zarovnanie nahor</translation>
     </message>
@@ -20010,7 +20010,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::VersionRowHeader</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/library/metadatawidgets.slint" line="90"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="90"/>
         <source>Version:</source>
         <translation>Verzia:</translation>
     </message>
@@ -20018,12 +20018,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::WindowSection</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="205"/>
+        <location filename="libs/librepcb/ui/windowsection.slint" line="205"/>
         <source>Split Section</source>
         <translation>Rozdeliť sekciu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/windowsection.slint" line="218"/>
+        <location filename="libs/librepcb/ui/windowsection.slint" line="218"/>
         <source>Close Section</source>
         <translation>Zavrieť sekciu</translation>
     </message>
@@ -20031,37 +20031,37 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::WorkspaceFolderTreeView</name>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="138"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="138"/>
         <source>Open the file or project</source>
         <translation>Otvoriť súbor alebo projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="148"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="148"/>
         <source>New Folder</source>
         <translation>Nový adresár</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="150"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="150"/>
         <source>Create a new folder</source>
         <translation>Vytvoriť nový adresár</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="170"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="170"/>
         <source>Pin to Quick Access</source>
         <translation>Pripnúť k rýchleho prístupu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="170"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="170"/>
         <source>Unpin from Quick Access</source>
         <translation>Odopnúť z rýchleho prístupu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="173"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="173"/>
         <source>Pin/unpin the project to the quick access</source>
         <translation>Pripnúť/odopnúť projekt z panelu rýchleho prístupu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/ui/homepanel.slint" line="186"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="186"/>
         <source>Remove the file or directory from the file system</source>
         <translation>Otvoriť súbor alebo adresár zo súborového systému</translation>
     </message>
