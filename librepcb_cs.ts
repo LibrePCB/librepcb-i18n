@@ -1220,12 +1220,12 @@ Prosím zkontrolujte, že tento nástroj je dostupný v PATH.</translation>
 <context>
     <name>DrcMsgDisabledLayer</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1881"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1907"/>
         <source>Objects on disabled layer: &apos;%1&apos;</source>
         <translation>Počet předmětů ve vypnuté vrstvě: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1882"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1908"/>
         <source>The layer contains copper objects, but it is disabled in the board setup dialog and thus will be ignored in any production data exports. Either increase the layer count to get this layer exported, or remove all objects on this layer (by temporarily enabling this layer to see them).</source>
         <translation>Vrstva obsahuje měděné předměty, ale v dialogu nastavení desky je zakázána, a proto bude při ukládání výrobních dat přehlížena. Buď zvýšíte počet vrstev, aby se tato vrstva uložila, nebo odstraníte všechny předměty v této vrstvě (dočasným povolením této vrstvy, aby byly vidět).</translation>
     </message>
@@ -1833,6 +1833,25 @@ This cutout is on the &quot;%1&quot; layer but intersects with copper layers alo
     </message>
 </context>
 <context>
+    <name>DrcMsgPlaneThermalSpokeWidthIgnored</name>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1819"/>
+        <source>Ignored thermal spoke width of plane in &apos;%1&apos;</source>
+        <comment>Placeholders: Net name</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1822"/>
+        <source>The thermal spoke width of the plane is set to a value smaller than the planes minimum width, which is not allowed. Therefore the plane filling algorithm ignores the specified spoke width and uses the specified minimum width instead.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1827"/>
+        <source>It is recommended to explicitly set the thermal spoke width equal to or higher than the minimum width of the plane.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>DrcMsgPlatedCutoutWithoutCopper</name>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="373"/>
@@ -1850,18 +1869,18 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
 <context>
     <name>DrcMsgSilkscreenClearanceViolation</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1819"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1845"/>
         <source>Clearance silkscreen text ↔ stop mask &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
         <translation>Vzdálenost popisného textu -- masky &lt; %1 %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1822"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1848"/>
         <source>The clearance between a silkscreen text and a solder resist opening is smaller than the minimum clearance configured in the DRC settings. This could lead to clipped silkscreen during production.</source>
         <translation>Vzdálenost mezi textem sítotisku a otevřeným pájecím místem je menší než minimální vzdálenost nastavená v nastavení DRC. To by mohlo vést k oříznutí sítotisku během výroby.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1827"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1853"/>
         <source>Check the DRC settings and move the text away from the solder resist opening if needed.</source>
         <translation>Zkontrolujte nastavení DRC a přesuňte text dále od odkrytí masky, pokud to bude potřeba.</translation>
     </message>
@@ -1877,12 +1896,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
 <context>
     <name>DrcMsgUnusedLayer</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1899"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1925"/>
         <source>Unused layer: &apos;%1&apos;</source>
         <translation>Nepoužívaná vrstva: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1900"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1926"/>
         <source>The layer contains no copper objects (except the automatically generated through-hole annular rings, if any) so it is useless. This is not critical, but if your intention is to flood it with copper, you need to add a plane manually. Or if you don&apos;t need this layer, you might want to reduce the layer count in the board setup dialog to avoid unnecessary production costs. Also some PCB manufacturers might be confused by empty layers.</source>
         <translation>Vrstva neobsahuje žádné měděné předměty (kromě automaticky vytvářených kroužků s průchozími otvory, pokud existují), takže je nepoužitelná. To není zásadní, ale pokud je vaším záměrem zalít ji mědí, musíte rovinu přidat ručně. Nebo pokud tuto vrstvu nepotřebujete, možná budete chtít snížit počet vrstev v dialogu nastavení desky, abyste se vyhnuli zbytečným výrobním nákladům. Některé výrobce desek plošných spojů by také mohly zmást prázdné vrstvy.</translation>
     </message>
@@ -1890,13 +1909,13 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
 <context>
     <name>DrcMsgUselessVia</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1862"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1888"/>
         <source>Useless via in net &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
         <translation>Nepotřebný prokov na propoji &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1864"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1890"/>
         <source>The via is connected on less than two layers, thus it seems to be useless.</source>
         <translation>Prokov je spojený s méně než dvěma vrstvami, proto vypadá nepotřebně.</translation>
     </message>
@@ -1904,12 +1923,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
 <context>
     <name>DrcMsgUselessZone</name>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1846"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1872"/>
         <source>Useless zone</source>
         <translation>Nepoužitelný prostor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1847"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1873"/>
         <source>The zone has no layer or rule enabled so it is useless.</source>
         <translation>Zóna nemá povolenou žádnou vrstvu ani pravidlo, takže je k ničemu.</translation>
     </message>
@@ -6317,148 +6336,153 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <translation>Překreslení signálních ploch...</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="346"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="347"/>
         <source>Finished with %1 message(s)!</source>
         <comment>Count of messages</comment>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform>Ukončené s %1 zprávami!</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="357"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="358"/>
         <source>Prepare &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="379"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="380"/>
         <source>Check copper clearances...</source>
         <translation>Kontrola vzdáleností vodivých prvků...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="716"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="717"/>
         <source>Check board clearances...</source>
         <translation>Kontrola vzdáleností na desce...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="879"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="880"/>
         <source>Check hole clearances...</source>
         <translation>Kontrola vzdáleností děr...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="936"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="937"/>
         <source>Check drill clearances...</source>
         <translation>Kontrola vzdáleností vrtání...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1030"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1031"/>
         <source>Check drill to board edge clearances...</source>
         <translation>Kontrola vzdáleností vrtání od kraje desky...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1120"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1121"/>
         <source>Check silkscreen to stopmask clearances...</source>
         <translation>Kontrola vzdáleností popisu od masky...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1204"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1205"/>
         <source>Check copper widths...</source>
         <translation>Zkontrolovat šířku spojů...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1221"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1222"/>
         <source>Check PTH annular rings...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1305"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1306"/>
         <source>Check NPTH drill diameters...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1341"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1342"/>
         <source>Check NPTH slot widths...</source>
         <translation>Zkontrolovat šířku drážky NPTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1370"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1371"/>
         <source>Check PTH drill diameters...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1427"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1428"/>
         <source>Check PTH slot widths...</source>
         <translation>Zkontrolovat šířku drážky PTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1473"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1474"/>
         <source>Check silkscreen widths...</source>
         <translation>Zkontrolovat šířku popisků...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1491"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1492"/>
         <source>Check silkscreen text heights...</source>
         <translation>Zkontrolovat výšku textu popisků...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1512"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1513"/>
         <source>Check keepout zones...</source>
         <translation>Zkontrolovat zakázané zóny...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1768"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1769"/>
         <source>Check for useless or disallowed vias...</source>
         <translation>Kontrola nadbytečných nebo zakázaných prokovů...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1801"/>
+        <source>Check for invalid planes...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1816"/>
         <source>Check for disallowed NPTH slots...</source>
         <translation>Zkontrolovat nepovolené drážky NPTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1834"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1849"/>
         <source>Check for disallowed PTH slots...</source>
         <translation>Zkontrolovat nepovolené drážky PTH...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1874"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1889"/>
         <source>Check pad connections...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1919"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1934"/>
         <source>Check device clearances...</source>
         <translation>Kontrola vzdáleností součástí...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1974"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1989"/>
         <source>Check board outline...</source>
         <translation>Kontrolovat obrys desky ...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2052"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2067"/>
         <source>Check board cutouts...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2181"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2196"/>
         <source>Check used layers...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2244"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2259"/>
         <source>Check for unplaced components...</source>
         <translation>Prověřit neumístěné součásti...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2255"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2270"/>
         <source>Check for missing connections...</source>
         <translation>Kontrola chybějících spojení...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2301"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2316"/>
         <source>Check for impossible connections...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2319"/>
+        <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2334"/>
         <source>Check for stale objects...</source>
         <translation>Ověřit stav předmětů...</translation>
     </message>
@@ -7719,42 +7743,42 @@ Na otevření potřebujete alespoň LibrePCB %1.
 <context>
     <name>librepcb::editor::BoardEditor</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="316"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="317"/>
         <source>Running Quick Check</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="316"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="317"/>
         <source>Running Design Rule Check</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="371"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="372"/>
         <source>Export STEP Model</source>
         <translation>Vyvést STEP model</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="396"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="397"/>
         <source>STEP Export Failure</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="411"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="412"/>
         <source>This feature is not available because there is no API server configured in your workspace settings.</source>
         <translation>Tato vlastnost není dostupná, protože není nakonfigurován žádný API server ve vašem nastavení pracovního prostoru.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="438"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="439"/>
         <source>Success! Please continue in the web browser:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="525"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="526"/>
         <source>Uploading project...</source>
         <translation>Nahrávám projekt...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="685"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="686"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
