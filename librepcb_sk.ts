@@ -4048,11 +4048,6 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
         <source>Invalid name: &apos;%1&apos;</source>
         <translation>Neplatný názov: &apos;%1&apos;</translation>
     </message>
-    <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="337"/>
-        <source>Suffix &apos;%1&apos; missing</source>
-        <translation>Chýbajúca prípona &apos;%1&apos;</translation>
-    </message>
 </context>
 <context>
     <name>FileUtils</name>
@@ -5737,6 +5732,11 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="303"/>
         <source>Recommended</source>
         <translation>Odporúčaná</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="335"/>
+        <source>Suffix &apos;%1&apos; missing</source>
+        <translation>Chýbajúca prípona &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -10774,7 +10774,7 @@ Chcete ich uložiť pred zatvorením?</translation>
         <translation>Nová knižnica</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="228"/>
+        <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="237"/>
         <source>Exists already</source>
         <translation>Už existuje</translation>
     </message>
@@ -10990,7 +10990,7 @@ Chcete ich uložiť pred zatvorením?</translation>
         <translation>Stiahnúť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="202"/>
+        <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="210"/>
         <source>Exists already</source>
         <translation>Už existuje</translation>
     </message>

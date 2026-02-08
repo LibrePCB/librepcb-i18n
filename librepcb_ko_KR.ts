@@ -4032,11 +4032,6 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <source>Invalid name: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="337"/>
-        <source>Suffix &apos;%1&apos; missing</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>FileUtils</name>
@@ -5700,6 +5695,11 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="303"/>
         <source>Recommended</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="335"/>
+        <source>Suffix &apos;%1&apos; missing</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -10722,7 +10722,7 @@ Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="228"/>
+        <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="237"/>
         <source>Exists already</source>
         <translation type="unfinished"/>
     </message>
@@ -10937,7 +10937,7 @@ Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="202"/>
+        <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="210"/>
         <source>Exists already</source>
         <translation type="unfinished"/>
     </message>
