@@ -7896,7 +7896,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="220"/>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="259"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="325"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="340"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
