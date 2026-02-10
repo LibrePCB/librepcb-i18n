@@ -7318,22 +7318,22 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>&amp;Pridať viac</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="793"/>
+        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="805"/>
         <source>No component selected</source>
         <translation>Nie je zvolený komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="857"/>
+        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="869"/>
         <source>No device selected</source>
         <translation>Nie je zvolená súčiastka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1007"/>
+        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1019"/>
         <source>Invalid Selection</source>
         <translation>Neplatný výber</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1008"/>
+        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1020"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>Prosím, zvoľte komponent a variantu sch. značky.</translation>
     </message>

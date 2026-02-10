@@ -7302,22 +7302,22 @@ You need at least LibrePCB %1 to open it.
         <translation>&amp;Додати ще</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="793"/>
+        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="805"/>
         <source>No component selected</source>
         <translation>Не вибрано жодного компоненту</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="857"/>
+        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="869"/>
         <source>No device selected</source>
         <translation>Не вибрано жодного пристрою</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1007"/>
+        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1019"/>
         <source>Invalid Selection</source>
         <translation>Неправильний вибір</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1008"/>
+        <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1020"/>
         <source>Please select a component and a symbol variant.</source>
         <translation>Будь ласка, оберіть компонент та варіант символу.</translation>
     </message>
