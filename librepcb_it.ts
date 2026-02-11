@@ -7589,72 +7589,72 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1350"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1354"/>
         <source>Auto</source>
         <translation>Auto</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1352"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1390"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1682"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1356"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1394"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1686"/>
         <source>None</source>
         <translation>Nessuno</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2327"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2331"/>
         <source>Add devices to board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2355"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2407"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2438"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2492"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2359"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2411"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2442"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2496"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2373"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2377"/>
         <source>Preparing board...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2373"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2377"/>
         <source>Cancel</source>
         <translation>Cancella</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2426"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2430"/>
         <source>Export IPC D-356A Netlist</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2490"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2494"/>
         <source>Success!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2499"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2503"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2537"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2541"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2546"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2550"/>
         <source>Import failed, no changes made to the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2551"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2555"/>
         <source>Specctra SES Import</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2561"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2565"/>
         <source>Close</source>
         <translation>Chiudi</translation>
     </message>
@@ -13267,14 +13267,14 @@ Are you still sure to delete the following library elements?</source>
         <translation>Copia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="706"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1006"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1046"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1128"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1262"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1350"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1394"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1442"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="707"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1005"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1045"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1127"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1261"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1349"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1393"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1441"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -14429,9 +14429,9 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="682"/>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="691"/>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="700"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2479"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2517"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2584"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2483"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2521"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2588"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -14447,27 +14447,27 @@ Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1626"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1630"/>
         <source>(unconnected)</source>
         <translation>(scollegato)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2058"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2062"/>
         <source>New Line Width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2281"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2285"/>
         <source>Apply to all unspecified pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2303"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2307"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2661"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2665"/>
         <source>Please select a footprint.</source>
         <translation type="unfinished"/>
     </message>
@@ -15385,17 +15385,17 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1180"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1184"/>
         <source>Preparing schematics...</source>
         <translation>Preparazione schemi...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1180"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1184"/>
         <source>Cancel</source>
         <translation>Cancella</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1209"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1213"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -15877,9 +15877,9 @@ Afterwards the project library can be updated.</source>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="434"/>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="443"/>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="452"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1520"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1559"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1617"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1524"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1563"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1621"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -15895,7 +15895,7 @@ Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1501"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1505"/>
         <source>Edit Symbol Properties</source>
         <translation type="unfinished"/>
     </message>
