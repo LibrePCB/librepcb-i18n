@@ -5686,27 +5686,27 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>SlintHelpers</name>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="292"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="402"/>
         <source>Required</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="294"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="404"/>
         <source>Invalid</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="299"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="409"/>
         <source>Duplicate</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="303"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="413"/>
         <source>Recommended</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="335"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="445"/>
         <source>Suffix &apos;%1&apos; missing</source>
         <translation type="unfinished"/>
     </message>
@@ -7878,26 +7878,26 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawTrace</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="475"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="478"/>
         <source>Draw Board Trace</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="483"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="486"/>
         <source>Invalid layer selected.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="491"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="494"/>
         <source>This pad is not connected to any net, therefore no trace can be attached to it. To allow attaching a trace, first connect this pad to a net in the schematics. So this is a problem of the schematics, not of the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="654"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="826"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="847"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="877"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="994"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="657"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="829"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="850"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="880"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="997"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
