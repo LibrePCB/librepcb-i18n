@@ -10015,7 +10015,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
 <context>
     <name>librepcb::editor::CmdPackageReload</name>
     <message>
-        <location filename="libs/librepcb/editor/library/cmd/cmdpackagereload.cpp" line="53"/>
+        <location filename="libs/librepcb/editor/library/cmd/cmdpackagereload.cpp" line="55"/>
         <source>Reload Package</source>
         <translation type="unfinished"/>
     </message>

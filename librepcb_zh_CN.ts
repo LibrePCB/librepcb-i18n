@@ -9997,7 +9997,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdPackageReload</name>
     <message>
-        <location filename="libs/librepcb/editor/library/cmd/cmdpackagereload.cpp" line="53"/>
+        <location filename="libs/librepcb/editor/library/cmd/cmdpackagereload.cpp" line="55"/>
         <source>Reload Package</source>
         <translation type="unfinished"/>
     </message>
