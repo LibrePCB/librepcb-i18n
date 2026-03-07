@@ -7585,72 +7585,72 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1355"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1359"/>
         <source>Auto</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1357"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1395"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1687"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1361"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1399"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1691"/>
         <source>None</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2332"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2336"/>
         <source>Add devices to board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2360"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2412"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2443"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2497"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2364"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2416"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2447"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2501"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2378"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2382"/>
         <source>Preparing board...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2378"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2382"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2431"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2435"/>
         <source>Export IPC D-356A Netlist</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2495"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2499"/>
         <source>Success!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2504"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2508"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2542"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2546"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2551"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2555"/>
         <source>Import failed, no changes made to the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2556"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2560"/>
         <source>Specctra SES Import</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2566"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2570"/>
         <source>Close</source>
         <translation type="unfinished"/>
     </message>
@@ -14452,48 +14452,48 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="682"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="691"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="700"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2484"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2522"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2589"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="684"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="693"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="702"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2486"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2524"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2591"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1004"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1006"/>
         <source>Save Changes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1005"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1007"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1631"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1633"/>
         <source>(unconnected)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2063"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2065"/>
         <source>New Line Width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2286"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2288"/>
         <source>Apply to all unspecified pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2308"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2310"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2666"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2668"/>
         <source>Please select a footprint.</source>
         <translation type="unfinished"/>
     </message>
@@ -16954,82 +16954,87 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="181"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="182"/>
         <source>Empty Schematics</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="187"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="188"/>
         <source>Only components existing in the schematics can be added to a board, but the schematics of this project are currently empty. Please draw the schematics first before starting with the board design.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="197"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="198"/>
         <source>Learn how to create schematics</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="216"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="217"/>
         <source>Set Up Design Rules</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="222"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="223"/>
         <source>Before starting with the board design, it is highly recommended to set up the design rules to be used for this board. Just choose one of the presets below, or manually specify the rules.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="245"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="246"/>
         <source>Default rules, suitable for most PCB manufacturers</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="319"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="320"/>
         <source>Get Started</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="325"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="326"/>
         <source>Start designing the board by placing all devices which are part of the schematics.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="335"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="336"/>
         <source>Select an unplaced component in the list.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="341"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="342"/>
         <source>Choose the desired device (which defines the package to use).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="347"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="348"/>
         <source>Choose the desired footprint variant if there are multiple.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="353"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="354"/>
         <source>Confirm with the button and place the device interactively with the cursor.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="359"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="360"/>
         <source>Place Devices</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="373"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="374"/>
         <source>Learn how to create boards</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="656"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="618"/>
+        <source>Background Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="666"/>
         <source>DRC Messages: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="667"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="677"/>
         <source>Unplaced: %1</source>
         <translation type="unfinished"/>
     </message>
@@ -19276,22 +19281,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="858"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="844"/>
+        <source>Background Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="863"/>
         <source>Devices</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="871"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="876"/>
         <source>Solder Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="884"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="889"/>
         <source>Silkscreen</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="897"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="902"/>
         <source>Solder Resist</source>
         <translation type="unfinished"/>
     </message>
@@ -19373,22 +19383,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1053"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1058"/>
         <source>Metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1054"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1059"/>
         <source>Pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1055"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1060"/>
         <source>Footprints</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1056"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1061"/>
         <source>3D Models</source>
         <translation type="unfinished"/>
     </message>
