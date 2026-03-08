@@ -36,17 +36,17 @@
 <context>
     <name>BGI_Pad</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="179"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="183"/>
         <source>Pad:</source>
         <translation>Plôška vývodu:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="185"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="189"/>
         <source>Signal:</source>
         <translation>Signál:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="191"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="195"/>
         <source>Net:</source>
         <translation>Prepojenie:</translation>
     </message>
@@ -54,32 +54,32 @@
 <context>
     <name>BGI_Via</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="259"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="269"/>
         <source>Through-Hole Via</source>
         <translation>Štandardný prechod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="261"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="271"/>
         <source>Blind Via</source>
         <translation>Slepý prechod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="263"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="273"/>
         <source>Buried Via</source>
         <translation>Pochovaný prechod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="265"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="275"/>
         <source>Net: %1</source>
         <translation>Prepojenie: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="267"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="277"/>
         <source>Start Layer: %1</source>
         <translation>Začiatočná vrstva: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="268"/>
+        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="278"/>
         <source>End Layer: %1</source>
         <translation>Koncová vrstva: %1</translation>
     </message>
@@ -2683,7 +2683,7 @@ Tento výrez sa nachádza na vrstve &quot;%1“, ale nemá meď na vrchnej aj sp
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="776"/>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1821"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1830"/>
         <source>Lock Placement</source>
         <translation>Zamknúť umiestnenie</translation>
     </message>
@@ -2784,1087 +2784,1097 @@ Tento výrez sa nachádza na vrstve &quot;%1“, ale nemá meď na vrchnej aj sp
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="873"/>
+        <source>Flip View</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="874"/>
+        <source>Switch between top view and bottom view</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="882"/>
         <source>Increase Grid Interval</source>
         <translation>Zväčšiť interval rastra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="874"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="883"/>
         <source>Increase the grid interval</source>
         <translation>Zväčšenie intervalu rastra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="887"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="896"/>
         <source>Decrease Grid Interval</source>
         <translation>Zmenšiť interval rastra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="888"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="897"/>
         <source>Decrease the grid interval</source>
         <translation>Zmenšenie intervalu rastra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="901"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="910"/>
         <source>Show Pin Numbers</source>
         <translation>Zobraziť čísla vývodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="902"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="911"/>
         <source>Show or hide symbol pin numbers</source>
         <translation>Zobrazenie alebo skrytie čísla vývodov schematickej značky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="910"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="919"/>
         <source>Ignore Placement Locks</source>
         <translation>Ignorovať uzamknutie umiestnenia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="911"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="920"/>
         <source>Allow dragging locked items</source>
         <translation>Povolenie ťahania zamknutých položiek</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="919"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="928"/>
         <source>Set/Unset Background Image</source>
         <translation>Aktivovať/deaktivovať obrázok na pozadí</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="920"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="929"/>
         <source>Use a datasheet drawing as the background for verification</source>
         <translation>Použite výkresu z technického listu ako pozadie pre kontrolu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="928"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="937"/>
         <source>Toggle 2D/3D Mode</source>
         <translation>Prepnúť 2D/3D režim</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="929"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="938"/>
         <source>Switch between 2D and 3D viewer mode</source>
         <translation>Prepnutie medzi 2D a 3D režimom prehliadania</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="936"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="945"/>
         <source>Tools</source>
         <translation>Nástroje</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="940"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="949"/>
         <source>Select</source>
         <translation>Vybrať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="941"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="950"/>
         <source>Select &amp; modify existing objects</source>
         <translation>Zvolenie a úprava existujúcich objektov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="949"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="958"/>
         <source>Draw Line</source>
         <translation>Kresliť čiaru</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="950"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="959"/>
         <source>Draw graphical lines</source>
         <translation>Kreslenie grafických čiar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="958"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="967"/>
         <source>Draw Rectangle</source>
         <translation>Kresliť štvoruholník</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="959"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="968"/>
         <source>Draw graphical rectangles</source>
         <translation>Kreslenie grafických štvoruholníkov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="967"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="976"/>
         <source>Draw Polygon</source>
         <translation>Kresliť polygón</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="968"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="977"/>
         <source>Draw graphical polygons</source>
         <translation>Kreslenie grafických polygónov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="976"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="985"/>
         <source>Draw Circle</source>
         <translation>Kresliť kružnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="977"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="986"/>
         <source>Draw graphical circles</source>
         <translation>Kreslenie grafických kružníc</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="985"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="994"/>
         <source>Draw Arc</source>
         <translation>Kresliť oblúk</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="986"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="995"/>
         <source>Draw graphical arcs</source>
         <translation>Kreslenie grafických oblúkov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="994"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1003"/>
         <source>Add Text</source>
         <translation>Pridať text</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="995"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1004"/>
         <source>Add graphical text objects</source>
         <translation>Pridanie grafických textových objektov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1003"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1012"/>
         <source>Add Name</source>
         <translation>Pridať názov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1004"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1013"/>
         <source>Add graphical text objects for &apos;{{NAME}}&apos;</source>
         <translation>Pridanie grafických textových objektov pre &apos;{{NAME}}&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1012"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1021"/>
         <source>Add Value</source>
         <translation>Pridať hodnotu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1013"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1022"/>
         <source>Add graphical text objects for &apos;{{VALUE}}&apos;</source>
         <translation>Pridanie grafických textových objektov pre &apos;{{VALUE}}&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1021"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1030"/>
         <source>Add Image</source>
         <translation>Pridať obrázok</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1022"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1031"/>
         <source>Add graphical image objects (e.g. a logo)</source>
         <translation>Pridanie grafického obrázkového objektu (napr. logo)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1030"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1039"/>
         <source>Add Pin</source>
         <translation>Pridať vývod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1031"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1040"/>
         <source>Add symbol pins (electrical connections for schematics)</source>
         <translation>Pridanie vývodu schematickej značke (elektrický prípojný bod pre schému)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1039"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1048"/>
         <source>Add THT Pad</source>
         <translation>Pridať THT plôšku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1040"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1049"/>
         <source>Add plated through-hole copper pads</source>
         <translation>Pridanie plôšky vývodu s pokovovaným otvorom</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1048"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1057"/>
         <source>Add SMT Pad</source>
         <translation>Pridať SMT plôšku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1049"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1058"/>
         <source>Add surface mounted (single layer) copper pads</source>
         <translation>Pridanie vodivej plôšky vývodu technológie povrchovej montáže (v jednej vrstve)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1057"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1066"/>
         <source>Add Thermal Pad</source>
         <translation>Pridať tepelnú plôšku vývodu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1058"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1067"/>
         <source>Add special SMT pads used as heat sink</source>
         <translation>Pridanie špeciálnej SMT plôšku vývodu, ktorá slúži aj pre odvod tepla (Thermal Pad)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1066"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1075"/>
         <source>Add BGA Pad</source>
         <translation>Pridať BGA plôšku vývodu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1067"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1076"/>
         <source>Add special SMT pads used for ball grid arrays</source>
         <translation>Pridanie špeciálnej SMT plôšky vývodu, ktorá slúži ako kontaktná plôška pre BGA puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1075"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1084"/>
         <source>Add Edge Connector Pad</source>
         <translation>Pridať plôšky vývodu hranového konektoru</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1076"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1085"/>
         <source>Add special SMT pads used as edge connector</source>
         <translation>Pridanie špeciálnej SMT plôšky vývodu, ktorá slúži ako kontakt  hranového konektora</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1084"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1093"/>
         <source>Add Test Pad</source>
         <translation>Pridať testovaciu plôšku vývodu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1085"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1094"/>
         <source>Add special SMT pads used as test points</source>
         <translation>Pridanie špeciálnej SMT plôšky vývodu, ktorá slúži ako testovací bod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1093"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1102"/>
         <source>Add Local Fiducial Pad</source>
         <translation>Pridať lokálnu zameriavaciu plôšku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1094"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1103"/>
         <source>Add special SMT pads used as local fiducials</source>
         <translation>Pridanie špeciálnej SMT plôšky vývodu, ktorá slúži ako lokálna zameriavacia značka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1102"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1111"/>
         <source>Add Global Fiducial Pad</source>
         <translation>Pridať globálnu zameriavaciu plôšku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1103"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1112"/>
         <source>Add special SMT pads used as global fiducials</source>
         <translation>Pridanie špeciálnej SMT plôšky vývodu, ktorá slúži ako globálna zameriavacia značka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1111"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1120"/>
         <source>Draw Keepout Zone</source>
         <translation>Kresliť zakázanú oblasť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1112"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1121"/>
         <source>Draw keep-out zones</source>
         <translation>Kreslenie zakázanej oblasti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1120"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1129"/>
         <source>Add Hole</source>
         <translation>Pridať otvor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1121"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1130"/>
         <source>Add non-plated holes (NPTH drills)</source>
         <translation>Pridanie nepokovovaného otvoru (NPTH)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1129"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1138"/>
         <source>Draw Wire</source>
         <translation>Kresliť spoj</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1130"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1139"/>
         <source>Draw wires to create electrical connections between symbol pins</source>
         <translation>Kreslenie elektrických prepojení medzi vývodmi sch. značiek.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1139"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1148"/>
         <source>Draw Bus</source>
         <translation>Kresliť zbernicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1140"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1149"/>
         <source>Draw buses to route several related nets with a single wire</source>
         <translation>Kreslenie zbernice na zlúčenie viacerých súvisiacich prepojení jedným vodičom</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1148"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1157"/>
         <source>Add Label to Net or Bus</source>
         <translation>Pridať označenie k prepojeniu alebo k zbernici</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1149"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1158"/>
         <source>Add labels to explicitly specify the net or bus of wires</source>
         <translation>Pridanie označení na explicitné špecifikovanie prepojania alebo zbernice prepojení</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1157"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1166"/>
         <source>Add Component</source>
         <translation>Pridať komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1158"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1167"/>
         <source>Insert components from the workspace libraries</source>
         <translation>Vloženie komponentov z knižníc pracovného priestoru</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1166"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1175"/>
         <source>Draw Trace</source>
         <translation>Kresliť spoj</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1167"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1176"/>
         <source>Draw copper traces to interconnect devices</source>
         <translation>Kreslenie vodivých spojov pre prepojenie súčiastok</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1175"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1184"/>
         <source>Add Via</source>
         <translation>Pridať prechod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1176"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1185"/>
         <source>Add plated through-hole vias</source>
         <translation>Pridanie pokovovaných prechodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1184"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1193"/>
         <source>Draw Plane</source>
         <translation>Kresliť vyplnenú plochu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1185"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1194"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
         <translation>Kreslenie automaticky vyplnených vodivých oblastí pre prepojenie vývodov a prechodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1193"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1202"/>
         <source>Generate Outline</source>
         <translation>Generovať obrys</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1194"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1203"/>
         <source>Automatically generate the outline polygon</source>
         <translation>Automatické vytvorenie polygónu určujúceho obrys dosky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1202"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1211"/>
         <source>Generate Courtyard</source>
         <translation>Generovať manipulačnú oblasť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1203"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1212"/>
         <source>Automatically generate the courtyard polygon</source>
         <translation>Automatické vytvorenie polygónu manipulačnej oblasti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1211"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1220"/>
         <source>Re-Number Pads</source>
         <translation>Prečíslovať plôšky vývodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1212"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1221"/>
         <source>Helper tool to interactively change pad numbers</source>
         <translation>Pomocný nástroj na interaktívnu zmenu čísel plôšok vývodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1220"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1229"/>
         <source>Measure Distance</source>
         <translation>Merať vzdialenosti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1221"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1230"/>
         <source>Measure the distance between two points</source>
         <translation>Meranie vzdialenosti medzi dvoma bodmi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1229"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1238"/>
         <source>Commands</source>
         <translation>Príkazy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1232"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1241"/>
         <source>Go To Command Toolbar</source>
         <translation>Prechod na panel s príkazmi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1233"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1242"/>
         <source>Move the focus into the command toolbar</source>
         <translation>Presunutie aktivity do panelu s príkazmi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1241"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1250"/>
         <source>Abort Command</source>
         <translation>Ukončiť príkaz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1242"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1251"/>
         <source>Abort the currently active command</source>
         <translation>Ukončenie práve vykonávaného zvoleného príkazu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1250"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1259"/>
         <source>Layer Up</source>
         <translation>Zvýšiť vrstvu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1251"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1260"/>
         <source>Switch to the next higher layer (bottom-&gt;top)</source>
         <translation>Prepnutie na nasledujúcu vyššiu vrstvu (spodná-&gt;vrchná)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1259"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1268"/>
         <source>Layer Down</source>
         <translation>Znížiť vrstvu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1260"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1269"/>
         <source>Switch to the next lower layer (top-&gt;bottom)</source>
         <translation>Prepnutie na nasledujúcu nižšiu vrstvu (vrchná-&gt;spodná)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1268"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1277"/>
         <source>Increase Line Width</source>
         <translation>Zväčšiť šírku čiary</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1269"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1278"/>
         <source>Increase the line/trace/stroke/pad width</source>
         <translation>Zväčšenie šírky čiary/spoja/medzery/plôšky vývodu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1277"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1286"/>
         <source>Decrease Line Width</source>
         <translation>Zmenšiť šírku čiary</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1278"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1287"/>
         <source>Decrease the line/trace/stroke/pad width</source>
         <translation>Zmenšenie šírky čiary/spoja/medzery/plôšky vývodu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1286"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1295"/>
         <source>Increase Size</source>
         <translation>Zväčšiť veľkosť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1287"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1296"/>
         <source>Increase the via/pad/pin/text size</source>
         <translation>Zväčšenie veľkosti prechodu/plôšky vývodu/textu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1295"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1304"/>
         <source>Decrease Size</source>
         <translation>Zmenšiť veľkosť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1296"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1305"/>
         <source>Decrease the via/pad/pin/text size</source>
         <translation>Zmenšenie veľkosti prechodu/plôšky vývodu/textu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1304"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1313"/>
         <source>Increase Drill</source>
         <translation>Zväčšiť priemer otvoru</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1305"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1314"/>
         <source>Increase the via/pad/hole drill diameter</source>
         <translation>Zväčšenie priemeru nástroja pre vytvorenie otvoru prechodu/vývodu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1313"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1322"/>
         <source>Decrease Drill</source>
         <translation>Zmenšiť priemer otvoru</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1314"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1323"/>
         <source>Decrease the via/pad/hole drill diameter</source>
         <translation>Zmenšenie priemeru nástroja pre vytvorenie otvoru prechodu/vývodu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1322"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1331"/>
         <source>Toggle Auto-Width</source>
         <translation>Prepnúť automatickú šírku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1323"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1332"/>
         <source>Toggle the auto-width property state</source>
         <translation>Prepnutie vlastnosti automatickej šírky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1331"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1340"/>
         <source>Toggle Fill</source>
         <translation>Prepnúť výplň</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1332"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1341"/>
         <source>Toggle the fill property state</source>
         <translation>Prepnutie vlastnosti vyplnenia oblasti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1340"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1349"/>
         <source>Toggle Grab Area</source>
         <translation>Prepnúť uchopovaciu oblast</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1341"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1350"/>
         <source>Toggle the grab area property state</source>
         <translation>Prepnutie vlastnosti uchopovacej oblasti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1349"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1358"/>
         <source>Align Left</source>
         <translation>Zarovnať vľavo</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1350"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1359"/>
         <source>Horizontal alignment: Left</source>
         <translation>Horizontálne zarovnanie: Vľavo</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1358"/>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1385"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1367"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1394"/>
         <source>Align Center</source>
         <translation>Zarovnať na stred</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1359"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1368"/>
         <source>Horizontal alignment: Center</source>
         <translation>Horizontálne zarovnanie: Na stred</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1367"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1376"/>
         <source>Align Right</source>
         <translation>Zarovnať vpravo</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1368"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1377"/>
         <source>Horizontal alignment: Right</source>
         <translation>Horizontálne zarovnanie: Vpravo</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1376"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1385"/>
         <source>Align Bottom</source>
         <translation>Zarovnať nadol</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1377"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1386"/>
         <source>Vertical alignment: Bottom</source>
         <translation>Vertikálne zarovnanie: Nadol</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1386"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1395"/>
         <source>Vertical alignment: Center</source>
         <translation>Vertikálne zarovnanie: Na stred</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1394"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1403"/>
         <source>Align Top</source>
         <translation>Zarovnať nahor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1395"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1404"/>
         <source>Vertical alignment: Top</source>
         <translation>Vertikálne zarovnanie: Nahor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1403"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1412"/>
         <source>Horizontal - Vertical</source>
         <translation>Horizontálne - Vertikálne</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1404"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1413"/>
         <source>Wire mode: First segment horizontal, second segment vertical</source>
         <translation>Režim spoja: Prvý segment horizontálne, nasledujúci segment vertikálne</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1413"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1422"/>
         <source>Vertical - Horizontal</source>
         <translation>Vertikálne - Horizontálne</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1414"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1423"/>
         <source>Wire mode: First segment vertical, second segment horizontal</source>
         <translation>Režim spoja: Prvý segment vertikálne, nasledujúci segment horizontálne</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1423"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1432"/>
         <source>90° - 45°</source>
         <translation>90° - 45°</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1424"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1433"/>
         <source>Wire mode: First segment 90°, second segment 45°</source>
         <translation>Režim spoja: Prvý segment 90°, nasledujúci segment 45°</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1432"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1441"/>
         <source>45° - 90°</source>
         <translation>45° - 90°</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1433"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1442"/>
         <source>Wire mode: First segment 45°, second segment 90°</source>
         <translation>Režim spoja: Prvý segment 45°, nasledujúci segment 90°</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1441"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1450"/>
         <source>Straight</source>
         <translation>Priame</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1442"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1451"/>
         <source>Wire mode: Straight line</source>
         <translation>Režim spoja: Priame línie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1450"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1459"/>
         <source>Round</source>
         <translation>Kruhový</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1451"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1460"/>
         <source>Shape: Round</source>
         <translation>Tvar: Kruh</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1459"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1468"/>
         <source>Rounded Rectangle</source>
         <translation>Zaoblený štvoruholník</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1460"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1469"/>
         <source>Shape: Rounded Rectangle</source>
         <translation>Tvar: Zaoblený štvoruholník</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1468"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1477"/>
         <source>Rectangle</source>
         <translation>Štvoruholník</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1469"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1478"/>
         <source>Shape: Rectangle</source>
         <translation>Tvar: Štvoruholník</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1477"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1486"/>
         <source>Octagon</source>
         <translation>Osemuholníkový</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1478"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1487"/>
         <source>Shape: Octagon</source>
         <translation>Tvar: Osemuholník</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1486"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1495"/>
         <source>Components</source>
         <translation>Komponenty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1489"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1498"/>
         <source>Resistor</source>
         <translation>Rezistor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1490"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1499"/>
         <source>Add standard component: Resistor</source>
         <translation>Pridanie štandardného prvku typu: Rezistor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1498"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1507"/>
         <source>Inductor</source>
         <translation>Cievka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1499"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1508"/>
         <source>Add standard component: Inductor</source>
         <translation>Pridanie štandardného prvku typu: Cievka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1507"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1516"/>
         <source>Bipolar Capacitor</source>
         <translation>Bipolárny kondenzátor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1508"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1517"/>
         <source>Add standard component: Bipolar capacitor</source>
         <translation>Pridanie štandardného prvku typu: Bipolárny kondenzátor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1516"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1525"/>
         <source>Unipolar Capacitor</source>
         <translation>Unipolárny kondenzátor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1517"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1526"/>
         <source>Add standard component: Unipolar capacitor</source>
         <translation>Pridanie štandardného prvku typu: Unipolárny kondenzátor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1525"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1534"/>
         <source>GND Supply</source>
         <translation>Napájací objekt GND</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1526"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1535"/>
         <source>Add standard component: GND supply</source>
         <translation>Pridanie štandardného prvku typu: Napájací objekt GND</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1534"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1543"/>
         <source>VCC Supply</source>
         <translation>Napájací objekt VCC</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1535"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1544"/>
         <source>Add standard component: VCC supply</source>
         <translation>Pridanie štandardného prvku typu: Napájací objekt VCC</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1542"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1551"/>
         <source>Docks</source>
         <translation>Dokovateľné dialógy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1555"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1564"/>
         <source>Electrical Rule Check (ERC)</source>
         <translation>Kontrola elektrických pravidiel (ERC)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1556"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1565"/>
         <source>Go to the ERC messages dock</source>
         <translation>Prechod na dokovateľný dialóg ERC správ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1564"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1573"/>
         <source>Design Rule Check (DRC)</source>
         <translation>Kontrola návrhových pravidiel (DRC)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1565"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1574"/>
         <source>Go to the DRC messages dock</source>
         <translation>Prechod na dokovateľný dialóg DRC správ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1573"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1582"/>
         <source>Layers</source>
         <translation>Vrstvy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1574"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1583"/>
         <source>Go to the layers dock</source>
         <translation>Prechod na dokovateľný dialóg vrstiev</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1582"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1591"/>
         <source>Place Devices</source>
         <translation>Umiestniť súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1583"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1592"/>
         <source>Go to the dock for placing devices</source>
         <translation>Prechod na dokovateľný dialóg pre umiestňovanie súčiastok</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1591"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1600"/>
         <source>Window Management</source>
         <translation>Správca okien</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1595"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1604"/>
         <source>Next Tab/Page</source>
         <translation>Nasledujúca karta/stránka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1596"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1605"/>
         <source>Navigate to the next tab or page</source>
         <translation>Prechod na nasledujúcu kartu alebo stránku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1604"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1613"/>
         <source>Previous Tab/Page</source>
         <translation>Predchádzajúca karta/stránka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1605"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1614"/>
         <source>Navigate to the previous tab or page</source>
         <translation>Prechod na predchádzajúcu kartu alebo stránku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1613"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1622"/>
         <source>Close Tab</source>
         <translation>Zavrieť kartu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1614"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1623"/>
         <source>Close the currently opened tab</source>
         <translation>Uzavretie aktuálne otvorenej karty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1622"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1631"/>
         <source>Close All Tabs</source>
         <translation>Zavrieť všetky karty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1623"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1632"/>
         <source>Close all currently opened tabs</source>
         <translation>Uzavretie všetkých otvorených kariet</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1631"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1640"/>
         <source>New Window</source>
         <translation>Nové okno</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1632"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1641"/>
         <source>Open a new window</source>
         <translation>Otvorenie v novom okne</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1640"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1649"/>
         <source>Close Window</source>
         <translation>Zavrieť okno</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1641"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1650"/>
         <source>Close this window</source>
         <translation>Uzavretie tohto okna</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1649"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1658"/>
         <source>Close Project</source>
         <translation>Zatvoriť projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1650"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1659"/>
         <source>Close the currently opened project</source>
         <translation>Uzavretie aktuálne otvoreného projektu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1659"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1668"/>
         <source>Close All Projects</source>
         <translation>Zavrieť všetky projekty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1660"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1669"/>
         <source>Close all currently opened projects</source>
         <translation>Uzavretie všetkých aktuálne otvorených projektov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1668"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1677"/>
         <source>Quit</source>
         <translation>Ukončiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1669"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1678"/>
         <source>Close the whole application</source>
         <translation>Ukončenie celej aplikácie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1676"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1685"/>
         <source>Help</source>
         <translation>Pomoc</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1680"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1689"/>
         <source>About LibrePCB</source>
         <translation>O LibrePCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1681"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1690"/>
         <source>Show information about the application</source>
         <translation>Zobrazenie informácií o aplikácii</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1689"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1698"/>
         <source>About Qt</source>
         <translation>O Qt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1690"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1699"/>
         <source>Show information about Qt</source>
         <translation>Zobrazenie informácií o Qt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1698"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1707"/>
         <source>LibrePCB Website</source>
         <translation>Prejsť na stránku LibrePCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1699"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1708"/>
         <source>Open the LibrePCB website in the web browser</source>
         <translation>Otvorenie webstránky LibrePCB v internetovom prehliadači</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1707"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1716"/>
         <source>User Manual &amp;&amp; Tutorials</source>
         <translation>Používateľská príručka a návody</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1708"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1717"/>
         <source>Open the online user manual in the web browser</source>
         <translation>Otvorenie online používateľskej príručku v internetovom prehliadači</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1716"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1725"/>
         <source>Give Feedback &amp;&amp; Get Support</source>
         <translation>Poskytnúť spätnú väzbu a získať podporu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1717"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1726"/>
         <source>Open the support page in the web browser</source>
         <translation>Otvorenie stránky podpory v internetovom prehliadači</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1725"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1734"/>
         <source>Support the LibrePCB Project</source>
         <translation>Podporiť projekt LibrePCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1726"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1735"/>
         <source>Open the donation page in the web browser</source>
         <translation>Otvorenie stránky v internetovom prehliadači, s možnosťou poskytnúť finančný dar slebo inak prispieť LibrePCB </translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1734"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1743"/>
         <source>Keyboard Shortcuts Reference</source>
         <translation>Zoznam klávesových skratiek</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1735"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1744"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
         <translation>Otvorenie prehľadu nastavených klávesových skratiek</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1743"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1752"/>
         <source>Context Menu</source>
         <translation>Kontextová ponuka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1747"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1756"/>
         <source>New Folder</source>
         <translation>Nový adresár</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1748"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1757"/>
         <source>Create a new folder</source>
         <translation>Vytvorenie nového adresára</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1757"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1766"/>
         <source>Add To Favorites</source>
         <translation>Pridať k obľúbeným</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1758"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1767"/>
         <source>Add project to favorites</source>
         <translation>Pridanie projektu do zoznamu obľúbených</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1767"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1776"/>
         <source>Remove From Favorites</source>
         <translation>Odstrániť z obľúbených</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1768"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1777"/>
         <source>Remove project from favorites</source>
         <translation>Odstránenie projekt zo zoznamu obľúbených</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1776"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1785"/>
         <source>Add Vertex</source>
         <translation>Pridať vrchol</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1777"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1786"/>
         <source>Insert a new vertex into the selected polygon edge</source>
         <translation>Vloženie nového vrcholu na hranu zvoleného polygónu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1785"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1794"/>
         <source>Remove Vertex</source>
         <translation>Odstrániť vrchol</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1786"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1795"/>
         <source>Remove the selected vertex from the polygon</source>
         <translation>Odstránenie zvoleného vrcholu z polygónu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1794"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1803"/>
         <source>Select Whole Trace</source>
         <translation>Vybrať celý spoj</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1795"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1804"/>
         <source>Select the whole trace</source>
         <translation>Zvolenie celého spoja</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1803"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1812"/>
         <source>Measure Selected Segments Length</source>
         <translation>Zmerať zvolené segmenty spoja</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1804"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1813"/>
         <source>Measure the total length of all selected trace segments</source>
         <translation>Zmeranie celkovej dĺžky všetkých zvolených segmentov spoja</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1812"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1821"/>
         <source>Remove Whole Trace</source>
         <translation>Odstrániť celý spoj</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1813"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1822"/>
         <source>Remove the whole trace</source>
         <translation>Odstránenie celého spoja</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1822"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1831"/>
         <source>Toggle placement lock</source>
         <translation>Prepnúť uzamknutie umiestnenia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1830"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1839"/>
         <source>Visible</source>
         <translation>Viditeľnosť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1831"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1840"/>
         <source>Toggle visibility</source>
         <translation>Prepnutie viditeľnosti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1839"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1848"/>
         <source>Copy MPN to Clipboard</source>
         <translation>Kopírovať MPN do schránky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1840"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1849"/>
         <source>Copy this MPN into the clipboard</source>
         <translation>Kopírovanie tohto MPN do schránky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1848"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1857"/>
         <source>Open Product Website</source>
         <translation>Otvoriť webstránku produktu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1849"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1858"/>
         <source>Open product details about this part in the web browser</source>
         <translation>Otvorenie stránky s produktovými podrobnosťami tohto dielu vo webovom prehliadači</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1857"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1866"/>
         <source>Open Pricing Website</source>
         <translation>Otvoriť webstránku s cenami</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1858"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1867"/>
         <source>Open pricing details about this part in the web browser</source>
         <translation>Otvorenie stránky s cenovými podrobnosťami tohto dielu vo webovom prehliadači</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1867"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1876"/>
         <source>Generate Content</source>
         <translation>Vytvoriť obsah</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1868"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1877"/>
         <source>Various helper tools to generate or modify objects</source>
         <translation>Rôzne pomocné nástroje na generovanie alebo úpravu objektov</translation>
     </message>
@@ -7640,72 +7650,72 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1359"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1370"/>
         <source>Auto</source>
         <translation>Automaticky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1361"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1399"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1691"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1372"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1410"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1702"/>
         <source>None</source>
         <translation>Žiadne</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2336"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2347"/>
         <source>Add devices to board</source>
         <translation>Pridať súčiastky na dosku.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2364"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2416"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2447"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2501"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2375"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2427"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2458"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2512"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2382"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2393"/>
         <source>Preparing board...</source>
         <translation>Pripravovanie dát dosky...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2382"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2393"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2435"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2446"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>Export IPC D-356A Netlist</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2499"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2510"/>
         <source>Success!</source>
         <translation>Úspešné!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2508"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2519"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation>Toto je nová funkcia a mohli sme ju otestovať iba s veľmi málo externými autorotrami. Ak narazíte na akýkoľvek problém s kompatibilitou s Vašim autoroutrom, dajte nám vedieť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2546"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2557"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation>Analýza relácie Specctra &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2555"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2566"/>
         <source>Import failed, no changes made to the board.</source>
         <translation>Import zlyhal, na doske neboli vykonané žiadne zmeny.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2560"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2571"/>
         <source>Specctra SES Import</source>
         <translation>Specctra SES Import</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2570"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2581"/>
         <source>Close</source>
         <translation>Zavrieť</translation>
     </message>
@@ -17154,17 +17164,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>Naučte sa, ako vytvárať dosky.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="618"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="633"/>
         <source>Background Image</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="666"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="681"/>
         <source>DRC Messages: %1</source>
         <translation>Oznámenia kontroly návrhových pravidiel: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="677"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="692"/>
         <source>Unplaced: %1</source>
         <translation>Neumiestnené: %1</translation>
     </message>
@@ -18803,151 +18813,156 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <name>ui::MainMenuBar</name>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1006"/>
+        <source>New Organization</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1018"/>
         <source>Category</source>
         <translation>Kategória</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1024"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1036"/>
         <source>Save Category</source>
         <translation>Uložiť kategóriu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1034"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1046"/>
         <source>Close Category</source>
         <translation>Zatvoriť kategóriu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1035"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1047"/>
         <source>Close the currently opened category</source>
         <translation>Uzavretie práve otvorenej kategórie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1060"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1072"/>
         <source>Symbol</source>
         <translation>Sch. značka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1078"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1090"/>
         <source>Save Symbol</source>
         <translation>Uložiť schematickú značku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1088"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1100"/>
         <source>Close Symbol</source>
         <translation>Zavrieť schematickú značku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1089"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1101"/>
         <source>Close the currently opened symbol</source>
         <translation>Zavrieť aktuálne otvorenú sc. značku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1099"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1111"/>
         <source>Reload Symbol From Disk</source>
         <translation>Znova načítať schematický symbol z disku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1100"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1112"/>
         <source>Discard all modifications and reload the currently opened symbol from disk</source>
         <translation>Zahodenie úprav a znova načítanie otvorenej schematickej značky z disku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1121"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1133"/>
         <source>Package</source>
         <translation>Puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1139"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1151"/>
         <source>Save Package</source>
         <translation>Uložiť puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1149"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1161"/>
         <source>Close Package</source>
         <translation>Zavrieť puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1150"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1162"/>
         <source>Close the currently opened package</source>
         <translation>Zavrieť aktuálne otvorené puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1160"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1172"/>
         <source>Reload Package From Disk</source>
         <translation>Znova načítať puzdro z disku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1161"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1173"/>
         <source>Discard all modifications and reload the currently opened package from disk</source>
         <translation>Zahodenie úprav a znova načítanie otvoreného puzdra z disku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1182"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1194"/>
         <source>Component</source>
         <translation>Komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1200"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1212"/>
         <source>Save Component</source>
         <translation>Uložiť komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1210"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1222"/>
         <source>Close Component</source>
         <translation>Zavrieť komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1211"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1223"/>
         <source>Close the currently opened component</source>
         <translation>Zavrieť aktuálne otvorený komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1232"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1244"/>
         <source>Device</source>
         <translation>Súčiastka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1250"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1262"/>
         <source>Save Device</source>
         <translation>Uložiť súčiastku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1260"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1272"/>
         <source>Close Device</source>
         <translation>Zavrieť súčiastku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1261"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1273"/>
         <source>Close the currently opened device</source>
         <translation>Uzavretie práve otvorenej súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1282"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1294"/>
         <source>Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1300"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1312"/>
         <source>Save Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1310"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1322"/>
         <source>Close Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1311"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1323"/>
         <source>Close the currently opened organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1332"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1344"/>
         <source>Project</source>
         <translation>Projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1370"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1382"/>
         <source>Save Project</source>
         <translation>Uložiť projekt</translation>
     </message>
@@ -18957,17 +18972,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>Súbor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1541"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1553"/>
         <source>Help</source>
         <translation>Pomoc</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1663"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1675"/>
         <source>read-only</source>
         <translation> iba na čítanie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1878"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1890"/>
         <source>Quick Find</source>
         <translation>Rýchle hľadanie</translation>
     </message>
@@ -19057,14 +19072,9 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>Späť: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="864"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="876"/>
         <source>Library</source>
         <translation>Knižnica</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="882"/>
-        <source>Save Library</source>
-        <translation>Uložiť knižnicu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="89"/>
@@ -19072,12 +19082,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>Opakovať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="892"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="894"/>
+        <source>Save Library</source>
+        <translation>Uložiť knižnicu</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="904"/>
         <source>Close Library</source>
         <translation>Zavrieť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="893"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="905"/>
         <source>Close the currently opened library</source>
         <translation>Uzavretie práve otvorenej knižnice</translation>
     </message>
@@ -19087,39 +19102,34 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>Opakovať: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="934"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="946"/>
         <source>New Component Category</source>
         <translation>Nová kategória komponentu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="944"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="956"/>
         <source>New Package Category</source>
         <translation>Nová kategória puzdra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="954"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="966"/>
         <source>New Symbol</source>
         <translation>Nová schematická značka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="964"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="976"/>
         <source>New Package</source>
         <translation>Nové puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="974"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="986"/>
         <source>New Component</source>
         <translation>Nový komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="984"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="996"/>
         <source>New Device</source>
         <translation>Nová súčiastka</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="994"/>
-        <source>New Organization</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
