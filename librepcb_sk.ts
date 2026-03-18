@@ -15576,7 +15576,7 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1266"/>
         <source>Bus</source>
-        <translation type="unfinished"/>
+        <translation>Zbernica</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1267"/>
@@ -15586,7 +15586,7 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1268"/>
         <source>Pad(s)</source>
-        <translation type="unfinished"/>
+        <translation>Plôška(y) vývodu</translation>
     </message>
 </context>
 <context>
