@@ -8238,27 +8238,32 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="374"/>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="353"/>
         <source>Hole %1 of %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="378"/>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="357"/>
         <source>Pad has no holes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="421"/>
-        <source>Invalid outline</source>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="406"/>
+        <source>The drill diameter is exceeding the pad width or height. Reduce the drill diameter or increase the pad width and/or height.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="422"/>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="417"/>
         <source>The custom pad outline does not represent a valid area.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="476"/>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="424"/>
+        <source>Invalid Properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="478"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
@@ -8880,7 +8885,17 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="230"/>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="194"/>
+        <source>The drill diameter is exceeding the outer via size. Reduce the drill diameter or increase the via size.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="202"/>
+        <source>Invalid Properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="235"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
@@ -11615,32 +11630,37 @@ Warning: This cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="196"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="175"/>
         <source>(not connected)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="425"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="404"/>
         <source>Hole %1 of %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="429"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="408"/>
         <source>Pad has no holes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="473"/>
-        <source>Invalid outline</source>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="457"/>
+        <source>The drill diameter is exceeding the pad width or height. Reduce the drill diameter or increase the pad width and/or height.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="474"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="468"/>
         <source>The custom pad outline does not represent a valid area.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="529"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="475"/>
+        <source>Invalid Properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="530"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
