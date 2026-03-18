@@ -2785,12 +2785,12 @@ Tento výrez sa nachádza na vrstve &quot;%1“, ale nemá meď na vrchnej aj sp
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="873"/>
         <source>Flip View</source>
-        <translation type="unfinished"/>
+        <translation>Prevrátiť pohľad</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="874"/>
         <source>Switch between top view and bottom view</source>
-        <translation type="unfinished"/>
+        <translation>Prepnúť medzi vrchným a spodným pohľadom</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="882"/>
@@ -6463,7 +6463,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1801"/>
         <source>Check for invalid planes...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola neplatných vyplnených plôch...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1816"/>
@@ -8066,12 +8066,12 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2160"/>
         <source>Class</source>
-        <translation type="unfinished"/>
+        <translation>Trieda</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2161"/>
         <source>Layer</source>
-        <translation type="unfinished"/>
+        <translation>Vrstva</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2162"/>
@@ -8317,7 +8317,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="424"/>
         <source>Invalid Properties</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné vlastnosti</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="478"/>
@@ -8949,7 +8949,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="202"/>
         <source>Invalid Properties</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné vlastnosti</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="235"/>
@@ -10068,7 +10068,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdpackagereload.cpp" line="55"/>
         <source>Reload Package</source>
-        <translation type="unfinished"/>
+        <translation>Znova načítať puzdro</translation>
     </message>
 </context>
 <context>
@@ -11742,7 +11742,7 @@ Upozornenie: Akciu nemožno vrátiť späť!</translation>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="475"/>
         <source>Invalid Properties</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné vlastnosti</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="530"/>
@@ -15571,7 +15571,7 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1265"/>
         <source>Class</source>
-        <translation type="unfinished"/>
+        <translation>Trieda</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1266"/>
@@ -17186,7 +17186,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="633"/>
         <source>Background Image</source>
-        <translation type="unfinished"/>
+        <translation>Obrázok pozadia</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="681"/>
@@ -19443,7 +19443,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="844"/>
         <source>Background Image</source>
-        <translation type="unfinished"/>
+        <translation>Obrázok pozadia</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="863"/>
