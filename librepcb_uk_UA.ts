@@ -16200,171 +16200,161 @@ Do you want to save them before closing it?</source>
         <translation>наприклад, &quot;Тарас Шевченко&quot;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="107"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="113"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
         <translation>Це ім&apos;я буде використовуватись як автор при створенні нових проектів або бібліотек.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="119"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="125"/>
         <source>Autosave Interval:</source>
         <translation>Інтервал автозбереження:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="138"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="144"/>
         <source>Seconds (0 = disable autosave)</source>
         <translation>Секунди (0 = вимкнути автозбереження)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="147"/>
-        <source>Desktop Integration:</source>
-        <translation>Інтеграція з Робочим Столом</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="161"/>
-        <source>Install...</source>
-        <translation>Встановити...</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="168"/>
-        <source>Uninstall...</source>
-        <translation>Деінсталювати...</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="193"/>
-        <source>Adds LibrePCB to the start menu and registers the *.lpp file extension.</source>
-        <translation>Додайте LibrePCB до меню запуску та зареєструйте розширення файлу *.lpp.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="206"/>
-        <source>Appearance</source>
-        <translation>Вигляд</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="215"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="153"/>
         <source>Rendering Method:</source>
         <translation>Метод Рендерінгу:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="230"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="160"/>
         <source>Use OpenGL Hardware Acceleration</source>
         <translation>Використовувати Апаратне Прискорення OpenGL</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="243"/>
-        <source>This setting will be applied only to newly opened windows.</source>
-        <translation>Цей параметр застосовуватиметься лише до ново відкритих вікон.</translation>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="167"/>
+        <source>Desktop Integration:</source>
+        <translation>Інтеграція з Робочим Столом</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="255"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="181"/>
+        <source>Install...</source>
+        <translation>Встановити...</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="188"/>
+        <source>Uninstall...</source>
+        <translation>Деінсталювати...</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="213"/>
+        <source>Adds LibrePCB to the start menu and registers the *.lpp file extension.</source>
+        <translation>Додайте LibrePCB до меню запуску та зареєструйте розширення файлу *.lpp.</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="225"/>
         <source>Dismissed Messages:</source>
         <translation>Відхилені Повідомлення:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="276"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="246"/>
         <source>Library</source>
         <translation>Бібліотека</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="285"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="255"/>
         <source>Preferred Languages:
 (Highest priority at top)</source>
         <translation>Бажані мови:
 (Найвищий пріоритет у верхній частині)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="293"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="263"/>
         <source>Preferred Norms:
 (Highest priority at top)</source>
         <translation>Бажані норми:
 (Найвищий пріоритет у верхній частині)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="328"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="298"/>
         <source>External Applications</source>
         <translation>Зовнішні Застосунки</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="381"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="351"/>
         <source>Custom command(s):</source>
         <translation>Кастомна команда(и):</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="413"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="383"/>
         <source>You can add multiple commands to make the same settings working on multiple computers. LibrePCB will iterate through the list of commands until one of them succeeds. If none succeeds, the system&apos;s default application will be used.</source>
         <translation>Ви можете додати кілька команд, щоб зробити одні й ті ж налаштування для кількох комп&apos;ютерів. LibrePCB буде ітеруватися через список команд, поки одна з них не буде успішною. Якщо ж жодна не буде успішною, буде використано системний застосунок за замовчуванням.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="429"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="399"/>
         <source>Keyboard Shortcuts</source>
         <translation>Клавіатурні Скорочення</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="494"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="464"/>
         <source>Type to filter...</source>
         <translation>Наберіть для фільтрування...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="505"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="475"/>
         <source>Themes</source>
         <translation>Теми</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="522"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="492"/>
         <source>Current Theme:</source>
         <translation>Поточна Тема:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="555"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="525"/>
         <source>Remove theme</source>
         <translation>Видалити тему</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="569"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="539"/>
         <source>Rename theme</source>
         <translation>Перейменувати тему</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="583"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="553"/>
         <source>Reset theme to default values</source>
         <translation>Скинути тему до значень за замовчуванням</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="597"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="567"/>
         <source>Duplicate theme</source>
         <translation>Дублювати тему</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="611"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="581"/>
         <source>Create new theme</source>
         <translation>Створити нову тему</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="674"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="644"/>
         <source>Category</source>
         <translation>Категорія</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="679"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="649"/>
         <source>Objects</source>
         <translation>Об&apos;єкти</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="692"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="662"/>
         <source>Schematic Grid:</source>
         <translation>Сітка Схеми:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="702"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="672"/>
         <source>Board Grid:</source>
         <translation>Сітка Плати:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="717"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="687"/>
         <source>Internet Access</source>
         <translation>Доступ До Інтернету</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="723"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="693"/>
         <source>&lt;html&gt;&lt;body&gt;
 &lt;p&gt;API endpoints are used to access online services, for example to download libraries from the Internet.&lt;/p&gt;
 &lt;p&gt;You can add any server to this list which implements the LibrePCB API. The official LibrePCB server is &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.
@@ -16377,12 +16367,12 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="747"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="717"/>
         <source>&lt;p&gt;Allow the editors to automatically display live information about parts (lifecycle status, stock availability, price, ...) by requesting it from the configured API endpoints.&lt;/p&gt;&lt;p&gt;This may generate many API requests, especially while adding components to schematics.&lt;/p&gt;&lt;p&gt;If this feature is disabled, no such API requests are made (and no live information is displayed) without explicit user interaction.&lt;/p&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="750"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="720"/>
         <source>Auto-Fetch Live Part Information</source>
         <translation type="unfinished"/>
     </message>
@@ -16392,7 +16382,7 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <translation>Мова системи</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="103"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="120"/>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="779"/>
         <source>Error</source>
         <translation>Помилка</translation>
