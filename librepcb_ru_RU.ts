@@ -14606,45 +14606,45 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="684"/>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="693"/>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="702"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2486"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2524"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2591"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2495"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2533"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2600"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1006"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1015"/>
         <source>Save Changes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1007"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1016"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1633"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1642"/>
         <source>(unconnected)</source>
         <translation>(не подключен)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2065"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2074"/>
         <source>New Line Width</source>
         <translation>Новая толщина линии</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2288"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2297"/>
         <source>Apply to all unspecified pads</source>
         <translation>Применить для всех неопределенных контактных площадок</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2310"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2319"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>Исправить  функции неопределенных контактных площадок</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2668"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2677"/>
         <source>Please select a footprint.</source>
         <translation>Пожалуйста, выберите посадочное место.</translation>
     </message>

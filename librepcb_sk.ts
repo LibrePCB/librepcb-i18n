@@ -14621,46 +14621,46 @@ Chcete ich uložiť pred zatvorením?</translation>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="684"/>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="693"/>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="702"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2486"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2524"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2591"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2495"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2533"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2600"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1006"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1015"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1007"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1016"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Puzdro &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1633"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1642"/>
         <source>(unconnected)</source>
         <translation>(nepripojený)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2065"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2074"/>
         <source>New Line Width</source>
         <translation>Nová šírka čiary</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2288"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2297"/>
         <source>Apply to all unspecified pads</source>
         <translation>Použiť na všetky nešpecifikované plôšky vývodov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2310"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2319"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>Opraviť nešpecifikované funkcie plôšok vývodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2668"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2677"/>
         <source>Please select a footprint.</source>
         <translation>Prosím, zvoľte puzdro.</translation>
     </message>
