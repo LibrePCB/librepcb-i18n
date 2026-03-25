@@ -7846,7 +7846,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Nahrávanie projektu...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="686"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="688"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>

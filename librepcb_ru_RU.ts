@@ -7836,7 +7836,7 @@ You need at least LibrePCB %1 to open it.
         <translation>Выгружается проект...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="686"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="688"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>

@@ -7820,7 +7820,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
         <translation>Nahrávám projekt...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="686"/>
+        <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="688"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
