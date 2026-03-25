@@ -17139,87 +17139,87 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="182"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="196"/>
         <source>Empty Schematics</source>
         <translation>Prázdna schéma</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="188"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="202"/>
         <source>Only components existing in the schematics can be added to a board, but the schematics of this project are currently empty. Please draw the schematics first before starting with the board design.</source>
         <translation>Na dosku je možné pridať iba komponenty vyskytujúce sa v schémach, ale schémy tohto projektu sú momentálne prázdne. Pred začatím návrhu dosky si najskôr nakreslite schémy.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="198"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="212"/>
         <source>Learn how to create schematics</source>
         <translation>Naučte sa, ako vytvárať schémy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="217"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="231"/>
         <source>Set Up Design Rules</source>
         <translation>Nastavenie návrhových pravidiel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="223"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="237"/>
         <source>Before starting with the board design, it is highly recommended to set up the design rules to be used for this board. Just choose one of the presets below, or manually specify the rules.</source>
         <translation>Pred začatím návrhu dosky sa dôrazne odporúča nastaviť pravidlá návrhu, ktoré sa majú pre túto dosku použiť. Stačí si vybrať jednu z predvolieb nižšie alebo pravidlá zadať manuálne.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="246"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="260"/>
         <source>Default rules, suitable for most PCB manufacturers</source>
         <translation>Predvolené pravidlá, vhodné pre väčšinu výrobcov plošných spojov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="320"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="334"/>
         <source>Get Started</source>
         <translation>Začať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="326"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="340"/>
         <source>Start designing the board by placing all devices which are part of the schematics.</source>
         <translation>Začnite navrhovať dosku umiestnením všetkých súčiastok, ktoré sú v schéme.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="336"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="350"/>
         <source>Select an unplaced component in the list.</source>
         <translation>Zvoľte si neumiestnený komponent v zozname.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="342"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="356"/>
         <source>Choose the desired device (which defines the package to use).</source>
         <translation>Zvoľte požadovanú súčiastku (ktoré definuje puzdro, ktoré sa má použiť).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="348"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="362"/>
         <source>Choose the desired footprint variant if there are multiple.</source>
         <translation>Zvoľte požadovaný variant puzdra ak ich je viac.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="354"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="368"/>
         <source>Confirm with the button and place the device interactively with the cursor.</source>
         <translation>Potvrďte tlačidlom a interaktívne kurzorom umiestnite súčiastku.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="360"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="374"/>
         <source>Place Devices</source>
         <translation>Umiestniť súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="374"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="388"/>
         <source>Learn how to create boards</source>
         <translation>Naučte sa, ako vytvárať dosky.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="633"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="647"/>
         <source>Background Image</source>
         <translation>Obrázok pozadia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="681"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="695"/>
         <source>DRC Messages: %1</source>
         <translation>Oznámenia kontroly návrhových pravidiel: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="692"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="706"/>
         <source>Unplaced: %1</source>
         <translation>Neumiestnené: %1</translation>
     </message>
@@ -19568,22 +19568,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1058"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1072"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1059"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1073"/>
         <source>Pads</source>
         <translation>Plôšky vývodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1060"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1074"/>
         <source>Footprints</source>
         <translation>Puzdrá</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1061"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1075"/>
         <source>3D Models</source>
         <translation>3D modely</translation>
     </message>
@@ -19949,47 +19949,47 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="143"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="157"/>
         <source>No Libraries Installed</source>
         <translation>Nie sú nainštalované žiadne knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="149"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="163"/>
         <source>In order to add components to this schematic, you first need to install some part libraries or create parts by yourself in your own library.</source>
         <translation>Ak chcete do tejto schémy pridať komponenty, musíte najprv nainštalovať niektoré knižnice súčiastok alebo si súčiastky vytvoriť sami vo vlastnej knižnici.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="154"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="168"/>
         <source>Install Libraries</source>
         <translation>Inštalovať knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="168"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="182"/>
         <source>Learn how to create parts by yourself</source>
         <translation>Naučte sa, ako si vytvárať súčiastky.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="187"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="201"/>
         <source>Get Started</source>
         <translation>Začať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="193"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="207"/>
         <source>It&apos;s recommended to start a new schematic with adding a drawing frame to it. Then add other components the usual way with the toolbar at the left.</source>
         <translation>Odporúča sa začať novú schému pridaním orámovania výkresu. Potom pridajte ďalšie komponenty zvyčajným spôsobom pomocou panela nástrojov vľavo.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="198"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="212"/>
         <source>Add Drawing Frame</source>
         <translation>Pridať orámovanie výkresu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="212"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="226"/>
         <source>Learn how to create schematics</source>
         <translation>Naučte sa, ako vytvárať schémy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="458"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="472"/>
         <source>Pin Numbers</source>
         <translation>Čísla vývodov</translation>
     </message>
@@ -20099,12 +20099,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="681"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="695"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="682"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="696"/>
         <source>Graphics</source>
         <translation>Grafické objekty</translation>
     </message>
