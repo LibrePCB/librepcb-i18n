@@ -4813,6 +4813,19 @@ Zdá sa, že toto pravidlo sa pri tomto puzdre nedodržiava. V prípade nepravid
     </message>
 </context>
 <context>
+    <name>MsgInvalidParent</name>
+    <message>
+        <location filename="libs/librepcb/core/library/cat/librarycategorycheckmessages.cpp" line="35"/>
+        <source>Invalid parent category</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/library/cat/librarycategorycheckmessages.cpp" line="36"/>
+        <source>The category has assigned itself as its parent category, which leads to an endless recursion and is thus invalid. Assign a different parent category.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>MsgMinimumWidthViolation</name>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="224"/>
