@@ -13345,8 +13345,8 @@ Chcete ich uložiť pred zatvorením?</translation>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="345"/>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="354"/>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="518"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1047"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1098"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1059"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1110"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -13366,37 +13366,42 @@ Chcete ich uložiť pred zatvorením?</translation>
         <translation>Nedá sa otvoriť súbor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="667"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="675"/>
         <source>Unknown</source>
         <translation>Neznámy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="988"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="690"/>
+        <source>Invalid Parent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1000"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation>Naozaj chcete presunúť nasledujúce elementy do knižnice &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="993"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1005"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
         <translation>Naozaj chcete skopírovať nasledujúce elementy do knižnice &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1006"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1018"/>
         <source>Note: This operation cannot be easily undone, except by opening the destination library and moving the library elements back the same way.</source>
         <translation>Poznámka: Túto operáciu nemožno ľahko vrátiť späť, s výnimkou otvorenia cieľovej knižnice a presunutia prvkov knižnice späť rovnakým spôsobom.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1012"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1024"/>
         <source>Important: This operation copies the selected library elements while retaining their UUIDs, so they must not be modified to represent a different part afterwards. The main purpose of this operation is to override library elements from a read-only library with minor adjustments, which is only possible in local, writable libraries.</source>
         <translation>Dôležité: Táto operácia skopíruje zvolené prvky knižnice a zároveň zachová ich UUID, takže nesmú byť následne upravené tak, aby predstavovali inú súčiastku. Hlavným účelom tejto operácie je prepísať prvky knižnice z knižnice iba na čítanie s malými úpravami, čo je možné iba v lokálnych knižniciach s možnosťou zapisovania.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1022"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1034"/>
         <source>Move %1 Elements</source>
         <translation>Presunutie %1 elementov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1072"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1084"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -13404,12 +13409,12 @@ Are you still sure to delete the following library elements?</source>
 Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1085"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1097"/>
         <source>This cannot be undone!</source>
         <translation>Túto zmenu nemožno vrátiť späť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1089"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1101"/>
         <source>Remove %1 Elements</source>
         <translation>Odstrániť %1 elementov</translation>
     </message>
@@ -18798,7 +18803,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="200"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="203"/>
         <source>Deprecated</source>
         <translation type="unfinished"/>
     </message>
