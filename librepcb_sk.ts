@@ -4532,12 +4532,12 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
 <context>
     <name>Length</name>
     <message>
-        <location filename="libs/librepcb/core/types/length.h" line="700"/>
+        <location filename="libs/librepcb/core/types/length.h" line="459"/>
         <source>Value must be &gt;= 0!</source>
         <translation>Hodnota musí byť &gt;= 0!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/length.h" line="816"/>
+        <location filename="libs/librepcb/core/types/length.h" line="575"/>
         <source>Value must be &gt; 0!</source>
         <translation>Hodnota musí byť &gt; 0!</translation>
     </message>
@@ -18580,42 +18580,42 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibrariesPanel</name>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="536"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="537"/>
         <source>Local Libraries</source>
         <translation>Lokálne knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="551"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="552"/>
         <source>Remote Libraries</source>
         <translation>Vzdialené knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="596"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="597"/>
         <source>Pending Operations</source>
         <translation>Čakajúce operácie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="645"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="646"/>
         <source>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</source>
         <translation>Niektoré knižnice, označené na odinštalovanie, momentálne nie sú k dispozícii na inštaláciu, preto ich odstránenie nebude možné zvrátiť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="645"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="646"/>
         <source>Warning</source>
         <translation>Upozornenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="661"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="662"/>
         <source>Apply</source>
         <translation>Použiť</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="661"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="662"/>
         <source>Apply %n Modification(s)</source>
         <translation><numerusform>Použiť %n modifikáciu</numerusform><numerusform>Použiť %n modifikácie</numerusform><numerusform>Použiť %n modifikácii</numerusform><numerusform>Použiť %n modifikácii</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="683"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="684"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
@@ -18820,52 +18820,52 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryTreeView</name>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="162"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="164"/>
         <source>All Elements</source>
         <translation>Všetky elementy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="164"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="166"/>
         <source>Uncategorized</source>
         <translation>Nekategorizované</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="166"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="168"/>
         <source>Component Categories</source>
         <translation>Kategórie komponentu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="168"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="170"/>
         <source>Package Categories</source>
         <translation>Kategórie puzdra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="170"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="172"/>
         <source>Symbols</source>
         <translation>Schematické značky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="172"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="174"/>
         <source>Packages</source>
         <translation>Puzdrá</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="174"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="176"/>
         <source>Components</source>
         <translation>Komponenty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="176"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="178"/>
         <source>Devices</source>
         <translation>Súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="178"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="180"/>
         <source>Organizations</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="198"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="200"/>
         <source>Deprecated</source>
         <translation type="unfinished"/>
     </message>
@@ -19804,57 +19804,57 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>Všetky komponenty zo schém boli pridané na dosku. Ak chcete na dosku pridať ďalšie komponenty, najskôr ich pridajte do schém, čím sa zobrazia tu na umiestnenie.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="319"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="320"/>
         <source>No device or package found</source>
         <translation>Nie je zvolená súčiastka alebo puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="334"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="335"/>
         <source>No compatible device was found for the selected component. Please install a library providing a suitable device or create a new device on your own in a local library.</source>
         <translation>Pre vybraný komponent sa nenašla žiadne kompatibilná súčiastka. Nainštalujte si knižnicu, ktorá poskytuje vhodné súčiastky, alebo si vytvorte novú súčiastku v lokálnej knižnici.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="343"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="344"/>
         <source>More information &amp; device creation guide</source>
         <translation>Viac informácií a sprievodca vytvorením súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="357"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="358"/>
         <source>I installed all libraries, why I still get this error?</source>
         <translation>Nainštaloval som všetky knižnice, prečo sa mi stále zobrazuje túto chybu?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="367"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="368"/>
         <source>Install or Create Libraries</source>
         <translation>Inštalovať alebo vytvoriť knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="422"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="423"/>
         <source>Place Selected Device</source>
         <translation>Umiestniť zvolenú súčiastku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="423"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="424"/>
         <source>Interactively place the component with the selected device &amp; footprint on the board</source>
         <translation>Interaktívne umiestnite komponent s vybranou súčiastkou a puzdrom na dosku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="434"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="435"/>
         <source>Place Similar</source>
         <translation>Pridať podobné</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="435"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="436"/>
         <source>Automatically add all components of the same kind to the board, using the currently selected device &amp; footprint</source>
         <translation>Automaticky pridať všetky komponenty rovnakého druhu na dosku s použitím aktuálne zvolenou súčiastkou a puzdrom</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="443"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="444"/>
         <source>Place All</source>
         <translation>Pridať všetko</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="444"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="445"/>
         <source>Automatically add all components to the board, guessing their device &amp; footprint (not recommended)</source>
         <translation>Automaticky pridať všetky komponenty na dosku s odhadom súčiastky a puzdra (neodporúča sa)</translation>
     </message>
@@ -20020,7 +20020,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>Žiadne oznámenia.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="390"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="391"/>
         <source>This message is marked as fixed. Run the checks again to verify the message is really resolved and disappears.</source>
         <translation>Táto správa je označená ako vybavená. Znova spustite kontroly, aby ste overili, či je správa skutočne vyriešená a zmizla.</translation>
     </message>
@@ -20207,12 +20207,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::TreeView</name>
     <message>
-        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="154"/>
+        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="156"/>
         <source>Pin</source>
         <translation>Vývod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="154"/>
+        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="156"/>
         <source>Unpin</source>
         <translation>Odopnúť</translation>
     </message>
