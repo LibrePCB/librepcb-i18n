@@ -4532,12 +4532,12 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
 <context>
     <name>Length</name>
     <message>
-        <location filename="libs/librepcb/core/types/length.h" line="676"/>
+        <location filename="libs/librepcb/core/types/length.h" line="700"/>
         <source>Value must be &gt;= 0!</source>
         <translation>Hodnota musí byť &gt;= 0!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/length.h" line="792"/>
+        <location filename="libs/librepcb/core/types/length.h" line="816"/>
         <source>Value must be &gt; 0!</source>
         <translation>Hodnota musí byť &gt; 0!</translation>
     </message>

@@ -4517,12 +4517,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
 <context>
     <name>Length</name>
     <message>
-        <location filename="libs/librepcb/core/types/length.h" line="676"/>
+        <location filename="libs/librepcb/core/types/length.h" line="700"/>
         <source>Value must be &gt;= 0!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/length.h" line="792"/>
+        <location filename="libs/librepcb/core/types/length.h" line="816"/>
         <source>Value must be &gt; 0!</source>
         <translation type="unfinished"/>
     </message>
