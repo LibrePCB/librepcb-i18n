@@ -10858,7 +10858,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="82"/>
         <source>New Library</source>
-        <translation type="unfinished"/>
+        <translation>新建库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="237"/>
@@ -12448,7 +12448,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="182"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should open the libraries panel to add some libraries.</source>
-        <translation type="unfinished"/>
+        <translation>此工作区中未包含任何库，而这些库是创建和修改工程必须的。您应打开库面板添加一些库。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="185"/>
@@ -17673,7 +17673,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="219"/>
         <source>e.g. URL to the Git repository (optional)</source>
-        <translation>例如 Git 仓库的 URL（可选）</translation>
+        <translation>例如 Git 仓库的 URL (可选)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="235"/>
@@ -17703,7 +17703,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="56"/>
         <source>Create a new local library</source>
-        <translation type="unfinished"/>
+        <translation>创建一个本地库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="67"/>
@@ -18005,12 +18005,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="56"/>
         <source>Download &amp; install a library by URL</source>
-        <translation type="unfinished"/>
+        <translation>通过 URL 下载并安装一个库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="66"/>
         <source>Please note that this is not the preferred way to install libraries as they won&apos;t be kept up to date. For our official libraries, it&apos;s recommended to install them from the libraries panel instead, which allows to keep libraries up to date.</source>
-        <translation type="unfinished"/>
+        <translation>请注意，这不是安装库的首选方式，因为它们不会保持最新。对于我们的官方库，建议您改从库面板进行安装，这样可以让库保持最新。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="84"/>
@@ -18020,7 +18020,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="92"/>
         <source>URL to a zipped library (*.zip)</source>
-        <translation type="unfinished"/>
+        <translation>压缩库 (*.zip) 的 URL</translation>
     </message>
 </context>
 <context>
@@ -18554,7 +18554,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="428"/>
         <source>No local libraries exist in this workspace. In order to create your own parts, add a new local library first with the button above.</source>
-        <translation type="unfinished"/>
+        <translation>此工作区中没有本地库。若要创建自己的零件，请先使用上方的按钮添加一个新的本地库。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="439"/>
@@ -19005,7 +19005,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="199"/>
         <source>New Library</source>
-        <translation type="unfinished"/>
+        <translation>新建库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="201"/>
