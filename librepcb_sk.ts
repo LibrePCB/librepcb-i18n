@@ -18666,39 +18666,39 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryContentTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="590"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="597"/>
         <source>New Component Category</source>
         <translation>Nová kategória komponentu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="602"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="607"/>
         <source>New Package Category</source>
         <translation>Nová kategória puzdra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="682"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="688"/>
         <source>The selected category does not contain any library elements.</source>
         <translation>Zvolená kategória neobsahuje žiadne prvky knižnice.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="698"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="712"/>
         <source>New Device</source>
         <translation>Nová súčiastka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="709"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="721"/>
         <source>New Component</source>
         <translation>Nový komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="721"/>
-        <source>New Package</source>
-        <translation>Nové puzdro</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="732"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="731"/>
         <source>New Symbol</source>
         <translation>Nová schematická značka</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="740"/>
+        <source>New Package</source>
+        <translation>Nové puzdro</translation>
     </message>
 </context>
 <context>
@@ -18802,17 +18802,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="809"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="818"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="810"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="819"/>
         <source>Import</source>
         <translation>Importovať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="811"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="820"/>
         <source>Library Content</source>
         <translation>Obsah knižnice</translation>
     </message>
@@ -20145,17 +20145,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::StatusBar</name>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="292"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="293"/>
         <source>Grid Interval</source>
         <translation>Interval rastra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="292"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="293"/>
         <source>scroll up/down on hover</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="327"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="328"/>
         <source>Grid Style</source>
         <translation>Štýl Rastra</translation>
     </message>

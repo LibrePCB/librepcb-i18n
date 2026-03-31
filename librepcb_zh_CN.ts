@@ -2413,7 +2413,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="534"/>
         <source>Export STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>导出 STEP 模型</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="535"/>
@@ -3425,7 +3425,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1477"/>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>矩形</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1478"/>
@@ -7341,7 +7341,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.ui" line="247"/>
         <source>&amp;Add more</source>
-        <translation>添加更多 (&amp;A)</translation>
+        <translation>添加更多(&amp;A)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="805"/>
@@ -7356,7 +7356,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1019"/>
         <source>Invalid Selection</source>
-        <translation>非法的选择</translation>
+        <translation>无效的选择</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1020"/>
@@ -7387,7 +7387,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="229"/>
         <source>URL</source>
-        <translation type="unfinished"/>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="231"/>
@@ -7397,12 +7397,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="233"/>
         <source>Parts Info</source>
-        <translation type="unfinished"/>
+        <translation>零件信息</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="235"/>
         <source>Order PCB</source>
-        <translation>订购PCB</translation>
+        <translation>订购 PCB</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="243"/>
@@ -7445,7 +7445,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/archiveoutputjobwidget.ui" line="131"/>
         <source>Archive Directory</source>
-        <translation type="unfinished"/>
+        <translation>归档目录</translation>
     </message>
 </context>
 <context>
@@ -7462,7 +7462,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/assemblyvariantlistmodel.cpp" line="237"/>
         <source>New:</source>
-        <translation>新建:</translation>
+        <translation>新建：</translation>
     </message>
 </context>
 <context>
@@ -7470,7 +7470,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/attributelistmodel.cpp" line="318"/>
         <source>There is already an attribute with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>已存在名称为 &quot;%1&quot; 的属性。</translation>
     </message>
 </context>
 <context>
@@ -7535,7 +7535,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="26"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>截屏</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="37"/>
@@ -7550,7 +7550,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="65"/>
         <source>Discard image</source>
-        <translation type="unfinished"/>
+        <translation>丢弃图像</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="85"/>
@@ -7560,7 +7560,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="332"/>
         <source>Screen %1</source>
-        <translation type="unfinished"/>
+        <translation>屏幕 %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="370"/>
@@ -7575,7 +7575,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="403"/>
         <source>Choose image</source>
-        <translation type="unfinished"/>
+        <translation>选择图像</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="410"/>
@@ -7600,7 +7600,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="479"/>
         <source>Rotate/mirror the image.</source>
-        <translation type="unfinished"/>
+        <translation>旋转/翻转图像。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="481"/>
@@ -7645,7 +7645,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="566"/>
         <source>Too few reference points (2 required).</source>
-        <translation type="unfinished"/>
+        <translation>参考点过少 (需要2个)。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="569"/>
@@ -7703,7 +7703,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2446"/>
         <source>Export IPC D-356A Netlist</source>
-        <translation type="unfinished"/>
+        <translation>导出 IPC D-356A 网表</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2510"/>
@@ -7797,22 +7797,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="317"/>
         <source>Running Quick Check</source>
-        <translation type="unfinished"/>
+        <translation>正在执行快速检查</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="317"/>
         <source>Running Design Rule Check</source>
-        <translation type="unfinished"/>
+        <translation>正在执行设计规则检查</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="372"/>
         <source>Export STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>导出 STEP 模型</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="397"/>
         <source>STEP Export Failure</source>
-        <translation type="unfinished"/>
+        <translation>STEP 导出失败</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="412"/>
@@ -7822,12 +7822,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="439"/>
         <source>Success! Please continue in the web browser:</source>
-        <translation type="unfinished"/>
+        <translation>成功！请在网页浏览器中继续：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="526"/>
         <source>Uploading project...</source>
-        <translation type="unfinished"/>
+        <translation>正在上传工程...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="688"/>
@@ -7894,7 +7894,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="221"/>
         <source>Add text to board</source>
-        <translation>添加文字</translation>
+        <translation>添加文字到电路板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="233"/>
@@ -8143,22 +8143,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="79"/>
         <source>Convert to SMT</source>
-        <translation type="unfinished"/>
+        <translation>转换为 SMT</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="101"/>
         <source>Position:</source>
-        <translation>位置:</translation>
+        <translation>位置：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="118"/>
         <source>Rotation:</source>
-        <translation>旋转:</translation>
+        <translation>旋转：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="128"/>
         <source>Corner Radius:</source>
-        <translation type="unfinished"/>
+        <translation>圆角半径：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="153"/>
@@ -8183,7 +8183,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="259"/>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>矩形</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="285"/>
@@ -8452,17 +8452,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="56"/>
         <source>Priority:</source>
-        <translation>优先级:</translation>
+        <translation>优先级：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="66"/>
         <source>Connect Style:</source>
-        <translation>连接样式:</translation>
+        <translation>连接样式：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="76"/>
         <source>Options:</source>
-        <translation>选项:</translation>
+        <translation>选项：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="91"/>
@@ -8472,7 +8472,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="94"/>
         <source>Keep Islands</source>
-        <translation type="unfinished"/>
+        <translation>保留孤岛</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="101"/>
@@ -11557,7 +11557,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="82"/>
         <source>Convert to SMT</source>
-        <translation type="unfinished"/>
+        <translation>转换为 SMT</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="104"/>
@@ -11572,7 +11572,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="131"/>
         <source>Corner Radius:</source>
-        <translation type="unfinished"/>
+        <translation>圆角半径：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="156"/>
@@ -11597,7 +11597,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="262"/>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>矩形</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="288"/>
@@ -18564,38 +18564,38 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibraryContentTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="590"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="597"/>
         <source>New Component Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="602"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="607"/>
         <source>New Package Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="682"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="688"/>
         <source>The selected category does not contain any library elements.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="698"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="712"/>
         <source>New Device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="709"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="721"/>
         <source>New Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="721"/>
-        <source>New Package</source>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="731"/>
+        <source>New Symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="732"/>
-        <source>New Symbol</source>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="740"/>
+        <source>New Package</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -18700,17 +18700,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibraryTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="809"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="818"/>
         <source>Metadata</source>
         <translation>元数据</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="810"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="819"/>
         <source>Import</source>
         <translation>导入</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="811"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="820"/>
         <source>Library Content</source>
         <translation type="unfinished"/>
     </message>
@@ -20043,17 +20043,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::StatusBar</name>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="292"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="293"/>
         <source>Grid Interval</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="292"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="293"/>
         <source>scroll up/down on hover</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="327"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="328"/>
         <source>Grid Style</source>
         <translation type="unfinished"/>
     </message>
