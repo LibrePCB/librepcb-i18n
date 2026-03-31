@@ -235,7 +235,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="136"/>
         <source>Override DRC settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>提供一个包含自定义设置的 *.lp 文件来覆盖 DRC 设置。如果未设置，则使用电路板中的设置。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="139"/>
@@ -344,7 +344,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="217"/>
         <source>Same as &apos;%1&apos;, but allows to specify boards by index instead of by name.</source>
-        <translation type="unfinished"/>
+        <translation>与 &apos;%1&apos; 相同，但允许通过索引而非名称来指定电路板。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="220"/>
@@ -678,7 +678,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1149"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
-        <translation type="unfinished"/>
+        <translation>注意：为避免重复写入文件，请确认向所有导出功能传递唯一的文件路径。对于电路板输出文件，您可以添加占位符 &apos;%1&apos; 到路径中或使用 &apos;%2&apos; 参数来指定需要导出的电路板。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1160"/>
