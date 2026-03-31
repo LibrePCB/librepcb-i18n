@@ -4,12 +4,12 @@
     <message>
         <location filename="libs/librepcb/core/job/archiveoutputjob.cpp" line="42"/>
         <source>Output Archive</source>
-        <translation>输出存档</translation>
+        <translation>输出归档</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/archiveoutputjob.h" line="71"/>
         <source>Archive</source>
-        <translation>存档</translation>
+        <translation>归档</translation>
     </message>
 </context>
 <context>
@@ -17,7 +17,7 @@
     <message>
         <location filename="libs/librepcb/core/attribute/attributekey.h" line="50"/>
         <source>Invalid attribute key: &apos;%1&apos;</source>
-        <translation>无效的属性键值: &apos;%1&apos;</translation>
+        <translation>无效的属性键值：&apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -38,7 +38,7 @@
     <message>
         <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="183"/>
         <source>Pad:</source>
-        <translation type="unfinished"/>
+        <translation>焊盘：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="189"/>
@@ -61,12 +61,12 @@
     <message>
         <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="271"/>
         <source>Blind Via</source>
-        <translation type="unfinished"/>
+        <translation>盲孔</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="273"/>
         <source>Buried Via</source>
-        <translation type="unfinished"/>
+        <translation>埋孔</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="275"/>
@@ -546,7 +546,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="697"/>
         <source>ERROR: No board with the name &apos;%1&apos; found.</source>
-        <translation type="unfinished"/>
+        <translation>错误：未找到名称为 &quot;%1&quot; 的电路板。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="710"/>
@@ -582,13 +582,13 @@
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="807"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1021"/>
         <source>ERROR: Failed to load custom settings: %1</source>
-        <translation type="unfinished"/>
+        <translation>错误：加载自定义设置失败：%1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="813"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1027"/>
         <source>Board &apos;%1&apos;:</source>
-        <translation type="unfinished"/>
+        <translation>电路板 &apos;%1&apos;:</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="853"/>
@@ -743,7 +743,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1338"/>
         <source>Run checks...</source>
-        <translation type="unfinished"/>
+        <translation>执行检查...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1347"/>
@@ -773,7 +773,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1423"/>
         <source>Skip checks for &apos;%1&apos; (deprecated)</source>
-        <translation type="unfinished"/>
+        <translation>跳过对 &apos;%1&apos; 的检查 (已弃用)</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1428"/>
@@ -1054,7 +1054,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="674"/>
         <source>pad</source>
-        <translation type="unfinished"/>
+        <translation>焊盘</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="676"/>
@@ -2212,7 +2212,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="357"/>
         <source>Copy Board</source>
-        <translation type="unfinished"/>
+        <translation>复制电路板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="358"/>
@@ -2222,12 +2222,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="366"/>
         <source>Remove Board</source>
-        <translation type="unfinished"/>
+        <translation>移除电路板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="367"/>
         <source>Remove the current board from the project</source>
-        <translation type="unfinished"/>
+        <translation>从工程中移除当前电路板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="375"/>
@@ -3825,7 +3825,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1848"/>
         <source>Copy MPN to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>复制 MPN 到剪贴板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1849"/>
@@ -4161,12 +4161,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.cpp" line="205"/>
         <source>Board Assembly PDF</source>
-        <translation type="unfinished"/>
+        <translation>电路板组装 PDF</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.cpp" line="216"/>
         <source>Board Rendering PDF</source>
-        <translation type="unfinished"/>
+        <translation>电路板渲染 PDF</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="122"/>
@@ -4196,7 +4196,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="162"/>
         <source>Board</source>
-        <translation type="unfinished"/>
+        <translation>电路板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="281"/>
@@ -5811,7 +5811,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="81"/>
         <source>Board</source>
-        <translation type="unfinished"/>
+        <translation>电路板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="82"/>
@@ -6950,12 +6950,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="331"/>
         <source>There is already a board with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>已存在名称为 &quot;%1&quot; 的电路板！</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="338"/>
         <source>There is already a board with the directory name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>已存在目录名称为 &quot;%1&quot; 的电路板！</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="540"/>
@@ -7570,7 +7570,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="386"/>
         <source>No image found in the clipboard.</source>
-        <translation type="unfinished"/>
+        <translation>剪贴板中未找到图像。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="403"/>
@@ -7693,7 +7693,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2393"/>
         <source>Preparing board...</source>
-        <translation type="unfinished"/>
+        <translation>正在准备电路板...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2393"/>
@@ -7723,7 +7723,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2566"/>
         <source>Import failed, no changes made to the board.</source>
-        <translation type="unfinished"/>
+        <translation>导入失败，电路板未作任何更改。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2571"/>
@@ -7746,7 +7746,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="40"/>
         <source>3D Model export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>电路板 3D 模型导出。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="60"/>
@@ -7779,7 +7779,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="204"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>电路板：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/board3doutputjobwidget.ui" line="211"/>
@@ -7878,7 +7878,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="380"/>
         <source>Add Pad to Board</source>
-        <translation type="unfinished"/>
+        <translation>添加焊盘到电路板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="402"/>
@@ -8354,7 +8354,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="27"/>
         <source>Board:</source>
-        <translation type="unfinished"/>
+        <translation>电路板：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="34"/>
@@ -9006,7 +9006,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="98"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>电路板：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="112"/>
@@ -9052,7 +9052,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="30"/>
         <source>Board:</source>
-        <translation type="unfinished"/>
+        <translation>电路板：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="37"/>
@@ -9187,7 +9187,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="139"/>
         <source>Monitor Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>监视剪贴板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="155"/>
@@ -10821,7 +10821,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="108"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>电路板：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="122"/>
@@ -11763,7 +11763,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="63"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>电路板：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="73"/>
@@ -11915,7 +11915,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="100"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>电路板：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="114"/>
@@ -12172,7 +12172,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="120"/>
         <source>Copy the image to the clipboard instead of saving it as a file.</source>
-        <translation type="unfinished"/>
+        <translation>复制图像到剪贴板而不是将其保存为文件。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="129"/>
@@ -12415,7 +12415,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="348"/>
         <source>Board Image</source>
-        <translation type="unfinished"/>
+        <translation>电路板图像</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="354"/>
@@ -12896,7 +12896,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="98"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>电路板：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="112"/>
@@ -13440,7 +13440,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="246"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"/>
+        <translation>已复制到剪贴板：%1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="456"/>
@@ -13565,7 +13565,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="40"/>
         <source>IPC D-356A netlist export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>电路板的 IPC D-356A 网表导出。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="57"/>
@@ -13580,7 +13580,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="84"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>电路板：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="98"/>
@@ -13631,7 +13631,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.ui" line="39"/>
         <source>Select EAGLE board file (optional)</source>
-        <translation type="unfinished"/>
+        <translation>选择 EAGLE 电路板文件 (可选)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.ui" line="134"/>
@@ -14101,12 +14101,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="356"/>
         <source>Board Assembly PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>电路板组装 PDF/图像</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="359"/>
         <source>Board Rendering PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>电路板渲染 PDF/图像</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="361"/>
@@ -14772,7 +14772,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="77"/>
         <source>Boards:</source>
-        <translation type="unfinished"/>
+        <translation>电路板：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="91"/>
@@ -15003,7 +15003,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="637"/>
         <source>Copy Board</source>
-        <translation type="unfinished"/>
+        <translation>复制电路板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="637"/>
@@ -15023,7 +15023,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="668"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>您确定要移除电路板 &quot;%1&quot; 吗？</translation>
     </message>
 </context>
 <context>
@@ -17175,7 +17175,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="381"/>
         <source>Learn how to create boards</source>
-        <translation type="unfinished"/>
+        <translation>了解如何创建电路板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="641"/>
@@ -19233,12 +19233,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="146"/>
         <source>Please open the board you like to order.</source>
-        <translation type="unfinished"/>
+        <translation>请打开您想要订购的电路板。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="148"/>
         <source>There may be some issues with your schematics or board, please check the messages above before continuing.</source>
-        <translation type="unfinished"/>
+        <translation>您的原理图或电路板可能存在一些问题，请在继续操作前先查看上方的提示信息。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="182"/>
@@ -19331,7 +19331,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="91"/>
         <source>No board selected</source>
-        <translation type="unfinished"/>
+        <translation>未选择电路板</translation>
     </message>
 </context>
 <context>
@@ -19783,7 +19783,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/documentspanel.slint" line="242"/>
         <source>Board</source>
-        <translation type="unfinished"/>
+        <translation>电路板</translation>
     </message>
 </context>
 <context>
