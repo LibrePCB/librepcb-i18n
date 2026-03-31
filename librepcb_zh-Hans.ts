@@ -4,12 +4,12 @@
     <message>
         <location filename="libs/librepcb/core/job/archiveoutputjob.cpp" line="42"/>
         <source>Output Archive</source>
-        <translation type="unfinished"/>
+        <translation>输出归档</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/archiveoutputjob.h" line="71"/>
         <source>Archive</source>
-        <translation type="unfinished"/>
+        <translation>归档</translation>
     </message>
 </context>
 <context>
@@ -200,17 +200,17 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="109"/>
         <source>LibrePCB Command Line Interface</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB 命令行界面</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="112"/>
         <source>Print this message.</source>
-        <translation type="unfinished"/>
+        <translation>打印此消息。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="115"/>
         <source>Displays version information.</source>
-        <translation type="unfinished"/>
+        <translation>显示版本信息。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="117"/>
@@ -251,7 +251,7 @@
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="298"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="316"/>
         <source>file</source>
-        <translation type="unfinished"/>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="142"/>
@@ -264,7 +264,7 @@
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="232"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="244"/>
         <source>name</source>
-        <translation type="unfinished"/>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="146"/>
@@ -309,7 +309,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="180"/>
         <source>attributes</source>
-        <translation type="unfinished"/>
+        <translation>属性</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="183"/>
@@ -450,7 +450,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="341"/>
         <source>Commands:</source>
-        <translation type="unfinished"/>
+        <translation>命令：</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="345"/>
@@ -460,22 +460,22 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="348"/>
         <source>Help:</source>
-        <translation type="unfinished"/>
+        <translation>帮助：</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="362"/>
         <source>Path to project file (*.lpp[z]).</source>
-        <translation type="unfinished"/>
+        <translation>工程文件路径 (*.lpp[z])。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="392"/>
         <source>Path to library directory (*.lplib).</source>
-        <translation type="unfinished"/>
+        <translation>库文件夹路径 (*.lplib)。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="403"/>
         <source>Path to symbol directory (containing *.lp).</source>
-        <translation type="unfinished"/>
+        <translation>符号文件夹路径 (containing *.lp)。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="411"/>
@@ -485,22 +485,22 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="419"/>
         <source>Path to the STEP file (%1).</source>
-        <translation type="unfinished"/>
+        <translation>STEP 文件路径 (%1)。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="425"/>
         <source>Unknown command &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>未知命令 &apos;%1&apos;。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="484"/>
         <source>Missing arguments:</source>
-        <translation type="unfinished"/>
+        <translation>缺失参数：</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="490"/>
         <source>Unknown arguments:</source>
-        <translation type="unfinished"/>
+        <translation>未知参数：</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="570"/>
@@ -515,12 +515,12 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="576"/>
         <source>SUCCESS</source>
-        <translation type="unfinished"/>
+        <translation>成功</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="605"/>
         <source>Open project &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>打开工程 &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="627"/>
@@ -571,12 +571,12 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="773"/>
         <source>Run ERC...</source>
-        <translation type="unfinished"/>
+        <translation>执行 ERC...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="795"/>
         <source>Run DRC...</source>
-        <translation type="unfinished"/>
+        <translation>执行 DRC...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="807"/>
@@ -608,7 +608,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="899"/>
         <source>ERROR:</source>
-        <translation type="unfinished"/>
+        <translation>错误：</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="907"/>
@@ -620,7 +620,7 @@
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1550"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1661"/>
         <source>ERROR</source>
-        <translation type="unfinished"/>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="964"/>
@@ -662,12 +662,12 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1098"/>
         <source>Export netlist to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>导出网表到 &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1123"/>
         <source>Save project...</source>
-        <translation type="unfinished"/>
+        <translation>保存工程...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1144"/>
@@ -13659,7 +13659,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="244"/>
         <source>ERROR:</source>
-        <translation type="unfinished"/>
+        <translation>错误：</translation>
     </message>
 </context>
 <context>
@@ -14160,7 +14160,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="864"/>
         <source>ERROR</source>
-        <translation type="unfinished"/>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="870"/>

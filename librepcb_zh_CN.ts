@@ -89,7 +89,7 @@
     <message>
         <location filename="libs/librepcb/core/job/board3doutputjob.cpp" line="39"/>
         <source>STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>STEP 模型</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/board3doutputjob.h" line="73"/>
@@ -185,7 +185,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="96"/>
         <source>Open a symbol to execute symbol-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>打开一个符号以执行与符号相关的任务。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="99"/>
@@ -284,7 +284,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="156"/>
         <source>path</source>
-        <translation type="unfinished"/>
+        <translation>路径</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="159"/>
@@ -334,7 +334,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="207"/>
         <source>Export netlist file for automated PCB testing. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>导出网表文件，用于自动 PCB 测试。现有文件将被覆盖。支持的文件扩展名：%1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="212"/>
@@ -415,7 +415,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="283"/>
         <source>Export the symbol to a graphical file. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>导出符号到图形文件。支持的文件扩展名：%1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="291"/>
@@ -485,7 +485,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="419"/>
         <source>Path to the STEP file (%1).</source>
-        <translation type="unfinished"/>
+        <translation>STEP 文件路径 (%1)。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="425"/>
@@ -637,7 +637,7 @@
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1088"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1115"/>
         <source>ERROR: Unknown extension &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>错误：未知扩展名 &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1007"/>
@@ -788,12 +788,12 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1473"/>
         <source>Open symbol &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>打开符号 &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1480"/>
         <source>Opened symbol: %1</source>
-        <translation type="unfinished"/>
+        <translation>打开的符号: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1498"/>
@@ -2072,7 +2072,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="194"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="195"/>
@@ -7392,7 +7392,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="231"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="233"/>
@@ -12443,7 +12443,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="181"/>
         <source>No Libraries Installed</source>
-        <translation type="unfinished"/>
+        <translation>未安装库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="182"/>
@@ -12937,7 +12937,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="162"/>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>应用</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="169"/>
@@ -17180,7 +17180,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="641"/>
         <source>Background Image</source>
-        <translation type="unfinished"/>
+        <translation>背景图像</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="689"/>
@@ -18480,12 +18480,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="537"/>
         <source>Local Libraries</source>
-        <translation type="unfinished"/>
+        <translation>本地库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="552"/>
         <source>Remote Libraries</source>
-        <translation type="unfinished"/>
+        <translation>远程库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="597"/>
@@ -18505,7 +18505,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="662"/>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>应用</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="662"/>
@@ -18528,22 +18528,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="349"/>
         <source>Download a Library by URL</source>
-        <translation type="unfinished"/>
+        <translation>通过 URL 下载库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="361"/>
         <source>Create a New Library</source>
-        <translation type="unfinished"/>
+        <translation>创建新库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="374"/>
         <source>Check For Updates</source>
-        <translation type="unfinished"/>
+        <translation>检查更新</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="387"/>
         <source>Cancel Update Check</source>
-        <translation type="unfinished"/>
+        <translation>取消更新检查</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="416"/>
@@ -18684,7 +18684,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/documentspanel.slint" line="278"/>
         <source>Close Library</source>
-        <translation type="unfinished"/>
+        <translation>关闭库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/documentspanel.slint" line="279"/>
@@ -18788,7 +18788,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="544"/>
         <source>Move to Other Library</source>
-        <translation type="unfinished"/>
+        <translation>移动到其它库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="546"/>
@@ -19099,7 +19099,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="909"/>
         <source>Close Library</source>
-        <translation type="unfinished"/>
+        <translation>关闭库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="910"/>
@@ -19458,7 +19458,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="865"/>
         <source>Background Image</source>
-        <translation type="unfinished"/>
+        <translation>背景图像</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="884"/>
@@ -19642,7 +19642,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="96"/>
         <source>Part Number (MPN)</source>
-        <translation type="unfinished"/>
+        <translation>零件编号 (MPN)</translation>
     </message>
 </context>
 <context>
@@ -19650,7 +19650,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="518"/>
         <source>New Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>新建设计规则</translation>
     </message>
 </context>
 <context>
@@ -19658,7 +19658,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="451"/>
         <source>PCB Design Rules:</source>
-        <translation type="unfinished"/>
+        <translation>PCB 设计规则</translation>
     </message>
 </context>
 <context>
@@ -19679,7 +19679,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="135"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="166"/>
@@ -19719,12 +19719,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="358"/>
         <source>I installed all libraries, why I still get this error?</source>
-        <translation type="unfinished"/>
+        <translation>我已经安装了所有库，为什么还会遇到这个错误？</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="368"/>
         <source>Install or Create Libraries</source>
-        <translation type="unfinished"/>
+        <translation>安装或创建库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="423"/>
@@ -19870,7 +19870,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="226"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="238"/>
@@ -19900,7 +19900,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="317"/>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>应用</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="339"/>
@@ -19928,7 +19928,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="431"/>
         <source>Schematic-Only:</source>
-        <translation type="unfinished"/>
+        <translation>仅原理图：</translation>
     </message>
 </context>
 <context>
@@ -19936,7 +19936,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="150"/>
         <source>No Libraries Installed</source>
-        <translation type="unfinished"/>
+        <translation>未安装库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="156"/>
@@ -19946,12 +19946,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="162"/>
         <source>Install Libraries</source>
-        <translation type="unfinished"/>
+        <translation>安装库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="176"/>
         <source>Learn how to create parts by yourself</source>
-        <translation type="unfinished"/>
+        <translation>了解如何自己创建零件</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="195"/>
@@ -20004,7 +20004,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="350"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="404"/>
@@ -20073,12 +20073,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="372"/>
         <source>Import Pins</source>
-        <translation type="unfinished"/>
+        <translation>导入引脚</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="386"/>
         <source>Learn how to create symbols</source>
-        <translation type="unfinished"/>
+        <translation>了解如何创建符号</translation>
     </message>
 </context>
 <context>
@@ -20099,7 +20099,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/toolbutton.slint" line="103"/>
         <source>right-click for menu</source>
-        <translation type="unfinished"/>
+        <translation>右键单击以显示菜单</translation>
     </message>
 </context>
 <context>
