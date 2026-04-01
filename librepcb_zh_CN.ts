@@ -630,7 +630,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="967"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>导出通用物料清单 (BOM) 到 &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="997"/>
@@ -813,7 +813,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1596"/>
         <source>Export footprint(s) to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>导出封装到 &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1680"/>
@@ -2132,7 +2132,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="266"/>
         <source>Board Setup</source>
-        <translation type="unfinished"/>
+        <translation>电路板设置</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="267"/>
@@ -2217,7 +2217,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="358"/>
         <source>Add a copy of the current board to the project</source>
-        <translation type="unfinished"/>
+        <translation>添加当前电路板的副本到工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="366"/>
@@ -2288,7 +2288,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <location filename="libs/librepcb/editor/editorcommandset.h" line="423"/>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="831"/>
         <source>Remove</source>
-        <translation>删除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="424"/>
@@ -2298,7 +2298,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="432"/>
         <source>Add</source>
-        <translation>增加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="433"/>
@@ -2348,22 +2348,22 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="472"/>
         <source>Import schematic/board from EAGLE *.sch/*.brd files</source>
-        <translation type="unfinished"/>
+        <translation>从 EAGLE *.sch/*.brd 文件导入原理图/电路板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="480"/>
         <source>Import KiCad Library</source>
-        <translation type="unfinished"/>
+        <translation>导入 KiCad 库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="481"/>
         <source>Import symbols and footprints from KiCad libraries</source>
-        <translation type="unfinished"/>
+        <translation>从 KiCad 库导入符号和封装</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="489"/>
         <source>Import Specctra SES</source>
-        <translation type="unfinished"/>
+        <translation>导入 Specctra SES</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="490"/>
@@ -2383,7 +2383,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="507"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>导出图像</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="508"/>
@@ -2403,7 +2403,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="525"/>
         <source>Export Specctra DSN</source>
-        <translation type="unfinished"/>
+        <translation>导出 Specctra DSN</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="526"/>
@@ -2453,22 +2453,22 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="580"/>
         <source>Generate Pick&amp;&amp;Place Files</source>
-        <translation type="unfinished"/>
+        <translation>生成贴片文件</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="581"/>
         <source>Generate pick&amp;place files for automated PCB assembly</source>
-        <translation type="unfinished"/>
+        <translation>生成用于自动化 PCB 组装的贴片文件</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="589"/>
         <source>Generate IPC-D-356A Netlist</source>
-        <translation type="unfinished"/>
+        <translation>生成 IPC-D-356A 网表</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="590"/>
         <source>Generate netlist file for automated PCB testing</source>
-        <translation type="unfinished"/>
+        <translation>生成用于自动化 PCB 测试的网表文件</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="598"/>
@@ -2648,7 +2648,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="757"/>
         <source>Move/Align Objects</source>
-        <translation type="unfinished"/>
+        <translation>移动/对齐对象</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="758"/>
@@ -3600,12 +3600,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1640"/>
         <source>New Window</source>
-        <translation type="unfinished"/>
+        <translation>新建窗口</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1641"/>
         <source>Open a new window</source>
-        <translation type="unfinished"/>
+        <translation>打开一个新窗口</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1649"/>
@@ -7236,7 +7236,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="257"/>
         <source>Import failed:</source>
-        <translation type="unfinished"/>
+        <translation>导入失败：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="459"/>
@@ -8344,7 +8344,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="14"/>
         <source>Generate Pick&amp;Place Data</source>
-        <translation type="unfinished"/>
+        <translation>生成贴片数据</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="20"/>
@@ -8409,7 +8409,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.cpp" line="75"/>
         <source>&amp;Generate</source>
-        <translation type="unfinished"/>
+        <translation>生成(&amp;G)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.cpp" line="175"/>
@@ -8536,7 +8536,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="14"/>
         <source>Board Setup</source>
-        <translation type="unfinished"/>
+        <translation>电路板设置</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="24"/>
@@ -9116,7 +9116,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/workspace/categorytreemodellegacy.cpp" line="111"/>
         <source>Category</source>
-        <translation type="unfinished"/>
+        <translation>分类</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/categorytreemodellegacy.cpp" line="154"/>
@@ -9354,7 +9354,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardedit.cpp" line="40"/>
         <source>Modify Board Setup</source>
-        <translation type="unfinished"/>
+        <translation>修改电路板设置</translation>
     </message>
 </context>
 <context>
@@ -11348,7 +11348,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="60"/>
         <source>Component Category</source>
-        <translation type="unfinished"/>
+        <translation>元件分类</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="88"/>
@@ -12152,7 +12152,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="93"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>导出图像</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="96"/>
@@ -12518,12 +12518,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="356"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
-        <translation type="unfinished"/>
+        <translation>这将从互联网下载一些示例工程并将其复制到工作区，以帮助您使用实际工程来评估 LibrePCB。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="360"/>
         <source>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</source>
-        <translation type="unfinished"/>
+        <translation>当您不再需要它们，只需删除 examples 目录即可将其清除。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="363"/>
@@ -13149,7 +13149,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="60"/>
         <source>Component Category</source>
-        <translation type="unfinished"/>
+        <translation>元件分类</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="88"/>
@@ -13695,7 +13695,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="17"/>
         <source>Specify how the project should be initialized.</source>
-        <translation type="unfinished"/>
+        <translation>指定工程如何初始化。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="23"/>
@@ -13736,7 +13736,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="23"/>
         <source>Specify some metadata of the project to be created.</source>
-        <translation type="unfinished"/>
+        <translation>指定待创建工程的元数据。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="32"/>
@@ -13751,7 +13751,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="66"/>
         <source>License:</source>
-        <translation>协议:</translation>
+        <translation>许可：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="97"/>
@@ -13762,12 +13762,12 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="113"/>
         <source>Path:</source>
-        <translation type="unfinished"/>
+        <translation>路径：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="134"/>
         <source>A LibrePCB project consists of a whole directory, not only of a single file. Just select the new project&apos;s parent directory, and the subdirectory and filename will be appended automatically.</source>
-        <translation type="unfinished"/>
+        <translation>一个 LibrePCB 工程由整个目录组成，而不仅仅是单个文件。只需选择新工程的父目录，其子目录和文件名将会自动添加。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="84"/>
@@ -13852,7 +13852,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="275"/>
         <source>Invalid filepath</source>
-        <translation>非法路径</translation>
+        <translation>无效的文件路径</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="276"/>
@@ -15226,7 +15226,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.cpp" line="256"/>
         <source>Modify Project Setup</source>
-        <translation type="unfinished"/>
+        <translation>修改工程设置</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.cpp" line="337"/>
@@ -16333,7 +16333,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="677"/>
         <source>Category</source>
-        <translation type="unfinished"/>
+        <translation>分类</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="682"/>
@@ -16362,7 +16362,11 @@ Do you want to save them before closing it?</source>
 &lt;p&gt;You can add any server to this list which implements the LibrePCB API. The official LibrePCB server is &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.
 To completely disable Internet access, just remove all entries.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;body&gt;
+&lt;p&gt;API 端点用于访问在线服务，例如从互联网下载库。&lt;/p&gt;
+&lt;p&gt;您可以将任何实现 LibrePCB API 的服务器添加到此列表中。 LibrePCB 官方服务器地址是&lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;。
+若要完全禁用互联网访问，只需删除所有条目。&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="750"/>
@@ -16372,7 +16376,7 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="753"/>
         <source>Auto-Fetch Live Part Information</source>
-        <translation type="unfinished"/>
+        <translation>自动获取实时零件信息</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="76"/>
@@ -17235,7 +17239,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="385"/>
         <source>Add Category</source>
-        <translation type="unfinished"/>
+        <translation>添加分类</translation>
     </message>
 </context>
 <context>
@@ -17678,7 +17682,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="235"/>
         <source>License:</source>
-        <translation>协议:</translation>
+        <translation>许可：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="246"/>
@@ -18567,7 +18571,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="597"/>
         <source>New Component Category</source>
-        <translation type="unfinished"/>
+        <translation>新建元件分类</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="607"/>
@@ -18835,17 +18839,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1023"/>
         <source>Category</source>
-        <translation type="unfinished"/>
+        <translation>分类</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1042"/>
         <source>Save Category</source>
-        <translation type="unfinished"/>
+        <translation>保存分类</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1052"/>
         <source>Close Category</source>
-        <translation type="unfinished"/>
+        <translation>关闭分类</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1053"/>
@@ -19120,7 +19124,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="951"/>
         <source>New Component Category</source>
-        <translation type="unfinished"/>
+        <translation>新建元件分类</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="961"/>
@@ -19405,7 +19409,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="288"/>
         <source>Add Footprint</source>
-        <translation type="unfinished"/>
+        <translation>添加封装</translation>
     </message>
 </context>
 <context>
@@ -19538,7 +19542,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="283"/>
         <source>Add Pads:</source>
-        <translation type="unfinished"/>
+        <translation>添加焊盘：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="288"/>
