@@ -48,7 +48,7 @@
     <message>
         <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="195"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>网络：</translation>
     </message>
 </context>
 <context>
@@ -56,7 +56,7 @@
     <message>
         <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="269"/>
         <source>Through-Hole Via</source>
-        <translation type="unfinished"/>
+        <translation>通孔</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="271"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="275"/>
         <source>Net: %1</source>
-        <translation type="unfinished"/>
+        <translation>网络：%1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="277"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="libs/librepcb/core/job/board3doutputjob.h" line="73"/>
         <source>3D Model</source>
-        <translation>3D模型</translation>
+        <translation>3D 模型</translation>
     </message>
 </context>
 <context>
@@ -2172,7 +2172,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="312"/>
         <source>New Sheet</source>
-        <translation type="unfinished"/>
+        <translation>新建图纸</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="313"/>
@@ -2182,12 +2182,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="321"/>
         <source>Rename Sheet</source>
-        <translation>重命名工作表</translation>
+        <translation>重命名图纸</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="322"/>
         <source>Rename the current schematic sheet</source>
-        <translation>重命名当前原理图表</translation>
+        <translation>重命名当前原理图图纸</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="330"/>
@@ -2784,7 +2784,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="883"/>
         <source>Increase the grid interval</source>
-        <translation type="unfinished"/>
+        <translation>增大栅格间距</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="896"/>
@@ -2794,17 +2794,17 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="897"/>
         <source>Decrease the grid interval</source>
-        <translation type="unfinished"/>
+        <translation>减小栅格间距</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="910"/>
         <source>Show Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>显示引脚编号</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="911"/>
         <source>Show or hide symbol pin numbers</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏符号引脚编号</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="919"/>
@@ -2829,7 +2829,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="937"/>
         <source>Toggle 2D/3D Mode</source>
-        <translation type="unfinished"/>
+        <translation>切换 2D/3D 模式</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="938"/>
@@ -3269,12 +3269,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1331"/>
         <source>Toggle Auto-Width</source>
-        <translation type="unfinished"/>
+        <translation>切换自动宽度</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1332"/>
         <source>Toggle the auto-width property state</source>
-        <translation type="unfinished"/>
+        <translation>切换自动宽度属性状态</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1340"/>
@@ -3820,7 +3820,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1840"/>
         <source>Toggle visibility</source>
-        <translation type="unfinished"/>
+        <translation>切换可见性</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1848"/>
@@ -3830,7 +3830,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1849"/>
         <source>Copy this MPN into the clipboard</source>
-        <translation type="unfinished"/>
+        <translation>复制此 MPN 到剪贴板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1857"/>
@@ -5637,7 +5637,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/editor/project/schematic/graphicsitems/sgi_symbolpin.cpp" line="272"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>网络：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/graphicsitems/sgi_symbolpin.cpp" line="278"/>
@@ -5945,7 +5945,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="106"/>
         <source>Pin Numbers</source>
-        <translation>引脚号</translation>
+        <translation>引脚编号</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="110"/>
@@ -8118,7 +8118,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="33"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>网络：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="40"/>
@@ -8576,7 +8576,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="211"/>
         <source>These settings might not be supported and/or automatically taken into account by the PCB manufacturer. Always check/specify these manufacturing properties manually when ordering the PCB.</source>
-        <translation type="unfinished"/>
+        <translation>PCB 制造商可能不支持和/或无法自动考虑这些设置。订购 PCB 时，请务必手动检查/指定这些制造属性。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="225"/>
@@ -9411,7 +9411,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardnetsegmentaddelements.cpp" line="43"/>
         <source>Add Vias/Pads/Traces</source>
-        <translation type="unfinished"/>
+        <translation>添加过孔/焊盘/走线</translation>
     </message>
 </context>
 <context>
@@ -9555,7 +9555,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardsplitnetline.cpp" line="43"/>
         <source>Split trace</source>
-        <translation type="unfinished"/>
+        <translation>拆分走线</translation>
     </message>
 </context>
 <context>
@@ -12087,7 +12087,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="411"/>
         <source>Show Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>显示引脚编号</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="419"/>
@@ -14968,12 +14968,12 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="556"/>
         <source>New Sheet</source>
-        <translation type="unfinished"/>
+        <translation>新建图纸</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="557"/>
         <source>Choose a name for the new schematic page:</source>
-        <translation type="unfinished"/>
+        <translation>请为新的原理图页命名：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="566"/>
@@ -14984,7 +14984,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="587"/>
         <source>Rename sheet</source>
-        <translation type="unfinished"/>
+        <translation>重命名图纸</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="587"/>
@@ -18110,7 +18110,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="78"/>
         <source>Arc Angle</source>
-        <translation>圆角</translation>
+        <translation>圆弧角度</translation>
     </message>
 </context>
 <context>
@@ -18138,7 +18138,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="57"/>
         <source>Arc Angle</source>
-        <translation>圆角</translation>
+        <translation>圆弧角度</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="75"/>
@@ -18275,7 +18275,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="79"/>
         <source>Toggle Visibility</source>
-        <translation type="unfinished"/>
+        <translation>切换可见性</translation>
     </message>
 </context>
 <context>
@@ -19074,7 +19074,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="704"/>
         <source>Split Window</source>
-        <translation type="unfinished"/>
+        <translation>拆分窗口</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="706"/>
@@ -19981,7 +19981,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="498"/>
         <source>Pin Numbers</source>
-        <translation>引脚号</translation>
+        <translation>引脚编号</translation>
     </message>
 </context>
 <context>
@@ -20055,7 +20055,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/statusbar.slint" line="293"/>
         <source>scroll up/down on hover</source>
-        <translation type="unfinished"/>
+        <translation>悬停时上下滚动</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/statusbar.slint" line="328"/>
