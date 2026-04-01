@@ -1106,7 +1106,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="792"/>
         <source>%1 layers</source>
         <comment>Placeholder is a number &gt; 1.</comment>
-        <translation type="unfinished"/>
+        <translation>%1 层</translation>
     </message>
 </context>
 <context>
@@ -2117,7 +2117,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="249"/>
         <source>View/modify the project setup</source>
-        <translation type="unfinished"/>
+        <translation>查看/修改工程设置</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="257"/>
@@ -2137,7 +2137,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="267"/>
         <source>View/modify the board setup</source>
-        <translation type="unfinished"/>
+        <translation>查看/修改电路板设置</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="275"/>
@@ -3535,7 +3535,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1582"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>层</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1583"/>
@@ -6998,7 +6998,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="177"/>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>消息</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="218"/>
@@ -8113,7 +8113,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="24"/>
         <source>General</source>
-        <translation>通常</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="33"/>
@@ -8541,7 +8541,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="24"/>
         <source>General</source>
-        <translation>通常</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="33"/>
@@ -11527,7 +11527,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="24"/>
         <source>General</source>
-        <translation>通常</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="33"/>
@@ -11961,7 +11961,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="26"/>
         <source>General</source>
-        <translation>通常</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="35"/>
@@ -12295,7 +12295,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="230"/>
         <source>General</source>
-        <translation>通常</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="254"/>
@@ -12400,7 +12400,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="574"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>层</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="152"/>
@@ -12640,7 +12640,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="24"/>
         <source>General</source>
-        <translation>通常</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="34"/>
@@ -16168,7 +16168,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="33"/>
         <source>General</source>
-        <translation>通常</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="42"/>
@@ -16610,7 +16610,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="121"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>层</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="68"/>
@@ -17130,7 +17130,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="223"/>
         <source>Set Up Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>设置设计规则</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="229"/>
@@ -18065,7 +18065,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="15"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>层</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="18"/>
@@ -18283,17 +18283,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="142"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>层</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="149"/>
         <source>Top Layers</source>
-        <translation type="unfinished"/>
+        <translation>顶层</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="160"/>
         <source>Bottom Layers</source>
-        <translation type="unfinished"/>
+        <translation>底层</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="171"/>
@@ -19273,7 +19273,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="268"/>
         <source>Upload Project</source>
-        <translation type="unfinished"/>
+        <translation>上传工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="294"/>
@@ -19288,7 +19288,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="339"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. The project directory will be exported to a *.lppz archive and uploaded to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser, e.g. to choose the preferred manufacturing partner. Just try it!</source>
-        <translation type="unfinished"/>
+        <translation>此工具可助您快速、轻松地将您设计的 PCB 送交制造。工程目录将被导出为 *.lppz 归档，并上传至您工作区设置中配置的 API 服务器。随后，您可以在网页浏览器中继续订购流程，例如选择首选的制造合作伙伴。快试一试吧！</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="344"/>
@@ -19298,7 +19298,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="356"/>
         <source>Privacy and transparency are important to us. Details about how this feature works behind the scenes are available here:</source>
-        <translation type="unfinished"/>
+        <translation>我们非常重视隐私和透明度。有关此功能后台运作的详细信息，请参阅此处：</translation>
     </message>
 </context>
 <context>
@@ -19704,7 +19704,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="286"/>
         <source>All components from the schematics have been added to the board. To add more components to the board, add them to the schematics first which will make them appearing here for placement.</source>
-        <translation type="unfinished"/>
+        <translation>原理图中的所有元件均已添加到电路板。若要添加更多元件到电路板，请先将其添加到原理图，这会使它们出现在此处以供放置。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="322"/>
@@ -19910,7 +19910,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="339"/>
         <source>No checks run yet. Trigger them with one of the buttons above.</source>
-        <translation type="unfinished"/>
+        <translation>尚未执行任何检查。请点击上方任一按钮触发检查。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="341"/>
@@ -19999,7 +19999,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="192"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>层</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="216"/>
