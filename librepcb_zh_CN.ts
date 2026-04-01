@@ -823,7 +823,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1818"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
-        <translation>此应用程序版本不稳定！已禁用选项“%1”以避免损坏项目或库。请改用稳定版本。</translation>
+        <translation>此应用程序版本不稳定！已禁用选项 &apos;%1&apos; 以避免损坏工程或库。请改用稳定版本。</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1846"/>
@@ -1997,7 +1997,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="123"/>
         <source>Select all visible objects</source>
-        <translation type="unfinished"/>
+        <translation>选择所有可见对象</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="131"/>
@@ -2007,7 +2007,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="132"/>
         <source>Find or filter objects</source>
-        <translation type="unfinished"/>
+        <translation>查找或筛选对象</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="140"/>
@@ -2092,27 +2092,27 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="221"/>
         <source>New Project</source>
-        <translation>新建项目</translation>
+        <translation>新建工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="222"/>
         <source>Create a new project</source>
-        <translation>创建一个新项目</translation>
+        <translation>创建一个新工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="230"/>
         <source>Open Project</source>
-        <translation>打开项目</translation>
+        <translation>打开工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="231"/>
         <source>Open an existing project</source>
-        <translation>打开一个现有的项目</translation>
+        <translation>打开现有工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="248"/>
         <source>Project Setup</source>
-        <translation type="unfinished"/>
+        <translation>工程设置</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="249"/>
@@ -2162,7 +2162,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="293"/>
         <source>Update Project Library</source>
-        <translation type="unfinished"/>
+        <translation>更新工程库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="294"/>
@@ -2177,7 +2177,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="313"/>
         <source>Add a new schematic sheet to the project</source>
-        <translation>向项目中添加新的原理图</translation>
+        <translation>添加新原理图图纸到工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="321"/>
@@ -2197,7 +2197,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="331"/>
         <source>Remove the current schematic sheet from the project</source>
-        <translation type="unfinished"/>
+        <translation>从工程中移除当前原理图图纸</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="348"/>
@@ -2207,7 +2207,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="349"/>
         <source>Add a new board to the project</source>
-        <translation>向项目中添加新电路板</translation>
+        <translation>添加新电路板到工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="357"/>
@@ -2313,12 +2313,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="444"/>
         <source>Add Example Projects</source>
-        <translation>添加示例项目</translation>
+        <translation>添加示例工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="445"/>
         <source>Add some example projects to the workspace</source>
-        <translation type="unfinished"/>
+        <translation>添加一些示例工程到工作区</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="453"/>
@@ -2328,12 +2328,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="454"/>
         <source>Import a 2D mechanical drawing</source>
-        <translation type="unfinished"/>
+        <translation>导入 2D 机械图纸</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="462"/>
         <source>Import EAGLE Library</source>
-        <translation type="unfinished"/>
+        <translation>导入 EAGLE 库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="463"/>
@@ -2343,7 +2343,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="471"/>
         <source>Import EAGLE Project</source>
-        <translation type="unfinished"/>
+        <translation>导入 EAGLE 工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="472"/>
@@ -3620,22 +3620,22 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1658"/>
         <source>Close Project</source>
-        <translation>关闭项目</translation>
+        <translation>关闭工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1659"/>
         <source>Close the currently opened project</source>
-        <translation>关闭当前打开的项目</translation>
+        <translation>关闭当前打开的工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1668"/>
         <source>Close All Projects</source>
-        <translation>关闭所有项目</translation>
+        <translation>关闭所有工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1669"/>
         <source>Close all currently opened projects</source>
-        <translation type="unfinished"/>
+        <translation>关闭所有当前打开的工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1677"/>
@@ -4564,7 +4564,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <location filename="libs/librepcb/core/job/lppzoutputjob.cpp" line="40"/>
         <location filename="libs/librepcb/core/job/lppzoutputjob.h" line="66"/>
         <source>Project Archive</source>
-        <translation type="unfinished"/>
+        <translation>工程归档</translation>
     </message>
 </context>
 <context>
@@ -5569,7 +5569,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/core/job/projectjsonoutputjob.cpp" line="40"/>
         <location filename="libs/librepcb/core/job/projectjsonoutputjob.h" line="64"/>
         <source>Project Data</source>
-        <translation type="unfinished"/>
+        <translation>工程数据</translation>
     </message>
 </context>
 <context>
@@ -12498,7 +12498,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="265"/>
         <source>Scanning Libraries Failed</source>
-        <translation type="unfinished"/>
+        <translation>扫描库失败</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="266"/>
@@ -12997,7 +12997,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="17"/>
         <source>Select Libraries</source>
-        <translation type="unfinished"/>
+        <translation>选择库</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="20"/>
@@ -13017,7 +13017,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="49"/>
         <source>Select root directory of libraries</source>
-        <translation type="unfinished"/>
+        <translation>选择库的根目录</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.cpp" line="89"/>
@@ -13235,7 +13235,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="474"/>
         <source>Failed to fetch libraries from &apos;%1&apos;: %2</source>
-        <translation type="unfinished"/>
+        <translation>从 &apos;%1&apos; 获取库失败：%2</translation>
     </message>
 </context>
 <context>
@@ -14902,7 +14902,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="163"/>
         <source>The project &apos;%1&apos; has been migrated to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</source>
-        <translation type="unfinished"/>
+        <translation>工程 &apos;%1&apos; 已迁移至新的文件格式。保存后，将无法再使用旧版本的 LibrePCB 打开该文件！</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="169"/>
@@ -15142,7 +15142,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="14"/>
         <source>Project Setup</source>
-        <translation type="unfinished"/>
+        <translation>工程设置</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="24"/>
@@ -15195,8 +15195,8 @@ Afterwards the project library can be updated.</source>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="134"/>
         <source>Preferred Languages:
 (Highest priority at top)</source>
-        <translation>偏好的语言:
-(顶部为最高优先级)</translation>
+        <translation>首选语言：
+(最高优先级置顶)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="257"/>
@@ -16249,7 +16249,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="258"/>
         <source>Dismissed Messages:</source>
-        <translation type="unfinished"/>
+        <translation>已忽略的消息：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="279"/>
@@ -16260,8 +16260,8 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="288"/>
         <source>Preferred Languages:
 (Highest priority at top)</source>
-        <translation>偏好的语言:
-(顶部为最高优先级)</translation>
+        <translation>首选语言：
+(最高优先级置顶)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="296"/>
@@ -16398,19 +16398,19 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="176"/>
         <source>Click here to add a norm</source>
-        <translation type="unfinished"/>
+        <translation>单击此处添加规范</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="225"/>
         <source>Absolute path to the file to open</source>
         <comment>Decription for '{{FILEPATH}}' placeholder</comment>
-        <translation type="unfinished"/>
+        <translation>待打开文件的绝对路径</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="229"/>
         <source>URL to the file to open (file://)</source>
         <comment>Decription for '{{URL}}' placeholder</comment>
-        <translation type="unfinished"/>
+        <translation>待打开文件的 URL (file://)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="236"/>
@@ -16493,7 +16493,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="577"/>
         <source>Available placeholders:</source>
-        <translation type="unfinished"/>
+        <translation>可用占位符：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="632"/>
@@ -16518,12 +16518,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="655"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
-        <translation type="unfinished"/>
+        <translation>重置所有已永久忽略的消息（类似于 &quot;不再显示&quot;）以使其再次出现。</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="658"/>
         <source>Currently there are %1 dismissed message(s).</source>
-        <translation><numerusform>当前有 %1 条已关闭的消息。</numerusform></translation>
+        <translation><numerusform>当前有 %1 条已忽略的消息。</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="667"/>
@@ -16654,7 +16654,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="537"/>
         <source>Parsing libraries...</source>
-        <translation type="unfinished"/>
+        <translation>正在解析库...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="657"/>
@@ -16680,7 +16680,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="685"/>
         <source>Importing libraries...</source>
-        <translation type="unfinished"/>
+        <translation>正在导入库...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="784"/>
@@ -16815,7 +16815,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="263"/>
         <source>This is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text in our source code.</source>
-        <translation type="unfinished"/>
+        <translation>这是一个自由软件，遵循 GNU 通用公共许可证 (GPL) 第 3 版或更高版本发行。您可以在我们的源代码中找到完整的许可证文本。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="66"/>
@@ -18393,7 +18393,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="249"/>
         <source>Workspace Projects</source>
-        <translation type="unfinished"/>
+        <translation>工作区工程</translation>
     </message>
 </context>
 <context>
@@ -18401,7 +18401,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/hometab.slint" line="135"/>
         <source>Support the LibrePCB project with a donation to keep the development and maintenance ongoing ‒ Thank you!</source>
-        <translation>请捐款支持 LibrePCB 项目以维持其开发和维护 —— 感谢！</translation>
+        <translation>捐赠支持 LibrePCB 项目以维持其开发和维护 —— 感谢！</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/hometab.slint" line="38"/>
