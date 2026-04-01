@@ -1064,7 +1064,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="678"/>
         <source>via</source>
-        <translation type="unfinished"/>
+        <translation>过孔</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="680"/>
@@ -1084,7 +1084,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="686"/>
         <source>text</source>
-        <translation type="unfinished"/>
+        <translation>文本</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="761"/>
@@ -1697,7 +1697,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="142"/>
         <source>Via</source>
-        <translation type="unfinished"/>
+        <translation>过孔</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="144"/>
@@ -2122,7 +2122,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="257"/>
         <source>Grid Properties</source>
-        <translation type="unfinished"/>
+        <translation>栅格属性</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="258"/>
@@ -2262,7 +2262,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="402"/>
         <source>Text Input</source>
-        <translation>文字输入</translation>
+        <translation>文本输入</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="405"/>
@@ -2473,7 +2473,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="598"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>输出作业</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="599"/>
@@ -2658,7 +2658,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="767"/>
         <source>Snap to Grid</source>
-        <translation type="unfinished"/>
+        <translation>栅格捕捉</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="768"/>
@@ -2779,7 +2779,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="882"/>
         <source>Increase Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>增大栅格间距</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="883"/>
@@ -2789,7 +2789,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="896"/>
         <source>Decrease Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>减小栅格间距</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="897"/>
@@ -2874,7 +2874,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="976"/>
         <source>Draw Polygon</source>
-        <translation type="unfinished"/>
+        <translation>绘制多边形</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="977"/>
@@ -2904,7 +2904,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1003"/>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>添加文本</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1004"/>
@@ -2934,7 +2934,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1030"/>
         <source>Add Image</source>
-        <translation type="unfinished"/>
+        <translation>添加图像</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1031"/>
@@ -3054,7 +3054,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1138"/>
         <source>Draw Wire</source>
-        <translation>画线</translation>
+        <translation>绘制导线</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1139"/>
@@ -3064,7 +3064,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1148"/>
         <source>Draw Bus</source>
-        <translation type="unfinished"/>
+        <translation>绘制总线</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1149"/>
@@ -3074,7 +3074,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1157"/>
         <source>Add Label to Net or Bus</source>
-        <translation type="unfinished"/>
+        <translation>添加标签到网络或总线</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1158"/>
@@ -3084,7 +3084,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1166"/>
         <source>Add Component</source>
-        <translation type="unfinished"/>
+        <translation>添加元件</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1167"/>
@@ -3104,7 +3104,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1184"/>
         <source>Add Via</source>
-        <translation type="unfinished"/>
+        <translation>添加过孔</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1185"/>
@@ -3154,12 +3154,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1229"/>
         <source>Measure Distance</source>
-        <translation type="unfinished"/>
+        <translation>测量距离</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1230"/>
         <source>Measure the distance between two points</source>
-        <translation type="unfinished"/>
+        <translation>测量两点之间的距离</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1238"/>
@@ -5822,7 +5822,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="83"/>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="107"/>
         <source>Background/Grid</source>
-        <translation type="unfinished"/>
+        <translation>背景/栅格</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="84"/>
@@ -5861,7 +5861,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="90"/>
         <source>Net Labels</source>
-        <translation type="unfinished"/>
+        <translation>网络标签</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="91"/>
@@ -5871,7 +5871,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="92"/>
         <source>Bus Labels</source>
-        <translation type="unfinished"/>
+        <translation>总线标签</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/theme.cpp" line="93"/>
@@ -7326,7 +7326,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.ui" line="14"/>
         <source>Add Component</source>
-        <translation type="unfinished"/>
+        <translation>添加元件</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.ui" line="34"/>
@@ -7680,7 +7680,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2356"/>
         <source>Add devices to board</source>
-        <translation type="unfinished"/>
+        <translation>添加器件到电路板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2384"/>
@@ -7848,7 +7848,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_adddevice.cpp" line="172"/>
         <source>Add device to board</source>
-        <translation>向电路板添加器件</translation>
+        <translation>添加器件到电路板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_adddevice.cpp" line="190"/>
@@ -7909,7 +7909,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="312"/>
         <source>Add via to board</source>
-        <translation>添加一个过孔</translation>
+        <translation>添加过孔到电路板</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="333"/>
@@ -9475,7 +9475,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardpolygonadd.cpp" line="41"/>
         <source>Add polygon to board</source>
-        <translation>添加多边形</translation>
+        <translation>添加多边形到电路板</translation>
     </message>
 </context>
 <context>
@@ -9491,7 +9491,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardpolygonremove.cpp" line="41"/>
         <source>Remove polygon from board</source>
-        <translation>删除多边形</translation>
+        <translation>从电路板移除多边形</translation>
     </message>
 </context>
 <context>
@@ -9922,7 +9922,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdimageadd.cpp" line="42"/>
         <source>Add Image</source>
-        <translation type="unfinished"/>
+        <translation>添加文本</translation>
     </message>
 </context>
 <context>
@@ -10226,7 +10226,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbuslabeladd.cpp" line="41"/>
         <source>Add Bus Label</source>
-        <translation type="unfinished"/>
+        <translation>添加总线标签</translation>
     </message>
 </context>
 <context>
@@ -10291,7 +10291,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicimageadd.cpp" line="45"/>
         <source>Add Image to Schematic</source>
-        <translation type="unfinished"/>
+        <translation>添加文本到原理图</translation>
     </message>
 </context>
 <context>
@@ -10307,7 +10307,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicnetlabeladd.cpp" line="41"/>
         <source>Add Net Label</source>
-        <translation type="unfinished"/>
+        <translation>添加网络标签</translation>
     </message>
 </context>
 <context>
@@ -10315,7 +10315,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicnetlabeledit.cpp" line="41"/>
         <source>Edit netlabel</source>
-        <translation type="unfinished"/>
+        <translation>编辑网络标签</translation>
     </message>
 </context>
 <context>
@@ -10372,7 +10372,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicpolygonadd.cpp" line="41"/>
         <source>Add polygon to schematic</source>
-        <translation type="unfinished"/>
+        <translation>添加多边形到原理图</translation>
     </message>
 </context>
 <context>
@@ -10380,7 +10380,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicpolygonremove.cpp" line="42"/>
         <source>Remove polygon from schematic</source>
-        <translation type="unfinished"/>
+        <translation>从原理图移除多边形</translation>
     </message>
 </context>
 <context>
@@ -12786,7 +12786,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="128"/>
         <source>Directory is not empty!</source>
-        <translation type="unfinished"/>
+        <translation>目录非空！</translation>
     </message>
 </context>
 <context>
@@ -13700,7 +13700,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="23"/>
         <source>Add Sche&amp;matic</source>
-        <translation type="unfinished"/>
+        <translation>添加原理图(&amp;M)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="32"/>
@@ -13847,7 +13847,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="252"/>
         <source>The selected directory is not empty.</source>
-        <translation type="unfinished"/>
+        <translation>所选目录非空。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="275"/>
@@ -13941,7 +13941,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.ui" line="37"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>输出作业</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="58"/>
@@ -13979,12 +13979,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.ui" line="135"/>
         <source>Open the output directory</source>
-        <translation type="unfinished"/>
+        <translation>打开输出目录</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="55"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>输出作业</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="106"/>
@@ -13999,7 +13999,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="109"/>
         <source>Run all jobs</source>
-        <translation type="unfinished"/>
+        <translation>执行所有作业</translation>
     </message>
 </context>
 <context>
@@ -14007,7 +14007,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="14"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>输出作业</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="92"/>
@@ -15376,12 +15376,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="228"/>
         <source>Add Symbol to Schematic</source>
-        <translation>添加符号到原理图中</translation>
+        <translation>添加符号到原理图</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="398"/>
         <source>Add Component to Schematic</source>
-        <translation>添加元件到原理图中</translation>
+        <translation>添加元件到原理图</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="477"/>
@@ -15394,7 +15394,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addimage.cpp" line="232"/>
         <source>Add Schematic Image</source>
-        <translation type="unfinished"/>
+        <translation>添加原理图图像</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addimage.cpp" line="246"/>
@@ -15409,12 +15409,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="181"/>
         <source>Add Bus Label to Schematic</source>
-        <translation type="unfinished"/>
+        <translation>添加总线标签到原理图</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="195"/>
         <source>Add Net Label to Schematic</source>
-        <translation type="unfinished"/>
+        <translation>添加网络标签到原理图</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="220"/>
@@ -15461,7 +15461,7 @@ Afterwards the project library can be updated.</source>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="180"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="226"/>
         <source>Draw schematic polygon</source>
-        <translation type="unfinished"/>
+        <translation>绘制原理图多边形</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="196"/>
@@ -15729,7 +15729,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addimage.cpp" line="215"/>
         <source>Add Symbol Image</source>
-        <translation type="unfinished"/>
+        <translation>添加符号图像</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addimage.cpp" line="229"/>
@@ -15776,7 +15776,7 @@ Afterwards the project library can be updated.</source>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="248"/>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="340"/>
         <source>Add symbol polygon</source>
-        <translation type="unfinished"/>
+        <translation>添加符号多边形</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="262"/>
@@ -16343,12 +16343,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="695"/>
         <source>Schematic Grid:</source>
-        <translation type="unfinished"/>
+        <translation>原理图栅格：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="705"/>
         <source>Board Grid:</source>
-        <translation type="unfinished"/>
+        <translation>电路板栅格：</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="720"/>
@@ -16814,7 +16814,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="251"/>
         <source>License</source>
-        <translation type="unfinished"/>
+        <translation>许可协议</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="263"/>
@@ -17115,7 +17115,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="188"/>
         <source>Empty Schematics</source>
-        <translation type="unfinished"/>
+        <translation>空原理图</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="194"/>
@@ -19946,7 +19946,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="156"/>
         <source>In order to add components to this schematic, you first need to install some part libraries or create parts by yourself in your own library.</source>
-        <translation type="unfinished"/>
+        <translation>若要添加元件到此原理图，您需要先安装一些元件库或在自己的元件库中自行创建元件。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="162"/>
@@ -19956,7 +19956,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="176"/>
         <source>Learn how to create parts by yourself</source>
-        <translation>了解如何自己创建零件</translation>
+        <translation>了解如何自己创建元件</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="195"/>
@@ -19971,7 +19971,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="207"/>
         <source>Add Drawing Frame</source>
-        <translation type="unfinished"/>
+        <translation>添加图框</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="221"/>
@@ -20050,7 +20050,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/statusbar.slint" line="293"/>
         <source>Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>栅格间距</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/statusbar.slint" line="293"/>
@@ -20060,7 +20060,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/statusbar.slint" line="328"/>
         <source>Grid Style</source>
-        <translation type="unfinished"/>
+        <translation>栅格样式</translation>
     </message>
 </context>
 <context>
