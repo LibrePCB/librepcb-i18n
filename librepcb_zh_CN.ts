@@ -859,7 +859,7 @@
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentsymbolvariantitemsuffix.h" line="52"/>
         <source>Invalid component symbol suffix: &apos;%1&apos;</source>
-        <translation>无效的component 符号后缀: &apos;%1&apos;</translation>
+        <translation>无效的元件符号后缀：&apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -2323,7 +2323,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="453"/>
         <source>Import DXF</source>
-        <translation>导入DXF</translation>
+        <translation>导入 DXF</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="454"/>
@@ -2393,7 +2393,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="516"/>
         <source>Export PDF</source>
-        <translation>导出PDF</translation>
+        <translation>导出 PDF</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="517"/>
@@ -3685,17 +3685,17 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1716"/>
         <source>User Manual &amp;&amp; Tutorials</source>
-        <translation type="unfinished"/>
+        <translation>用户手册与教程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1717"/>
         <source>Open the online user manual in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>在网页浏览器中打开在线用户手册</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1725"/>
         <source>Give Feedback &amp;&amp; Get Support</source>
-        <translation type="unfinished"/>
+        <translation>提供反馈与获取支持</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1726"/>
@@ -3705,7 +3705,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1734"/>
         <source>Support the LibrePCB Project</source>
-        <translation type="unfinished"/>
+        <translation>支持 LibrePCB 项目</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1735"/>
@@ -5722,7 +5722,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="483"/>
         <source>Required</source>
-        <translation type="unfinished"/>
+        <translation>必填</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="485"/>
@@ -5742,7 +5742,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="526"/>
         <source>Suffix &apos;%1&apos; missing</source>
-        <translation type="unfinished"/>
+        <translation>缺少后缀 &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -6719,7 +6719,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/library/library.cpp" line="137"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>库目录名称必须带有后缀 &apos;.lplib&apos;。</translation>
     </message>
 </context>
 <context>
@@ -6930,7 +6930,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="69"/>
         <source>The suffix of the project file must be &quot;lpp&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>工程文件必须以 &quot;lpp&quot; 为后缀！</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="244"/>
@@ -12157,7 +12157,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="96"/>
         <source>Export PDF</source>
-        <translation>导出PDF</translation>
+        <translation>导出 PDF</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="99"/>
@@ -13604,7 +13604,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizard.ui" line="14"/>
         <source>Create New Project</source>
-        <translation>建立新工程</translation>
+        <translation>创建新工程</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizard.cpp" line="207"/>
@@ -16820,7 +16820,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="66"/>
         <source>LibrePCB is a free &amp; open source community project. It is operated by %1 with the support of many other contributors.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB 是一个免费且开源的社区项目。该项目由 %1 运营，并得到了众多其他贡献者的支持。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="67"/>
@@ -17305,7 +17305,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="155"/>
         <source>Suffix</source>
-        <translation type="unfinished"/>
+        <translation>后缀</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="164"/>
@@ -17426,7 +17426,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="198"/>
         <source>Required</source>
-        <translation type="unfinished"/>
+        <translation>必填</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="213"/>
@@ -17683,7 +17683,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="246"/>
         <source>Put library under the Public Domain License CC0-1.0\n(mandatory to publish it on librepcb.org)</source>
-        <translation type="unfinished"/>
+        <translation>库遵循公共领域许可证 CC0-1.0\n(必须在 librepcb.org 发布该库)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="275"/>
@@ -17708,7 +17708,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="67"/>
         <source>To import KiCad or Eagle libraries, create a new library called e.g. &apos;KiCad Import&apos; or &apos;Eagle Import&apos;. Then open the new library and start the import wizard via &apos;File -&gt; Import&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>若要导入 KiCad 或 Eagle 库，请创建一个新库，例如命名为 &apos;KiCad Import&apos; 或 &apos;Eagle Import&apos;。然后打开该新库，通过 &apos;文件 -&gt; 导入&apos; 启动导入向导。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="85"/>
@@ -18401,7 +18401,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/hometab.slint" line="135"/>
         <source>Support the LibrePCB project with a donation to keep the development and maintenance ongoing ‒ Thank you!</source>
-        <translation type="unfinished"/>
+        <translation>请捐款支持 LibrePCB 项目以维持其开发和维护 —— 感谢！</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/hometab.slint" line="38"/>
@@ -18421,7 +18421,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/hometab.slint" line="81"/>
         <source>User Manual &amp; Getting Started Guide</source>
-        <translation>用户手册和入门指南</translation>
+        <translation>用户手册与入门指南</translation>
     </message>
 </context>
 <context>
@@ -18511,7 +18511,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="663"/>
         <source>Apply %n Modification(s)</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>应用 %n 项更改</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="685"/>
@@ -18549,7 +18549,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="416"/>
         <source>No remote part libraries are currently installed. To get parts like resistors, LEDs, microcontrollers etc., choose some libraries to be downloaded from the internet.</source>
-        <translation type="unfinished"/>
+        <translation>当前未安装任何远程元件库。若要获取诸如电阻、LED、微控制器等元件，请选择一些要从互联网下载的库。</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="428"/>
