@@ -34,57 +34,6 @@
     </message>
 </context>
 <context>
-    <name>BGI_Pad</name>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="183"/>
-        <source>Pad:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="189"/>
-        <source>Signal:</source>
-        <translation>Сигнал:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_pad.cpp" line="195"/>
-        <source>Net:</source>
-        <translation>Мережа:</translation>
-    </message>
-</context>
-<context>
-    <name>BGI_Via</name>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="269"/>
-        <source>Through-Hole Via</source>
-        <translation>Сквозний перехідний отвір</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="271"/>
-        <source>Blind Via</source>
-        <translation>Глухий перехідний отвір</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="273"/>
-        <source>Buried Via</source>
-        <translation>Схований перехідний отвір</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="275"/>
-        <source>Net: %1</source>
-        <translation>Мережа: %1</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="277"/>
-        <source>Start Layer: %1</source>
-        <translation>Початковий шар: %1</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/graphicsitems/bgi_via.cpp" line="278"/>
-        <source>End Layer: %1</source>
-        <translation>Кінцевий шар: %1</translation>
-    </message>
-</context>
-<context>
     <name>Board3DOutputJob</name>
     <message>
         <location filename="libs/librepcb/core/job/board3doutputjob.cpp" line="39"/>
@@ -5648,29 +5597,6 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     </message>
 </context>
 <context>
-    <name>SGI_SymbolPin</name>
-    <message>
-        <location filename="libs/librepcb/editor/project/schematic/graphicsitems/sgi_symbolpin.cpp" line="270"/>
-        <source>Signal:</source>
-        <translation>Сигнал:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/schematic/graphicsitems/sgi_symbolpin.cpp" line="272"/>
-        <source>Net:</source>
-        <translation>Мережа:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/schematic/graphicsitems/sgi_symbolpin.cpp" line="278"/>
-        <source>Pin:</source>
-        <translation>Вивід:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/schematic/graphicsitems/sgi_symbolpin.cpp" line="279"/>
-        <source>Pad(s):</source>
-        <translation>Підкладка(и):</translation>
-    </message>
-</context>
-<context>
     <name>SerializableKeyValueMap</name>
     <message>
         <location filename="libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="91"/>
@@ -8030,105 +7956,162 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_Select</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="259"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="358"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="591"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="675"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="684"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="693"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="702"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="842"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="869"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="899"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1266"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1286"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1302"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1318"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1334"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1423"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1439"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1456"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1485"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1511"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1533"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="263"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="362"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="600"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="689"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="698"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="707"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="716"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="860"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="887"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="917"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1284"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1304"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1320"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1336"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1352"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1441"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1457"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1474"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1503"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1529"/>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1551"/>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1569"/>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1587"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1602"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1673"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1761"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1605"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1620"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1691"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1779"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="886"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="904"/>
         <source>None</source>
         <translation>Нічого</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1394"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1412"/>
         <source>Set Width</source>
         <translation>Встановити Ширину</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1600"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1618"/>
         <source>Copied to clipboard!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1614"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1632"/>
         <source>Paste board elements</source>
         <translation>Вставити елементи плати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1772"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1790"/>
         <source>Measurement Result</source>
         <translation>Результат вимірювання</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1774"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1792"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1782"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1800"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
         <translation>УВАГА: Вибрано %1 відрізків доріжки, але не всі з них з&apos;єднані!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1811"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1829"/>
         <source>Selected trace segments may not branch!</source>
         <translation>Обрані відрізки доріжки можуть не розходитись!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2159"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2309"/>
         <source>Net</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2160"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2312"/>
         <source>Class</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2161"/>
-        <source>Layer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2162"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2327"/>
         <source>Name</source>
         <translation>Назва</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2163"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2328"/>
         <source>Value</source>
         <translation>Значення</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2164"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2329"/>
+        <source>MPN</source>
+        <translation>MPN</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2337"/>
         <source>Package</source>
         <translation>Корпус</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2341"/>
+        <source>Pad</source>
+        <translation>Підкладка</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2345"/>
+        <source>Signal</source>
+        <translation>Сигнал</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2350"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2402"/>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2363"/>
+        <source>Slot</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2370"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2397"/>
+        <source>Drill</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2382"/>
+        <source>Layer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2387"/>
+        <source>Height</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2392"/>
+        <source>Width</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2409"/>
+        <source>Start Layer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2410"/>
+        <source>End Layer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2414"/>
+        <source>Position</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9884,7 +9867,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdDragSelectedBoardItems</name>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmddragselectedboarditems.cpp" line="66"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmddragselectedboarditems.cpp" line="67"/>
         <source>Drag Board Elements</source>
         <translation>Перетягнути елементи плати</translation>
     </message>
@@ -15566,61 +15549,76 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicEditorState_Select</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="340"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="486"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="517"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="526"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="535"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="793"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="814"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="835"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="855"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="871"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="889"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="916"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="935"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="950"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1033"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="345"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="491"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="522"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="531"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="540"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="798"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="819"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="840"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="860"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="876"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="894"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="921"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="940"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="955"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1038"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="948"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="953"/>
         <source>Copied to clipboard!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1013"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1018"/>
         <source>Paste Schematic Elements</source>
         <translation>Вставити Схемні Елементи</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1263"/>
-        <source>Signal</source>
-        <translation>Сигнал</translation>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1329"/>
+        <source>Name</source>
+        <translation>Назва</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1264"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1330"/>
+        <source>Value</source>
+        <translation>Значення</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1331"/>
+        <source>MPN</source>
+        <translation>MPN</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1342"/>
         <source>Net</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1265"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1345"/>
         <source>Class</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1266"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1349"/>
         <source>Bus</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1267"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1353"/>
+        <source>Signal</source>
+        <translation>Сигнал</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1355"/>
         <source>Pin</source>
         <translation>Вивід</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1268"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1356"/>
         <source>Pad(s)</source>
         <translation type="unfinished"/>
     </message>
@@ -17167,87 +17165,87 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="188"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="193"/>
         <source>Empty Schematics</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="194"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="199"/>
         <source>Only components existing in the schematics can be added to a board, but the schematics of this project are currently empty. Please draw the schematics first before starting with the board design.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="204"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="209"/>
         <source>Learn how to create schematics</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="223"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="228"/>
         <source>Set Up Design Rules</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="229"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="234"/>
         <source>Before starting with the board design, it is highly recommended to set up the design rules to be used for this board. Just choose one of the presets below, or manually specify the rules.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="252"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="257"/>
         <source>Default rules, suitable for most PCB manufacturers</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="326"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="331"/>
         <source>Get Started</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="332"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="337"/>
         <source>Start designing the board by placing all devices which are part of the schematics.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="342"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="347"/>
         <source>Select an unplaced component in the list.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="348"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="353"/>
         <source>Choose the desired device (which defines the package to use).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="354"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="359"/>
         <source>Choose the desired footprint variant if there are multiple.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="360"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="365"/>
         <source>Confirm with the button and place the device interactively with the cursor.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="367"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="372"/>
         <source>Place Devices</source>
         <translation>Розмістити пристрої</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="381"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="386"/>
         <source>Learn how to create boards</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="641"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="646"/>
         <source>Background Image</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="689"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="694"/>
         <source>DRC Messages: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="700"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="705"/>
         <source>Unplaced: %1</source>
         <translation type="unfinished"/>
     </message>
@@ -19510,32 +19508,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="764"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="769"/>
         <source>Helper Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="865"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="870"/>
         <source>Background Image</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="884"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="889"/>
         <source>Devices</source>
         <translation>Пристрої</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="897"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="902"/>
         <source>Solder Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="910"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="915"/>
         <source>Silkscreen</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="923"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="928"/>
         <source>Solder Resist</source>
         <translation type="unfinished"/>
     </message>
@@ -19574,42 +19572,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackagePadsEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="264"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="265"/>
         <source>Add all (potentially solderable) package pads which are electrically independent, no matter if they actually have an electrical function in a particular part.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="265"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="266"/>
         <source>For example, a thermal pad should be listed here, even though it may not have an electrical function.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="266"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="267"/>
         <source>Once the package is finished, it is *not* possible anymore to add or remove pads.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="272"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="273"/>
         <source>Important:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="283"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="284"/>
         <source>Add Pads:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="288"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="289"/>
         <source>Pad name (may contain ranges like \&quot;1..5\&quot;)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="336"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="337"/>
         <source>Finish</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="346"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="347"/>
         <source>Back</source>
         <translation type="unfinished"/>
     </message>
@@ -19617,22 +19615,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1086"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1091"/>
         <source>Metadata</source>
         <translation>Метадані</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1087"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1092"/>
         <source>Pads</source>
         <translation>Підкладки</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1088"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1093"/>
         <source>Footprints</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1089"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1094"/>
         <source>3D Models</source>
         <translation>3D Моделі</translation>
     </message>
@@ -19993,47 +19991,47 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="150"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="155"/>
         <source>No Libraries Installed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="156"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="161"/>
         <source>In order to add components to this schematic, you first need to install some part libraries or create parts by yourself in your own library.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="162"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="167"/>
         <source>Install Libraries</source>
         <translation>Встановити бібліотеки</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="176"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="181"/>
         <source>Learn how to create parts by yourself</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="195"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="200"/>
         <source>Get Started</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="201"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="206"/>
         <source>It&apos;s recommended to start a new schematic with adding a drawing frame to it. Then add other components the usual way with the toolbar at the left.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="207"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="212"/>
         <source>Add Drawing Frame</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="221"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="226"/>
         <source>Learn how to create schematics</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="498"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="503"/>
         <source>Pin Numbers</source>
         <translation>Номери Контактів</translation>
     </message>
@@ -20120,22 +20118,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="360"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="364"/>
         <source>Import Pins From Datasheet</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="366"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="370"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="372"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="376"/>
         <source>Import Pins</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="386"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="390"/>
         <source>Learn how to create symbols</source>
         <translation type="unfinished"/>
     </message>
@@ -20143,12 +20141,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="672"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="676"/>
         <source>Metadata</source>
         <translation>Метадані</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="673"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="677"/>
         <source>Graphics</source>
         <translation type="unfinished"/>
     </message>
